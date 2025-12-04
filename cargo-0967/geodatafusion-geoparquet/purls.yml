@@ -1,0 +1,3 @@
+- pkg:cargo/geodatafusion-geoparquet@0.1.0
+- pkg:cargo/geodatafusion-geoparquet@0.1.0-beta.2
+- pkg:cargo/geodatafusion-geoparquet@0.1.1

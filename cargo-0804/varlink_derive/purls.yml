@@ -1,0 +1,5 @@
+- pkg:cargo/varlink_derive@0.1.0
+- pkg:cargo/varlink_derive@12.0.0
+- pkg:cargo/varlink_derive@12.0.1
+- pkg:cargo/varlink_derive@13.0.0
+- pkg:cargo/varlink_derive@8.0.0

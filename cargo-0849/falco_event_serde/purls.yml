@@ -1,0 +1,2 @@
+- pkg:cargo/falco_event_serde@0.5.0
+- pkg:cargo/falco_event_serde@0.5.1
