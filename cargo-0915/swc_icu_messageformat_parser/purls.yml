@@ -1,0 +1,15 @@
+- pkg:cargo/swc_icu_messageformat_parser@1.0.0
+- pkg:cargo/swc_icu_messageformat_parser@1.0.1
+- pkg:cargo/swc_icu_messageformat_parser@10.0.0
+- pkg:cargo/swc_icu_messageformat_parser@11.0.0
+- pkg:cargo/swc_icu_messageformat_parser@12.0.0
+- pkg:cargo/swc_icu_messageformat_parser@2.0.0
+- pkg:cargo/swc_icu_messageformat_parser@3.0.0
+- pkg:cargo/swc_icu_messageformat_parser@3.0.1
+- pkg:cargo/swc_icu_messageformat_parser@3.0.2
+- pkg:cargo/swc_icu_messageformat_parser@4.0.0
+- pkg:cargo/swc_icu_messageformat_parser@5.0.0
+- pkg:cargo/swc_icu_messageformat_parser@6.0.0
+- pkg:cargo/swc_icu_messageformat_parser@7.0.0
+- pkg:cargo/swc_icu_messageformat_parser@8.0.0
+- pkg:cargo/swc_icu_messageformat_parser@9.0.0
