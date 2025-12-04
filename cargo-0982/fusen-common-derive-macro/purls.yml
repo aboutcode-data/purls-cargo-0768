@@ -1,0 +1,4 @@
+- pkg:cargo/fusen-common-derive-macro@0.8.0
+- pkg:cargo/fusen-common-derive-macro@0.8.11
+- pkg:cargo/fusen-common-derive-macro@0.8.2
+- pkg:cargo/fusen-common-derive-macro@0.8.3
