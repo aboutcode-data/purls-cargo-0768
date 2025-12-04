@@ -1,0 +1,8 @@
+- pkg:cargo/rust_icu_ucsdet@4.2.0
+- pkg:cargo/rust_icu_ucsdet@4.2.1
+- pkg:cargo/rust_icu_ucsdet@4.2.2
+- pkg:cargo/rust_icu_ucsdet@4.2.3
+- pkg:cargo/rust_icu_ucsdet@5.0.0
+- pkg:cargo/rust_icu_ucsdet@5.1.0
+- pkg:cargo/rust_icu_ucsdet@5.3.0
+- pkg:cargo/rust_icu_ucsdet@5.4.0

@@ -1,0 +1,2 @@
+- pkg:cargo/rustc-version-const@1.0.0
+- pkg:cargo/rustc-version-const@1.1.0
