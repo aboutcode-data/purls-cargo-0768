@@ -1,0 +1,2 @@
+- pkg:cargo/once_cell_no_std@0.1.0
+- pkg:cargo/once_cell_no_std@0.1.1
