@@ -1,0 +1,4 @@
+- pkg:cargo/triton-cli@0.48.0
+- pkg:cargo/triton-cli@0.49.0
+- pkg:cargo/triton-cli@0.50.0
+- pkg:cargo/triton-cli@1.0.0
