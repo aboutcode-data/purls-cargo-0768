@@ -1,0 +1,2 @@
+- pkg:cargo/egui_net_ffi@0.3.0
+- pkg:cargo/egui_net_ffi@0.4.0%2B0.33.2

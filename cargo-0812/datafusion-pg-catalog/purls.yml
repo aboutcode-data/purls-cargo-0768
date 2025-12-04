@@ -1,0 +1,6 @@
+- pkg:cargo/datafusion-pg-catalog@0.11.0
+- pkg:cargo/datafusion-pg-catalog@0.12.0
+- pkg:cargo/datafusion-pg-catalog@0.12.1
+- pkg:cargo/datafusion-pg-catalog@0.12.2
+- pkg:cargo/datafusion-pg-catalog@0.13.0
+- pkg:cargo/datafusion-pg-catalog@0.13.1

@@ -1,0 +1,4 @@
+- pkg:cargo/bevy_animation_bms_bindings@0.15.1
+- pkg:cargo/bevy_animation_bms_bindings@0.16.0
+- pkg:cargo/bevy_animation_bms_bindings@0.16.1
+- pkg:cargo/bevy_animation_bms_bindings@0.17.0
