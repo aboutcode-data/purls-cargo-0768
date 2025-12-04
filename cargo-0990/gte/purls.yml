@@ -1,3 +1,4 @@
 - pkg:cargo/gte@0.1.0
+- pkg:cargo/gte@0.10.1
 - pkg:cargo/gte@0.2.0
 - pkg:cargo/gte@0.2.1
