@@ -1,0 +1,9 @@
+- pkg:cargo/solana-relayer-adapter-rust@3.0.0
+- pkg:cargo/solana-relayer-adapter-rust@3.1.0
+- pkg:cargo/solana-relayer-adapter-rust@3.1.1
+- pkg:cargo/solana-relayer-adapter-rust@3.2.0
+- pkg:cargo/solana-relayer-adapter-rust@3.2.1
+- pkg:cargo/solana-relayer-adapter-rust@3.2.2
+- pkg:cargo/solana-relayer-adapter-rust@3.2.3
+- pkg:cargo/solana-relayer-adapter-rust@3.3.0
+- pkg:cargo/solana-relayer-adapter-rust@3.3.2

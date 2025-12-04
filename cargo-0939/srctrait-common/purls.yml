@@ -1,0 +1,4 @@
+- pkg:cargo/srctrait-common@0.0.0
+- pkg:cargo/srctrait-common@0.0.0-deprecated.1
+- pkg:cargo/srctrait-common@1.0.0
+- pkg:cargo/srctrait-common@1.0.1

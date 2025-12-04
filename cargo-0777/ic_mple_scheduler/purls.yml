@@ -1,0 +1,3 @@
+- pkg:cargo/ic_mple_scheduler@0.15.0
+- pkg:cargo/ic_mple_scheduler@0.16.0
+- pkg:cargo/ic_mple_scheduler@0.16.1
