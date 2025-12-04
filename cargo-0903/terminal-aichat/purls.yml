@@ -3,3 +3,5 @@
 - pkg:cargo/terminal-aichat@0.2.3
 - pkg:cargo/terminal-aichat@0.2.4
 - pkg:cargo/terminal-aichat@0.2.5
+- pkg:cargo/terminal-aichat@0.3.0
+- pkg:cargo/terminal-aichat@0.3.1
