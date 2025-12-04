@@ -1,0 +1,4 @@
+- pkg:cargo/openai-openapi-http@0.4.2
+- pkg:cargo/openai-openapi-http@0.5.0
+- pkg:cargo/openai-openapi-http@0.5.1
+- pkg:cargo/openai-openapi-http@0.6.0
