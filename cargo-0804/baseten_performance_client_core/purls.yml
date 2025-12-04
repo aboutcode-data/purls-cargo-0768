@@ -1,0 +1,3 @@
+- pkg:cargo/baseten_performance_client_core@0.0.10-rc0
+- pkg:cargo/baseten_performance_client_core@0.0.10-rc1
+- pkg:cargo/baseten_performance_client_core@0.0.11
