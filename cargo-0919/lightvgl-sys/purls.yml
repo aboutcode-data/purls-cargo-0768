@@ -1,0 +1,9 @@
+- pkg:cargo/lightvgl-sys@9.2.0
+- pkg:cargo/lightvgl-sys@9.2.1
+- pkg:cargo/lightvgl-sys@9.2.2
+- pkg:cargo/lightvgl-sys@9.3.0
+- pkg:cargo/lightvgl-sys@9.3.1
+- pkg:cargo/lightvgl-sys@9.3.2
+- pkg:cargo/lightvgl-sys@9.4.0
+- pkg:cargo/lightvgl-sys@9.4.1
+- pkg:cargo/lightvgl-sys@9.4.2
