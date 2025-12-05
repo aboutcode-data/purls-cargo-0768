@@ -1,1 +1,4 @@
 - pkg:cargo/soroban-address-payload-ext@0.0.1
+- pkg:cargo/soroban-address-payload-ext@1.0.0
+- pkg:cargo/soroban-address-payload-ext@1.0.1
+- pkg:cargo/soroban-address-payload-ext@1.0.2
