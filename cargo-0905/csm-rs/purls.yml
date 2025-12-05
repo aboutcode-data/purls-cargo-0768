@@ -44,3 +44,6 @@
 - pkg:cargo/csm-rs@0.93.0
 - pkg:cargo/csm-rs@0.94.0
 - pkg:cargo/csm-rs@0.94.1
+- pkg:cargo/csm-rs@0.94.2
+- pkg:cargo/csm-rs@0.94.3
+- pkg:cargo/csm-rs@0.95.0
