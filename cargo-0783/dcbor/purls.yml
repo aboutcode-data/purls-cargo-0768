@@ -36,6 +36,7 @@
 - pkg:cargo/dcbor@0.23.2
 - pkg:cargo/dcbor@0.23.3
 - pkg:cargo/dcbor@0.24.0
+- pkg:cargo/dcbor@0.24.1
 - pkg:cargo/dcbor@0.3.0
 - pkg:cargo/dcbor@0.3.1
 - pkg:cargo/dcbor@0.4.0

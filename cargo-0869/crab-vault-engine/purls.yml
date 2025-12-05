@@ -1,5 +1,6 @@
 - pkg:cargo/crab-vault-engine@0.2.11
 - pkg:cargo/crab-vault-engine@0.2.12
+- pkg:cargo/crab-vault-engine@0.2.13
 - pkg:cargo/crab-vault-engine@0.2.4
 - pkg:cargo/crab-vault-engine@0.2.5
 - pkg:cargo/crab-vault-engine@0.2.6
