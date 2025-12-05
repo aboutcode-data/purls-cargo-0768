@@ -6,3 +6,5 @@
 - pkg:cargo/openai-rust2@1.5.8
 - pkg:cargo/openai-rust2@1.5.9
 - pkg:cargo/openai-rust2@1.6.0
+- pkg:cargo/openai-rust2@1.7.0
+- pkg:cargo/openai-rust2@1.7.1
