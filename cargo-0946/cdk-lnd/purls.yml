@@ -11,6 +11,7 @@
 - pkg:cargo/cdk-lnd@0.13.4
 - pkg:cargo/cdk-lnd@0.14.0
 - pkg:cargo/cdk-lnd@0.14.1
+- pkg:cargo/cdk-lnd@0.14.2
 - pkg:cargo/cdk-lnd@0.14.2-rc.3
 - pkg:cargo/cdk-lnd@0.14.2-rc.5
 - pkg:cargo/cdk-lnd@0.3.0
