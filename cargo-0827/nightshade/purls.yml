@@ -22,6 +22,8 @@
 - pkg:cargo/nightshade@0.6.13
 - pkg:cargo/nightshade@0.6.14
 - pkg:cargo/nightshade@0.6.15
+- pkg:cargo/nightshade@0.6.16
+- pkg:cargo/nightshade@0.6.17
 - pkg:cargo/nightshade@0.6.2
 - pkg:cargo/nightshade@0.6.3
 - pkg:cargo/nightshade@0.6.4
