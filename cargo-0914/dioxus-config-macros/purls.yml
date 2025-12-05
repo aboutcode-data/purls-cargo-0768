@@ -9,3 +9,4 @@
 - pkg:cargo/dioxus-config-macros@0.7.0-rc.3
 - pkg:cargo/dioxus-config-macros@0.7.0-rc.4
 - pkg:cargo/dioxus-config-macros@0.7.1
+- pkg:cargo/dioxus-config-macros@0.7.2
