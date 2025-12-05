@@ -8,3 +8,4 @@
 - pkg:cargo/jsonwebkey@0.3.2
 - pkg:cargo/jsonwebkey@0.3.4
 - pkg:cargo/jsonwebkey@0.3.5
+- pkg:cargo/jsonwebkey@0.4.0
