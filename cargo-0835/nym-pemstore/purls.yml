@@ -1,3 +1,4 @@
 - pkg:cargo/nym-pemstore@0.1.0
 - pkg:cargo/nym-pemstore@0.2.0
 - pkg:cargo/nym-pemstore@0.3.0
+- pkg:cargo/nym-pemstore@1.20.0
