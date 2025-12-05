@@ -2,6 +2,7 @@
 - pkg:cargo/kovi-plugin-insight@0.1.10
 - pkg:cargo/kovi-plugin-insight@0.1.11
 - pkg:cargo/kovi-plugin-insight@0.1.12
+- pkg:cargo/kovi-plugin-insight@0.1.13
 - pkg:cargo/kovi-plugin-insight@0.1.2
 - pkg:cargo/kovi-plugin-insight@0.1.3
 - pkg:cargo/kovi-plugin-insight@0.1.4

@@ -40,6 +40,7 @@
 - pkg:cargo/ig-client@0.6.2
 - pkg:cargo/ig-client@0.7.0
 - pkg:cargo/ig-client@0.7.1
+- pkg:cargo/ig-client@0.7.10
 - pkg:cargo/ig-client@0.7.2
 - pkg:cargo/ig-client@0.7.3
 - pkg:cargo/ig-client@0.7.4

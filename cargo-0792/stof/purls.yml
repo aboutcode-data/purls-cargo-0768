@@ -156,6 +156,7 @@
 - pkg:cargo/stof@0.8.58
 - pkg:cargo/stof@0.8.59
 - pkg:cargo/stof@0.8.6
+- pkg:cargo/stof@0.8.60
 - pkg:cargo/stof@0.8.7
 - pkg:cargo/stof@0.8.8
 - pkg:cargo/stof@0.8.9
