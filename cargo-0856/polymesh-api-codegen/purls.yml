@@ -33,3 +33,4 @@
 - pkg:cargo/polymesh-api-codegen@3.6.4
 - pkg:cargo/polymesh-api-codegen@3.7.0
 - pkg:cargo/polymesh-api-codegen@3.7.1
+- pkg:cargo/polymesh-api-codegen@3.7.2

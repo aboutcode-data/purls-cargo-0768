@@ -7,3 +7,4 @@
 - pkg:cargo/oparl-web-service-axum@0.6.0
 - pkg:cargo/oparl-web-service-axum@0.6.1
 - pkg:cargo/oparl-web-service-axum@0.7.0
+- pkg:cargo/oparl-web-service-axum@0.8.0
