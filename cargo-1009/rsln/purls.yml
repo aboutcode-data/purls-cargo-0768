@@ -5,3 +5,5 @@
 - pkg:cargo/rsln@0.0.5
 - pkg:cargo/rsln@0.0.6
 - pkg:cargo/rsln@0.0.7
+- pkg:cargo/rsln@0.0.8
+- pkg:cargo/rsln@0.0.9
