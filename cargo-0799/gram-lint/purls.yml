@@ -1,3 +1,4 @@
 - pkg:cargo/gram-lint@0.1.0
 - pkg:cargo/gram-lint@0.2.5
 - pkg:cargo/gram-lint@0.2.6
+- pkg:cargo/gram-lint@0.2.7
