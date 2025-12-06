@@ -1,6 +1,7 @@
 - pkg:cargo/agpm-cli@0.4.10
 - pkg:cargo/agpm-cli@0.4.11
 - pkg:cargo/agpm-cli@0.4.12
+- pkg:cargo/agpm-cli@0.4.13
 - pkg:cargo/agpm-cli@0.4.2
 - pkg:cargo/agpm-cli@0.4.3
 - pkg:cargo/agpm-cli@0.4.4
