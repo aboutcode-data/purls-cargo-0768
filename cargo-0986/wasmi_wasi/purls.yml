@@ -50,6 +50,7 @@
 - pkg:cargo/wasmi_wasi@0.41.0
 - pkg:cargo/wasmi_wasi@0.41.1
 - pkg:cargo/wasmi_wasi@0.41.2
+- pkg:cargo/wasmi_wasi@0.41.3
 - pkg:cargo/wasmi_wasi@0.42.0
 - pkg:cargo/wasmi_wasi@0.42.1
 - pkg:cargo/wasmi_wasi@0.43.0
@@ -60,6 +61,7 @@
 - pkg:cargo/wasmi_wasi@0.46.0
 - pkg:cargo/wasmi_wasi@0.47.0
 - pkg:cargo/wasmi_wasi@0.47.1
+- pkg:cargo/wasmi_wasi@0.47.2
 - pkg:cargo/wasmi_wasi@0.48.0
 - pkg:cargo/wasmi_wasi@0.49.0
 - pkg:cargo/wasmi_wasi@0.49.1
@@ -68,5 +70,9 @@
 - pkg:cargo/wasmi_wasi@0.51.1
 - pkg:cargo/wasmi_wasi@0.51.2
 - pkg:cargo/wasmi_wasi@0.51.3
+- pkg:cargo/wasmi_wasi@0.51.4
+- pkg:cargo/wasmi_wasi@0.51.5
 - pkg:cargo/wasmi_wasi@1.0.0
 - pkg:cargo/wasmi_wasi@1.0.1
+- pkg:cargo/wasmi_wasi@1.0.2
+- pkg:cargo/wasmi_wasi@1.0.3

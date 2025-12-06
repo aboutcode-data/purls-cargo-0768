@@ -62,6 +62,7 @@
 - pkg:cargo/derive_atom_set@0.0.6-canary.97c8fd0dc2
 - pkg:cargo/derive_atom_set@0.0.6-canary.cb7dc0eed6
 - pkg:cargo/derive_atom_set@0.0.6-canary.d2b351c270
+- pkg:cargo/derive_atom_set@0.0.7
 - pkg:cargo/derive_atom_set@0.0.7-canary.477dda2a83
 - pkg:cargo/derive_atom_set@0.0.7-canary.5147d83ce7
 - pkg:cargo/derive_atom_set@0.0.7-canary.f08affa44d
