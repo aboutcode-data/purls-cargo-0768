@@ -25,3 +25,4 @@
 - pkg:cargo/cargo-insert-docs@0.8.0
 - pkg:cargo/cargo-insert-docs@0.9.0
 - pkg:cargo/cargo-insert-docs@1.0.0
+- pkg:cargo/cargo-insert-docs@1.1.0
