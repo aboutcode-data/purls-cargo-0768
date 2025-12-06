@@ -41,6 +41,7 @@
 - pkg:cargo/wellen@0.18.4
 - pkg:cargo/wellen@0.18.5
 - pkg:cargo/wellen@0.19.0
+- pkg:cargo/wellen@0.19.1
 - pkg:cargo/wellen@0.2.0
 - pkg:cargo/wellen@0.3.0
 - pkg:cargo/wellen@0.3.1

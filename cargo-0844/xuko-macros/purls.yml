@@ -1,2 +1,3 @@
 - pkg:cargo/xuko-macros@0.6.1
 - pkg:cargo/xuko-macros@0.7.0
+- pkg:cargo/xuko-macros@0.7.1
