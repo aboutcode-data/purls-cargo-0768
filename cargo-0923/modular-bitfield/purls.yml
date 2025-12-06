@@ -6,6 +6,7 @@
 - pkg:cargo/modular-bitfield@0.11.2
 - pkg:cargo/modular-bitfield@0.12.0
 - pkg:cargo/modular-bitfield@0.13.0
+- pkg:cargo/modular-bitfield@0.13.1
 - pkg:cargo/modular-bitfield@0.2.0
 - pkg:cargo/modular-bitfield@0.3.0
 - pkg:cargo/modular-bitfield@0.4.0
