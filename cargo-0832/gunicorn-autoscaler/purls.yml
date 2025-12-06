@@ -1,0 +1,2 @@
+- pkg:cargo/gunicorn-autoscaler@0.2.0
+- pkg:cargo/gunicorn-autoscaler@0.2.1
