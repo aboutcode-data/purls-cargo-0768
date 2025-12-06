@@ -21,3 +21,4 @@
 - pkg:cargo/kodegen_mcp_client@0.5.3
 - pkg:cargo/kodegen_mcp_client@0.5.4
 - pkg:cargo/kodegen_mcp_client@0.6.0
+- pkg:cargo/kodegen_mcp_client@0.8.0
