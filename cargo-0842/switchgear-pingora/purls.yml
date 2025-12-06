@@ -14,6 +14,7 @@
 - pkg:cargo/switchgear-pingora@0.1.22
 - pkg:cargo/switchgear-pingora@0.1.23
 - pkg:cargo/switchgear-pingora@0.1.24
+- pkg:cargo/switchgear-pingora@0.1.25
 - pkg:cargo/switchgear-pingora@0.1.5
 - pkg:cargo/switchgear-pingora@0.1.6
 - pkg:cargo/switchgear-pingora@0.1.7
