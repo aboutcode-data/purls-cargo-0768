@@ -1,3 +1,4 @@
+- pkg:cargo/wt-indexset@0.12.10
 - pkg:cargo/wt-indexset@0.12.4
 - pkg:cargo/wt-indexset@0.12.5
 - pkg:cargo/wt-indexset@0.12.6
