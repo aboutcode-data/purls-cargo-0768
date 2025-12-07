@@ -39,3 +39,4 @@
 - pkg:cargo/lp_parser_rs@2.5.2
 - pkg:cargo/lp_parser_rs@3.0.0
 - pkg:cargo/lp_parser_rs@3.0.1
+- pkg:cargo/lp_parser_rs@3.0.2
