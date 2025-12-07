@@ -48,3 +48,4 @@
 - pkg:cargo/csm-rs@0.94.3
 - pkg:cargo/csm-rs@0.95.0
 - pkg:cargo/csm-rs@0.95.1
+- pkg:cargo/csm-rs@0.95.2
