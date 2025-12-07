@@ -100,6 +100,7 @@
 - pkg:cargo/hyperlane-utils@12.7.8
 - pkg:cargo/hyperlane-utils@12.7.9
 - pkg:cargo/hyperlane-utils@12.8.0
+- pkg:cargo/hyperlane-utils@12.8.1
 - pkg:cargo/hyperlane-utils@2.0.0
 - pkg:cargo/hyperlane-utils@2.0.1
 - pkg:cargo/hyperlane-utils@2.0.2

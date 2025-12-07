@@ -11,3 +11,4 @@
 - pkg:cargo/cosmol_viewer_core@0.1.5-nightly.4
 - pkg:cargo/cosmol_viewer_core@0.1.5-nightly.5
 - pkg:cargo/cosmol_viewer_core@0.1.5-nightly.9
+- pkg:cargo/cosmol_viewer_core@0.1.7
