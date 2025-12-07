@@ -12,6 +12,7 @@
 - pkg:cargo/zino-axum@0.13.2
 - pkg:cargo/zino-axum@0.14.0
 - pkg:cargo/zino-axum@0.14.1
+- pkg:cargo/zino-axum@0.15.0
 - pkg:cargo/zino-axum@0.2.0
 - pkg:cargo/zino-axum@0.2.1
 - pkg:cargo/zino-axum@0.2.2
