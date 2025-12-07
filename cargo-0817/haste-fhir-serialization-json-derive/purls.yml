@@ -1,2 +1,3 @@
 - pkg:cargo/haste-fhir-serialization-json-derive@0.1.1
 - pkg:cargo/haste-fhir-serialization-json-derive@0.2.0
+- pkg:cargo/haste-fhir-serialization-json-derive@0.2.1
