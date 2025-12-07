@@ -91,6 +91,7 @@
 - pkg:cargo/vtcode-config@0.46.0
 - pkg:cargo/vtcode-config@0.47.0
 - pkg:cargo/vtcode-config@0.47.1
+- pkg:cargo/vtcode-config@0.47.10
 - pkg:cargo/vtcode-config@0.47.2
 - pkg:cargo/vtcode-config@0.47.3
 - pkg:cargo/vtcode-config@0.47.4
