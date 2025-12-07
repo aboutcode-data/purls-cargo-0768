@@ -81,4 +81,5 @@
 - pkg:cargo/pistoncore-glfw_window@0.8.0
 - pkg:cargo/pistoncore-glfw_window@0.80.0
 - pkg:cargo/pistoncore-glfw_window@0.81.0
+- pkg:cargo/pistoncore-glfw_window@0.82.0
 - pkg:cargo/pistoncore-glfw_window@0.9.0
