@@ -16,6 +16,7 @@
 - pkg:cargo/polkadot-node-core-pvf-prepare-worker@20.0.0
 - pkg:cargo/polkadot-node-core-pvf-prepare-worker@21.0.0
 - pkg:cargo/polkadot-node-core-pvf-prepare-worker@22.0.0
+- pkg:cargo/polkadot-node-core-pvf-prepare-worker@23.0.0
 - pkg:cargo/polkadot-node-core-pvf-prepare-worker@3.0.0
 - pkg:cargo/polkadot-node-core-pvf-prepare-worker@3.0.0-dev.1
 - pkg:cargo/polkadot-node-core-pvf-prepare-worker@4.0.0

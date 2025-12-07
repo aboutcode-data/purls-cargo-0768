@@ -31,6 +31,7 @@
 - pkg:cargo/staging-xcm@19.0.0
 - pkg:cargo/staging-xcm@2.0.0
 - pkg:cargo/staging-xcm@2.0.1
+- pkg:cargo/staging-xcm@20.0.0
 - pkg:cargo/staging-xcm@3.0.0
 - pkg:cargo/staging-xcm@3.0.0-dev.1
 - pkg:cargo/staging-xcm@3.0.1
