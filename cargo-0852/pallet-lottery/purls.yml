@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-lottery@41.0.0
 - pkg:cargo/pallet-lottery@42.0.0
 - pkg:cargo/pallet-lottery@43.0.0
+- pkg:cargo/pallet-lottery@44.0.0
 - pkg:cargo/pallet-lottery@5.0.0
 - pkg:cargo/pallet-lottery@6.0.0
 - pkg:cargo/pallet-lottery@7.0.0

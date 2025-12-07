@@ -13,6 +13,7 @@
 - pkg:cargo/pallet-asset-rate@20.0.0
 - pkg:cargo/pallet-asset-rate@21.0.0
 - pkg:cargo/pallet-asset-rate@22.0.0
+- pkg:cargo/pallet-asset-rate@23.0.0
 - pkg:cargo/pallet-asset-rate@4.0.0
 - pkg:cargo/pallet-asset-rate@5.0.0
 - pkg:cargo/pallet-asset-rate@6.0.0

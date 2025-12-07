@@ -55,6 +55,7 @@
 - pkg:cargo/pallet-identity@41.0.0
 - pkg:cargo/pallet-identity@42.0.0
 - pkg:cargo/pallet-identity@43.0.0
+- pkg:cargo/pallet-identity@44.0.0
 - pkg:cargo/pallet-identity@5.0.0
 - pkg:cargo/pallet-identity@6.0.0
 - pkg:cargo/pallet-identity@7.0.0

@@ -26,3 +26,4 @@
 - pkg:cargo/libsyd@3.6.1
 - pkg:cargo/libsyd@3.7.0
 - pkg:cargo/libsyd@3.8.0
+- pkg:cargo/libsyd@3.9.0

@@ -38,6 +38,7 @@
 - pkg:cargo/pallet-election-provider-support-benchmarking@40.0.0
 - pkg:cargo/pallet-election-provider-support-benchmarking@41.0.0
 - pkg:cargo/pallet-election-provider-support-benchmarking@42.0.0
+- pkg:cargo/pallet-election-provider-support-benchmarking@43.0.0
 - pkg:cargo/pallet-election-provider-support-benchmarking@5.0.0
 - pkg:cargo/pallet-election-provider-support-benchmarking@6.0.0
 - pkg:cargo/pallet-election-provider-support-benchmarking@7.0.0
