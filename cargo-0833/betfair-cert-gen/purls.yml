@@ -17,3 +17,4 @@
 - pkg:cargo/betfair-cert-gen@0.6.5
 - pkg:cargo/betfair-cert-gen@0.6.6
 - pkg:cargo/betfair-cert-gen@0.6.7
+- pkg:cargo/betfair-cert-gen@0.6.8
