@@ -1,3 +1,5 @@
+- pkg:cargo/dano@0.10.0
+- pkg:cargo/dano@0.10.1
 - pkg:cargo/dano@0.4.10
 - pkg:cargo/dano@0.4.4
 - pkg:cargo/dano@0.4.5
