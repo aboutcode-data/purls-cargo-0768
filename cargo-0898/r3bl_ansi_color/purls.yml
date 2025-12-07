@@ -15,3 +15,4 @@
 - pkg:cargo/r3bl_ansi_color@0.6.8
 - pkg:cargo/r3bl_ansi_color@0.6.9
 - pkg:cargo/r3bl_ansi_color@0.7.0
+- pkg:cargo/r3bl_ansi_color@0.8.0
