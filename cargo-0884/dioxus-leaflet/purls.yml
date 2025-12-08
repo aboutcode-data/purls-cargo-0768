@@ -10,3 +10,4 @@
 - pkg:cargo/dioxus-leaflet@0.1.8-rc.2
 - pkg:cargo/dioxus-leaflet@0.2.0
 - pkg:cargo/dioxus-leaflet@0.2.1
+- pkg:cargo/dioxus-leaflet@0.3.0
