@@ -8,3 +8,5 @@
 - pkg:cargo/greentic-runner-desktop@0.4.2
 - pkg:cargo/greentic-runner-desktop@0.4.4
 - pkg:cargo/greentic-runner-desktop@0.4.5
+- pkg:cargo/greentic-runner-desktop@0.4.6
+- pkg:cargo/greentic-runner-desktop@0.4.7
