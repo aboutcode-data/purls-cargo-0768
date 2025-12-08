@@ -1,5 +1,6 @@
 - pkg:cargo/oxc_transform_napi@0.100.0
 - pkg:cargo/oxc_transform_napi@0.101.0
+- pkg:cargo/oxc_transform_napi@0.102.0
 - pkg:cargo/oxc_transform_napi@0.16.2
 - pkg:cargo/oxc_transform_napi@0.16.3
 - pkg:cargo/oxc_transform_napi@0.17.0
