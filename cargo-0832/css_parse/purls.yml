@@ -172,4 +172,7 @@
 - pkg:cargo/css_parse@0.0.7-canary.477dda2a83
 - pkg:cargo/css_parse@0.0.7-canary.5147d83ce7
 - pkg:cargo/css_parse@0.0.7-canary.f08affa44d
+- pkg:cargo/css_parse@0.0.8-canary.649fbec55a
+- pkg:cargo/css_parse@0.0.8-canary.8e0f4afca8
+- pkg:cargo/css_parse@0.0.8-canary.c64f28809d
 - pkg:cargo/css_parse@0.0.8-canary.df248aa3cf

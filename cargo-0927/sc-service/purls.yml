@@ -46,6 +46,7 @@
 - pkg:cargo/sc-service@0.52.0
 - pkg:cargo/sc-service@0.53.0
 - pkg:cargo/sc-service@0.54.0
+- pkg:cargo/sc-service@0.55.0
 - pkg:cargo/sc-service@0.8.0
 - pkg:cargo/sc-service@0.8.0-alpha.3
 - pkg:cargo/sc-service@0.8.0-alpha.5
