@@ -102,3 +102,4 @@
 - pkg:cargo/rnacos@0.7.7-beta
 - pkg:cargo/rnacos@0.7.7-beta2
 - pkg:cargo/rnacos@0.7.8
+- pkg:cargo/rnacos@0.7.9
