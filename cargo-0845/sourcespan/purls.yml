@@ -12,6 +12,7 @@
 - pkg:cargo/sourcespan@0.10.9
 - pkg:cargo/sourcespan@0.11.0
 - pkg:cargo/sourcespan@0.11.1
+- pkg:cargo/sourcespan@0.11.10
 - pkg:cargo/sourcespan@0.11.2
 - pkg:cargo/sourcespan@0.11.3
 - pkg:cargo/sourcespan@0.11.4
