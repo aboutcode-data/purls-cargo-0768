@@ -12,3 +12,5 @@
 - pkg:cargo/light-prover-client@2.0.0
 - pkg:cargo/light-prover-client@3.0.0
 - pkg:cargo/light-prover-client@4.0.0
+- pkg:cargo/light-prover-client@5.0.0
+- pkg:cargo/light-prover-client@5.0.1
