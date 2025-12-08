@@ -18,6 +18,7 @@
 - pkg:cargo/polkadot-node-metrics@24.0.0
 - pkg:cargo/polkadot-node-metrics@25.0.0
 - pkg:cargo/polkadot-node-metrics@26.0.0
+- pkg:cargo/polkadot-node-metrics@27.0.0
 - pkg:cargo/polkadot-node-metrics@3.0.0
 - pkg:cargo/polkadot-node-metrics@3.0.0-dev.1
 - pkg:cargo/polkadot-node-metrics@4.0.0
