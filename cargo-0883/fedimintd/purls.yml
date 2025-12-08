@@ -80,5 +80,6 @@
 - pkg:cargo/fedimintd@0.9.0-beta.2
 - pkg:cargo/fedimintd@0.9.0-rc.0
 - pkg:cargo/fedimintd@0.9.0-rc.1
+- pkg:cargo/fedimintd@0.9.1
 - pkg:cargo/fedimintd@0.9.1-beta.0
 - pkg:cargo/fedimintd@0.9.1-rc.0
