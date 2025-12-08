@@ -7,3 +7,4 @@
 - pkg:cargo/test_findex_server@0.4.6
 - pkg:cargo/test_findex_server@0.4.7
 - pkg:cargo/test_findex_server@0.4.8
+- pkg:cargo/test_findex_server@0.4.9
