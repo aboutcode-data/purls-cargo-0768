@@ -35,3 +35,4 @@
 - pkg:cargo/static-web-server@2.38.1
 - pkg:cargo/static-web-server@2.39.0
 - pkg:cargo/static-web-server@2.40.0
+- pkg:cargo/static-web-server@2.40.1

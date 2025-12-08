@@ -127,6 +127,7 @@
 - pkg:cargo/stak-macro@0.11.11
 - pkg:cargo/stak-macro@0.11.12
 - pkg:cargo/stak-macro@0.11.13
+- pkg:cargo/stak-macro@0.11.14
 - pkg:cargo/stak-macro@0.11.2
 - pkg:cargo/stak-macro@0.11.3
 - pkg:cargo/stak-macro@0.11.4
