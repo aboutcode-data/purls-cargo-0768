@@ -17,6 +17,7 @@
 - pkg:cargo/polkadot-node-core-chain-api@24.0.0
 - pkg:cargo/polkadot-node-core-chain-api@25.0.0
 - pkg:cargo/polkadot-node-core-chain-api@26.0.0
+- pkg:cargo/polkadot-node-core-chain-api@27.0.0
 - pkg:cargo/polkadot-node-core-chain-api@3.0.0
 - pkg:cargo/polkadot-node-core-chain-api@3.0.0-dev.1
 - pkg:cargo/polkadot-node-core-chain-api@4.0.0
