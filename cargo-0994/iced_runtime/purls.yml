@@ -6,3 +6,4 @@
 - pkg:cargo/iced_runtime@0.13.0
 - pkg:cargo/iced_runtime@0.13.1
 - pkg:cargo/iced_runtime@0.13.2
+- pkg:cargo/iced_runtime@0.14.0

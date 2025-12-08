@@ -8,6 +8,7 @@
 - pkg:cargo/iced_winit@0.12.1
 - pkg:cargo/iced_winit@0.12.2
 - pkg:cargo/iced_winit@0.13.0
+- pkg:cargo/iced_winit@0.14.0
 - pkg:cargo/iced_winit@0.2.0
 - pkg:cargo/iced_winit@0.3.0
 - pkg:cargo/iced_winit@0.4.0

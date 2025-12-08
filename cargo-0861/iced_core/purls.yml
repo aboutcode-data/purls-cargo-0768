@@ -8,6 +8,7 @@
 - pkg:cargo/iced_core@0.13.0
 - pkg:cargo/iced_core@0.13.1
 - pkg:cargo/iced_core@0.13.2
+- pkg:cargo/iced_core@0.14.0
 - pkg:cargo/iced_core@0.2.0
 - pkg:cargo/iced_core@0.2.1
 - pkg:cargo/iced_core@0.3.0

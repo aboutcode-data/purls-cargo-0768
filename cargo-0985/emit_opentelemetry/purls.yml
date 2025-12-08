@@ -28,3 +28,4 @@
 - pkg:cargo/emit_opentelemetry@0.29.1
 - pkg:cargo/emit_opentelemetry@0.29.2
 - pkg:cargo/emit_opentelemetry@0.30.0
+- pkg:cargo/emit_opentelemetry@0.31.0
