@@ -4,3 +4,4 @@
 - pkg:cargo/yaml-include@0.5.0
 - pkg:cargo/yaml-include@0.6.0
 - pkg:cargo/yaml-include@0.7.0
+- pkg:cargo/yaml-include@0.7.1
