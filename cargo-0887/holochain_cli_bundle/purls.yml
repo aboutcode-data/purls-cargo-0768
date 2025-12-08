@@ -296,3 +296,4 @@
 - pkg:cargo/holochain_cli_bundle@0.7.0-dev.0
 - pkg:cargo/holochain_cli_bundle@0.7.0-dev.1
 - pkg:cargo/holochain_cli_bundle@0.7.0-dev.2
+- pkg:cargo/holochain_cli_bundle@0.7.0-dev.3
