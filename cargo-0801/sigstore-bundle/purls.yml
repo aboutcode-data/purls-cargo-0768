@@ -4,3 +4,4 @@
 - pkg:cargo/sigstore-bundle@0.3.0
 - pkg:cargo/sigstore-bundle@0.4.0
 - pkg:cargo/sigstore-bundle@0.5.0
+- pkg:cargo/sigstore-bundle@0.6.0

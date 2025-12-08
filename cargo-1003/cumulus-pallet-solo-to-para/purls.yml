@@ -16,6 +16,7 @@
 - pkg:cargo/cumulus-pallet-solo-to-para@0.21.0
 - pkg:cargo/cumulus-pallet-solo-to-para@0.22.0
 - pkg:cargo/cumulus-pallet-solo-to-para@0.23.0
+- pkg:cargo/cumulus-pallet-solo-to-para@0.24.0
 - pkg:cargo/cumulus-pallet-solo-to-para@0.3.0
 - pkg:cargo/cumulus-pallet-solo-to-para@0.3.0-dev.1
 - pkg:cargo/cumulus-pallet-solo-to-para@0.4.0
