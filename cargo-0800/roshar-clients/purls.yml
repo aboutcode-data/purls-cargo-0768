@@ -1,5 +1,6 @@
 - pkg:cargo/roshar-clients@0.1.1
 - pkg:cargo/roshar-clients@0.1.2-rc.1
+- pkg:cargo/roshar-clients@0.1.2-rc.10
 - pkg:cargo/roshar-clients@0.1.2-rc.2
 - pkg:cargo/roshar-clients@0.1.2-rc.3
 - pkg:cargo/roshar-clients@0.1.2-rc.4
