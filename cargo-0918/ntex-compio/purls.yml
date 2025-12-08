@@ -11,3 +11,5 @@
 - pkg:cargo/ntex-compio@0.5.0
 - pkg:cargo/ntex-compio@3.0.0
 - pkg:cargo/ntex-compio@3.0.0-pre.0
+- pkg:cargo/ntex-compio@3.1.0
+- pkg:cargo/ntex-compio@3.2.0
