@@ -16,6 +16,8 @@
 - pkg:cargo/iced_layershell_macros@0.13.5
 - pkg:cargo/iced_layershell_macros@0.13.6
 - pkg:cargo/iced_layershell_macros@0.13.7
+- pkg:cargo/iced_layershell_macros@0.14.0-beta1
+- pkg:cargo/iced_layershell_macros@0.14.0-beta2
 - pkg:cargo/iced_layershell_macros@0.7.0
 - pkg:cargo/iced_layershell_macros@0.7.0-rc1
 - pkg:cargo/iced_layershell_macros@0.7.1

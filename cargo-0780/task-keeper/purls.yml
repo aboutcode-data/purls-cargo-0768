@@ -46,6 +46,7 @@
 - pkg:cargo/task-keeper@0.30.5
 - pkg:cargo/task-keeper@0.30.7
 - pkg:cargo/task-keeper@0.30.8
+- pkg:cargo/task-keeper@0.30.9
 - pkg:cargo/task-keeper@0.4.0
 - pkg:cargo/task-keeper@0.5.0
 - pkg:cargo/task-keeper@0.5.1
