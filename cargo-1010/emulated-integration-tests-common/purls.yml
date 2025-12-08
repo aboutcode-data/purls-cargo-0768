@@ -26,6 +26,7 @@
 - pkg:cargo/emulated-integration-tests-common@23.0.0
 - pkg:cargo/emulated-integration-tests-common@24.0.0
 - pkg:cargo/emulated-integration-tests-common@25.0.0
+- pkg:cargo/emulated-integration-tests-common@26.0.0
 - pkg:cargo/emulated-integration-tests-common@3.0.0
 - pkg:cargo/emulated-integration-tests-common@4.0.0
 - pkg:cargo/emulated-integration-tests-common@5.0.0

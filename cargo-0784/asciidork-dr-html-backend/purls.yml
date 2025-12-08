@@ -28,6 +28,7 @@
 - pkg:cargo/asciidork-dr-html-backend@0.25.0
 - pkg:cargo/asciidork-dr-html-backend@0.26.0
 - pkg:cargo/asciidork-dr-html-backend@0.27.0
+- pkg:cargo/asciidork-dr-html-backend@0.28.0
 - pkg:cargo/asciidork-dr-html-backend@0.3.0
 - pkg:cargo/asciidork-dr-html-backend@0.3.1
 - pkg:cargo/asciidork-dr-html-backend@0.3.3
