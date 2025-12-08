@@ -117,6 +117,7 @@
 - pkg:cargo/retrom-plugin-launcher@0.7.39
 - pkg:cargo/retrom-plugin-launcher@0.7.4
 - pkg:cargo/retrom-plugin-launcher@0.7.45
+- pkg:cargo/retrom-plugin-launcher@0.7.46
 - pkg:cargo/retrom-plugin-launcher@0.7.5
 - pkg:cargo/retrom-plugin-launcher@0.7.6
 - pkg:cargo/retrom-plugin-launcher@0.7.7
