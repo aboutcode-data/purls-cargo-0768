@@ -18,6 +18,7 @@
 - pkg:cargo/rustdds@0.11.5
 - pkg:cargo/rustdds@0.11.6
 - pkg:cargo/rustdds@0.11.7
+- pkg:cargo/rustdds@0.11.8
 - pkg:cargo/rustdds@0.2.2
 - pkg:cargo/rustdds@0.2.3
 - pkg:cargo/rustdds@0.2.4

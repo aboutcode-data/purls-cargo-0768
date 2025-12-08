@@ -185,6 +185,7 @@
 - pkg:cargo/ra_ap_hir_def@0.0.306
 - pkg:cargo/ra_ap_hir_def@0.0.307
 - pkg:cargo/ra_ap_hir_def@0.0.308
+- pkg:cargo/ra_ap_hir_def@0.0.309
 - pkg:cargo/ra_ap_hir_def@0.0.32
 - pkg:cargo/ra_ap_hir_def@0.0.33
 - pkg:cargo/ra_ap_hir_def@0.0.34
