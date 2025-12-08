@@ -1,4 +1,6 @@
 - pkg:cargo/macroforge_ts@0.1.10
+- pkg:cargo/macroforge_ts@0.1.11
+- pkg:cargo/macroforge_ts@0.1.12
 - pkg:cargo/macroforge_ts@0.1.5
 - pkg:cargo/macroforge_ts@0.1.6
 - pkg:cargo/macroforge_ts@0.1.7
