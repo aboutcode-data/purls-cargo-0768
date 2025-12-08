@@ -3,6 +3,7 @@
 - pkg:cargo/reqwest_client@0.1.11
 - pkg:cargo/reqwest_client@0.1.12
 - pkg:cargo/reqwest_client@0.1.13
+- pkg:cargo/reqwest_client@0.1.14
 - pkg:cargo/reqwest_client@0.1.2
 - pkg:cargo/reqwest_client@0.1.4
 - pkg:cargo/reqwest_client@0.1.5
