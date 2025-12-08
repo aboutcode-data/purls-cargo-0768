@@ -7,3 +7,5 @@
 - pkg:cargo/iris_net@0.2.5
 - pkg:cargo/iris_net@0.2.6
 - pkg:cargo/iris_net@0.2.7
+- pkg:cargo/iris_net@0.3.0
+- pkg:cargo/iris_net@0.3.1
