@@ -17,6 +17,7 @@
 - pkg:cargo/rl-core@1.15.0
 - pkg:cargo/rl-core@1.16.0
 - pkg:cargo/rl-core@1.17.0
+- pkg:cargo/rl-core@1.18.0
 - pkg:cargo/rl-core@1.2.0
 - pkg:cargo/rl-core@1.4.0
 - pkg:cargo/rl-core@1.7.0
