@@ -224,7 +224,9 @@
 - pkg:cargo/csskit_derives@0.0.7-canary.477dda2a83
 - pkg:cargo/csskit_derives@0.0.7-canary.5147d83ce7
 - pkg:cargo/csskit_derives@0.0.7-canary.f08affa44d
+- pkg:cargo/csskit_derives@0.0.8-canary.2e8d676fb2
 - pkg:cargo/csskit_derives@0.0.8-canary.649fbec55a
 - pkg:cargo/csskit_derives@0.0.8-canary.8e0f4afca8
+- pkg:cargo/csskit_derives@0.0.8-canary.997ed21bde
 - pkg:cargo/csskit_derives@0.0.8-canary.c64f28809d
 - pkg:cargo/csskit_derives@0.0.8-canary.df248aa3cf
