@@ -18,6 +18,7 @@
 - pkg:cargo/polkadot-node-core-dispute-coordinator@24.0.0
 - pkg:cargo/polkadot-node-core-dispute-coordinator@25.0.0
 - pkg:cargo/polkadot-node-core-dispute-coordinator@26.0.0
+- pkg:cargo/polkadot-node-core-dispute-coordinator@27.0.0
 - pkg:cargo/polkadot-node-core-dispute-coordinator@3.0.0
 - pkg:cargo/polkadot-node-core-dispute-coordinator@3.0.0-dev.1
 - pkg:cargo/polkadot-node-core-dispute-coordinator@4.0.0

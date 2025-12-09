@@ -1,4 +1,5 @@
 - pkg:cargo/storekey-derive@0.10.0
+- pkg:cargo/storekey-derive@0.11.0
 - pkg:cargo/storekey-derive@0.7.0
 - pkg:cargo/storekey-derive@0.8.0
 - pkg:cargo/storekey-derive@0.8.1
