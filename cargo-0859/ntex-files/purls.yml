@@ -7,4 +7,5 @@
 - pkg:cargo/ntex-files@1.0.0
 - pkg:cargo/ntex-files@2.0.0
 - pkg:cargo/ntex-files@2.1.0
+- pkg:cargo/ntex-files@3.0.0
 - pkg:cargo/ntex-files@3.0.0-pre.0
