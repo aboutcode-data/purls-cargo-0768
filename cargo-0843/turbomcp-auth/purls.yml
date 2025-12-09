@@ -19,3 +19,4 @@
 - pkg:cargo/turbomcp-auth@2.3.0
 - pkg:cargo/turbomcp-auth@2.3.0-rc
 - pkg:cargo/turbomcp-auth@2.3.1
+- pkg:cargo/turbomcp-auth@2.3.2

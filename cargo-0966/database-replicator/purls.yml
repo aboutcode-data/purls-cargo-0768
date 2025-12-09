@@ -19,3 +19,4 @@
 - pkg:cargo/database-replicator@6.0.2
 - pkg:cargo/database-replicator@6.0.3
 - pkg:cargo/database-replicator@6.0.6
+- pkg:cargo/database-replicator@7.0.4

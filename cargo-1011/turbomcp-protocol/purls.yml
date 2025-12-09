@@ -42,3 +42,4 @@
 - pkg:cargo/turbomcp-protocol@2.3.0
 - pkg:cargo/turbomcp-protocol@2.3.0-rc
 - pkg:cargo/turbomcp-protocol@2.3.1
+- pkg:cargo/turbomcp-protocol@2.3.2
