@@ -90,6 +90,7 @@
 - pkg:cargo/feldera-types@0.200.0
 - pkg:cargo/feldera-types@0.201.0
 - pkg:cargo/feldera-types@0.202.0
+- pkg:cargo/feldera-types@0.203.0
 - pkg:cargo/feldera-types@0.26.0
 - pkg:cargo/feldera-types@0.27.0
 - pkg:cargo/feldera-types@0.28.0
