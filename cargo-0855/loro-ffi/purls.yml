@@ -1,5 +1,6 @@
 - pkg:cargo/loro-ffi@1.10.0
 - pkg:cargo/loro-ffi@1.10.1
+- pkg:cargo/loro-ffi@1.10.3
 - pkg:cargo/loro-ffi@1.5.10
 - pkg:cargo/loro-ffi@1.5.11
 - pkg:cargo/loro-ffi@1.5.6
