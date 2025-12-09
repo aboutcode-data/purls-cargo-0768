@@ -17,6 +17,7 @@
 - pkg:cargo/cumulus-client-consensus-relay-chain@0.24.0
 - pkg:cargo/cumulus-client-consensus-relay-chain@0.25.0
 - pkg:cargo/cumulus-client-consensus-relay-chain@0.26.0
+- pkg:cargo/cumulus-client-consensus-relay-chain@0.27.0
 - pkg:cargo/cumulus-client-consensus-relay-chain@0.3.0
 - pkg:cargo/cumulus-client-consensus-relay-chain@0.3.0-dev.1
 - pkg:cargo/cumulus-client-consensus-relay-chain@0.4.0
