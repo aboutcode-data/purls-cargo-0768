@@ -33,3 +33,4 @@
 - pkg:cargo/diffsl@0.6.2
 - pkg:cargo/diffsl@0.6.3
 - pkg:cargo/diffsl@0.6.4
+- pkg:cargo/diffsl@0.6.5
