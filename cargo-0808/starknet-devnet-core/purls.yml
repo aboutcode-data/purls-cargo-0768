@@ -32,3 +32,4 @@
 - pkg:cargo/starknet-devnet-core@0.6.0
 - pkg:cargo/starknet-devnet-core@0.6.1
 - pkg:cargo/starknet-devnet-core@0.7.0
+- pkg:cargo/starknet-devnet-core@0.7.1
