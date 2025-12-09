@@ -5,3 +5,4 @@
 - pkg:cargo/aws-smithy-cbor@0.61.1
 - pkg:cargo/aws-smithy-cbor@0.61.2
 - pkg:cargo/aws-smithy-cbor@0.61.3
+- pkg:cargo/aws-smithy-cbor@0.61.4
