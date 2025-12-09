@@ -28,6 +28,7 @@
 - pkg:cargo/ssd@0.21.0
 - pkg:cargo/ssd@0.21.1
 - pkg:cargo/ssd@0.22.0
+- pkg:cargo/ssd@0.23.0
 - pkg:cargo/ssd@0.8.2
 - pkg:cargo/ssd@0.9.0
 - pkg:cargo/ssd@0.9.1

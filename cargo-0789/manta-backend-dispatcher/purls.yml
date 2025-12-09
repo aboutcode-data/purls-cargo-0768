@@ -20,6 +20,7 @@
 - pkg:cargo/manta-backend-dispatcher@0.15.0
 - pkg:cargo/manta-backend-dispatcher@0.15.1
 - pkg:cargo/manta-backend-dispatcher@0.16.0
+- pkg:cargo/manta-backend-dispatcher@0.16.1
 - pkg:cargo/manta-backend-dispatcher@0.2.0
 - pkg:cargo/manta-backend-dispatcher@0.3.0
 - pkg:cargo/manta-backend-dispatcher@0.3.1
