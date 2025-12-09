@@ -41,3 +41,4 @@
 - pkg:cargo/turbomcp@2.2.3
 - pkg:cargo/turbomcp@2.3.0
 - pkg:cargo/turbomcp@2.3.0-rc
+- pkg:cargo/turbomcp@2.3.1

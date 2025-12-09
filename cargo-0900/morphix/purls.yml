@@ -7,6 +7,8 @@
 - pkg:cargo/morphix@0.12.0
 - pkg:cargo/morphix@0.12.1
 - pkg:cargo/morphix@0.12.2
+- pkg:cargo/morphix@0.13.0
+- pkg:cargo/morphix@0.13.1
 - pkg:cargo/morphix@0.2.0
 - pkg:cargo/morphix@0.3.0
 - pkg:cargo/morphix@0.3.1
