@@ -8,6 +8,7 @@
 - pkg:cargo/icydb-paths@0.0.17
 - pkg:cargo/icydb-paths@0.0.18
 - pkg:cargo/icydb-paths@0.0.19
+- pkg:cargo/icydb-paths@0.0.20
 - pkg:cargo/icydb-paths@0.0.4
 - pkg:cargo/icydb-paths@0.0.5
 - pkg:cargo/icydb-paths@0.0.6

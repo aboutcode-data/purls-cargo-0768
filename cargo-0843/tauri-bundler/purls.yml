@@ -151,3 +151,4 @@
 - pkg:cargo/tauri-bundler@2.7.2
 - pkg:cargo/tauri-bundler@2.7.3
 - pkg:cargo/tauri-bundler@2.7.4
+- pkg:cargo/tauri-bundler@2.7.5
