@@ -31,3 +31,4 @@
 - pkg:cargo/rspack_plugin_web_worker_template@0.6.4
 - pkg:cargo/rspack_plugin_web_worker_template@0.6.5
 - pkg:cargo/rspack_plugin_web_worker_template@0.6.6
+- pkg:cargo/rspack_plugin_web_worker_template@0.6.7

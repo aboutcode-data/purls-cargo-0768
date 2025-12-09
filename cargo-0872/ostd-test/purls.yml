@@ -16,6 +16,7 @@
 - pkg:cargo/ostd-test@0.15.2
 - pkg:cargo/ostd-test@0.16.0
 - pkg:cargo/ostd-test@0.16.1
+- pkg:cargo/ostd-test@0.16.2
 - pkg:cargo/ostd-test@0.8.0
 - pkg:cargo/ostd-test@0.8.1
 - pkg:cargo/ostd-test@0.8.2
