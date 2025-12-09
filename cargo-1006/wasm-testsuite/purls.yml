@@ -25,3 +25,4 @@
 - pkg:cargo/wasm-testsuite@0.5.7
 - pkg:cargo/wasm-testsuite@0.5.8
 - pkg:cargo/wasm-testsuite@0.5.9
+- pkg:cargo/wasm-testsuite@0.6.0

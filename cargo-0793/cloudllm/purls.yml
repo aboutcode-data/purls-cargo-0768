@@ -30,3 +30,4 @@
 - pkg:cargo/cloudllm@0.6.1
 - pkg:cargo/cloudllm@0.6.2
 - pkg:cargo/cloudllm@0.6.3
+- pkg:cargo/cloudllm@0.7.1
