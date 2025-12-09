@@ -1,3 +1,4 @@
 - pkg:cargo/arborium-php@0.0.0-dev
 - pkg:cargo/arborium-php@0.1.3
 - pkg:cargo/arborium-php@0.622.0
+- pkg:cargo/arborium-php@0.700.0
