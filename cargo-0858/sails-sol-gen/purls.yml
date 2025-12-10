@@ -1,4 +1,5 @@
 - pkg:cargo/sails-sol-gen@0.10.0
+- pkg:cargo/sails-sol-gen@0.10.1
 - pkg:cargo/sails-sol-gen@0.8.0
 - pkg:cargo/sails-sol-gen@0.8.1
 - pkg:cargo/sails-sol-gen@0.9.0
