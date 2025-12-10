@@ -135,3 +135,4 @@
 - pkg:cargo/aws-sdk-route53recoverycontrolconfig@1.9.0
 - pkg:cargo/aws-sdk-route53recoverycontrolconfig@1.90.0
 - pkg:cargo/aws-sdk-route53recoverycontrolconfig@1.91.0
+- pkg:cargo/aws-sdk-route53recoverycontrolconfig@1.92.0

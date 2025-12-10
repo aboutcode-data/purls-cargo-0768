@@ -1,1 +1,2 @@
 - pkg:cargo/aws-sdk-route53globalresolver@1.0.0
+- pkg:cargo/aws-sdk-route53globalresolver@1.1.0

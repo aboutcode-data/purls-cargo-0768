@@ -39,6 +39,7 @@
 - pkg:cargo/aws-sdk-socialmessaging@1.43.0
 - pkg:cargo/aws-sdk-socialmessaging@1.44.0
 - pkg:cargo/aws-sdk-socialmessaging@1.45.0
+- pkg:cargo/aws-sdk-socialmessaging@1.46.0
 - pkg:cargo/aws-sdk-socialmessaging@1.5.0
 - pkg:cargo/aws-sdk-socialmessaging@1.6.0
 - pkg:cargo/aws-sdk-socialmessaging@1.7.0

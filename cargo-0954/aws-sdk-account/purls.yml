@@ -138,3 +138,4 @@
 - pkg:cargo/aws-sdk-account@1.91.0
 - pkg:cargo/aws-sdk-account@1.92.0
 - pkg:cargo/aws-sdk-account@1.93.0
+- pkg:cargo/aws-sdk-account@1.94.0

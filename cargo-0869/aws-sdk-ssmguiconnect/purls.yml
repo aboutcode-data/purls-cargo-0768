@@ -17,6 +17,7 @@
 - pkg:cargo/aws-sdk-ssmguiconnect@1.23.0
 - pkg:cargo/aws-sdk-ssmguiconnect@1.24.0
 - pkg:cargo/aws-sdk-ssmguiconnect@1.25.0
+- pkg:cargo/aws-sdk-ssmguiconnect@1.26.0
 - pkg:cargo/aws-sdk-ssmguiconnect@1.3.0
 - pkg:cargo/aws-sdk-ssmguiconnect@1.4.0
 - pkg:cargo/aws-sdk-ssmguiconnect@1.5.0

@@ -144,3 +144,4 @@
 - pkg:cargo/aws-sdk-ivs@1.94.0
 - pkg:cargo/aws-sdk-ivs@1.95.0
 - pkg:cargo/aws-sdk-ivs@1.96.0
+- pkg:cargo/aws-sdk-ivs@1.97.0
