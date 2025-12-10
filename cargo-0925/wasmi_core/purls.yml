@@ -74,3 +74,4 @@
 - pkg:cargo/wasmi_core@1.0.1
 - pkg:cargo/wasmi_core@1.0.2
 - pkg:cargo/wasmi_core@1.0.3
+- pkg:cargo/wasmi_core@1.0.4

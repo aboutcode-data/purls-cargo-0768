@@ -113,6 +113,7 @@
 - pkg:cargo/deno_config@0.7.1
 - pkg:cargo/deno_config@0.70.0
 - pkg:cargo/deno_config@0.71.0
+- pkg:cargo/deno_config@0.72.0
 - pkg:cargo/deno_config@0.8.0
 - pkg:cargo/deno_config@0.8.1
 - pkg:cargo/deno_config@0.8.2
