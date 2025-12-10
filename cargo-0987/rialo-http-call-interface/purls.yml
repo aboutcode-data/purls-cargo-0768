@@ -1,3 +1,4 @@
+- pkg:cargo/rialo-http-call-interface@0.1.10
 - pkg:cargo/rialo-http-call-interface@0.1.6
 - pkg:cargo/rialo-http-call-interface@0.1.7
 - pkg:cargo/rialo-http-call-interface@0.1.8
