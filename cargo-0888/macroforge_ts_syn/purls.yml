@@ -8,6 +8,9 @@
 - pkg:cargo/macroforge_ts_syn@0.1.17
 - pkg:cargo/macroforge_ts_syn@0.1.18
 - pkg:cargo/macroforge_ts_syn@0.1.19
+- pkg:cargo/macroforge_ts_syn@0.1.20
+- pkg:cargo/macroforge_ts_syn@0.1.21
+- pkg:cargo/macroforge_ts_syn@0.1.22
 - pkg:cargo/macroforge_ts_syn@0.1.5
 - pkg:cargo/macroforge_ts_syn@0.1.6
 - pkg:cargo/macroforge_ts_syn@0.1.7

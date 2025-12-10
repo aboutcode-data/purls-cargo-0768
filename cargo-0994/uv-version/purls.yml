@@ -4,3 +4,4 @@
 - pkg:cargo/uv-version@0.9.14
 - pkg:cargo/uv-version@0.9.15
 - pkg:cargo/uv-version@0.9.16
+- pkg:cargo/uv-version@0.9.17
