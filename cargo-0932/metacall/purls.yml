@@ -16,3 +16,4 @@
 - pkg:cargo/metacall@0.5.3
 - pkg:cargo/metacall@0.5.4
 - pkg:cargo/metacall@0.5.5
+- pkg:cargo/metacall@0.5.6

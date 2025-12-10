@@ -1,2 +1,3 @@
 - pkg:cargo/secret-store-sdk@0.1.1
 - pkg:cargo/secret-store-sdk@0.1.2
+- pkg:cargo/secret-store-sdk@0.1.3
