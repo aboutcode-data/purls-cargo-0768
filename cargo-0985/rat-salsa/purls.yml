@@ -40,3 +40,5 @@
 - pkg:cargo/rat-salsa@2.5.0
 - pkg:cargo/rat-salsa@2.6.0
 - pkg:cargo/rat-salsa@2.6.1
+- pkg:cargo/rat-salsa@2.6.2
+- pkg:cargo/rat-salsa@2.6.3
