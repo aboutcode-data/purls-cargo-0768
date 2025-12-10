@@ -9,6 +9,7 @@
 - pkg:cargo/signet-sim@0.14.0
 - pkg:cargo/signet-sim@0.15.0
 - pkg:cargo/signet-sim@0.16.0-rc.0
+- pkg:cargo/signet-sim@0.16.0-rc.1
 - pkg:cargo/signet-sim@0.2.0
 - pkg:cargo/signet-sim@0.2.2
 - pkg:cargo/signet-sim@0.2.3

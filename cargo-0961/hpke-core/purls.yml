@@ -1,1 +1,2 @@
 - pkg:cargo/hpke-core@0.0.0
+- pkg:cargo/hpke-core@0.0.1
