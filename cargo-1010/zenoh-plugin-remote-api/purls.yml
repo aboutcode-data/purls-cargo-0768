@@ -14,3 +14,4 @@
 - pkg:cargo/zenoh-plugin-remote-api@1.6.1
 - pkg:cargo/zenoh-plugin-remote-api@1.6.2
 - pkg:cargo/zenoh-plugin-remote-api@1.7.0
+- pkg:cargo/zenoh-plugin-remote-api@1.7.1
