@@ -1,1 +1,2 @@
 - pkg:cargo/dchain-sdk-proto@0.9.0
+- pkg:cargo/dchain-sdk-proto@0.9.1
