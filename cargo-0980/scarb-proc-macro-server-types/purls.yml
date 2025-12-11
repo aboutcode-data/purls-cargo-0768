@@ -4,3 +4,4 @@
 - pkg:cargo/scarb-proc-macro-server-types@0.3.0-rc.0
 - pkg:cargo/scarb-proc-macro-server-types@0.3.0-rc.1
 - pkg:cargo/scarb-proc-macro-server-types@0.4.0
+- pkg:cargo/scarb-proc-macro-server-types@0.5.0
