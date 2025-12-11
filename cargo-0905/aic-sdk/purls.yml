@@ -1,5 +1,6 @@
 - pkg:cargo/aic-sdk@0.10.0
 - pkg:cargo/aic-sdk@0.10.1
+- pkg:cargo/aic-sdk@0.11.0
 - pkg:cargo/aic-sdk@0.6.3
 - pkg:cargo/aic-sdk@0.8.0
 - pkg:cargo/aic-sdk@0.8.1

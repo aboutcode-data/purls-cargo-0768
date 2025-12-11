@@ -24,3 +24,4 @@
 - pkg:cargo/superposition_sdk@0.94.5
 - pkg:cargo/superposition_sdk@0.95.0
 - pkg:cargo/superposition_sdk@0.95.1
+- pkg:cargo/superposition_sdk@0.95.2
