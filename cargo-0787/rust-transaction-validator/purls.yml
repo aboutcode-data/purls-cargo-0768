@@ -1,1 +1,2 @@
 - pkg:cargo/rust-transaction-validator@0.1.0
+- pkg:cargo/rust-transaction-validator@2.0.0
