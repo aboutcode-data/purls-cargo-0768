@@ -10,3 +10,6 @@
 - pkg:cargo/atto@1.0.7
 - pkg:cargo/atto@1.0.8
 - pkg:cargo/atto@1.0.9
+- pkg:cargo/atto@1.1.0
+- pkg:cargo/atto@1.2.0
+- pkg:cargo/atto@1.2.1
