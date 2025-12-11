@@ -14,3 +14,4 @@
 - pkg:cargo/trid@3.1.1
 - pkg:cargo/trid@4.0.0
 - pkg:cargo/trid@5.0.0
+- pkg:cargo/trid@6.0.0
