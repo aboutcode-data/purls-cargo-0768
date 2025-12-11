@@ -63,6 +63,8 @@
 - pkg:cargo/vtcode-bash-runner@0.47.1
 - pkg:cargo/vtcode-bash-runner@0.47.12
 - pkg:cargo/vtcode-bash-runner@0.47.13
+- pkg:cargo/vtcode-bash-runner@0.47.14
+- pkg:cargo/vtcode-bash-runner@0.47.15
 - pkg:cargo/vtcode-bash-runner@0.47.3
 - pkg:cargo/vtcode-bash-runner@0.47.4
 - pkg:cargo/vtcode-bash-runner@0.47.5
