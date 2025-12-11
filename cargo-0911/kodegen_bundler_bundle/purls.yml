@@ -2,6 +2,7 @@
 - pkg:cargo/kodegen_bundler_bundle@0.10.1
 - pkg:cargo/kodegen_bundler_bundle@0.10.2
 - pkg:cargo/kodegen_bundler_bundle@0.10.3
+- pkg:cargo/kodegen_bundler_bundle@0.10.4
 - pkg:cargo/kodegen_bundler_bundle@0.2.0
 - pkg:cargo/kodegen_bundler_bundle@0.3.1
 - pkg:cargo/kodegen_bundler_bundle@0.3.2

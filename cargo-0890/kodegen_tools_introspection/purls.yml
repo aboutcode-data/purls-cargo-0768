@@ -7,6 +7,7 @@
 - pkg:cargo/kodegen_tools_introspection@0.10.2
 - pkg:cargo/kodegen_tools_introspection@0.10.3
 - pkg:cargo/kodegen_tools_introspection@0.10.4
+- pkg:cargo/kodegen_tools_introspection@0.10.5
 - pkg:cargo/kodegen_tools_introspection@0.2.0
 - pkg:cargo/kodegen_tools_introspection@0.2.1
 - pkg:cargo/kodegen_tools_introspection@0.2.2
