@@ -1,4 +1,5 @@
 - pkg:cargo/rust-zw3d-macros@0.1.0-alpha.1
+- pkg:cargo/rust-zw3d-macros@0.1.0-alpha.12
 - pkg:cargo/rust-zw3d-macros@0.1.0-alpha.2
 - pkg:cargo/rust-zw3d-macros@0.1.0-alpha.3
 - pkg:cargo/rust-zw3d-macros@0.1.0-alpha.5
