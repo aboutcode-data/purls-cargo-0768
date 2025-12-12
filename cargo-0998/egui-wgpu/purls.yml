@@ -35,3 +35,4 @@
 - pkg:cargo/egui-wgpu@0.32.3
 - pkg:cargo/egui-wgpu@0.33.0
 - pkg:cargo/egui-wgpu@0.33.2
+- pkg:cargo/egui-wgpu@0.33.3

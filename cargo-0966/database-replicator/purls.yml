@@ -21,6 +21,9 @@
 - pkg:cargo/database-replicator@6.0.6
 - pkg:cargo/database-replicator@7.0.10
 - pkg:cargo/database-replicator@7.0.11
+- pkg:cargo/database-replicator@7.0.12
+- pkg:cargo/database-replicator@7.0.13
+- pkg:cargo/database-replicator@7.0.14
 - pkg:cargo/database-replicator@7.0.4
 - pkg:cargo/database-replicator@7.0.6
 - pkg:cargo/database-replicator@7.0.7
