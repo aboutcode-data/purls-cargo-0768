@@ -21,6 +21,7 @@
 - pkg:cargo/rust-key-paths@1.10.0
 - pkg:cargo/rust-key-paths@1.11.0
 - pkg:cargo/rust-key-paths@1.11.1
+- pkg:cargo/rust-key-paths@1.11.2
 - pkg:cargo/rust-key-paths@1.2.0
 - pkg:cargo/rust-key-paths@1.3.0
 - pkg:cargo/rust-key-paths@1.4.0
