@@ -76,6 +76,7 @@
 - pkg:cargo/leptos-fluent-macros@0.2.19
 - pkg:cargo/leptos-fluent-macros@0.2.2
 - pkg:cargo/leptos-fluent-macros@0.2.20
+- pkg:cargo/leptos-fluent-macros@0.2.21
 - pkg:cargo/leptos-fluent-macros@0.2.3
 - pkg:cargo/leptos-fluent-macros@0.2.4
 - pkg:cargo/leptos-fluent-macros@0.2.5
