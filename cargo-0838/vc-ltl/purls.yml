@@ -40,6 +40,7 @@
 - pkg:cargo/vc-ltl@5.2.2
 - pkg:cargo/vc-ltl@5.2.2-Beta1
 - pkg:cargo/vc-ltl@5.2.2-Beta2
+- pkg:cargo/vc-ltl@5.3.1
 - pkg:cargo/vc-ltl@5.3.1-Beta1
 - pkg:cargo/vc-ltl@5.3.1-Beta2
 - pkg:cargo/vc-ltl@5.3.1-Beta3
