@@ -1,1 +1,4 @@
 - pkg:cargo/forge-core-utils@0.8.7-rc.24
+- pkg:cargo/forge-core-utils@0.8.7-rc.25
+- pkg:cargo/forge-core-utils@0.8.7-rc.26
+- pkg:cargo/forge-core-utils@0.8.7-rc.30

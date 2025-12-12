@@ -5,3 +5,8 @@
 - pkg:cargo/arborium-perl@0.900.0
 - pkg:cargo/arborium-perl@0.901.0
 - pkg:cargo/arborium-perl@1.0.0
+- pkg:cargo/arborium-perl@1.1.1
+- pkg:cargo/arborium-perl@1.1.2
+- pkg:cargo/arborium-perl@1.1.3
+- pkg:cargo/arborium-perl@1.1.4
+- pkg:cargo/arborium-perl@1.1.5
