@@ -32,6 +32,7 @@
 - pkg:cargo/markup_fmt@0.25.0
 - pkg:cargo/markup_fmt@0.25.1
 - pkg:cargo/markup_fmt@0.25.2
+- pkg:cargo/markup_fmt@0.25.3
 - pkg:cargo/markup_fmt@0.3.0
 - pkg:cargo/markup_fmt@0.3.1
 - pkg:cargo/markup_fmt@0.3.2
