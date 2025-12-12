@@ -19,3 +19,4 @@
 - pkg:cargo/opentalk-types-signaling-whiteboard@0.39.0
 - pkg:cargo/opentalk-types-signaling-whiteboard@0.40.0
 - pkg:cargo/opentalk-types-signaling-whiteboard@0.41.0
+- pkg:cargo/opentalk-types-signaling-whiteboard@0.42.0
