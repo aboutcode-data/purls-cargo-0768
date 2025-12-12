@@ -6,6 +6,7 @@
 - pkg:cargo/opentalk-roomserver-types-automod@0.0.15
 - pkg:cargo/opentalk-roomserver-types-automod@0.0.16
 - pkg:cargo/opentalk-roomserver-types-automod@0.0.17
+- pkg:cargo/opentalk-roomserver-types-automod@0.0.18
 - pkg:cargo/opentalk-roomserver-types-automod@0.0.7
 - pkg:cargo/opentalk-roomserver-types-automod@0.0.8
 - pkg:cargo/opentalk-roomserver-types-automod@0.0.9
