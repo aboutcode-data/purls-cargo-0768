@@ -4,3 +4,4 @@
 - pkg:cargo/smb-transport@0.10.3
 - pkg:cargo/smb-transport@0.10.4
 - pkg:cargo/smb-transport@0.11.0
+- pkg:cargo/smb-transport@0.11.1
