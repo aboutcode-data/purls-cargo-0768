@@ -10,3 +10,6 @@
 - pkg:cargo/arborium-rescript@1.1.3
 - pkg:cargo/arborium-rescript@1.1.4
 - pkg:cargo/arborium-rescript@1.1.5
+- pkg:cargo/arborium-rescript@1.2.0
+- pkg:cargo/arborium-rescript@1.2.1
+- pkg:cargo/arborium-rescript@1.2.2

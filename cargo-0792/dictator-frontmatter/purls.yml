@@ -7,3 +7,6 @@
 - pkg:cargo/dictator-frontmatter@0.6.1
 - pkg:cargo/dictator-frontmatter@0.6.2
 - pkg:cargo/dictator-frontmatter@0.6.3
+- pkg:cargo/dictator-frontmatter@0.6.4
+- pkg:cargo/dictator-frontmatter@0.7.0
+- pkg:cargo/dictator-frontmatter@0.8.0
