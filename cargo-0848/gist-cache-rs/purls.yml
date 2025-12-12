@@ -3,3 +3,4 @@
 - pkg:cargo/gist-cache-rs@0.6.1
 - pkg:cargo/gist-cache-rs@0.6.2
 - pkg:cargo/gist-cache-rs@0.6.3
+- pkg:cargo/gist-cache-rs@0.7.0

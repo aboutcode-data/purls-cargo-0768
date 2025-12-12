@@ -5,6 +5,11 @@
 - pkg:cargo/gainlineup@0.10.1
 - pkg:cargo/gainlineup@0.11.0
 - pkg:cargo/gainlineup@0.12.0
+- pkg:cargo/gainlineup@0.12.1
+- pkg:cargo/gainlineup@0.12.2
+- pkg:cargo/gainlineup@0.12.3
+- pkg:cargo/gainlineup@0.12.4
+- pkg:cargo/gainlineup@0.12.5
 - pkg:cargo/gainlineup@0.2.0
 - pkg:cargo/gainlineup@0.3.0
 - pkg:cargo/gainlineup@0.3.1
