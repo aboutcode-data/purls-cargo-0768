@@ -49,3 +49,4 @@
 - pkg:cargo/anchor-spl@0.7.0
 - pkg:cargo/anchor-spl@0.8.0
 - pkg:cargo/anchor-spl@0.9.0
+- pkg:cargo/anchor-spl@1.0.0-rc.1

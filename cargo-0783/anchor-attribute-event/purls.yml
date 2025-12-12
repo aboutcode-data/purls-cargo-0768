@@ -45,3 +45,4 @@
 - pkg:cargo/anchor-attribute-event@0.7.0
 - pkg:cargo/anchor-attribute-event@0.8.0
 - pkg:cargo/anchor-attribute-event@0.9.0
+- pkg:cargo/anchor-attribute-event@1.0.0-rc.1
