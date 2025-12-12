@@ -4,6 +4,8 @@
 - pkg:cargo/ringboard-server@0.11.0
 - pkg:cargo/ringboard-server@0.12.0
 - pkg:cargo/ringboard-server@0.12.2
+- pkg:cargo/ringboard-server@0.13.0
+- pkg:cargo/ringboard-server@0.13.1
 - pkg:cargo/ringboard-server@0.5.4
 - pkg:cargo/ringboard-server@0.6.0
 - pkg:cargo/ringboard-server@0.6.1
