@@ -2,3 +2,4 @@
 - pkg:cargo/tonic-iroh-transport@0.0.3
 - pkg:cargo/tonic-iroh-transport@0.0.4
 - pkg:cargo/tonic-iroh-transport@0.0.5
+- pkg:cargo/tonic-iroh-transport@0.1.0
