@@ -4,3 +4,5 @@
 - pkg:cargo/restart_signal@0.1.4
 - pkg:cargo/restart_signal@0.1.5
 - pkg:cargo/restart_signal@0.1.6
+- pkg:cargo/restart_signal@0.1.7
+- pkg:cargo/restart_signal@0.1.9
