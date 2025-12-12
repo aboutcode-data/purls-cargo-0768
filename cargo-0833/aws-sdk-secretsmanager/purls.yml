@@ -146,3 +146,4 @@
 - pkg:cargo/aws-sdk-secretsmanager@1.94.0
 - pkg:cargo/aws-sdk-secretsmanager@1.95.0
 - pkg:cargo/aws-sdk-secretsmanager@1.96.0
+- pkg:cargo/aws-sdk-secretsmanager@1.97.0

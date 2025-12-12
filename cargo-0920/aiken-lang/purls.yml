@@ -53,6 +53,8 @@
 - pkg:cargo/aiken-lang@1.1.18
 - pkg:cargo/aiken-lang@1.1.19
 - pkg:cargo/aiken-lang@1.1.2
+- pkg:cargo/aiken-lang@1.1.20
+- pkg:cargo/aiken-lang@1.1.21
 - pkg:cargo/aiken-lang@1.1.3
 - pkg:cargo/aiken-lang@1.1.4
 - pkg:cargo/aiken-lang@1.1.5

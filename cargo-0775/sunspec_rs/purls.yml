@@ -3,6 +3,7 @@
 - pkg:cargo/sunspec_rs@0.1.2
 - pkg:cargo/sunspec_rs@0.1.3
 - pkg:cargo/sunspec_rs@0.10.3
+- pkg:cargo/sunspec_rs@0.10.4
 - pkg:cargo/sunspec_rs@0.2.0
 - pkg:cargo/sunspec_rs@0.3.0
 - pkg:cargo/sunspec_rs@0.3.1
