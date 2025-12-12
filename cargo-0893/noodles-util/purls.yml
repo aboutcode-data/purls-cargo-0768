@@ -71,5 +71,6 @@
 - pkg:cargo/noodles-util@0.7.0
 - pkg:cargo/noodles-util@0.70.0
 - pkg:cargo/noodles-util@0.71.0
+- pkg:cargo/noodles-util@0.72.0
 - pkg:cargo/noodles-util@0.8.0
 - pkg:cargo/noodles-util@0.9.0

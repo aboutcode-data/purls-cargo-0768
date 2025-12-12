@@ -55,6 +55,8 @@
 - pkg:cargo/facet-yaml@0.29.1
 - pkg:cargo/facet-yaml@0.3.0
 - pkg:cargo/facet-yaml@0.31.0
+- pkg:cargo/facet-yaml@0.32.1
+- pkg:cargo/facet-yaml@0.32.2
 - pkg:cargo/facet-yaml@0.7.0
 - pkg:cargo/facet-yaml@0.8.0
 - pkg:cargo/facet-yaml@0.8.1

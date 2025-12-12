@@ -22,3 +22,5 @@
 - pkg:cargo/bloop-server-framework@1.8.3
 - pkg:cargo/bloop-server-framework@1.8.4
 - pkg:cargo/bloop-server-framework@1.8.5
+- pkg:cargo/bloop-server-framework@1.9.0
+- pkg:cargo/bloop-server-framework@1.9.1

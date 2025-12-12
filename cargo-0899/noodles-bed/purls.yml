@@ -21,6 +21,7 @@
 - pkg:cargo/noodles-bed@0.28.0
 - pkg:cargo/noodles-bed@0.29.0
 - pkg:cargo/noodles-bed@0.3.0
+- pkg:cargo/noodles-bed@0.30.0
 - pkg:cargo/noodles-bed@0.4.0
 - pkg:cargo/noodles-bed@0.5.0
 - pkg:cargo/noodles-bed@0.6.0
