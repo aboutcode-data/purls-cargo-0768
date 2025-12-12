@@ -89,3 +89,4 @@
 - pkg:cargo/dinghy-build@0.8.0
 - pkg:cargo/dinghy-build@0.8.1
 - pkg:cargo/dinghy-build@0.8.2
+- pkg:cargo/dinghy-build@0.8.4
