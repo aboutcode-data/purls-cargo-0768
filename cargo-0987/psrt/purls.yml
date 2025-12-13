@@ -29,6 +29,7 @@
 - pkg:cargo/psrt@0.1.9
 - pkg:cargo/psrt@0.2.0
 - pkg:cargo/psrt@0.2.1
+- pkg:cargo/psrt@0.2.10
 - pkg:cargo/psrt@0.2.2
 - pkg:cargo/psrt@0.2.3
 - pkg:cargo/psrt@0.2.4
