@@ -1,3 +1,4 @@
 - pkg:cargo/webbuf_secp256k1@0.13.1
 - pkg:cargo/webbuf_secp256k1@0.13.2
+- pkg:cargo/webbuf_secp256k1@0.15.0
 - pkg:cargo/webbuf_secp256k1@0.8.5
