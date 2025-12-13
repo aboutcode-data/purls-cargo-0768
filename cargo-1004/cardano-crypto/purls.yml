@@ -5,3 +5,4 @@
 - pkg:cargo/cardano-crypto@1.0.4
 - pkg:cargo/cardano-crypto@1.0.5
 - pkg:cargo/cardano-crypto@1.0.6
+- pkg:cargo/cardano-crypto@1.0.8
