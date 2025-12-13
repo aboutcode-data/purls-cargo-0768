@@ -35,6 +35,7 @@
 - pkg:cargo/v_exchanges_adapters@0.15.4
 - pkg:cargo/v_exchanges_adapters@0.15.5
 - pkg:cargo/v_exchanges_adapters@0.16.0
+- pkg:cargo/v_exchanges_adapters@0.16.1
 - pkg:cargo/v_exchanges_adapters@0.2.0
 - pkg:cargo/v_exchanges_adapters@0.2.1
 - pkg:cargo/v_exchanges_adapters@0.3.0

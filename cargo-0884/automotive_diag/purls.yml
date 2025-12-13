@@ -17,6 +17,7 @@
 - pkg:cargo/automotive_diag@0.1.23
 - pkg:cargo/automotive_diag@0.1.24
 - pkg:cargo/automotive_diag@0.1.25
+- pkg:cargo/automotive_diag@0.1.26
 - pkg:cargo/automotive_diag@0.1.3
 - pkg:cargo/automotive_diag@0.1.4
 - pkg:cargo/automotive_diag@0.1.5
