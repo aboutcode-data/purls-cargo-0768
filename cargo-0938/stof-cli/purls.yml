@@ -17,6 +17,7 @@
 - pkg:cargo/stof-cli@0.10.1
 - pkg:cargo/stof-cli@0.11.0
 - pkg:cargo/stof-cli@0.11.1
+- pkg:cargo/stof-cli@0.11.10
 - pkg:cargo/stof-cli@0.11.2
 - pkg:cargo/stof-cli@0.11.3
 - pkg:cargo/stof-cli@0.11.4
