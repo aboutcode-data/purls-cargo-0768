@@ -24,3 +24,5 @@
 - pkg:cargo/genemichaels-lib@0.8.0
 - pkg:cargo/genemichaels-lib@0.8.1
 - pkg:cargo/genemichaels-lib@0.8.2
+- pkg:cargo/genemichaels-lib@0.8.3
+- pkg:cargo/genemichaels-lib@0.8.4
