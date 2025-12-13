@@ -84,3 +84,4 @@
 - pkg:cargo/tcp-request@2.3.4
 - pkg:cargo/tcp-request@2.3.5
 - pkg:cargo/tcp-request@2.3.6
+- pkg:cargo/tcp-request@2.3.7
