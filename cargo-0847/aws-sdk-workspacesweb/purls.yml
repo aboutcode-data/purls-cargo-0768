@@ -136,3 +136,4 @@
 - pkg:cargo/aws-sdk-workspacesweb@1.96.0
 - pkg:cargo/aws-sdk-workspacesweb@1.97.0
 - pkg:cargo/aws-sdk-workspacesweb@1.98.0
+- pkg:cargo/aws-sdk-workspacesweb@1.99.0
