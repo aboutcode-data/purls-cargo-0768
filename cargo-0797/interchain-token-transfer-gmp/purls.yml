@@ -1,3 +1,4 @@
 - pkg:cargo/interchain-token-transfer-gmp@0.1.0
 - pkg:cargo/interchain-token-transfer-gmp@0.1.1
 - pkg:cargo/interchain-token-transfer-gmp@0.1.2
+- pkg:cargo/interchain-token-transfer-gmp@0.1.3
