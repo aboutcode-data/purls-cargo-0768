@@ -2,3 +2,4 @@
 - pkg:cargo/lazy-sparql-result-reader@1.1.1
 - pkg:cargo/lazy-sparql-result-reader@1.2.0
 - pkg:cargo/lazy-sparql-result-reader@1.2.1
+- pkg:cargo/lazy-sparql-result-reader@1.3.0
