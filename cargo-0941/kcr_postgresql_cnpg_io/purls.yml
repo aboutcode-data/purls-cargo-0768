@@ -15,3 +15,4 @@
 - pkg:cargo/kcr_postgresql_cnpg_io@2.20251026.83448
 - pkg:cargo/kcr_postgresql_cnpg_io@2.20251102.83356
 - pkg:cargo/kcr_postgresql_cnpg_io@2.20251109.83424
+- pkg:cargo/kcr_postgresql_cnpg_io@2.20251214.84037
