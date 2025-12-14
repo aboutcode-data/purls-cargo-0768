@@ -7,3 +7,4 @@
 - pkg:cargo/ggen-cli-lib@2.7.1
 - pkg:cargo/ggen-cli-lib@3.2.0
 - pkg:cargo/ggen-cli-lib@3.4.1
+- pkg:cargo/ggen-cli-lib@4.0.0
