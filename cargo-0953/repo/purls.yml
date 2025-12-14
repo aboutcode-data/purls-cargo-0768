@@ -16,6 +16,7 @@
 - pkg:cargo/repo@0.13.18
 - pkg:cargo/repo@0.13.19
 - pkg:cargo/repo@0.13.2
+- pkg:cargo/repo@0.13.20
 - pkg:cargo/repo@0.13.3
 - pkg:cargo/repo@0.13.4
 - pkg:cargo/repo@0.13.5
@@ -25,6 +26,7 @@
 - pkg:cargo/repo@0.13.7
 - pkg:cargo/repo@0.13.8
 - pkg:cargo/repo@0.13.9
+- pkg:cargo/repo@0.14.0
 - pkg:cargo/repo@0.2.0
 - pkg:cargo/repo@0.2.1
 - pkg:cargo/repo@0.2.2
