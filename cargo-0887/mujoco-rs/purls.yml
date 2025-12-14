@@ -17,3 +17,4 @@
 - pkg:cargo/mujoco-rs@2.0.1%2Bmj-3.3.7
 - pkg:cargo/mujoco-rs@2.1.0%2Bmj-3.3.7
 - pkg:cargo/mujoco-rs@2.1.1%2Bmj-3.3.7
+- pkg:cargo/mujoco-rs@2.2.0%2Bmj-3.3.7
