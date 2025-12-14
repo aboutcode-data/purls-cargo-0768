@@ -79,3 +79,4 @@
 - pkg:cargo/vtcode-bash-runner@0.49.0
 - pkg:cargo/vtcode-bash-runner@0.49.1
 - pkg:cargo/vtcode-bash-runner@0.49.5
+- pkg:cargo/vtcode-bash-runner@0.49.7
