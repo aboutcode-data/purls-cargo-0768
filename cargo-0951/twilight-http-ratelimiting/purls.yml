@@ -21,6 +21,7 @@
 - pkg:cargo/twilight-http-ratelimiting@0.16.0
 - pkg:cargo/twilight-http-ratelimiting@0.16.0-rc.1
 - pkg:cargo/twilight-http-ratelimiting@0.17.0
+- pkg:cargo/twilight-http-ratelimiting@0.17.1
 - pkg:cargo/twilight-http-ratelimiting@0.8.0
 - pkg:cargo/twilight-http-ratelimiting@0.8.1
 - pkg:cargo/twilight-http-ratelimiting@0.8.2
