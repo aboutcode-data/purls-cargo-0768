@@ -15,3 +15,5 @@
 - pkg:cargo/arborium-yuri@1.2.2
 - pkg:cargo/arborium-yuri@1.2.3
 - pkg:cargo/arborium-yuri@1.3.0
+- pkg:cargo/arborium-yuri@2.0.0
+- pkg:cargo/arborium-yuri@2.1.0
