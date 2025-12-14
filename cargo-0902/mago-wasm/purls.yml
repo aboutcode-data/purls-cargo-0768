@@ -112,6 +112,7 @@
 - pkg:cargo/mago-wasm@1.0.0-rc.10
 - pkg:cargo/mago-wasm@1.0.0-rc.11
 - pkg:cargo/mago-wasm@1.0.0-rc.12
+- pkg:cargo/mago-wasm@1.0.0-rc.13
 - pkg:cargo/mago-wasm@1.0.0-rc.2
 - pkg:cargo/mago-wasm@1.0.0-rc.3
 - pkg:cargo/mago-wasm@1.0.0-rc.4
