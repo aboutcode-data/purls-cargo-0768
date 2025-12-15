@@ -12,3 +12,4 @@
 - pkg:cargo/multi-tier-cache@0.5.3
 - pkg:cargo/multi-tier-cache@0.5.4
 - pkg:cargo/multi-tier-cache@0.5.5
+- pkg:cargo/multi-tier-cache@0.5.6
