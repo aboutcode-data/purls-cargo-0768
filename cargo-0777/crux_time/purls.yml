@@ -18,6 +18,7 @@
 - pkg:cargo/crux_time@0.14.0-rc2
 - pkg:cargo/crux_time@0.14.0-rc3
 - pkg:cargo/crux_time@0.14.0-rc4
+- pkg:cargo/crux_time@0.15.0-rc1
 - pkg:cargo/crux_time@0.2.0
 - pkg:cargo/crux_time@0.3.0
 - pkg:cargo/crux_time@0.3.1
