@@ -13,3 +13,4 @@
 - pkg:cargo/bevy_auto_plugin@0.7.0
 - pkg:cargo/bevy_auto_plugin@0.7.1
 - pkg:cargo/bevy_auto_plugin@0.8.0
+- pkg:cargo/bevy_auto_plugin@0.8.1
