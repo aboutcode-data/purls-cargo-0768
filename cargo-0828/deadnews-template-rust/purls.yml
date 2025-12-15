@@ -15,3 +15,5 @@
 - pkg:cargo/deadnews-template-rust@1.1.0-alpha.0
 - pkg:cargo/deadnews-template-rust@1.2.1
 - pkg:cargo/deadnews-template-rust@1.2.1-alpha.0
+- pkg:cargo/deadnews-template-rust@1.2.2-alpha.0
+- pkg:cargo/deadnews-template-rust@1.2.2-alpha.1
