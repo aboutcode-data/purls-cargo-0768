@@ -31,3 +31,4 @@
 - pkg:cargo/espflash@4.0.1
 - pkg:cargo/espflash@4.1.0
 - pkg:cargo/espflash@4.2.0
+- pkg:cargo/espflash@4.3.0
