@@ -16,3 +16,5 @@
 - pkg:cargo/arborium-elixir@1.3.0
 - pkg:cargo/arborium-elixir@2.0.0
 - pkg:cargo/arborium-elixir@2.1.0
+- pkg:cargo/arborium-elixir@2.2.0
+- pkg:cargo/arborium-elixir@2.3.0

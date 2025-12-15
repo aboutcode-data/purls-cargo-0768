@@ -12,6 +12,7 @@
 - pkg:cargo/c-ares-resolver@1.1.2
 - pkg:cargo/c-ares-resolver@10.0.0
 - pkg:cargo/c-ares-resolver@10.1.0
+- pkg:cargo/c-ares-resolver@11.0.0
 - pkg:cargo/c-ares-resolver@2.0.0
 - pkg:cargo/c-ares-resolver@3.0.0
 - pkg:cargo/c-ares-resolver@3.1.0

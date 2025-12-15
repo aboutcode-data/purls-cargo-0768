@@ -16,3 +16,5 @@
 - pkg:cargo/arborium-haskell@1.3.0
 - pkg:cargo/arborium-haskell@2.0.0
 - pkg:cargo/arborium-haskell@2.1.0
+- pkg:cargo/arborium-haskell@2.2.0
+- pkg:cargo/arborium-haskell@2.3.0

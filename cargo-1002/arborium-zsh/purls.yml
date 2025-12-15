@@ -17,3 +17,5 @@
 - pkg:cargo/arborium-zsh@1.3.0
 - pkg:cargo/arborium-zsh@2.0.0
 - pkg:cargo/arborium-zsh@2.1.0
+- pkg:cargo/arborium-zsh@2.2.0
+- pkg:cargo/arborium-zsh@2.3.0

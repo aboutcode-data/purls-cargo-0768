@@ -19,3 +19,5 @@
 - pkg:cargo/arborium-sysroot@1.3.0
 - pkg:cargo/arborium-sysroot@2.0.0
 - pkg:cargo/arborium-sysroot@2.1.0
+- pkg:cargo/arborium-sysroot@2.2.0
+- pkg:cargo/arborium-sysroot@2.3.0

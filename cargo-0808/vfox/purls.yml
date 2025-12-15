@@ -63,6 +63,7 @@
 - pkg:cargo/vfox@2025.12.4
 - pkg:cargo/vfox@2025.12.5
 - pkg:cargo/vfox@2025.12.6
+- pkg:cargo/vfox@2025.12.7
 - pkg:cargo/vfox@2025.7.10
 - pkg:cargo/vfox@2025.7.11
 - pkg:cargo/vfox@2025.7.12
