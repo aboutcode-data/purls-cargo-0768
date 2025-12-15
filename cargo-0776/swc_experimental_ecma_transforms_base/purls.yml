@@ -1,2 +1,4 @@
 - pkg:cargo/swc_experimental_ecma_transforms_base@0.3.0
 - pkg:cargo/swc_experimental_ecma_transforms_base@0.3.1
+- pkg:cargo/swc_experimental_ecma_transforms_base@0.3.2
+- pkg:cargo/swc_experimental_ecma_transforms_base@0.3.3
