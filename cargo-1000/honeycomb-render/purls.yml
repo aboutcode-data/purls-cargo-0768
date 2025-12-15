@@ -1,4 +1,5 @@
 - pkg:cargo/honeycomb-render@0.10.0
+- pkg:cargo/honeycomb-render@0.10.1
 - pkg:cargo/honeycomb-render@0.2.0
 - pkg:cargo/honeycomb-render@0.2.1
 - pkg:cargo/honeycomb-render@0.3.0
