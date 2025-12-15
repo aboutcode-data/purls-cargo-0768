@@ -1,1 +1,2 @@
 - pkg:cargo/miden-core-lib@0.20.0
+- pkg:cargo/miden-core-lib@0.20.1
