@@ -1,6 +1,7 @@
 - pkg:cargo/oxc_isolated_declarations@0.100.0
 - pkg:cargo/oxc_isolated_declarations@0.101.0
 - pkg:cargo/oxc_isolated_declarations@0.102.0
+- pkg:cargo/oxc_isolated_declarations@0.103.0
 - pkg:cargo/oxc_isolated_declarations@0.16.0
 - pkg:cargo/oxc_isolated_declarations@0.16.1
 - pkg:cargo/oxc_isolated_declarations@0.16.2
