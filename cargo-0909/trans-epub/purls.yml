@@ -11,6 +11,7 @@
 - pkg:cargo/trans-epub@0.0.2
 - pkg:cargo/trans-epub@0.0.20
 - pkg:cargo/trans-epub@0.0.22
+- pkg:cargo/trans-epub@0.0.23
 - pkg:cargo/trans-epub@0.0.4
 - pkg:cargo/trans-epub@0.0.5
 - pkg:cargo/trans-epub@0.0.6
