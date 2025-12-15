@@ -5,6 +5,7 @@
 - pkg:cargo/vllora_guardrails@0.1.15
 - pkg:cargo/vllora_guardrails@0.1.16
 - pkg:cargo/vllora_guardrails@0.1.17
+- pkg:cargo/vllora_guardrails@0.1.18
 - pkg:cargo/vllora_guardrails@0.1.6
 - pkg:cargo/vllora_guardrails@0.1.7
 - pkg:cargo/vllora_guardrails@0.1.8
