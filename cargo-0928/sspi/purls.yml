@@ -32,6 +32,7 @@
 - pkg:cargo/sspi@0.18.2
 - pkg:cargo/sspi@0.18.3
 - pkg:cargo/sspi@0.18.4
+- pkg:cargo/sspi@0.18.5
 - pkg:cargo/sspi@0.2.0
 - pkg:cargo/sspi@0.3.0
 - pkg:cargo/sspi@0.3.1

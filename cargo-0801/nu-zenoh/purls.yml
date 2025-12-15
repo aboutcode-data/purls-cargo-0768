@@ -1,1 +1,2 @@
 - pkg:cargo/nu-zenoh@0.1.0
+- pkg:cargo/nu-zenoh@0.2.0

@@ -20,3 +20,6 @@
 - pkg:cargo/greentic-interfaces-guest@0.4.57
 - pkg:cargo/greentic-interfaces-guest@0.4.58
 - pkg:cargo/greentic-interfaces-guest@0.4.59
+- pkg:cargo/greentic-interfaces-guest@0.4.61
+- pkg:cargo/greentic-interfaces-guest@0.4.63
+- pkg:cargo/greentic-interfaces-guest@0.4.64
