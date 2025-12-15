@@ -39,6 +39,7 @@
 - pkg:cargo/aqua-registry@2025.12.4
 - pkg:cargo/aqua-registry@2025.12.5
 - pkg:cargo/aqua-registry@2025.12.6
+- pkg:cargo/aqua-registry@2025.12.7
 - pkg:cargo/aqua-registry@2025.9.11
 - pkg:cargo/aqua-registry@2025.9.12
 - pkg:cargo/aqua-registry@2025.9.13
