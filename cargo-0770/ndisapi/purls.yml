@@ -10,3 +10,4 @@
 - pkg:cargo/ndisapi@0.5.6
 - pkg:cargo/ndisapi@0.6.0
 - pkg:cargo/ndisapi@0.6.2
+- pkg:cargo/ndisapi@0.6.3
