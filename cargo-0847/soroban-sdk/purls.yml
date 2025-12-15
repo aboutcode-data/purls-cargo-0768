@@ -94,3 +94,4 @@
 - pkg:cargo/soroban-sdk@23.1.0
 - pkg:cargo/soroban-sdk@23.1.1
 - pkg:cargo/soroban-sdk@23.2.1
+- pkg:cargo/soroban-sdk@23.3.0
