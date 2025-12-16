@@ -43,3 +43,4 @@
 - pkg:cargo/near-vm-types@0.34.0-rc.5
 - pkg:cargo/near-vm-types@0.34.1
 - pkg:cargo/near-vm-types@0.34.2
+- pkg:cargo/near-vm-types@0.34.3
