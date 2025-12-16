@@ -7,3 +7,5 @@
 - pkg:cargo/aegis_vm_macro@0.2.0
 - pkg:cargo/aegis_vm_macro@0.2.1
 - pkg:cargo/aegis_vm_macro@0.2.2
+- pkg:cargo/aegis_vm_macro@0.2.5
+- pkg:cargo/aegis_vm_macro@0.2.51
