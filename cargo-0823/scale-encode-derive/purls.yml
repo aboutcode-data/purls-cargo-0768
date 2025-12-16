@@ -20,6 +20,7 @@
 - pkg:cargo/scale-encode-derive@0.1.1
 - pkg:cargo/scale-encode-derive@0.1.2
 - pkg:cargo/scale-encode-derive@0.10.0
+- pkg:cargo/scale-encode-derive@0.10.1
 - pkg:cargo/scale-encode-derive@0.2.0
 - pkg:cargo/scale-encode-derive@0.3.0
 - pkg:cargo/scale-encode-derive@0.4.0

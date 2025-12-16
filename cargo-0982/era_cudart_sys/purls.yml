@@ -42,4 +42,5 @@
 - pkg:cargo/era_cudart_sys@0.155.2
 - pkg:cargo/era_cudart_sys@0.155.3
 - pkg:cargo/era_cudart_sys@0.155.4
+- pkg:cargo/era_cudart_sys@0.155.5
 - pkg:cargo/era_cudart_sys@0.2.0
