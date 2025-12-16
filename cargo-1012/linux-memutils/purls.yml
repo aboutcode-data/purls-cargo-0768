@@ -7,3 +7,4 @@
 - pkg:cargo/linux-memutils@1.4.0
 - pkg:cargo/linux-memutils@2.0.0
 - pkg:cargo/linux-memutils@2.0.1
+- pkg:cargo/linux-memutils@2.0.2

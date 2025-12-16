@@ -10,6 +10,7 @@
 - pkg:cargo/millisecond@0.14.1
 - pkg:cargo/millisecond@0.15.0
 - pkg:cargo/millisecond@0.15.1
+- pkg:cargo/millisecond@0.15.10
 - pkg:cargo/millisecond@0.15.2
 - pkg:cargo/millisecond@0.15.3
 - pkg:cargo/millisecond@0.15.4
