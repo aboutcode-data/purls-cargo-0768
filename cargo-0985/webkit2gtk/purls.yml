@@ -33,3 +33,4 @@
 - pkg:cargo/webkit2gtk@1.1.1
 - pkg:cargo/webkit2gtk@2.0.0
 - pkg:cargo/webkit2gtk@2.0.1
+- pkg:cargo/webkit2gtk@2.0.2
