@@ -19,3 +19,4 @@
 - pkg:cargo/rusql-alchemy@0.5.3
 - pkg:cargo/rusql-alchemy@0.5.4
 - pkg:cargo/rusql-alchemy@0.5.5
+- pkg:cargo/rusql-alchemy@0.5.6
