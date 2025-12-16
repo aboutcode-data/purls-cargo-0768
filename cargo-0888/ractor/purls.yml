@@ -29,6 +29,7 @@
 - pkg:cargo/ractor@0.14.7
 - pkg:cargo/ractor@0.15.0
 - pkg:cargo/ractor@0.15.1
+- pkg:cargo/ractor@0.15.10
 - pkg:cargo/ractor@0.15.2
 - pkg:cargo/ractor@0.15.3
 - pkg:cargo/ractor@0.15.4

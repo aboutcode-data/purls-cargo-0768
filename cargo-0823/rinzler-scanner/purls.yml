@@ -1,4 +1,5 @@
 - pkg:cargo/rinzler-scanner@0.1.10-alpha
+- pkg:cargo/rinzler-scanner@0.1.11-alpha
 - pkg:cargo/rinzler-scanner@0.1.6-alpha
 - pkg:cargo/rinzler-scanner@0.1.8-alpha
 - pkg:cargo/rinzler-scanner@0.1.9-alpha
