@@ -16,6 +16,7 @@
 - pkg:cargo/htmxology-macros@0.23.0
 - pkg:cargo/htmxology-macros@0.24.0
 - pkg:cargo/htmxology-macros@0.25.0
+- pkg:cargo/htmxology-macros@0.26.0
 - pkg:cargo/htmxology-macros@0.3.0
 - pkg:cargo/htmxology-macros@0.4.0
 - pkg:cargo/htmxology-macros@0.5.0
