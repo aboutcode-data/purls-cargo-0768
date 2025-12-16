@@ -32,3 +32,4 @@
 - pkg:cargo/fflonk-cuda@0.155.2
 - pkg:cargo/fflonk-cuda@0.155.3
 - pkg:cargo/fflonk-cuda@0.155.4
+- pkg:cargo/fflonk-cuda@0.155.5
