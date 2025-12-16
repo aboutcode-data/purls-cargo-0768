@@ -1,3 +1,4 @@
 - pkg:cargo/tracing-slog@0.1.0
 - pkg:cargo/tracing-slog@0.2.0
 - pkg:cargo/tracing-slog@0.3.0
+- pkg:cargo/tracing-slog@0.4.0
