@@ -20,3 +20,4 @@
 - pkg:cargo/sdl3-src@3.2.8
 - pkg:cargo/sdl3-src@3.3.2-preview
 - pkg:cargo/sdl3-src@3.3.4-prerelease
+- pkg:cargo/sdl3-src@3.3.6-prerelease
