@@ -12,3 +12,4 @@
 - pkg:cargo/rs-firebase-admin-sdk@2.3.1
 - pkg:cargo/rs-firebase-admin-sdk@2.4.0
 - pkg:cargo/rs-firebase-admin-sdk@3.0.0
+- pkg:cargo/rs-firebase-admin-sdk@4.0.0
