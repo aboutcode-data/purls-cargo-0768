@@ -37,3 +37,4 @@
 - pkg:cargo/protosocket@0.7.4
 - pkg:cargo/protosocket@0.8.0
 - pkg:cargo/protosocket@0.9.0
+- pkg:cargo/protosocket@1.0.0-pre.0
