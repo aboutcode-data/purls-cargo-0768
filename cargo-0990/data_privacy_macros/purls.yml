@@ -6,3 +6,4 @@
 - pkg:cargo/data_privacy_macros@0.3.0
 - pkg:cargo/data_privacy_macros@0.4.0
 - pkg:cargo/data_privacy_macros@0.7.0
+- pkg:cargo/data_privacy_macros@0.8.0

@@ -14,3 +14,4 @@
 - pkg:cargo/bevy_hookup_core@4.6.0
 - pkg:cargo/bevy_hookup_core@5.0.0
 - pkg:cargo/bevy_hookup_core@5.0.1
+- pkg:cargo/bevy_hookup_core@5.1.0
