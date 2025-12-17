@@ -25,6 +25,7 @@
 - pkg:cargo/cairo-execute@2.14.1-dev.0
 - pkg:cargo/cairo-execute@2.14.1-dev.1
 - pkg:cargo/cairo-execute@2.15.0-rc.0
+- pkg:cargo/cairo-execute@2.15.0-rc.1
 - pkg:cargo/cairo-execute@2.9.0
 - pkg:cargo/cairo-execute@2.9.1
 - pkg:cargo/cairo-execute@2.9.2
