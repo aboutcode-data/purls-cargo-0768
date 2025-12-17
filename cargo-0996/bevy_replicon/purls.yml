@@ -72,6 +72,7 @@
 - pkg:cargo/bevy_replicon@0.36.1
 - pkg:cargo/bevy_replicon@0.37.0
 - pkg:cargo/bevy_replicon@0.37.1
+- pkg:cargo/bevy_replicon@0.38.0-rc.1
 - pkg:cargo/bevy_replicon@0.4.0
 - pkg:cargo/bevy_replicon@0.5.0
 - pkg:cargo/bevy_replicon@0.6.0
