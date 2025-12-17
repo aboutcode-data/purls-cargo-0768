@@ -164,6 +164,7 @@
 - pkg:cargo/forc@0.70.0
 - pkg:cargo/forc@0.70.1
 - pkg:cargo/forc@0.70.2
+- pkg:cargo/forc@0.70.3
 - pkg:cargo/forc@0.8.0
 - pkg:cargo/forc@0.9.1
 - pkg:cargo/forc@0.9.2
