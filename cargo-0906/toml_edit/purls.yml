@@ -90,6 +90,7 @@
 - pkg:cargo/toml_edit@0.22.9
 - pkg:cargo/toml_edit@0.23.0
 - pkg:cargo/toml_edit@0.23.1
+- pkg:cargo/toml_edit@0.23.10%2Bspec-1.0.0
 - pkg:cargo/toml_edit@0.23.2
 - pkg:cargo/toml_edit@0.23.3
 - pkg:cargo/toml_edit@0.23.4
