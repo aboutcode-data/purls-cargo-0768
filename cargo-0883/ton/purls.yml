@@ -1,4 +1,5 @@
 - pkg:cargo/ton@0.0.1
+- pkg:cargo/ton@0.0.10
 - pkg:cargo/ton@0.0.2
 - pkg:cargo/ton@0.0.3
 - pkg:cargo/ton@0.0.4

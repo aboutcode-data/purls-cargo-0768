@@ -29,6 +29,7 @@
 - pkg:cargo/macroforge_ts_syn@0.1.38
 - pkg:cargo/macroforge_ts_syn@0.1.39
 - pkg:cargo/macroforge_ts_syn@0.1.40
+- pkg:cargo/macroforge_ts_syn@0.1.42
 - pkg:cargo/macroforge_ts_syn@0.1.5
 - pkg:cargo/macroforge_ts_syn@0.1.6
 - pkg:cargo/macroforge_ts_syn@0.1.7
