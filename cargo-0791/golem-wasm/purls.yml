@@ -8,3 +8,4 @@
 - pkg:cargo/golem-wasm@1.4.0-dev.7
 - pkg:cargo/golem-wasm@1.4.0-rc1
 - pkg:cargo/golem-wasm@1.4.0-rc2
+- pkg:cargo/golem-wasm@1.4.0-rc4
