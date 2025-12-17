@@ -14,6 +14,7 @@
 - pkg:cargo/rustls-pki-types@1.12.0
 - pkg:cargo/rustls-pki-types@1.13.0
 - pkg:cargo/rustls-pki-types@1.13.1
+- pkg:cargo/rustls-pki-types@1.13.2
 - pkg:cargo/rustls-pki-types@1.2.0
 - pkg:cargo/rustls-pki-types@1.3.0
 - pkg:cargo/rustls-pki-types@1.3.1
