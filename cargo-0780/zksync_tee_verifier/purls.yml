@@ -14,3 +14,4 @@
 - pkg:cargo/zksync_tee_verifier@29.4.1-non-semver-compat
 - pkg:cargo/zksync_tee_verifier@29.5.0-non-semver-compat
 - pkg:cargo/zksync_tee_verifier@29.6.0-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@29.7.0-non-semver-compat
