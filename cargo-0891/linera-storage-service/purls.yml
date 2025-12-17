@@ -23,3 +23,4 @@
 - pkg:cargo/linera-storage-service@0.15.5
 - pkg:cargo/linera-storage-service@0.15.6
 - pkg:cargo/linera-storage-service@0.15.7
+- pkg:cargo/linera-storage-service@0.15.8

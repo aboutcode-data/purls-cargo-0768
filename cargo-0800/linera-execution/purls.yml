@@ -25,6 +25,7 @@
 - pkg:cargo/linera-execution@0.15.5
 - pkg:cargo/linera-execution@0.15.6
 - pkg:cargo/linera-execution@0.15.7
+- pkg:cargo/linera-execution@0.15.8
 - pkg:cargo/linera-execution@0.2.0
 - pkg:cargo/linera-execution@0.3.0
 - pkg:cargo/linera-execution@0.4.0
