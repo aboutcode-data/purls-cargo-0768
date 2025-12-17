@@ -25,3 +25,4 @@
 - pkg:cargo/bevy_state@0.17.1
 - pkg:cargo/bevy_state@0.17.2
 - pkg:cargo/bevy_state@0.17.3
+- pkg:cargo/bevy_state@0.18.0-rc.1
