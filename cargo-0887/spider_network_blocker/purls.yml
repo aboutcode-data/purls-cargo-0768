@@ -36,6 +36,7 @@
 - pkg:cargo/spider_network_blocker@0.0.44
 - pkg:cargo/spider_network_blocker@0.0.45
 - pkg:cargo/spider_network_blocker@0.0.46
+- pkg:cargo/spider_network_blocker@0.0.48
 - pkg:cargo/spider_network_blocker@0.0.5
 - pkg:cargo/spider_network_blocker@0.0.7
 - pkg:cargo/spider_network_blocker@0.0.8
