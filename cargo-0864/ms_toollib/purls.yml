@@ -21,3 +21,4 @@
 - pkg:cargo/ms_toollib@1.4.17
 - pkg:cargo/ms_toollib@1.4.2
 - pkg:cargo/ms_toollib@1.4.7
+- pkg:cargo/ms_toollib@1.5.2
