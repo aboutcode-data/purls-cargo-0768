@@ -50,3 +50,4 @@
 - pkg:cargo/ckb-migrate@1.0.0-rc1
 - pkg:cargo/ckb-migrate@1.0.0-rc2
 - pkg:cargo/ckb-migrate@1.0.1
+- pkg:cargo/ckb-migrate@1.0.2
