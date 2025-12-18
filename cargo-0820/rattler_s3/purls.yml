@@ -8,6 +8,7 @@
 - pkg:cargo/rattler_s3@0.1.15
 - pkg:cargo/rattler_s3@0.1.16
 - pkg:cargo/rattler_s3@0.1.17
+- pkg:cargo/rattler_s3@0.1.18
 - pkg:cargo/rattler_s3@0.1.2
 - pkg:cargo/rattler_s3@0.1.3
 - pkg:cargo/rattler_s3@0.1.4

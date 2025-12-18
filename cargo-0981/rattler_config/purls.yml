@@ -16,6 +16,7 @@
 - pkg:cargo/rattler_config@0.2.20
 - pkg:cargo/rattler_config@0.2.21
 - pkg:cargo/rattler_config@0.2.22
+- pkg:cargo/rattler_config@0.2.23
 - pkg:cargo/rattler_config@0.2.3
 - pkg:cargo/rattler_config@0.2.4
 - pkg:cargo/rattler_config@0.2.5
