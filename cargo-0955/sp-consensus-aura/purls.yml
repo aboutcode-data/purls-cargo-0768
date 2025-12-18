@@ -39,6 +39,7 @@
 - pkg:cargo/sp-consensus-aura@0.43.0
 - pkg:cargo/sp-consensus-aura@0.44.0
 - pkg:cargo/sp-consensus-aura@0.45.0
+- pkg:cargo/sp-consensus-aura@0.46.0
 - pkg:cargo/sp-consensus-aura@0.8.0
 - pkg:cargo/sp-consensus-aura@0.8.0-alpha.2
 - pkg:cargo/sp-consensus-aura@0.8.0-alpha.3

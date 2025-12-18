@@ -55,6 +55,7 @@
 - pkg:cargo/sp-trie@40.0.0
 - pkg:cargo/sp-trie@41.0.0
 - pkg:cargo/sp-trie@41.1.0
+- pkg:cargo/sp-trie@42.0.0
 - pkg:cargo/sp-trie@5.0.0
 - pkg:cargo/sp-trie@6.0.0
 - pkg:cargo/sp-trie@7.0.0

@@ -50,6 +50,7 @@
 - pkg:cargo/sp-inherents@38.0.0
 - pkg:cargo/sp-inherents@39.0.0
 - pkg:cargo/sp-inherents@4.0.0
+- pkg:cargo/sp-inherents@40.0.0
 - pkg:cargo/sp-inherents@5.0.0
 - pkg:cargo/sp-inherents@6.0.0
 - pkg:cargo/sp-inherents@7.0.0

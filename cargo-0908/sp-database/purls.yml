@@ -1,4 +1,5 @@
 - pkg:cargo/sp-database@10.0.0
+- pkg:cargo/sp-database@10.0.1
 - pkg:cargo/sp-database@2.0.0
 - pkg:cargo/sp-database@2.0.0-alpha.7
 - pkg:cargo/sp-database@2.0.0-alpha.8

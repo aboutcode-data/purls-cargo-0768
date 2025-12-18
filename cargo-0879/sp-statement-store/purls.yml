@@ -20,6 +20,7 @@
 - pkg:cargo/sp-statement-store@22.0.0
 - pkg:cargo/sp-statement-store@23.0.0
 - pkg:cargo/sp-statement-store@23.1.0
+- pkg:cargo/sp-statement-store@24.0.0
 - pkg:cargo/sp-statement-store@4.0.0
 - pkg:cargo/sp-statement-store@5.0.0
 - pkg:cargo/sp-statement-store@6.0.0

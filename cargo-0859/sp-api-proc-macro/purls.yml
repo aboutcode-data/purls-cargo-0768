@@ -40,6 +40,7 @@
 - pkg:cargo/sp-api-proc-macro@23.0.0
 - pkg:cargo/sp-api-proc-macro@24.0.0
 - pkg:cargo/sp-api-proc-macro@25.0.0
+- pkg:cargo/sp-api-proc-macro@26.0.0
 - pkg:cargo/sp-api-proc-macro@3.0.0
 - pkg:cargo/sp-api-proc-macro@4.0.0
 - pkg:cargo/sp-api-proc-macro@5.0.0

@@ -30,6 +30,7 @@
 - pkg:cargo/sp-weights@32.0.0
 - pkg:cargo/sp-weights@33.0.0
 - pkg:cargo/sp-weights@33.1.0
+- pkg:cargo/sp-weights@33.2.0
 - pkg:cargo/sp-weights@4.0.0
 - pkg:cargo/sp-weights@5.0.0
 - pkg:cargo/sp-weights@6.0.0

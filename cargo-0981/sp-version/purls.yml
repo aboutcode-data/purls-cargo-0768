@@ -53,6 +53,7 @@
 - pkg:cargo/sp-version@40.0.0
 - pkg:cargo/sp-version@41.0.0
 - pkg:cargo/sp-version@42.0.0
+- pkg:cargo/sp-version@43.0.0
 - pkg:cargo/sp-version@5.0.0
 - pkg:cargo/sp-version@6.0.0
 - pkg:cargo/sp-version@7.0.0
