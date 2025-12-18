@@ -18,3 +18,4 @@
 - pkg:cargo/astarte-message-hub@0.8.0
 - pkg:cargo/astarte-message-hub@0.8.1
 - pkg:cargo/astarte-message-hub@0.8.2
+- pkg:cargo/astarte-message-hub@0.8.3
