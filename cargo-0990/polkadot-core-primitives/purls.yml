@@ -16,6 +16,7 @@
 - pkg:cargo/polkadot-core-primitives@19.0.0
 - pkg:cargo/polkadot-core-primitives@2.0.0
 - pkg:cargo/polkadot-core-primitives@20.0.0
+- pkg:cargo/polkadot-core-primitives@21.0.0
 - pkg:cargo/polkadot-core-primitives@3.0.0
 - pkg:cargo/polkadot-core-primitives@3.0.0-dev.1
 - pkg:cargo/polkadot-core-primitives@4.0.0

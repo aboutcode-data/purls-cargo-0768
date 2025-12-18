@@ -1,1 +1,2 @@
 - pkg:cargo/str0m-openssl@0.1.0
+- pkg:cargo/str0m-openssl@0.1.1
