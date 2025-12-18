@@ -22,6 +22,7 @@
 - pkg:cargo/actuate@0.2.0-alpha.1
 - pkg:cargo/actuate@0.20.0
 - pkg:cargo/actuate@0.20.1
+- pkg:cargo/actuate@0.21.0
 - pkg:cargo/actuate@0.3.0-alpha.1
 - pkg:cargo/actuate@0.3.0-alpha.2
 - pkg:cargo/actuate@0.3.0-alpha.3
