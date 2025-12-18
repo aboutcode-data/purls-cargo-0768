@@ -90,3 +90,4 @@
 - pkg:cargo/aws-sdk-inspectorscan@1.9.0
 - pkg:cargo/aws-sdk-inspectorscan@1.90.0
 - pkg:cargo/aws-sdk-inspectorscan@1.91.0
+- pkg:cargo/aws-sdk-inspectorscan@1.92.0
