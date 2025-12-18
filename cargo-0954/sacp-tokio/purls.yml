@@ -16,3 +16,4 @@
 - pkg:cargo/sacp-tokio@3.0.1
 - pkg:cargo/sacp-tokio@6.0.0
 - pkg:cargo/sacp-tokio@7.0.0
+- pkg:cargo/sacp-tokio@8.0.0
