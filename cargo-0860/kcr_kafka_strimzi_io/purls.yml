@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_kafka_strimzi_io@2.20251002.35719
 - pkg:cargo/kcr_kafka_strimzi_io@2.20251009.35702
 - pkg:cargo/kcr_kafka_strimzi_io@2.20251204.41815
+- pkg:cargo/kcr_kafka_strimzi_io@2.20251218.42140
