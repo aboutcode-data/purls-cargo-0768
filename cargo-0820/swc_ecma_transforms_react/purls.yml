@@ -755,6 +755,7 @@
 - pkg:cargo/swc_ecma_transforms_react@33.0.0
 - pkg:cargo/swc_ecma_transforms_react@34.0.0
 - pkg:cargo/swc_ecma_transforms_react@35.0.0
+- pkg:cargo/swc_ecma_transforms_react@36.0.0
 - pkg:cargo/swc_ecma_transforms_react@4.0.0
 - pkg:cargo/swc_ecma_transforms_react@5.0.0
 - pkg:cargo/swc_ecma_transforms_react@6.0.0

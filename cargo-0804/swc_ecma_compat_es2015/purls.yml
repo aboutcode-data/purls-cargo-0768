@@ -166,6 +166,7 @@
 - pkg:cargo/swc_ecma_compat_es2015@34.0.0
 - pkg:cargo/swc_ecma_compat_es2015@35.0.0
 - pkg:cargo/swc_ecma_compat_es2015@36.0.0
+- pkg:cargo/swc_ecma_compat_es2015@37.0.0
 - pkg:cargo/swc_ecma_compat_es2015@4.0.0
 - pkg:cargo/swc_ecma_compat_es2015@5.0.0
 - pkg:cargo/swc_ecma_compat_es2015@5.0.1

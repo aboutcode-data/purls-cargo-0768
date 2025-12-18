@@ -234,6 +234,7 @@
 - pkg:cargo/swc_compiler_base@4.0.0
 - pkg:cargo/swc_compiler_base@40.0.0
 - pkg:cargo/swc_compiler_base@41.0.0
+- pkg:cargo/swc_compiler_base@42.0.0
 - pkg:cargo/swc_compiler_base@5.0.0
 - pkg:cargo/swc_compiler_base@6.0.0
 - pkg:cargo/swc_compiler_base@7.0.0

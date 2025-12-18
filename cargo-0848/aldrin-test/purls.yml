@@ -2,6 +2,7 @@
 - pkg:cargo/aldrin-test@0.10.0
 - pkg:cargo/aldrin-test@0.11.0
 - pkg:cargo/aldrin-test@0.12.0
+- pkg:cargo/aldrin-test@0.13.0
 - pkg:cargo/aldrin-test@0.2.0
 - pkg:cargo/aldrin-test@0.3.0
 - pkg:cargo/aldrin-test@0.4.0

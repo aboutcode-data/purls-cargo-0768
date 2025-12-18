@@ -1290,6 +1290,7 @@
 - pkg:cargo/swc_ecma_minifier@37.0.0
 - pkg:cargo/swc_ecma_minifier@38.0.0
 - pkg:cargo/swc_ecma_minifier@38.0.1
+- pkg:cargo/swc_ecma_minifier@39.0.0
 - pkg:cargo/swc_ecma_minifier@4.0.0
 - pkg:cargo/swc_ecma_minifier@5.0.0
 - pkg:cargo/swc_ecma_minifier@5.0.1

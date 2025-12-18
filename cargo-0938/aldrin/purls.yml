@@ -3,6 +3,7 @@
 - pkg:cargo/aldrin@0.10.0
 - pkg:cargo/aldrin@0.11.0
 - pkg:cargo/aldrin@0.12.0
+- pkg:cargo/aldrin@0.13.0
 - pkg:cargo/aldrin@0.2.0
 - pkg:cargo/aldrin@0.2.1
 - pkg:cargo/aldrin@0.3.0
