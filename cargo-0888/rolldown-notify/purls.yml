@@ -5,3 +5,4 @@
 - pkg:cargo/rolldown-notify@8.2.4
 - pkg:cargo/rolldown-notify@9.0.0
 - pkg:cargo/rolldown-notify@9.1.0
+- pkg:cargo/rolldown-notify@9.1.1
