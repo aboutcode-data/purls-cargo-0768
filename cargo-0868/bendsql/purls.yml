@@ -98,6 +98,7 @@
 - pkg:cargo/bendsql@0.30.3
 - pkg:cargo/bendsql@0.31.0
 - pkg:cargo/bendsql@0.32.0
+- pkg:cargo/bendsql@0.33.0
 - pkg:cargo/bendsql@0.4.0
 - pkg:cargo/bendsql@0.4.1
 - pkg:cargo/bendsql@0.4.3
