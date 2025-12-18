@@ -1,4 +1,5 @@
 - pkg:cargo/beads-rs@0.1.13
+- pkg:cargo/beads-rs@0.1.16
 - pkg:cargo/beads-rs@0.1.5
 - pkg:cargo/beads-rs@0.1.6
 - pkg:cargo/beads-rs@0.1.7

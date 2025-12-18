@@ -1,1 +1,2 @@
 - pkg:cargo/datafusion-ducklake@0.0.1
+- pkg:cargo/datafusion-ducklake@0.0.2
