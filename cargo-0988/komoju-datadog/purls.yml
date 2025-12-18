@@ -19,3 +19,4 @@
 - pkg:cargo/komoju-datadog@0.4.9
 - pkg:cargo/komoju-datadog@0.5.0
 - pkg:cargo/komoju-datadog@0.5.1
+- pkg:cargo/komoju-datadog@0.6.0
