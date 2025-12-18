@@ -7,3 +7,4 @@
 - pkg:cargo/lightvgl-sys@9.4.0
 - pkg:cargo/lightvgl-sys@9.4.1
 - pkg:cargo/lightvgl-sys@9.4.2
+- pkg:cargo/lightvgl-sys@9.4.3
