@@ -6,6 +6,7 @@
 - pkg:cargo/firewood-benchmark@0.0.15
 - pkg:cargo/firewood-benchmark@0.0.16
 - pkg:cargo/firewood-benchmark@0.0.17
+- pkg:cargo/firewood-benchmark@0.0.18
 - pkg:cargo/firewood-benchmark@0.0.6
 - pkg:cargo/firewood-benchmark@0.0.7
 - pkg:cargo/firewood-benchmark@0.0.8

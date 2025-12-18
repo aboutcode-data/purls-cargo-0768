@@ -110,3 +110,4 @@
 - pkg:cargo/lance-arrow@0.9.7
 - pkg:cargo/lance-arrow@0.9.8
 - pkg:cargo/lance-arrow@0.9.9
+- pkg:cargo/lance-arrow@1.0.0

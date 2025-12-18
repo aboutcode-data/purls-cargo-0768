@@ -78,3 +78,4 @@
 - pkg:cargo/lance-table@0.9.17
 - pkg:cargo/lance-table@0.9.18
 - pkg:cargo/lance-table@0.9.9
+- pkg:cargo/lance-table@1.0.0
