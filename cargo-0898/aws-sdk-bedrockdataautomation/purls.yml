@@ -41,6 +41,7 @@
 - pkg:cargo/aws-sdk-bedrockdataautomation@1.44.0
 - pkg:cargo/aws-sdk-bedrockdataautomation@1.45.0
 - pkg:cargo/aws-sdk-bedrockdataautomation@1.46.0
+- pkg:cargo/aws-sdk-bedrockdataautomation@1.47.0
 - pkg:cargo/aws-sdk-bedrockdataautomation@1.5.0
 - pkg:cargo/aws-sdk-bedrockdataautomation@1.6.0
 - pkg:cargo/aws-sdk-bedrockdataautomation@1.7.0

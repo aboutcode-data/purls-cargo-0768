@@ -55,6 +55,7 @@
 - pkg:cargo/substrate-frame-rpc-system@46.0.0
 - pkg:cargo/substrate-frame-rpc-system@47.0.0
 - pkg:cargo/substrate-frame-rpc-system@48.0.0
+- pkg:cargo/substrate-frame-rpc-system@49.0.0
 - pkg:cargo/substrate-frame-rpc-system@5.0.0
 - pkg:cargo/substrate-frame-rpc-system@6.0.0
 - pkg:cargo/substrate-frame-rpc-system@7.0.0

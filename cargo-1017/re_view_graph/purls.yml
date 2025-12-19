@@ -62,6 +62,7 @@
 - pkg:cargo/re_view_graph@0.27.3-rc.1
 - pkg:cargo/re_view_graph@0.27.3-rc.2
 - pkg:cargo/re_view_graph@0.27.3-rc.4
+- pkg:cargo/re_view_graph@0.28.0
 - pkg:cargo/re_view_graph@0.28.0-alpha.0
 - pkg:cargo/re_view_graph@0.28.0-alpha.1
 - pkg:cargo/re_view_graph@0.28.0-alpha.2
