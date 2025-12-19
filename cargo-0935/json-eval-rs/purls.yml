@@ -2,3 +2,5 @@
 - pkg:cargo/json-eval-rs@0.0.29
 - pkg:cargo/json-eval-rs@0.0.30
 - pkg:cargo/json-eval-rs@0.0.32
+- pkg:cargo/json-eval-rs@0.0.33
+- pkg:cargo/json-eval-rs@0.0.34

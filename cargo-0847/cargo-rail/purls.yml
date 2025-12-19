@@ -13,3 +13,5 @@
 - pkg:cargo/cargo-rail@0.7.1
 - pkg:cargo/cargo-rail@0.7.2
 - pkg:cargo/cargo-rail@0.7.3
+- pkg:cargo/cargo-rail@0.8.0
+- pkg:cargo/cargo-rail@0.8.1
