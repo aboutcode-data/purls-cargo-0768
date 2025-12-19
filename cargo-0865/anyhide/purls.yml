@@ -1,4 +1,5 @@
 - pkg:cargo/anyhide@0.10.0
+- pkg:cargo/anyhide@0.11.1
 - pkg:cargo/anyhide@0.5.3
 - pkg:cargo/anyhide@0.6.1
 - pkg:cargo/anyhide@0.7.0
