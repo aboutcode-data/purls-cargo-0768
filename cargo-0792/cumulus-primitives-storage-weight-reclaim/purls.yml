@@ -6,6 +6,7 @@
 - pkg:cargo/cumulus-primitives-storage-weight-reclaim@13.0.0
 - pkg:cargo/cumulus-primitives-storage-weight-reclaim@14.0.0
 - pkg:cargo/cumulus-primitives-storage-weight-reclaim@15.0.0
+- pkg:cargo/cumulus-primitives-storage-weight-reclaim@16.0.0
 - pkg:cargo/cumulus-primitives-storage-weight-reclaim@2.0.0
 - pkg:cargo/cumulus-primitives-storage-weight-reclaim@3.0.0
 - pkg:cargo/cumulus-primitives-storage-weight-reclaim@4.0.0
