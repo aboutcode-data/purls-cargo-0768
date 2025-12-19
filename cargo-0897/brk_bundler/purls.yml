@@ -50,3 +50,4 @@
 - pkg:cargo/brk_bundler@0.0.96
 - pkg:cargo/brk_bundler@0.0.98
 - pkg:cargo/brk_bundler@0.0.99
+- pkg:cargo/brk_bundler@0.1.0-alpha.0
