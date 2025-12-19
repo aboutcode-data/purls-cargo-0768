@@ -10,3 +10,5 @@
 - pkg:cargo/golem-wasm@1.4.0-rc2
 - pkg:cargo/golem-wasm@1.4.0-rc4
 - pkg:cargo/golem-wasm@1.4.0-rc5
+- pkg:cargo/golem-wasm@1.4.0-rc6
+- pkg:cargo/golem-wasm@1.4.0-rc7
