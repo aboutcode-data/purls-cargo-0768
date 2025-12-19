@@ -2,6 +2,7 @@
 - pkg:cargo/oxc_ast_visit@0.101.0
 - pkg:cargo/oxc_ast_visit@0.102.0
 - pkg:cargo/oxc_ast_visit@0.103.0
+- pkg:cargo/oxc_ast_visit@0.104.0
 - pkg:cargo/oxc_ast_visit@0.53.0
 - pkg:cargo/oxc_ast_visit@0.54.0
 - pkg:cargo/oxc_ast_visit@0.55.0
