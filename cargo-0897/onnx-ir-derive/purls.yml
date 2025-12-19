@@ -1,2 +1,3 @@
 - pkg:cargo/onnx-ir-derive@0.20.0-pre.4
 - pkg:cargo/onnx-ir-derive@0.20.0-pre.5
+- pkg:cargo/onnx-ir-derive@0.20.0-pre.6

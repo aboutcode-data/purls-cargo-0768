@@ -46,6 +46,7 @@
 - pkg:cargo/sc-network-gossip@0.52.0
 - pkg:cargo/sc-network-gossip@0.53.0
 - pkg:cargo/sc-network-gossip@0.54.0
+- pkg:cargo/sc-network-gossip@0.55.0
 - pkg:cargo/sc-network-gossip@0.8.0
 - pkg:cargo/sc-network-gossip@0.8.0-alpha.2
 - pkg:cargo/sc-network-gossip@0.8.0-alpha.3
