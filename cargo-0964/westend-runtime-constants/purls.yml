@@ -17,6 +17,7 @@
 - pkg:cargo/westend-runtime-constants@22.0.0
 - pkg:cargo/westend-runtime-constants@23.0.0
 - pkg:cargo/westend-runtime-constants@24.0.0
+- pkg:cargo/westend-runtime-constants@25.0.0
 - pkg:cargo/westend-runtime-constants@3.0.0
 - pkg:cargo/westend-runtime-constants@3.0.0-dev.1
 - pkg:cargo/westend-runtime-constants@4.0.0
