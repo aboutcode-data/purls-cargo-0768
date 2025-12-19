@@ -10,3 +10,4 @@
 - pkg:cargo/multiversx-chain-scenario-format@0.23.0
 - pkg:cargo/multiversx-chain-scenario-format@0.23.1
 - pkg:cargo/multiversx-chain-scenario-format@0.24.0
+- pkg:cargo/multiversx-chain-scenario-format@0.25.0
