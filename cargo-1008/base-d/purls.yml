@@ -83,6 +83,8 @@
 - pkg:cargo/base-d@3.0.2
 - pkg:cargo/base-d@3.0.20
 - pkg:cargo/base-d@3.0.23
+- pkg:cargo/base-d@3.0.24
+- pkg:cargo/base-d@3.0.25
 - pkg:cargo/base-d@3.0.3
 - pkg:cargo/base-d@3.0.4
 - pkg:cargo/base-d@3.0.5
