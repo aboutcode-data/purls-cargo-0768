@@ -10,3 +10,4 @@
 - pkg:cargo/mdbook-graphviz@0.1.7
 - pkg:cargo/mdbook-graphviz@0.2.0
 - pkg:cargo/mdbook-graphviz@0.2.1
+- pkg:cargo/mdbook-graphviz@0.3.1
