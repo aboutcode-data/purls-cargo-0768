@@ -12,3 +12,4 @@
 - pkg:cargo/zerokit_utils@0.5.2
 - pkg:cargo/zerokit_utils@0.6.0
 - pkg:cargo/zerokit_utils@0.7.0
+- pkg:cargo/zerokit_utils@1.0.0
