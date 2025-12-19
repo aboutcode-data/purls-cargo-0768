@@ -4,3 +4,4 @@
 - pkg:cargo/td-wavegen@1.0.3
 - pkg:cargo/td-wavegen@1.2.0
 - pkg:cargo/td-wavegen@1.2.1
+- pkg:cargo/td-wavegen@2.0.0
