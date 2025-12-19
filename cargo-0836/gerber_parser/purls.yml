@@ -4,3 +4,4 @@
 - pkg:cargo/gerber_parser@0.2.1
 - pkg:cargo/gerber_parser@0.3.0
 - pkg:cargo/gerber_parser@0.3.1
+- pkg:cargo/gerber_parser@0.4.0
