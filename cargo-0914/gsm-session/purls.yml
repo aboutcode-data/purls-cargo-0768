@@ -7,6 +7,7 @@
 - pkg:cargo/gsm-session@0.4.12
 - pkg:cargo/gsm-session@0.4.13
 - pkg:cargo/gsm-session@0.4.14
+- pkg:cargo/gsm-session@0.4.16
 - pkg:cargo/gsm-session@0.4.2
 - pkg:cargo/gsm-session@0.4.3
 - pkg:cargo/gsm-session@0.4.5
