@@ -3,6 +3,8 @@
 - pkg:cargo/lnmp-quant@0.5.12
 - pkg:cargo/lnmp-quant@0.5.13
 - pkg:cargo/lnmp-quant@0.5.14
+- pkg:cargo/lnmp-quant@0.5.15
+- pkg:cargo/lnmp-quant@0.5.16
 - pkg:cargo/lnmp-quant@0.5.4
 - pkg:cargo/lnmp-quant@0.5.7
 - pkg:cargo/lnmp-quant@0.5.8
