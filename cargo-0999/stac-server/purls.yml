@@ -9,3 +9,4 @@
 - pkg:cargo/stac-server@0.3.5
 - pkg:cargo/stac-server@0.3.6
 - pkg:cargo/stac-server@0.4.0
+- pkg:cargo/stac-server@0.4.1
