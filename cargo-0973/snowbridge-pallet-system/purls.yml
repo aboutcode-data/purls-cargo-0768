@@ -13,6 +13,7 @@
 - pkg:cargo/snowbridge-pallet-system@0.15.0
 - pkg:cargo/snowbridge-pallet-system@0.16.0
 - pkg:cargo/snowbridge-pallet-system@0.17.0
+- pkg:cargo/snowbridge-pallet-system@0.18.0
 - pkg:cargo/snowbridge-pallet-system@0.2.0
 - pkg:cargo/snowbridge-pallet-system@0.2.1
 - pkg:cargo/snowbridge-pallet-system@0.3.0
