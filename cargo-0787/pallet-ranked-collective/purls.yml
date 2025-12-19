@@ -45,6 +45,7 @@
 - pkg:cargo/pallet-ranked-collective@43.0.0
 - pkg:cargo/pallet-ranked-collective@43.0.1
 - pkg:cargo/pallet-ranked-collective@44.0.0
+- pkg:cargo/pallet-ranked-collective@45.0.0
 - pkg:cargo/pallet-ranked-collective@5.0.0
 - pkg:cargo/pallet-ranked-collective@6.0.0
 - pkg:cargo/pallet-ranked-collective@7.0.0

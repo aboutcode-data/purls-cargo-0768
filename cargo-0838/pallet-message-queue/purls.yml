@@ -47,6 +47,7 @@
 - pkg:cargo/pallet-message-queue@45.0.0
 - pkg:cargo/pallet-message-queue@46.0.0
 - pkg:cargo/pallet-message-queue@47.0.0
+- pkg:cargo/pallet-message-queue@48.0.0
 - pkg:cargo/pallet-message-queue@7.0.0
 - pkg:cargo/pallet-message-queue@8.0.0
 - pkg:cargo/pallet-message-queue@9.0.0

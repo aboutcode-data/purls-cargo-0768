@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-fast-unstake@41.0.0
 - pkg:cargo/pallet-fast-unstake@42.0.0
 - pkg:cargo/pallet-fast-unstake@43.0.0
+- pkg:cargo/pallet-fast-unstake@44.0.0
 - pkg:cargo/pallet-fast-unstake@5.0.0
 - pkg:cargo/pallet-fast-unstake@6.0.0
 - pkg:cargo/pallet-fast-unstake@7.0.0
