@@ -1,2 +1,3 @@
 - pkg:cargo/ggen-config-clap@4.0.0
 - pkg:cargo/ggen-config-clap@5.0.0
+- pkg:cargo/ggen-config-clap@5.0.1
