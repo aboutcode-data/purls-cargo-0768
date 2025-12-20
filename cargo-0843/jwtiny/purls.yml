@@ -15,3 +15,5 @@
 - pkg:cargo/jwtiny@1.6.0
 - pkg:cargo/jwtiny@1.6.2
 - pkg:cargo/jwtiny@1.6.3
+- pkg:cargo/jwtiny@1.7.0
+- pkg:cargo/jwtiny@1.8.0
