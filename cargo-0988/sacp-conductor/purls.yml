@@ -24,3 +24,4 @@
 - pkg:cargo/sacp-conductor@6.0.0
 - pkg:cargo/sacp-conductor@7.0.0
 - pkg:cargo/sacp-conductor@8.0.0
+- pkg:cargo/sacp-conductor@9.0.0
