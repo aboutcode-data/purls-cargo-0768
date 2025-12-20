@@ -3,3 +3,4 @@
 - pkg:cargo/gsm-egress@0.4.13
 - pkg:cargo/gsm-egress@0.4.14
 - pkg:cargo/gsm-egress@0.4.16
+- pkg:cargo/gsm-egress@0.4.17
