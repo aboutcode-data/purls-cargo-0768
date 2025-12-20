@@ -3,3 +3,5 @@
 - pkg:cargo/cargo-simplebench@1.0.5
 - pkg:cargo/cargo-simplebench@1.0.6
 - pkg:cargo/cargo-simplebench@2.0.0
+- pkg:cargo/cargo-simplebench@2.1.0
+- pkg:cargo/cargo-simplebench@2.1.1
