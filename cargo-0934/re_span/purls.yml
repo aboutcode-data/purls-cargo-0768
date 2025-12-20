@@ -62,3 +62,4 @@
 - pkg:cargo/re_span@0.28.0-alpha.3
 - pkg:cargo/re_span@0.28.0-alpha.4
 - pkg:cargo/re_span@0.28.0-rc.1
+- pkg:cargo/re_span@0.28.1
