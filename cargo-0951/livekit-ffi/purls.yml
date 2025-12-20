@@ -14,6 +14,7 @@
 - pkg:cargo/livekit-ffi@0.12.40
 - pkg:cargo/livekit-ffi@0.12.41
 - pkg:cargo/livekit-ffi@0.12.42
+- pkg:cargo/livekit-ffi@0.12.43
 - pkg:cargo/livekit-ffi@0.3.5
 - pkg:cargo/livekit-ffi@0.4.0
 - pkg:cargo/livekit-ffi@0.4.6
