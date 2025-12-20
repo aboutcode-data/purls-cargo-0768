@@ -14,3 +14,5 @@
 - pkg:cargo/soa-rs@0.7.6
 - pkg:cargo/soa-rs@0.8.0
 - pkg:cargo/soa-rs@0.8.1
+- pkg:cargo/soa-rs@0.9.0
+- pkg:cargo/soa-rs@0.9.1
