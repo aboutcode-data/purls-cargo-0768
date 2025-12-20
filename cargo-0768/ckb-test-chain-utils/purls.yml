@@ -1,1 +1,2 @@
 - pkg:cargo/ckb-test-chain-utils@1.0.0
+- pkg:cargo/ckb-test-chain-utils@1.0.1

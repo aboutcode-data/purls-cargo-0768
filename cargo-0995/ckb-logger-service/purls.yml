@@ -113,3 +113,4 @@
 - pkg:cargo/ckb-logger-service@1.0.0-rc1
 - pkg:cargo/ckb-logger-service@1.0.0-rc2
 - pkg:cargo/ckb-logger-service@1.0.1
+- pkg:cargo/ckb-logger-service@1.0.2
