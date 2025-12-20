@@ -2,3 +2,5 @@
 - pkg:cargo/ip_set@0.1.2
 - pkg:cargo/ip_set@0.1.3
 - pkg:cargo/ip_set@0.1.4
+- pkg:cargo/ip_set@0.1.5
+- pkg:cargo/ip_set@0.1.6
