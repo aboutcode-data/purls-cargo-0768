@@ -6,6 +6,7 @@
 - pkg:cargo/letmein-seccomp@10.3.0
 - pkg:cargo/letmein-seccomp@10.4.0
 - pkg:cargo/letmein-seccomp@11.0.0
+- pkg:cargo/letmein-seccomp@11.1.0
 - pkg:cargo/letmein-seccomp@3.0.0
 - pkg:cargo/letmein-seccomp@4.0.0
 - pkg:cargo/letmein-seccomp@5.0.0

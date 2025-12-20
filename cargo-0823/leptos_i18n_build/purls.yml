@@ -14,3 +14,4 @@
 - pkg:cargo/leptos_i18n_build@0.5.9
 - pkg:cargo/leptos_i18n_build@0.6.0-rc.1
 - pkg:cargo/leptos_i18n_build@0.6.0-rc.2
+- pkg:cargo/leptos_i18n_build@0.6.0-rc.3
