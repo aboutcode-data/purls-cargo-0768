@@ -19,3 +19,4 @@
 - pkg:cargo/ve-tos-rust-sdk@2.9.6
 - pkg:cargo/ve-tos-rust-sdk@2.9.7
 - pkg:cargo/ve-tos-rust-sdk@2.9.8
+- pkg:cargo/ve-tos-rust-sdk@2.9.9
