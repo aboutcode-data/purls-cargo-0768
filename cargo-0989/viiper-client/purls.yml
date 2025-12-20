@@ -1,2 +1,3 @@
 - pkg:cargo/viiper-client@0.0.1-dev
 - pkg:cargo/viiper-client@0.2.2
+- pkg:cargo/viiper-client@0.3.0
