@@ -9,3 +9,4 @@
 - pkg:cargo/solana_fender@0.5.1
 - pkg:cargo/solana_fender@0.5.2
 - pkg:cargo/solana_fender@0.5.3
+- pkg:cargo/solana_fender@0.5.4
