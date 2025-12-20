@@ -1,3 +1,4 @@
+- pkg:cargo/mago-prelude@1.0.0
 - pkg:cargo/mago-prelude@1.0.0-beta.1
 - pkg:cargo/mago-prelude@1.0.0-beta.10
 - pkg:cargo/mago-prelude@1.0.0-beta.11
