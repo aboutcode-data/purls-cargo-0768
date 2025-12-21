@@ -13,6 +13,7 @@
 - pkg:cargo/rbook@0.5.0
 - pkg:cargo/rbook@0.6.0
 - pkg:cargo/rbook@0.6.1
+- pkg:cargo/rbook@0.6.10
 - pkg:cargo/rbook@0.6.2
 - pkg:cargo/rbook@0.6.3
 - pkg:cargo/rbook@0.6.4
