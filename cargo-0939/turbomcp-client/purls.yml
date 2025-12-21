@@ -45,3 +45,4 @@
 - pkg:cargo/turbomcp-client@2.3.2
 - pkg:cargo/turbomcp-client@2.3.3
 - pkg:cargo/turbomcp-client@2.3.4
+- pkg:cargo/turbomcp-client@2.3.5

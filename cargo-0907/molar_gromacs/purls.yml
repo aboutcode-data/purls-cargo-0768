@@ -6,3 +6,4 @@
 - pkg:cargo/molar_gromacs@0.8.1
 - pkg:cargo/molar_gromacs@0.8.2
 - pkg:cargo/molar_gromacs@0.9.0
+- pkg:cargo/molar_gromacs@1.0.0
