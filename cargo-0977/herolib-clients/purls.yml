@@ -3,3 +3,6 @@
 - pkg:cargo/herolib-clients@0.1.7
 - pkg:cargo/herolib-clients@0.1.8
 - pkg:cargo/herolib-clients@0.1.9
+- pkg:cargo/herolib-clients@0.2.0
+- pkg:cargo/herolib-clients@0.2.1
+- pkg:cargo/herolib-clients@0.2.2
