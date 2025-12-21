@@ -9,3 +9,4 @@
 - pkg:cargo/ocsp-stapler@0.4.4
 - pkg:cargo/ocsp-stapler@0.4.5
 - pkg:cargo/ocsp-stapler@0.4.7
+- pkg:cargo/ocsp-stapler@0.4.9
