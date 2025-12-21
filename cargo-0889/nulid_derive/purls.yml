@@ -8,3 +8,4 @@
 - pkg:cargo/nulid_derive@0.5.6
 - pkg:cargo/nulid_derive@0.5.7
 - pkg:cargo/nulid_derive@0.5.8
+- pkg:cargo/nulid_derive@0.5.9
