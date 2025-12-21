@@ -1,3 +1,5 @@
 - pkg:cargo/meteora-sdk@0.1.0
 - pkg:cargo/meteora-sdk@0.6.0
 - pkg:cargo/meteora-sdk@0.6.1
+- pkg:cargo/meteora-sdk@0.6.5
+- pkg:cargo/meteora-sdk@0.6.6
