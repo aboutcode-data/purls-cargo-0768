@@ -1,1 +1,2 @@
 - pkg:cargo/facet-format-xml@0.32.3
+- pkg:cargo/facet-format-xml@0.33.0
