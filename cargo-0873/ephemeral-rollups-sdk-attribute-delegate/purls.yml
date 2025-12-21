@@ -34,3 +34,4 @@
 - pkg:cargo/ephemeral-rollups-sdk-attribute-delegate@0.6.3
 - pkg:cargo/ephemeral-rollups-sdk-attribute-delegate@0.6.4
 - pkg:cargo/ephemeral-rollups-sdk-attribute-delegate@0.6.5
+- pkg:cargo/ephemeral-rollups-sdk-attribute-delegate@0.6.6
