@@ -28,3 +28,4 @@
 - pkg:cargo/demand@1.7.1
 - pkg:cargo/demand@1.7.2
 - pkg:cargo/demand@1.8.0
+- pkg:cargo/demand@1.8.1
