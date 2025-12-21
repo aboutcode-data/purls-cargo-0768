@@ -1,2 +1,4 @@
 - pkg:cargo/qserde@0.1.0
+- pkg:cargo/qserde@0.14.88
+- pkg:cargo/qserde@0.14.89
 - pkg:cargo/qserde@0.2.28
