@@ -1,2 +1,3 @@
 - pkg:cargo/qoobio-valkey-client@0.1.20251123
 - pkg:cargo/qoobio-valkey-client@0.1.20251202
+- pkg:cargo/qoobio-valkey-client@0.1.20251221

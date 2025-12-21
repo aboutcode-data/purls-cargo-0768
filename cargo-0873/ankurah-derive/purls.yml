@@ -39,3 +39,4 @@
 - pkg:cargo/ankurah-derive@0.7.5
 - pkg:cargo/ankurah-derive@0.7.6
 - pkg:cargo/ankurah-derive@0.7.7
+- pkg:cargo/ankurah-derive@0.7.8
