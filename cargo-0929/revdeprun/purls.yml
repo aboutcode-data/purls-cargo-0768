@@ -18,3 +18,4 @@
 - pkg:cargo/revdeprun@1.4.3
 - pkg:cargo/revdeprun@1.4.4
 - pkg:cargo/revdeprun@1.4.5
+- pkg:cargo/revdeprun@2.0.0
