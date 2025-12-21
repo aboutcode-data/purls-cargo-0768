@@ -124,6 +124,7 @@
 - pkg:cargo/vtcode-config@0.50.10
 - pkg:cargo/vtcode-config@0.50.11
 - pkg:cargo/vtcode-config@0.50.12
+- pkg:cargo/vtcode-config@0.50.13
 - pkg:cargo/vtcode-config@0.50.2
 - pkg:cargo/vtcode-config@0.50.3
 - pkg:cargo/vtcode-config@0.50.4
