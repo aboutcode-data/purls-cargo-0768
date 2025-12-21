@@ -101,6 +101,7 @@
 - pkg:cargo/agave-validator@3.0.10
 - pkg:cargo/agave-validator@3.0.11
 - pkg:cargo/agave-validator@3.0.12
+- pkg:cargo/agave-validator@3.0.13
 - pkg:cargo/agave-validator@3.0.2
 - pkg:cargo/agave-validator@3.0.3
 - pkg:cargo/agave-validator@3.0.4
