@@ -7,3 +7,4 @@
 - pkg:cargo/mxpnexus-registry-proto@0.1.7
 - pkg:cargo/mxpnexus-registry-proto@0.1.8
 - pkg:cargo/mxpnexus-registry-proto@0.1.9
+- pkg:cargo/mxpnexus-registry-proto@0.2.0
