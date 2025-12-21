@@ -7,3 +7,4 @@
 - pkg:cargo/ggen@3.2.0
 - pkg:cargo/ggen@4.0.0
 - pkg:cargo/ggen@5.0.0
+- pkg:cargo/ggen@5.0.2
