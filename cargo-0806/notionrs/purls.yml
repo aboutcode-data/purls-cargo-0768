@@ -6,6 +6,7 @@
 - pkg:cargo/notionrs@0.4.2
 - pkg:cargo/notionrs@0.5.0
 - pkg:cargo/notionrs@0.6.0
+- pkg:cargo/notionrs@0.7.0
 - pkg:cargo/notionrs@1.0.0-alpha.1
 - pkg:cargo/notionrs@1.0.0-alpha.10
 - pkg:cargo/notionrs@1.0.0-alpha.11
