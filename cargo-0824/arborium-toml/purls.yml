@@ -21,3 +21,7 @@
 - pkg:cargo/arborium-toml@2.3.0
 - pkg:cargo/arborium-toml@2.3.1
 - pkg:cargo/arborium-toml@2.3.2
+- pkg:cargo/arborium-toml@2.4.0
+- pkg:cargo/arborium-toml@2.4.1
+- pkg:cargo/arborium-toml@2.4.2
+- pkg:cargo/arborium-toml@2.4.3
