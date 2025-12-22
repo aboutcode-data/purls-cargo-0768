@@ -10,6 +10,7 @@
 - pkg:cargo/cuenv@0.15.2
 - pkg:cargo/cuenv@0.15.4
 - pkg:cargo/cuenv@0.15.7
+- pkg:cargo/cuenv@0.16.0
 - pkg:cargo/cuenv@0.2.0
 - pkg:cargo/cuenv@0.2.1
 - pkg:cargo/cuenv@0.2.2

@@ -2,3 +2,5 @@
 - pkg:cargo/framealloc@0.2.1
 - pkg:cargo/framealloc@0.3.0
 - pkg:cargo/framealloc@0.4.0
+- pkg:cargo/framealloc@0.5.1
+- pkg:cargo/framealloc@0.6.0
