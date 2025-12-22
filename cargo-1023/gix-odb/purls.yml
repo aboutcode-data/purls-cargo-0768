@@ -39,3 +39,4 @@
 - pkg:cargo/gix-odb@0.71.0
 - pkg:cargo/gix-odb@0.71.1
 - pkg:cargo/gix-odb@0.72.0
+- pkg:cargo/gix-odb@0.73.0
