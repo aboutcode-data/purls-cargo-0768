@@ -102,3 +102,4 @@
 - pkg:cargo/salvo-cors@0.84.1
 - pkg:cargo/salvo-cors@0.84.2
 - pkg:cargo/salvo-cors@0.85.0
+- pkg:cargo/salvo-cors@0.86.0
