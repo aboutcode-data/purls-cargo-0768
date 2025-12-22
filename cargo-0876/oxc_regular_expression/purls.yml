@@ -3,6 +3,7 @@
 - pkg:cargo/oxc_regular_expression@0.102.0
 - pkg:cargo/oxc_regular_expression@0.103.0
 - pkg:cargo/oxc_regular_expression@0.104.0
+- pkg:cargo/oxc_regular_expression@0.105.0
 - pkg:cargo/oxc_regular_expression@0.25.0
 - pkg:cargo/oxc_regular_expression@0.26.0
 - pkg:cargo/oxc_regular_expression@0.27.0
