@@ -36,6 +36,7 @@
 - pkg:cargo/egobox-moe@0.31.0
 - pkg:cargo/egobox-moe@0.32.0
 - pkg:cargo/egobox-moe@0.33.0
+- pkg:cargo/egobox-moe@0.34.1
 - pkg:cargo/egobox-moe@0.4.0
 - pkg:cargo/egobox-moe@0.5.0
 - pkg:cargo/egobox-moe@0.6.0
