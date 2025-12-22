@@ -6,3 +6,4 @@
 - pkg:cargo/indexed_valued_enums@0.9.2
 - pkg:cargo/indexed_valued_enums@0.9.3
 - pkg:cargo/indexed_valued_enums@1.0.0
+- pkg:cargo/indexed_valued_enums@2.0.0

@@ -1,5 +1,7 @@
 - pkg:cargo/amari@0.10.0
 - pkg:cargo/amari@0.11.0
+- pkg:cargo/amari@0.12.1
+- pkg:cargo/amari@0.12.2
 - pkg:cargo/amari@0.8.6
 - pkg:cargo/amari@0.8.7
 - pkg:cargo/amari@0.9.0

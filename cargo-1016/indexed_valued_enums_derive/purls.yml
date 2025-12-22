@@ -1,1 +1,2 @@
 - pkg:cargo/indexed_valued_enums_derive@1.0.0
+- pkg:cargo/indexed_valued_enums_derive@2.0.0
