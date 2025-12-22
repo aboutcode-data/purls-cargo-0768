@@ -8,3 +8,4 @@
 - pkg:cargo/pg2any_lib@0.3.4
 - pkg:cargo/pg2any_lib@0.3.5
 - pkg:cargo/pg2any_lib@0.4.0
+- pkg:cargo/pg2any_lib@0.4.1
