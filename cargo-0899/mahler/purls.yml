@@ -23,3 +23,4 @@
 - pkg:cargo/mahler@0.21.4
 - pkg:cargo/mahler@0.22.0
 - pkg:cargo/mahler@0.22.1
+- pkg:cargo/mahler@0.23.0
