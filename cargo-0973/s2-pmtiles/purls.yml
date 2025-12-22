@@ -1,3 +1,4 @@
 - pkg:cargo/s2-pmtiles@0.1.0
 - pkg:cargo/s2-pmtiles@0.2.0
 - pkg:cargo/s2-pmtiles@1.0.0
+- pkg:cargo/s2-pmtiles@1.0.1
