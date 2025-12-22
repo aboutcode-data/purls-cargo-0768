@@ -8,3 +8,4 @@
 - pkg:cargo/exhume_filesystem@0.2.5
 - pkg:cargo/exhume_filesystem@0.3.0
 - pkg:cargo/exhume_filesystem@0.3.2
+- pkg:cargo/exhume_filesystem@0.3.3
