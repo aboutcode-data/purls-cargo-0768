@@ -14,6 +14,7 @@
 - pkg:cargo/askama@0.13.0-pre.0
 - pkg:cargo/askama@0.13.1
 - pkg:cargo/askama@0.14.0
+- pkg:cargo/askama@0.15.0
 - pkg:cargo/askama@0.2.0
 - pkg:cargo/askama@0.2.1
 - pkg:cargo/askama@0.3.0

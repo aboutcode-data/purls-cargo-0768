@@ -1,3 +1,4 @@
 - pkg:cargo/token-dict@0.1.0
 - pkg:cargo/token-dict@0.2.0
 - pkg:cargo/token-dict@0.3.0
+- pkg:cargo/token-dict@1.0.0
