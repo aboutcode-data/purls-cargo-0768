@@ -4,3 +4,4 @@
 - pkg:cargo/gn-language-server@1.5.2
 - pkg:cargo/gn-language-server@1.8.0
 - pkg:cargo/gn-language-server@1.9.22-prerelease
+- pkg:cargo/gn-language-server@1.9.23-prerelease
