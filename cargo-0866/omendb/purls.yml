@@ -1,4 +1,5 @@
 - pkg:cargo/omendb@0.0.1-alpha
 - pkg:cargo/omendb@0.0.14
+- pkg:cargo/omendb@0.0.15
 - pkg:cargo/omendb@0.0.5
 - pkg:cargo/omendb@0.0.8
