@@ -31,6 +31,7 @@
 - pkg:cargo/rrtk@0.7.0-alpha.0
 - pkg:cargo/rrtk@0.7.0-alpha.1
 - pkg:cargo/rrtk@0.7.0-alpha.10
+- pkg:cargo/rrtk@0.7.0-alpha.11
 - pkg:cargo/rrtk@0.7.0-alpha.2
 - pkg:cargo/rrtk@0.7.0-alpha.3
 - pkg:cargo/rrtk@0.7.0-alpha.4

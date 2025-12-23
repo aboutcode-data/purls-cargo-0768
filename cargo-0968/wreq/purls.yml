@@ -16,6 +16,7 @@
 - pkg:cargo/wreq@6.0.0-rc.22
 - pkg:cargo/wreq@6.0.0-rc.23
 - pkg:cargo/wreq@6.0.0-rc.24
+- pkg:cargo/wreq@6.0.0-rc.25
 - pkg:cargo/wreq@6.0.0-rc.3
 - pkg:cargo/wreq@6.0.0-rc.4
 - pkg:cargo/wreq@6.0.0-rc.5

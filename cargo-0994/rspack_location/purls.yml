@@ -32,3 +32,4 @@
 - pkg:cargo/rspack_location@0.6.7
 - pkg:cargo/rspack_location@0.6.8
 - pkg:cargo/rspack_location@0.7.0-beta.0
+- pkg:cargo/rspack_location@0.7.0-beta.1

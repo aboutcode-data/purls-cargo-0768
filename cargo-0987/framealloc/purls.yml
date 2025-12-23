@@ -1,4 +1,5 @@
 - pkg:cargo/framealloc@0.1.0
+- pkg:cargo/framealloc@0.10.0
 - pkg:cargo/framealloc@0.2.1
 - pkg:cargo/framealloc@0.3.0
 - pkg:cargo/framealloc@0.4.0
@@ -7,3 +8,4 @@
 - pkg:cargo/framealloc@0.7.0
 - pkg:cargo/framealloc@0.7.1
 - pkg:cargo/framealloc@0.8.0
+- pkg:cargo/framealloc@0.9.0
