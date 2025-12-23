@@ -3,6 +3,7 @@
 - pkg:cargo/amari-dual@0.12.0
 - pkg:cargo/amari-dual@0.12.1
 - pkg:cargo/amari-dual@0.12.2
+- pkg:cargo/amari-dual@0.12.3
 - pkg:cargo/amari-dual@0.8.6
 - pkg:cargo/amari-dual@0.8.7
 - pkg:cargo/amari-dual@0.9.0
