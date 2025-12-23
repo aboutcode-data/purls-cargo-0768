@@ -137,6 +137,7 @@
 - pkg:cargo/zino-core@0.40.0
 - pkg:cargo/zino-core@0.40.1
 - pkg:cargo/zino-core@0.41.0
+- pkg:cargo/zino-core@0.41.1
 - pkg:cargo/zino-core@0.5.0
 - pkg:cargo/zino-core@0.5.1
 - pkg:cargo/zino-core@0.5.2
