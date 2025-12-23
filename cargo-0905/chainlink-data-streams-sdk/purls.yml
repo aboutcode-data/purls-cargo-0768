@@ -4,3 +4,4 @@
 - pkg:cargo/chainlink-data-streams-sdk@1.0.2
 - pkg:cargo/chainlink-data-streams-sdk@1.0.3
 - pkg:cargo/chainlink-data-streams-sdk@1.2.0
+- pkg:cargo/chainlink-data-streams-sdk@1.2.1
