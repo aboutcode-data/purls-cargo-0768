@@ -3,3 +3,4 @@
 - pkg:cargo/fastvec@0.2.1
 - pkg:cargo/fastvec@0.3.0
 - pkg:cargo/fastvec@1.0.0
+- pkg:cargo/fastvec@1.0.1
