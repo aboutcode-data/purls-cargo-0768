@@ -4,3 +4,4 @@
 - pkg:cargo/bevy_debug_panel@0.15.0
 - pkg:cargo/bevy_debug_panel@0.15.1
 - pkg:cargo/bevy_debug_panel@0.16.0
+- pkg:cargo/bevy_debug_panel@0.18.0
