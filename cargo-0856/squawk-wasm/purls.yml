@@ -7,3 +7,4 @@
 - pkg:cargo/squawk-wasm@2.33.0
 - pkg:cargo/squawk-wasm@2.33.1
 - pkg:cargo/squawk-wasm@2.33.2
+- pkg:cargo/squawk-wasm@2.34.0
