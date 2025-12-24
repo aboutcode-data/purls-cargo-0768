@@ -56,6 +56,7 @@
 - pkg:cargo/tempesta@0.1.0
 - pkg:cargo/tempesta@0.1.10
 - pkg:cargo/tempesta@0.1.12
+- pkg:cargo/tempesta@0.1.13
 - pkg:cargo/tempesta@0.1.2
 - pkg:cargo/tempesta@0.1.3
 - pkg:cargo/tempesta@0.1.4
