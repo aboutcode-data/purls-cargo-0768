@@ -6,3 +6,4 @@
 - pkg:cargo/midenc-hir-eval@0.4.1
 - pkg:cargo/midenc-hir-eval@0.5.0
 - pkg:cargo/midenc-hir-eval@0.5.1
+- pkg:cargo/midenc-hir-eval@0.6.0

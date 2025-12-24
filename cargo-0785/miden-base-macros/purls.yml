@@ -7,3 +7,4 @@
 - pkg:cargo/miden-base-macros@0.6.0
 - pkg:cargo/miden-base-macros@0.7.0
 - pkg:cargo/miden-base-macros@0.7.1
+- pkg:cargo/miden-base-macros@0.8.0
