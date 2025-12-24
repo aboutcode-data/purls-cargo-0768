@@ -9,3 +9,4 @@
 - pkg:cargo/disintegrate-serde@1.0.0
 - pkg:cargo/disintegrate-serde@2.0.0
 - pkg:cargo/disintegrate-serde@2.1.0
+- pkg:cargo/disintegrate-serde@3.0.0
