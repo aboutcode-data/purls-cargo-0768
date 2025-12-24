@@ -1,3 +1,4 @@
+- pkg:cargo/grafton-visca-macros@0.10.0
 - pkg:cargo/grafton-visca-macros@0.6.0
 - pkg:cargo/grafton-visca-macros@0.7.0
 - pkg:cargo/grafton-visca-macros@0.7.1
