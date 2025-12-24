@@ -16,3 +16,4 @@
 - pkg:cargo/rten-generate@0.22.0
 - pkg:cargo/rten-generate@0.22.1
 - pkg:cargo/rten-generate@0.23.0
+- pkg:cargo/rten-generate@0.24.0

@@ -17,6 +17,7 @@
 - pkg:cargo/rten-tensor@0.22.0
 - pkg:cargo/rten-tensor@0.22.1
 - pkg:cargo/rten-tensor@0.23.0
+- pkg:cargo/rten-tensor@0.24.0
 - pkg:cargo/rten-tensor@0.3.0
 - pkg:cargo/rten-tensor@0.4.0
 - pkg:cargo/rten-tensor@0.6.0

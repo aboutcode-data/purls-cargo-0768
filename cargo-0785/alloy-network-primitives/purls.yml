@@ -101,3 +101,4 @@
 - pkg:cargo/alloy-network-primitives@1.1.2
 - pkg:cargo/alloy-network-primitives@1.1.3
 - pkg:cargo/alloy-network-primitives@1.2.0
+- pkg:cargo/alloy-network-primitives@1.2.1
