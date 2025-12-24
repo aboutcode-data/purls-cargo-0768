@@ -102,6 +102,7 @@
 - pkg:cargo/v_utils@2.15.2
 - pkg:cargo/v_utils@2.15.3
 - pkg:cargo/v_utils@2.15.4
+- pkg:cargo/v_utils@2.15.5
 - pkg:cargo/v_utils@2.2.0
 - pkg:cargo/v_utils@2.3.0
 - pkg:cargo/v_utils@2.3.1
