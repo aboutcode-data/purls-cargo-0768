@@ -9,6 +9,7 @@
 - pkg:cargo/codebook_downloader@0.3.19
 - pkg:cargo/codebook_downloader@0.3.2
 - pkg:cargo/codebook_downloader@0.3.20
+- pkg:cargo/codebook_downloader@0.3.22
 - pkg:cargo/codebook_downloader@0.3.3
 - pkg:cargo/codebook_downloader@0.3.5
 - pkg:cargo/codebook_downloader@0.3.7
