@@ -23,6 +23,7 @@
 - pkg:cargo/rmp@0.8.12
 - pkg:cargo/rmp@0.8.13
 - pkg:cargo/rmp@0.8.14
+- pkg:cargo/rmp@0.8.15
 - pkg:cargo/rmp@0.8.2
 - pkg:cargo/rmp@0.8.3
 - pkg:cargo/rmp@0.8.4

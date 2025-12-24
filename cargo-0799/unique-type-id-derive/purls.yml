@@ -6,3 +6,4 @@
 - pkg:cargo/unique-type-id-derive@1.2.0
 - pkg:cargo/unique-type-id-derive@1.3.0
 - pkg:cargo/unique-type-id-derive@1.4.0
+- pkg:cargo/unique-type-id-derive@1.4.1
