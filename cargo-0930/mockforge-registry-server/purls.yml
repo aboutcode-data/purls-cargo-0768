@@ -1,5 +1,6 @@
 - pkg:cargo/mockforge-registry-server@0.3.10
 - pkg:cargo/mockforge-registry-server@0.3.11
 - pkg:cargo/mockforge-registry-server@0.3.12
+- pkg:cargo/mockforge-registry-server@0.3.13
 - pkg:cargo/mockforge-registry-server@0.3.8
 - pkg:cargo/mockforge-registry-server@0.3.9
