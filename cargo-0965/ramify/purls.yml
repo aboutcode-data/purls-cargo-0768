@@ -14,3 +14,4 @@
 - pkg:cargo/ramify@0.7.2
 - pkg:cargo/ramify@0.8.0
 - pkg:cargo/ramify@0.9.0
+- pkg:cargo/ramify@0.9.1
