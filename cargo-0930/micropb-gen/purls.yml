@@ -4,3 +4,4 @@
 - pkg:cargo/micropb-gen@0.3.0
 - pkg:cargo/micropb-gen@0.4.0
 - pkg:cargo/micropb-gen@0.4.1
+- pkg:cargo/micropb-gen@0.5.0
