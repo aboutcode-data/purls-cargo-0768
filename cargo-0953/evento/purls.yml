@@ -74,3 +74,5 @@
 - pkg:cargo/evento@1.7.1
 - pkg:cargo/evento@1.7.2
 - pkg:cargo/evento@1.8.0
+- pkg:cargo/evento@2.0.0-alpha.2
+- pkg:cargo/evento@2.0.0-alpha.3
