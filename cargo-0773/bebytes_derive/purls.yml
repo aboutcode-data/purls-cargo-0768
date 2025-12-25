@@ -43,3 +43,4 @@
 - pkg:cargo/bebytes_derive@2.8.0
 - pkg:cargo/bebytes_derive@2.9.0
 - pkg:cargo/bebytes_derive@3.0.0
+- pkg:cargo/bebytes_derive@3.0.1
