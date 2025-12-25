@@ -2,3 +2,4 @@
 - pkg:cargo/oxdock-fixture@0.3.0-alpha
 - pkg:cargo/oxdock-fixture@0.4.0-alpha
 - pkg:cargo/oxdock-fixture@0.5.0-alpha
+- pkg:cargo/oxdock-fixture@0.6.0-alpha
