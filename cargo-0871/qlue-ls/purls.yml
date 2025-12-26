@@ -30,6 +30,7 @@
 - pkg:cargo/qlue-ls@0.20.2
 - pkg:cargo/qlue-ls@0.20.3
 - pkg:cargo/qlue-ls@0.23.1
+- pkg:cargo/qlue-ls@0.24.0
 - pkg:cargo/qlue-ls@0.3.0
 - pkg:cargo/qlue-ls@0.3.1
 - pkg:cargo/qlue-ls@0.3.2
