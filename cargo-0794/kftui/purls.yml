@@ -33,3 +33,5 @@
 - pkg:cargo/kftui@0.27.0
 - pkg:cargo/kftui@0.27.1
 - pkg:cargo/kftui@0.27.4
+- pkg:cargo/kftui@0.27.5
+- pkg:cargo/kftui@0.27.6
