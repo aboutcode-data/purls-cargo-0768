@@ -20,3 +20,4 @@
 - pkg:cargo/zbus_systemd@0.25700.0
 - pkg:cargo/zbus_systemd@0.25701.0
 - pkg:cargo/zbus_systemd@0.25800.0
+- pkg:cargo/zbus_systemd@0.25900.0
