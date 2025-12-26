@@ -1,4 +1,5 @@
 - pkg:cargo/ratatui-termwiz@0.0.0
+- pkg:cargo/ratatui-termwiz@0.1.0
 - pkg:cargo/ratatui-termwiz@0.1.0-alpha.0
 - pkg:cargo/ratatui-termwiz@0.1.0-alpha.1
 - pkg:cargo/ratatui-termwiz@0.1.0-alpha.2
