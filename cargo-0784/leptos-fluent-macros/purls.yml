@@ -84,3 +84,4 @@
 - pkg:cargo/leptos-fluent-macros@0.2.7
 - pkg:cargo/leptos-fluent-macros@0.2.8
 - pkg:cargo/leptos-fluent-macros@0.2.9
+- pkg:cargo/leptos-fluent-macros@0.3.0
