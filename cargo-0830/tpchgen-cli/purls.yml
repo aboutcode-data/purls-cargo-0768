@@ -5,3 +5,4 @@
 - pkg:cargo/tpchgen-cli@1.1.1
 - pkg:cargo/tpchgen-cli@2.0.0
 - pkg:cargo/tpchgen-cli@2.0.1
+- pkg:cargo/tpchgen-cli@2.0.2
