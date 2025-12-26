@@ -35,6 +35,7 @@
 - pkg:cargo/r2d2_sqlite@0.3.1
 - pkg:cargo/r2d2_sqlite@0.30.0
 - pkg:cargo/r2d2_sqlite@0.31.0
+- pkg:cargo/r2d2_sqlite@0.32.0
 - pkg:cargo/r2d2_sqlite@0.4.0
 - pkg:cargo/r2d2_sqlite@0.5.0
 - pkg:cargo/r2d2_sqlite@0.5.1
