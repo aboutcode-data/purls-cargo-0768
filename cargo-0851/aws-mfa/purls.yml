@@ -54,6 +54,7 @@
 - pkg:cargo/aws-mfa@1.0.22
 - pkg:cargo/aws-mfa@1.0.23
 - pkg:cargo/aws-mfa@1.0.24
+- pkg:cargo/aws-mfa@1.0.25
 - pkg:cargo/aws-mfa@1.0.3
 - pkg:cargo/aws-mfa@1.0.4
 - pkg:cargo/aws-mfa@1.0.5
