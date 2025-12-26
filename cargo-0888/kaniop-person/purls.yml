@@ -10,6 +10,7 @@
 - pkg:cargo/kaniop-person@0.0.0-beta.8
 - pkg:cargo/kaniop-person@0.0.0-beta.9
 - pkg:cargo/kaniop-person@0.1.1
+- pkg:cargo/kaniop-person@0.1.10
 - pkg:cargo/kaniop-person@0.1.2
 - pkg:cargo/kaniop-person@0.1.5
 - pkg:cargo/kaniop-person@0.1.6
