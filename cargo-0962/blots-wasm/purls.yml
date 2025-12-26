@@ -12,6 +12,7 @@
 - pkg:cargo/blots-wasm@0.10.2
 - pkg:cargo/blots-wasm@0.10.20
 - pkg:cargo/blots-wasm@0.10.21
+- pkg:cargo/blots-wasm@0.10.22
 - pkg:cargo/blots-wasm@0.10.3
 - pkg:cargo/blots-wasm@0.10.4
 - pkg:cargo/blots-wasm@0.10.5
