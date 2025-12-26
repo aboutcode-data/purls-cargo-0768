@@ -393,3 +393,4 @@
 - pkg:cargo/swc_cli@0.96.0
 - pkg:cargo/swc_cli@0.97.0
 - pkg:cargo/swc_cli@0.97.1
+- pkg:cargo/swc_cli@0.98.0
