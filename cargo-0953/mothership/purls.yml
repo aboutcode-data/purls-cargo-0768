@@ -27,6 +27,8 @@
 - pkg:cargo/mothership@0.0.42
 - pkg:cargo/mothership@0.0.43
 - pkg:cargo/mothership@0.0.44
+- pkg:cargo/mothership@0.0.45
+- pkg:cargo/mothership@0.0.46
 - pkg:cargo/mothership@0.0.5
 - pkg:cargo/mothership@0.0.6
 - pkg:cargo/mothership@0.0.7
