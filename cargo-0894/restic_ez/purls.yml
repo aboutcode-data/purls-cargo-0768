@@ -5,3 +5,5 @@
 - pkg:cargo/restic_ez@0.1.4
 - pkg:cargo/restic_ez@0.1.5
 - pkg:cargo/restic_ez@0.3.0
+- pkg:cargo/restic_ez@0.4.0
+- pkg:cargo/restic_ez@0.4.1
