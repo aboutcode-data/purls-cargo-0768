@@ -47,6 +47,7 @@
 - pkg:cargo/guppy@0.17.21
 - pkg:cargo/guppy@0.17.22
 - pkg:cargo/guppy@0.17.23
+- pkg:cargo/guppy@0.17.24
 - pkg:cargo/guppy@0.17.3
 - pkg:cargo/guppy@0.17.4
 - pkg:cargo/guppy@0.17.5
