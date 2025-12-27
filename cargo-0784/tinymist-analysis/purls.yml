@@ -46,3 +46,4 @@
 - pkg:cargo/tinymist-analysis@0.14.4
 - pkg:cargo/tinymist-analysis@0.14.4-rc1
 - pkg:cargo/tinymist-analysis@0.14.6-rc1
+- pkg:cargo/tinymist-analysis@0.14.6-rc2
