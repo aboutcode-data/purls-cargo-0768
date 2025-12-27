@@ -31,3 +31,5 @@
 - pkg:cargo/compare-changes@0.6.7
 - pkg:cargo/compare-changes@0.6.9
 - pkg:cargo/compare-changes@0.7.0
+- pkg:cargo/compare-changes@0.7.1
+- pkg:cargo/compare-changes@0.7.2
