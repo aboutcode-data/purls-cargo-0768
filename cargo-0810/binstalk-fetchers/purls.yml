@@ -28,6 +28,7 @@
 - pkg:cargo/binstalk-fetchers@0.10.30
 - pkg:cargo/binstalk-fetchers@0.10.31
 - pkg:cargo/binstalk-fetchers@0.10.32
+- pkg:cargo/binstalk-fetchers@0.10.33
 - pkg:cargo/binstalk-fetchers@0.10.4
 - pkg:cargo/binstalk-fetchers@0.10.5
 - pkg:cargo/binstalk-fetchers@0.10.6

@@ -28,6 +28,7 @@
 - pkg:cargo/binstalk-registry@0.11.3
 - pkg:cargo/binstalk-registry@0.11.30
 - pkg:cargo/binstalk-registry@0.11.31
+- pkg:cargo/binstalk-registry@0.11.32
 - pkg:cargo/binstalk-registry@0.11.4
 - pkg:cargo/binstalk-registry@0.11.5
 - pkg:cargo/binstalk-registry@0.11.6

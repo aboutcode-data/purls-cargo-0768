@@ -35,3 +35,4 @@
 - pkg:cargo/rbdc-sqlite@4.6.2
 - pkg:cargo/rbdc-sqlite@4.6.3
 - pkg:cargo/rbdc-sqlite@4.6.4
+- pkg:cargo/rbdc-sqlite@4.6.5
