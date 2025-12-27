@@ -29,6 +29,7 @@
 - pkg:cargo/z3@0.19.4
 - pkg:cargo/z3@0.19.5
 - pkg:cargo/z3@0.19.6
+- pkg:cargo/z3@0.19.7
 - pkg:cargo/z3@0.2.0
 - pkg:cargo/z3@0.3.0
 - pkg:cargo/z3@0.3.1
