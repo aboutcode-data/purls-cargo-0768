@@ -6,3 +6,4 @@
 - pkg:cargo/haste-fhirpath@0.4.1
 - pkg:cargo/haste-fhirpath@0.5.0
 - pkg:cargo/haste-fhirpath@0.6.0
+- pkg:cargo/haste-fhirpath@0.6.1
