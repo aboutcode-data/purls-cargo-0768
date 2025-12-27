@@ -3,3 +3,4 @@
 - pkg:cargo/rstest-bdd-patterns@0.1.0-alpha4
 - pkg:cargo/rstest-bdd-patterns@0.2.0
 - pkg:cargo/rstest-bdd-patterns@0.3.0
+- pkg:cargo/rstest-bdd-patterns@0.3.1
