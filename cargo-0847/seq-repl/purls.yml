@@ -3,3 +3,4 @@
 - pkg:cargo/seq-repl@0.12.2
 - pkg:cargo/seq-repl@0.12.3
 - pkg:cargo/seq-repl@0.13.0
+- pkg:cargo/seq-repl@0.14.1
