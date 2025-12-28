@@ -49,3 +49,4 @@
 - pkg:cargo/aur-depends@4.0.3
 - pkg:cargo/aur-depends@4.0.4
 - pkg:cargo/aur-depends@4.0.5
+- pkg:cargo/aur-depends@5.0.0
