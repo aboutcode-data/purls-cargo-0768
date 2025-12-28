@@ -10,3 +10,5 @@
 - pkg:cargo/libmwemu@0.23.3
 - pkg:cargo/libmwemu@0.23.5
 - pkg:cargo/libmwemu@0.23.6
+- pkg:cargo/libmwemu@0.23.7
+- pkg:cargo/libmwemu@0.23.8
