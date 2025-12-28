@@ -14,3 +14,5 @@
 - pkg:cargo/kit-macros@0.1.56
 - pkg:cargo/kit-macros@0.1.59
 - pkg:cargo/kit-macros@0.1.6
+- pkg:cargo/kit-macros@0.1.62
+- pkg:cargo/kit-macros@0.1.65
