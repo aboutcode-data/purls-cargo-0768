@@ -27,6 +27,7 @@
 - pkg:cargo/digest@0.11.0-rc.2
 - pkg:cargo/digest@0.11.0-rc.3
 - pkg:cargo/digest@0.11.0-rc.4
+- pkg:cargo/digest@0.11.0-rc.5
 - pkg:cargo/digest@0.2.0
 - pkg:cargo/digest@0.2.1
 - pkg:cargo/digest@0.3.0
