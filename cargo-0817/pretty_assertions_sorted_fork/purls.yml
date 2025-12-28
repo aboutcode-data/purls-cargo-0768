@@ -1,2 +1,3 @@
 - pkg:cargo/pretty_assertions_sorted_fork@0.10.0
 - pkg:cargo/pretty_assertions_sorted_fork@0.10.1
+- pkg:cargo/pretty_assertions_sorted_fork@0.11.0
