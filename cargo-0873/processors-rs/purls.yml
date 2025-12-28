@@ -3,3 +3,4 @@
 - pkg:cargo/processors-rs@0.6.3
 - pkg:cargo/processors-rs@0.6.4
 - pkg:cargo/processors-rs@0.6.5
+- pkg:cargo/processors-rs@0.6.7
