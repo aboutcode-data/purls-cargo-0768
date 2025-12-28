@@ -9,3 +9,4 @@
 - pkg:cargo/libmwemu@0.23.2
 - pkg:cargo/libmwemu@0.23.3
 - pkg:cargo/libmwemu@0.23.5
+- pkg:cargo/libmwemu@0.23.6

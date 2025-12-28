@@ -7,3 +7,5 @@
 - pkg:cargo/chatpack@0.2.5
 - pkg:cargo/chatpack@0.2.6
 - pkg:cargo/chatpack@0.3.0
+- pkg:cargo/chatpack@0.5.0
+- pkg:cargo/chatpack@0.5.1
