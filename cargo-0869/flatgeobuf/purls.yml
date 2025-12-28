@@ -25,3 +25,5 @@
 - pkg:cargo/flatgeobuf@4.5.0
 - pkg:cargo/flatgeobuf@4.6.0
 - pkg:cargo/flatgeobuf@5.0.0
+- pkg:cargo/flatgeobuf@6.0.0
+- pkg:cargo/flatgeobuf@6.0.1
