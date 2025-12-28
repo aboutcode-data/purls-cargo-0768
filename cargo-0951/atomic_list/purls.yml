@@ -9,3 +9,5 @@
 - pkg:cargo/atomic_list@1.6.0
 - pkg:cargo/atomic_list@1.7.0
 - pkg:cargo/atomic_list@1.8.0
+- pkg:cargo/atomic_list@1.8.1
+- pkg:cargo/atomic_list@1.8.2
