@@ -84,6 +84,8 @@
 - pkg:cargo/hyperlane-utils@12.11.0
 - pkg:cargo/hyperlane-utils@12.12.0
 - pkg:cargo/hyperlane-utils@12.12.1
+- pkg:cargo/hyperlane-utils@12.13.1
+- pkg:cargo/hyperlane-utils@12.13.2
 - pkg:cargo/hyperlane-utils@12.2.0
 - pkg:cargo/hyperlane-utils@12.3.0
 - pkg:cargo/hyperlane-utils@12.3.1
