@@ -1,4 +1,6 @@
 - pkg:cargo/css_feature_data@0.0.1
+- pkg:cargo/css_feature_data@0.0.10
+- pkg:cargo/css_feature_data@0.0.10-canary.59b327ba5b
 - pkg:cargo/css_feature_data@0.0.2-canary.1050d3e53562bc81e62f7401789a23a50e1975a8
 - pkg:cargo/css_feature_data@0.0.2-canary.2b86d7b7085aec2dd4a4b7db242a2de092d8d58f
 - pkg:cargo/css_feature_data@0.0.2-canary.58ebb082ddf64e4dada17f7d7ac7190b69d7430f

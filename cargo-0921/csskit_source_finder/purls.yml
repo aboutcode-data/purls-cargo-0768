@@ -1,4 +1,6 @@
 - pkg:cargo/csskit_source_finder@0.0.0
+- pkg:cargo/csskit_source_finder@0.0.10
+- pkg:cargo/csskit_source_finder@0.0.10-canary.59b327ba5b
 - pkg:cargo/csskit_source_finder@0.0.5
 - pkg:cargo/csskit_source_finder@0.0.6
 - pkg:cargo/csskit_source_finder@0.0.6-canary.23726265a1
