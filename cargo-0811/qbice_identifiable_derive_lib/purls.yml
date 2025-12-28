@@ -1,1 +1,2 @@
 - pkg:cargo/qbice_identifiable_derive_lib@0.1.0
+- pkg:cargo/qbice_identifiable_derive_lib@0.1.1
