@@ -1,4 +1,9 @@
+- pkg:cargo/osd-core@0.2.10
+- pkg:cargo/osd-core@0.2.11
+- pkg:cargo/osd-core@0.2.12
 - pkg:cargo/osd-core@0.2.4
 - pkg:cargo/osd-core@0.2.5
 - pkg:cargo/osd-core@0.2.6
 - pkg:cargo/osd-core@0.2.7
+- pkg:cargo/osd-core@0.2.8
+- pkg:cargo/osd-core@0.2.9

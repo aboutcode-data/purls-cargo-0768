@@ -1,4 +1,5 @@
 - pkg:cargo/qail-pg@0.10.0
+- pkg:cargo/qail-pg@0.11.0
 - pkg:cargo/qail-pg@0.9.10
 - pkg:cargo/qail-pg@0.9.11
 - pkg:cargo/qail-pg@0.9.7
