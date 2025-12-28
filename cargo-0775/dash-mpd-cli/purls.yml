@@ -29,6 +29,7 @@
 - pkg:cargo/dash-mpd-cli@0.2.25
 - pkg:cargo/dash-mpd-cli@0.2.26
 - pkg:cargo/dash-mpd-cli@0.2.27
+- pkg:cargo/dash-mpd-cli@0.2.29
 - pkg:cargo/dash-mpd-cli@0.2.3
 - pkg:cargo/dash-mpd-cli@0.2.4
 - pkg:cargo/dash-mpd-cli@0.2.5
