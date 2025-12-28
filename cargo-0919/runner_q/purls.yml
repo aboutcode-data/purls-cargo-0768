@@ -13,3 +13,4 @@
 - pkg:cargo/runner_q@0.5.4
 - pkg:cargo/runner_q@0.5.5
 - pkg:cargo/runner_q@0.5.6
+- pkg:cargo/runner_q@0.6.0
