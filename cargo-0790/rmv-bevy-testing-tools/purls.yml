@@ -22,3 +22,4 @@
 - pkg:cargo/rmv-bevy-testing-tools@0.7.3
 - pkg:cargo/rmv-bevy-testing-tools@0.8.0
 - pkg:cargo/rmv-bevy-testing-tools@0.8.1
+- pkg:cargo/rmv-bevy-testing-tools@0.9.0
