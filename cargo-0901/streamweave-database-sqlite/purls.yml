@@ -1,1 +1,2 @@
 - pkg:cargo/streamweave-database-sqlite@0.3.0
+- pkg:cargo/streamweave-database-sqlite@0.4.0

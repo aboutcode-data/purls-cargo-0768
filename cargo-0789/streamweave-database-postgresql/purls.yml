@@ -1,1 +1,2 @@
 - pkg:cargo/streamweave-database-postgresql@0.3.0
+- pkg:cargo/streamweave-database-postgresql@0.4.0

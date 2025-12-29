@@ -152,3 +152,5 @@
 - pkg:cargo/vtcode-config@0.54.2
 - pkg:cargo/vtcode-config@0.54.3
 - pkg:cargo/vtcode-config@0.54.4
+- pkg:cargo/vtcode-config@0.55.0
+- pkg:cargo/vtcode-config@0.55.1
