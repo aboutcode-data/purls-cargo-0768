@@ -5,6 +5,7 @@
 - pkg:cargo/ree-exchange-sdk-macro@0.11.2
 - pkg:cargo/ree-exchange-sdk-macro@0.11.3
 - pkg:cargo/ree-exchange-sdk-macro@0.12.0
+- pkg:cargo/ree-exchange-sdk-macro@0.12.1
 - pkg:cargo/ree-exchange-sdk-macro@0.7.0
 - pkg:cargo/ree-exchange-sdk-macro@0.7.1
 - pkg:cargo/ree-exchange-sdk-macro@0.8.0
