@@ -1,1 +1,3 @@
 - pkg:cargo/plugins@0.1.24
+- pkg:cargo/plugins@0.1.25
+- pkg:cargo/plugins@0.1.26
