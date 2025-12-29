@@ -20,3 +20,4 @@
 - pkg:cargo/feldera-observability@0.210.0
 - pkg:cargo/feldera-observability@0.211.0
 - pkg:cargo/feldera-observability@0.212.0
+- pkg:cargo/feldera-observability@0.213.0
