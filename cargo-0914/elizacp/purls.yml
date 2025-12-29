@@ -10,6 +10,8 @@
 - pkg:cargo/elizacp@1.0.0-alpha.9
 - pkg:cargo/elizacp@1.1.0
 - pkg:cargo/elizacp@1.2.0
+- pkg:cargo/elizacp@10.0.0-alpha.1
+- pkg:cargo/elizacp@10.0.0-alpha.2
 - pkg:cargo/elizacp@2.0.0
 - pkg:cargo/elizacp@2.0.1
 - pkg:cargo/elizacp@3.0.0
