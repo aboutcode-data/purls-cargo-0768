@@ -1,5 +1,6 @@
 - pkg:cargo/derive_atom_set@0.0.10
 - pkg:cargo/derive_atom_set@0.0.10-canary.59b327ba5b
+- pkg:cargo/derive_atom_set@0.0.11-canary.efc7e551f1
 - pkg:cargo/derive_atom_set@0.0.3
 - pkg:cargo/derive_atom_set@0.0.3-canary.2b9ff762ce0a482b5dd39eb212ef34f687a0bd5a
 - pkg:cargo/derive_atom_set@0.0.3-canary.5648c010d7f9d040fc2f6b2e6f93205256865583
