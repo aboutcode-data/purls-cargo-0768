@@ -13,6 +13,8 @@
 - pkg:cargo/sacp-conductor@1.0.0-alpha.8
 - pkg:cargo/sacp-conductor@1.0.0-alpha.9
 - pkg:cargo/sacp-conductor@1.0.1
+- pkg:cargo/sacp-conductor@10.0.0-alpha.1
+- pkg:cargo/sacp-conductor@10.0.0-alpha.2
 - pkg:cargo/sacp-conductor@2.0.0
 - pkg:cargo/sacp-conductor@2.0.1
 - pkg:cargo/sacp-conductor@2.1.0
