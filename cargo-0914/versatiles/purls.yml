@@ -91,3 +91,5 @@
 - pkg:cargo/versatiles@2.2.0
 - pkg:cargo/versatiles@2.3.0
 - pkg:cargo/versatiles@2.3.1
+- pkg:cargo/versatiles@3.0.1-rc.1
+- pkg:cargo/versatiles@3.0.1-rc.2
