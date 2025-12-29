@@ -1,5 +1,7 @@
 - pkg:cargo/csskit_spec_generator@0.0.10
 - pkg:cargo/csskit_spec_generator@0.0.10-canary.59b327ba5b
+- pkg:cargo/csskit_spec_generator@0.0.11-canary.28b01da7bf
+- pkg:cargo/csskit_spec_generator@0.0.11-canary.c8d643b194
 - pkg:cargo/csskit_spec_generator@0.0.11-canary.efc7e551f1
 - pkg:cargo/csskit_spec_generator@0.0.7
 - pkg:cargo/csskit_spec_generator@0.0.7-canary.477dda2a83
