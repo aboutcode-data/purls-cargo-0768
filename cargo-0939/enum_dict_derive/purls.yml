@@ -2,3 +2,4 @@
 - pkg:cargo/enum_dict_derive@0.1.1
 - pkg:cargo/enum_dict_derive@0.2.0
 - pkg:cargo/enum_dict_derive@0.2.1
+- pkg:cargo/enum_dict_derive@0.4.0
