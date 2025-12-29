@@ -1,6 +1,7 @@
 - pkg:cargo/css_parse@0.0.1
 - pkg:cargo/css_parse@0.0.10
 - pkg:cargo/css_parse@0.0.10-canary.59b327ba5b
+- pkg:cargo/css_parse@0.0.11-canary.efc7e551f1
 - pkg:cargo/css_parse@0.0.2
 - pkg:cargo/css_parse@0.0.2-canary.00591b851c9166fe68aab3101a6a25692148d3ac
 - pkg:cargo/css_parse@0.0.2-canary.0077f0b1f2c48c766c267482c175bce3b545536d
