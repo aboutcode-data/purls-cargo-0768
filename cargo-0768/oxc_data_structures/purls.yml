@@ -4,6 +4,7 @@
 - pkg:cargo/oxc_data_structures@0.103.0
 - pkg:cargo/oxc_data_structures@0.104.0
 - pkg:cargo/oxc_data_structures@0.105.0
+- pkg:cargo/oxc_data_structures@0.106.0
 - pkg:cargo/oxc_data_structures@0.30.5
 - pkg:cargo/oxc_data_structures@0.31.0
 - pkg:cargo/oxc_data_structures@0.32.0

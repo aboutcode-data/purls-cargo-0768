@@ -17,3 +17,7 @@
 - pkg:cargo/grits-core@2.1.0
 - pkg:cargo/grits-core@2.2.0
 - pkg:cargo/grits-core@2.2.1
+- pkg:cargo/grits-core@2.2.2
+- pkg:cargo/grits-core@2.2.3
+- pkg:cargo/grits-core@2.2.4
+- pkg:cargo/grits-core@2.2.5
