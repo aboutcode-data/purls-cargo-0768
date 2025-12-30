@@ -5,3 +5,4 @@
 - pkg:cargo/facet-axum@0.34.0
 - pkg:cargo/facet-axum@0.35.0
 - pkg:cargo/facet-axum@0.36.0
+- pkg:cargo/facet-axum@0.40.0
