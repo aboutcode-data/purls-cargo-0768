@@ -21,6 +21,7 @@
 - pkg:cargo/ireq@0.1.30
 - pkg:cargo/ireq@0.1.31
 - pkg:cargo/ireq@0.1.32
+- pkg:cargo/ireq@0.1.33
 - pkg:cargo/ireq@0.1.4
 - pkg:cargo/ireq@0.1.5
 - pkg:cargo/ireq@0.1.6

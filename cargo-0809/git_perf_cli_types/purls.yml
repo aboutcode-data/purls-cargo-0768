@@ -2,3 +2,4 @@
 - pkg:cargo/git_perf_cli_types@0.1.1
 - pkg:cargo/git_perf_cli_types@0.2.0
 - pkg:cargo/git_perf_cli_types@0.2.1
+- pkg:cargo/git_perf_cli_types@0.3.0
