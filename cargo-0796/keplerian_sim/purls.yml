@@ -10,3 +10,4 @@
 - pkg:cargo/keplerian_sim@0.6.2
 - pkg:cargo/keplerian_sim@0.6.3
 - pkg:cargo/keplerian_sim@0.7.0
+- pkg:cargo/keplerian_sim@0.7.1
