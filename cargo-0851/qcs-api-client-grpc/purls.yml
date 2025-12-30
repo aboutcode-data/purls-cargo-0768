@@ -46,6 +46,15 @@
 - pkg:cargo/qcs-api-client-grpc@0.13.0-dev2.1
 - pkg:cargo/qcs-api-client-grpc@0.13.0-dev2.2
 - pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.0
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.1
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.2
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.3
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.4
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.5
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.6
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.7
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.8
+- pkg:cargo/qcs-api-client-grpc@0.13.0-jselig-cli.9
 - pkg:cargo/qcs-api-client-grpc@0.13.0-kstrand.2
 - pkg:cargo/qcs-api-client-grpc@0.2.2
 - pkg:cargo/qcs-api-client-grpc@0.2.3
