@@ -42,6 +42,7 @@
 - pkg:cargo/blue-build-template@0.9.25
 - pkg:cargo/blue-build-template@0.9.26
 - pkg:cargo/blue-build-template@0.9.27
+- pkg:cargo/blue-build-template@0.9.28
 - pkg:cargo/blue-build-template@0.9.3
 - pkg:cargo/blue-build-template@0.9.4
 - pkg:cargo/blue-build-template@0.9.5
