@@ -30,6 +30,7 @@
 - pkg:cargo/pankosmia_web@0.12.3
 - pkg:cargo/pankosmia_web@0.12.4
 - pkg:cargo/pankosmia_web@0.12.5
+- pkg:cargo/pankosmia_web@0.12.6
 - pkg:cargo/pankosmia_web@0.2.0
 - pkg:cargo/pankosmia_web@0.2.1
 - pkg:cargo/pankosmia_web@0.2.2

@@ -26,3 +26,4 @@
 - pkg:cargo/ini-merge@0.6.1
 - pkg:cargo/ini-merge@0.6.2
 - pkg:cargo/ini-merge@0.6.3
+- pkg:cargo/ini-merge@0.7.0
