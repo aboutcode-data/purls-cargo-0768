@@ -22,3 +22,5 @@
 - pkg:cargo/flux9s@0.5.7
 - pkg:cargo/flux9s@0.5.8
 - pkg:cargo/flux9s@0.5.9
+- pkg:cargo/flux9s@0.6.0
+- pkg:cargo/flux9s@0.6.1
