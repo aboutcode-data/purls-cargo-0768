@@ -3,3 +3,4 @@
 - pkg:cargo/dyson_log@0.0.8
 - pkg:cargo/dyson_log@0.0.9
 - pkg:cargo/dyson_log@0.1.0
+- pkg:cargo/dyson_log@0.1.1
