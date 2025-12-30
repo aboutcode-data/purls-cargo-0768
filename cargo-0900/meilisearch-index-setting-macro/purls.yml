@@ -18,3 +18,4 @@
 - pkg:cargo/meilisearch-index-setting-macro@0.29.1
 - pkg:cargo/meilisearch-index-setting-macro@0.30.0
 - pkg:cargo/meilisearch-index-setting-macro@0.31.0
+- pkg:cargo/meilisearch-index-setting-macro@0.32.0
