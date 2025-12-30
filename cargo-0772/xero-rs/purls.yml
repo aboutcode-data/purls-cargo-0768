@@ -24,6 +24,8 @@
 - pkg:cargo/xero-rs@0.1.0-alpha.8
 - pkg:cargo/xero-rs@0.1.0-alpha.9
 - pkg:cargo/xero-rs@0.2.0-alpha.1
+- pkg:cargo/xero-rs@0.2.0-alpha.10
+- pkg:cargo/xero-rs@0.2.0-alpha.11
 - pkg:cargo/xero-rs@0.2.0-alpha.2
 - pkg:cargo/xero-rs@0.2.0-alpha.3
 - pkg:cargo/xero-rs@0.2.0-alpha.4
@@ -31,3 +33,4 @@
 - pkg:cargo/xero-rs@0.2.0-alpha.6
 - pkg:cargo/xero-rs@0.2.0-alpha.7
 - pkg:cargo/xero-rs@0.2.0-alpha.8
+- pkg:cargo/xero-rs@0.2.0-alpha.9

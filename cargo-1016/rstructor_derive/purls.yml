@@ -12,6 +12,8 @@
 - pkg:cargo/rstructor_derive@0.1.23
 - pkg:cargo/rstructor_derive@0.1.25
 - pkg:cargo/rstructor_derive@0.1.26
+- pkg:cargo/rstructor_derive@0.1.27
+- pkg:cargo/rstructor_derive@0.1.28
 - pkg:cargo/rstructor_derive@0.1.5
 - pkg:cargo/rstructor_derive@0.1.6
 - pkg:cargo/rstructor_derive@0.1.8
