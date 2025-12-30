@@ -7,3 +7,4 @@
 - pkg:cargo/gn-language-server@1.9.23-prerelease
 - pkg:cargo/gn-language-server@1.9.24-prerelease
 - pkg:cargo/gn-language-server@1.9.25-prerelease
+- pkg:cargo/gn-language-server@1.9.26-prerelease
