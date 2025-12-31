@@ -8,3 +8,4 @@
 - pkg:cargo/mailgen@0.2.6
 - pkg:cargo/mailgen@0.3.0
 - pkg:cargo/mailgen@0.4.0
+- pkg:cargo/mailgen@0.4.1

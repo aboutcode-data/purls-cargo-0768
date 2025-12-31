@@ -7,3 +7,6 @@
 - pkg:cargo/uni_error@0.5.1
 - pkg:cargo/uni_error@0.6.0
 - pkg:cargo/uni_error@0.7.0
+- pkg:cargo/uni_error@0.7.1
+- pkg:cargo/uni_error@0.7.2
+- pkg:cargo/uni_error@0.7.3
