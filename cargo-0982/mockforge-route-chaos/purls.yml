@@ -8,6 +8,8 @@
 - pkg:cargo/mockforge-route-chaos@0.3.17
 - pkg:cargo/mockforge-route-chaos@0.3.18
 - pkg:cargo/mockforge-route-chaos@0.3.19
+- pkg:cargo/mockforge-route-chaos@0.3.20
+- pkg:cargo/mockforge-route-chaos@0.3.21
 - pkg:cargo/mockforge-route-chaos@0.3.3
 - pkg:cargo/mockforge-route-chaos@0.3.4
 - pkg:cargo/mockforge-route-chaos@0.3.5
