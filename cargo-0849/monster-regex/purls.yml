@@ -1,1 +1,5 @@
 - pkg:cargo/monster-regex@0.1.0-alpha
+- pkg:cargo/monster-regex@0.1.0-alpha.1
+- pkg:cargo/monster-regex@0.1.0-alpha.3%2Bdoc
+- pkg:cargo/monster-regex@0.1.0-alpha.4
+- pkg:cargo/monster-regex@0.1.0-alpha.5
