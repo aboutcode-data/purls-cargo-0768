@@ -39,6 +39,7 @@
 - pkg:cargo/bevy_scene@0.17.2
 - pkg:cargo/bevy_scene@0.17.3
 - pkg:cargo/bevy_scene@0.18.0-rc.1
+- pkg:cargo/bevy_scene@0.18.0-rc.2
 - pkg:cargo/bevy_scene@0.2.0
 - pkg:cargo/bevy_scene@0.2.1
 - pkg:cargo/bevy_scene@0.3.0
