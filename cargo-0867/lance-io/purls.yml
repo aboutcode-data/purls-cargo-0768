@@ -79,3 +79,4 @@
 - pkg:cargo/lance-io@0.9.18
 - pkg:cargo/lance-io@0.9.9
 - pkg:cargo/lance-io@1.0.0
+- pkg:cargo/lance-io@1.0.1
