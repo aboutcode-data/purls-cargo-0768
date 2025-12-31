@@ -1,1 +1,2 @@
 - pkg:cargo/pez-tracing-gum-proc-macro@0.1.0
+- pkg:cargo/pez-tracing-gum-proc-macro@5.0.0
