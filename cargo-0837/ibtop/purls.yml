@@ -1,2 +1,5 @@
 - pkg:cargo/ibtop@0.1.5
 - pkg:cargo/ibtop@0.1.7
+- pkg:cargo/ibtop@1.0.0
+- pkg:cargo/ibtop@1.0.1
+- pkg:cargo/ibtop@1.0.2
