@@ -33,6 +33,7 @@
 - pkg:cargo/hugr@0.24.3
 - pkg:cargo/hugr@0.25.0
 - pkg:cargo/hugr@0.25.1
+- pkg:cargo/hugr@0.25.2
 - pkg:cargo/hugr@0.3.0
 - pkg:cargo/hugr@0.3.0-alpha.1
 - pkg:cargo/hugr@0.3.1
