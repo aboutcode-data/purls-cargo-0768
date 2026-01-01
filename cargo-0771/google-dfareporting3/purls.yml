@@ -20,3 +20,4 @@
 - pkg:cargo/google-dfareporting3@5.0.4%2B20180830
 - pkg:cargo/google-dfareporting3@5.0.5%2B20180830
 - pkg:cargo/google-dfareporting3@6.0.0%2B20180830
+- pkg:cargo/google-dfareporting3@7.0.0%2B20180830

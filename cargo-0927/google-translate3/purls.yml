@@ -12,3 +12,4 @@
 - pkg:cargo/google-translate3@5.0.4%2B20240131
 - pkg:cargo/google-translate3@5.0.5%2B20240301
 - pkg:cargo/google-translate3@6.0.0%2B20240301
+- pkg:cargo/google-translate3@7.0.0%2B20250424

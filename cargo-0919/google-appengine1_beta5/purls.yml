@@ -35,3 +35,4 @@
 - pkg:cargo/google-appengine1_beta5@5.0.4%2B20181005
 - pkg:cargo/google-appengine1_beta5@5.0.5%2B20181005
 - pkg:cargo/google-appengine1_beta5@6.0.0%2B20181005
+- pkg:cargo/google-appengine1_beta5@7.0.0%2B20181005

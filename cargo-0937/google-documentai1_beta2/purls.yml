@@ -12,3 +12,4 @@
 - pkg:cargo/google-documentai1_beta2@5.0.4%2B20240223
 - pkg:cargo/google-documentai1_beta2@5.0.5%2B20240619
 - pkg:cargo/google-documentai1_beta2@6.0.0%2B20240619
+- pkg:cargo/google-documentai1_beta2@7.0.0%2B20240619

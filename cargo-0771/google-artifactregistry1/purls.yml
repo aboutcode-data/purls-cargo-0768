@@ -11,3 +11,4 @@
 - pkg:cargo/google-artifactregistry1@5.0.4%2B20240213
 - pkg:cargo/google-artifactregistry1@5.0.5%2B20240608
 - pkg:cargo/google-artifactregistry1@6.0.0%2B20240608
+- pkg:cargo/google-artifactregistry1@7.0.0%2B20251209

@@ -20,3 +20,4 @@
 - pkg:cargo/google-cloudiot1@5.0.4%2B0
 - pkg:cargo/google-cloudiot1@5.0.5%2B0
 - pkg:cargo/google-cloudiot1@6.0.0%2B0
+- pkg:cargo/google-cloudiot1@7.0.0%2B0

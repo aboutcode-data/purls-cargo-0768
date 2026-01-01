@@ -12,3 +12,4 @@
 - pkg:cargo/google-domainsrdap1@5.0.4%2B20240304
 - pkg:cargo/google-domainsrdap1@5.0.5%2B20240626
 - pkg:cargo/google-domainsrdap1@6.0.0%2B20240626
+- pkg:cargo/google-domainsrdap1@7.0.0%2B20240626

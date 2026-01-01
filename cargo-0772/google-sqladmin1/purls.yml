@@ -7,3 +7,4 @@
 - pkg:cargo/google-sqladmin1@5.0.4%2B20240219
 - pkg:cargo/google-sqladmin1@5.0.5%2B20240618
 - pkg:cargo/google-sqladmin1@6.0.0%2B20240618
+- pkg:cargo/google-sqladmin1@7.0.0%2B20251201

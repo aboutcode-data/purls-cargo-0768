@@ -18,3 +18,4 @@
 - pkg:cargo/google-cloudtasks2_beta3@5.0.4%2B20240223
 - pkg:cargo/google-cloudtasks2_beta3@5.0.5%2B20240614
 - pkg:cargo/google-cloudtasks2_beta3@6.0.0%2B20240614
+- pkg:cargo/google-cloudtasks2_beta3@7.0.0%2B20251216

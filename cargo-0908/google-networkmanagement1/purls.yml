@@ -12,3 +12,4 @@
 - pkg:cargo/google-networkmanagement1@5.0.4%2B20240221
 - pkg:cargo/google-networkmanagement1@5.0.5%2B20240619
 - pkg:cargo/google-networkmanagement1@6.0.0%2B20240619
+- pkg:cargo/google-networkmanagement1@7.0.0%2B20251203

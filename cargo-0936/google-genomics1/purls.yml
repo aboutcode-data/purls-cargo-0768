@@ -38,3 +38,4 @@
 - pkg:cargo/google-genomics1@5.0.4%2B20210324
 - pkg:cargo/google-genomics1@5.0.5%2B20210324
 - pkg:cargo/google-genomics1@6.0.0%2B20210324
+- pkg:cargo/google-genomics1@7.0.0%2B20210324

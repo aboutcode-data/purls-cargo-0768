@@ -45,3 +45,4 @@
 - pkg:cargo/google-cloudmonitoring2_beta2@5.0.4%2B20170501
 - pkg:cargo/google-cloudmonitoring2_beta2@5.0.5%2B20170501
 - pkg:cargo/google-cloudmonitoring2_beta2@6.0.0%2B20170501
+- pkg:cargo/google-cloudmonitoring2_beta2@7.0.0%2B20170501

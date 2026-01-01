@@ -12,3 +12,4 @@
 - pkg:cargo/google-bigqueryreservation1@5.0.4%2B20240227
 - pkg:cargo/google-bigqueryreservation1@5.0.5%2B20240611
 - pkg:cargo/google-bigqueryreservation1@6.0.0%2B20240611
+- pkg:cargo/google-bigqueryreservation1@7.0.0%2B20251207

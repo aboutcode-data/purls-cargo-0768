@@ -10,3 +10,4 @@
 - pkg:cargo/google-smartdevicemanagement1@5.0.4%2B20240218
 - pkg:cargo/google-smartdevicemanagement1@5.0.5%2B20240616
 - pkg:cargo/google-smartdevicemanagement1@6.0.0%2B20240616
+- pkg:cargo/google-smartdevicemanagement1@7.0.0%2B20251201

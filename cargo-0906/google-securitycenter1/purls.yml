@@ -16,3 +16,4 @@
 - pkg:cargo/google-securitycenter1@5.0.4%2B20240302
 - pkg:cargo/google-securitycenter1@5.0.5%2B20240622
 - pkg:cargo/google-securitycenter1@6.0.0%2B20240622
+- pkg:cargo/google-securitycenter1@7.0.0%2B20251205

@@ -18,3 +18,4 @@
 - pkg:cargo/google-cloudshell1@5.0.4%2B20240212
 - pkg:cargo/google-cloudshell1@5.0.5%2B20240624
 - pkg:cargo/google-cloudshell1@6.0.0%2B20240624
+- pkg:cargo/google-cloudshell1@7.0.0%2B20251215

@@ -18,3 +18,4 @@
 - pkg:cargo/google-dlp2@5.0.4%2B20240225
 - pkg:cargo/google-dlp2@5.0.5%2B20240616
 - pkg:cargo/google-dlp2@6.0.0%2B20240616
+- pkg:cargo/google-dlp2@7.0.0%2B20251213

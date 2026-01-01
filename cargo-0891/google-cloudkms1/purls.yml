@@ -21,3 +21,4 @@
 - pkg:cargo/google-cloudkms1@5.0.4%2B20240219
 - pkg:cargo/google-cloudkms1@5.0.5%2B20240621
 - pkg:cargo/google-cloudkms1@6.0.0%2B20240621
+- pkg:cargo/google-cloudkms1@7.0.0%2B20251203
