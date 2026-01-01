@@ -47,3 +47,5 @@
 - pkg:cargo/vecdb_derive@0.4.5
 - pkg:cargo/vecdb_derive@0.4.6
 - pkg:cargo/vecdb_derive@0.5.0
+- pkg:cargo/vecdb_derive@0.5.1
+- pkg:cargo/vecdb_derive@0.5.2
