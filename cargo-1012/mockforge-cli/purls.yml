@@ -24,6 +24,8 @@
 - pkg:cargo/mockforge-cli@0.3.21
 - pkg:cargo/mockforge-cli@0.3.22
 - pkg:cargo/mockforge-cli@0.3.23
+- pkg:cargo/mockforge-cli@0.3.24
+- pkg:cargo/mockforge-cli@0.3.25
 - pkg:cargo/mockforge-cli@0.3.4
 - pkg:cargo/mockforge-cli@0.3.5
 - pkg:cargo/mockforge-cli@0.3.6
