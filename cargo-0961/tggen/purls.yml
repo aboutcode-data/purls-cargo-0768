@@ -63,5 +63,6 @@
 - pkg:cargo/tggen@0.0.67
 - pkg:cargo/tggen@0.0.68
 - pkg:cargo/tggen@0.0.7
+- pkg:cargo/tggen@0.0.70
 - pkg:cargo/tggen@0.0.8
 - pkg:cargo/tggen@0.0.9
