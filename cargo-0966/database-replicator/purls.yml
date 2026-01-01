@@ -29,3 +29,4 @@
 - pkg:cargo/database-replicator@7.0.7
 - pkg:cargo/database-replicator@7.0.8
 - pkg:cargo/database-replicator@7.0.9
+- pkg:cargo/database-replicator@7.1.0
