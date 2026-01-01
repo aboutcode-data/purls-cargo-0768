@@ -3,6 +3,7 @@
 - pkg:cargo/magikpod@0.2.1
 - pkg:cargo/magikpod@0.2.2
 - pkg:cargo/magikpod@0.3.10
+- pkg:cargo/magikpod@0.3.11
 - pkg:cargo/magikpod@0.3.6
 - pkg:cargo/magikpod@0.3.7
 - pkg:cargo/magikpod@0.3.8
