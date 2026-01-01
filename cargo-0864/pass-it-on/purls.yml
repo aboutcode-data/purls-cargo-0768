@@ -20,6 +20,8 @@
 - pkg:cargo/pass-it-on@0.16.6
 - pkg:cargo/pass-it-on@0.16.7
 - pkg:cargo/pass-it-on@0.16.9
+- pkg:cargo/pass-it-on@0.17.0
+- pkg:cargo/pass-it-on@0.17.1
 - pkg:cargo/pass-it-on@0.2.0
 - pkg:cargo/pass-it-on@0.2.1
 - pkg:cargo/pass-it-on@0.3.0
