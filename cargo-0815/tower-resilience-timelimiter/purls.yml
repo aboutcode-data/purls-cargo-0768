@@ -9,3 +9,4 @@
 - pkg:cargo/tower-resilience-timelimiter@0.3.5
 - pkg:cargo/tower-resilience-timelimiter@0.3.6
 - pkg:cargo/tower-resilience-timelimiter@0.3.7
+- pkg:cargo/tower-resilience-timelimiter@0.4.0

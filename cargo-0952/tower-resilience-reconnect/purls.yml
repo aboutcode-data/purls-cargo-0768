@@ -1,3 +1,4 @@
 - pkg:cargo/tower-resilience-reconnect@0.4.5
 - pkg:cargo/tower-resilience-reconnect@0.4.6
 - pkg:cargo/tower-resilience-reconnect@0.4.7
+- pkg:cargo/tower-resilience-reconnect@0.5.0

@@ -3,3 +3,4 @@
 - pkg:cargo/tower-resilience-chaos@0.4.5
 - pkg:cargo/tower-resilience-chaos@0.4.6
 - pkg:cargo/tower-resilience-chaos@0.4.7
+- pkg:cargo/tower-resilience-chaos@0.5.0

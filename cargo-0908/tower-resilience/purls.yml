@@ -10,3 +10,4 @@
 - pkg:cargo/tower-resilience@0.3.6
 - pkg:cargo/tower-resilience@0.3.7
 - pkg:cargo/tower-resilience@0.3.8
+- pkg:cargo/tower-resilience@0.3.9
