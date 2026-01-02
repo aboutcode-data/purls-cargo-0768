@@ -50,3 +50,4 @@
 - pkg:cargo/adb_client@2.1.8
 - pkg:cargo/adb_client@2.1.9
 - pkg:cargo/adb_client@3.0.0
+- pkg:cargo/adb_client@3.0.1
