@@ -2,6 +2,13 @@
 - pkg:cargo/vtcode-file-search@0.57.0
 - pkg:cargo/vtcode-file-search@0.58.0
 - pkg:cargo/vtcode-file-search@0.58.1
+- pkg:cargo/vtcode-file-search@0.58.10
+- pkg:cargo/vtcode-file-search@0.58.11
 - pkg:cargo/vtcode-file-search@0.58.2
 - pkg:cargo/vtcode-file-search@0.58.3
 - pkg:cargo/vtcode-file-search@0.58.4
+- pkg:cargo/vtcode-file-search@0.58.5
+- pkg:cargo/vtcode-file-search@0.58.6
+- pkg:cargo/vtcode-file-search@0.58.7
+- pkg:cargo/vtcode-file-search@0.58.8
+- pkg:cargo/vtcode-file-search@0.58.9
