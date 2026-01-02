@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_kibana_k8s_elastic_co@2.20250918.214956
 - pkg:cargo/kcr_kibana_k8s_elastic_co@2.20250925.215011
 - pkg:cargo/kcr_kibana_k8s_elastic_co@2.20251002.215011
+- pkg:cargo/kcr_kibana_k8s_elastic_co@2.20260101.215007
