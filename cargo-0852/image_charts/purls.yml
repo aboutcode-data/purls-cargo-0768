@@ -1,4 +1,7 @@
+- pkg:cargo/image_charts@6.1.10
 - pkg:cargo/image_charts@6.1.4
 - pkg:cargo/image_charts@6.1.5
 - pkg:cargo/image_charts@6.1.6
 - pkg:cargo/image_charts@6.1.7
+- pkg:cargo/image_charts@6.1.8
+- pkg:cargo/image_charts@6.1.9

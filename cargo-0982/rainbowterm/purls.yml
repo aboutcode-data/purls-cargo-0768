@@ -11,6 +11,7 @@
 - pkg:cargo/rainbowterm@0.2.18
 - pkg:cargo/rainbowterm@0.2.19
 - pkg:cargo/rainbowterm@0.2.2
+- pkg:cargo/rainbowterm@0.2.20
 - pkg:cargo/rainbowterm@0.2.3
 - pkg:cargo/rainbowterm@0.2.4
 - pkg:cargo/rainbowterm@0.2.5
