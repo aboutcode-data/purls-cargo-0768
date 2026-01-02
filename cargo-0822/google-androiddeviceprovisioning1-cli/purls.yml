@@ -11,3 +11,4 @@
 - pkg:cargo/google-androiddeviceprovisioning1-cli@2.0.4%2B20210331
 - pkg:cargo/google-androiddeviceprovisioning1-cli@3.0.0%2B20220305
 - pkg:cargo/google-androiddeviceprovisioning1-cli@3.1.0%2B20220305
+- pkg:cargo/google-androiddeviceprovisioning1-cli@7.0.0%2B20251217

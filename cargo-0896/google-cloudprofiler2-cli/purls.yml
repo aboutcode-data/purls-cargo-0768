@@ -9,3 +9,4 @@
 - pkg:cargo/google-cloudprofiler2-cli@3.1.0%2B20220228
 - pkg:cargo/google-cloudprofiler2-cli@5.0.4%2B20240219
 - pkg:cargo/google-cloudprofiler2-cli@6.0.0%2B20240624
+- pkg:cargo/google-cloudprofiler2-cli@7.0.0%2B20251006

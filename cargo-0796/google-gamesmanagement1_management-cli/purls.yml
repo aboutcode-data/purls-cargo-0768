@@ -23,3 +23,4 @@
 - pkg:cargo/google-gamesmanagement1_management-cli@3.1.0%2B20220217
 - pkg:cargo/google-gamesmanagement1_management-cli@5.0.4%2B20240228
 - pkg:cargo/google-gamesmanagement1_management-cli@6.0.0%2B20240618
+- pkg:cargo/google-gamesmanagement1_management-cli@7.0.0%2B20251216

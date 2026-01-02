@@ -5,3 +5,4 @@
 - pkg:cargo/google-sql1_beta4-cli@2.0.4%2B20200331
 - pkg:cargo/google-sql1_beta4-cli@3.0.0%2B20200331
 - pkg:cargo/google-sql1_beta4-cli@3.1.0%2B20200331
+- pkg:cargo/google-sql1_beta4-cli@7.0.0%2B20200331

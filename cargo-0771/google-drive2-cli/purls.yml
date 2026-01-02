@@ -21,3 +21,4 @@
 - pkg:cargo/google-drive2-cli@3.1.0%2B20220225
 - pkg:cargo/google-drive2-cli@5.0.4%2B20240227
 - pkg:cargo/google-drive2-cli@6.0.0%2B20240618
+- pkg:cargo/google-drive2-cli@7.0.0%2B20251218

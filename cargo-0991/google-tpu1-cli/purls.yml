@@ -10,3 +10,4 @@
 - pkg:cargo/google-tpu1-cli@3.1.0%2B20220301
 - pkg:cargo/google-tpu1-cli@5.0.4%2B20240222
 - pkg:cargo/google-tpu1-cli@6.0.0%2B20240613
+- pkg:cargo/google-tpu1-cli@7.0.0%2B20251130

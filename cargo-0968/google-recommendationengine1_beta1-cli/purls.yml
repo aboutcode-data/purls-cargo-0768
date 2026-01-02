@@ -4,3 +4,4 @@
 - pkg:cargo/google-recommendationengine1_beta1-cli@3.0.0%2B20220224
 - pkg:cargo/google-recommendationengine1_beta1-cli@5.0.4%2B20240229
 - pkg:cargo/google-recommendationengine1_beta1-cli@6.0.0%2B20240618
+- pkg:cargo/google-recommendationengine1_beta1-cli@7.0.0%2B20251204

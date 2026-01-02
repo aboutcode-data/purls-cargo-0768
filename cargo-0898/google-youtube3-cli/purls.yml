@@ -18,3 +18,4 @@
 - pkg:cargo/google-youtube3-cli@3.1.0%2B20220303
 - pkg:cargo/google-youtube3-cli@5.0.4%2B20240303
 - pkg:cargo/google-youtube3-cli@6.0.0%2B20240626
+- pkg:cargo/google-youtube3-cli@7.0.0%2B20251222

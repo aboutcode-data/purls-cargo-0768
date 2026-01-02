@@ -4,3 +4,4 @@
 - pkg:cargo/emc230x@0.4.0
 - pkg:cargo/emc230x@0.4.1
 - pkg:cargo/emc230x@0.5.0
+- pkg:cargo/emc230x@0.6.0

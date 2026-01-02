@@ -1,1 +1,2 @@
 - pkg:cargo/async-cffi-codegen@0.1.0
+- pkg:cargo/async-cffi-codegen@0.1.1

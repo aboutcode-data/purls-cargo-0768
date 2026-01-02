@@ -18,3 +18,4 @@
 - pkg:cargo/google-bigquery2-cli@2.0.4%2B20210327
 - pkg:cargo/google-bigquery2-cli@3.0.0%2B20220222
 - pkg:cargo/google-bigquery2-cli@3.1.0%2B20220222
+- pkg:cargo/google-bigquery2-cli@7.0.0%2B20251130

@@ -190,6 +190,8 @@
 - pkg:cargo/async-graphql-parser@7.0.15
 - pkg:cargo/async-graphql-parser@7.0.16
 - pkg:cargo/async-graphql-parser@7.0.17
+- pkg:cargo/async-graphql-parser@7.0.18
+- pkg:cargo/async-graphql-parser@7.0.19
 - pkg:cargo/async-graphql-parser@7.0.2
 - pkg:cargo/async-graphql-parser@7.0.3
 - pkg:cargo/async-graphql-parser@7.0.5
