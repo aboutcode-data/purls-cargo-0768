@@ -120,3 +120,4 @@
 - pkg:cargo/nextest-runner@0.96.0
 - pkg:cargo/nextest-runner@0.97.0
 - pkg:cargo/nextest-runner@0.98.0
+- pkg:cargo/nextest-runner@0.99.0
