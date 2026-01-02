@@ -6,6 +6,7 @@
 - pkg:cargo/gst-plugin-csound@0.12.7
 - pkg:cargo/gst-plugin-csound@0.13.0
 - pkg:cargo/gst-plugin-csound@0.14.0
+- pkg:cargo/gst-plugin-csound@0.15.0-alpha.1
 - pkg:cargo/gst-plugin-csound@0.6.0
 - pkg:cargo/gst-plugin-csound@0.7.0
 - pkg:cargo/gst-plugin-csound@0.7.2

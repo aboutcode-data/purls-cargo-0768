@@ -27,3 +27,4 @@
 - pkg:cargo/gstreamer-sdp@0.24.0
 - pkg:cargo/gstreamer-sdp@0.24.2
 - pkg:cargo/gstreamer-sdp@0.24.4
+- pkg:cargo/gstreamer-sdp@0.25.0-alpha.1

@@ -9,6 +9,7 @@
 - pkg:cargo/gst-plugin-textwrap@0.12.2
 - pkg:cargo/gst-plugin-textwrap@0.13.0
 - pkg:cargo/gst-plugin-textwrap@0.14.0
+- pkg:cargo/gst-plugin-textwrap@0.15.0-alpha.1
 - pkg:cargo/gst-plugin-textwrap@0.6.0
 - pkg:cargo/gst-plugin-textwrap@0.7.0
 - pkg:cargo/gst-plugin-textwrap@0.7.2
