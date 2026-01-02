@@ -1,1 +1,2 @@
 - pkg:cargo/math-differential-evolution@0.2.53
+- pkg:cargo/math-differential-evolution@0.3.0
