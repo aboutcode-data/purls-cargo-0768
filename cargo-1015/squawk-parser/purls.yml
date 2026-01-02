@@ -12,3 +12,4 @@
 - pkg:cargo/squawk-parser@2.33.1
 - pkg:cargo/squawk-parser@2.33.2
 - pkg:cargo/squawk-parser@2.34.0
+- pkg:cargo/squawk-parser@2.35.0

@@ -6,3 +6,4 @@
 - pkg:cargo/squawk-ide@2.33.1
 - pkg:cargo/squawk-ide@2.33.2
 - pkg:cargo/squawk-ide@2.34.0
+- pkg:cargo/squawk-ide@2.35.0
