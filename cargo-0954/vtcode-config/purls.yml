@@ -160,6 +160,7 @@
 - pkg:cargo/vtcode-config@0.58.1
 - pkg:cargo/vtcode-config@0.58.10
 - pkg:cargo/vtcode-config@0.58.11
+- pkg:cargo/vtcode-config@0.58.12
 - pkg:cargo/vtcode-config@0.58.2
 - pkg:cargo/vtcode-config@0.58.3
 - pkg:cargo/vtcode-config@0.58.4

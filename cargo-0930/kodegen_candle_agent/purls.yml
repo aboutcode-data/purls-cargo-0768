@@ -7,6 +7,7 @@
 - pkg:cargo/kodegen_candle_agent@0.10.0
 - pkg:cargo/kodegen_candle_agent@0.10.1
 - pkg:cargo/kodegen_candle_agent@0.10.10
+- pkg:cargo/kodegen_candle_agent@0.10.11
 - pkg:cargo/kodegen_candle_agent@0.10.2
 - pkg:cargo/kodegen_candle_agent@0.10.3
 - pkg:cargo/kodegen_candle_agent@0.10.4

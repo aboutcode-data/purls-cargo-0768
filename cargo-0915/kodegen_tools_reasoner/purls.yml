@@ -11,6 +11,7 @@
 - pkg:cargo/kodegen_tools_reasoner@0.10.6
 - pkg:cargo/kodegen_tools_reasoner@0.10.7
 - pkg:cargo/kodegen_tools_reasoner@0.10.8
+- pkg:cargo/kodegen_tools_reasoner@0.10.9
 - pkg:cargo/kodegen_tools_reasoner@0.2.1
 - pkg:cargo/kodegen_tools_reasoner@0.2.3
 - pkg:cargo/kodegen_tools_reasoner@0.3.1
