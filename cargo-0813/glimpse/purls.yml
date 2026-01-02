@@ -23,3 +23,4 @@
 - pkg:cargo/glimpse@0.7.6
 - pkg:cargo/glimpse@0.7.7
 - pkg:cargo/glimpse@0.7.8
+- pkg:cargo/glimpse@1.0.0
