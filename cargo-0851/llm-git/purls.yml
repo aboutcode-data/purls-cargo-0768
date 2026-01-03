@@ -1,3 +1,4 @@
 - pkg:cargo/llm-git@0.1.0
 - pkg:cargo/llm-git@0.1.1
 - pkg:cargo/llm-git@0.1.2
+- pkg:cargo/llm-git@2.3.0
