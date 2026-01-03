@@ -10,3 +10,4 @@
 - pkg:cargo/lief-build@0.16.7
 - pkg:cargo/lief-build@0.17.0
 - pkg:cargo/lief-build@0.17.1
+- pkg:cargo/lief-build@0.17.2
