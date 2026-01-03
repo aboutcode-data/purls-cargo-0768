@@ -8,3 +8,4 @@
 - pkg:cargo/acp-protocol@0.5.2
 - pkg:cargo/acp-protocol@0.5.3
 - pkg:cargo/acp-protocol@0.6.0
+- pkg:cargo/acp-protocol@0.7.0
