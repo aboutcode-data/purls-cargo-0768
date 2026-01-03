@@ -4,6 +4,7 @@
 - pkg:cargo/threecpio@0.10.2
 - pkg:cargo/threecpio@0.11.0
 - pkg:cargo/threecpio@0.12.0
+- pkg:cargo/threecpio@0.13.0
 - pkg:cargo/threecpio@0.2.0
 - pkg:cargo/threecpio@0.3.0
 - pkg:cargo/threecpio@0.3.1
