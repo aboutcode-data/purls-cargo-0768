@@ -115,6 +115,9 @@
 - pkg:cargo/vtcode-bash-runner@0.58.10
 - pkg:cargo/vtcode-bash-runner@0.58.11
 - pkg:cargo/vtcode-bash-runner@0.58.12
+- pkg:cargo/vtcode-bash-runner@0.58.13
+- pkg:cargo/vtcode-bash-runner@0.58.14
+- pkg:cargo/vtcode-bash-runner@0.58.15
 - pkg:cargo/vtcode-bash-runner@0.58.3
 - pkg:cargo/vtcode-bash-runner@0.58.4
 - pkg:cargo/vtcode-bash-runner@0.58.5
