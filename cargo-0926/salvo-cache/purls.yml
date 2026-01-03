@@ -106,3 +106,4 @@
 - pkg:cargo/salvo-cache@0.86.0
 - pkg:cargo/salvo-cache@0.87.0
 - pkg:cargo/salvo-cache@0.87.1
+- pkg:cargo/salvo-cache@0.88.0

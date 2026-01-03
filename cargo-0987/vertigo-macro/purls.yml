@@ -6,6 +6,7 @@
 - pkg:cargo/vertigo-macro@0.1.0-beta.4
 - pkg:cargo/vertigo-macro@0.1.0-beta.5
 - pkg:cargo/vertigo-macro@0.1.1
+- pkg:cargo/vertigo-macro@0.10.0
 - pkg:cargo/vertigo-macro@0.2.0
 - pkg:cargo/vertigo-macro@0.2.0-alpha
 - pkg:cargo/vertigo-macro@0.3.0
