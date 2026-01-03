@@ -6,3 +6,5 @@
 - pkg:cargo/kdmp-parser@0.5.0
 - pkg:cargo/kdmp-parser@0.6.0
 - pkg:cargo/kdmp-parser@0.7.0
+- pkg:cargo/kdmp-parser@0.8.0
+- pkg:cargo/kdmp-parser@0.8.1
