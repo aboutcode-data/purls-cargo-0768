@@ -2,3 +2,5 @@
 - pkg:cargo/agtrace-core@0.3.0
 - pkg:cargo/agtrace-core@0.3.1
 - pkg:cargo/agtrace-core@0.4.0
+- pkg:cargo/agtrace-core@0.4.1
+- pkg:cargo/agtrace-core@0.4.2
