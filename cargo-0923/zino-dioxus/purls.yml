@@ -45,6 +45,7 @@
 - pkg:cargo/zino-dioxus@0.21.1
 - pkg:cargo/zino-dioxus@0.22.0
 - pkg:cargo/zino-dioxus@0.22.1
+- pkg:cargo/zino-dioxus@0.23.0
 - pkg:cargo/zino-dioxus@0.3.0
 - pkg:cargo/zino-dioxus@0.3.1
 - pkg:cargo/zino-dioxus@0.3.2

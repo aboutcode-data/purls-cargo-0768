@@ -6,6 +6,7 @@
 - pkg:cargo/zino-openapi@0.11.1
 - pkg:cargo/zino-openapi@0.12.0
 - pkg:cargo/zino-openapi@0.12.1
+- pkg:cargo/zino-openapi@0.13.0
 - pkg:cargo/zino-openapi@0.2.0
 - pkg:cargo/zino-openapi@0.2.1
 - pkg:cargo/zino-openapi@0.2.2
