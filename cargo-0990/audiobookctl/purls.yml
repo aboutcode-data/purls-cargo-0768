@@ -6,6 +6,7 @@
 - pkg:cargo/audiobookctl@0.12.1
 - pkg:cargo/audiobookctl@0.12.2
 - pkg:cargo/audiobookctl@0.12.4
+- pkg:cargo/audiobookctl@0.12.5
 - pkg:cargo/audiobookctl@0.2.0
 - pkg:cargo/audiobookctl@0.2.1
 - pkg:cargo/audiobookctl@0.3.0
