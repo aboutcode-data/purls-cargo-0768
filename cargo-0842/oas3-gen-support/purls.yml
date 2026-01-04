@@ -31,6 +31,7 @@
 - pkg:cargo/oas3-gen-support@0.23.2
 - pkg:cargo/oas3-gen-support@0.23.3
 - pkg:cargo/oas3-gen-support@0.23.5
+- pkg:cargo/oas3-gen-support@0.23.6
 - pkg:cargo/oas3-gen-support@0.6.0
 - pkg:cargo/oas3-gen-support@0.7.0
 - pkg:cargo/oas3-gen-support@0.7.1
