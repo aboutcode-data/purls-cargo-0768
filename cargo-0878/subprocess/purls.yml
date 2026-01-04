@@ -24,6 +24,7 @@
 - pkg:cargo/subprocess@0.2.10
 - pkg:cargo/subprocess@0.2.11
 - pkg:cargo/subprocess@0.2.12
+- pkg:cargo/subprocess@0.2.13
 - pkg:cargo/subprocess@0.2.2
 - pkg:cargo/subprocess@0.2.3
 - pkg:cargo/subprocess@0.2.4
