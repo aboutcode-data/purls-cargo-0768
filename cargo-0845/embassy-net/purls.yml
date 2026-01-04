@@ -8,3 +8,4 @@
 - pkg:cargo/embassy-net@0.6.0
 - pkg:cargo/embassy-net@0.7.0
 - pkg:cargo/embassy-net@0.7.1
+- pkg:cargo/embassy-net@0.8.0
