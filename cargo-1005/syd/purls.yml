@@ -228,6 +228,7 @@
 - pkg:cargo/syd@3.45.2
 - pkg:cargo/syd@3.46.0
 - pkg:cargo/syd@3.47.0
+- pkg:cargo/syd@3.48.0
 - pkg:cargo/syd@3.5.0
 - pkg:cargo/syd@3.5.1
 - pkg:cargo/syd@3.5.2
