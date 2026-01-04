@@ -3,3 +3,5 @@
 - pkg:cargo/par_slice@0.2.0
 - pkg:cargo/par_slice@0.3.0
 - pkg:cargo/par_slice@1.0.0
+- pkg:cargo/par_slice@2.0.0
+- pkg:cargo/par_slice@2.0.1
