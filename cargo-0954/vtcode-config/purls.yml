@@ -164,6 +164,10 @@
 - pkg:cargo/vtcode-config@0.58.13
 - pkg:cargo/vtcode-config@0.58.14
 - pkg:cargo/vtcode-config@0.58.15
+- pkg:cargo/vtcode-config@0.58.16
+- pkg:cargo/vtcode-config@0.58.17
+- pkg:cargo/vtcode-config@0.58.18
+- pkg:cargo/vtcode-config@0.58.19
 - pkg:cargo/vtcode-config@0.58.2
 - pkg:cargo/vtcode-config@0.58.3
 - pkg:cargo/vtcode-config@0.58.4
