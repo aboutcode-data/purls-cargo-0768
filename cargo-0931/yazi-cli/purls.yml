@@ -14,3 +14,4 @@
 - pkg:cargo/yazi-cli@25.4.8
 - pkg:cargo/yazi-cli@25.5.28
 - pkg:cargo/yazi-cli@25.5.31
+- pkg:cargo/yazi-cli@26.1.4
