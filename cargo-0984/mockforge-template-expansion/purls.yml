@@ -14,6 +14,7 @@
 - pkg:cargo/mockforge-template-expansion@0.3.23
 - pkg:cargo/mockforge-template-expansion@0.3.27
 - pkg:cargo/mockforge-template-expansion@0.3.28
+- pkg:cargo/mockforge-template-expansion@0.3.29
 - pkg:cargo/mockforge-template-expansion@0.3.3
 - pkg:cargo/mockforge-template-expansion@0.3.4
 - pkg:cargo/mockforge-template-expansion@0.3.5
