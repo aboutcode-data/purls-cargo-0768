@@ -49,6 +49,7 @@
 - pkg:cargo/recoverable-spawn@3.9.0
 - pkg:cargo/recoverable-spawn@3.9.1
 - pkg:cargo/recoverable-spawn@3.9.10
+- pkg:cargo/recoverable-spawn@3.9.11
 - pkg:cargo/recoverable-spawn@3.9.2
 - pkg:cargo/recoverable-spawn@3.9.3
 - pkg:cargo/recoverable-spawn@3.9.4
