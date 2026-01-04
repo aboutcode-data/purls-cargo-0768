@@ -53,6 +53,7 @@
 - pkg:cargo/rust_util@0.6.49
 - pkg:cargo/rust_util@0.6.5
 - pkg:cargo/rust_util@0.6.50
+- pkg:cargo/rust_util@0.6.51
 - pkg:cargo/rust_util@0.6.6
 - pkg:cargo/rust_util@0.6.7
 - pkg:cargo/rust_util@0.6.8
