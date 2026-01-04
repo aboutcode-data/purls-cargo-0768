@@ -2,3 +2,4 @@
 - pkg:cargo/ccgo@3.0.3
 - pkg:cargo/ccgo@3.0.4
 - pkg:cargo/ccgo@3.0.5
+- pkg:cargo/ccgo@3.0.6
