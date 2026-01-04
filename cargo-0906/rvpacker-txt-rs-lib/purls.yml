@@ -2,6 +2,7 @@
 - pkg:cargo/rvpacker-txt-rs-lib@11.0.0
 - pkg:cargo/rvpacker-txt-rs-lib@11.0.1
 - pkg:cargo/rvpacker-txt-rs-lib@11.0.2
+- pkg:cargo/rvpacker-txt-rs-lib@11.1.0
 - pkg:cargo/rvpacker-txt-rs-lib@3.0.5
 - pkg:cargo/rvpacker-txt-rs-lib@3.0.6
 - pkg:cargo/rvpacker-txt-rs-lib@3.0.7
