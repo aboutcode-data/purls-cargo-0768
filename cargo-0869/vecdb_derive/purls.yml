@@ -50,3 +50,4 @@
 - pkg:cargo/vecdb_derive@0.5.1
 - pkg:cargo/vecdb_derive@0.5.2
 - pkg:cargo/vecdb_derive@0.5.3
+- pkg:cargo/vecdb_derive@0.5.4
