@@ -7,6 +7,7 @@
 - pkg:cargo/csskit_derives@0.0.13
 - pkg:cargo/csskit_derives@0.0.13-canary.561508256c
 - pkg:cargo/csskit_derives@0.0.14-canary.87fc62dbae
+- pkg:cargo/csskit_derives@0.0.14-canary.8e68c5bc5a
 - pkg:cargo/csskit_derives@0.0.14-canary.b91df5b9a8
 - pkg:cargo/csskit_derives@0.0.2
 - pkg:cargo/csskit_derives@0.0.2-canary.00591b851c9166fe68aab3101a6a25692148d3ac

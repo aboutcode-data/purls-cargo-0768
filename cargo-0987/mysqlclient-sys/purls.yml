@@ -17,3 +17,4 @@
 - pkg:cargo/mysqlclient-sys@0.4.5
 - pkg:cargo/mysqlclient-sys@0.4.6
 - pkg:cargo/mysqlclient-sys@0.4.7
+- pkg:cargo/mysqlclient-sys@0.5.0
