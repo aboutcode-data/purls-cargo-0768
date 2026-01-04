@@ -5,6 +5,7 @@
 - pkg:cargo/gost94@0.10.2
 - pkg:cargo/gost94@0.10.3
 - pkg:cargo/gost94@0.10.4
+- pkg:cargo/gost94@0.11.0-rc.0
 - pkg:cargo/gost94@0.2.0
 - pkg:cargo/gost94@0.2.1
 - pkg:cargo/gost94@0.3.0
