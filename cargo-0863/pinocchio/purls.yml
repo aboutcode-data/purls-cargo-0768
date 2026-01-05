@@ -1,5 +1,6 @@
 - pkg:cargo/pinocchio@0.0.0
 - pkg:cargo/pinocchio@0.1.0
+- pkg:cargo/pinocchio@0.10.0
 - pkg:cargo/pinocchio@0.10.0-rc.1
 - pkg:cargo/pinocchio@0.2.0
 - pkg:cargo/pinocchio@0.3.0

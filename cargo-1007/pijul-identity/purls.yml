@@ -1,1 +1,2 @@
 - pkg:cargo/pijul-identity@0.0.1
+- pkg:cargo/pijul-identity@1.0.0-beta.10
