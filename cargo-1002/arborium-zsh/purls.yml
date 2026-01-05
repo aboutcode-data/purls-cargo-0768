@@ -30,3 +30,4 @@
 - pkg:cargo/arborium-zsh@2.4.6
 - pkg:cargo/arborium-zsh@2.4.7
 - pkg:cargo/arborium-zsh@2.5.0
+- pkg:cargo/arborium-zsh@2.6.0

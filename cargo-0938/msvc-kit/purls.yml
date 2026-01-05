@@ -3,3 +3,4 @@
 - pkg:cargo/msvc-kit@0.1.4
 - pkg:cargo/msvc-kit@0.2.0
 - pkg:cargo/msvc-kit@0.2.1
+- pkg:cargo/msvc-kit@0.2.2
