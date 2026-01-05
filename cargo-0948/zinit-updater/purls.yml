@@ -1,2 +1,6 @@
 - pkg:cargo/zinit-updater@0.1.0
 - pkg:cargo/zinit-updater@0.3.1
+- pkg:cargo/zinit-updater@0.3.2
+- pkg:cargo/zinit-updater@0.3.3
+- pkg:cargo/zinit-updater@0.3.4
+- pkg:cargo/zinit-updater@0.3.5
