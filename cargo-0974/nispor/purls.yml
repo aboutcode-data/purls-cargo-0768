@@ -28,3 +28,4 @@
 - pkg:cargo/nispor@1.2.7
 - pkg:cargo/nispor@1.2.8
 - pkg:cargo/nispor@1.2.9
+- pkg:cargo/nispor@2.0.0
