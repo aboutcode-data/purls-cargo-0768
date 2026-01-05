@@ -6,9 +6,12 @@
 - pkg:cargo/css_parse@0.0.11-canary.efc7e551f1
 - pkg:cargo/css_parse@0.0.13
 - pkg:cargo/css_parse@0.0.13-canary.561508256c
+- pkg:cargo/css_parse@0.0.14-canary.72bc32b558
 - pkg:cargo/css_parse@0.0.14-canary.87fc62dbae
 - pkg:cargo/css_parse@0.0.14-canary.8e68c5bc5a
 - pkg:cargo/css_parse@0.0.14-canary.b91df5b9a8
+- pkg:cargo/css_parse@0.0.14-canary.c1c503dd53
+- pkg:cargo/css_parse@0.0.14-canary.fac2d44a37
 - pkg:cargo/css_parse@0.0.2
 - pkg:cargo/css_parse@0.0.2-canary.00591b851c9166fe68aab3101a6a25692148d3ac
 - pkg:cargo/css_parse@0.0.2-canary.0077f0b1f2c48c766c267482c175bce3b545536d
