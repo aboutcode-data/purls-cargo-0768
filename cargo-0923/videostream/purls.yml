@@ -24,3 +24,4 @@
 - pkg:cargo/videostream@1.5.5
 - pkg:cargo/videostream@1.5.6
 - pkg:cargo/videostream@2.0.0
+- pkg:cargo/videostream@2.1.2
