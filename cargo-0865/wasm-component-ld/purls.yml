@@ -18,6 +18,7 @@
 - pkg:cargo/wasm-component-ld@0.5.18
 - pkg:cargo/wasm-component-ld@0.5.19
 - pkg:cargo/wasm-component-ld@0.5.2
+- pkg:cargo/wasm-component-ld@0.5.20
 - pkg:cargo/wasm-component-ld@0.5.3
 - pkg:cargo/wasm-component-ld@0.5.4
 - pkg:cargo/wasm-component-ld@0.5.5
