@@ -1,3 +1,4 @@
 - pkg:cargo/rtc-turn@0.0.0
 - pkg:cargo/rtc-turn@0.1.0
 - pkg:cargo/rtc-turn@0.3.0
+- pkg:cargo/rtc-turn@0.3.1
