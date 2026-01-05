@@ -7,3 +7,6 @@
 - pkg:cargo/bitcoin-core-miniscript-ffi@0.3.5
 - pkg:cargo/bitcoin-core-miniscript-ffi@0.4.1
 - pkg:cargo/bitcoin-core-miniscript-ffi@0.4.2
+- pkg:cargo/bitcoin-core-miniscript-ffi@0.4.3
+- pkg:cargo/bitcoin-core-miniscript-ffi@0.5.0
+- pkg:cargo/bitcoin-core-miniscript-ffi@0.5.1
