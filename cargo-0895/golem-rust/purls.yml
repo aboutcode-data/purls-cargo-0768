@@ -12,6 +12,7 @@
 - pkg:cargo/golem-rust@1.10.2
 - pkg:cargo/golem-rust@1.10.3
 - pkg:cargo/golem-rust@1.10.4
+- pkg:cargo/golem-rust@1.11.0
 - pkg:cargo/golem-rust@1.2.0
 - pkg:cargo/golem-rust@1.2.1
 - pkg:cargo/golem-rust@1.3.0
