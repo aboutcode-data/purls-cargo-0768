@@ -20,3 +20,4 @@
 - pkg:cargo/asimov-protocol@25.0.0-dev.25
 - pkg:cargo/asimov-protocol@25.0.1
 - pkg:cargo/asimov-protocol@25.0.2
+- pkg:cargo/asimov-protocol@25.0.3

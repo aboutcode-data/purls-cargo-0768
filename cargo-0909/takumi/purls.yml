@@ -147,6 +147,9 @@
 - pkg:cargo/takumi@0.62.0
 - pkg:cargo/takumi@0.62.1
 - pkg:cargo/takumi@0.62.2
+- pkg:cargo/takumi@0.62.3
+- pkg:cargo/takumi@0.62.4
+- pkg:cargo/takumi@0.62.5
 - pkg:cargo/takumi@0.7.1
 - pkg:cargo/takumi@0.7.2
 - pkg:cargo/takumi@0.7.3
