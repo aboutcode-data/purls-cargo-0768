@@ -6,3 +6,4 @@
 - pkg:cargo/git-grab@2.1.0
 - pkg:cargo/git-grab@3.0.0
 - pkg:cargo/git-grab@4.0.0
+- pkg:cargo/git-grab@4.0.1
