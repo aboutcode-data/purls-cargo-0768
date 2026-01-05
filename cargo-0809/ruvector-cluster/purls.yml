@@ -2,3 +2,4 @@
 - pkg:cargo/ruvector-cluster@0.1.2
 - pkg:cargo/ruvector-cluster@0.1.22
 - pkg:cargo/ruvector-cluster@0.1.29
+- pkg:cargo/ruvector-cluster@0.1.30
