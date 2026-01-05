@@ -187,6 +187,7 @@
 - pkg:cargo/ra_ap_proc_macro_api@0.0.310
 - pkg:cargo/ra_ap_proc_macro_api@0.0.311
 - pkg:cargo/ra_ap_proc_macro_api@0.0.312
+- pkg:cargo/ra_ap_proc_macro_api@0.0.313
 - pkg:cargo/ra_ap_proc_macro_api@0.0.35
 - pkg:cargo/ra_ap_proc_macro_api@0.0.37
 - pkg:cargo/ra_ap_proc_macro_api@0.0.38
