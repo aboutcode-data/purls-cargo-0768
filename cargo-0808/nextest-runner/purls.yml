@@ -2,6 +2,7 @@
 - pkg:cargo/nextest-runner@0.1.1
 - pkg:cargo/nextest-runner@0.1.2
 - pkg:cargo/nextest-runner@0.10.0
+- pkg:cargo/nextest-runner@0.100.0
 - pkg:cargo/nextest-runner@0.11.0
 - pkg:cargo/nextest-runner@0.11.1
 - pkg:cargo/nextest-runner@0.12.0
