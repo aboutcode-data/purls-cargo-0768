@@ -7,6 +7,7 @@
 - pkg:cargo/jsontoml@0.2.16
 - pkg:cargo/jsontoml@0.2.17
 - pkg:cargo/jsontoml@0.2.18
+- pkg:cargo/jsontoml@0.2.19
 - pkg:cargo/jsontoml@0.2.2
 - pkg:cargo/jsontoml@0.2.3
 - pkg:cargo/jsontoml@0.2.4
