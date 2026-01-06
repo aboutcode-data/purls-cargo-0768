@@ -128,3 +128,4 @@
 - pkg:cargo/create-tauri-app@4.6.0
 - pkg:cargo/create-tauri-app@4.6.1
 - pkg:cargo/create-tauri-app@4.6.2
+- pkg:cargo/create-tauri-app@4.7.0
