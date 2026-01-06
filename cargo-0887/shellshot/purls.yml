@@ -7,3 +7,4 @@
 - pkg:cargo/shellshot@0.2.4
 - pkg:cargo/shellshot@0.2.5
 - pkg:cargo/shellshot@0.2.6
+- pkg:cargo/shellshot@0.3.0
