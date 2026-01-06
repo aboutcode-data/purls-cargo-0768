@@ -50,6 +50,7 @@
 - pkg:cargo/mycelium-api-test-svc@8.1.1-rc.4
 - pkg:cargo/mycelium-api-test-svc@8.1.1-rc.5
 - pkg:cargo/mycelium-api-test-svc@8.2.0
+- pkg:cargo/mycelium-api-test-svc@8.2.1
 - pkg:cargo/mycelium-api-test-svc@8.2.1-rc.1
 - pkg:cargo/mycelium-api-test-svc@8.2.1-rc.2
 - pkg:cargo/mycelium-api-test-svc@8.2.1-rc.3
