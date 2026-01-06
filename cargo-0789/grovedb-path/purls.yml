@@ -8,3 +8,4 @@
 - pkg:cargo/grovedb-path@2.2.1
 - pkg:cargo/grovedb-path@3.0.0
 - pkg:cargo/grovedb-path@3.1.0
+- pkg:cargo/grovedb-path@4.0.0
