@@ -110,3 +110,4 @@
 - pkg:cargo/alloy-serde@1.1.3
 - pkg:cargo/alloy-serde@1.2.0
 - pkg:cargo/alloy-serde@1.2.1
+- pkg:cargo/alloy-serde@1.3.0
