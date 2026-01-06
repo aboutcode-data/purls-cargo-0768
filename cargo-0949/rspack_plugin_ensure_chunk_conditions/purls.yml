@@ -35,3 +35,4 @@
 - pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.7.0
 - pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.7.0-beta.0
 - pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.7.0-beta.1
+- pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.7.1
