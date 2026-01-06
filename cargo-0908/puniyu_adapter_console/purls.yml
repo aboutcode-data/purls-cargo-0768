@@ -7,3 +7,4 @@
 - pkg:cargo/puniyu_adapter_console@0.2.13
 - pkg:cargo/puniyu_adapter_console@0.2.8
 - pkg:cargo/puniyu_adapter_console@0.2.9
+- pkg:cargo/puniyu_adapter_console@0.4.0
