@@ -73,6 +73,7 @@
 - pkg:cargo/metaboss@0.43.3
 - pkg:cargo/metaboss@0.44.0
 - pkg:cargo/metaboss@0.44.1
+- pkg:cargo/metaboss@0.45.0
 - pkg:cargo/metaboss@0.5.0
 - pkg:cargo/metaboss@0.5.1
 - pkg:cargo/metaboss@0.6.0
