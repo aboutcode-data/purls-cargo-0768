@@ -62,3 +62,5 @@
 - pkg:cargo/libsodium-sys-stable@1.22.5
 - pkg:cargo/libsodium-sys-stable@1.22.6
 - pkg:cargo/libsodium-sys-stable@1.22.7
+- pkg:cargo/libsodium-sys-stable@1.22.8
+- pkg:cargo/libsodium-sys-stable@1.23.0
