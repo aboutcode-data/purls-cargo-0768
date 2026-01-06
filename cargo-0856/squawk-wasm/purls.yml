@@ -9,3 +9,4 @@
 - pkg:cargo/squawk-wasm@2.33.2
 - pkg:cargo/squawk-wasm@2.34.0
 - pkg:cargo/squawk-wasm@2.35.0
+- pkg:cargo/squawk-wasm@2.36.0
