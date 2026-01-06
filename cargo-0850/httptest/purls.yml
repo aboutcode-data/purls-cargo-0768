@@ -28,6 +28,7 @@
 - pkg:cargo/httptest@0.16.1
 - pkg:cargo/httptest@0.16.2
 - pkg:cargo/httptest@0.16.3
+- pkg:cargo/httptest@0.16.4
 - pkg:cargo/httptest@0.2.0
 - pkg:cargo/httptest@0.3.0
 - pkg:cargo/httptest@0.3.1

@@ -28,5 +28,6 @@
 - pkg:cargo/rkyv_dyn@0.7.42
 - pkg:cargo/rkyv_dyn@0.7.43
 - pkg:cargo/rkyv_dyn@0.7.44
+- pkg:cargo/rkyv_dyn@0.7.46
 - pkg:cargo/rkyv_dyn@0.7.5
 - pkg:cargo/rkyv_dyn@0.7.6
