@@ -17,3 +17,4 @@
 - pkg:cargo/libobs@4.0.3%2B32.0.2
 - pkg:cargo/libobs@4.0.4%2B32.0.2
 - pkg:cargo/libobs@5.0.0%2B32.0.2
+- pkg:cargo/libobs@5.0.1%2B32.0.4
