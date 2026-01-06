@@ -16,6 +16,7 @@
 - pkg:cargo/runner-core@0.4.21
 - pkg:cargo/runner-core@0.4.22
 - pkg:cargo/runner-core@0.4.23
+- pkg:cargo/runner-core@0.4.24
 - pkg:cargo/runner-core@0.4.4
 - pkg:cargo/runner-core@0.4.5
 - pkg:cargo/runner-core@0.4.6
