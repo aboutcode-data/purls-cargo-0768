@@ -7,3 +7,4 @@
 - pkg:cargo/toondb-storage@0.2.9
 - pkg:cargo/toondb-storage@0.3.0
 - pkg:cargo/toondb-storage@0.3.1
+- pkg:cargo/toondb-storage@0.3.3
