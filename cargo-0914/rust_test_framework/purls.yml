@@ -11,3 +11,7 @@
 - pkg:cargo/rust_test_framework@0.1.1-alpha.3
 - pkg:cargo/rust_test_framework@0.1.1-alpha.4
 - pkg:cargo/rust_test_framework@0.1.1-alpha.5
+- pkg:cargo/rust_test_framework@0.1.1-alpha.6
+- pkg:cargo/rust_test_framework@0.1.1-alpha.7
+- pkg:cargo/rust_test_framework@0.1.1-alpha.8
+- pkg:cargo/rust_test_framework@0.1.1-alpha.9
