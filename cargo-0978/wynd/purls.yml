@@ -4,6 +4,7 @@
 - pkg:cargo/wynd@0.1.3
 - pkg:cargo/wynd@0.1.4
 - pkg:cargo/wynd@0.10.0
+- pkg:cargo/wynd@0.11.0
 - pkg:cargo/wynd@0.2.0
 - pkg:cargo/wynd@0.2.1
 - pkg:cargo/wynd@0.3.0
