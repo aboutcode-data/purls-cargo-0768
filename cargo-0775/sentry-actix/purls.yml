@@ -67,4 +67,5 @@
 - pkg:cargo/sentry-actix@0.44.0
 - pkg:cargo/sentry-actix@0.45.0
 - pkg:cargo/sentry-actix@0.46.0
+- pkg:cargo/sentry-actix@0.46.1
 - pkg:cargo/sentry-actix@0.5.0
