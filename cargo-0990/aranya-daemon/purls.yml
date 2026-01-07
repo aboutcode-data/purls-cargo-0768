@@ -11,3 +11,4 @@
 - pkg:cargo/aranya-daemon@2.0.0
 - pkg:cargo/aranya-daemon@3.0.0
 - pkg:cargo/aranya-daemon@4.0.0
+- pkg:cargo/aranya-daemon@4.1.0
