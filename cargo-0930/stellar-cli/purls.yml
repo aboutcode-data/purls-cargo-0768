@@ -34,3 +34,4 @@
 - pkg:cargo/stellar-cli@23.2.1
 - pkg:cargo/stellar-cli@23.3.0
 - pkg:cargo/stellar-cli@23.4.0
+- pkg:cargo/stellar-cli@23.4.1
