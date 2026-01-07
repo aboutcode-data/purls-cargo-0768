@@ -1,3 +1,4 @@
 - pkg:cargo/systemd-user-timers-lib@1.1.0
 - pkg:cargo/systemd-user-timers-lib@1.1.1
 - pkg:cargo/systemd-user-timers-lib@1.1.2
+- pkg:cargo/systemd-user-timers-lib@1.1.3
