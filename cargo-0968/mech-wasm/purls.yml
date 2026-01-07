@@ -41,3 +41,4 @@
 - pkg:cargo/mech-wasm@0.2.72
 - pkg:cargo/mech-wasm@0.2.73
 - pkg:cargo/mech-wasm@0.2.74
+- pkg:cargo/mech-wasm@0.2.75

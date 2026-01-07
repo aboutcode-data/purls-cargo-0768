@@ -1,3 +1,4 @@
+- pkg:cargo/surrealdb-types@0.8.0
 - pkg:cargo/surrealdb-types@3.0.0-alpha.10
 - pkg:cargo/surrealdb-types@3.0.0-alpha.11
 - pkg:cargo/surrealdb-types@3.0.0-alpha.12

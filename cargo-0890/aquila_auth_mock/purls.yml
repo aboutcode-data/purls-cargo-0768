@@ -2,3 +2,4 @@
 - pkg:cargo/aquila_auth_mock@0.1.1
 - pkg:cargo/aquila_auth_mock@0.1.3
 - pkg:cargo/aquila_auth_mock@0.2.0
+- pkg:cargo/aquila_auth_mock@0.3.0
