@@ -43,3 +43,5 @@
 - pkg:cargo/amtrak-gtfs-rt@0.8.2
 - pkg:cargo/amtrak-gtfs-rt@0.8.3
 - pkg:cargo/amtrak-gtfs-rt@0.8.4
+- pkg:cargo/amtrak-gtfs-rt@0.8.5
+- pkg:cargo/amtrak-gtfs-rt@0.8.6
