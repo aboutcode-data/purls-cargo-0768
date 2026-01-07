@@ -169,6 +169,7 @@
 - pkg:cargo/re_viewport@0.28.0-alpha.4
 - pkg:cargo/re_viewport@0.28.0-rc.1
 - pkg:cargo/re_viewport@0.28.1
+- pkg:cargo/re_viewport@0.28.2-rc.1
 - pkg:cargo/re_viewport@0.8.0
 - pkg:cargo/re_viewport@0.8.0-alpha.2
 - pkg:cargo/re_viewport@0.8.0-alpha.6
