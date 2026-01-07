@@ -20,6 +20,7 @@
 - pkg:cargo/leafwing-input-manager@0.18.0
 - pkg:cargo/leafwing-input-manager@0.19.0
 - pkg:cargo/leafwing-input-manager@0.2.0
+- pkg:cargo/leafwing-input-manager@0.20.0
 - pkg:cargo/leafwing-input-manager@0.3.0
 - pkg:cargo/leafwing-input-manager@0.4.0
 - pkg:cargo/leafwing-input-manager@0.4.1
