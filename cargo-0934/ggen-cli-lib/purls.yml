@@ -11,3 +11,5 @@
 - pkg:cargo/ggen-cli-lib@5.0.0
 - pkg:cargo/ggen-cli-lib@5.0.1
 - pkg:cargo/ggen-cli-lib@5.0.2
+- pkg:cargo/ggen-cli-lib@5.1.0
+- pkg:cargo/ggen-cli-lib@5.1.3
