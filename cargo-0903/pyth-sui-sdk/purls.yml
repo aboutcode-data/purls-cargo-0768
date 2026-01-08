@@ -41,3 +41,4 @@
 - pkg:cargo/pyth-sui-sdk@0.22.1
 - pkg:cargo/pyth-sui-sdk@0.23.0
 - pkg:cargo/pyth-sui-sdk@0.24.0
+- pkg:cargo/pyth-sui-sdk@0.25.0
