@@ -10,3 +10,4 @@
 - pkg:cargo/kaledis@2.1.1
 - pkg:cargo/kaledis@2.2.0
 - pkg:cargo/kaledis@3.0.0
+- pkg:cargo/kaledis@3.0.1

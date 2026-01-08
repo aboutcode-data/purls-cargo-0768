@@ -1,1 +1,2 @@
 - pkg:cargo/kafka-remapper-core@0.5.5
+- pkg:cargo/kafka-remapper-core@0.5.6
