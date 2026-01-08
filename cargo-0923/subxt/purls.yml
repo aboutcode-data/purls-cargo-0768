@@ -40,3 +40,4 @@
 - pkg:cargo/subxt@0.43.0
 - pkg:cargo/subxt@0.43.1
 - pkg:cargo/subxt@0.44.0
+- pkg:cargo/subxt@0.44.1
