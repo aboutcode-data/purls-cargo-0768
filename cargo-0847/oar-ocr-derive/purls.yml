@@ -1,1 +1,2 @@
 - pkg:cargo/oar-ocr-derive@0.5.1
+- pkg:cargo/oar-ocr-derive@0.5.2
