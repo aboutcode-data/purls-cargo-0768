@@ -1,2 +1,6 @@
 - pkg:cargo/blockdev@0.1.1
 - pkg:cargo/blockdev@0.1.2
+- pkg:cargo/blockdev@0.2.0
+- pkg:cargo/blockdev@0.2.1
+- pkg:cargo/blockdev@0.3.0
+- pkg:cargo/blockdev@0.3.1
