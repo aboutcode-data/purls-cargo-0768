@@ -78,6 +78,7 @@
 - pkg:cargo/cranelift-codegen-shared@0.126.0
 - pkg:cargo/cranelift-codegen-shared@0.126.1
 - pkg:cargo/cranelift-codegen-shared@0.127.0
+- pkg:cargo/cranelift-codegen-shared@0.127.1
 - pkg:cargo/cranelift-codegen-shared@0.44.0
 - pkg:cargo/cranelift-codegen-shared@0.45.0
 - pkg:cargo/cranelift-codegen-shared@0.46.0
