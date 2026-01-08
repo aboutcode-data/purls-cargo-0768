@@ -66,3 +66,4 @@
 - pkg:cargo/alpm@4.0.3
 - pkg:cargo/alpm@4.0.4
 - pkg:cargo/alpm@5.0.0
+- pkg:cargo/alpm@5.0.2
