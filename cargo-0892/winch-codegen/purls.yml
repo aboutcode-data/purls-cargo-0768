@@ -105,3 +105,4 @@
 - pkg:cargo/winch-codegen@39.0.0
 - pkg:cargo/winch-codegen@39.0.1
 - pkg:cargo/winch-codegen@40.0.0
+- pkg:cargo/winch-codegen@40.0.1

@@ -1,2 +1,3 @@
 - pkg:cargo/hanzo-http-api@1.1.16
 - pkg:cargo/hanzo-http-api@1.1.18
+- pkg:cargo/hanzo-http-api@1.1.19
