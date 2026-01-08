@@ -1,2 +1,4 @@
 - pkg:cargo/mcp-host-macros@0.0.0
 - pkg:cargo/mcp-host-macros@0.1.0
+- pkg:cargo/mcp-host-macros@0.1.1
+- pkg:cargo/mcp-host-macros@0.1.2
