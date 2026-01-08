@@ -14,3 +14,4 @@
 - pkg:cargo/just-lsp@0.2.8
 - pkg:cargo/just-lsp@0.3.0
 - pkg:cargo/just-lsp@0.3.1
+- pkg:cargo/just-lsp@0.3.2

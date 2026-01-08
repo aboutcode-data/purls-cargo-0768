@@ -13,3 +13,4 @@
 - pkg:cargo/broccoli_queue@0.4.1
 - pkg:cargo/broccoli_queue@0.4.2
 - pkg:cargo/broccoli_queue@0.4.4
+- pkg:cargo/broccoli_queue@0.4.5
