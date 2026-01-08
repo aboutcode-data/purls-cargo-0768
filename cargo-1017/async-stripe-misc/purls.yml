@@ -7,3 +7,4 @@
 - pkg:cargo/async-stripe-misc@1.0.0-alpha.7
 - pkg:cargo/async-stripe-misc@1.0.0-alpha.8
 - pkg:cargo/async-stripe-misc@1.0.0-alpha.9
+- pkg:cargo/async-stripe-misc@1.0.0-rc.0
