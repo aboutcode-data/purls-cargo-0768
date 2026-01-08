@@ -8,3 +8,4 @@
 - pkg:cargo/sidecar@0.8.0
 - pkg:cargo/sidecar@0.9.0
 - pkg:cargo/sidecar@0.9.1
+- pkg:cargo/sidecar@1.0.0
