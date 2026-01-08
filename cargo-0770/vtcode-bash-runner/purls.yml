@@ -135,3 +135,4 @@
 - pkg:cargo/vtcode-bash-runner@0.58.9
 - pkg:cargo/vtcode-bash-runner@0.59.0
 - pkg:cargo/vtcode-bash-runner@0.59.1
+- pkg:cargo/vtcode-bash-runner@0.59.2
