@@ -8,3 +8,4 @@
 - pkg:cargo/mpc-macros@0.2.19
 - pkg:cargo/mpc-macros@0.2.20
 - pkg:cargo/mpc-macros@0.2.9
+- pkg:cargo/mpc-macros@0.3.0
