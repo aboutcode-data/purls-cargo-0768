@@ -15,3 +15,4 @@
 - pkg:cargo/wasmtime-internal-unwinder@39.0.0
 - pkg:cargo/wasmtime-internal-unwinder@39.0.1
 - pkg:cargo/wasmtime-internal-unwinder@40.0.0
+- pkg:cargo/wasmtime-internal-unwinder@40.0.1

@@ -18,3 +18,4 @@
 - pkg:cargo/lance-namespace-reqwest-client@0.4.2
 - pkg:cargo/lance-namespace-reqwest-client@0.4.3
 - pkg:cargo/lance-namespace-reqwest-client@0.4.4
+- pkg:cargo/lance-namespace-reqwest-client@0.4.5

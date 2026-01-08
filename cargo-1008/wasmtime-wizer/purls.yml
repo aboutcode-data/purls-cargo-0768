@@ -2,3 +2,4 @@
 - pkg:cargo/wasmtime-wizer@39.0.0
 - pkg:cargo/wasmtime-wizer@39.0.1
 - pkg:cargo/wasmtime-wizer@40.0.0
+- pkg:cargo/wasmtime-wizer@40.0.1
