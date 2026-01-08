@@ -5,3 +5,4 @@
 - pkg:cargo/fusio-core@0.4.3
 - pkg:cargo/fusio-core@0.5.0
 - pkg:cargo/fusio-core@0.5.0-a0
+- pkg:cargo/fusio-core@0.6.0
