@@ -28,6 +28,7 @@
 - pkg:cargo/librashader-runtime-vk@0.1.1
 - pkg:cargo/librashader-runtime-vk@0.1.3
 - pkg:cargo/librashader-runtime-vk@0.1.4
+- pkg:cargo/librashader-runtime-vk@0.10.0
 - pkg:cargo/librashader-runtime-vk@0.2.0
 - pkg:cargo/librashader-runtime-vk@0.2.0-beta.11
 - pkg:cargo/librashader-runtime-vk@0.2.0-beta.14

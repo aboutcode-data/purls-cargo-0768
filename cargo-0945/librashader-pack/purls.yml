@@ -1,3 +1,4 @@
+- pkg:cargo/librashader-pack@0.10.0
 - pkg:cargo/librashader-pack@0.5.0
 - pkg:cargo/librashader-pack@0.5.0-rc.1
 - pkg:cargo/librashader-pack@0.5.1
