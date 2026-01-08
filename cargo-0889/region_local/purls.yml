@@ -45,6 +45,7 @@
 - pkg:cargo/region_local@0.1.9
 - pkg:cargo/region_local@1.0.0
 - pkg:cargo/region_local@1.0.1
+- pkg:cargo/region_local@1.0.10
 - pkg:cargo/region_local@1.0.2
 - pkg:cargo/region_local@1.0.3
 - pkg:cargo/region_local@1.0.4
