@@ -220,6 +220,7 @@
 - pkg:cargo/maturin@1.10.2
 - pkg:cargo/maturin@1.11.0
 - pkg:cargo/maturin@1.11.2
+- pkg:cargo/maturin@1.11.3
 - pkg:cargo/maturin@1.2.0
 - pkg:cargo/maturin@1.2.1
 - pkg:cargo/maturin@1.2.2
