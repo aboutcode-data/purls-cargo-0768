@@ -17,6 +17,7 @@
 - pkg:cargo/move-stdlib-sdk@0.12.1
 - pkg:cargo/move-stdlib-sdk@0.13.0
 - pkg:cargo/move-stdlib-sdk@0.14.0
+- pkg:cargo/move-stdlib-sdk@0.15.0
 - pkg:cargo/move-stdlib-sdk@0.8.0
 - pkg:cargo/move-stdlib-sdk@0.8.1
 - pkg:cargo/move-stdlib-sdk@0.8.2
