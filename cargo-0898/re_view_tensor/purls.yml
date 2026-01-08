@@ -72,3 +72,4 @@
 - pkg:cargo/re_view_tensor@0.28.0-rc.1
 - pkg:cargo/re_view_tensor@0.28.1
 - pkg:cargo/re_view_tensor@0.28.2-rc.1
+- pkg:cargo/re_view_tensor@0.28.2-rc.2
