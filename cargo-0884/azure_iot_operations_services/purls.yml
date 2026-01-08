@@ -1,1 +1,2 @@
 - pkg:cargo/azure_iot_operations_services@1.0.0
+- pkg:cargo/azure_iot_operations_services@1.1.0-rc1
