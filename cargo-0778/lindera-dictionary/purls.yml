@@ -89,3 +89,4 @@
 - pkg:cargo/lindera-dictionary@1.4.2
 - pkg:cargo/lindera-dictionary@1.5.0
 - pkg:cargo/lindera-dictionary@1.5.1
+- pkg:cargo/lindera-dictionary@2.0.0
