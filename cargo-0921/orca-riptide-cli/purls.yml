@@ -5,3 +5,5 @@
 - pkg:cargo/orca-riptide-cli@0.0.5
 - pkg:cargo/orca-riptide-cli@0.1.0
 - pkg:cargo/orca-riptide-cli@0.1.1
+- pkg:cargo/orca-riptide-cli@0.1.2
+- pkg:cargo/orca-riptide-cli@0.2.0
