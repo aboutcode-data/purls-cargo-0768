@@ -8,3 +8,5 @@
 - pkg:cargo/haste-fhir-serialization-json-derive@0.6.0
 - pkg:cargo/haste-fhir-serialization-json-derive@0.6.1
 - pkg:cargo/haste-fhir-serialization-json-derive@0.7.0
+- pkg:cargo/haste-fhir-serialization-json-derive@0.7.1
+- pkg:cargo/haste-fhir-serialization-json-derive@0.7.2
