@@ -1,5 +1,6 @@
 - pkg:cargo/fedimint-derive@0.0.1
 - pkg:cargo/fedimint-derive@0.10.0-beta.0
+- pkg:cargo/fedimint-derive@0.10.0-beta.1
 - pkg:cargo/fedimint-derive@0.2.0
 - pkg:cargo/fedimint-derive@0.2.0-rc2
 - pkg:cargo/fedimint-derive@0.2.0-rc3
