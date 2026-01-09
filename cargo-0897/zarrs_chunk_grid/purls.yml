@@ -1,3 +1,4 @@
 - pkg:cargo/zarrs_chunk_grid@0.0.0-reserved
 - pkg:cargo/zarrs_chunk_grid@0.1.0
 - pkg:cargo/zarrs_chunk_grid@0.2.0
+- pkg:cargo/zarrs_chunk_grid@0.3.0
