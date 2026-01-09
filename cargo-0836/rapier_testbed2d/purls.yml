@@ -25,6 +25,7 @@
 - pkg:cargo/rapier_testbed2d@0.29.0
 - pkg:cargo/rapier_testbed2d@0.30.0
 - pkg:cargo/rapier_testbed2d@0.31.0
+- pkg:cargo/rapier_testbed2d@0.32.0
 - pkg:cargo/rapier_testbed2d@0.4.0
 - pkg:cargo/rapier_testbed2d@0.5.0
 - pkg:cargo/rapier_testbed2d@0.6.0

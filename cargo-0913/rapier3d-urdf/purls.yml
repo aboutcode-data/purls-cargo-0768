@@ -2,6 +2,7 @@
 - pkg:cargo/rapier3d-urdf@0.10.0
 - pkg:cargo/rapier3d-urdf@0.11.0
 - pkg:cargo/rapier3d-urdf@0.12.0
+- pkg:cargo/rapier3d-urdf@0.13.0
 - pkg:cargo/rapier3d-urdf@0.2.0
 - pkg:cargo/rapier3d-urdf@0.3.0
 - pkg:cargo/rapier3d-urdf@0.4.0
