@@ -26,3 +26,4 @@
 - pkg:cargo/freya@0.4.0-alpha.6
 - pkg:cargo/freya@0.4.0-alpha.7
 - pkg:cargo/freya@0.4.0-alpha.8
+- pkg:cargo/freya@0.4.0-rc.1
