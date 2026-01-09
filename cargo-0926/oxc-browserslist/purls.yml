@@ -35,3 +35,4 @@
 - pkg:cargo/oxc-browserslist@2.1.3
 - pkg:cargo/oxc-browserslist@2.1.4
 - pkg:cargo/oxc-browserslist@2.1.5
+- pkg:cargo/oxc-browserslist@2.2.0
