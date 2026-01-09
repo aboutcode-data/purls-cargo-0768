@@ -1,5 +1,6 @@
 - pkg:cargo/autoscale_cuckoo_filter@0.5.10
 - pkg:cargo/autoscale_cuckoo_filter@0.5.11
+- pkg:cargo/autoscale_cuckoo_filter@0.5.17
 - pkg:cargo/autoscale_cuckoo_filter@0.5.2
 - pkg:cargo/autoscale_cuckoo_filter@0.5.3
 - pkg:cargo/autoscale_cuckoo_filter@0.5.4
