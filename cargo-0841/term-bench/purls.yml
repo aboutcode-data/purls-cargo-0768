@@ -1,2 +1,4 @@
 - pkg:cargo/term-bench@0.4.1-alpha
 - pkg:cargo/term-bench@0.4.2-alpha
+- pkg:cargo/term-bench@0.5.0-alpha
+- pkg:cargo/term-bench@0.5.1-alpha
