@@ -10,3 +10,4 @@
 - pkg:cargo/tycho-simulation@0.225.2
 - pkg:cargo/tycho-simulation@0.226.0
 - pkg:cargo/tycho-simulation@0.226.1
+- pkg:cargo/tycho-simulation@0.227.0
