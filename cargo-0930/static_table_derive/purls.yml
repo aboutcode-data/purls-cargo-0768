@@ -80,4 +80,5 @@
 - pkg:cargo/static_table_derive@0.1.81
 - pkg:cargo/static_table_derive@0.1.82
 - pkg:cargo/static_table_derive@0.1.83
+- pkg:cargo/static_table_derive@0.1.84
 - pkg:cargo/static_table_derive@0.1.9
