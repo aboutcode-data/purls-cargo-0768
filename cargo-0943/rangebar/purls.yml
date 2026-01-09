@@ -9,3 +9,4 @@
 - pkg:cargo/rangebar@5.0.1
 - pkg:cargo/rangebar@5.1.0
 - pkg:cargo/rangebar@5.2.0
+- pkg:cargo/rangebar@6.0.0
