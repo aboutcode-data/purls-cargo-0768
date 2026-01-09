@@ -43,3 +43,4 @@
 - pkg:cargo/assert_cmd@2.0.9
 - pkg:cargo/assert_cmd@2.1.0
 - pkg:cargo/assert_cmd@2.1.1
+- pkg:cargo/assert_cmd@2.1.2
