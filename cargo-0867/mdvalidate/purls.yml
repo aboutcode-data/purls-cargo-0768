@@ -15,3 +15,4 @@
 - pkg:cargo/mdvalidate@0.1.8
 - pkg:cargo/mdvalidate@0.1.9
 - pkg:cargo/mdvalidate@0.2.1
+- pkg:cargo/mdvalidate@0.2.3
