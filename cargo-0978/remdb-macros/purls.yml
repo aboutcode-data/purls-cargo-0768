@@ -18,3 +18,4 @@
 - pkg:cargo/remdb-macros@0.1.6
 - pkg:cargo/remdb-macros@0.2.0
 - pkg:cargo/remdb-macros@0.2.1
+- pkg:cargo/remdb-macros@0.2.2
