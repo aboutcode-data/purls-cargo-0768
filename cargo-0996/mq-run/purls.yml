@@ -1,3 +1,4 @@
+- pkg:cargo/mq-run@0.5.10
 - pkg:cargo/mq-run@0.5.2
 - pkg:cargo/mq-run@0.5.3
 - pkg:cargo/mq-run@0.5.4

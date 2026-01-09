@@ -33,3 +33,4 @@
 - pkg:cargo/arborium-sysroot@2.4.7
 - pkg:cargo/arborium-sysroot@2.5.0
 - pkg:cargo/arborium-sysroot@2.6.0
+- pkg:cargo/arborium-sysroot@2.6.1

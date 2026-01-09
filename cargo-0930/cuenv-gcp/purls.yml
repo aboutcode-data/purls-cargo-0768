@@ -1,1 +1,2 @@
 - pkg:cargo/cuenv-gcp@0.16.0
+- pkg:cargo/cuenv-gcp@0.26.2
