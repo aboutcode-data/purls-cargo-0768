@@ -63,6 +63,7 @@
 - pkg:cargo/snapbox@0.6.21
 - pkg:cargo/snapbox@0.6.22
 - pkg:cargo/snapbox@0.6.23
+- pkg:cargo/snapbox@0.6.24
 - pkg:cargo/snapbox@0.6.3
 - pkg:cargo/snapbox@0.6.4
 - pkg:cargo/snapbox@0.6.5
