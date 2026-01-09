@@ -9,3 +9,4 @@
 - pkg:cargo/subxt-utils-fetchmetadata@0.43.0
 - pkg:cargo/subxt-utils-fetchmetadata@0.44.0
 - pkg:cargo/subxt-utils-fetchmetadata@0.44.1
+- pkg:cargo/subxt-utils-fetchmetadata@0.44.2
