@@ -523,6 +523,7 @@
 - pkg:cargo/solana-measure@3.0.11
 - pkg:cargo/solana-measure@3.0.12
 - pkg:cargo/solana-measure@3.0.13
+- pkg:cargo/solana-measure@3.0.14
 - pkg:cargo/solana-measure@3.0.2
 - pkg:cargo/solana-measure@3.0.3
 - pkg:cargo/solana-measure@3.0.4

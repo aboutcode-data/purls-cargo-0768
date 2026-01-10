@@ -1,6 +1,7 @@
 - pkg:cargo/embedded-devices-derive@0.10.0
 - pkg:cargo/embedded-devices-derive@0.10.1
 - pkg:cargo/embedded-devices-derive@0.10.2
+- pkg:cargo/embedded-devices-derive@0.10.3
 - pkg:cargo/embedded-devices-derive@0.9.10
 - pkg:cargo/embedded-devices-derive@0.9.11
 - pkg:cargo/embedded-devices-derive@0.9.12
