@@ -109,3 +109,4 @@
 - pkg:cargo/alloy-rpc-types-eth@1.1.3
 - pkg:cargo/alloy-rpc-types-eth@1.2.1
 - pkg:cargo/alloy-rpc-types-eth@1.3.0
+- pkg:cargo/alloy-rpc-types-eth@1.4.0

@@ -107,3 +107,4 @@
 - pkg:cargo/alloy-rpc-types-anvil@1.1.3
 - pkg:cargo/alloy-rpc-types-anvil@1.2.1
 - pkg:cargo/alloy-rpc-types-anvil@1.3.0
+- pkg:cargo/alloy-rpc-types-anvil@1.4.0

@@ -3,4 +3,5 @@
 - pkg:cargo/dataset-writer@1.1.0
 - pkg:cargo/dataset-writer@1.1.1
 - pkg:cargo/dataset-writer@1.2.0
+- pkg:cargo/dataset-writer@1.2.1
 - pkg:cargo/dataset-writer@2.0.0

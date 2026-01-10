@@ -106,3 +106,4 @@
 - pkg:cargo/alloy-contract@1.1.3
 - pkg:cargo/alloy-contract@1.2.1
 - pkg:cargo/alloy-contract@1.3.0
+- pkg:cargo/alloy-contract@1.4.0
