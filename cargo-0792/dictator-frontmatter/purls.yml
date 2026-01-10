@@ -5,6 +5,7 @@
 - pkg:cargo/dictator-frontmatter@0.12.0
 - pkg:cargo/dictator-frontmatter@0.13.0
 - pkg:cargo/dictator-frontmatter@0.14.0
+- pkg:cargo/dictator-frontmatter@0.15.0
 - pkg:cargo/dictator-frontmatter@0.2.0
 - pkg:cargo/dictator-frontmatter@0.4.0
 - pkg:cargo/dictator-frontmatter@0.5.0
