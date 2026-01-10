@@ -75,3 +75,4 @@
 - pkg:cargo/udp@2.0.5
 - pkg:cargo/udp@2.0.6
 - pkg:cargo/udp@2.0.7
+- pkg:cargo/udp@2.0.8
