@@ -12,3 +12,4 @@
 - pkg:cargo/agtrace-core@0.5.5
 - pkg:cargo/agtrace-core@0.5.6
 - pkg:cargo/agtrace-core@0.5.7
+- pkg:cargo/agtrace-core@0.6.0
