@@ -27,3 +27,4 @@
 - pkg:cargo/ansi-to-tui@7.0.0
 - pkg:cargo/ansi-to-tui@8.0.0
 - pkg:cargo/ansi-to-tui@8.0.0-beta.0
+- pkg:cargo/ansi-to-tui@8.0.1
