@@ -1,3 +1,4 @@
+- pkg:cargo/hongdown@0.1.0
 - pkg:cargo/hongdown@0.1.0-dev.0
 - pkg:cargo/hongdown@0.1.0-dev.11%2Bbe401b59
 - pkg:cargo/hongdown@0.1.0-dev.12%2Be84f1fb0
@@ -30,6 +31,8 @@
 - pkg:cargo/hongdown@0.1.0-dev.38%2B8057d22b
 - pkg:cargo/hongdown@0.1.0-dev.39%2Be362761a
 - pkg:cargo/hongdown@0.1.0-dev.4%2Bde1c0d73
+- pkg:cargo/hongdown@0.1.0-dev.40%2Ba8648aa1
+- pkg:cargo/hongdown@0.1.0-dev.41%2Bbf2f57d0
 - pkg:cargo/hongdown@0.1.0-dev.5%2B5c382478
 - pkg:cargo/hongdown@0.1.0-dev.6%2B3f180109
 - pkg:cargo/hongdown@0.1.0-dev.7%2B6178b8ad
