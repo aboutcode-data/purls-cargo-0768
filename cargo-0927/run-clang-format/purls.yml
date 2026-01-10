@@ -7,3 +7,4 @@
 - pkg:cargo/run-clang-format@1.4.9
 - pkg:cargo/run-clang-format@1.5.0
 - pkg:cargo/run-clang-format@1.5.1
+- pkg:cargo/run-clang-format@1.5.2
