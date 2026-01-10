@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_logstash_k8s_elastic_co@2.20250913.132644
 - pkg:cargo/kcr_logstash_k8s_elastic_co@2.20250920.132851
 - pkg:cargo/kcr_logstash_k8s_elastic_co@2.20250927.132815
+- pkg:cargo/kcr_logstash_k8s_elastic_co@2.20260110.133748
