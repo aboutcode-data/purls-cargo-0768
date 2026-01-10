@@ -10,6 +10,7 @@
 - pkg:cargo/TR_PDF_rename@0.1.8
 - pkg:cargo/TR_PDF_rename@0.1.9
 - pkg:cargo/TR_PDF_rename@0.2.12
+- pkg:cargo/TR_PDF_rename@0.2.13
 - pkg:cargo/TR_PDF_rename@0.2.4
 - pkg:cargo/TR_PDF_rename@0.2.5
 - pkg:cargo/TR_PDF_rename@0.2.6
