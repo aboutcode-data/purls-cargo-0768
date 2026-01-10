@@ -15,3 +15,5 @@
 - pkg:cargo/litra@2.4.0
 - pkg:cargo/litra@2.5.0
 - pkg:cargo/litra@2.5.1
+- pkg:cargo/litra@2.5.2
+- pkg:cargo/litra@3.0.0
