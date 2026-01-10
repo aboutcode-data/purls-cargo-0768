@@ -2,6 +2,7 @@
 - pkg:cargo/chewing_capi@0.10.1
 - pkg:cargo/chewing_capi@0.10.2
 - pkg:cargo/chewing_capi@0.10.3
+- pkg:cargo/chewing_capi@0.11.0
 - pkg:cargo/chewing_capi@0.11.0-alpha.1
 - pkg:cargo/chewing_capi@0.11.0-alpha.2
 - pkg:cargo/chewing_capi@0.11.0-alpha.3
