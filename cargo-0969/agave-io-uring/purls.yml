@@ -17,6 +17,7 @@
 - pkg:cargo/agave-io-uring@3.0.11
 - pkg:cargo/agave-io-uring@3.0.12
 - pkg:cargo/agave-io-uring@3.0.13
+- pkg:cargo/agave-io-uring@3.0.14
 - pkg:cargo/agave-io-uring@3.0.2
 - pkg:cargo/agave-io-uring@3.0.3
 - pkg:cargo/agave-io-uring@3.0.4
