@@ -5,3 +5,4 @@
 - pkg:cargo/protobuf-native@0.3.0%2B26.1
 - pkg:cargo/protobuf-native@0.3.1%2B26.1
 - pkg:cargo/protobuf-native@0.3.2%2B26.1
+- pkg:cargo/protobuf-native@0.3.3%2B26.1

@@ -12,3 +12,4 @@
 - pkg:cargo/protobuf-macros@4.33.0-release
 - pkg:cargo/protobuf-macros@4.33.1-release
 - pkg:cargo/protobuf-macros@4.33.2-release
+- pkg:cargo/protobuf-macros@4.33.3-release
