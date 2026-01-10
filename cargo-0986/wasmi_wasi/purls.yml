@@ -79,3 +79,4 @@
 - pkg:cargo/wasmi_wasi@1.0.4
 - pkg:cargo/wasmi_wasi@1.0.5
 - pkg:cargo/wasmi_wasi@1.0.6
+- pkg:cargo/wasmi_wasi@1.0.7
