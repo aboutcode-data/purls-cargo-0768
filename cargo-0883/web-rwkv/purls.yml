@@ -26,6 +26,7 @@
 - pkg:cargo/web-rwkv@0.10.16
 - pkg:cargo/web-rwkv@0.10.17
 - pkg:cargo/web-rwkv@0.10.18
+- pkg:cargo/web-rwkv@0.10.19
 - pkg:cargo/web-rwkv@0.10.2
 - pkg:cargo/web-rwkv@0.10.3
 - pkg:cargo/web-rwkv@0.10.4
