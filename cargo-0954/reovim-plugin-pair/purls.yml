@@ -2,3 +2,4 @@
 - pkg:cargo/reovim-plugin-pair@0.7.8
 - pkg:cargo/reovim-plugin-pair@0.7.9
 - pkg:cargo/reovim-plugin-pair@0.8.0
+- pkg:cargo/reovim-plugin-pair@0.8.1
