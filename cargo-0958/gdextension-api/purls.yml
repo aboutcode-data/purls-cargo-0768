@@ -5,6 +5,7 @@
 - pkg:cargo/gdextension-api@0.2.2
 - pkg:cargo/gdextension-api@0.3.0
 - pkg:cargo/gdextension-api@0.3.1
+- pkg:cargo/gdextension-api@0.3.2
 - pkg:cargo/gdextension-api@4.0.0-rev.0
 - pkg:cargo/gdextension-api@4.0.1-rev.0
 - pkg:cargo/gdextension-api@4.0.2-rev.0
