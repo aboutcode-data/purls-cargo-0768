@@ -376,3 +376,4 @@
 - pkg:cargo/ruchy@3.99.1
 - pkg:cargo/ruchy@3.99.2
 - pkg:cargo/ruchy@3.99.3
+- pkg:cargo/ruchy@4.0.0

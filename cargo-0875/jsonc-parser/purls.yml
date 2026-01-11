@@ -31,6 +31,7 @@
 - pkg:cargo/jsonc-parser@0.27.0
 - pkg:cargo/jsonc-parser@0.27.1
 - pkg:cargo/jsonc-parser@0.28.0
+- pkg:cargo/jsonc-parser@0.29.0
 - pkg:cargo/jsonc-parser@0.3.0
 - pkg:cargo/jsonc-parser@0.4.0
 - pkg:cargo/jsonc-parser@0.5.0
