@@ -6,3 +6,6 @@
 - pkg:cargo/line-column@0.1.5
 - pkg:cargo/line-column@0.1.6
 - pkg:cargo/line-column@0.2.0
+- pkg:cargo/line-column@0.2.1
+- pkg:cargo/line-column@0.2.2
+- pkg:cargo/line-column@0.2.3
