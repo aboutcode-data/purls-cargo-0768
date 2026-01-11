@@ -24,3 +24,4 @@
 - pkg:cargo/systemctl-tui@0.3.7
 - pkg:cargo/systemctl-tui@0.3.8
 - pkg:cargo/systemctl-tui@0.4.0
+- pkg:cargo/systemctl-tui@0.4.1
