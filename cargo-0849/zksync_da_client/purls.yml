@@ -21,3 +21,4 @@
 - pkg:cargo/zksync_da_client@29.5.0-non-semver-compat
 - pkg:cargo/zksync_da_client@29.6.0-non-semver-compat
 - pkg:cargo/zksync_da_client@29.7.0-non-semver-compat
+- pkg:cargo/zksync_da_client@29.7.1-non-semver-compat

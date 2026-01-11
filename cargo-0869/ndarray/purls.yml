@@ -32,6 +32,7 @@
 - pkg:cargo/ndarray@0.16.1
 - pkg:cargo/ndarray@0.17.0
 - pkg:cargo/ndarray@0.17.1
+- pkg:cargo/ndarray@0.17.2
 - pkg:cargo/ndarray@0.2.0
 - pkg:cargo/ndarray@0.2.0-alpha.8
 - pkg:cargo/ndarray@0.2.0-alpha.9

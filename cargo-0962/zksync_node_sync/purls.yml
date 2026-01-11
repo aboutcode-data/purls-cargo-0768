@@ -18,3 +18,4 @@
 - pkg:cargo/zksync_node_sync@29.5.0-non-semver-compat
 - pkg:cargo/zksync_node_sync@29.6.0-non-semver-compat
 - pkg:cargo/zksync_node_sync@29.7.0-non-semver-compat
+- pkg:cargo/zksync_node_sync@29.7.1-non-semver-compat
