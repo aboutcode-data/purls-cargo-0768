@@ -6,6 +6,7 @@
 - pkg:cargo/eldenring@0.1.5
 - pkg:cargo/eldenring@0.10.0
 - pkg:cargo/eldenring@0.11.0
+- pkg:cargo/eldenring@0.12.0
 - pkg:cargo/eldenring@0.2.0
 - pkg:cargo/eldenring@0.2.1
 - pkg:cargo/eldenring@0.3.0

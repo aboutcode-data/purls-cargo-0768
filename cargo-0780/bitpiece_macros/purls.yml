@@ -13,3 +13,5 @@
 - pkg:cargo/bitpiece_macros@0.2.11
 - pkg:cargo/bitpiece_macros@0.2.12
 - pkg:cargo/bitpiece_macros@0.4.0
+- pkg:cargo/bitpiece_macros@1.0.0
+- pkg:cargo/bitpiece_macros@2.2.0
