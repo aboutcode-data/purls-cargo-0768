@@ -29,3 +29,4 @@
 - pkg:cargo/rush-sh@0.6.5
 - pkg:cargo/rush-sh@0.6.6
 - pkg:cargo/rush-sh@0.6.7
+- pkg:cargo/rush-sh@0.7.0
