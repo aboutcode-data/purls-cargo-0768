@@ -13,3 +13,4 @@
 - pkg:cargo/gluesql-test-suite@0.16.3
 - pkg:cargo/gluesql-test-suite@0.17.0
 - pkg:cargo/gluesql-test-suite@0.18.0
+- pkg:cargo/gluesql-test-suite@0.19.0
