@@ -26,3 +26,4 @@
 - pkg:cargo/solana-define-syscall@3.0.0
 - pkg:cargo/solana-define-syscall@4.0.0
 - pkg:cargo/solana-define-syscall@4.0.1
+- pkg:cargo/solana-define-syscall@5.0.0
