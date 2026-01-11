@@ -10,3 +10,4 @@
 - pkg:cargo/sentinel-agent-protocol@0.2.1
 - pkg:cargo/sentinel-agent-protocol@0.2.3
 - pkg:cargo/sentinel-agent-protocol@0.2.4
+- pkg:cargo/sentinel-agent-protocol@0.2.5
