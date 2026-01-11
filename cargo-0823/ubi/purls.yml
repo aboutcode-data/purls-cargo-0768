@@ -57,3 +57,4 @@
 - pkg:cargo/ubi@0.8.2
 - pkg:cargo/ubi@0.8.3
 - pkg:cargo/ubi@0.8.4
+- pkg:cargo/ubi@0.9.0
