@@ -10,3 +10,5 @@
 - pkg:cargo/puniyu_adapter_console@0.4.0
 - pkg:cargo/puniyu_adapter_console@0.4.1
 - pkg:cargo/puniyu_adapter_console@0.4.2
+- pkg:cargo/puniyu_adapter_console@0.4.3
+- pkg:cargo/puniyu_adapter_console@0.4.4
