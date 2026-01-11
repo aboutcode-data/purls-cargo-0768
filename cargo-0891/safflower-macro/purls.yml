@@ -3,3 +3,4 @@
 - pkg:cargo/safflower-macro@0.3.0
 - pkg:cargo/safflower-macro@0.4.0
 - pkg:cargo/safflower-macro@0.4.1
+- pkg:cargo/safflower-macro@1.0.0
