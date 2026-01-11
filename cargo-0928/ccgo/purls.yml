@@ -4,3 +4,4 @@
 - pkg:cargo/ccgo@3.0.5
 - pkg:cargo/ccgo@3.0.6
 - pkg:cargo/ccgo@3.0.7
+- pkg:cargo/ccgo@3.0.8
