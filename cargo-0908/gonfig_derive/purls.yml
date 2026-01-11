@@ -1,6 +1,7 @@
 - pkg:cargo/gonfig_derive@0.1.0
 - pkg:cargo/gonfig_derive@0.1.1
 - pkg:cargo/gonfig_derive@0.1.10
+- pkg:cargo/gonfig_derive@0.1.11
 - pkg:cargo/gonfig_derive@0.1.2
 - pkg:cargo/gonfig_derive@0.1.6
 - pkg:cargo/gonfig_derive@0.1.7
