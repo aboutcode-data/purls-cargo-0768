@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_keyspaces_services_k8s_aws@2.20250915.163535
 - pkg:cargo/kcr_keyspaces_services_k8s_aws@2.20250922.163603
 - pkg:cargo/kcr_keyspaces_services_k8s_aws@2.20250929.162954
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@3.20260112.164334

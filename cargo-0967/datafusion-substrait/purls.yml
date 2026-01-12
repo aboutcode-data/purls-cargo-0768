@@ -44,3 +44,4 @@
 - pkg:cargo/datafusion-substrait@50.2.0
 - pkg:cargo/datafusion-substrait@50.3.0
 - pkg:cargo/datafusion-substrait@51.0.0
+- pkg:cargo/datafusion-substrait@52.0.0

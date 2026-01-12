@@ -21,3 +21,4 @@
 - pkg:cargo/datafusion-functions-aggregate@50.2.0
 - pkg:cargo/datafusion-functions-aggregate@50.3.0
 - pkg:cargo/datafusion-functions-aggregate@51.0.0
+- pkg:cargo/datafusion-functions-aggregate@52.0.0
