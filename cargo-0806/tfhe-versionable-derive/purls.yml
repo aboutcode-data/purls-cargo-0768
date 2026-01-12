@@ -9,3 +9,4 @@
 - pkg:cargo/tfhe-versionable-derive@0.6.0
 - pkg:cargo/tfhe-versionable-derive@0.6.1
 - pkg:cargo/tfhe-versionable-derive@0.6.2
+- pkg:cargo/tfhe-versionable-derive@0.7.0
