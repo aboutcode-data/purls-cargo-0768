@@ -73,3 +73,5 @@
 - pkg:cargo/ra_ap_syntax-bridge@0.0.311
 - pkg:cargo/ra_ap_syntax-bridge@0.0.312
 - pkg:cargo/ra_ap_syntax-bridge@0.0.313
+- pkg:cargo/ra_ap_syntax-bridge@0.0.314
+- pkg:cargo/ra_ap_syntax-bridge@0.0.315
