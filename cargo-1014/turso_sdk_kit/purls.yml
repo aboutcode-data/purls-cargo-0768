@@ -1,5 +1,6 @@
 - pkg:cargo/turso_sdk_kit@0.4.0
 - pkg:cargo/turso_sdk_kit@0.4.1
 - pkg:cargo/turso_sdk_kit@0.4.2
+- pkg:cargo/turso_sdk_kit@0.4.3
 - pkg:cargo/turso_sdk_kit@0.4.3-pre.1
 - pkg:cargo/turso_sdk_kit@0.4.3-pre.2
