@@ -10,6 +10,7 @@
 - pkg:cargo/amari-enumerative@0.15.0
 - pkg:cargo/amari-enumerative@0.15.1
 - pkg:cargo/amari-enumerative@0.16.0
+- pkg:cargo/amari-enumerative@0.17.0
 - pkg:cargo/amari-enumerative@0.6.0
 - pkg:cargo/amari-enumerative@0.7.0
 - pkg:cargo/amari-enumerative@0.8.0
