@@ -3,6 +3,7 @@
 - pkg:cargo/wdl-format@0.11.0
 - pkg:cargo/wdl-format@0.12.0
 - pkg:cargo/wdl-format@0.13.0
+- pkg:cargo/wdl-format@0.14.0
 - pkg:cargo/wdl-format@0.2.0
 - pkg:cargo/wdl-format@0.2.1
 - pkg:cargo/wdl-format@0.3.0

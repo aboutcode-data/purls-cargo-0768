@@ -42,3 +42,4 @@
 - pkg:cargo/subxt@0.44.0
 - pkg:cargo/subxt@0.44.1
 - pkg:cargo/subxt@0.44.2
+- pkg:cargo/subxt@0.50.0-beta.1
