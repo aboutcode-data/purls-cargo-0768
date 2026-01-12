@@ -5,6 +5,9 @@
 - pkg:cargo/fespbvgg_docs_rs@0.13.0
 - pkg:cargo/fespbvgg_docs_rs@0.14.0
 - pkg:cargo/fespbvgg_docs_rs@0.15.0
+- pkg:cargo/fespbvgg_docs_rs@0.16.0
+- pkg:cargo/fespbvgg_docs_rs@0.17.0
+- pkg:cargo/fespbvgg_docs_rs@0.18.0
 - pkg:cargo/fespbvgg_docs_rs@0.2.0
 - pkg:cargo/fespbvgg_docs_rs@0.3.0
 - pkg:cargo/fespbvgg_docs_rs@0.4.0
