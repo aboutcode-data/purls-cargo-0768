@@ -2,3 +2,4 @@
 - pkg:cargo/grapheme_macro@2.0.0
 - pkg:cargo/grapheme_macro@3.0.0
 - pkg:cargo/grapheme_macro@4.0.0
+- pkg:cargo/grapheme_macro@4.0.1
