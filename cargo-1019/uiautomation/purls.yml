@@ -73,6 +73,7 @@
 - pkg:cargo/uiautomation@0.24.0
 - pkg:cargo/uiautomation@0.24.1
 - pkg:cargo/uiautomation@0.24.2
+- pkg:cargo/uiautomation@0.24.3
 - pkg:cargo/uiautomation@0.3.0
 - pkg:cargo/uiautomation@0.3.1
 - pkg:cargo/uiautomation@0.3.10

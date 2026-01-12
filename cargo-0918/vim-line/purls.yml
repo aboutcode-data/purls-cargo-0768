@@ -8,6 +8,7 @@
 - pkg:cargo/vim-line@0.19.1
 - pkg:cargo/vim-line@0.19.10
 - pkg:cargo/vim-line@0.19.11
+- pkg:cargo/vim-line@0.19.12
 - pkg:cargo/vim-line@0.19.2
 - pkg:cargo/vim-line@0.19.3
 - pkg:cargo/vim-line@0.19.4
