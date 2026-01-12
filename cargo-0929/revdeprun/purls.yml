@@ -23,3 +23,4 @@
 - pkg:cargo/revdeprun@2.1.1
 - pkg:cargo/revdeprun@2.1.2
 - pkg:cargo/revdeprun@2.2.0
+- pkg:cargo/revdeprun@2.2.1

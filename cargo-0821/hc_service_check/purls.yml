@@ -68,3 +68,4 @@
 - pkg:cargo/hc_service_check@0.3.0-rc.0
 - pkg:cargo/hc_service_check@0.4.0-dev.0
 - pkg:cargo/hc_service_check@0.4.0-dev.1
+- pkg:cargo/hc_service_check@0.4.0-dev.2
