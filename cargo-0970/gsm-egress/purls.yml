@@ -16,3 +16,5 @@
 - pkg:cargo/gsm-egress@0.4.27
 - pkg:cargo/gsm-egress@0.4.28
 - pkg:cargo/gsm-egress@0.4.29
+- pkg:cargo/gsm-egress@0.4.30
+- pkg:cargo/gsm-egress@0.4.31

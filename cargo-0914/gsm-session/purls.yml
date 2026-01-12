@@ -23,6 +23,8 @@
 - pkg:cargo/gsm-session@0.4.28
 - pkg:cargo/gsm-session@0.4.29
 - pkg:cargo/gsm-session@0.4.3
+- pkg:cargo/gsm-session@0.4.30
+- pkg:cargo/gsm-session@0.4.31
 - pkg:cargo/gsm-session@0.4.5
 - pkg:cargo/gsm-session@0.4.7
 - pkg:cargo/gsm-session@0.4.8
