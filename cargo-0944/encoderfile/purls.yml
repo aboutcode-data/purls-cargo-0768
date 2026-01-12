@@ -20,5 +20,10 @@
 - pkg:cargo/encoderfile@0.3.0-rc.0
 - pkg:cargo/encoderfile@0.3.0-rc.1
 - pkg:cargo/encoderfile@0.4.0-beta.1
+- pkg:cargo/encoderfile@0.4.0-beta.10
 - pkg:cargo/encoderfile@0.4.0-beta.2
 - pkg:cargo/encoderfile@0.4.0-beta.3
+- pkg:cargo/encoderfile@0.4.0-beta.4
+- pkg:cargo/encoderfile@0.4.0-beta.5
+- pkg:cargo/encoderfile@0.4.0-beta.6
+- pkg:cargo/encoderfile@0.4.0-beta.8
