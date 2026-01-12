@@ -6,6 +6,7 @@
 - pkg:cargo/my-canister-dashboard@0.10.5
 - pkg:cargo/my-canister-dashboard@0.10.6
 - pkg:cargo/my-canister-dashboard@0.10.7
+- pkg:cargo/my-canister-dashboard@0.11.0
 - pkg:cargo/my-canister-dashboard@0.3.0-beta.1
 - pkg:cargo/my-canister-dashboard@0.3.0-beta.2
 - pkg:cargo/my-canister-dashboard@0.3.0-beta.3
