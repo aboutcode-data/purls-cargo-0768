@@ -10,3 +10,4 @@
 - pkg:cargo/libevent-sys@0.2.5
 - pkg:cargo/libevent-sys@0.2.6
 - pkg:cargo/libevent-sys@0.3.0
+- pkg:cargo/libevent-sys@0.4.0

@@ -1,1 +1,2 @@
 - pkg:cargo/amqp-bridge@0.2.1
+- pkg:cargo/amqp-bridge@0.2.4
