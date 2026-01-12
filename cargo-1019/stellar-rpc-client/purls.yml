@@ -21,3 +21,4 @@
 - pkg:cargo/stellar-rpc-client@23.1.0
 - pkg:cargo/stellar-rpc-client@23.2.0
 - pkg:cargo/stellar-rpc-client@23.2.1
+- pkg:cargo/stellar-rpc-client@25.0.0
