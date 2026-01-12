@@ -33,3 +33,5 @@
 - pkg:cargo/arborium-scala@2.6.0
 - pkg:cargo/arborium-scala@2.6.1
 - pkg:cargo/arborium-scala@2.7.0
+- pkg:cargo/arborium-scala@2.8.0
+- pkg:cargo/arborium-scala@2.9.0

@@ -1,0 +1,2 @@
+- pkg:cargo/otlp2parquet-handlers@0.7.0
+- pkg:cargo/otlp2parquet-handlers@0.7.1

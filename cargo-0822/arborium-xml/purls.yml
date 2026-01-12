@@ -33,3 +33,5 @@
 - pkg:cargo/arborium-xml@2.6.0
 - pkg:cargo/arborium-xml@2.6.1
 - pkg:cargo/arborium-xml@2.7.0
+- pkg:cargo/arborium-xml@2.8.0
+- pkg:cargo/arborium-xml@2.9.0

@@ -1,1 +1,2 @@
 - pkg:cargo/otlp2records@0.1.0
+- pkg:cargo/otlp2records@0.1.1

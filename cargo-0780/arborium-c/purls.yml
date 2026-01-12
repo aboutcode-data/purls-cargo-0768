@@ -30,3 +30,5 @@
 - pkg:cargo/arborium-c@2.6.0
 - pkg:cargo/arborium-c@2.6.1
 - pkg:cargo/arborium-c@2.7.0
+- pkg:cargo/arborium-c@2.8.0
+- pkg:cargo/arborium-c@2.9.0

@@ -32,3 +32,5 @@
 - pkg:cargo/arborium-elixir@2.6.0
 - pkg:cargo/arborium-elixir@2.6.1
 - pkg:cargo/arborium-elixir@2.7.0
+- pkg:cargo/arborium-elixir@2.8.0
+- pkg:cargo/arborium-elixir@2.9.0

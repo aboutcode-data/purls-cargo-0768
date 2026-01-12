@@ -1,3 +1,5 @@
 - pkg:cargo/arborium-solidity@2.6.0
 - pkg:cargo/arborium-solidity@2.6.1
 - pkg:cargo/arborium-solidity@2.7.0
+- pkg:cargo/arborium-solidity@2.8.0
+- pkg:cargo/arborium-solidity@2.9.0
