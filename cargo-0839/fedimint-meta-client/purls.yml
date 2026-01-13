@@ -1,4 +1,5 @@
 - pkg:cargo/fedimint-meta-client@0.10.0-beta.1
+- pkg:cargo/fedimint-meta-client@0.10.0-beta.2
 - pkg:cargo/fedimint-meta-client@0.3.0
 - pkg:cargo/fedimint-meta-client@0.3.0-rc.0
 - pkg:cargo/fedimint-meta-client@0.3.0-rc.1
