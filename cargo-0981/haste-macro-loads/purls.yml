@@ -9,3 +9,4 @@
 - pkg:cargo/haste-macro-loads@0.6.1
 - pkg:cargo/haste-macro-loads@0.7.0
 - pkg:cargo/haste-macro-loads@0.7.2
+- pkg:cargo/haste-macro-loads@0.8.0
