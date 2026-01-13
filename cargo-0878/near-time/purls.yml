@@ -32,3 +32,4 @@
 - pkg:cargo/near-time@0.34.1
 - pkg:cargo/near-time@0.34.2
 - pkg:cargo/near-time@0.34.3
+- pkg:cargo/near-time@0.34.4

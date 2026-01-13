@@ -4,3 +4,4 @@
 - pkg:cargo/instrumented-object-store@49.0.0
 - pkg:cargo/instrumented-object-store@50.0.0
 - pkg:cargo/instrumented-object-store@51.0.0
+- pkg:cargo/instrumented-object-store@52.0.0
