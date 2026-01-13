@@ -14,6 +14,7 @@
 - pkg:cargo/sleipnir@0.2.1
 - pkg:cargo/sleipnir@0.2.12
 - pkg:cargo/sleipnir@0.2.13
+- pkg:cargo/sleipnir@0.2.14
 - pkg:cargo/sleipnir@0.2.2
 - pkg:cargo/sleipnir@0.2.3
 - pkg:cargo/sleipnir@0.2.4

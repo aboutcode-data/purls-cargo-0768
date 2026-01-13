@@ -6,3 +6,4 @@
 - pkg:cargo/ironrdp-futures@0.3.0
 - pkg:cargo/ironrdp-futures@0.4.0
 - pkg:cargo/ironrdp-futures@0.5.0
+- pkg:cargo/ironrdp-futures@0.6.0

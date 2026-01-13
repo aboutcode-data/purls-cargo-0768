@@ -1,3 +1,4 @@
 - pkg:cargo/sl-oblivious@1.0.0-beta
 - pkg:cargo/sl-oblivious@1.0.1-beta.1
 - pkg:cargo/sl-oblivious@1.0.1-beta.2
+- pkg:cargo/sl-oblivious@1.1.0
