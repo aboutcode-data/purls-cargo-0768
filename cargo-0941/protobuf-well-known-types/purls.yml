@@ -13,3 +13,4 @@
 - pkg:cargo/protobuf-well-known-types@4.33.1-release
 - pkg:cargo/protobuf-well-known-types@4.33.2-release
 - pkg:cargo/protobuf-well-known-types@4.33.3-release
+- pkg:cargo/protobuf-well-known-types@4.33.4-release
