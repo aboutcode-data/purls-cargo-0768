@@ -1,2 +1,3 @@
 - pkg:cargo/fedimint-client-uniffi@0.10.0-beta.1
 - pkg:cargo/fedimint-client-uniffi@0.10.0-beta.2
+- pkg:cargo/fedimint-client-uniffi@0.10.0-beta.3

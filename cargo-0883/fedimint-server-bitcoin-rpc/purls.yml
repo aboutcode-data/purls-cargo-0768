@@ -1,5 +1,6 @@
 - pkg:cargo/fedimint-server-bitcoin-rpc@0.10.0-beta.1
 - pkg:cargo/fedimint-server-bitcoin-rpc@0.10.0-beta.2
+- pkg:cargo/fedimint-server-bitcoin-rpc@0.10.0-beta.3
 - pkg:cargo/fedimint-server-bitcoin-rpc@0.8.0
 - pkg:cargo/fedimint-server-bitcoin-rpc@0.8.0-beta.0
 - pkg:cargo/fedimint-server-bitcoin-rpc@0.8.0-beta.1

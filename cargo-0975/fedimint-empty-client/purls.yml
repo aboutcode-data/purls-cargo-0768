@@ -1,4 +1,5 @@
 - pkg:cargo/fedimint-empty-client@0.10.0-beta.2
+- pkg:cargo/fedimint-empty-client@0.10.0-beta.3
 - pkg:cargo/fedimint-empty-client@0.3.0
 - pkg:cargo/fedimint-empty-client@0.3.0-rc.1
 - pkg:cargo/fedimint-empty-client@0.3.0-rc.2
