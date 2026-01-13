@@ -25,3 +25,4 @@
 - pkg:cargo/turbomcp-auth@2.3.5
 - pkg:cargo/turbomcp-auth@2.3.6
 - pkg:cargo/turbomcp-auth@3.0.0-exp
+- pkg:cargo/turbomcp-auth@3.0.0-exp.1

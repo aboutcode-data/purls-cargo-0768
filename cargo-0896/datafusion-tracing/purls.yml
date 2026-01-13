@@ -8,3 +8,4 @@
 - pkg:cargo/datafusion-tracing@50.0.1
 - pkg:cargo/datafusion-tracing@50.0.2
 - pkg:cargo/datafusion-tracing@51.0.0
+- pkg:cargo/datafusion-tracing@52.0.0

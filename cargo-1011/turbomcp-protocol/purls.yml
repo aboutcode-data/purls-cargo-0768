@@ -48,3 +48,4 @@
 - pkg:cargo/turbomcp-protocol@2.3.5
 - pkg:cargo/turbomcp-protocol@2.3.6
 - pkg:cargo/turbomcp-protocol@3.0.0-exp
+- pkg:cargo/turbomcp-protocol@3.0.0-exp.1

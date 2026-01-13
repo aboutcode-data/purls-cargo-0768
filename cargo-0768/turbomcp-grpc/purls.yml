@@ -1,1 +1,2 @@
 - pkg:cargo/turbomcp-grpc@3.0.0-exp
+- pkg:cargo/turbomcp-grpc@3.0.0-exp.1

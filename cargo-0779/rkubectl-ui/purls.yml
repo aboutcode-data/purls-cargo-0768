@@ -1,3 +1,4 @@
 - pkg:cargo/rkubectl-ui@0.0.0-alpha.0
 - pkg:cargo/rkubectl-ui@0.0.0-alpha.1
 - pkg:cargo/rkubectl-ui@0.0.0-alpha.4
+- pkg:cargo/rkubectl-ui@0.0.0-alpha.5
