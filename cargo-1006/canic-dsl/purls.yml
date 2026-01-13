@@ -1,2 +1,6 @@
 - pkg:cargo/canic-dsl@0.7.27
 - pkg:cargo/canic-dsl@0.7.28
+- pkg:cargo/canic-dsl@0.8.0
+- pkg:cargo/canic-dsl@0.8.1
+- pkg:cargo/canic-dsl@0.8.2
+- pkg:cargo/canic-dsl@0.8.3

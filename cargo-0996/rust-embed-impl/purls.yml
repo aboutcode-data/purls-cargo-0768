@@ -29,6 +29,7 @@
 - pkg:cargo/rust-embed-impl@6.8.1
 - pkg:cargo/rust-embed-impl@8.0.0
 - pkg:cargo/rust-embed-impl@8.1.0
+- pkg:cargo/rust-embed-impl@8.10.0
 - pkg:cargo/rust-embed-impl@8.2.0
 - pkg:cargo/rust-embed-impl@8.3.0
 - pkg:cargo/rust-embed-impl@8.4.0
