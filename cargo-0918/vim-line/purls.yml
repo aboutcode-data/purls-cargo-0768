@@ -16,3 +16,5 @@
 - pkg:cargo/vim-line@0.19.6
 - pkg:cargo/vim-line@0.19.7
 - pkg:cargo/vim-line@0.19.9
+- pkg:cargo/vim-line@0.20.0
+- pkg:cargo/vim-line@0.20.1
