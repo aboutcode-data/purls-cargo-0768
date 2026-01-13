@@ -22,11 +22,14 @@
 - pkg:cargo/blots-wasm@0.10.29
 - pkg:cargo/blots-wasm@0.10.3
 - pkg:cargo/blots-wasm@0.10.30
+- pkg:cargo/blots-wasm@0.10.31
+- pkg:cargo/blots-wasm@0.10.32
 - pkg:cargo/blots-wasm@0.10.4
 - pkg:cargo/blots-wasm@0.10.5
 - pkg:cargo/blots-wasm@0.10.6
 - pkg:cargo/blots-wasm@0.10.7
 - pkg:cargo/blots-wasm@0.10.8
+- pkg:cargo/blots-wasm@0.11.0
 - pkg:cargo/blots-wasm@0.4.10
 - pkg:cargo/blots-wasm@0.4.11
 - pkg:cargo/blots-wasm@0.4.13
