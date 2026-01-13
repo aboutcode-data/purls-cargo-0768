@@ -5,3 +5,5 @@
 - pkg:cargo/grid1d@0.3.0
 - pkg:cargo/grid1d@0.3.1
 - pkg:cargo/grid1d@0.3.2
+- pkg:cargo/grid1d@0.3.3
+- pkg:cargo/grid1d@0.3.4
