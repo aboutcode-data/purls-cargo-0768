@@ -27,3 +27,5 @@
 - pkg:cargo/seq-repl@0.19.6
 - pkg:cargo/seq-repl@0.19.7
 - pkg:cargo/seq-repl@0.19.9
+- pkg:cargo/seq-repl@0.20.0
+- pkg:cargo/seq-repl@0.20.1
