@@ -10,3 +10,4 @@
 - pkg:cargo/wasmer-backend-api@0.601.0-rc.3
 - pkg:cargo/wasmer-backend-api@0.601.0-rc.5
 - pkg:cargo/wasmer-backend-api@0.7.0
+- pkg:cargo/wasmer-backend-api@0.700.0-alpha.2
