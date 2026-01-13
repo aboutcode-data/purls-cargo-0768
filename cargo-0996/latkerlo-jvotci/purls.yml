@@ -12,6 +12,7 @@
 - pkg:cargo/latkerlo-jvotci@1.1.2509
 - pkg:cargo/latkerlo-jvotci@1.1.2510
 - pkg:cargo/latkerlo-jvotci@1.1.2511
+- pkg:cargo/latkerlo-jvotci@1.1.2601
 - pkg:cargo/latkerlo-jvotci@2.0.0
 - pkg:cargo/latkerlo-jvotci@2.1.0
 - pkg:cargo/latkerlo-jvotci@2.2.0
@@ -21,3 +22,4 @@
 - pkg:cargo/latkerlo-jvotci@2.4.2509
 - pkg:cargo/latkerlo-jvotci@2.4.2510
 - pkg:cargo/latkerlo-jvotci@2.4.2511
+- pkg:cargo/latkerlo-jvotci@2.4.2601
