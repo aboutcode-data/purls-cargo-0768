@@ -121,6 +121,7 @@
 - pkg:cargo/rumdl@0.0.213
 - pkg:cargo/rumdl@0.0.214
 - pkg:cargo/rumdl@0.0.215
+- pkg:cargo/rumdl@0.0.216
 - pkg:cargo/rumdl@0.0.22
 - pkg:cargo/rumdl@0.0.23
 - pkg:cargo/rumdl@0.0.24
