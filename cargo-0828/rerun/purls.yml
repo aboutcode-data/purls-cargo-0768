@@ -179,6 +179,7 @@
 - pkg:cargo/rerun@0.28.2
 - pkg:cargo/rerun@0.28.2-rc.1
 - pkg:cargo/rerun@0.28.2-rc.2
+- pkg:cargo/rerun@0.29.0-alpha.2
 - pkg:cargo/rerun@0.3.0
 - pkg:cargo/rerun@0.3.0-alpha.1
 - pkg:cargo/rerun@0.3.1
