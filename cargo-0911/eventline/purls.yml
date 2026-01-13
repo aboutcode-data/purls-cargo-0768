@@ -9,3 +9,5 @@
 - pkg:cargo/eventline@0.3.1
 - pkg:cargo/eventline@0.3.11
 - pkg:cargo/eventline@0.3.12
+- pkg:cargo/eventline@0.3.2
+- pkg:cargo/eventline@0.3.21

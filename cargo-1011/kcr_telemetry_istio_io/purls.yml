@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_telemetry_istio_io@2.20250923.65310
 - pkg:cargo/kcr_telemetry_istio_io@2.20250930.65343
 - pkg:cargo/kcr_telemetry_istio_io@2.20251125.65702
+- pkg:cargo/kcr_telemetry_istio_io@3.20260113.70046
