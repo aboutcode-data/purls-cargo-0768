@@ -24,3 +24,4 @@
 - pkg:cargo/json-eval-rs@0.0.53
 - pkg:cargo/json-eval-rs@0.0.54
 - pkg:cargo/json-eval-rs@0.0.55
+- pkg:cargo/json-eval-rs@0.0.56
