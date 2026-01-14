@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_networkfirewall_services_k8s_aws@2.20250917.125948
 - pkg:cargo/kcr_networkfirewall_services_k8s_aws@2.20250924.125939
 - pkg:cargo/kcr_networkfirewall_services_k8s_aws@2.20251001.130158
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@3.20260114.131053
