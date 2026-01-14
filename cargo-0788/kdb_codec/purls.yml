@@ -2,3 +2,4 @@
 - pkg:cargo/kdb_codec@0.2.0
 - pkg:cargo/kdb_codec@0.3.0
 - pkg:cargo/kdb_codec@1.0.0
+- pkg:cargo/kdb_codec@1.1.0
