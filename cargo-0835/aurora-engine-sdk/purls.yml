@@ -2,3 +2,5 @@
 - pkg:cargo/aurora-engine-sdk@1.1.0
 - pkg:cargo/aurora-engine-sdk@1.2.0
 - pkg:cargo/aurora-engine-sdk@1.2.1
+- pkg:cargo/aurora-engine-sdk@2.0.0
+- pkg:cargo/aurora-engine-sdk@2.0.1
