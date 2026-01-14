@@ -27,3 +27,4 @@
 - pkg:cargo/concision@0.2.8
 - pkg:cargo/concision@0.2.9
 - pkg:cargo/concision@0.3.0
+- pkg:cargo/concision@0.3.1
