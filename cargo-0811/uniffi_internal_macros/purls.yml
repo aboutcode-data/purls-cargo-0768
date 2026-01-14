@@ -6,3 +6,4 @@
 - pkg:cargo/uniffi_internal_macros@0.29.4
 - pkg:cargo/uniffi_internal_macros@0.29.5
 - pkg:cargo/uniffi_internal_macros@0.30.0
+- pkg:cargo/uniffi_internal_macros@0.31.0
