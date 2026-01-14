@@ -1,1 +1,2 @@
 - pkg:cargo/ash-core@1.0.0
+- pkg:cargo/ash-core@2.3.0
