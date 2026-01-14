@@ -26,7 +26,9 @@
 - pkg:cargo/bevy_enhanced_input@0.2.1
 - pkg:cargo/bevy_enhanced_input@0.20.0
 - pkg:cargo/bevy_enhanced_input@0.20.1
+- pkg:cargo/bevy_enhanced_input@0.21.0
 - pkg:cargo/bevy_enhanced_input@0.21.0-rc.1
+- pkg:cargo/bevy_enhanced_input@0.22.0
 - pkg:cargo/bevy_enhanced_input@0.3.0
 - pkg:cargo/bevy_enhanced_input@0.4.0
 - pkg:cargo/bevy_enhanced_input@0.5.0
