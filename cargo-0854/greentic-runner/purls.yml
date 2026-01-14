@@ -23,6 +23,8 @@
 - pkg:cargo/greentic-runner@0.4.27
 - pkg:cargo/greentic-runner@0.4.28
 - pkg:cargo/greentic-runner@0.4.29
+- pkg:cargo/greentic-runner@0.4.30
+- pkg:cargo/greentic-runner@0.4.31
 - pkg:cargo/greentic-runner@0.4.4
 - pkg:cargo/greentic-runner@0.4.5
 - pkg:cargo/greentic-runner@0.4.6
