@@ -16,6 +16,7 @@
 - pkg:cargo/postgres-protocol@0.5.3
 - pkg:cargo/postgres-protocol@0.6.0
 - pkg:cargo/postgres-protocol@0.6.1
+- pkg:cargo/postgres-protocol@0.6.10
 - pkg:cargo/postgres-protocol@0.6.2
 - pkg:cargo/postgres-protocol@0.6.3
 - pkg:cargo/postgres-protocol@0.6.4

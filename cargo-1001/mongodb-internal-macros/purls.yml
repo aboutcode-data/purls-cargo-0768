@@ -13,3 +13,4 @@
 - pkg:cargo/mongodb-internal-macros@3.3.0
 - pkg:cargo/mongodb-internal-macros@3.4.0
 - pkg:cargo/mongodb-internal-macros@3.4.1
+- pkg:cargo/mongodb-internal-macros@3.5.0
