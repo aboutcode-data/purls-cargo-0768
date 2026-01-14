@@ -16,6 +16,7 @@
 - pkg:cargo/leptos-struct-table@0.14.0-beta2
 - pkg:cargo/leptos-struct-table@0.15.0
 - pkg:cargo/leptos-struct-table@0.16.0
+- pkg:cargo/leptos-struct-table@0.17.0
 - pkg:cargo/leptos-struct-table@0.2.0
 - pkg:cargo/leptos-struct-table@0.2.1
 - pkg:cargo/leptos-struct-table@0.2.2
