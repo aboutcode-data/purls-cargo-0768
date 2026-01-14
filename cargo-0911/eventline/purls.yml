@@ -13,3 +13,7 @@
 - pkg:cargo/eventline@0.3.21
 - pkg:cargo/eventline@0.3.22
 - pkg:cargo/eventline@0.4.0
+- pkg:cargo/eventline@0.4.1
+- pkg:cargo/eventline@0.4.11
+- pkg:cargo/eventline@0.4.2
+- pkg:cargo/eventline@0.4.21
