@@ -10,3 +10,4 @@
 - pkg:cargo/risc0-zkos-v1compat@2.1.0
 - pkg:cargo/risc0-zkos-v1compat@2.2.0
 - pkg:cargo/risc0-zkos-v1compat@2.2.1
+- pkg:cargo/risc0-zkos-v1compat@5.0.0-rc.1

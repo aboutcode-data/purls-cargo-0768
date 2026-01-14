@@ -1,1 +1,2 @@
 - pkg:cargo/risc0-sppark@0.1.0
+- pkg:cargo/risc0-sppark@5.0.0
