@@ -36,6 +36,11 @@
 - pkg:cargo/llmcc-core@0.2.46
 - pkg:cargo/llmcc-core@0.2.47
 - pkg:cargo/llmcc-core@0.2.50
+- pkg:cargo/llmcc-core@0.2.61
+- pkg:cargo/llmcc-core@0.2.62
+- pkg:cargo/llmcc-core@0.2.63
+- pkg:cargo/llmcc-core@0.2.64
+- pkg:cargo/llmcc-core@0.2.65
 - pkg:cargo/llmcc-core@0.2.7
 - pkg:cargo/llmcc-core@0.2.8
 - pkg:cargo/llmcc-core@0.2.9
