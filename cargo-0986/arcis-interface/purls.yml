@@ -9,4 +9,5 @@
 - pkg:cargo/arcis-interface@0.5.2
 - pkg:cargo/arcis-interface@0.5.3
 - pkg:cargo/arcis-interface@0.5.4
+- pkg:cargo/arcis-interface@0.6.0
 - pkg:cargo/arcis-interface@0.6.0-alpha

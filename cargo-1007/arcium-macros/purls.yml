@@ -9,4 +9,5 @@
 - pkg:cargo/arcium-macros@0.5.2
 - pkg:cargo/arcium-macros@0.5.3
 - pkg:cargo/arcium-macros@0.5.4
+- pkg:cargo/arcium-macros@0.6.0
 - pkg:cargo/arcium-macros@0.6.0-alpha
