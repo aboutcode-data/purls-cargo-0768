@@ -16,3 +16,4 @@
 - pkg:cargo/kcr_helm_toolkit_fluxcd_io@2.20250917.85618
 - pkg:cargo/kcr_helm_toolkit_fluxcd_io@2.20250924.85703
 - pkg:cargo/kcr_helm_toolkit_fluxcd_io@2.20251001.85705
+- pkg:cargo/kcr_helm_toolkit_fluxcd_io@3.20260114.91456

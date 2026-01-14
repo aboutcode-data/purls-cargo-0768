@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_csi_ceph_io@2.20251001.75125
 - pkg:cargo/kcr_csi_ceph_io@2.20251008.75100
 - pkg:cargo/kcr_csi_ceph_io@2.20251015.75059
+- pkg:cargo/kcr_csi_ceph_io@3.20260114.75311

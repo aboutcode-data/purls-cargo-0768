@@ -39,3 +39,4 @@
 - pkg:cargo/luajit-src@210.6.3%2Beba91fc
 - pkg:cargo/luajit-src@210.6.4%2Be17ee83
 - pkg:cargo/luajit-src@210.6.5%2B7152e15
+- pkg:cargo/luajit-src@210.6.6%2B707c12b
