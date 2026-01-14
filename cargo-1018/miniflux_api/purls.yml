@@ -12,3 +12,4 @@
 - pkg:cargo/miniflux_api@0.7.1
 - pkg:cargo/miniflux_api@0.7.2
 - pkg:cargo/miniflux_api@0.7.3
+- pkg:cargo/miniflux_api@0.8.0
