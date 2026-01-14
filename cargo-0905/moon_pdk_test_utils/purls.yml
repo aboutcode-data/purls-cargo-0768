@@ -28,3 +28,4 @@
 - pkg:cargo/moon_pdk_test_utils@0.4.1
 - pkg:cargo/moon_pdk_test_utils@0.4.2
 - pkg:cargo/moon_pdk_test_utils@1.0.0
+- pkg:cargo/moon_pdk_test_utils@1.0.1
