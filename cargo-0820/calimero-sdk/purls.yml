@@ -12,6 +12,7 @@
 - pkg:cargo/calimero-sdk@0.10.0-rc.21
 - pkg:cargo/calimero-sdk@0.10.0-rc.22
 - pkg:cargo/calimero-sdk@0.10.0-rc.32
+- pkg:cargo/calimero-sdk@0.10.0-rc.33
 - pkg:cargo/calimero-sdk@0.10.0-rc.8
 - pkg:cargo/calimero-sdk@0.10.0-rc.9
 - pkg:cargo/calimero-sdk@0.2.1

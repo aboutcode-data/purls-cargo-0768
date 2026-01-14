@@ -6,6 +6,7 @@
 - pkg:cargo/calimero-context@0.10.0-rc.15
 - pkg:cargo/calimero-context@0.10.0-rc.16
 - pkg:cargo/calimero-context@0.10.0-rc.17
+- pkg:cargo/calimero-context@0.10.0-rc.33
 - pkg:cargo/calimero-context@0.10.0-rc.8
 - pkg:cargo/calimero-context@0.10.0-rc.9
 - pkg:cargo/calimero-context@0.2.1

@@ -24,6 +24,7 @@
 - pkg:cargo/try-rs@0.1.35
 - pkg:cargo/try-rs@0.1.36
 - pkg:cargo/try-rs@0.1.37
+- pkg:cargo/try-rs@0.1.38
 - pkg:cargo/try-rs@0.1.4
 - pkg:cargo/try-rs@0.1.5
 - pkg:cargo/try-rs@0.1.6
