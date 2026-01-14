@@ -1,3 +1,4 @@
 - pkg:cargo/subxt-utils-accountid32@0.50.0-beta.1
 - pkg:cargo/subxt-utils-accountid32@0.50.0-beta.2
+- pkg:cargo/subxt-utils-accountid32@0.50.0-beta.3
 - pkg:cargo/subxt-utils-accountid32@0.50.0-rc1
