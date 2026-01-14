@@ -15,3 +15,4 @@
 - pkg:cargo/asciinema@3.0.0-rc.3
 - pkg:cargo/asciinema@3.0.0-rc.5
 - pkg:cargo/asciinema@3.0.1
+- pkg:cargo/asciinema@3.1.0
