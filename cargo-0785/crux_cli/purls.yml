@@ -1,3 +1,4 @@
 - pkg:cargo/crux_cli@0.1.0
 - pkg:cargo/crux_cli@0.1.1
 - pkg:cargo/crux_cli@0.2.0-rc1
+- pkg:cargo/crux_cli@0.2.0-rc2
