@@ -1,1 +1,4 @@
 - pkg:cargo/url-domain-parse@0.1.0
+- pkg:cargo/url-domain-parse@0.1.1
+- pkg:cargo/url-domain-parse@0.1.2
+- pkg:cargo/url-domain-parse@0.1.3
