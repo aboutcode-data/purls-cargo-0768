@@ -8,3 +8,4 @@
 - pkg:cargo/actix-ws@0.2.4
 - pkg:cargo/actix-ws@0.2.5
 - pkg:cargo/actix-ws@0.3.0
+- pkg:cargo/actix-ws@0.3.1
