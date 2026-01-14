@@ -82,3 +82,9 @@
 - pkg:cargo/apimock@4.4.4
 - pkg:cargo/apimock@4.4.5
 - pkg:cargo/apimock@4.5.0
+- pkg:cargo/apimock@4.5.1
+- pkg:cargo/apimock@4.5.2
+- pkg:cargo/apimock@4.5.3
+- pkg:cargo/apimock@4.5.4
+- pkg:cargo/apimock@4.5.5
+- pkg:cargo/apimock@4.5.6

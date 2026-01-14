@@ -27,6 +27,7 @@
 - pkg:cargo/sublime_cli_tools@0.0.33
 - pkg:cargo/sublime_cli_tools@0.0.34
 - pkg:cargo/sublime_cli_tools@0.0.35
+- pkg:cargo/sublime_cli_tools@0.0.36
 - pkg:cargo/sublime_cli_tools@0.0.4
 - pkg:cargo/sublime_cli_tools@0.0.5
 - pkg:cargo/sublime_cli_tools@0.0.6
