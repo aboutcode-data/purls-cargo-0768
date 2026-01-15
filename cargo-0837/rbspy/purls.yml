@@ -50,6 +50,8 @@
 - pkg:cargo/rbspy@0.4.3
 - pkg:cargo/rbspy@0.40.0
 - pkg:cargo/rbspy@0.41.0
+- pkg:cargo/rbspy@0.42.0
+- pkg:cargo/rbspy@0.42.1
 - pkg:cargo/rbspy@0.5.0
 - pkg:cargo/rbspy@0.6.0
 - pkg:cargo/rbspy@0.7.0
