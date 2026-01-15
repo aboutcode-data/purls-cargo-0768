@@ -1,3 +1,4 @@
 - pkg:cargo/mappers_warp@0.0.7
 - pkg:cargo/mappers_warp@0.0.8
 - pkg:cargo/mappers_warp@0.0.9
+- pkg:cargo/mappers_warp@0.1.0-alpha.1
