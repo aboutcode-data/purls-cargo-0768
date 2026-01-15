@@ -11,3 +11,4 @@
 - pkg:cargo/haste-access-control@0.7.1
 - pkg:cargo/haste-access-control@0.7.2
 - pkg:cargo/haste-access-control@0.8.0
+- pkg:cargo/haste-access-control@0.9.0
