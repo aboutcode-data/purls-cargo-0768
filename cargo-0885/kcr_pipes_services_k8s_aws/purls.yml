@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_pipes_services_k8s_aws@2.20250918.53232
 - pkg:cargo/kcr_pipes_services_k8s_aws@2.20250925.53308
 - pkg:cargo/kcr_pipes_services_k8s_aws@2.20251002.53209
+- pkg:cargo/kcr_pipes_services_k8s_aws@3.20260115.54354
