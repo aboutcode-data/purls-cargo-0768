@@ -1,5 +1,6 @@
 - pkg:cargo/cu-iceoryx2-sink@0.10.0
 - pkg:cargo/cu-iceoryx2-sink@0.11.0
+- pkg:cargo/cu-iceoryx2-sink@0.12.0
 - pkg:cargo/cu-iceoryx2-sink@0.4.1
 - pkg:cargo/cu-iceoryx2-sink@0.5.0
 - pkg:cargo/cu-iceoryx2-sink@0.5.1

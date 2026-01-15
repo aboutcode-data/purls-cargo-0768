@@ -1,1 +1,2 @@
 - pkg:cargo/cu-embedded-registry@0.11.0
+- pkg:cargo/cu-embedded-registry@0.12.0
