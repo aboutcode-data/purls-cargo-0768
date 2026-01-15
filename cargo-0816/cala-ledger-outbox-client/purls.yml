@@ -38,6 +38,7 @@
 - pkg:cargo/cala-ledger-outbox-client@0.13.5
 - pkg:cargo/cala-ledger-outbox-client@0.13.6
 - pkg:cargo/cala-ledger-outbox-client@0.13.7
+- pkg:cargo/cala-ledger-outbox-client@0.13.8
 - pkg:cargo/cala-ledger-outbox-client@0.2.0
 - pkg:cargo/cala-ledger-outbox-client@0.2.1
 - pkg:cargo/cala-ledger-outbox-client@0.2.10
