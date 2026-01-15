@@ -66,6 +66,7 @@
 - pkg:cargo/mysql_common@0.35.5
 - pkg:cargo/mysql_common@0.36.0
 - pkg:cargo/mysql_common@0.36.1
+- pkg:cargo/mysql_common@0.36.2
 - pkg:cargo/mysql_common@0.4.0
 - pkg:cargo/mysql_common@0.5.0
 - pkg:cargo/mysql_common@0.6.0

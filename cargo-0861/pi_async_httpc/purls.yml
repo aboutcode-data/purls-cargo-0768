@@ -7,3 +7,4 @@
 - pkg:cargo/pi_async_httpc@0.5.5
 - pkg:cargo/pi_async_httpc@0.5.6
 - pkg:cargo/pi_async_httpc@0.6.0
+- pkg:cargo/pi_async_httpc@0.7.0
