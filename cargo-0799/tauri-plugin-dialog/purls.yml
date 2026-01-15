@@ -45,3 +45,4 @@
 - pkg:cargo/tauri-plugin-dialog@2.4.1
 - pkg:cargo/tauri-plugin-dialog@2.4.2
 - pkg:cargo/tauri-plugin-dialog@2.5.0
+- pkg:cargo/tauri-plugin-dialog@2.6.0
