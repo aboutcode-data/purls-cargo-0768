@@ -1,1 +1,2 @@
 - pkg:cargo/diskann-vector@0.1.0
+- pkg:cargo/diskann-vector@0.41.0

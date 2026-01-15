@@ -3,3 +3,4 @@
 - pkg:cargo/ym2149-wasm@0.7.0
 - pkg:cargo/ym2149-wasm@0.7.1
 - pkg:cargo/ym2149-wasm@0.8.0
+- pkg:cargo/ym2149-wasm@0.9.0
