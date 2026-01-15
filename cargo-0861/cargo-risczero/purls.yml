@@ -76,3 +76,4 @@
 - pkg:cargo/cargo-risczero@3.0.1
 - pkg:cargo/cargo-risczero@3.0.3
 - pkg:cargo/cargo-risczero@3.0.4
+- pkg:cargo/cargo-risczero@5.0.0-rc.1
