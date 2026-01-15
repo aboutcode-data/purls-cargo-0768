@@ -6,3 +6,4 @@
 - pkg:cargo/mdbook-typst-pdf@0.6.1
 - pkg:cargo/mdbook-typst-pdf@0.6.2
 - pkg:cargo/mdbook-typst-pdf@0.6.3
+- pkg:cargo/mdbook-typst-pdf@0.7.0

@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_dynamodb_services_k8s_aws@2.20250925.75634
 - pkg:cargo/kcr_dynamodb_services_k8s_aws@2.20251002.75650
 - pkg:cargo/kcr_dynamodb_services_k8s_aws@2.20251030.75642
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@3.20260115.75649
