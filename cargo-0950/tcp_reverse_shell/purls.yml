@@ -6,3 +6,4 @@
 - pkg:cargo/tcp_reverse_shell@1.5.4
 - pkg:cargo/tcp_reverse_shell@1.5.5
 - pkg:cargo/tcp_reverse_shell@1.6.0
+- pkg:cargo/tcp_reverse_shell@1.8.0
