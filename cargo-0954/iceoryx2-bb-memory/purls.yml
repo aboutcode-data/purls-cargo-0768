@@ -12,3 +12,4 @@
 - pkg:cargo/iceoryx2-bb-memory@0.6.1
 - pkg:cargo/iceoryx2-bb-memory@0.7.0
 - pkg:cargo/iceoryx2-bb-memory@0.8.0
+- pkg:cargo/iceoryx2-bb-memory@0.8.1
