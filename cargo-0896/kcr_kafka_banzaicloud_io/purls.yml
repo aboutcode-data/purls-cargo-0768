@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_kafka_banzaicloud_io@2.20250917.223217
 - pkg:cargo/kcr_kafka_banzaicloud_io@2.20250924.223313
 - pkg:cargo/kcr_kafka_banzaicloud_io@2.20251001.223548
+- pkg:cargo/kcr_kafka_banzaicloud_io@3.20260114.224408

@@ -9,3 +9,4 @@
 - pkg:cargo/deps-npm@0.5.0
 - pkg:cargo/deps-npm@0.5.1
 - pkg:cargo/deps-npm@0.5.2
+- pkg:cargo/deps-npm@0.5.3

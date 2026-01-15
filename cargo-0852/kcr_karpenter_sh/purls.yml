@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_karpenter_sh@2.20251001.184115
 - pkg:cargo/kcr_karpenter_sh@2.20251008.184329
 - pkg:cargo/kcr_karpenter_sh@2.20260107.185012
+- pkg:cargo/kcr_karpenter_sh@3.20260114.185103
