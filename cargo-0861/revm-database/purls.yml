@@ -4,6 +4,7 @@
 - pkg:cargo/revm-database@1.0.0-alpha.3
 - pkg:cargo/revm-database@1.0.0-alpha.4
 - pkg:cargo/revm-database@1.0.0-alpha.5
+- pkg:cargo/revm-database@10.0.0
 - pkg:cargo/revm-database@2.0.0
 - pkg:cargo/revm-database@3.0.0
 - pkg:cargo/revm-database@3.1.0

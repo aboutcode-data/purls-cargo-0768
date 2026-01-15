@@ -20,6 +20,7 @@
 - pkg:cargo/revm-handler@13.0.0
 - pkg:cargo/revm-handler@14.0.0
 - pkg:cargo/revm-handler@14.1.0
+- pkg:cargo/revm-handler@15.0.0
 - pkg:cargo/revm-handler@2.0.0
 - pkg:cargo/revm-handler@3.0.0
 - pkg:cargo/revm-handler@3.0.1

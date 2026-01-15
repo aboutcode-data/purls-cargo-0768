@@ -26,3 +26,4 @@
 - pkg:cargo/sequencer_client@0.4.0
 - pkg:cargo/sequencer_client@0.4.1
 - pkg:cargo/sequencer_client@0.4.2
+- pkg:cargo/sequencer_client@0.5.0

@@ -22,3 +22,4 @@
 - pkg:cargo/revm-state@8.0.2
 - pkg:cargo/revm-state@8.1.0
 - pkg:cargo/revm-state@8.1.1
+- pkg:cargo/revm-state@9.0.0
