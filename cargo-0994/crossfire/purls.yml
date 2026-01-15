@@ -50,3 +50,4 @@
 - pkg:cargo/crossfire@2.1.8
 - pkg:cargo/crossfire@2.1.9
 - pkg:cargo/crossfire@3.0.0-beta.1
+- pkg:cargo/crossfire@3.0.0-beta.2

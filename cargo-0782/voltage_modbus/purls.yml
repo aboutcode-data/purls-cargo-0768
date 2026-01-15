@@ -10,3 +10,4 @@
 - pkg:cargo/voltage_modbus@0.4.5
 - pkg:cargo/voltage_modbus@0.4.6
 - pkg:cargo/voltage_modbus@0.4.7
+- pkg:cargo/voltage_modbus@0.4.8
