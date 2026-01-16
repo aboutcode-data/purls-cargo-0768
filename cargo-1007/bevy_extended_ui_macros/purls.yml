@@ -5,3 +5,4 @@
 - pkg:cargo/bevy_extended_ui_macros@1.0.1-beta.1
 - pkg:cargo/bevy_extended_ui_macros@1.0.1-beta.2
 - pkg:cargo/bevy_extended_ui_macros@1.0.1-beta.3
+- pkg:cargo/bevy_extended_ui_macros@1.1.0-beta.1

@@ -1,4 +1,5 @@
 - pkg:cargo/mollusk-svm-result@0.10.0
+- pkg:cargo/mollusk-svm-result@0.10.1
 - pkg:cargo/mollusk-svm-result@0.2.0
 - pkg:cargo/mollusk-svm-result@0.2.1
 - pkg:cargo/mollusk-svm-result@0.3.0
