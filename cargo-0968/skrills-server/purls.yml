@@ -1,4 +1,5 @@
 - pkg:cargo/skrills-server@0.4.10
+- pkg:cargo/skrills-server@0.4.11
 - pkg:cargo/skrills-server@0.4.2
 - pkg:cargo/skrills-server@0.4.4
 - pkg:cargo/skrills-server@0.4.5
