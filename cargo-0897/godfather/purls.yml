@@ -33,6 +33,7 @@
 - pkg:cargo/godfather@0.5.39
 - pkg:cargo/godfather@0.5.4
 - pkg:cargo/godfather@0.5.40
+- pkg:cargo/godfather@0.5.41
 - pkg:cargo/godfather@0.5.5
 - pkg:cargo/godfather@0.5.6
 - pkg:cargo/godfather@0.5.7
