@@ -24,6 +24,7 @@
 - pkg:cargo/qft@0.7.32
 - pkg:cargo/qft@0.7.33
 - pkg:cargo/qft@0.7.34
+- pkg:cargo/qft@0.7.35
 - pkg:cargo/qft@0.7.4
 - pkg:cargo/qft@0.7.5
 - pkg:cargo/qft@0.7.6
