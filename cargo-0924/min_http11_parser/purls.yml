@@ -18,3 +18,4 @@
 - pkg:cargo/min_http11_parser@0.2.8
 - pkg:cargo/min_http11_parser@0.2.9
 - pkg:cargo/min_http11_parser@0.3.0
+- pkg:cargo/min_http11_parser@0.3.1

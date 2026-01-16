@@ -13,3 +13,4 @@
 - pkg:cargo/chia-sdk-bindings@0.30.0
 - pkg:cargo/chia-sdk-bindings@0.31.0
 - pkg:cargo/chia-sdk-bindings@0.32.0
+- pkg:cargo/chia-sdk-bindings@0.33.0
