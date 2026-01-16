@@ -68,6 +68,7 @@
 - pkg:cargo/qcs-api-client-common@0.13.1-dev.4
 - pkg:cargo/qcs-api-client-common@0.13.1-dev.5
 - pkg:cargo/qcs-api-client-common@0.13.1-dev.6
+- pkg:cargo/qcs-api-client-common@0.14.0
 - pkg:cargo/qcs-api-client-common@0.14.0-dev-180-8a2f4ec0.0
 - pkg:cargo/qcs-api-client-common@0.14.0-dev-180-92c37a12.0
 - pkg:cargo/qcs-api-client-common@0.14.0-dev-180.0
