@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_awx_ansible_com@1.20250905.174505
 - pkg:cargo/kcr_awx_ansible_com@2.20250912.174447
 - pkg:cargo/kcr_awx_ansible_com@2.20250926.174442
+- pkg:cargo/kcr_awx_ansible_com@3.20260116.175155
