@@ -99,6 +99,7 @@
 - pkg:cargo/v-common@0.17.4
 - pkg:cargo/v-common@0.17.5
 - pkg:cargo/v-common@0.17.6
+- pkg:cargo/v-common@0.18.0
 - pkg:cargo/v-common@0.18.0-az-heed
 - pkg:cargo/v-common@0.18.1-az-storage-heed
 - pkg:cargo/v-common@0.2.1
