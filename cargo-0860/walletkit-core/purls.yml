@@ -19,3 +19,4 @@
 - pkg:cargo/walletkit-core@0.1.7
 - pkg:cargo/walletkit-core@0.1.8
 - pkg:cargo/walletkit-core@0.2.0
+- pkg:cargo/walletkit-core@0.2.1
