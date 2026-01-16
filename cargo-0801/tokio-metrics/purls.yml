@@ -12,3 +12,4 @@
 - pkg:cargo/tokio-metrics@0.4.4
 - pkg:cargo/tokio-metrics@0.4.5
 - pkg:cargo/tokio-metrics@0.4.6
+- pkg:cargo/tokio-metrics@0.4.7
