@@ -94,3 +94,4 @@
 - pkg:cargo/mycelium-adapters-shared-lib@8.2.2-beta.1
 - pkg:cargo/mycelium-adapters-shared-lib@8.2.2-beta.2
 - pkg:cargo/mycelium-adapters-shared-lib@8.3.0%2Bbeta
+- pkg:cargo/mycelium-adapters-shared-lib@8.3.1-beta.1
