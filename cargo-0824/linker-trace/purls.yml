@@ -2,3 +2,4 @@
 - pkg:cargo/linker-trace@0.5.0
 - pkg:cargo/linker-trace@0.6.0
 - pkg:cargo/linker-trace@0.7.0
+- pkg:cargo/linker-trace@0.8.0
