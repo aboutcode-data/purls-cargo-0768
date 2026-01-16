@@ -38,6 +38,7 @@
 - pkg:cargo/aws-runtime@1.5.14
 - pkg:cargo/aws-runtime@1.5.16
 - pkg:cargo/aws-runtime@1.5.17
+- pkg:cargo/aws-runtime@1.5.18
 - pkg:cargo/aws-runtime@1.5.2
 - pkg:cargo/aws-runtime@1.5.3
 - pkg:cargo/aws-runtime@1.5.4

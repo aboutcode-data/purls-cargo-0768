@@ -140,3 +140,4 @@
 - pkg:cargo/aws-sdk-kinesisvideo@1.91.0
 - pkg:cargo/aws-sdk-kinesisvideo@1.92.0
 - pkg:cargo/aws-sdk-kinesisvideo@1.93.0
+- pkg:cargo/aws-sdk-kinesisvideo@1.94.0

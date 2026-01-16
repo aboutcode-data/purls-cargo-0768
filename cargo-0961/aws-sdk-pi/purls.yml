@@ -142,3 +142,4 @@
 - pkg:cargo/aws-sdk-pi@1.91.0
 - pkg:cargo/aws-sdk-pi@1.92.0
 - pkg:cargo/aws-sdk-pi@1.93.0
+- pkg:cargo/aws-sdk-pi@1.94.0

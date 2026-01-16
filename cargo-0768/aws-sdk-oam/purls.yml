@@ -112,3 +112,4 @@
 - pkg:cargo/aws-sdk-oam@1.92.0
 - pkg:cargo/aws-sdk-oam@1.93.0
 - pkg:cargo/aws-sdk-oam@1.94.0
+- pkg:cargo/aws-sdk-oam@1.95.0

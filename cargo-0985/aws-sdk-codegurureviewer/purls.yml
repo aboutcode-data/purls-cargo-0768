@@ -137,3 +137,4 @@
 - pkg:cargo/aws-sdk-codegurureviewer@1.9.0
 - pkg:cargo/aws-sdk-codegurureviewer@1.90.0
 - pkg:cargo/aws-sdk-codegurureviewer@1.91.0
+- pkg:cargo/aws-sdk-codegurureviewer@1.92.0

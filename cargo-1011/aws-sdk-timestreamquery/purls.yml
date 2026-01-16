@@ -108,3 +108,4 @@
 - pkg:cargo/aws-sdk-timestreamquery@1.93.0
 - pkg:cargo/aws-sdk-timestreamquery@1.94.0
 - pkg:cargo/aws-sdk-timestreamquery@1.95.0
+- pkg:cargo/aws-sdk-timestreamquery@1.96.0

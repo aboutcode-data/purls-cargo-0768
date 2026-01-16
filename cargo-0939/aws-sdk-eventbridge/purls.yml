@@ -144,3 +144,4 @@
 - pkg:cargo/aws-sdk-eventbridge@1.96.0
 - pkg:cargo/aws-sdk-eventbridge@1.97.0
 - pkg:cargo/aws-sdk-eventbridge@1.98.0
+- pkg:cargo/aws-sdk-eventbridge@1.99.0
