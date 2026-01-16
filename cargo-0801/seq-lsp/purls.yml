@@ -68,3 +68,5 @@
 - pkg:cargo/seq-lsp@0.9.0
 - pkg:cargo/seq-lsp@0.9.1
 - pkg:cargo/seq-lsp@1.0.0
+- pkg:cargo/seq-lsp@1.0.1
+- pkg:cargo/seq-lsp@1.0.2
