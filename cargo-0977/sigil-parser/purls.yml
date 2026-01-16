@@ -2,3 +2,4 @@
 - pkg:cargo/sigil-parser@0.2.0
 - pkg:cargo/sigil-parser@0.2.1
 - pkg:cargo/sigil-parser@1.0.0
+- pkg:cargo/sigil-parser@1.0.1
