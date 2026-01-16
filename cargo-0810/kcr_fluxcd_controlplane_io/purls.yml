@@ -20,3 +20,4 @@
 - pkg:cargo/kcr_fluxcd_controlplane_io@2.20251024.71537
 - pkg:cargo/kcr_fluxcd_controlplane_io@2.20251212.72006
 - pkg:cargo/kcr_fluxcd_controlplane_io@2.20251219.71859
+- pkg:cargo/kcr_fluxcd_controlplane_io@3.20260116.72129
