@@ -36,6 +36,7 @@
 - pkg:cargo/tatuin@0.24.1
 - pkg:cargo/tatuin@0.25.0
 - pkg:cargo/tatuin@0.25.1
+- pkg:cargo/tatuin@0.26.0
 - pkg:cargo/tatuin@0.3.0
 - pkg:cargo/tatuin@0.4.0
 - pkg:cargo/tatuin@0.5.0
