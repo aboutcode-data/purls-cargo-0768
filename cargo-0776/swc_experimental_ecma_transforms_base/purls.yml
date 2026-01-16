@@ -5,3 +5,4 @@
 - pkg:cargo/swc_experimental_ecma_transforms_base@0.3.4
 - pkg:cargo/swc_experimental_ecma_transforms_base@0.3.5
 - pkg:cargo/swc_experimental_ecma_transforms_base@0.4.0
+- pkg:cargo/swc_experimental_ecma_transforms_base@0.4.1
