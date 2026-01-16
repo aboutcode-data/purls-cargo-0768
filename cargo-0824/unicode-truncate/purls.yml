@@ -4,3 +4,4 @@
 - pkg:cargo/unicode-truncate@1.0.0
 - pkg:cargo/unicode-truncate@1.1.0
 - pkg:cargo/unicode-truncate@2.0.0
+- pkg:cargo/unicode-truncate@2.0.1
