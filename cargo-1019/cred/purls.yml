@@ -2,6 +2,8 @@
 - pkg:cargo/cred@0.1.4
 - pkg:cargo/cred@0.12.3
 - pkg:cargo/cred@0.12.4
+- pkg:cargo/cred@0.13.0
+- pkg:cargo/cred@0.14.1
 - pkg:cargo/cred@0.2.0
 - pkg:cargo/cred@0.2.1
 - pkg:cargo/cred@0.3.0
