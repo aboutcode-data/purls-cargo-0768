@@ -8,3 +8,4 @@
 - pkg:cargo/iter-comprehensions@0.5.1
 - pkg:cargo/iter-comprehensions@0.5.2
 - pkg:cargo/iter-comprehensions@1.0.0
+- pkg:cargo/iter-comprehensions@2.0.0
