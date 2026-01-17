@@ -1,1 +1,3 @@
 - pkg:cargo/rscm@0.2.3
+- pkg:cargo/rscm@0.4.0
+- pkg:cargo/rscm@0.4.1
