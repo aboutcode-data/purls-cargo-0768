@@ -12,6 +12,7 @@
 - pkg:cargo/soar-core@0.1.9
 - pkg:cargo/soar-core@0.10.0
 - pkg:cargo/soar-core@0.11.0
+- pkg:cargo/soar-core@0.11.1
 - pkg:cargo/soar-core@0.2.0
 - pkg:cargo/soar-core@0.3.0
 - pkg:cargo/soar-core@0.3.1
