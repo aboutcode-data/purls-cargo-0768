@@ -8,3 +8,5 @@
 - pkg:cargo/bevy_ios_alerts@0.4.1
 - pkg:cargo/bevy_ios_alerts@0.5.0
 - pkg:cargo/bevy_ios_alerts@0.6.0
+- pkg:cargo/bevy_ios_alerts@0.7.0
+- pkg:cargo/bevy_ios_alerts@0.7.1
