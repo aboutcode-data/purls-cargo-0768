@@ -1,3 +1,5 @@
 - pkg:cargo/derive-wizard@0.1.0
 - pkg:cargo/derive-wizard@0.4.0
 - pkg:cargo/derive-wizard@0.5.0
+- pkg:cargo/derive-wizard@0.5.0-use-the-elicitor-crate-instead
+- pkg:cargo/derive-wizard@0.5.1-use-the-elicitor-crate-instead

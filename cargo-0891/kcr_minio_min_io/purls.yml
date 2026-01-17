@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_minio_min_io@1.20250823.83150
 - pkg:cargo/kcr_minio_min_io@2.20250913.82948
 - pkg:cargo/kcr_minio_min_io@2.20250927.83007
+- pkg:cargo/kcr_minio_min_io@3.20260117.83653
