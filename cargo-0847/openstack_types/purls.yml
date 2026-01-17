@@ -10,3 +10,4 @@
 - pkg:cargo/openstack_types@0.22.2
 - pkg:cargo/openstack_types@0.22.3
 - pkg:cargo/openstack_types@0.22.4
+- pkg:cargo/openstack_types@0.22.5
