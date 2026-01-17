@@ -22,6 +22,8 @@
 - pkg:cargo/libdrm_amdgpu_sys@0.7.7
 - pkg:cargo/libdrm_amdgpu_sys@0.8.0
 - pkg:cargo/libdrm_amdgpu_sys@0.8.1
+- pkg:cargo/libdrm_amdgpu_sys@0.8.10
+- pkg:cargo/libdrm_amdgpu_sys@0.8.11
 - pkg:cargo/libdrm_amdgpu_sys@0.8.2
 - pkg:cargo/libdrm_amdgpu_sys@0.8.3
 - pkg:cargo/libdrm_amdgpu_sys@0.8.4
