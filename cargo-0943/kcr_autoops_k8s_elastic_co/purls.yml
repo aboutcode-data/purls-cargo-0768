@@ -1,1 +1,2 @@
 - pkg:cargo/kcr_autoops_k8s_elastic_co@2.20260102.220944
+- pkg:cargo/kcr_autoops_k8s_elastic_co@3.20260116.221004
