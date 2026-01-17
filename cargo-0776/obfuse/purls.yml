@@ -3,3 +3,4 @@
 - pkg:cargo/obfuse@0.1.6
 - pkg:cargo/obfuse@0.1.7
 - pkg:cargo/obfuse@1.0.0
+- pkg:cargo/obfuse@1.0.1

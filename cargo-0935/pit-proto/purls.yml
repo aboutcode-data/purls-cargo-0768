@@ -1,2 +1,4 @@
 - pkg:cargo/pit-proto@0.1.0
 - pkg:cargo/pit-proto@0.2.0
+- pkg:cargo/pit-proto@0.2.2
+- pkg:cargo/pit-proto@0.2.3
