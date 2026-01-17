@@ -123,6 +123,7 @@
 - pkg:cargo/intuicio-plugins@0.48.7
 - pkg:cargo/intuicio-plugins@0.48.8
 - pkg:cargo/intuicio-plugins@0.49.0
+- pkg:cargo/intuicio-plugins@0.49.1
 - pkg:cargo/intuicio-plugins@0.6.0
 - pkg:cargo/intuicio-plugins@0.6.1
 - pkg:cargo/intuicio-plugins@0.7.0
