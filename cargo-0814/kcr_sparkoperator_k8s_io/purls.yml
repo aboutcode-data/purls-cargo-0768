@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_sparkoperator_k8s_io@2.20250913.152749
 - pkg:cargo/kcr_sparkoperator_k8s_io@2.20250927.152841
 - pkg:cargo/kcr_sparkoperator_k8s_io@2.20251011.152819
+- pkg:cargo/kcr_sparkoperator_k8s_io@3.20260117.153343
