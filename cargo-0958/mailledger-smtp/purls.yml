@@ -1,1 +1,2 @@
 - pkg:cargo/mailledger-smtp@0.0.1
+- pkg:cargo/mailledger-smtp@0.0.2

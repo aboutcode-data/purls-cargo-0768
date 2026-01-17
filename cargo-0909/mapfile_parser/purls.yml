@@ -1,6 +1,7 @@
 - pkg:cargo/mapfile_parser@2.10.0
 - pkg:cargo/mapfile_parser@2.11.0
 - pkg:cargo/mapfile_parser@2.12.0
+- pkg:cargo/mapfile_parser@2.12.1
 - pkg:cargo/mapfile_parser@2.2.1
 - pkg:cargo/mapfile_parser@2.3.0
 - pkg:cargo/mapfile_parser@2.3.1
