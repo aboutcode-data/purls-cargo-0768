@@ -1,2 +1,4 @@
 - pkg:cargo/purger-core@0.1.0
 - pkg:cargo/purger-core@0.3.0
+- pkg:cargo/purger-core@0.4.0
+- pkg:cargo/purger-core@0.4.1
