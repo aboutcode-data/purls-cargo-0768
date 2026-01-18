@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_ptp_openshift_io@2.20250914.143806
 - pkg:cargo/kcr_ptp_openshift_io@2.20250921.143915
 - pkg:cargo/kcr_ptp_openshift_io@2.20250928.143816
+- pkg:cargo/kcr_ptp_openshift_io@3.20260118.144329
