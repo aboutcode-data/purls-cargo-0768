@@ -141,6 +141,7 @@
 - pkg:cargo/intuicio-backend-vm@0.5.1
 - pkg:cargo/intuicio-backend-vm@0.5.2
 - pkg:cargo/intuicio-backend-vm@0.50.0
+- pkg:cargo/intuicio-backend-vm@0.51.0
 - pkg:cargo/intuicio-backend-vm@0.6.0
 - pkg:cargo/intuicio-backend-vm@0.6.1
 - pkg:cargo/intuicio-backend-vm@0.7.0

@@ -139,6 +139,7 @@
 - pkg:cargo/intuicio-frontend-assembler@0.5.1
 - pkg:cargo/intuicio-frontend-assembler@0.5.2
 - pkg:cargo/intuicio-frontend-assembler@0.50.0
+- pkg:cargo/intuicio-frontend-assembler@0.51.0
 - pkg:cargo/intuicio-frontend-assembler@0.6.0
 - pkg:cargo/intuicio-frontend-assembler@0.6.1
 - pkg:cargo/intuicio-frontend-assembler@0.7.0
