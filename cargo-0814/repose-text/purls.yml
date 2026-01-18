@@ -1,4 +1,5 @@
 - pkg:cargo/repose-text@0.10.0
+- pkg:cargo/repose-text@0.11.0
 - pkg:cargo/repose-text@0.3.0
 - pkg:cargo/repose-text@0.3.5
 - pkg:cargo/repose-text@0.4.0
