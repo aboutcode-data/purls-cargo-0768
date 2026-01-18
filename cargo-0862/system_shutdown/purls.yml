@@ -7,3 +7,4 @@
 - pkg:cargo/system_shutdown@3.0.0
 - pkg:cargo/system_shutdown@4.0.0
 - pkg:cargo/system_shutdown@4.0.1
+- pkg:cargo/system_shutdown@4.1.0

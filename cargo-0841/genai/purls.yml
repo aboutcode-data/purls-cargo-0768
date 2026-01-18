@@ -84,3 +84,4 @@
 - pkg:cargo/genai@0.5.0-alpha.7
 - pkg:cargo/genai@0.5.0-alpha.8
 - pkg:cargo/genai@0.5.0-alpha.9
+- pkg:cargo/genai@0.5.1
