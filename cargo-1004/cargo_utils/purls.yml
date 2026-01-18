@@ -72,5 +72,6 @@
 - pkg:cargo/cargo_utils@0.1.73
 - pkg:cargo/cargo_utils@0.1.74
 - pkg:cargo/cargo_utils@0.1.75
+- pkg:cargo/cargo_utils@0.1.76
 - pkg:cargo/cargo_utils@0.1.8
 - pkg:cargo/cargo_utils@0.1.9
