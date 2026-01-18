@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_documentdb_services_k8s_aws@1.20250824.75405
 - pkg:cargo/kcr_documentdb_services_k8s_aws@2.20250914.75353
 - pkg:cargo/kcr_documentdb_services_k8s_aws@2.20250928.75402
+- pkg:cargo/kcr_documentdb_services_k8s_aws@3.20260118.75347

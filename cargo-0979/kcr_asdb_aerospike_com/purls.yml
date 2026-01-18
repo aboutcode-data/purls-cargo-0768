@@ -16,3 +16,4 @@
 - pkg:cargo/kcr_asdb_aerospike_com@2.20251123.100849
 - pkg:cargo/kcr_asdb_aerospike_com@2.20251221.100921
 - pkg:cargo/kcr_asdb_aerospike_com@2.20260111.101006
+- pkg:cargo/kcr_asdb_aerospike_com@3.20260118.101016
