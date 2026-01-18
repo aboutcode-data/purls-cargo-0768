@@ -140,6 +140,7 @@
 - pkg:cargo/intuicio-derive@0.5.0
 - pkg:cargo/intuicio-derive@0.5.1
 - pkg:cargo/intuicio-derive@0.5.2
+- pkg:cargo/intuicio-derive@0.50.0
 - pkg:cargo/intuicio-derive@0.6.0
 - pkg:cargo/intuicio-derive@0.6.1
 - pkg:cargo/intuicio-derive@0.7.0
