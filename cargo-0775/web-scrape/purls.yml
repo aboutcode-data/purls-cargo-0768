@@ -7,3 +7,4 @@
 - pkg:cargo/web-scrape@0.5.0-rc.2
 - pkg:cargo/web-scrape@0.6.0
 - pkg:cargo/web-scrape@0.7.0-rc.1
+- pkg:cargo/web-scrape@0.8.0-rc.1
