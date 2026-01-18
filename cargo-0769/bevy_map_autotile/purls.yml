@@ -2,3 +2,4 @@
 - pkg:cargo/bevy_map_autotile@0.1.5
 - pkg:cargo/bevy_map_autotile@0.1.6
 - pkg:cargo/bevy_map_autotile@0.2.0
+- pkg:cargo/bevy_map_autotile@0.3.0
