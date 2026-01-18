@@ -35,6 +35,7 @@
 - pkg:cargo/sendgrid@0.24.0
 - pkg:cargo/sendgrid@0.24.1
 - pkg:cargo/sendgrid@0.25.0
+- pkg:cargo/sendgrid@0.26.0
 - pkg:cargo/sendgrid@0.3.0
 - pkg:cargo/sendgrid@0.4.0
 - pkg:cargo/sendgrid@0.4.1
