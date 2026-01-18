@@ -66,6 +66,7 @@
 - pkg:cargo/skim@0.9.4
 - pkg:cargo/skim@1.0.0-pre1
 - pkg:cargo/skim@1.0.0-pre10
+- pkg:cargo/skim@1.0.0-pre11
 - pkg:cargo/skim@1.0.0-pre2
 - pkg:cargo/skim@1.0.0-pre3
 - pkg:cargo/skim@1.0.0-pre4
