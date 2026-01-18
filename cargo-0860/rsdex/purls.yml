@@ -1,3 +1,5 @@
 - pkg:cargo/rsdex@0.1.0
 - pkg:cargo/rsdex@0.1.100
 - pkg:cargo/rsdex@0.1.2
+- pkg:cargo/rsdex@0.1.25
+- pkg:cargo/rsdex@0.1.250

@@ -3,6 +3,7 @@
 - pkg:cargo/freenet@0.1.0
 - pkg:cargo/freenet@0.1.0-rc2
 - pkg:cargo/freenet@0.1.1
+- pkg:cargo/freenet@0.1.100
 - pkg:cargo/freenet@0.1.12
 - pkg:cargo/freenet@0.1.13
 - pkg:cargo/freenet@0.1.14
