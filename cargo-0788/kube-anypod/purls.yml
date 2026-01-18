@@ -1,1 +1,2 @@
 - pkg:cargo/kube-anypod@0.2.0
+- pkg:cargo/kube-anypod@0.3.0
