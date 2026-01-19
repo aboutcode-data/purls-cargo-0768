@@ -1,1 +1,2 @@
 - pkg:cargo/bq-schema-gen@0.1.0
+- pkg:cargo/bq-schema-gen@0.1.1

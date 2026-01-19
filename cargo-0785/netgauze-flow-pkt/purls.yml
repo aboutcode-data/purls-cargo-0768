@@ -10,3 +10,4 @@
 - pkg:cargo/netgauze-flow-pkt@0.6.2
 - pkg:cargo/netgauze-flow-pkt@0.7.0
 - pkg:cargo/netgauze-flow-pkt@0.8.0
+- pkg:cargo/netgauze-flow-pkt@0.9.0
