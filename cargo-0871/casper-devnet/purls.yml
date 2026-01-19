@@ -1,3 +1,4 @@
 - pkg:cargo/casper-devnet@0.1.0
 - pkg:cargo/casper-devnet@0.2.2
 - pkg:cargo/casper-devnet@0.3.4
+- pkg:cargo/casper-devnet@0.4.0
