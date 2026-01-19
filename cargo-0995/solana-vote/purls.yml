@@ -146,3 +146,4 @@
 - pkg:cargo/solana-vote@3.1.4
 - pkg:cargo/solana-vote@3.1.5
 - pkg:cargo/solana-vote@3.1.6
+- pkg:cargo/solana-vote@3.1.7
