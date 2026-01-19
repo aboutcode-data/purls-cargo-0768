@@ -1,3 +1,4 @@
 - pkg:cargo/gitcmd@0.1.0
 - pkg:cargo/gitcmd@1.0.0
 - pkg:cargo/gitcmd@1.1.0
+- pkg:cargo/gitcmd@1.2.0

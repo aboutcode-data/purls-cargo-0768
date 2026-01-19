@@ -49,3 +49,4 @@
 - pkg:cargo/simple-fs@0.9.1
 - pkg:cargo/simple-fs@0.9.2
 - pkg:cargo/simple-fs@0.9.3
+- pkg:cargo/simple-fs@0.9.4
