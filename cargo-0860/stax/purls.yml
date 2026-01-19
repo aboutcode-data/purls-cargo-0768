@@ -1,4 +1,5 @@
 - pkg:cargo/stax@0.1.0
+- pkg:cargo/stax@0.10.0
 - pkg:cargo/stax@0.2.1
 - pkg:cargo/stax@0.3.0
 - pkg:cargo/stax@0.4.0
