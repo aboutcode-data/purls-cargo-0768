@@ -59,3 +59,4 @@
 - pkg:cargo/tracel-xtask-macros@4.7.0
 - pkg:cargo/tracel-xtask-macros@4.8.0
 - pkg:cargo/tracel-xtask-macros@4.9.0
+- pkg:cargo/tracel-xtask-macros@4.9.1
