@@ -7,6 +7,7 @@
 - pkg:cargo/oxc_isolated_declarations@0.106.0
 - pkg:cargo/oxc_isolated_declarations@0.107.0
 - pkg:cargo/oxc_isolated_declarations@0.108.0
+- pkg:cargo/oxc_isolated_declarations@0.109.0
 - pkg:cargo/oxc_isolated_declarations@0.16.0
 - pkg:cargo/oxc_isolated_declarations@0.16.1
 - pkg:cargo/oxc_isolated_declarations@0.16.2

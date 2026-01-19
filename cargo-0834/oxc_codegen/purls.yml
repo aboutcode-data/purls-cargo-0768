@@ -8,6 +8,7 @@
 - pkg:cargo/oxc_codegen@0.106.0
 - pkg:cargo/oxc_codegen@0.107.0
 - pkg:cargo/oxc_codegen@0.108.0
+- pkg:cargo/oxc_codegen@0.109.0
 - pkg:cargo/oxc_codegen@0.11.0
 - pkg:cargo/oxc_codegen@0.11.1
 - pkg:cargo/oxc_codegen@0.12.1
