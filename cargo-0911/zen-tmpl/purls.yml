@@ -58,3 +58,4 @@
 - pkg:cargo/zen-tmpl@0.52.0
 - pkg:cargo/zen-tmpl@0.52.1
 - pkg:cargo/zen-tmpl@0.52.2
+- pkg:cargo/zen-tmpl@0.53.0
