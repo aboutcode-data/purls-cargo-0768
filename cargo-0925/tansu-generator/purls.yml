@@ -13,3 +13,5 @@
 - pkg:cargo/tansu-generator@0.6.0-pre.3
 - pkg:cargo/tansu-generator@0.6.0-pre.4
 - pkg:cargo/tansu-generator@0.6.0-pre.6
+- pkg:cargo/tansu-generator@0.6.0-pre.8
+- pkg:cargo/tansu-generator@0.6.0-pre.9
