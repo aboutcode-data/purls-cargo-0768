@@ -1,1 +1,2 @@
 - pkg:cargo/ringkernel-montecarlo@0.2.0
+- pkg:cargo/ringkernel-montecarlo@0.3.0

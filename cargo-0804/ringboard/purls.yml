@@ -7,6 +7,7 @@
 - pkg:cargo/ringboard@0.13.0
 - pkg:cargo/ringboard@0.13.1
 - pkg:cargo/ringboard@0.13.2
+- pkg:cargo/ringboard@0.14.0
 - pkg:cargo/ringboard@0.5.4
 - pkg:cargo/ringboard@0.6.0
 - pkg:cargo/ringboard@0.6.1
