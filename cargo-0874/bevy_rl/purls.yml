@@ -16,6 +16,7 @@
 - pkg:cargo/bevy_rl@0.15.1
 - pkg:cargo/bevy_rl@0.16.0
 - pkg:cargo/bevy_rl@0.17.0
+- pkg:cargo/bevy_rl@0.18.0-rc1
 - pkg:cargo/bevy_rl@0.8.0
 - pkg:cargo/bevy_rl@0.8.1
 - pkg:cargo/bevy_rl@0.8.1-bevy081

@@ -12,3 +12,4 @@
 - pkg:cargo/bevy_novel@0.16.1
 - pkg:cargo/bevy_novel@0.17.0-rc1
 - pkg:cargo/bevy_novel@0.17.1
+- pkg:cargo/bevy_novel@0.18.0
