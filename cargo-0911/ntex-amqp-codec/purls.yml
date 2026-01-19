@@ -35,3 +35,4 @@
 - pkg:cargo/ntex-amqp-codec@0.9.8
 - pkg:cargo/ntex-amqp-codec@1.0.0
 - pkg:cargo/ntex-amqp-codec@2.0.0
+- pkg:cargo/ntex-amqp-codec@2.1.0

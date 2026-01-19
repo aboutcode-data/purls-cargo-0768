@@ -10,3 +10,4 @@
 - pkg:cargo/strict-path@0.1.0-beta.3
 - pkg:cargo/strict-path@0.1.0-rc.1
 - pkg:cargo/strict-path@0.1.0-rc.2
+- pkg:cargo/strict-path@0.1.1
