@@ -48,6 +48,7 @@
 - pkg:cargo/foundry-compilers-core@0.19.10
 - pkg:cargo/foundry-compilers-core@0.19.11
 - pkg:cargo/foundry-compilers-core@0.19.12
+- pkg:cargo/foundry-compilers-core@0.19.13
 - pkg:cargo/foundry-compilers-core@0.19.2
 - pkg:cargo/foundry-compilers-core@0.19.3
 - pkg:cargo/foundry-compilers-core@0.19.4
