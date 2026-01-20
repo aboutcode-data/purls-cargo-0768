@@ -2,3 +2,5 @@
 - pkg:cargo/clock-curve-math@0.6.0
 - pkg:cargo/clock-curve-math@1.0.1
 - pkg:cargo/clock-curve-math@1.1.0
+- pkg:cargo/clock-curve-math@1.1.1
+- pkg:cargo/clock-curve-math@1.1.2
