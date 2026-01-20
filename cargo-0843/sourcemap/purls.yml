@@ -67,3 +67,4 @@
 - pkg:cargo/sourcemap@9.2.2
 - pkg:cargo/sourcemap@9.3.0
 - pkg:cargo/sourcemap@9.3.1
+- pkg:cargo/sourcemap@9.3.2
