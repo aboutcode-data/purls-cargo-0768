@@ -43,3 +43,4 @@
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.73
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.74
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.75
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.77
