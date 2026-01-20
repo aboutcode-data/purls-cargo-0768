@@ -29,3 +29,4 @@
 - pkg:cargo/posemesh-compute-node@0.2.6
 - pkg:cargo/posemesh-compute-node@0.2.7
 - pkg:cargo/posemesh-compute-node@0.2.8
+- pkg:cargo/posemesh-compute-node@0.3.0

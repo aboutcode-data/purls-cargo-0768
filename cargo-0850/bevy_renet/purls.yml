@@ -14,3 +14,4 @@
 - pkg:cargo/bevy_renet@2.0.0
 - pkg:cargo/bevy_renet@2.0.1
 - pkg:cargo/bevy_renet@3.0.0
+- pkg:cargo/bevy_renet@4.0.0
