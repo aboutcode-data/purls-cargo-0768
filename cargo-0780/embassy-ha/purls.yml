@@ -1,3 +1,4 @@
 - pkg:cargo/embassy-ha@0.1.0
 - pkg:cargo/embassy-ha@0.1.1
 - pkg:cargo/embassy-ha@0.2.0
+- pkg:cargo/embassy-ha@0.3.0
