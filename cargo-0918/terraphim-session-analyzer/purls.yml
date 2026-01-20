@@ -2,3 +2,4 @@
 - pkg:cargo/terraphim-session-analyzer@1.4.11
 - pkg:cargo/terraphim-session-analyzer@1.5.0
 - pkg:cargo/terraphim-session-analyzer@1.5.1
+- pkg:cargo/terraphim-session-analyzer@1.5.2
