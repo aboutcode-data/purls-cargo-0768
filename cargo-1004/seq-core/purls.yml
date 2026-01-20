@@ -10,3 +10,4 @@
 - pkg:cargo/seq-core@1.0.6
 - pkg:cargo/seq-core@1.1.0
 - pkg:cargo/seq-core@1.1.1
+- pkg:cargo/seq-core@2.0.0
