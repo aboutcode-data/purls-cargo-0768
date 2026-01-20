@@ -8,3 +8,4 @@
 - pkg:cargo/inplace_containers@0.2.6
 - pkg:cargo/inplace_containers@0.2.7
 - pkg:cargo/inplace_containers@0.3.0
+- pkg:cargo/inplace_containers@0.3.1
