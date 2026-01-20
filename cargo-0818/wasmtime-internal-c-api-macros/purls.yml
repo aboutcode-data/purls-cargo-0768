@@ -19,3 +19,4 @@
 - pkg:cargo/wasmtime-internal-c-api-macros@40.0.0
 - pkg:cargo/wasmtime-internal-c-api-macros@40.0.1
 - pkg:cargo/wasmtime-internal-c-api-macros@40.0.2
+- pkg:cargo/wasmtime-internal-c-api-macros@41.0.0

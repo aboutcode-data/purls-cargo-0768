@@ -91,6 +91,7 @@
 - pkg:cargo/wasmtime-wasi-http@40.0.0
 - pkg:cargo/wasmtime-wasi-http@40.0.1
 - pkg:cargo/wasmtime-wasi-http@40.0.2
+- pkg:cargo/wasmtime-wasi-http@41.0.0
 - pkg:cargo/wasmtime-wasi-http@9.0.0
 - pkg:cargo/wasmtime-wasi-http@9.0.1
 - pkg:cargo/wasmtime-wasi-http@9.0.2

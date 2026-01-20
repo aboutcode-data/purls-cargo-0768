@@ -19,3 +19,4 @@
 - pkg:cargo/wasmtime-wasi-tls-nativetls@40.0.0
 - pkg:cargo/wasmtime-wasi-tls-nativetls@40.0.1
 - pkg:cargo/wasmtime-wasi-tls-nativetls@40.0.2
+- pkg:cargo/wasmtime-wasi-tls-nativetls@41.0.0
