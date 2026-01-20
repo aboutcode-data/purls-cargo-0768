@@ -47,3 +47,4 @@
 - pkg:cargo/zkevm_test_harness@0.153.3
 - pkg:cargo/zkevm_test_harness@0.153.4
 - pkg:cargo/zkevm_test_harness@0.153.5
+- pkg:cargo/zkevm_test_harness@0.153.6
