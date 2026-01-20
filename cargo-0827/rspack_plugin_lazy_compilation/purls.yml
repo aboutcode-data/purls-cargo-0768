@@ -37,3 +37,4 @@
 - pkg:cargo/rspack_plugin_lazy_compilation@0.7.0-beta.1
 - pkg:cargo/rspack_plugin_lazy_compilation@0.7.1
 - pkg:cargo/rspack_plugin_lazy_compilation@0.7.2
+- pkg:cargo/rspack_plugin_lazy_compilation@0.7.3
