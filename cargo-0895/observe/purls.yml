@@ -2,3 +2,5 @@
 - pkg:cargo/observe@1.0.0
 - pkg:cargo/observe@1.1.0
 - pkg:cargo/observe@1.2.0
+- pkg:cargo/observe@1.3.0
+- pkg:cargo/observe@2.0.0
