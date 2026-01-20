@@ -77,3 +77,5 @@
 - pkg:cargo/skim@1.0.0-pre8
 - pkg:cargo/skim@1.0.0-pre9
 - pkg:cargo/skim@1.0.1
+- pkg:cargo/skim@1.1.0
+- pkg:cargo/skim@1.1.1

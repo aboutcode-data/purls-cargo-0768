@@ -35,6 +35,7 @@
 - pkg:cargo/gsm-testutil@0.4.34
 - pkg:cargo/gsm-testutil@0.4.35
 - pkg:cargo/gsm-testutil@0.4.36
+- pkg:cargo/gsm-testutil@0.4.37
 - pkg:cargo/gsm-testutil@0.4.5
 - pkg:cargo/gsm-testutil@0.4.7
 - pkg:cargo/gsm-testutil@0.4.8
