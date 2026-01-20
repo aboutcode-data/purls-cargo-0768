@@ -26,6 +26,7 @@
 - pkg:cargo/autumnus@0.7.6
 - pkg:cargo/autumnus@0.7.7
 - pkg:cargo/autumnus@0.7.8
+- pkg:cargo/autumnus@0.8.0
 - pkg:cargo/autumnus@0.8.0-beta.1
 - pkg:cargo/autumnus@0.8.0-beta.2
 - pkg:cargo/autumnus@0.8.0-beta.3
