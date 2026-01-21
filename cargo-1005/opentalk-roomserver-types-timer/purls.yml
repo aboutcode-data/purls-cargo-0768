@@ -7,6 +7,7 @@
 - pkg:cargo/opentalk-roomserver-types-timer@0.0.16
 - pkg:cargo/opentalk-roomserver-types-timer@0.0.17
 - pkg:cargo/opentalk-roomserver-types-timer@0.0.18
+- pkg:cargo/opentalk-roomserver-types-timer@0.0.19
 - pkg:cargo/opentalk-roomserver-types-timer@0.0.3
 - pkg:cargo/opentalk-roomserver-types-timer@0.0.5
 - pkg:cargo/opentalk-roomserver-types-timer@0.0.7
