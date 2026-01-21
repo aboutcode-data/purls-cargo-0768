@@ -1,1 +1,2 @@
 - pkg:cargo/libglycin-gtk4-rebind@0.0.1
+- pkg:cargo/libglycin-gtk4-rebind@0.1.0-alpha.3

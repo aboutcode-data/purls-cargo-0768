@@ -64,6 +64,7 @@
 - pkg:cargo/pack_component@0.4.61
 - pkg:cargo/pack_component@0.4.62
 - pkg:cargo/pack_component@0.4.63
+- pkg:cargo/pack_component@0.4.64
 - pkg:cargo/pack_component@0.4.7
 - pkg:cargo/pack_component@0.4.8
 - pkg:cargo/pack_component@0.4.9
