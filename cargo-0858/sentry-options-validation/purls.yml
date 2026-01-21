@@ -3,3 +3,4 @@
 - pkg:cargo/sentry-options-validation@0.0.3
 - pkg:cargo/sentry-options-validation@0.0.4
 - pkg:cargo/sentry-options-validation@0.0.5
+- pkg:cargo/sentry-options-validation@0.0.6
