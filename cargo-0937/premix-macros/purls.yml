@@ -4,3 +4,4 @@
 - pkg:cargo/premix-macros@1.0.3
 - pkg:cargo/premix-macros@1.0.4
 - pkg:cargo/premix-macros@1.0.5-alpha
+- pkg:cargo/premix-macros@1.0.6-alpha

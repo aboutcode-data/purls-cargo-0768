@@ -3,3 +3,4 @@
 - pkg:cargo/forge-macros@0.0.2
 - pkg:cargo/forge-macros@0.0.2-alpha
 - pkg:cargo/forge-macros@0.0.3
+- pkg:cargo/forge-macros@0.0.4
