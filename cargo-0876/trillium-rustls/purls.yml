@@ -10,3 +10,4 @@
 - pkg:cargo/trillium-rustls@0.7.0
 - pkg:cargo/trillium-rustls@0.8.0
 - pkg:cargo/trillium-rustls@0.8.1
+- pkg:cargo/trillium-rustls@0.9.0

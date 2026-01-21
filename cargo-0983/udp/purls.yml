@@ -69,6 +69,7 @@
 - pkg:cargo/udp@1.1.2
 - pkg:cargo/udp@2.0.0
 - pkg:cargo/udp@2.0.1
+- pkg:cargo/udp@2.0.10
 - pkg:cargo/udp@2.0.2
 - pkg:cargo/udp@2.0.3
 - pkg:cargo/udp@2.0.4
@@ -76,3 +77,4 @@
 - pkg:cargo/udp@2.0.6
 - pkg:cargo/udp@2.0.7
 - pkg:cargo/udp@2.0.8
+- pkg:cargo/udp@2.0.9
