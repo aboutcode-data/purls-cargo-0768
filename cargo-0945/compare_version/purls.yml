@@ -27,3 +27,4 @@
 - pkg:cargo/compare_version@1.2.8
 - pkg:cargo/compare_version@1.2.9
 - pkg:cargo/compare_version@2.0.0
+- pkg:cargo/compare_version@2.0.1

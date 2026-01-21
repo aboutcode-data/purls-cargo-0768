@@ -1,1 +1,2 @@
 - pkg:cargo/tool-parser@0.0.1
+- pkg:cargo/tool-parser@1.0.0
