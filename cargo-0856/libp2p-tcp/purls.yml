@@ -44,6 +44,7 @@
 - pkg:cargo/libp2p-tcp@0.42.0
 - pkg:cargo/libp2p-tcp@0.43.0
 - pkg:cargo/libp2p-tcp@0.44.0
+- pkg:cargo/libp2p-tcp@0.44.1
 - pkg:cargo/libp2p-tcp@0.5.0
 - pkg:cargo/libp2p-tcp@0.6.0
 - pkg:cargo/libp2p-tcp@0.7.0
