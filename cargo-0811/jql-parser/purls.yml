@@ -33,6 +33,7 @@
 - pkg:cargo/jql-parser@7.2.0
 - pkg:cargo/jql-parser@8.0.0
 - pkg:cargo/jql-parser@8.0.1
+- pkg:cargo/jql-parser@8.0.10
 - pkg:cargo/jql-parser@8.0.2
 - pkg:cargo/jql-parser@8.0.3
 - pkg:cargo/jql-parser@8.0.4
