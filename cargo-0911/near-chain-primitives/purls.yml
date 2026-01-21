@@ -51,4 +51,5 @@
 - pkg:cargo/near-chain-primitives@0.34.2
 - pkg:cargo/near-chain-primitives@0.34.3
 - pkg:cargo/near-chain-primitives@0.34.4
+- pkg:cargo/near-chain-primitives@0.34.5
 - pkg:cargo/near-chain-primitives@0.5.0
