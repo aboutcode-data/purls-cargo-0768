@@ -1,2 +1,4 @@
 - pkg:cargo/uefi-async-macros@0.2.0
 - pkg:cargo/uefi-async-macros@0.2.1
+- pkg:cargo/uefi-async-macros@0.2.7
+- pkg:cargo/uefi-async-macros@0.2.8
