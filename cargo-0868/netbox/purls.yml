@@ -6,3 +6,4 @@
 - pkg:cargo/netbox@0.1.5
 - pkg:cargo/netbox@0.1.6
 - pkg:cargo/netbox@0.2.0
+- pkg:cargo/netbox@0.2.1
