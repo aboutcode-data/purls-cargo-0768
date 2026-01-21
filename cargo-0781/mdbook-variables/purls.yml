@@ -6,3 +6,4 @@
 - pkg:cargo/mdbook-variables@0.2.4
 - pkg:cargo/mdbook-variables@0.3.0
 - pkg:cargo/mdbook-variables@0.4.0
+- pkg:cargo/mdbook-variables@0.4.1
