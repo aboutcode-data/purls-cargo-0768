@@ -8,4 +8,6 @@
 - pkg:cargo/reqwest-pretty-json@0.12.0
 - pkg:cargo/reqwest-pretty-json@0.12.1
 - pkg:cargo/reqwest-pretty-json@0.12.2
+- pkg:cargo/reqwest-pretty-json@0.13.0
+- pkg:cargo/reqwest-pretty-json@0.13.1
 - pkg:cargo/reqwest-pretty-json@0.9.0
