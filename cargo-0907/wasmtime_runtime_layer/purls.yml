@@ -21,3 +21,4 @@
 - pkg:cargo/wasmtime_runtime_layer@38.0.0
 - pkg:cargo/wasmtime_runtime_layer@39.0.0
 - pkg:cargo/wasmtime_runtime_layer@40.0.0
+- pkg:cargo/wasmtime_runtime_layer@41.0.0
