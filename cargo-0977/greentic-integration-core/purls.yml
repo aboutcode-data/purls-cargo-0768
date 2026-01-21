@@ -1,2 +1,4 @@
 - pkg:cargo/greentic-integration-core@0.4.15
 - pkg:cargo/greentic-integration-core@0.4.16
+- pkg:cargo/greentic-integration-core@0.4.17
+- pkg:cargo/greentic-integration-core@0.4.18
