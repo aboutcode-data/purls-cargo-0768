@@ -5,3 +5,4 @@
 - pkg:cargo/nym-bin-common@0.5.0
 - pkg:cargo/nym-bin-common@0.6.0
 - pkg:cargo/nym-bin-common@1.20.1
+- pkg:cargo/nym-bin-common@1.20.4
