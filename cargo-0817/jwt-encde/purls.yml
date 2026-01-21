@@ -5,3 +5,11 @@
 - pkg:cargo/jwt-encde@0.5.1
 - pkg:cargo/jwt-encde@0.5.2
 - pkg:cargo/jwt-encde@0.5.3
+- pkg:cargo/jwt-encde@0.6.0
+- pkg:cargo/jwt-encde@0.6.1
+- pkg:cargo/jwt-encde@1.0.0
+- pkg:cargo/jwt-encde@1.0.1
+- pkg:cargo/jwt-encde@1.0.2
+- pkg:cargo/jwt-encde@1.0.3
+- pkg:cargo/jwt-encde@1.0.4
+- pkg:cargo/jwt-encde@1.0.5
