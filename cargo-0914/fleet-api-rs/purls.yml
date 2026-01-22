@@ -16,4 +16,5 @@
 - pkg:cargo/fleet-api-rs@0.12.3-rc.1
 - pkg:cargo/fleet-api-rs@0.12.4
 - pkg:cargo/fleet-api-rs@0.14.1
+- pkg:cargo/fleet-api-rs@0.14.2
 - pkg:cargo/fleet-api-rs@0.9.6

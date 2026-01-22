@@ -52,6 +52,7 @@
 - pkg:cargo/potato@0.2.19
 - pkg:cargo/potato@0.2.2
 - pkg:cargo/potato@0.2.20
+- pkg:cargo/potato@0.2.21
 - pkg:cargo/potato@0.2.3
 - pkg:cargo/potato@0.2.4
 - pkg:cargo/potato@0.2.5
