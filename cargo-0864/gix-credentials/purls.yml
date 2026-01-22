@@ -35,5 +35,6 @@
 - pkg:cargo/gix-credentials@0.33.0
 - pkg:cargo/gix-credentials@0.34.0
 - pkg:cargo/gix-credentials@0.34.1
+- pkg:cargo/gix-credentials@0.35.0
 - pkg:cargo/gix-credentials@0.9.1
 - pkg:cargo/gix-credentials@0.9.2
