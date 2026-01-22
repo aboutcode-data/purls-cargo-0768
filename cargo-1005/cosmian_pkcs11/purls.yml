@@ -9,3 +9,4 @@
 - pkg:cargo/cosmian_pkcs11@1.6.0
 - pkg:cargo/cosmian_pkcs11@1.7.0
 - pkg:cargo/cosmian_pkcs11@1.7.1
+- pkg:cargo/cosmian_pkcs11@1.8.0
