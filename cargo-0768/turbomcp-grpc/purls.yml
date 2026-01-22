@@ -1,5 +1,6 @@
 - pkg:cargo/turbomcp-grpc@3.0.0-beta.1
 - pkg:cargo/turbomcp-grpc@3.0.0-beta.2
+- pkg:cargo/turbomcp-grpc@3.0.0-beta.3
 - pkg:cargo/turbomcp-grpc@3.0.0-exp
 - pkg:cargo/turbomcp-grpc@3.0.0-exp.1
 - pkg:cargo/turbomcp-grpc@3.0.0-exp.2

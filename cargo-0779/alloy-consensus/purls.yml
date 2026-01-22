@@ -117,3 +117,4 @@
 - pkg:cargo/alloy-consensus@1.4.3
 - pkg:cargo/alloy-consensus@1.5.0
 - pkg:cargo/alloy-consensus@1.5.1
+- pkg:cargo/alloy-consensus@1.5.2
