@@ -21,3 +21,4 @@
 - pkg:cargo/revolt-database@0.7.9
 - pkg:cargo/revolt-database@0.8.7
 - pkg:cargo/revolt-database@0.8.8
+- pkg:cargo/revolt-database@0.9.4

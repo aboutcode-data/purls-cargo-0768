@@ -11,6 +11,7 @@
 - pkg:cargo/p3-blake3@0.2.1-succinct
 - pkg:cargo/p3-blake3@0.2.2-succinct
 - pkg:cargo/p3-blake3@0.2.3-succinct
+- pkg:cargo/p3-blake3@0.2.4-succinct
 - pkg:cargo/p3-blake3@0.3.0
 - pkg:cargo/p3-blake3@0.4.0
 - pkg:cargo/p3-blake3@0.4.1

@@ -5,3 +5,4 @@
 - pkg:cargo/aptmirs@0.17.7
 - pkg:cargo/aptmirs@0.17.9
 - pkg:cargo/aptmirs@0.18.0
+- pkg:cargo/aptmirs@0.19.0

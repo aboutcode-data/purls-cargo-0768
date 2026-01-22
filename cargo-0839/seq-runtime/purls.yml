@@ -82,3 +82,4 @@
 - pkg:cargo/seq-runtime@1.1.1
 - pkg:cargo/seq-runtime@2.0.0
 - pkg:cargo/seq-runtime@2.0.1
+- pkg:cargo/seq-runtime@2.1.0
