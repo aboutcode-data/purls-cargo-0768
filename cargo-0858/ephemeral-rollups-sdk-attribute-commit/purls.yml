@@ -36,3 +36,4 @@
 - pkg:cargo/ephemeral-rollups-sdk-attribute-commit@0.7.3
 - pkg:cargo/ephemeral-rollups-sdk-attribute-commit@0.8.0
 - pkg:cargo/ephemeral-rollups-sdk-attribute-commit@0.8.1
+- pkg:cargo/ephemeral-rollups-sdk-attribute-commit@0.8.2
