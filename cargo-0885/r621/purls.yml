@@ -11,3 +11,6 @@
 - pkg:cargo/r621@0.3.0
 - pkg:cargo/r621@0.3.1
 - pkg:cargo/r621@0.3.2
+- pkg:cargo/r621@0.3.3
+- pkg:cargo/r621@0.3.3-rc1
+- pkg:cargo/r621@0.3.3-rc2

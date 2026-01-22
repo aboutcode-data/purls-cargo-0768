@@ -5,3 +5,4 @@
 - pkg:cargo/jxl_simd@0.2.0
 - pkg:cargo/jxl_simd@0.2.1
 - pkg:cargo/jxl_simd@0.2.2
+- pkg:cargo/jxl_simd@0.3.0
