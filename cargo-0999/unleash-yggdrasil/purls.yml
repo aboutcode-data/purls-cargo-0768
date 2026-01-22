@@ -27,6 +27,7 @@
 - pkg:cargo/unleash-yggdrasil@0.18.2
 - pkg:cargo/unleash-yggdrasil@0.19.0
 - pkg:cargo/unleash-yggdrasil@0.2.0
+- pkg:cargo/unleash-yggdrasil@0.20.0
 - pkg:cargo/unleash-yggdrasil@0.3.0
 - pkg:cargo/unleash-yggdrasil@0.4.0
 - pkg:cargo/unleash-yggdrasil@0.4.1
