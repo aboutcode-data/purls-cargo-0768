@@ -1,3 +1,4 @@
 - pkg:cargo/ytls-client@0.0.4
 - pkg:cargo/ytls-client@0.0.5
 - pkg:cargo/ytls-client@0.0.6
+- pkg:cargo/ytls-client@0.0.7
