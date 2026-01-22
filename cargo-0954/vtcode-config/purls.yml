@@ -210,3 +210,6 @@
 - pkg:cargo/vtcode-config@0.66.4
 - pkg:cargo/vtcode-config@0.66.5
 - pkg:cargo/vtcode-config@0.66.6
+- pkg:cargo/vtcode-config@0.66.7
+- pkg:cargo/vtcode-config@0.66.8
+- pkg:cargo/vtcode-config@0.67.0
