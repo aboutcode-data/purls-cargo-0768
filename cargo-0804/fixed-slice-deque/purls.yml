@@ -2,3 +2,5 @@
 - pkg:cargo/fixed-slice-deque@0.1.0-beta1
 - pkg:cargo/fixed-slice-deque@0.1.0-beta2
 - pkg:cargo/fixed-slice-deque@0.1.0-beta3
+- pkg:cargo/fixed-slice-deque@0.1.0-beta4
+- pkg:cargo/fixed-slice-deque@0.1.0-beta5
