@@ -190,6 +190,7 @@
 - pkg:cargo/holochain_integrity_types@0.6.0-dev.8
 - pkg:cargo/holochain_integrity_types@0.6.0-dev.9
 - pkg:cargo/holochain_integrity_types@0.6.0-rc.0
+- pkg:cargo/holochain_integrity_types@0.6.1-rc.0
 - pkg:cargo/holochain_integrity_types@0.7.0-dev.0
 - pkg:cargo/holochain_integrity_types@0.7.0-dev.1
 - pkg:cargo/holochain_integrity_types@0.7.0-dev.2
