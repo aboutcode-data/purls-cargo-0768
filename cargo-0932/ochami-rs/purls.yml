@@ -77,6 +77,7 @@
 - pkg:cargo/ochami-rs@0.1.85
 - pkg:cargo/ochami-rs@0.1.9
 - pkg:cargo/ochami-rs@0.10.0
+- pkg:cargo/ochami-rs@0.10.1
 - pkg:cargo/ochami-rs@0.2.0
 - pkg:cargo/ochami-rs@0.3.0
 - pkg:cargo/ochami-rs@0.3.1

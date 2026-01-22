@@ -5,3 +5,4 @@
 - pkg:cargo/sdl3-image-sys@0.2.0%2BSDL3-image-3.2.4
 - pkg:cargo/sdl3-image-sys@0.2.1%2BSDL3-image-3.2.6
 - pkg:cargo/sdl3-image-sys@0.6.0%2BSDL-image-3.2.6
+- pkg:cargo/sdl3-image-sys@0.6.1%2BSDL-image-3.4.0
