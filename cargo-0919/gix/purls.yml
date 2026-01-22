@@ -59,3 +59,4 @@
 - pkg:cargo/gix@0.75.0
 - pkg:cargo/gix@0.76.0
 - pkg:cargo/gix@0.77.0
+- pkg:cargo/gix@0.78.0
