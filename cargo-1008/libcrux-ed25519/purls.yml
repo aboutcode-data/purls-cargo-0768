@@ -6,3 +6,4 @@
 - pkg:cargo/libcrux-ed25519@0.0.3-alpha.3
 - pkg:cargo/libcrux-ed25519@0.0.4
 - pkg:cargo/libcrux-ed25519@0.0.4-pre.1
+- pkg:cargo/libcrux-ed25519@0.0.5-pre.1
