@@ -1,1 +1,2 @@
 - pkg:cargo/osal-rs-serde-derive@0.3.0
+- pkg:cargo/osal-rs-serde-derive@0.3.1
