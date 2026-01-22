@@ -6,3 +6,4 @@
 - pkg:cargo/nodejs_package_managers@0.3.0
 - pkg:cargo/nodejs_package_managers@0.3.1
 - pkg:cargo/nodejs_package_managers@0.3.2
+- pkg:cargo/nodejs_package_managers@0.3.3
