@@ -11,3 +11,4 @@
 - pkg:cargo/bevy_cursor_kit@0.5.1
 - pkg:cargo/bevy_cursor_kit@0.6.0
 - pkg:cargo/bevy_cursor_kit@0.7.0
+- pkg:cargo/bevy_cursor_kit@0.8.0
