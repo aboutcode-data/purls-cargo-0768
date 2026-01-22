@@ -92,6 +92,9 @@
 - pkg:cargo/rattler_lock@0.25.3
 - pkg:cargo/rattler_lock@0.26.0
 - pkg:cargo/rattler_lock@0.26.1
+- pkg:cargo/rattler_lock@0.26.10
+- pkg:cargo/rattler_lock@0.26.11
+- pkg:cargo/rattler_lock@0.26.12
 - pkg:cargo/rattler_lock@0.26.2
 - pkg:cargo/rattler_lock@0.26.3
 - pkg:cargo/rattler_lock@0.26.4
