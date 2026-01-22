@@ -19,3 +19,4 @@
 - pkg:cargo/sqlxo_macros@0.5.4
 - pkg:cargo/sqlxo_macros@0.5.5
 - pkg:cargo/sqlxo_macros@0.5.7
+- pkg:cargo/sqlxo_macros@0.5.8
