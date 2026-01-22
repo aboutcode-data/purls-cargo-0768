@@ -8,3 +8,4 @@
 - pkg:cargo/pdk-proxy-wasm-stub@1.6.0
 - pkg:cargo/pdk-proxy-wasm-stub@1.6.0-rc.0
 - pkg:cargo/pdk-proxy-wasm-stub@1.6.0-rc.1
+- pkg:cargo/pdk-proxy-wasm-stub@1.7.0-alpha.0
