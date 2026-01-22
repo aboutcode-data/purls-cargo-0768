@@ -223,6 +223,7 @@
 - pkg:cargo/hdk_derive@0.6.0-dev.8
 - pkg:cargo/hdk_derive@0.6.0-dev.9
 - pkg:cargo/hdk_derive@0.6.0-rc.0
+- pkg:cargo/hdk_derive@0.6.1-rc.0
 - pkg:cargo/hdk_derive@0.7.0-dev.0
 - pkg:cargo/hdk_derive@0.7.0-dev.1
 - pkg:cargo/hdk_derive@0.7.0-dev.2
