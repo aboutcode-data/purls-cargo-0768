@@ -142,6 +142,8 @@
 - pkg:cargo/hyperlane-utils@14.3.1
 - pkg:cargo/hyperlane-utils@14.3.10
 - pkg:cargo/hyperlane-utils@14.3.11
+- pkg:cargo/hyperlane-utils@14.3.12
+- pkg:cargo/hyperlane-utils@14.3.13
 - pkg:cargo/hyperlane-utils@14.3.2
 - pkg:cargo/hyperlane-utils@14.3.3
 - pkg:cargo/hyperlane-utils@14.3.4
