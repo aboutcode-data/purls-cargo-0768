@@ -1,5 +1,6 @@
 - pkg:cargo/langram@0.1.0
 - pkg:cargo/langram@0.10.0
+- pkg:cargo/langram@0.11.0
 - pkg:cargo/langram@0.2.0
 - pkg:cargo/langram@0.3.0
 - pkg:cargo/langram@0.4.0
