@@ -18,3 +18,4 @@
 - pkg:cargo/opencc-sys@0.3.6%2B1.1.9
 - pkg:cargo/opencc-sys@0.3.7%2B1.1.9
 - pkg:cargo/opencc-sys@0.3.8%2B1.1.9
+- pkg:cargo/opencc-sys@0.4.0%2B1.2.0
