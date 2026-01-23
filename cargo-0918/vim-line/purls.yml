@@ -32,3 +32,4 @@
 - pkg:cargo/vim-line@2.0.1
 - pkg:cargo/vim-line@2.1.0
 - pkg:cargo/vim-line@2.2.0
+- pkg:cargo/vim-line@2.3.0
