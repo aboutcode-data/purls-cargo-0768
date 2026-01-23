@@ -25,3 +25,4 @@
 - pkg:cargo/bevy_lunex@0.4.1
 - pkg:cargo/bevy_lunex@0.4.2
 - pkg:cargo/bevy_lunex@0.5.0
+- pkg:cargo/bevy_lunex@0.6.0
