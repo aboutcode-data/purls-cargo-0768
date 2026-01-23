@@ -36,6 +36,7 @@
 - pkg:cargo/facet-testhelpers@0.41.0
 - pkg:cargo/facet-testhelpers@0.42.0
 - pkg:cargo/facet-testhelpers@0.43.0
+- pkg:cargo/facet-testhelpers@0.43.1
 - pkg:cargo/facet-testhelpers@0.7.0
 - pkg:cargo/facet-testhelpers@0.8.0
 - pkg:cargo/facet-testhelpers@0.8.1
