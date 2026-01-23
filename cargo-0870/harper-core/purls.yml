@@ -106,3 +106,4 @@
 - pkg:cargo/harper-core@1.3.0
 - pkg:cargo/harper-core@1.4.0
 - pkg:cargo/harper-core@1.4.1
+- pkg:cargo/harper-core@1.5.1

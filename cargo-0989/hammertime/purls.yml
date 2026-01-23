@@ -36,6 +36,7 @@
 - pkg:cargo/hammertime@0.5.4
 - pkg:cargo/hammertime@0.5.40
 - pkg:cargo/hammertime@0.5.41
+- pkg:cargo/hammertime@0.5.42
 - pkg:cargo/hammertime@0.5.5
 - pkg:cargo/hammertime@0.5.6
 - pkg:cargo/hammertime@0.5.7
