@@ -6,6 +6,7 @@
 - pkg:cargo/swc_icu_messageformat_parser@13.0.0
 - pkg:cargo/swc_icu_messageformat_parser@14.0.0
 - pkg:cargo/swc_icu_messageformat_parser@15.0.0
+- pkg:cargo/swc_icu_messageformat_parser@16.0.0
 - pkg:cargo/swc_icu_messageformat_parser@2.0.0
 - pkg:cargo/swc_icu_messageformat_parser@3.0.0
 - pkg:cargo/swc_icu_messageformat_parser@3.0.1
