@@ -72,4 +72,5 @@
 - pkg:cargo/sqruff-lsp@0.32.0
 - pkg:cargo/sqruff-lsp@0.33.0
 - pkg:cargo/sqruff-lsp@0.34.0
+- pkg:cargo/sqruff-lsp@0.34.1
 - pkg:cargo/sqruff-lsp@0.9.0
