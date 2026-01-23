@@ -87,3 +87,4 @@
 - pkg:cargo/wasmer-compiler@6.1.0-rc.3
 - pkg:cargo/wasmer-compiler@6.1.0-rc.5
 - pkg:cargo/wasmer-compiler@7.0.0-alpha.2
+- pkg:cargo/wasmer-compiler@7.0.0-rc.1
