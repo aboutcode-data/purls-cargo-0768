@@ -12,6 +12,7 @@
 - pkg:cargo/volo@0.11.1
 - pkg:cargo/volo@0.12.0
 - pkg:cargo/volo@0.12.1
+- pkg:cargo/volo@0.12.2
 - pkg:cargo/volo@0.2.0
 - pkg:cargo/volo@0.2.1
 - pkg:cargo/volo@0.3.0
