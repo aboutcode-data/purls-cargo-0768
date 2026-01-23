@@ -13,6 +13,7 @@
 - pkg:cargo/gpu-usage-waybar@0.1.22
 - pkg:cargo/gpu-usage-waybar@0.1.24
 - pkg:cargo/gpu-usage-waybar@0.1.25
+- pkg:cargo/gpu-usage-waybar@0.1.26
 - pkg:cargo/gpu-usage-waybar@0.1.3
 - pkg:cargo/gpu-usage-waybar@0.1.4
 - pkg:cargo/gpu-usage-waybar@0.1.5
