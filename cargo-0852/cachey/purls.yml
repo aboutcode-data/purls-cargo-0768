@@ -1,1 +1,2 @@
 - pkg:cargo/cachey@0.8.4
+- pkg:cargo/cachey@0.9.0
