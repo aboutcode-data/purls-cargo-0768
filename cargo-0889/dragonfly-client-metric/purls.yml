@@ -42,3 +42,4 @@
 - pkg:cargo/dragonfly-client-metric@1.2.4
 - pkg:cargo/dragonfly-client-metric@1.2.5
 - pkg:cargo/dragonfly-client-metric@1.2.6
+- pkg:cargo/dragonfly-client-metric@1.2.7
