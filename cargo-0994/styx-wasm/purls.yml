@@ -1,1 +1,2 @@
 - pkg:cargo/styx-wasm@0.0.1
+- pkg:cargo/styx-wasm@1.0.0
