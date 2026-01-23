@@ -25,6 +25,7 @@
 - pkg:cargo/deno_package_json@0.28.0
 - pkg:cargo/deno_package_json@0.29.0
 - pkg:cargo/deno_package_json@0.3.0
+- pkg:cargo/deno_package_json@0.30.0
 - pkg:cargo/deno_package_json@0.4.0
 - pkg:cargo/deno_package_json@0.4.1
 - pkg:cargo/deno_package_json@0.4.2

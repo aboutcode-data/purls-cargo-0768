@@ -37,6 +37,7 @@
 - pkg:cargo/deno_os@0.42.0
 - pkg:cargo/deno_os@0.43.0
 - pkg:cargo/deno_os@0.44.0
+- pkg:cargo/deno_os@0.45.0
 - pkg:cargo/deno_os@0.5.0
 - pkg:cargo/deno_os@0.6.0
 - pkg:cargo/deno_os@0.7.0

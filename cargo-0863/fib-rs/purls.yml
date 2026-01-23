@@ -22,3 +22,7 @@
 - pkg:cargo/fib-rs@0.4.6
 - pkg:cargo/fib-rs@1.0.0
 - pkg:cargo/fib-rs@1.0.1
+- pkg:cargo/fib-rs@1.0.2
+- pkg:cargo/fib-rs@1.0.3
+- pkg:cargo/fib-rs@1.0.4
+- pkg:cargo/fib-rs@1.0.5
