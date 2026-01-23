@@ -12,3 +12,4 @@
 - pkg:cargo/rtc-mdns@0.7.3
 - pkg:cargo/rtc-mdns@0.7.4
 - pkg:cargo/rtc-mdns@0.8.0
+- pkg:cargo/rtc-mdns@0.8.1
