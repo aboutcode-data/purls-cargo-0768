@@ -22,6 +22,7 @@
 - pkg:cargo/burn-autodiff@0.20.0-pre.4
 - pkg:cargo/burn-autodiff@0.20.0-pre.5
 - pkg:cargo/burn-autodiff@0.20.0-pre.6
+- pkg:cargo/burn-autodiff@0.20.1
 - pkg:cargo/burn-autodiff@0.3.0
 - pkg:cargo/burn-autodiff@0.4.0
 - pkg:cargo/burn-autodiff@0.5.0
