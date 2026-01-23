@@ -2,3 +2,4 @@
 - pkg:cargo/facet-typescript@0.42.0
 - pkg:cargo/facet-typescript@0.43.0
 - pkg:cargo/facet-typescript@0.43.1
+- pkg:cargo/facet-typescript@0.43.2
