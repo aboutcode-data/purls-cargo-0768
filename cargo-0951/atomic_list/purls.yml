@@ -12,3 +12,4 @@
 - pkg:cargo/atomic_list@1.8.1
 - pkg:cargo/atomic_list@1.8.2
 - pkg:cargo/atomic_list@1.9.0
+- pkg:cargo/atomic_list@1.9.1
