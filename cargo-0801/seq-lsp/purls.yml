@@ -80,3 +80,4 @@
 - pkg:cargo/seq-lsp@2.0.1
 - pkg:cargo/seq-lsp@2.1.0
 - pkg:cargo/seq-lsp@2.2.0
+- pkg:cargo/seq-lsp@2.3.0
