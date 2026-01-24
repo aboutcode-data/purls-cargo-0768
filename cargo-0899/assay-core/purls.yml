@@ -29,3 +29,5 @@
 - pkg:cargo/assay-core@2.1.8
 - pkg:cargo/assay-core@2.1.9
 - pkg:cargo/assay-core@2.2.0
+- pkg:cargo/assay-core@2.2.1
+- pkg:cargo/assay-core@2.2.2
