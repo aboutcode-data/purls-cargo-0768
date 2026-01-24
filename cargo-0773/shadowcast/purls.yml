@@ -16,3 +16,4 @@
 - pkg:cargo/shadowcast@0.7.1
 - pkg:cargo/shadowcast@0.8.0
 - pkg:cargo/shadowcast@0.8.1
+- pkg:cargo/shadowcast@0.9.0
