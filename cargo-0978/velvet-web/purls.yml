@@ -41,6 +41,8 @@
 - pkg:cargo/velvet-web@0.8.1
 - pkg:cargo/velvet-web@0.8.10
 - pkg:cargo/velvet-web@0.8.11
+- pkg:cargo/velvet-web@0.8.12
+- pkg:cargo/velvet-web@0.8.13
 - pkg:cargo/velvet-web@0.8.2
 - pkg:cargo/velvet-web@0.8.3
 - pkg:cargo/velvet-web@0.8.4
