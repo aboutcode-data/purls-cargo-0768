@@ -31,3 +31,6 @@
 - pkg:cargo/xvc-walker@0.6.8
 - pkg:cargo/xvc-walker@0.6.9
 - pkg:cargo/xvc-walker@0.7.0
+- pkg:cargo/xvc-walker@0.7.1-alpha.1
+- pkg:cargo/xvc-walker@0.7.1-alpha.2
+- pkg:cargo/xvc-walker@0.7.1-alpha.3
