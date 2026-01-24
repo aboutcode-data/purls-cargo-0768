@@ -90,3 +90,4 @@
 - pkg:cargo/skim@1.5.2
 - pkg:cargo/skim@1.5.3
 - pkg:cargo/skim@1.5.4
+- pkg:cargo/skim@1.6.0
