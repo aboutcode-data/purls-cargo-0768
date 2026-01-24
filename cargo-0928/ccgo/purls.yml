@@ -9,3 +9,4 @@
 - pkg:cargo/ccgo@3.0.8
 - pkg:cargo/ccgo@3.0.9
 - pkg:cargo/ccgo@3.1.0
+- pkg:cargo/ccgo@3.2.0

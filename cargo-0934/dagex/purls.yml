@@ -4,6 +4,7 @@
 - pkg:cargo/dagex@2026.13.0
 - pkg:cargo/dagex@2026.14.0
 - pkg:cargo/dagex@2026.15.0
+- pkg:cargo/dagex@2026.16.0
 - pkg:cargo/dagex@2026.5.0
 - pkg:cargo/dagex@2026.6.0
 - pkg:cargo/dagex@2026.7.0
