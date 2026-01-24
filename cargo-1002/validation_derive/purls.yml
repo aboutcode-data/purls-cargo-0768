@@ -1,3 +1,5 @@
 - pkg:cargo/validation_derive@1.0.0
 - pkg:cargo/validation_derive@1.1.0
 - pkg:cargo/validation_derive@1.1.1
+- pkg:cargo/validation_derive@1.1.2
+- pkg:cargo/validation_derive@1.1.3
