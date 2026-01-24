@@ -2,6 +2,7 @@
 - pkg:cargo/chess-huffman@0.10.0
 - pkg:cargo/chess-huffman@0.11.0
 - pkg:cargo/chess-huffman@0.12.0
+- pkg:cargo/chess-huffman@0.12.1
 - pkg:cargo/chess-huffman@0.2.0
 - pkg:cargo/chess-huffman@0.3.0
 - pkg:cargo/chess-huffman@0.3.1
