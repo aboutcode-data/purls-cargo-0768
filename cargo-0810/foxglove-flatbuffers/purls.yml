@@ -1,1 +1,2 @@
 - pkg:cargo/foxglove-flatbuffers@0.3.6
+- pkg:cargo/foxglove-flatbuffers@0.3.7
