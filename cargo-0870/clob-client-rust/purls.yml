@@ -7,3 +7,4 @@
 - pkg:cargo/clob-client-rust@0.2.2
 - pkg:cargo/clob-client-rust@0.2.3
 - pkg:cargo/clob-client-rust@0.2.5
+- pkg:cargo/clob-client-rust@0.2.6
