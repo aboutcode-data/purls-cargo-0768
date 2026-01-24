@@ -5,6 +5,7 @@
 - pkg:cargo/mtree2@0.6.12
 - pkg:cargo/mtree2@0.6.13
 - pkg:cargo/mtree2@0.6.14
+- pkg:cargo/mtree2@0.6.15
 - pkg:cargo/mtree2@0.6.2
 - pkg:cargo/mtree2@0.6.3
 - pkg:cargo/mtree2@0.6.4
