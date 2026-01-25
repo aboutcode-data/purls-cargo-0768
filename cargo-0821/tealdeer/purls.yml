@@ -8,10 +8,13 @@
 - pkg:cargo/tealdeer@1.4.0
 - pkg:cargo/tealdeer@1.4.1
 - pkg:cargo/tealdeer@1.5.0
+- pkg:cargo/tealdeer@1.5.1
 - pkg:cargo/tealdeer@1.6.0
 - pkg:cargo/tealdeer@1.6.1
+- pkg:cargo/tealdeer@1.6.2
 - pkg:cargo/tealdeer@1.7.0
 - pkg:cargo/tealdeer@1.7.1
 - pkg:cargo/tealdeer@1.7.2
+- pkg:cargo/tealdeer@1.7.3
 - pkg:cargo/tealdeer@1.8.0
 - pkg:cargo/tealdeer@1.8.1
