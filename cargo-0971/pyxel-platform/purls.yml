@@ -79,3 +79,4 @@
 - pkg:cargo/pyxel-platform@2.5.8
 - pkg:cargo/pyxel-platform@2.5.9
 - pkg:cargo/pyxel-platform@2.6.0
+- pkg:cargo/pyxel-platform@2.6.1
