@@ -7,3 +7,4 @@
 - pkg:cargo/lightyear_deterministic_replication@0.25.5
 - pkg:cargo/lightyear_deterministic_replication@0.26.0
 - pkg:cargo/lightyear_deterministic_replication@0.26.1
+- pkg:cargo/lightyear_deterministic_replication@0.26.2
