@@ -8,3 +8,4 @@
 - pkg:cargo/rust-switcher@0.1.22
 - pkg:cargo/rust-switcher@0.1.23
 - pkg:cargo/rust-switcher@1.0.2
+- pkg:cargo/rust-switcher@1.0.3
