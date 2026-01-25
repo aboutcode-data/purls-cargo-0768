@@ -7,4 +7,5 @@
 - pkg:cargo/rustapi-testing@0.1.188
 - pkg:cargo/rustapi-testing@0.1.191
 - pkg:cargo/rustapi-testing@0.1.195
+- pkg:cargo/rustapi-testing@0.1.201
 - pkg:cargo/rustapi-testing@0.1.9
