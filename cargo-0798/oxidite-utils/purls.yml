@@ -1,2 +1,3 @@
 - pkg:cargo/oxidite-utils@0.1.0
 - pkg:cargo/oxidite-utils@2.0.0
+- pkg:cargo/oxidite-utils@2.0.1
