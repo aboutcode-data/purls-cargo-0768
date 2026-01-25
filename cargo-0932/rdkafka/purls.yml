@@ -41,6 +41,7 @@
 - pkg:cargo/rdkafka@0.36.3
 - pkg:cargo/rdkafka@0.37.0
 - pkg:cargo/rdkafka@0.38.0
+- pkg:cargo/rdkafka@0.39.0
 - pkg:cargo/rdkafka@0.4.0
 - pkg:cargo/rdkafka@0.5.0
 - pkg:cargo/rdkafka@0.6.0
