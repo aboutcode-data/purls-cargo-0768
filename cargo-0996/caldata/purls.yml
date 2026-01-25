@@ -1,2 +1,5 @@
 - pkg:cargo/caldata@0.12.1
 - pkg:cargo/caldata@0.13.0
+- pkg:cargo/caldata@0.13.1
+- pkg:cargo/caldata@0.13.2
+- pkg:cargo/caldata@0.14.0
