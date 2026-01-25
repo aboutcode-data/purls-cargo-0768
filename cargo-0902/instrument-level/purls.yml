@@ -1,5 +1,6 @@
 - pkg:cargo/instrument-level@1.0.0
 - pkg:cargo/instrument-level@1.0.1
+- pkg:cargo/instrument-level@1.0.10
 - pkg:cargo/instrument-level@1.0.2
 - pkg:cargo/instrument-level@1.0.3
 - pkg:cargo/instrument-level@1.0.4
