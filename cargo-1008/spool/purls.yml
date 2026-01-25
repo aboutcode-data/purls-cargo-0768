@@ -2,3 +2,4 @@
 - pkg:cargo/spool@0.3.0
 - pkg:cargo/spool@0.3.1
 - pkg:cargo/spool@0.4.0
+- pkg:cargo/spool@1.0.0
