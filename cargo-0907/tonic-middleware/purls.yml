@@ -9,3 +9,4 @@
 - pkg:cargo/tonic-middleware@0.2.3
 - pkg:cargo/tonic-middleware@0.3.0
 - pkg:cargo/tonic-middleware@0.4.0
+- pkg:cargo/tonic-middleware@0.4.1
