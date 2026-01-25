@@ -17,3 +17,4 @@
 - pkg:cargo/ck-core@0.5.3
 - pkg:cargo/ck-core@0.6.0
 - pkg:cargo/ck-core@0.7.0
+- pkg:cargo/ck-core@0.7.2
