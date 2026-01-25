@@ -12,6 +12,7 @@
 - pkg:cargo/captcha-rs@0.2.1
 - pkg:cargo/captcha-rs@0.2.10
 - pkg:cargo/captcha-rs@0.2.11
+- pkg:cargo/captcha-rs@0.2.12
 - pkg:cargo/captcha-rs@0.2.2
 - pkg:cargo/captcha-rs@0.2.3
 - pkg:cargo/captcha-rs@0.2.4
