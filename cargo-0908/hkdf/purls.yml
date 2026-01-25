@@ -18,6 +18,7 @@
 - pkg:cargo/hkdf@0.13.0-rc.1
 - pkg:cargo/hkdf@0.13.0-rc.2
 - pkg:cargo/hkdf@0.13.0-rc.3
+- pkg:cargo/hkdf@0.13.0-rc.4
 - pkg:cargo/hkdf@0.2.0
 - pkg:cargo/hkdf@0.3.0
 - pkg:cargo/hkdf@0.4.0

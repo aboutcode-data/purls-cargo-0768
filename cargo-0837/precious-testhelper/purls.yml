@@ -1,5 +1,6 @@
 - pkg:cargo/precious-testhelper@0.10.0
 - pkg:cargo/precious-testhelper@0.10.1
+- pkg:cargo/precious-testhelper@0.10.2
 - pkg:cargo/precious-testhelper@0.2.1
 - pkg:cargo/precious-testhelper@0.2.2
 - pkg:cargo/precious-testhelper@0.2.3
