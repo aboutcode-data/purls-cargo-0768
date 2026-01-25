@@ -12,6 +12,7 @@
 - pkg:cargo/cidre@0.11.8
 - pkg:cargo/cidre@0.11.9
 - pkg:cargo/cidre@0.12.0
+- pkg:cargo/cidre@0.13.0
 - pkg:cargo/cidre@0.8.0
 - pkg:cargo/cidre@0.9.0
 - pkg:cargo/cidre@0.9.1
