@@ -1,4 +1,5 @@
 - pkg:cargo/librashader-runtime-d3d9@0.10.0
+- pkg:cargo/librashader-runtime-d3d9@0.10.1
 - pkg:cargo/librashader-runtime-d3d9@0.2.7
 - pkg:cargo/librashader-runtime-d3d9@0.2.8
 - pkg:cargo/librashader-runtime-d3d9@0.3.0

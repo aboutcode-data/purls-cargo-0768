@@ -10,3 +10,4 @@
 - pkg:cargo/l402_middleware@1.8.0
 - pkg:cargo/l402_middleware@1.9.0
 - pkg:cargo/l402_middleware@2.0.0
+- pkg:cargo/l402_middleware@2.1.0
