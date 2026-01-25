@@ -108,3 +108,4 @@
 - pkg:cargo/brk_fetcher@0.1.0-alpha.4
 - pkg:cargo/brk_fetcher@0.1.0-alpha.5
 - pkg:cargo/brk_fetcher@0.1.0-alpha.6
+- pkg:cargo/brk_fetcher@0.1.0-beta.0
