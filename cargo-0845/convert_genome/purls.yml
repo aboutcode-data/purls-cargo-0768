@@ -5,3 +5,5 @@
 - pkg:cargo/convert_genome@0.1.4
 - pkg:cargo/convert_genome@0.1.5
 - pkg:cargo/convert_genome@0.1.6
+- pkg:cargo/convert_genome@0.1.8
+- pkg:cargo/convert_genome@0.1.9
