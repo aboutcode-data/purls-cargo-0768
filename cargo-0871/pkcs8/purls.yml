@@ -7,6 +7,7 @@
 - pkg:cargo/pkcs8@0.11.0-pre.0
 - pkg:cargo/pkcs8@0.11.0-rc.0
 - pkg:cargo/pkcs8@0.11.0-rc.1
+- pkg:cargo/pkcs8@0.11.0-rc.10
 - pkg:cargo/pkcs8@0.11.0-rc.2
 - pkg:cargo/pkcs8@0.11.0-rc.3
 - pkg:cargo/pkcs8@0.11.0-rc.4
