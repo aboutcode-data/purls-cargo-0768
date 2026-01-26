@@ -7,6 +7,7 @@
 - pkg:cargo/claudius@0.15.0
 - pkg:cargo/claudius@0.16.0
 - pkg:cargo/claudius@0.17.0
+- pkg:cargo/claudius@0.18.0
 - pkg:cargo/claudius@0.2.0
 - pkg:cargo/claudius@0.3.0
 - pkg:cargo/claudius@0.4.0
