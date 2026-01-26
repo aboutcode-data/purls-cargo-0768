@@ -100,3 +100,4 @@
 - pkg:cargo/soroban-sdk@25.0.0
 - pkg:cargo/soroban-sdk@25.0.0-rc.1
 - pkg:cargo/soroban-sdk@25.0.0-rc.2
+- pkg:cargo/soroban-sdk@25.0.1
