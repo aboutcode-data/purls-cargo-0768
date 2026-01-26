@@ -31,3 +31,4 @@
 - pkg:cargo/ssh-key@0.7.0-rc.4
 - pkg:cargo/ssh-key@0.7.0-rc.5
 - pkg:cargo/ssh-key@0.7.0-rc.6
+- pkg:cargo/ssh-key@0.7.0-rc.7
