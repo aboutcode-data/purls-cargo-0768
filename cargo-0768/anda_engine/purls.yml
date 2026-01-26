@@ -49,6 +49,7 @@
 - pkg:cargo/anda_engine@0.9.13
 - pkg:cargo/anda_engine@0.9.14
 - pkg:cargo/anda_engine@0.9.15
+- pkg:cargo/anda_engine@0.9.16
 - pkg:cargo/anda_engine@0.9.2
 - pkg:cargo/anda_engine@0.9.5
 - pkg:cargo/anda_engine@0.9.6
