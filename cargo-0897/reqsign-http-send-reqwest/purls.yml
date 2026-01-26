@@ -1,3 +1,4 @@
 - pkg:cargo/reqsign-http-send-reqwest@1.0.0
 - pkg:cargo/reqsign-http-send-reqwest@2.0.0
 - pkg:cargo/reqsign-http-send-reqwest@2.0.1
+- pkg:cargo/reqsign-http-send-reqwest@3.0.0

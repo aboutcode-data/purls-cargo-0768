@@ -6,6 +6,7 @@
 - pkg:cargo/mergiraf@0.14.0
 - pkg:cargo/mergiraf@0.15.0
 - pkg:cargo/mergiraf@0.16.1
+- pkg:cargo/mergiraf@0.16.3
 - pkg:cargo/mergiraf@0.3.1
 - pkg:cargo/mergiraf@0.4.0
 - pkg:cargo/mergiraf@0.5.0
