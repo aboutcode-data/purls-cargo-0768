@@ -9,6 +9,7 @@
 - pkg:cargo/oxc_ast_macros@0.108.0
 - pkg:cargo/oxc_ast_macros@0.109.0
 - pkg:cargo/oxc_ast_macros@0.110.0
+- pkg:cargo/oxc_ast_macros@0.111.0
 - pkg:cargo/oxc_ast_macros@0.13.0
 - pkg:cargo/oxc_ast_macros@0.13.1
 - pkg:cargo/oxc_ast_macros@0.13.2
