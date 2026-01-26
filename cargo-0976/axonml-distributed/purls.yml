@@ -2,3 +2,4 @@
 - pkg:cargo/axonml-distributed@0.2.2
 - pkg:cargo/axonml-distributed@0.2.3
 - pkg:cargo/axonml-distributed@0.2.4
+- pkg:cargo/axonml-distributed@0.2.6
