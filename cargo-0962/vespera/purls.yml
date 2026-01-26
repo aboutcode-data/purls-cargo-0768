@@ -13,6 +13,7 @@
 - pkg:cargo/vespera@0.1.21
 - pkg:cargo/vespera@0.1.22
 - pkg:cargo/vespera@0.1.23
+- pkg:cargo/vespera@0.1.24
 - pkg:cargo/vespera@0.1.3
 - pkg:cargo/vespera@0.1.4
 - pkg:cargo/vespera@0.1.5
