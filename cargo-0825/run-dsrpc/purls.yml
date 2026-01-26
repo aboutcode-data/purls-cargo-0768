@@ -7,5 +7,6 @@
 - pkg:cargo/run-dsrpc@0.0.16-alpha2
 - pkg:cargo/run-dsrpc@0.0.17-alpha2
 - pkg:cargo/run-dsrpc@0.0.18-alpha2
+- pkg:cargo/run-dsrpc@0.0.19-alpha2
 - pkg:cargo/run-dsrpc@0.0.8-alpha2
 - pkg:cargo/run-dsrpc@0.0.9-alpha2
