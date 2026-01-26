@@ -13,3 +13,4 @@
 - pkg:cargo/discord-rich-presence@0.2.4
 - pkg:cargo/discord-rich-presence@0.2.5
 - pkg:cargo/discord-rich-presence@1.0.0
+- pkg:cargo/discord-rich-presence@1.1.0
