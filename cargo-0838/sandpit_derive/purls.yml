@@ -4,3 +4,4 @@
 - pkg:cargo/sandpit_derive@0.4.1
 - pkg:cargo/sandpit_derive@0.5.0
 - pkg:cargo/sandpit_derive@0.5.1
+- pkg:cargo/sandpit_derive@0.5.2
