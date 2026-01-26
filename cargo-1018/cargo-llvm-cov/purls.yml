@@ -112,3 +112,5 @@
 - pkg:cargo/cargo-llvm-cov@0.6.9
 - pkg:cargo/cargo-llvm-cov@0.7.0
 - pkg:cargo/cargo-llvm-cov@0.7.1
+- pkg:cargo/cargo-llvm-cov@0.8.0
+- pkg:cargo/cargo-llvm-cov@0.8.1
