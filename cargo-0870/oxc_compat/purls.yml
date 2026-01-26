@@ -9,6 +9,7 @@
 - pkg:cargo/oxc_compat@0.108.0
 - pkg:cargo/oxc_compat@0.109.0
 - pkg:cargo/oxc_compat@0.110.0
+- pkg:cargo/oxc_compat@0.111.0
 - pkg:cargo/oxc_compat@0.91.0
 - pkg:cargo/oxc_compat@0.92.0
 - pkg:cargo/oxc_compat@0.93.0

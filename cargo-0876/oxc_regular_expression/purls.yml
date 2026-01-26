@@ -9,6 +9,7 @@
 - pkg:cargo/oxc_regular_expression@0.108.0
 - pkg:cargo/oxc_regular_expression@0.109.0
 - pkg:cargo/oxc_regular_expression@0.110.0
+- pkg:cargo/oxc_regular_expression@0.111.0
 - pkg:cargo/oxc_regular_expression@0.25.0
 - pkg:cargo/oxc_regular_expression@0.26.0
 - pkg:cargo/oxc_regular_expression@0.27.0
