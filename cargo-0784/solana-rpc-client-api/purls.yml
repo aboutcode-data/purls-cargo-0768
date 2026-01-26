@@ -177,3 +177,4 @@
 - pkg:cargo/solana-rpc-client-api@3.1.5
 - pkg:cargo/solana-rpc-client-api@3.1.6
 - pkg:cargo/solana-rpc-client-api@3.1.7
+- pkg:cargo/solana-rpc-client-api@3.1.8
