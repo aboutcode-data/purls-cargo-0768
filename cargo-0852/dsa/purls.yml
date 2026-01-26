@@ -17,6 +17,7 @@
 - pkg:cargo/dsa@0.7.0-rc.0
 - pkg:cargo/dsa@0.7.0-rc.1
 - pkg:cargo/dsa@0.7.0-rc.10
+- pkg:cargo/dsa@0.7.0-rc.11
 - pkg:cargo/dsa@0.7.0-rc.2
 - pkg:cargo/dsa@0.7.0-rc.3
 - pkg:cargo/dsa@0.7.0-rc.4
