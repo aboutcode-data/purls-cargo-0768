@@ -3,6 +3,7 @@
 - pkg:cargo/k8s-crds-helm-controller@0.16.13
 - pkg:cargo/k8s-crds-helm-controller@0.16.14
 - pkg:cargo/k8s-crds-helm-controller@0.16.15
+- pkg:cargo/k8s-crds-helm-controller@0.16.18
 - pkg:cargo/k8s-crds-helm-controller@0.2.0
 - pkg:cargo/k8s-crds-helm-controller@0.3.0
 - pkg:cargo/k8s-crds-helm-controller@0.4.0
