@@ -18,6 +18,7 @@
 - pkg:cargo/googleapis-tonic-grafeas-v1@0.3.0
 - pkg:cargo/googleapis-tonic-grafeas-v1@0.30.0
 - pkg:cargo/googleapis-tonic-grafeas-v1@0.31.0
+- pkg:cargo/googleapis-tonic-grafeas-v1@0.32.0
 - pkg:cargo/googleapis-tonic-grafeas-v1@0.5.0
 - pkg:cargo/googleapis-tonic-grafeas-v1@0.6.0
 - pkg:cargo/googleapis-tonic-grafeas-v1@0.7.0
