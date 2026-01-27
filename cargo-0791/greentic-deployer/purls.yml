@@ -2,6 +2,7 @@
 - pkg:cargo/greentic-deployer@0.4.1
 - pkg:cargo/greentic-deployer@0.4.10
 - pkg:cargo/greentic-deployer@0.4.11
+- pkg:cargo/greentic-deployer@0.4.12
 - pkg:cargo/greentic-deployer@0.4.2
 - pkg:cargo/greentic-deployer@0.4.8
 - pkg:cargo/greentic-deployer@0.4.9
