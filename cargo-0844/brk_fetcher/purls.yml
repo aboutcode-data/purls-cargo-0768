@@ -101,6 +101,7 @@
 - pkg:cargo/brk_fetcher@0.0.95
 - pkg:cargo/brk_fetcher@0.0.96
 - pkg:cargo/brk_fetcher@0.0.98
+- pkg:cargo/brk_fetcher@0.1.0
 - pkg:cargo/brk_fetcher@0.1.0-alpha.0
 - pkg:cargo/brk_fetcher@0.1.0-alpha.1
 - pkg:cargo/brk_fetcher@0.1.0-alpha.2
@@ -110,3 +111,4 @@
 - pkg:cargo/brk_fetcher@0.1.0-alpha.6
 - pkg:cargo/brk_fetcher@0.1.0-beta.0
 - pkg:cargo/brk_fetcher@0.1.0-beta.1
+- pkg:cargo/brk_fetcher@0.1.1
