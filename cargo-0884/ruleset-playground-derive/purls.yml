@@ -8,3 +8,4 @@
 - pkg:cargo/ruleset-playground-derive@0.4.4
 - pkg:cargo/ruleset-playground-derive@0.4.5
 - pkg:cargo/ruleset-playground-derive@0.4.6
+- pkg:cargo/ruleset-playground-derive@0.4.7
