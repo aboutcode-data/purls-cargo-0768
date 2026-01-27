@@ -1,3 +1,4 @@
 - pkg:cargo/bevy_mod_scripting_bindings_domain@0.16.1
 - pkg:cargo/bevy_mod_scripting_bindings_domain@0.17.0
 - pkg:cargo/bevy_mod_scripting_bindings_domain@0.18.0
+- pkg:cargo/bevy_mod_scripting_bindings_domain@0.19.0

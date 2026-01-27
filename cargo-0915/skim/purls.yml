@@ -96,3 +96,4 @@
 - pkg:cargo/skim@1.7.2
 - pkg:cargo/skim@1.8.0
 - pkg:cargo/skim@1.8.1
+- pkg:cargo/skim@1.9.0
