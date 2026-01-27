@@ -435,6 +435,7 @@
 - pkg:cargo/swc_css@2.0.0
 - pkg:cargo/swc_css@20.0.0
 - pkg:cargo/swc_css@21.0.0
+- pkg:cargo/swc_css@22.0.0
 - pkg:cargo/swc_css@3.0.0
 - pkg:cargo/swc_css@4.0.0
 - pkg:cargo/swc_css@5.0.0
