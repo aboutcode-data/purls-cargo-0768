@@ -10,3 +10,4 @@
 - pkg:cargo/systemd-hardening-helper@2025.6.5
 - pkg:cargo/systemd-hardening-helper@2025.7.13
 - pkg:cargo/systemd-hardening-helper@2025.9.22
+- pkg:cargo/systemd-hardening-helper@2026.1.27

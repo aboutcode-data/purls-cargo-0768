@@ -2,6 +2,8 @@
 - pkg:cargo/systemprompt-loader@0.0.10
 - pkg:cargo/systemprompt-loader@0.0.11
 - pkg:cargo/systemprompt-loader@0.0.12
+- pkg:cargo/systemprompt-loader@0.0.13
+- pkg:cargo/systemprompt-loader@0.0.14
 - pkg:cargo/systemprompt-loader@0.0.2
 - pkg:cargo/systemprompt-loader@0.0.3
 - pkg:cargo/systemprompt-loader@0.0.4
