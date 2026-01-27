@@ -44,6 +44,7 @@
 - pkg:cargo/elasticsearch-dsl@0.4.23
 - pkg:cargo/elasticsearch-dsl@0.4.24
 - pkg:cargo/elasticsearch-dsl@0.4.25
+- pkg:cargo/elasticsearch-dsl@0.4.26
 - pkg:cargo/elasticsearch-dsl@0.4.3
 - pkg:cargo/elasticsearch-dsl@0.4.4
 - pkg:cargo/elasticsearch-dsl@0.4.5
