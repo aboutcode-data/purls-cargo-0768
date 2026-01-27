@@ -6,3 +6,5 @@
 - pkg:cargo/sentinel-crypto@1.1.0
 - pkg:cargo/sentinel-crypto@1.2.0
 - pkg:cargo/sentinel-crypto@2.0.1
+- pkg:cargo/sentinel-crypto@2.1.0
+- pkg:cargo/sentinel-crypto@2.1.1
