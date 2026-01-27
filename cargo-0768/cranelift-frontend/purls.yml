@@ -67,6 +67,7 @@
 - pkg:cargo/cranelift-frontend@0.123.2
 - pkg:cargo/cranelift-frontend@0.123.3
 - pkg:cargo/cranelift-frontend@0.123.4
+- pkg:cargo/cranelift-frontend@0.123.5
 - pkg:cargo/cranelift-frontend@0.124.0
 - pkg:cargo/cranelift-frontend@0.124.1
 - pkg:cargo/cranelift-frontend@0.124.2
@@ -82,7 +83,9 @@
 - pkg:cargo/cranelift-frontend@0.127.0
 - pkg:cargo/cranelift-frontend@0.127.1
 - pkg:cargo/cranelift-frontend@0.127.2
+- pkg:cargo/cranelift-frontend@0.127.3
 - pkg:cargo/cranelift-frontend@0.128.0
+- pkg:cargo/cranelift-frontend@0.128.1
 - pkg:cargo/cranelift-frontend@0.14.0
 - pkg:cargo/cranelift-frontend@0.15.0
 - pkg:cargo/cranelift-frontend@0.16.0
