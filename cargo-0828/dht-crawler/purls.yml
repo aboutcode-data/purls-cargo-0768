@@ -3,3 +3,4 @@
 - pkg:cargo/dht-crawler@0.0.3
 - pkg:cargo/dht-crawler@0.0.5
 - pkg:cargo/dht-crawler@0.0.6
+- pkg:cargo/dht-crawler@0.1.1
