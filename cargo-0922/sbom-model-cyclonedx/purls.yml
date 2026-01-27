@@ -1,3 +1,4 @@
 - pkg:cargo/sbom-model-cyclonedx@0.0.1
 - pkg:cargo/sbom-model-cyclonedx@0.0.2
 - pkg:cargo/sbom-model-cyclonedx@0.0.3
+- pkg:cargo/sbom-model-cyclonedx@0.0.4
