@@ -35,3 +35,6 @@
 - pkg:cargo/grits-core@2.8.0
 - pkg:cargo/grits-core@2.8.1
 - pkg:cargo/grits-core@2.9.0
+- pkg:cargo/grits-core@3.0.0
+- pkg:cargo/grits-core@3.1.0
+- pkg:cargo/grits-core@3.2.0
