@@ -3,3 +3,4 @@
 - pkg:cargo/kellnr-registry@5.11.0
 - pkg:cargo/kellnr-registry@5.13.0
 - pkg:cargo/kellnr-registry@5.14.0
+- pkg:cargo/kellnr-registry@5.14.1

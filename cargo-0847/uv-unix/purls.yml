@@ -1,1 +1,2 @@
 - pkg:cargo/uv-unix@0.0.15
+- pkg:cargo/uv-unix@0.0.16
