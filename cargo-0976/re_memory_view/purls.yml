@@ -1,3 +1,4 @@
 - pkg:cargo/re_memory_view@0.29.0-alpha.5
 - pkg:cargo/re_memory_view@0.29.0-alpha.6
 - pkg:cargo/re_memory_view@0.29.0-alpha.7
+- pkg:cargo/re_memory_view@0.29.0-rc.1
