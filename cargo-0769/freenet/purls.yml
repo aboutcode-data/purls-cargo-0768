@@ -10,6 +10,7 @@
 - pkg:cargo/freenet@0.1.104
 - pkg:cargo/freenet@0.1.105
 - pkg:cargo/freenet@0.1.106
+- pkg:cargo/freenet@0.1.107
 - pkg:cargo/freenet@0.1.12
 - pkg:cargo/freenet@0.1.13
 - pkg:cargo/freenet@0.1.14
