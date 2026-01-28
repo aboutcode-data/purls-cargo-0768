@@ -29,6 +29,7 @@
 - pkg:cargo/image_charts@6.1.38
 - pkg:cargo/image_charts@6.1.39
 - pkg:cargo/image_charts@6.1.4
+- pkg:cargo/image_charts@6.1.40
 - pkg:cargo/image_charts@6.1.5
 - pkg:cargo/image_charts@6.1.6
 - pkg:cargo/image_charts@6.1.7
