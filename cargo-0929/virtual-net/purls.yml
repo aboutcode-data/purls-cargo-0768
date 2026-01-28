@@ -24,6 +24,7 @@
 - pkg:cargo/virtual-net@0.601.0-rc.3
 - pkg:cargo/virtual-net@0.601.0-rc.5
 - pkg:cargo/virtual-net@0.7.0
+- pkg:cargo/virtual-net@0.700.0
 - pkg:cargo/virtual-net@0.700.0-alpha.2
 - pkg:cargo/virtual-net@0.700.0-rc.1
 - pkg:cargo/virtual-net@0.700.0-rc.2
