@@ -6,3 +6,4 @@
 - pkg:cargo/mcp-log-agent@0.1.1
 - pkg:cargo/mcp-log-agent@1.0.0
 - pkg:cargo/mcp-log-agent@1.1.0
+- pkg:cargo/mcp-log-agent@1.1.1
