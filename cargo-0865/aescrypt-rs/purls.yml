@@ -6,3 +6,4 @@
 - pkg:cargo/aescrypt-rs@0.1.5
 - pkg:cargo/aescrypt-rs@0.1.6
 - pkg:cargo/aescrypt-rs@0.2.0-rc.1
+- pkg:cargo/aescrypt-rs@0.2.0-rc.3

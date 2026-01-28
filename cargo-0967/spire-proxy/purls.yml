@@ -1,3 +1,4 @@
 - pkg:cargo/spire-proxy@0.0.25
 - pkg:cargo/spire-proxy@0.0.26
 - pkg:cargo/spire-proxy@0.0.27
+- pkg:cargo/spire-proxy@0.0.28
