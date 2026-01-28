@@ -19,5 +19,6 @@
 - pkg:cargo/polkavm-derive-impl-macro@0.28.0
 - pkg:cargo/polkavm-derive-impl-macro@0.29.0
 - pkg:cargo/polkavm-derive-impl-macro@0.30.0
+- pkg:cargo/polkavm-derive-impl-macro@0.31.0
 - pkg:cargo/polkavm-derive-impl-macro@0.8.0
 - pkg:cargo/polkavm-derive-impl-macro@0.9.0
