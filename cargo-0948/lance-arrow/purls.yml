@@ -112,3 +112,4 @@
 - pkg:cargo/lance-arrow@0.9.9
 - pkg:cargo/lance-arrow@1.0.0
 - pkg:cargo/lance-arrow@1.0.1
+- pkg:cargo/lance-arrow@1.0.2
