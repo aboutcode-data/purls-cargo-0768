@@ -1,5 +1,6 @@
 - pkg:cargo/yashiki-layout-tatami@0.1.0
 - pkg:cargo/yashiki-layout-tatami@0.1.1
+- pkg:cargo/yashiki-layout-tatami@0.10.0
 - pkg:cargo/yashiki-layout-tatami@0.2.0
 - pkg:cargo/yashiki-layout-tatami@0.3.0
 - pkg:cargo/yashiki-layout-tatami@0.4.0
@@ -29,3 +30,4 @@
 - pkg:cargo/yashiki-layout-tatami@0.9.4
 - pkg:cargo/yashiki-layout-tatami@0.9.5
 - pkg:cargo/yashiki-layout-tatami@0.9.6
+- pkg:cargo/yashiki-layout-tatami@0.9.7

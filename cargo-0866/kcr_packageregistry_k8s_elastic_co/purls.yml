@@ -1,2 +1,3 @@
 - pkg:cargo/kcr_packageregistry_k8s_elastic_co@2.20251231.31607
 - pkg:cargo/kcr_packageregistry_k8s_elastic_co@3.20260114.32535
+- pkg:cargo/kcr_packageregistry_k8s_elastic_co@3.20260128.32407
