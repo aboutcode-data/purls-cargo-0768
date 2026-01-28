@@ -1,2 +1,3 @@
+- pkg:cargo/mistralrs-cli@0.7.0
 - pkg:cargo/mistralrs-cli@0.7.0-alpha.3
 - pkg:cargo/mistralrs-cli@0.7.0-alpha.4
