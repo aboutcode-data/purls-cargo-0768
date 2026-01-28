@@ -8,6 +8,7 @@
 - pkg:cargo/vpxtool@0.24.1
 - pkg:cargo/vpxtool@0.24.10
 - pkg:cargo/vpxtool@0.24.11
+- pkg:cargo/vpxtool@0.24.12
 - pkg:cargo/vpxtool@0.24.2
 - pkg:cargo/vpxtool@0.24.3
 - pkg:cargo/vpxtool@0.24.4

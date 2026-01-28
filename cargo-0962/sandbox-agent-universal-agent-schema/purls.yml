@@ -1,3 +1,4 @@
+- pkg:cargo/sandbox-agent-universal-agent-schema@0.1.0-rc.1
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.0-test.2
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.0-test.3
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.0-test.4
