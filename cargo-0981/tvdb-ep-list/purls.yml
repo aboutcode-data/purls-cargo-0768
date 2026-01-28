@@ -19,6 +19,7 @@
 - pkg:cargo/tvdb-ep-list@0.4.26
 - pkg:cargo/tvdb-ep-list@0.4.27
 - pkg:cargo/tvdb-ep-list@0.4.28
+- pkg:cargo/tvdb-ep-list@0.4.29
 - pkg:cargo/tvdb-ep-list@0.4.3
 - pkg:cargo/tvdb-ep-list@0.4.4
 - pkg:cargo/tvdb-ep-list@0.4.5
