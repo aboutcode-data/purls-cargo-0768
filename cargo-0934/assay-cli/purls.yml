@@ -13,3 +13,4 @@
 - pkg:cargo/assay-cli@2.6.0
 - pkg:cargo/assay-cli@2.7.0
 - pkg:cargo/assay-cli@2.8.0
+- pkg:cargo/assay-cli@2.9.0
