@@ -3,3 +3,5 @@
 - pkg:cargo/service-federation@1.1.0
 - pkg:cargo/service-federation@1.1.1
 - pkg:cargo/service-federation@1.1.2
+- pkg:cargo/service-federation@1.2.0
+- pkg:cargo/service-federation@1.2.1
