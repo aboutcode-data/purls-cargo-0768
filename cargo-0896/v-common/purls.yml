@@ -102,6 +102,8 @@
 - pkg:cargo/v-common@0.18.0
 - pkg:cargo/v-common@0.18.0-az-heed
 - pkg:cargo/v-common@0.18.1-az-storage-heed
+- pkg:cargo/v-common@0.19.0
+- pkg:cargo/v-common@0.19.1
 - pkg:cargo/v-common@0.2.1
 - pkg:cargo/v-common@0.2.10
 - pkg:cargo/v-common@0.2.11
