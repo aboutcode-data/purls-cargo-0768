@@ -13,3 +13,5 @@
 - pkg:cargo/miden-remote-prover-client@0.12.7
 - pkg:cargo/miden-remote-prover-client@0.12.8
 - pkg:cargo/miden-remote-prover-client@0.13.0
+- pkg:cargo/miden-remote-prover-client@0.13.1
+- pkg:cargo/miden-remote-prover-client@0.13.2
