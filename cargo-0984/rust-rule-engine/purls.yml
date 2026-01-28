@@ -63,6 +63,7 @@
 - pkg:cargo/rust-rule-engine@1.18.0-alpha
 - pkg:cargo/rust-rule-engine@1.18.1
 - pkg:cargo/rust-rule-engine@1.18.26
+- pkg:cargo/rust-rule-engine@1.18.27
 - pkg:cargo/rust-rule-engine@1.2.0
 - pkg:cargo/rust-rule-engine@1.3.0
 - pkg:cargo/rust-rule-engine@1.4.0
