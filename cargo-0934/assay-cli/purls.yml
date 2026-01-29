@@ -6,6 +6,8 @@
 - pkg:cargo/assay-cli@1.5.1
 - pkg:cargo/assay-cli@1.6.0
 - pkg:cargo/assay-cli@1.7.0
+- pkg:cargo/assay-cli@2.10.0
+- pkg:cargo/assay-cli@2.10.1
 - pkg:cargo/assay-cli@2.2.2
 - pkg:cargo/assay-cli@2.3.1
 - pkg:cargo/assay-cli@2.4.0
