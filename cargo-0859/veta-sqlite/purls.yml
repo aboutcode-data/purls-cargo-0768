@@ -1,3 +1,7 @@
 - pkg:cargo/veta-sqlite@0.2.1
 - pkg:cargo/veta-sqlite@0.2.2
 - pkg:cargo/veta-sqlite@0.2.3
+- pkg:cargo/veta-sqlite@0.2.5
+- pkg:cargo/veta-sqlite@0.3.0
+- pkg:cargo/veta-sqlite@0.3.1
+- pkg:cargo/veta-sqlite@0.3.2
