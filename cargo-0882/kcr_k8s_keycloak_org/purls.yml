@@ -17,3 +17,4 @@
 - pkg:cargo/kcr_k8s_keycloak_org@2.20251113.174748
 - pkg:cargo/kcr_k8s_keycloak_org@2.20251127.174444
 - pkg:cargo/kcr_k8s_keycloak_org@3.20260115.180004
+- pkg:cargo/kcr_k8s_keycloak_org@3.20260129.180452
