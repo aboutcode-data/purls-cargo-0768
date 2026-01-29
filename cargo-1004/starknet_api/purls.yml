@@ -35,6 +35,7 @@
 - pkg:cargo/starknet_api@0.16.0-rc.1
 - pkg:cargo/starknet_api@0.16.0-rc.2
 - pkg:cargo/starknet_api@0.16.0-rc.3
+- pkg:cargo/starknet_api@0.18.0-dev.0
 - pkg:cargo/starknet_api@0.2.0
 - pkg:cargo/starknet_api@0.3.0
 - pkg:cargo/starknet_api@0.4.0
