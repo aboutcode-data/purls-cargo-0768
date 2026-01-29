@@ -1,3 +1,4 @@
 - pkg:cargo/mithril-cardano-node-internal-database@0.1.0
+- pkg:cargo/mithril-cardano-node-internal-database@0.1.10
 - pkg:cargo/mithril-cardano-node-internal-database@0.1.6
 - pkg:cargo/mithril-cardano-node-internal-database@0.1.7
