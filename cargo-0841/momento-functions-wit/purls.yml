@@ -6,6 +6,7 @@
 - pkg:cargo/momento-functions-wit@0.1.7
 - pkg:cargo/momento-functions-wit@0.1.8
 - pkg:cargo/momento-functions-wit@0.10.0
+- pkg:cargo/momento-functions-wit@0.11.0
 - pkg:cargo/momento-functions-wit@0.2.0
 - pkg:cargo/momento-functions-wit@0.2.1
 - pkg:cargo/momento-functions-wit@0.3.0
