@@ -3,3 +3,5 @@
 - pkg:cargo/aphelion-macros@1.2.2
 - pkg:cargo/aphelion-macros@1.2.5
 - pkg:cargo/aphelion-macros@1.2.6
+- pkg:cargo/aphelion-macros@1.2.8
+- pkg:cargo/aphelion-macros@1.2.9
