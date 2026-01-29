@@ -11,3 +11,5 @@
 - pkg:cargo/snowflakedb-rs@1.1.2
 - pkg:cargo/snowflakedb-rs@1.1.3
 - pkg:cargo/snowflakedb-rs@1.1.4
+- pkg:cargo/snowflakedb-rs@1.1.5
+- pkg:cargo/snowflakedb-rs@1.1.6

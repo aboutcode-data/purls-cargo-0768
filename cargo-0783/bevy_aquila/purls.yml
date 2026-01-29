@@ -6,3 +6,7 @@
 - pkg:cargo/bevy_aquila@0.5.0
 - pkg:cargo/bevy_aquila@0.6.0
 - pkg:cargo/bevy_aquila@0.6.4
+- pkg:cargo/bevy_aquila@0.7.0-rc.1
+- pkg:cargo/bevy_aquila@0.7.0-rc.4
+- pkg:cargo/bevy_aquila@0.7.0-rc.5
+- pkg:cargo/bevy_aquila@0.7.0-rc.6
