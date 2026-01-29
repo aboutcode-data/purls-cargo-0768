@@ -36,3 +36,5 @@
 - pkg:cargo/get-cve@1.5.1
 - pkg:cargo/get-cve@1.5.2
 - pkg:cargo/get-cve@1.5.3
+- pkg:cargo/get-cve@1.5.4
+- pkg:cargo/get-cve@1.5.5
