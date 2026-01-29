@@ -22,3 +22,4 @@
 - pkg:cargo/oca-dag@0.4.5
 - pkg:cargo/oca-dag@2.0.0-rc.2
 - pkg:cargo/oca-dag@2.0.0-rc.5
+- pkg:cargo/oca-dag@2.0.0-rc.6

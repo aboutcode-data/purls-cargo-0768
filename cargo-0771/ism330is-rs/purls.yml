@@ -1,1 +1,2 @@
 - pkg:cargo/ism330is-rs@1.0.0
+- pkg:cargo/ism330is-rs@2.0.0
