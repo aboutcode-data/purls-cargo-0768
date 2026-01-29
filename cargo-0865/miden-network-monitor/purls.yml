@@ -10,3 +10,4 @@
 - pkg:cargo/miden-network-monitor@0.13.0
 - pkg:cargo/miden-network-monitor@0.13.1
 - pkg:cargo/miden-network-monitor@0.13.2
+- pkg:cargo/miden-network-monitor@0.13.3
