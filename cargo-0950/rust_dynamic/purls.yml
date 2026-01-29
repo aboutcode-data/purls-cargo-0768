@@ -40,6 +40,7 @@
 - pkg:cargo/rust_dynamic@0.46.0
 - pkg:cargo/rust_dynamic@0.47.0
 - pkg:cargo/rust_dynamic@0.48.0
+- pkg:cargo/rust_dynamic@0.49.0
 - pkg:cargo/rust_dynamic@0.5.0
 - pkg:cargo/rust_dynamic@0.6.0
 - pkg:cargo/rust_dynamic@0.7.0
