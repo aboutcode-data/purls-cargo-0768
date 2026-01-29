@@ -4,3 +4,4 @@
 - pkg:cargo/brk_rolldown_devtools_action@0.6.0
 - pkg:cargo/brk_rolldown_devtools_action@0.7.0
 - pkg:cargo/brk_rolldown_devtools_action@0.8.0
+- pkg:cargo/brk_rolldown_devtools_action@1.0.0-rc.2
