@@ -4,3 +4,4 @@
 - pkg:cargo/jetstream_error@12.0.0
 - pkg:cargo/jetstream_error@12.1.0
 - pkg:cargo/jetstream_error@13.0.0
+- pkg:cargo/jetstream_error@14.0.0
