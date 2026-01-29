@@ -31,6 +31,7 @@
 - pkg:cargo/apollo-federation-types@0.16.0-preview.6
 - pkg:cargo/apollo-federation-types@0.16.0-preview.7
 - pkg:cargo/apollo-federation-types@0.16.1
+- pkg:cargo/apollo-federation-types@0.17.0
 - pkg:cargo/apollo-federation-types@0.17.0-abstract.1
 - pkg:cargo/apollo-federation-types@0.17.0-native.0
 - pkg:cargo/apollo-federation-types@0.2.0

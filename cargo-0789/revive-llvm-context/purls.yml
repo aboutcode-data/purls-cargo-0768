@@ -5,3 +5,4 @@
 - pkg:cargo/revive-llvm-context@0.4.1
 - pkg:cargo/revive-llvm-context@0.5.0
 - pkg:cargo/revive-llvm-context@0.6.0
+- pkg:cargo/revive-llvm-context@1.0.0
