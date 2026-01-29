@@ -1,5 +1,6 @@
 - pkg:cargo/simple-agents-providers@0.1.10
 - pkg:cargo/simple-agents-providers@0.1.11
+- pkg:cargo/simple-agents-providers@0.1.14
 - pkg:cargo/simple-agents-providers@0.1.5
 - pkg:cargo/simple-agents-providers@0.1.6
 - pkg:cargo/simple-agents-providers@0.1.7
