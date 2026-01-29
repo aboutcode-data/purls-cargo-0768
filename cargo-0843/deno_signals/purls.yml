@@ -10,6 +10,7 @@
 - pkg:cargo/deno_signals@0.18.0
 - pkg:cargo/deno_signals@0.19.0
 - pkg:cargo/deno_signals@0.2.0
+- pkg:cargo/deno_signals@0.20.0
 - pkg:cargo/deno_signals@0.3.0
 - pkg:cargo/deno_signals@0.4.0
 - pkg:cargo/deno_signals@0.5.0
