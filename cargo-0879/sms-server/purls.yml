@@ -3,3 +3,4 @@
 - pkg:cargo/sms-server@2.4.1
 - pkg:cargo/sms-server@3.1.0
 - pkg:cargo/sms-server@3.2.0
+- pkg:cargo/sms-server@3.4.7
