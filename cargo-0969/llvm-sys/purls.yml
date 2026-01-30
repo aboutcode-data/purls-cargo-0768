@@ -95,6 +95,7 @@
 - pkg:cargo/llvm-sys@201.0.1
 - pkg:cargo/llvm-sys@211.0.0
 - pkg:cargo/llvm-sys@211.0.0-rc1
+- pkg:cargo/llvm-sys@221.0.0-rc1
 - pkg:cargo/llvm-sys@36.0.0
 - pkg:cargo/llvm-sys@36.0.1
 - pkg:cargo/llvm-sys@36.0.2
