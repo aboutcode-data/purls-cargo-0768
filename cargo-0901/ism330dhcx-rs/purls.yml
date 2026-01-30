@@ -1,1 +1,2 @@
 - pkg:cargo/ism330dhcx-rs@1.0.0
+- pkg:cargo/ism330dhcx-rs@2.0.0
