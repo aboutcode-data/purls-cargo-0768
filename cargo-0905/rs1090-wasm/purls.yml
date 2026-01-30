@@ -12,3 +12,4 @@
 - pkg:cargo/rs1090-wasm@0.4.7
 - pkg:cargo/rs1090-wasm@0.4.8
 - pkg:cargo/rs1090-wasm@0.5.0
+- pkg:cargo/rs1090-wasm@0.5.1
