@@ -30,6 +30,7 @@
 - pkg:cargo/thru-base@0.1.35
 - pkg:cargo/thru-base@0.1.36
 - pkg:cargo/thru-base@0.1.37
+- pkg:cargo/thru-base@0.1.38
 - pkg:cargo/thru-base@0.1.4
 - pkg:cargo/thru-base@0.1.5
 - pkg:cargo/thru-base@0.1.7
