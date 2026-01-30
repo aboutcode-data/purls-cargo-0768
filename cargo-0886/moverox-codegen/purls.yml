@@ -1,5 +1,6 @@
 - pkg:cargo/moverox-codegen@0.0.0
 - pkg:cargo/moverox-codegen@0.0.1
+- pkg:cargo/moverox-codegen@0.0.10
 - pkg:cargo/moverox-codegen@0.0.2
 - pkg:cargo/moverox-codegen@0.0.3
 - pkg:cargo/moverox-codegen@0.0.4
