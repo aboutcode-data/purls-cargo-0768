@@ -16,3 +16,4 @@
 - pkg:cargo/gpt5_reasoner@0.5.0
 - pkg:cargo/gpt5_reasoner@0.5.1
 - pkg:cargo/gpt5_reasoner@0.5.2
+- pkg:cargo/gpt5_reasoner@0.6.0
