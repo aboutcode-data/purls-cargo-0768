@@ -2,3 +2,4 @@
 - pkg:cargo/ser_nix@0.1.1
 - pkg:cargo/ser_nix@0.1.2
 - pkg:cargo/ser_nix@0.2.0
+- pkg:cargo/ser_nix@0.2.1

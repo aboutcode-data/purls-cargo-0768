@@ -104,6 +104,7 @@
 - pkg:cargo/re_protos_builder@0.28.2
 - pkg:cargo/re_protos_builder@0.28.2-rc.1
 - pkg:cargo/re_protos_builder@0.28.2-rc.2
+- pkg:cargo/re_protos_builder@0.29.0
 - pkg:cargo/re_protos_builder@0.29.0-alpha.1
 - pkg:cargo/re_protos_builder@0.29.0-alpha.2
 - pkg:cargo/re_protos_builder@0.29.0-alpha.3
