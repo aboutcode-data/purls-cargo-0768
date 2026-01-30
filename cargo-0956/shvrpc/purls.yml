@@ -6,3 +6,4 @@
 - pkg:cargo/shvrpc@7.1.9
 - pkg:cargo/shvrpc@7.2.0
 - pkg:cargo/shvrpc@8.0.0
+- pkg:cargo/shvrpc@9.0.0
