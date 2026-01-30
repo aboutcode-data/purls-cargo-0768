@@ -78,6 +78,7 @@
 - pkg:cargo/proto_pdk@0.32.3
 - pkg:cargo/proto_pdk@0.32.4
 - pkg:cargo/proto_pdk@0.32.5
+- pkg:cargo/proto_pdk@0.32.6
 - pkg:cargo/proto_pdk@0.4.0
 - pkg:cargo/proto_pdk@0.4.1
 - pkg:cargo/proto_pdk@0.4.2
