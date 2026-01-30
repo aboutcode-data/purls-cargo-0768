@@ -4,6 +4,9 @@
 - pkg:cargo/mkutils-macros@0.1.11
 - pkg:cargo/mkutils-macros@0.1.12
 - pkg:cargo/mkutils-macros@0.1.13
+- pkg:cargo/mkutils-macros@0.1.14
+- pkg:cargo/mkutils-macros@0.1.15
+- pkg:cargo/mkutils-macros@0.1.16
 - pkg:cargo/mkutils-macros@0.1.7
 - pkg:cargo/mkutils-macros@0.1.8
 - pkg:cargo/mkutils-macros@0.1.9
