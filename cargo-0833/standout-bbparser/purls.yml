@@ -2,3 +2,6 @@
 - pkg:cargo/standout-bbparser@1.1.0
 - pkg:cargo/standout-bbparser@2.0.0
 - pkg:cargo/standout-bbparser@2.1.0
+- pkg:cargo/standout-bbparser@3.0.0
+- pkg:cargo/standout-bbparser@3.1.0
+- pkg:cargo/standout-bbparser@3.2.0
