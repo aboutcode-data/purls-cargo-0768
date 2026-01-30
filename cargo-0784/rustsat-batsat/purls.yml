@@ -9,3 +9,4 @@
 - pkg:cargo/rustsat-batsat@0.7.2
 - pkg:cargo/rustsat-batsat@0.7.3
 - pkg:cargo/rustsat-batsat@0.7.4
+- pkg:cargo/rustsat-batsat@0.7.5

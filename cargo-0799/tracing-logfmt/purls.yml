@@ -9,3 +9,4 @@
 - pkg:cargo/tracing-logfmt@0.3.4
 - pkg:cargo/tracing-logfmt@0.3.5
 - pkg:cargo/tracing-logfmt@0.3.6
+- pkg:cargo/tracing-logfmt@0.3.7
