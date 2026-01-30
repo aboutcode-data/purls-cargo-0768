@@ -15,3 +15,4 @@
 - pkg:cargo/cosmol_viewer_core@0.2.0
 - pkg:cargo/cosmol_viewer_core@0.2.0-nightly.2
 - pkg:cargo/cosmol_viewer_core@0.2.0-nightly.5
+- pkg:cargo/cosmol_viewer_core@0.2.1
