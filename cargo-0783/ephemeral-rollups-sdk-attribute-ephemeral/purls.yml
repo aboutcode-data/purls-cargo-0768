@@ -37,3 +37,4 @@
 - pkg:cargo/ephemeral-rollups-sdk-attribute-ephemeral@0.8.2
 - pkg:cargo/ephemeral-rollups-sdk-attribute-ephemeral@0.8.3
 - pkg:cargo/ephemeral-rollups-sdk-attribute-ephemeral@0.8.4
+- pkg:cargo/ephemeral-rollups-sdk-attribute-ephemeral@0.8.5

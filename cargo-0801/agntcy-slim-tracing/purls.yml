@@ -6,3 +6,4 @@
 - pkg:cargo/agntcy-slim-tracing@0.2.6
 - pkg:cargo/agntcy-slim-tracing@0.2.7
 - pkg:cargo/agntcy-slim-tracing@0.3.0
+- pkg:cargo/agntcy-slim-tracing@0.3.1
