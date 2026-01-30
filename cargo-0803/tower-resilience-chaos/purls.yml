@@ -7,3 +7,4 @@
 - pkg:cargo/tower-resilience-chaos@0.5.1
 - pkg:cargo/tower-resilience-chaos@0.5.2
 - pkg:cargo/tower-resilience-chaos@0.6.0
+- pkg:cargo/tower-resilience-chaos@0.7.0
