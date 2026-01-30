@@ -6,6 +6,7 @@
 - pkg:cargo/uv-bin-install@0.0.14
 - pkg:cargo/uv-bin-install@0.0.15
 - pkg:cargo/uv-bin-install@0.0.16
+- pkg:cargo/uv-bin-install@0.0.17
 - pkg:cargo/uv-bin-install@0.0.2
 - pkg:cargo/uv-bin-install@0.0.3
 - pkg:cargo/uv-bin-install@0.0.4
