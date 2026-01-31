@@ -1,4 +1,5 @@
 - pkg:cargo/hyperlane_init@0.1.0
+- pkg:cargo/hyperlane_init@10.0.0
 - pkg:cargo/hyperlane_init@9.2.10
 - pkg:cargo/hyperlane_init@9.2.11
 - pkg:cargo/hyperlane_init@9.2.13
