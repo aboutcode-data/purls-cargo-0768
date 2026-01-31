@@ -19,6 +19,7 @@
 - pkg:cargo/fileview@0.9.1
 - pkg:cargo/fileview@1.0.0
 - pkg:cargo/fileview@1.0.1
+- pkg:cargo/fileview@1.10.0
 - pkg:cargo/fileview@1.2.0
 - pkg:cargo/fileview@1.2.1
 - pkg:cargo/fileview@1.2.2
@@ -33,3 +34,6 @@
 - pkg:cargo/fileview@1.7.1
 - pkg:cargo/fileview@1.7.2
 - pkg:cargo/fileview@1.8.0
+- pkg:cargo/fileview@1.8.1
+- pkg:cargo/fileview@1.9.0
+- pkg:cargo/fileview@1.9.1
