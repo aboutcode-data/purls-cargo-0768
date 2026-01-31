@@ -114,3 +114,5 @@
 - pkg:cargo/ronky@1.1.7
 - pkg:cargo/ronky@1.1.8
 - pkg:cargo/ronky@1.1.9
+- pkg:cargo/ronky@1.2.0
+- pkg:cargo/ronky@1.2.0-dev.db5bbc7
