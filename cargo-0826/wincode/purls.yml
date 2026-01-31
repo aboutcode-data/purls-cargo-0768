@@ -8,3 +8,5 @@
 - pkg:cargo/wincode@0.2.3
 - pkg:cargo/wincode@0.2.4
 - pkg:cargo/wincode@0.2.5
+- pkg:cargo/wincode@0.3.0
+- pkg:cargo/wincode@0.3.1
