@@ -2,4 +2,7 @@
 - pkg:cargo/giallo-kak@0.2.3
 - pkg:cargo/giallo-kak@0.2.3-prerelease.482dbe3
 - pkg:cargo/giallo-kak@0.2.4
+- pkg:cargo/giallo-kak@0.2.4-prerelease.6963f7e
 - pkg:cargo/giallo-kak@0.2.4-prerelease.f2406da
+- pkg:cargo/giallo-kak@0.2.5
+- pkg:cargo/giallo-kak@0.2.5-prerelease.7a75742
