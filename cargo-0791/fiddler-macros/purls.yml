@@ -4,3 +4,4 @@
 - pkg:cargo/fiddler-macros@0.3.0
 - pkg:cargo/fiddler-macros@0.3.1
 - pkg:cargo/fiddler-macros@1.0.0
+- pkg:cargo/fiddler-macros@1.1.0
