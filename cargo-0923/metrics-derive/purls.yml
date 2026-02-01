@@ -1,1 +1,2 @@
 - pkg:cargo/metrics-derive@0.1.0
+- pkg:cargo/metrics-derive@0.1.1
