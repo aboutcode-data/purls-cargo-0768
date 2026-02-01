@@ -9,3 +9,4 @@
 - pkg:cargo/lindera-python@1.4.1
 - pkg:cargo/lindera-python@2.0.0
 - pkg:cargo/lindera-python@2.1.0
+- pkg:cargo/lindera-python@2.1.1
