@@ -11,3 +11,4 @@
 - pkg:cargo/kanban-tui@0.1.5
 - pkg:cargo/kanban-tui@0.1.6
 - pkg:cargo/kanban-tui@0.1.9
+- pkg:cargo/kanban-tui@0.2.0
