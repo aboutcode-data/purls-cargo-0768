@@ -14,3 +14,4 @@
 - pkg:cargo/squawk-linter@2.36.0
 - pkg:cargo/squawk-linter@2.37.0
 - pkg:cargo/squawk-linter@2.38.0
+- pkg:cargo/squawk-linter@2.39.0
