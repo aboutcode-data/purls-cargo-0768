@@ -1,1 +1,4 @@
 - pkg:cargo/podpull@1.0.0
+- pkg:cargo/podpull@1.1.0
+- pkg:cargo/podpull@1.1.1
+- pkg:cargo/podpull@1.1.2
