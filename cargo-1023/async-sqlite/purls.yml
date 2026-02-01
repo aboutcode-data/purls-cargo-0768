@@ -11,3 +11,5 @@
 - pkg:cargo/async-sqlite@0.5.2
 - pkg:cargo/async-sqlite@0.5.3
 - pkg:cargo/async-sqlite@0.5.4
+- pkg:cargo/async-sqlite@0.5.5
+- pkg:cargo/async-sqlite@0.5.6
