@@ -29,6 +29,7 @@
 - pkg:cargo/bootloader@0.11.12
 - pkg:cargo/bootloader@0.11.13
 - pkg:cargo/bootloader@0.11.14
+- pkg:cargo/bootloader@0.11.15
 - pkg:cargo/bootloader@0.11.2
 - pkg:cargo/bootloader@0.11.3
 - pkg:cargo/bootloader@0.11.4
@@ -115,6 +116,7 @@
 - pkg:cargo/bootloader@0.9.31
 - pkg:cargo/bootloader@0.9.32
 - pkg:cargo/bootloader@0.9.33
+- pkg:cargo/bootloader@0.9.34
 - pkg:cargo/bootloader@0.9.4
 - pkg:cargo/bootloader@0.9.5
 - pkg:cargo/bootloader@0.9.6

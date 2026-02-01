@@ -7,3 +7,4 @@
 - pkg:cargo/saa-proto-core@0.26.10
 - pkg:cargo/saa-proto-core@0.27.0
 - pkg:cargo/saa-proto-core@0.27.1
+- pkg:cargo/saa-proto-core@0.27.2

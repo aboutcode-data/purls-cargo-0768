@@ -4,3 +4,4 @@
 - pkg:cargo/zarrs_chunk_grid@0.3.0
 - pkg:cargo/zarrs_chunk_grid@0.4.0
 - pkg:cargo/zarrs_chunk_grid@0.4.1
+- pkg:cargo/zarrs_chunk_grid@0.5.0

@@ -10,6 +10,7 @@
 - pkg:cargo/canic-dsl-macros@0.9.12
 - pkg:cargo/canic-dsl-macros@0.9.13
 - pkg:cargo/canic-dsl-macros@0.9.14
+- pkg:cargo/canic-dsl-macros@0.9.15
 - pkg:cargo/canic-dsl-macros@0.9.2
 - pkg:cargo/canic-dsl-macros@0.9.3
 - pkg:cargo/canic-dsl-macros@0.9.4

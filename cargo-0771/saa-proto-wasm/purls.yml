@@ -7,3 +7,4 @@
 - pkg:cargo/saa-proto-wasm@0.26.12
 - pkg:cargo/saa-proto-wasm@0.27.0
 - pkg:cargo/saa-proto-wasm@0.27.1
+- pkg:cargo/saa-proto-wasm@0.27.2

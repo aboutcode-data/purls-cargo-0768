@@ -60,6 +60,7 @@
 - pkg:cargo/zarrs@0.22.7
 - pkg:cargo/zarrs@0.22.8
 - pkg:cargo/zarrs@0.22.9
+- pkg:cargo/zarrs@0.23.0
 - pkg:cargo/zarrs@0.23.0-beta.0
 - pkg:cargo/zarrs@0.23.0-beta.1
 - pkg:cargo/zarrs@0.23.0-beta.2
