@@ -190,3 +190,7 @@
 - pkg:cargo/vtcode-bash-runner@0.74.0
 - pkg:cargo/vtcode-bash-runner@0.74.1
 - pkg:cargo/vtcode-bash-runner@0.74.2
+- pkg:cargo/vtcode-bash-runner@0.74.4
+- pkg:cargo/vtcode-bash-runner@0.74.5
+- pkg:cargo/vtcode-bash-runner@0.74.6
+- pkg:cargo/vtcode-bash-runner@0.74.7
