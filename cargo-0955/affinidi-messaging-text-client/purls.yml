@@ -12,6 +12,7 @@
 - pkg:cargo/affinidi-messaging-text-client@0.11.1
 - pkg:cargo/affinidi-messaging-text-client@0.11.2
 - pkg:cargo/affinidi-messaging-text-client@0.11.3
+- pkg:cargo/affinidi-messaging-text-client@0.11.6
 - pkg:cargo/affinidi-messaging-text-client@0.8.0
 - pkg:cargo/affinidi-messaging-text-client@0.8.1
 - pkg:cargo/affinidi-messaging-text-client@0.8.11
