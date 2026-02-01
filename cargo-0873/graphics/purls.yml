@@ -28,3 +28,5 @@
 - pkg:cargo/graphics@0.5.4
 - pkg:cargo/graphics@0.5.5
 - pkg:cargo/graphics@0.5.6
+- pkg:cargo/graphics@0.5.7
+- pkg:cargo/graphics@0.5.8
