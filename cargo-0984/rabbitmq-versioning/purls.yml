@@ -1,2 +1,4 @@
 - pkg:cargo/rabbitmq-versioning@0.11.0
 - pkg:cargo/rabbitmq-versioning@0.12.0
+- pkg:cargo/rabbitmq-versioning@0.13.0
+- pkg:cargo/rabbitmq-versioning@0.14.0
