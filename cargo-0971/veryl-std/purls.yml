@@ -17,3 +17,4 @@
 - pkg:cargo/veryl-std@0.17.0
 - pkg:cargo/veryl-std@0.17.1
 - pkg:cargo/veryl-std@0.17.2
+- pkg:cargo/veryl-std@0.18.0
