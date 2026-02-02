@@ -1,2 +1,4 @@
 - pkg:cargo/rrq-config@0.9.10
+- pkg:cargo/rrq-config@0.9.11
+- pkg:cargo/rrq-config@0.9.12
 - pkg:cargo/rrq-config@0.9.9
