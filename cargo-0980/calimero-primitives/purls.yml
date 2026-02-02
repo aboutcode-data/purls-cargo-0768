@@ -22,6 +22,8 @@
 - pkg:cargo/calimero-primitives@0.10.0-rc.35
 - pkg:cargo/calimero-primitives@0.10.0-rc.36
 - pkg:cargo/calimero-primitives@0.10.0-rc.37
+- pkg:cargo/calimero-primitives@0.10.0-rc.38
+- pkg:cargo/calimero-primitives@0.10.0-rc.39
 - pkg:cargo/calimero-primitives@0.10.0-rc.4
 - pkg:cargo/calimero-primitives@0.10.0-rc.5
 - pkg:cargo/calimero-primitives@0.10.0-rc.6

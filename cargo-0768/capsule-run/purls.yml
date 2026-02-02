@@ -2,3 +2,4 @@
 - pkg:cargo/capsule-run@0.2.2
 - pkg:cargo/capsule-run@0.4.2
 - pkg:cargo/capsule-run@0.5.0
+- pkg:cargo/capsule-run@0.5.1
