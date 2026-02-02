@@ -34,6 +34,7 @@
 - pkg:cargo/qail-pg@0.14.8
 - pkg:cargo/qail-pg@0.14.9
 - pkg:cargo/qail-pg@0.15.0
+- pkg:cargo/qail-pg@0.15.1
 - pkg:cargo/qail-pg@0.9.10
 - pkg:cargo/qail-pg@0.9.11
 - pkg:cargo/qail-pg@0.9.7

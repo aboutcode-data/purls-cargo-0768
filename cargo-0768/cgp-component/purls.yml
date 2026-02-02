@@ -13,3 +13,4 @@
 - pkg:cargo/cgp-component@0.5.0-beta3
 - pkg:cargo/cgp-component@0.6.0
 - pkg:cargo/cgp-component@0.6.0-beta
+- pkg:cargo/cgp-component@0.6.1
