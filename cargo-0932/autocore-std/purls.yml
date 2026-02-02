@@ -1,4 +1,6 @@
 - pkg:cargo/autocore-std@3.3.0
+- pkg:cargo/autocore-std@3.3.10
+- pkg:cargo/autocore-std@3.3.11
 - pkg:cargo/autocore-std@3.3.2
 - pkg:cargo/autocore-std@3.3.4
 - pkg:cargo/autocore-std@3.3.5
