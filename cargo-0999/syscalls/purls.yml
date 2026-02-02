@@ -38,3 +38,5 @@
 - pkg:cargo/syscalls@0.6.8
 - pkg:cargo/syscalls@0.6.9
 - pkg:cargo/syscalls@0.7.0
+- pkg:cargo/syscalls@0.8.0
+- pkg:cargo/syscalls@0.8.1
