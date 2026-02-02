@@ -7,3 +7,4 @@
 - pkg:cargo/mavlink-bindgen@0.16.1
 - pkg:cargo/mavlink-bindgen@0.16.2
 - pkg:cargo/mavlink-bindgen@0.17.0
+- pkg:cargo/mavlink-bindgen@0.17.1
