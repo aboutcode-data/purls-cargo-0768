@@ -106,6 +106,7 @@
 - pkg:cargo/holochain_chc@0.3.1-rc.0
 - pkg:cargo/holochain_chc@0.4.0-dev.0
 - pkg:cargo/holochain_chc@0.4.0-dev.1
+- pkg:cargo/holochain_chc@0.4.0-dev.10
 - pkg:cargo/holochain_chc@0.4.0-dev.2
 - pkg:cargo/holochain_chc@0.4.0-dev.3
 - pkg:cargo/holochain_chc@0.4.0-dev.4
