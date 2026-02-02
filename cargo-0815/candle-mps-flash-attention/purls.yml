@@ -1,0 +1,2 @@
+- pkg:cargo/candle-mps-flash-attention@0.1.0
+- pkg:cargo/candle-mps-flash-attention@0.1.1
