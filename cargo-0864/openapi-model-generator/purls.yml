@@ -6,3 +6,4 @@
 - pkg:cargo/openapi-model-generator@0.3.1
 - pkg:cargo/openapi-model-generator@0.4.0
 - pkg:cargo/openapi-model-generator@0.4.1
+- pkg:cargo/openapi-model-generator@0.5.0
