@@ -1,1 +1,2 @@
+- pkg:cargo/dataflow-wasm@2.0.15
 - pkg:cargo/dataflow-wasm@2.0.4

@@ -3,6 +3,9 @@
 - pkg:cargo/rma-plugins@0.11.0
 - pkg:cargo/rma-plugins@0.12.0
 - pkg:cargo/rma-plugins@0.13.0
+- pkg:cargo/rma-plugins@0.14.0
+- pkg:cargo/rma-plugins@0.15.0
+- pkg:cargo/rma-plugins@0.15.1
 - pkg:cargo/rma-plugins@0.2.0
 - pkg:cargo/rma-plugins@0.3.0
 - pkg:cargo/rma-plugins@0.4.0
