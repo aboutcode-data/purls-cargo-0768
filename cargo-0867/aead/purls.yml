@@ -19,6 +19,7 @@
 - pkg:cargo/aead@0.6.0-pre.0
 - pkg:cargo/aead@0.6.0-rc.0
 - pkg:cargo/aead@0.6.0-rc.1
+- pkg:cargo/aead@0.6.0-rc.10
 - pkg:cargo/aead@0.6.0-rc.2
 - pkg:cargo/aead@0.6.0-rc.3
 - pkg:cargo/aead@0.6.0-rc.4
