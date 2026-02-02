@@ -1,3 +1,5 @@
 - pkg:cargo/identity_db_client@0.1.0
 - pkg:cargo/identity_db_client@1.0.0
 - pkg:cargo/identity_db_client@1.1.0
+- pkg:cargo/identity_db_client@1.1.1
+- pkg:cargo/identity_db_client@1.1.2
