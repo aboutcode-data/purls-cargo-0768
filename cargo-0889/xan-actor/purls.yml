@@ -59,3 +59,5 @@
 - pkg:cargo/xan-actor@6.0.0
 - pkg:cargo/xan-actor@7.0.0
 - pkg:cargo/xan-actor@8.0.0
+- pkg:cargo/xan-actor@8.0.1
+- pkg:cargo/xan-actor@8.0.2

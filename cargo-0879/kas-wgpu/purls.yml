@@ -11,6 +11,7 @@
 - pkg:cargo/kas-wgpu@0.15.0
 - pkg:cargo/kas-wgpu@0.16.0
 - pkg:cargo/kas-wgpu@0.17.0
+- pkg:cargo/kas-wgpu@0.17.1
 - pkg:cargo/kas-wgpu@0.2.0
 - pkg:cargo/kas-wgpu@0.2.1
 - pkg:cargo/kas-wgpu@0.3.0
