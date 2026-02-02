@@ -3,3 +3,4 @@
 - pkg:cargo/miden-core-lib@0.20.2
 - pkg:cargo/miden-core-lib@0.20.3
 - pkg:cargo/miden-core-lib@0.20.4
+- pkg:cargo/miden-core-lib@0.20.5
