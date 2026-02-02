@@ -44,5 +44,6 @@
 - pkg:cargo/wasmer-sys-utils@0.700.0-alpha.2
 - pkg:cargo/wasmer-sys-utils@0.700.0-rc.1
 - pkg:cargo/wasmer-sys-utils@0.700.0-rc.2
+- pkg:cargo/wasmer-sys-utils@0.700.1
 - pkg:cargo/wasmer-sys-utils@0.8.0
 - pkg:cargo/wasmer-sys-utils@0.9.0
