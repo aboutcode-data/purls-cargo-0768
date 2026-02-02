@@ -316,3 +316,4 @@
 - pkg:cargo/deno@2.6.5
 - pkg:cargo/deno@2.6.6
 - pkg:cargo/deno@2.6.7
+- pkg:cargo/deno@2.6.8
