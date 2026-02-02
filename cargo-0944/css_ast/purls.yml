@@ -23,6 +23,8 @@
 - pkg:cargo/css_ast@0.0.16-canary.15541571ac
 - pkg:cargo/css_ast@0.0.16-canary.5d96911ce1
 - pkg:cargo/css_ast@0.0.16-canary.7937ca3db1
+- pkg:cargo/css_ast@0.0.17-canary.6da5a3e408
+- pkg:cargo/css_ast@0.0.17-canary.e0c9e6897d
 - pkg:cargo/css_ast@0.0.5
 - pkg:cargo/css_ast@0.0.6
 - pkg:cargo/css_ast@0.0.6-canary.23726265a1
