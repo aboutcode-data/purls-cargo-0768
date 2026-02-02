@@ -108,3 +108,4 @@
 - pkg:cargo/tauri-build@2.5.1
 - pkg:cargo/tauri-build@2.5.2
 - pkg:cargo/tauri-build@2.5.3
+- pkg:cargo/tauri-build@2.5.4
