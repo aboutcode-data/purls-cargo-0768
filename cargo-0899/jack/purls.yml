@@ -16,6 +16,7 @@
 - pkg:cargo/jack@0.13.2
 - pkg:cargo/jack@0.13.3
 - pkg:cargo/jack@0.13.4
+- pkg:cargo/jack@0.13.5
 - pkg:cargo/jack@0.2.0
 - pkg:cargo/jack@0.2.1
 - pkg:cargo/jack@0.2.2
