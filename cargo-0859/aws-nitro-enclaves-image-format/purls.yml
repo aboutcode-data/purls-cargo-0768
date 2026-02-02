@@ -5,3 +5,4 @@
 - pkg:cargo/aws-nitro-enclaves-image-format@0.4.1
 - pkg:cargo/aws-nitro-enclaves-image-format@0.4.2
 - pkg:cargo/aws-nitro-enclaves-image-format@0.5.0
+- pkg:cargo/aws-nitro-enclaves-image-format@0.6.0
