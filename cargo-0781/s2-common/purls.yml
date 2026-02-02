@@ -15,6 +15,7 @@
 - pkg:cargo/s2-common@0.26.6
 - pkg:cargo/s2-common@0.26.7
 - pkg:cargo/s2-common@0.26.8
+- pkg:cargo/s2-common@0.26.9
 - pkg:cargo/s2-common@0.3.0
 - pkg:cargo/s2-common@0.3.1
 - pkg:cargo/s2-common@0.3.2
