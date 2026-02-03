@@ -7,6 +7,7 @@
 - pkg:cargo/stageleft_tool@0.11.0
 - pkg:cargo/stageleft_tool@0.12.0
 - pkg:cargo/stageleft_tool@0.13.0
+- pkg:cargo/stageleft_tool@0.13.1
 - pkg:cargo/stageleft_tool@0.2.0
 - pkg:cargo/stageleft_tool@0.3.0
 - pkg:cargo/stageleft_tool@0.4.0
