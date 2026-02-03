@@ -49,3 +49,4 @@
 - pkg:cargo/arti@1.7.0
 - pkg:cargo/arti@1.8.0
 - pkg:cargo/arti@1.9.0
+- pkg:cargo/arti@2.0.0
