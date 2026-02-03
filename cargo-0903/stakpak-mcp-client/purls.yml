@@ -18,6 +18,9 @@
 - pkg:cargo/stakpak-mcp-client@0.3.17-beta.8
 - pkg:cargo/stakpak-mcp-client@0.3.17-beta.9
 - pkg:cargo/stakpak-mcp-client@0.3.18
+- pkg:cargo/stakpak-mcp-client@0.3.19
+- pkg:cargo/stakpak-mcp-client@0.3.20
+- pkg:cargo/stakpak-mcp-client@0.3.21
 - pkg:cargo/stakpak-mcp-client@0.3.5
 - pkg:cargo/stakpak-mcp-client@0.3.6
 - pkg:cargo/stakpak-mcp-client@0.3.7
