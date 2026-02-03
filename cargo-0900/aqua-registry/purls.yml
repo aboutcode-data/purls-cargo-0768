@@ -71,3 +71,4 @@
 - pkg:cargo/aqua-registry@2026.1.7
 - pkg:cargo/aqua-registry@2026.1.8
 - pkg:cargo/aqua-registry@2026.1.9
+- pkg:cargo/aqua-registry@2026.2.1
