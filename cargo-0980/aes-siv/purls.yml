@@ -14,3 +14,4 @@
 - pkg:cargo/aes-siv@0.8.0-rc.0
 - pkg:cargo/aes-siv@0.8.0-rc.1
 - pkg:cargo/aes-siv@0.8.0-rc.2
+- pkg:cargo/aes-siv@0.8.0-rc.3
