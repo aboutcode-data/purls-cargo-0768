@@ -43,6 +43,7 @@
 - pkg:cargo/try-rs@0.1.55
 - pkg:cargo/try-rs@0.1.56
 - pkg:cargo/try-rs@0.1.57
+- pkg:cargo/try-rs@0.1.59
 - pkg:cargo/try-rs@0.1.6
 - pkg:cargo/try-rs@0.1.8
 - pkg:cargo/try-rs@0.1.9
