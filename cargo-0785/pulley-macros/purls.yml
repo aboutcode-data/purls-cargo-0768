@@ -26,3 +26,4 @@
 - pkg:cargo/pulley-macros@40.0.3
 - pkg:cargo/pulley-macros@41.0.0
 - pkg:cargo/pulley-macros@41.0.1
+- pkg:cargo/pulley-macros@41.0.2
