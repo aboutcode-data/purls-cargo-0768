@@ -104,3 +104,4 @@
 - pkg:cargo/skim@1.9.1
 - pkg:cargo/skim@2.0.0
 - pkg:cargo/skim@2.0.1
+- pkg:cargo/skim@2.0.2
