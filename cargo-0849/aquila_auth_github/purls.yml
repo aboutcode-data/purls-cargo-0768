@@ -9,3 +9,4 @@
 - pkg:cargo/aquila_auth_github@0.7.0-rc.5
 - pkg:cargo/aquila_auth_github@0.7.0-rc.6
 - pkg:cargo/aquila_auth_github@0.7.0-rc.7
+- pkg:cargo/aquila_auth_github@0.7.0-rc.8
