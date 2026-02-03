@@ -2,3 +2,4 @@
 - pkg:cargo/wacli-cdk@0.0.17
 - pkg:cargo/wacli-cdk@0.0.18
 - pkg:cargo/wacli-cdk@0.0.19
+- pkg:cargo/wacli-cdk@0.0.20
