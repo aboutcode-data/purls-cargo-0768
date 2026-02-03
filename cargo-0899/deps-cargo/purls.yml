@@ -12,3 +12,4 @@
 - pkg:cargo/deps-cargo@0.5.3
 - pkg:cargo/deps-cargo@0.5.4
 - pkg:cargo/deps-cargo@0.5.5
+- pkg:cargo/deps-cargo@0.6.0
