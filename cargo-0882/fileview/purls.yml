@@ -30,6 +30,11 @@
 - pkg:cargo/fileview@1.21.0
 - pkg:cargo/fileview@1.22.0
 - pkg:cargo/fileview@1.23.0
+- pkg:cargo/fileview@1.24.0
+- pkg:cargo/fileview@1.24.1
+- pkg:cargo/fileview@1.25.0
+- pkg:cargo/fileview@1.25.1
+- pkg:cargo/fileview@1.25.2
 - pkg:cargo/fileview@1.3.0
 - pkg:cargo/fileview@1.4.0
 - pkg:cargo/fileview@1.5.0

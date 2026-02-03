@@ -24,3 +24,5 @@
 - pkg:cargo/nss-docker-ng@1.0.9
 - pkg:cargo/nss-docker-ng@1.1.0
 - pkg:cargo/nss-docker-ng@1.1.1
+- pkg:cargo/nss-docker-ng@1.1.2
+- pkg:cargo/nss-docker-ng@1.1.3
