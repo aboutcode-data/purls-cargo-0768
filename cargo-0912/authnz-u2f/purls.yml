@@ -1,1 +1,2 @@
 - pkg:cargo/authnz-u2f@0.2.7
+- pkg:cargo/authnz-u2f@0.2.8
