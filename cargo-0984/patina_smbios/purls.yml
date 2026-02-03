@@ -17,3 +17,4 @@
 - pkg:cargo/patina_smbios@19.0.3
 - pkg:cargo/patina_smbios@19.0.4
 - pkg:cargo/patina_smbios@19.0.5
+- pkg:cargo/patina_smbios@20.0.0
