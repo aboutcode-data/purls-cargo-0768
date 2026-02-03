@@ -145,6 +145,7 @@
 - pkg:cargo/deno_doc@0.189.1
 - pkg:cargo/deno_doc@0.19.0
 - pkg:cargo/deno_doc@0.190.0
+- pkg:cargo/deno_doc@0.190.1
 - pkg:cargo/deno_doc@0.2.0
 - pkg:cargo/deno_doc@0.2.1
 - pkg:cargo/deno_doc@0.20.0
