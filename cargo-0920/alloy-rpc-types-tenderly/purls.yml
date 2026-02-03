@@ -28,3 +28,5 @@
 - pkg:cargo/alloy-rpc-types-tenderly@1.5.0
 - pkg:cargo/alloy-rpc-types-tenderly@1.5.1
 - pkg:cargo/alloy-rpc-types-tenderly@1.5.2
+- pkg:cargo/alloy-rpc-types-tenderly@1.6.0
+- pkg:cargo/alloy-rpc-types-tenderly@1.6.1
