@@ -71,4 +71,5 @@
 - pkg:cargo/risc0-core@2.0.1-rc.2
 - pkg:cargo/risc0-core@2.0.1-rc.3
 - pkg:cargo/risc0-core@3.0.0
+- pkg:cargo/risc0-core@3.0.1
 - pkg:cargo/risc0-core@5.0.0-rc.1
