@@ -13,3 +13,4 @@
 - pkg:cargo/tor-config-path@0.36.0
 - pkg:cargo/tor-config-path@0.37.0
 - pkg:cargo/tor-config-path@0.38.0
+- pkg:cargo/tor-config-path@0.39.0
