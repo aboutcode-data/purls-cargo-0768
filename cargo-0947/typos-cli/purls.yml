@@ -260,6 +260,7 @@
 - pkg:cargo/typos-cli@1.42.2
 - pkg:cargo/typos-cli@1.42.3
 - pkg:cargo/typos-cli@1.43.0
+- pkg:cargo/typos-cli@1.43.1
 - pkg:cargo/typos-cli@1.5.0
 - pkg:cargo/typos-cli@1.6.0
 - pkg:cargo/typos-cli@1.7.0
