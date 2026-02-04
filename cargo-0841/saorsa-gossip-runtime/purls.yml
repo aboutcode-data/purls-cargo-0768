@@ -4,3 +4,5 @@
 - pkg:cargo/saorsa-gossip-runtime@0.4.1
 - pkg:cargo/saorsa-gossip-runtime@0.4.2
 - pkg:cargo/saorsa-gossip-runtime@0.4.3
+- pkg:cargo/saorsa-gossip-runtime@0.4.4
+- pkg:cargo/saorsa-gossip-runtime@0.4.5

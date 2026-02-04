@@ -8,3 +8,4 @@
 - pkg:cargo/sara-cli@0.3.2
 - pkg:cargo/sara-cli@0.3.3
 - pkg:cargo/sara-cli@0.4.0
+- pkg:cargo/sara-cli@0.5.0
