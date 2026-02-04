@@ -1,1 +1,2 @@
 - pkg:cargo/singleshot@0.1.0
+- pkg:cargo/singleshot@0.2.0
