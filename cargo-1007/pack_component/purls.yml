@@ -80,4 +80,5 @@
 - pkg:cargo/pack_component@0.4.82
 - pkg:cargo/pack_component@0.4.83
 - pkg:cargo/pack_component@0.4.84
+- pkg:cargo/pack_component@0.4.85
 - pkg:cargo/pack_component@0.4.9
