@@ -1,1 +1,2 @@
 - pkg:cargo/ssh-agent-switcher@1.0.0
+- pkg:cargo/ssh-agent-switcher@1.0.1
