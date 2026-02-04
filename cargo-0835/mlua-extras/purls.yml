@@ -4,3 +4,4 @@
 - pkg:cargo/mlua-extras@0.0.4
 - pkg:cargo/mlua-extras@0.0.5
 - pkg:cargo/mlua-extras@0.0.7
+- pkg:cargo/mlua-extras@11.6.0

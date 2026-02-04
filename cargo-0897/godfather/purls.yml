@@ -40,6 +40,7 @@
 - pkg:cargo/godfather@0.5.45
 - pkg:cargo/godfather@0.5.46
 - pkg:cargo/godfather@0.5.47
+- pkg:cargo/godfather@0.5.48
 - pkg:cargo/godfather@0.5.5
 - pkg:cargo/godfather@0.5.6
 - pkg:cargo/godfather@0.5.7
