@@ -7,6 +7,7 @@
 - pkg:cargo/haste-fhir-operation-error@0.10.5
 - pkg:cargo/haste-fhir-operation-error@0.10.6
 - pkg:cargo/haste-fhir-operation-error@0.10.7
+- pkg:cargo/haste-fhir-operation-error@0.10.8
 - pkg:cargo/haste-fhir-operation-error@0.2.0
 - pkg:cargo/haste-fhir-operation-error@0.2.1
 - pkg:cargo/haste-fhir-operation-error@0.3.0
