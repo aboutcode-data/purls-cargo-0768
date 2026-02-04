@@ -21,6 +21,8 @@
 - pkg:cargo/stakpak@0.3.19
 - pkg:cargo/stakpak@0.3.20
 - pkg:cargo/stakpak@0.3.21
+- pkg:cargo/stakpak@0.3.22
+- pkg:cargo/stakpak@0.3.23-beta.1
 - pkg:cargo/stakpak@0.3.5
 - pkg:cargo/stakpak@0.3.6
 - pkg:cargo/stakpak@0.3.7

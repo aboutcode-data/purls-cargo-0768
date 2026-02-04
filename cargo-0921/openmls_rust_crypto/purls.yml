@@ -16,3 +16,4 @@
 - pkg:cargo/openmls_rust_crypto@0.4.1
 - pkg:cargo/openmls_rust_crypto@0.4.1-rc.1
 - pkg:cargo/openmls_rust_crypto@0.4.2
+- pkg:cargo/openmls_rust_crypto@0.5.0
