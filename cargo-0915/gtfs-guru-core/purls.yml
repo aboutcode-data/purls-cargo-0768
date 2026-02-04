@@ -1,2 +1,3 @@
 - pkg:cargo/gtfs-guru-core@0.1.1
 - pkg:cargo/gtfs-guru-core@0.9.0
+- pkg:cargo/gtfs-guru-core@0.9.1
