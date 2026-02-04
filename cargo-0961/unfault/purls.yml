@@ -12,6 +12,8 @@
 - pkg:cargo/unfault@0.6.21
 - pkg:cargo/unfault@0.6.23
 - pkg:cargo/unfault@0.6.24
+- pkg:cargo/unfault@0.6.25
+- pkg:cargo/unfault@0.6.26
 - pkg:cargo/unfault@0.6.6
 - pkg:cargo/unfault@0.6.8
 - pkg:cargo/unfault@0.6.9
