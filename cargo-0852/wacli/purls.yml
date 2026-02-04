@@ -14,6 +14,10 @@
 - pkg:cargo/wacli@0.0.27
 - pkg:cargo/wacli@0.0.29
 - pkg:cargo/wacli@0.0.3
+- pkg:cargo/wacli@0.0.31
+- pkg:cargo/wacli@0.0.32
+- pkg:cargo/wacli@0.0.33
+- pkg:cargo/wacli@0.0.34
 - pkg:cargo/wacli@0.0.4
 - pkg:cargo/wacli@0.0.5
 - pkg:cargo/wacli@0.0.6

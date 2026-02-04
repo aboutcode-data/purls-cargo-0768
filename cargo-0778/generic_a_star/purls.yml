@@ -17,6 +17,7 @@
 - pkg:cargo/generic_a_star@0.20.0
 - pkg:cargo/generic_a_star@0.21.0
 - pkg:cargo/generic_a_star@0.21.1
+- pkg:cargo/generic_a_star@0.21.2
 - pkg:cargo/generic_a_star@0.5.0
 - pkg:cargo/generic_a_star@0.6.0
 - pkg:cargo/generic_a_star@0.7.0
