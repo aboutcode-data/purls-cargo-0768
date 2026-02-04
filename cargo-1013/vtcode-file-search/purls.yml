@@ -103,3 +103,4 @@
 - pkg:cargo/vtcode-file-search@0.74.9
 - pkg:cargo/vtcode-file-search@0.75.0
 - pkg:cargo/vtcode-file-search@0.75.1
+- pkg:cargo/vtcode-file-search@0.75.2

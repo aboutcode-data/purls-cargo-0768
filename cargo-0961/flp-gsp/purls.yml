@@ -21,3 +21,5 @@
 - pkg:cargo/flp-gsp@0.3.9
 - pkg:cargo/flp-gsp@1.0.0
 - pkg:cargo/flp-gsp@1.1.0
+- pkg:cargo/flp-gsp@2.0.0
+- pkg:cargo/flp-gsp@2.0.1

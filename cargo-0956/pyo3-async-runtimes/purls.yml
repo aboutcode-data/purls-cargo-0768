@@ -5,3 +5,4 @@
 - pkg:cargo/pyo3-async-runtimes@0.25.0
 - pkg:cargo/pyo3-async-runtimes@0.26.0
 - pkg:cargo/pyo3-async-runtimes@0.27.0
+- pkg:cargo/pyo3-async-runtimes@0.28.0
