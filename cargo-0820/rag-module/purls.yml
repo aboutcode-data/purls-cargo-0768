@@ -49,3 +49,4 @@
 - pkg:cargo/rag-module@0.5.9
 - pkg:cargo/rag-module@0.6.0
 - pkg:cargo/rag-module@0.6.1
+- pkg:cargo/rag-module@0.6.3
