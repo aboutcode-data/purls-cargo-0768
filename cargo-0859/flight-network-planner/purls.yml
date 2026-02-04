@@ -1,4 +1,5 @@
 - pkg:cargo/flight-network-planner@1.2.10
+- pkg:cargo/flight-network-planner@1.2.11
 - pkg:cargo/flight-network-planner@1.2.4
 - pkg:cargo/flight-network-planner@1.2.5
 - pkg:cargo/flight-network-planner@1.2.6
