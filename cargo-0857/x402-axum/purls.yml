@@ -17,3 +17,4 @@
 - pkg:cargo/x402-axum@0.7.0
 - pkg:cargo/x402-axum@0.8.0
 - pkg:cargo/x402-axum@1.0.0
+- pkg:cargo/x402-axum@1.0.1

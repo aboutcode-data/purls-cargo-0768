@@ -15,3 +15,4 @@
 - pkg:cargo/yash-cli@3.0.2
 - pkg:cargo/yash-cli@3.0.3
 - pkg:cargo/yash-cli@3.0.4
+- pkg:cargo/yash-cli@3.0.5
