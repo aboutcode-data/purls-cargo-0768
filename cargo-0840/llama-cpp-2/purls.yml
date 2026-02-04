@@ -31,6 +31,7 @@
 - pkg:cargo/llama-cpp-2@0.1.130
 - pkg:cargo/llama-cpp-2@0.1.131
 - pkg:cargo/llama-cpp-2@0.1.132
+- pkg:cargo/llama-cpp-2@0.1.133
 - pkg:cargo/llama-cpp-2@0.1.14
 - pkg:cargo/llama-cpp-2@0.1.15
 - pkg:cargo/llama-cpp-2@0.1.16
