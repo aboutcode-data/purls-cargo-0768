@@ -1,5 +1,6 @@
 - pkg:cargo/reduct-cli@0.1.0
 - pkg:cargo/reduct-cli@0.1.0-rc.3
+- pkg:cargo/reduct-cli@0.10.0
 - pkg:cargo/reduct-cli@0.2.0
 - pkg:cargo/reduct-cli@0.3.0
 - pkg:cargo/reduct-cli@0.3.1
