@@ -39,6 +39,7 @@
 - pkg:cargo/reductstore@1.17.3
 - pkg:cargo/reductstore@1.18.0
 - pkg:cargo/reductstore@1.18.1
+- pkg:cargo/reductstore@1.18.2
 - pkg:cargo/reductstore@1.4.0
 - pkg:cargo/reductstore@1.4.0-alpha.1
 - pkg:cargo/reductstore@1.4.0-alpha.2
