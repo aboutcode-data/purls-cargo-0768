@@ -52,3 +52,5 @@
 - pkg:cargo/fileview@1.9.1
 - pkg:cargo/fileview@2.0.0-alpha
 - pkg:cargo/fileview@2.0.1-alpha
+- pkg:cargo/fileview@2.0.2-alpha
+- pkg:cargo/fileview@2.0.3-alpha
