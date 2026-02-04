@@ -5,6 +5,7 @@
 - pkg:cargo/aws-sdk-arcregionswitch@1.12.0
 - pkg:cargo/aws-sdk-arcregionswitch@1.13.0
 - pkg:cargo/aws-sdk-arcregionswitch@1.14.0
+- pkg:cargo/aws-sdk-arcregionswitch@1.15.0
 - pkg:cargo/aws-sdk-arcregionswitch@1.2.0
 - pkg:cargo/aws-sdk-arcregionswitch@1.3.0
 - pkg:cargo/aws-sdk-arcregionswitch@1.4.0

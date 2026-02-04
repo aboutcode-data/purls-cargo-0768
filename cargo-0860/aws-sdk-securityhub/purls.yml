@@ -51,6 +51,7 @@
 - pkg:cargo/aws-sdk-securityhub@1.100.0
 - pkg:cargo/aws-sdk-securityhub@1.101.0
 - pkg:cargo/aws-sdk-securityhub@1.102.0
+- pkg:cargo/aws-sdk-securityhub@1.103.0
 - pkg:cargo/aws-sdk-securityhub@1.11.0
 - pkg:cargo/aws-sdk-securityhub@1.11.1
 - pkg:cargo/aws-sdk-securityhub@1.12.0
