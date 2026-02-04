@@ -25,6 +25,10 @@
 - pkg:cargo/rnaapi@2.0.1
 - pkg:cargo/rnaapi@2.0.10
 - pkg:cargo/rnaapi@2.0.11
+- pkg:cargo/rnaapi@2.0.12
+- pkg:cargo/rnaapi@2.0.13
+- pkg:cargo/rnaapi@2.0.14
+- pkg:cargo/rnaapi@2.0.15
 - pkg:cargo/rnaapi@2.0.2
 - pkg:cargo/rnaapi@2.0.3
 - pkg:cargo/rnaapi@2.0.4
