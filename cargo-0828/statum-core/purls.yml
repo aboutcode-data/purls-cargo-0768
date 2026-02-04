@@ -29,3 +29,6 @@
 - pkg:cargo/statum-core@0.1.46
 - pkg:cargo/statum-core@0.1.47
 - pkg:cargo/statum-core@0.1.48
+- pkg:cargo/statum-core@0.3.0
+- pkg:cargo/statum-core@0.3.1
+- pkg:cargo/statum-core@0.3.2
