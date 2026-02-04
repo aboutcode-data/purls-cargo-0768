@@ -7,3 +7,4 @@
 - pkg:cargo/forge-macros@0.0.5
 - pkg:cargo/forge-macros@0.0.6
 - pkg:cargo/forge-macros@0.0.7
+- pkg:cargo/forge-macros@0.1.0
