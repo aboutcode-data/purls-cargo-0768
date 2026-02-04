@@ -5,6 +5,7 @@
 - pkg:cargo/ethcli@0.21.14
 - pkg:cargo/ethcli@0.21.15
 - pkg:cargo/ethcli@0.21.16
+- pkg:cargo/ethcli@0.21.17
 - pkg:cargo/ethcli@0.21.2
 - pkg:cargo/ethcli@0.21.5
 - pkg:cargo/ethcli@0.21.6
