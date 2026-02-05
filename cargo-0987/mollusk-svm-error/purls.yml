@@ -22,6 +22,7 @@
 - pkg:cargo/mollusk-svm-error@0.1.5
 - pkg:cargo/mollusk-svm-error@0.10.0
 - pkg:cargo/mollusk-svm-error@0.10.1
+- pkg:cargo/mollusk-svm-error@0.10.2
 - pkg:cargo/mollusk-svm-error@0.2.0
 - pkg:cargo/mollusk-svm-error@0.2.1
 - pkg:cargo/mollusk-svm-error@0.3.0
