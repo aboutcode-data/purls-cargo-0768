@@ -3,6 +3,7 @@
 - pkg:cargo/webc@0.4.1
 - pkg:cargo/webc@10.0.0
 - pkg:cargo/webc@10.0.1
+- pkg:cargo/webc@11.0.0
 - pkg:cargo/webc@3.0.0
 - pkg:cargo/webc@3.0.0-rc.1
 - pkg:cargo/webc@3.0.1

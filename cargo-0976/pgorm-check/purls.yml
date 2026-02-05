@@ -4,3 +4,4 @@
 - pkg:cargo/pgorm-check@0.1.4
 - pkg:cargo/pgorm-check@0.1.5
 - pkg:cargo/pgorm-check@0.1.6
+- pkg:cargo/pgorm-check@0.2.0
