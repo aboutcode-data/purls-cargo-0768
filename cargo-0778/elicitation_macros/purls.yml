@@ -1,2 +1,4 @@
 - pkg:cargo/elicitation_macros@0.4.4
 - pkg:cargo/elicitation_macros@0.4.5
+- pkg:cargo/elicitation_macros@0.4.7
+- pkg:cargo/elicitation_macros@0.4.8

@@ -260,3 +260,4 @@
 - pkg:cargo/vtcode-config@0.75.0
 - pkg:cargo/vtcode-config@0.75.1
 - pkg:cargo/vtcode-config@0.75.2
+- pkg:cargo/vtcode-config@0.76.0
