@@ -3,5 +3,6 @@
 - pkg:cargo/sigil-parser@0.2.0
 - pkg:cargo/sigil-parser@0.2.1
 - pkg:cargo/sigil-parser@0.3.0
+- pkg:cargo/sigil-parser@0.4.0-rc.4
 - pkg:cargo/sigil-parser@1.0.0
 - pkg:cargo/sigil-parser@1.0.1
