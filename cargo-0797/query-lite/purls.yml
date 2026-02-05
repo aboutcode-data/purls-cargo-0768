@@ -1,5 +1,6 @@
 - pkg:cargo/query-lite@0.10.0
 - pkg:cargo/query-lite@0.11.0
+- pkg:cargo/query-lite@0.12.0
 - pkg:cargo/query-lite@0.4.0
 - pkg:cargo/query-lite@0.6.0
 - pkg:cargo/query-lite@0.6.1
