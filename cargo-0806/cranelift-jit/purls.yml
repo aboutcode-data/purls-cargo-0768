@@ -86,6 +86,7 @@
 - pkg:cargo/cranelift-jit@0.128.0
 - pkg:cargo/cranelift-jit@0.128.1
 - pkg:cargo/cranelift-jit@0.128.2
+- pkg:cargo/cranelift-jit@0.128.3
 - pkg:cargo/cranelift-jit@0.69.0
 - pkg:cargo/cranelift-jit@0.70.0
 - pkg:cargo/cranelift-jit@0.71.0

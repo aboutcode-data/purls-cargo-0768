@@ -2,4 +2,5 @@
 - pkg:cargo/rrq-runner@0.9.11
 - pkg:cargo/rrq-runner@0.9.12
 - pkg:cargo/rrq-runner@0.9.13
+- pkg:cargo/rrq-runner@0.9.14
 - pkg:cargo/rrq-runner@0.9.9
