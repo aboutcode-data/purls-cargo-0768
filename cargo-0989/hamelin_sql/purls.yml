@@ -2,3 +2,4 @@
 - pkg:cargo/hamelin_sql@0.3.8
 - pkg:cargo/hamelin_sql@0.3.9
 - pkg:cargo/hamelin_sql@0.4.0
+- pkg:cargo/hamelin_sql@0.4.1
