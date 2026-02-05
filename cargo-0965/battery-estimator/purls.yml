@@ -8,3 +8,4 @@
 - pkg:cargo/battery-estimator@0.1.7
 - pkg:cargo/battery-estimator@0.1.8
 - pkg:cargo/battery-estimator@0.1.9
+- pkg:cargo/battery-estimator@0.2.0
