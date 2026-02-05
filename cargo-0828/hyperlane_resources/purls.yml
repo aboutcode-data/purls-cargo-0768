@@ -13,6 +13,13 @@
 - pkg:cargo/hyperlane_resources@13.0.2
 - pkg:cargo/hyperlane_resources@13.0.3
 - pkg:cargo/hyperlane_resources@13.1.0
+- pkg:cargo/hyperlane_resources@14.0.10
+- pkg:cargo/hyperlane_resources@14.0.11
+- pkg:cargo/hyperlane_resources@14.0.12
+- pkg:cargo/hyperlane_resources@14.0.13
+- pkg:cargo/hyperlane_resources@14.0.14
+- pkg:cargo/hyperlane_resources@14.0.15
+- pkg:cargo/hyperlane_resources@14.0.16
 - pkg:cargo/hyperlane_resources@14.0.2
 - pkg:cargo/hyperlane_resources@14.0.3
 - pkg:cargo/hyperlane_resources@14.0.4

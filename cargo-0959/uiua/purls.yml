@@ -69,6 +69,7 @@
 - pkg:cargo/uiua@0.17.0-rc.2
 - pkg:cargo/uiua@0.17.1
 - pkg:cargo/uiua@0.17.2
+- pkg:cargo/uiua@0.18.0
 - pkg:cargo/uiua@0.18.0-dev.1
 - pkg:cargo/uiua@0.18.0-dev.2
 - pkg:cargo/uiua@0.18.0-dev.3

@@ -14,3 +14,4 @@
 - pkg:cargo/mysql-es@0.4.5
 - pkg:cargo/mysql-es@0.4.8
 - pkg:cargo/mysql-es@0.4.9
+- pkg:cargo/mysql-es@0.5.0
