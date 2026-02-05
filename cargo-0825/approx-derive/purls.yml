@@ -16,3 +16,4 @@
 - pkg:cargo/approx-derive@0.2.7
 - pkg:cargo/approx-derive@0.2.8
 - pkg:cargo/approx-derive@0.6.0-rc1
+- pkg:cargo/approx-derive@0.6.0-rc2

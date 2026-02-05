@@ -13,3 +13,4 @@
 - pkg:cargo/substrate-state-machine@2503.2.0
 - pkg:cargo/substrate-state-machine@2506.0.0
 - pkg:cargo/substrate-state-machine@2506.1.0
+- pkg:cargo/substrate-state-machine@2512.0.0
