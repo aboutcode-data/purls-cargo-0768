@@ -18,6 +18,7 @@
 - pkg:cargo/surrealkv@0.16.0
 - pkg:cargo/surrealkv@0.17.0
 - pkg:cargo/surrealkv@0.17.1
+- pkg:cargo/surrealkv@0.18.0
 - pkg:cargo/surrealkv@0.2.0
 - pkg:cargo/surrealkv@0.3.0
 - pkg:cargo/surrealkv@0.3.1
