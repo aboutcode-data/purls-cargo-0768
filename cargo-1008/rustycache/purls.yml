@@ -1,1 +1,2 @@
 - pkg:cargo/rustycache@1.0.0
+- pkg:cargo/rustycache@2.0.0
