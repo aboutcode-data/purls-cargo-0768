@@ -119,6 +119,7 @@
 - pkg:cargo/time@0.3.44
 - pkg:cargo/time@0.3.45
 - pkg:cargo/time@0.3.46
+- pkg:cargo/time@0.3.47
 - pkg:cargo/time@0.3.5
 - pkg:cargo/time@0.3.6
 - pkg:cargo/time@0.3.7

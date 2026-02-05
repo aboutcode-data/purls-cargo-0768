@@ -23,6 +23,7 @@
 - pkg:cargo/time-macros@0.2.24
 - pkg:cargo/time-macros@0.2.25
 - pkg:cargo/time-macros@0.2.26
+- pkg:cargo/time-macros@0.2.27
 - pkg:cargo/time-macros@0.2.3
 - pkg:cargo/time-macros@0.2.4
 - pkg:cargo/time-macros@0.2.5
