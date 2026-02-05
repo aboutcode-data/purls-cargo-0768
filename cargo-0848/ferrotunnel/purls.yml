@@ -9,3 +9,4 @@
 - pkg:cargo/ferrotunnel@0.9.0
 - pkg:cargo/ferrotunnel@0.9.5
 - pkg:cargo/ferrotunnel@0.9.6
+- pkg:cargo/ferrotunnel@1.0.0

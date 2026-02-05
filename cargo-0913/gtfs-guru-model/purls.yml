@@ -1,3 +1,5 @@
 - pkg:cargo/gtfs-guru-model@0.1.1
 - pkg:cargo/gtfs-guru-model@0.9.0
 - pkg:cargo/gtfs-guru-model@0.9.1
+- pkg:cargo/gtfs-guru-model@0.9.2
+- pkg:cargo/gtfs-guru-model@0.9.3
