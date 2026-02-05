@@ -64,3 +64,4 @@
 - pkg:cargo/netflow_parser@0.8.2
 - pkg:cargo/netflow_parser@0.8.3
 - pkg:cargo/netflow_parser@0.8.4
+- pkg:cargo/netflow_parser@0.9.0

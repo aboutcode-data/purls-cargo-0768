@@ -15,6 +15,7 @@
 - pkg:cargo/nextest-runner@0.104.0-b.4
 - pkg:cargo/nextest-runner@0.105.0
 - pkg:cargo/nextest-runner@0.106.0
+- pkg:cargo/nextest-runner@0.107.0
 - pkg:cargo/nextest-runner@0.11.0
 - pkg:cargo/nextest-runner@0.11.1
 - pkg:cargo/nextest-runner@0.12.0
