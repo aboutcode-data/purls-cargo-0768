@@ -39,3 +39,4 @@
 - pkg:cargo/tauri-plugin-deep-link@2.4.4
 - pkg:cargo/tauri-plugin-deep-link@2.4.5
 - pkg:cargo/tauri-plugin-deep-link@2.4.6
+- pkg:cargo/tauri-plugin-deep-link@2.4.7
