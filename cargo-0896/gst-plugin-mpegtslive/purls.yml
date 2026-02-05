@@ -9,3 +9,4 @@
 - pkg:cargo/gst-plugin-mpegtslive@0.14.0
 - pkg:cargo/gst-plugin-mpegtslive@0.14.1
 - pkg:cargo/gst-plugin-mpegtslive@0.15.0-alpha.1
+- pkg:cargo/gst-plugin-mpegtslive@0.15.0-alpha.2
