@@ -4,4 +4,5 @@
 - pkg:cargo/gdk4-macos-sys@0.10.3
 - pkg:cargo/gdk4-macos-sys@0.11.0-alpha.1
 - pkg:cargo/gdk4-macos-sys@0.11.0-alpha.2
+- pkg:cargo/gdk4-macos-sys@0.11.0-alpha.3
 - pkg:cargo/gdk4-macos-sys@0.9.5
