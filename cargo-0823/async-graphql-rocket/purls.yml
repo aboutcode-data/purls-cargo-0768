@@ -111,3 +111,4 @@
 - pkg:cargo/async-graphql-rocket@7.2.0
 - pkg:cargo/async-graphql-rocket@7.2.1
 - pkg:cargo/async-graphql-rocket@8.0.0-rc.1
+- pkg:cargo/async-graphql-rocket@8.0.0-rc.2
