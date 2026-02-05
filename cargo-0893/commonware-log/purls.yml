@@ -38,3 +38,4 @@
 - pkg:cargo/commonware-log@0.0.7
 - pkg:cargo/commonware-log@0.0.8
 - pkg:cargo/commonware-log@0.0.9
+- pkg:cargo/commonware-log@2026.2.0

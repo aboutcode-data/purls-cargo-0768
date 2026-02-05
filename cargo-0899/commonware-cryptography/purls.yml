@@ -49,3 +49,4 @@
 - pkg:cargo/commonware-cryptography@0.0.7
 - pkg:cargo/commonware-cryptography@0.0.8
 - pkg:cargo/commonware-cryptography@0.0.9
+- pkg:cargo/commonware-cryptography@2026.2.0
