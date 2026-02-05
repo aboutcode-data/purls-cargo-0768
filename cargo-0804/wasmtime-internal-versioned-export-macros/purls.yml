@@ -24,3 +24,4 @@
 - pkg:cargo/wasmtime-internal-versioned-export-macros@41.0.0
 - pkg:cargo/wasmtime-internal-versioned-export-macros@41.0.1
 - pkg:cargo/wasmtime-internal-versioned-export-macros@41.0.2
+- pkg:cargo/wasmtime-internal-versioned-export-macros@41.0.3

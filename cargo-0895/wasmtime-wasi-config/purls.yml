@@ -41,3 +41,4 @@
 - pkg:cargo/wasmtime-wasi-config@41.0.0
 - pkg:cargo/wasmtime-wasi-config@41.0.1
 - pkg:cargo/wasmtime-wasi-config@41.0.2
+- pkg:cargo/wasmtime-wasi-config@41.0.3
