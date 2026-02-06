@@ -84,6 +84,7 @@
 - pkg:cargo/datalogic-rs@4.0.1
 - pkg:cargo/datalogic-rs@4.0.14
 - pkg:cargo/datalogic-rs@4.0.15
+- pkg:cargo/datalogic-rs@4.0.18
 - pkg:cargo/datalogic-rs@4.0.2
 - pkg:cargo/datalogic-rs@4.0.3
 - pkg:cargo/datalogic-rs@4.0.4
