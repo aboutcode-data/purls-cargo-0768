@@ -1,3 +1,4 @@
 - pkg:cargo/cmd-proc@0.0.1
 - pkg:cargo/cmd-proc@0.1.0
 - pkg:cargo/cmd-proc@0.2.0
+- pkg:cargo/cmd-proc@0.3.0

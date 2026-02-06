@@ -6,3 +6,4 @@
 - pkg:cargo/c2rust-asm-casts@0.2.0
 - pkg:cargo/c2rust-asm-casts@0.20.0
 - pkg:cargo/c2rust-asm-casts@0.21.0
+- pkg:cargo/c2rust-asm-casts@0.22.0
