@@ -8,6 +8,7 @@
 - pkg:cargo/haste-macro-loads@0.10.6
 - pkg:cargo/haste-macro-loads@0.10.7
 - pkg:cargo/haste-macro-loads@0.10.8
+- pkg:cargo/haste-macro-loads@0.11.0
 - pkg:cargo/haste-macro-loads@0.2.0
 - pkg:cargo/haste-macro-loads@0.2.1
 - pkg:cargo/haste-macro-loads@0.3.0

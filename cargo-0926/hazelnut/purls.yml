@@ -14,7 +14,13 @@
 - pkg:cargo/hazelnut@0.2.20
 - pkg:cargo/hazelnut@0.2.21
 - pkg:cargo/hazelnut@0.2.22
+- pkg:cargo/hazelnut@0.2.25
+- pkg:cargo/hazelnut@0.2.26
+- pkg:cargo/hazelnut@0.2.28
 - pkg:cargo/hazelnut@0.2.3
+- pkg:cargo/hazelnut@0.2.30
+- pkg:cargo/hazelnut@0.2.31
+- pkg:cargo/hazelnut@0.2.32
 - pkg:cargo/hazelnut@0.2.4
 - pkg:cargo/hazelnut@0.2.5
 - pkg:cargo/hazelnut@0.2.6
