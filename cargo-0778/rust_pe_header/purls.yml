@@ -1,1 +1,2 @@
 - pkg:cargo/rust_pe_header@0.1.0
+- pkg:cargo/rust_pe_header@0.1.1
