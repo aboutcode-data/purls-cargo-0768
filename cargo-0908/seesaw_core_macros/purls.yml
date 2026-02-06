@@ -1,1 +1,2 @@
 - pkg:cargo/seesaw_core_macros@0.10.2
+- pkg:cargo/seesaw_core_macros@0.10.3
