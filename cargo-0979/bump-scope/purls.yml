@@ -80,3 +80,4 @@
 - pkg:cargo/bump-scope@1.5.1
 - pkg:cargo/bump-scope@2.0.0-rc.1
 - pkg:cargo/bump-scope@2.0.0-rc.2
+- pkg:cargo/bump-scope@2.0.0-rc.3
