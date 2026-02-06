@@ -3,3 +3,4 @@
 - pkg:cargo/tapsdk-pc-sys@0.1.2
 - pkg:cargo/tapsdk-pc-sys@0.1.3
 - pkg:cargo/tapsdk-pc-sys@0.1.4
+- pkg:cargo/tapsdk-pc-sys@0.1.5

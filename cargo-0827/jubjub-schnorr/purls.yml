@@ -7,3 +7,4 @@
 - pkg:cargo/jubjub-schnorr@0.5.0
 - pkg:cargo/jubjub-schnorr@0.5.1
 - pkg:cargo/jubjub-schnorr@0.6.0
+- pkg:cargo/jubjub-schnorr@0.7.0-rc.0
