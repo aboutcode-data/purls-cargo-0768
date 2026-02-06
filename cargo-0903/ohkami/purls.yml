@@ -42,6 +42,7 @@
 - pkg:cargo/ohkami@0.24.2
 - pkg:cargo/ohkami@0.24.3
 - pkg:cargo/ohkami@0.24.4
+- pkg:cargo/ohkami@0.24.5
 - pkg:cargo/ohkami@0.3.0
 - pkg:cargo/ohkami@0.3.1
 - pkg:cargo/ohkami@0.3.2
