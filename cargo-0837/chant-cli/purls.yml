@@ -13,3 +13,5 @@
 - pkg:cargo/chant-cli@0.15.21
 - pkg:cargo/chant-cli@0.15.22
 - pkg:cargo/chant-cli@0.15.23
+- pkg:cargo/chant-cli@0.16.0
+- pkg:cargo/chant-cli@0.16.1
