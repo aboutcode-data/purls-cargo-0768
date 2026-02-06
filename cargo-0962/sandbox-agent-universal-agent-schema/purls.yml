@@ -15,6 +15,7 @@
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.4-rc.6
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.4-rc.7
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.5
+- pkg:cargo/sandbox-agent-universal-agent-schema@0.1.6
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.6-rc.1
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.6-rc.2
 - pkg:cargo/sandbox-agent-universal-agent-schema@0.1.6-rc.3
