@@ -1,3 +1,4 @@
+- pkg:cargo/runtool@0.3.10
 - pkg:cargo/runtool@0.3.2
 - pkg:cargo/runtool@0.3.3
 - pkg:cargo/runtool@0.3.4
