@@ -6,3 +6,4 @@
 - pkg:cargo/rstest-bdd-patterns@0.3.1
 - pkg:cargo/rstest-bdd-patterns@0.3.2
 - pkg:cargo/rstest-bdd-patterns@0.4.0
+- pkg:cargo/rstest-bdd-patterns@0.5.0

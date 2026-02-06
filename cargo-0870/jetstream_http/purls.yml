@@ -1,1 +1,2 @@
 - pkg:cargo/jetstream_http@14.0.0
+- pkg:cargo/jetstream_http@14.1.0

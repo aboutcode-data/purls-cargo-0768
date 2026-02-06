@@ -1,1 +1,4 @@
 - pkg:cargo/pq-oid@0.0.1
+- pkg:cargo/pq-oid@0.0.5
+- pkg:cargo/pq-oid@1.0.0
+- pkg:cargo/pq-oid@1.0.2
