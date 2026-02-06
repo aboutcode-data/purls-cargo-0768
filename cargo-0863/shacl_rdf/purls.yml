@@ -2,6 +2,7 @@
 - pkg:cargo/shacl_rdf@0.1.120
 - pkg:cargo/shacl_rdf@0.1.121
 - pkg:cargo/shacl_rdf@0.1.135
+- pkg:cargo/shacl_rdf@0.1.147
 - pkg:cargo/shacl_rdf@0.1.76
 - pkg:cargo/shacl_rdf@0.1.77
 - pkg:cargo/shacl_rdf@0.1.79
