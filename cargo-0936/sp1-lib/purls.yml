@@ -49,3 +49,4 @@
 - pkg:cargo/sp1-lib@5.2.3
 - pkg:cargo/sp1-lib@5.2.4
 - pkg:cargo/sp1-lib@6.0.0-beta.1
+- pkg:cargo/sp1-lib@6.0.0-rc.1
