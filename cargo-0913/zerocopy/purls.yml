@@ -134,6 +134,7 @@
 - pkg:cargo/zerocopy@0.8.36
 - pkg:cargo/zerocopy@0.8.37
 - pkg:cargo/zerocopy@0.8.38
+- pkg:cargo/zerocopy@0.8.39
 - pkg:cargo/zerocopy@0.8.4
 - pkg:cargo/zerocopy@0.8.5
 - pkg:cargo/zerocopy@0.8.6
