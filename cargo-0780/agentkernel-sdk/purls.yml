@@ -7,3 +7,4 @@
 - pkg:cargo/agentkernel-sdk@0.7.0
 - pkg:cargo/agentkernel-sdk@0.7.1
 - pkg:cargo/agentkernel-sdk@0.8.0
+- pkg:cargo/agentkernel-sdk@0.9.0

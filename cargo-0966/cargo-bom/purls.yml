@@ -21,3 +21,4 @@
 - pkg:cargo/cargo-bom@0.6.7
 - pkg:cargo/cargo-bom@0.6.8
 - pkg:cargo/cargo-bom@0.7.0
+- pkg:cargo/cargo-bom@0.7.1

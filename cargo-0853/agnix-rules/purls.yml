@@ -6,3 +6,5 @@
 - pkg:cargo/agnix-rules@0.7.0
 - pkg:cargo/agnix-rules@0.7.1
 - pkg:cargo/agnix-rules@0.7.2
+- pkg:cargo/agnix-rules@0.8.0
+- pkg:cargo/agnix-rules@0.8.1
