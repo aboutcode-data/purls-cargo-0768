@@ -189,6 +189,8 @@
 - pkg:cargo/peroxide@0.4.8
 - pkg:cargo/peroxide@0.4.9
 - pkg:cargo/peroxide@0.40.0
+- pkg:cargo/peroxide@0.40.1
+- pkg:cargo/peroxide@0.40.2
 - pkg:cargo/peroxide@0.5.0
 - pkg:cargo/peroxide@0.5.1
 - pkg:cargo/peroxide@0.5.2
