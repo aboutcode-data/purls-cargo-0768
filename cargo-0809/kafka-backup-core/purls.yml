@@ -12,3 +12,4 @@
 - pkg:cargo/kafka-backup-core@0.6.0
 - pkg:cargo/kafka-backup-core@0.7.0
 - pkg:cargo/kafka-backup-core@0.8.0
+- pkg:cargo/kafka-backup-core@0.8.1

@@ -8,6 +8,7 @@
 - pkg:cargo/opentalk-roomserver-types-echo@0.0.17
 - pkg:cargo/opentalk-roomserver-types-echo@0.0.18
 - pkg:cargo/opentalk-roomserver-types-echo@0.0.19
+- pkg:cargo/opentalk-roomserver-types-echo@0.0.20
 - pkg:cargo/opentalk-roomserver-types-echo@0.0.7
 - pkg:cargo/opentalk-roomserver-types-echo@0.0.8
 - pkg:cargo/opentalk-roomserver-types-echo@0.0.9
