@@ -4,3 +4,4 @@
 - pkg:cargo/fory-core@0.13.2
 - pkg:cargo/fory-core@0.14.0
 - pkg:cargo/fory-core@0.14.1
+- pkg:cargo/fory-core@0.15.0-rc.3

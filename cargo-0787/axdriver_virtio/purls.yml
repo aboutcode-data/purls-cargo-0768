@@ -1,1 +1,4 @@
 - pkg:cargo/axdriver_virtio@0.1.3-preview.1
+- pkg:cargo/axdriver_virtio@0.1.4-preview.1
+- pkg:cargo/axdriver_virtio@0.1.4-preview.2
+- pkg:cargo/axdriver_virtio@0.1.4-preview.3
