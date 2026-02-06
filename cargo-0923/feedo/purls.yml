@@ -7,7 +7,15 @@
 - pkg:cargo/feedo@1.1.14
 - pkg:cargo/feedo@1.1.15
 - pkg:cargo/feedo@1.1.18
+- pkg:cargo/feedo@1.1.19
 - pkg:cargo/feedo@1.1.2
+- pkg:cargo/feedo@1.1.20
+- pkg:cargo/feedo@1.1.21
+- pkg:cargo/feedo@1.1.22
+- pkg:cargo/feedo@1.1.23
+- pkg:cargo/feedo@1.1.24
+- pkg:cargo/feedo@1.1.25
+- pkg:cargo/feedo@1.1.26
 - pkg:cargo/feedo@1.1.5
 - pkg:cargo/feedo@1.1.7
 - pkg:cargo/feedo@1.1.8

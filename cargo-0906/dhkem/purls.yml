@@ -5,3 +5,4 @@
 - pkg:cargo/dhkem@0.1.0-pre.2
 - pkg:cargo/dhkem@0.1.0-pre.3
 - pkg:cargo/dhkem@0.1.0-pre.4
+- pkg:cargo/dhkem@0.1.0-rc.0

@@ -1473,7 +1473,15 @@
 - pkg:cargo/spider_worker@2.43.9
 - pkg:cargo/spider_worker@2.44.10
 - pkg:cargo/spider_worker@2.44.12
+- pkg:cargo/spider_worker@2.44.13
+- pkg:cargo/spider_worker@2.44.14
+- pkg:cargo/spider_worker@2.44.15
+- pkg:cargo/spider_worker@2.44.16
+- pkg:cargo/spider_worker@2.44.17
+- pkg:cargo/spider_worker@2.44.18
 - pkg:cargo/spider_worker@2.44.2
+- pkg:cargo/spider_worker@2.44.20
+- pkg:cargo/spider_worker@2.44.21
 - pkg:cargo/spider_worker@2.44.3
 - pkg:cargo/spider_worker@2.44.4
 - pkg:cargo/spider_worker@2.44.6
