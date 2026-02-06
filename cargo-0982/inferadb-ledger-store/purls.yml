@@ -11,4 +11,6 @@
 - pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260204
 - pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260205
 - pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260205.41
+- pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260205.42
+- pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260205.43
 - pkg:cargo/inferadb-ledger-store@0.1.0-nightly.20260127
