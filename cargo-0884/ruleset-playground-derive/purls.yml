@@ -10,3 +10,5 @@
 - pkg:cargo/ruleset-playground-derive@0.4.6
 - pkg:cargo/ruleset-playground-derive@0.4.7
 - pkg:cargo/ruleset-playground-derive@0.4.8
+- pkg:cargo/ruleset-playground-derive@0.4.9
+- pkg:cargo/ruleset-playground-derive@0.5.0
