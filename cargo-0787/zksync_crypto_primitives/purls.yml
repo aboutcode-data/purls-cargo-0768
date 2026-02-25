@@ -26,6 +26,7 @@
 - pkg:cargo/zksync_crypto_primitives@29.1.1-non-semver-compat
 - pkg:cargo/zksync_crypto_primitives@29.1.2-non-semver-compat
 - pkg:cargo/zksync_crypto_primitives@29.11.0-non-semver-compat
+- pkg:cargo/zksync_crypto_primitives@29.11.1-non-semver-compat
 - pkg:cargo/zksync_crypto_primitives@29.2.0-non-semver-compat
 - pkg:cargo/zksync_crypto_primitives@29.3.0-non-semver-compat
 - pkg:cargo/zksync_crypto_primitives@29.4.0-non-semver-compat

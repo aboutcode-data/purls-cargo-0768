@@ -11,6 +11,7 @@
 - pkg:cargo/zksync_da_dispatcher@29.0.0-non-semver-compat
 - pkg:cargo/zksync_da_dispatcher@29.1.2-non-semver-compat
 - pkg:cargo/zksync_da_dispatcher@29.11.0-non-semver-compat
+- pkg:cargo/zksync_da_dispatcher@29.11.1-non-semver-compat
 - pkg:cargo/zksync_da_dispatcher@29.2.0-non-semver-compat
 - pkg:cargo/zksync_da_dispatcher@29.3.0-non-semver-compat
 - pkg:cargo/zksync_da_dispatcher@29.4.0-non-semver-compat

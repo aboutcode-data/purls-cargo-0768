@@ -12,6 +12,7 @@
 - pkg:cargo/zksync_node_api_server@29.0.0-non-semver-compat
 - pkg:cargo/zksync_node_api_server@29.1.2-non-semver-compat
 - pkg:cargo/zksync_node_api_server@29.11.0-non-semver-compat
+- pkg:cargo/zksync_node_api_server@29.11.1-non-semver-compat
 - pkg:cargo/zksync_node_api_server@29.2.0-non-semver-compat
 - pkg:cargo/zksync_node_api_server@29.3.0-non-semver-compat
 - pkg:cargo/zksync_node_api_server@29.4.0-non-semver-compat
