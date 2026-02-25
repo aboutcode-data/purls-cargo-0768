@@ -53,6 +53,11 @@
 - pkg:cargo/compare-changes@0.7.29
 - pkg:cargo/compare-changes@0.7.3
 - pkg:cargo/compare-changes@0.7.30
+- pkg:cargo/compare-changes@0.7.31
+- pkg:cargo/compare-changes@0.7.32
+- pkg:cargo/compare-changes@0.7.33
+- pkg:cargo/compare-changes@0.7.34
+- pkg:cargo/compare-changes@0.7.35
 - pkg:cargo/compare-changes@0.7.4
 - pkg:cargo/compare-changes@0.7.5
 - pkg:cargo/compare-changes@0.7.6

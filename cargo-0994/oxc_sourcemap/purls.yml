@@ -86,3 +86,4 @@
 - pkg:cargo/oxc_sourcemap@5.0.1
 - pkg:cargo/oxc_sourcemap@6.0.0
 - pkg:cargo/oxc_sourcemap@6.0.1
+- pkg:cargo/oxc_sourcemap@6.0.2

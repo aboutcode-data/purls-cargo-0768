@@ -9,6 +9,8 @@
 - pkg:cargo/cosmian_cover_crypt@13.0.0
 - pkg:cargo/cosmian_cover_crypt@14.0.0
 - pkg:cargo/cosmian_cover_crypt@15.0.0
+- pkg:cargo/cosmian_cover_crypt@15.1.0
+- pkg:cargo/cosmian_cover_crypt@16.0.0
 - pkg:cargo/cosmian_cover_crypt@6.0.5
 - pkg:cargo/cosmian_cover_crypt@6.0.6
 - pkg:cargo/cosmian_cover_crypt@6.0.7

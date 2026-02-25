@@ -9,6 +9,9 @@
 - pkg:cargo/cosmian_kms_client_utils@5.14.0
 - pkg:cargo/cosmian_kms_client_utils@5.14.1
 - pkg:cargo/cosmian_kms_client_utils@5.15.0
+- pkg:cargo/cosmian_kms_client_utils@5.16.0
+- pkg:cargo/cosmian_kms_client_utils@5.16.1
+- pkg:cargo/cosmian_kms_client_utils@5.16.2
 - pkg:cargo/cosmian_kms_client_utils@5.3.0
 - pkg:cargo/cosmian_kms_client_utils@5.6.1
 - pkg:cargo/cosmian_kms_client_utils@5.7.0

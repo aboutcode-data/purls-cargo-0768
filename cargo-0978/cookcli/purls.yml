@@ -2,3 +2,5 @@
 - pkg:cargo/cookcli@0.12.1
 - pkg:cargo/cookcli@0.12.2
 - pkg:cargo/cookcli@0.19.3
+- pkg:cargo/cookcli@0.22.0
+- pkg:cargo/cookcli@0.23.0

@@ -29,6 +29,7 @@
 - pkg:cargo/codesnap-cli@0.12.9
 - pkg:cargo/codesnap-cli@0.13.0
 - pkg:cargo/codesnap-cli@0.13.1
+- pkg:cargo/codesnap-cli@0.13.2
 - pkg:cargo/codesnap-cli@0.2.2
 - pkg:cargo/codesnap-cli@0.2.3
 - pkg:cargo/codesnap-cli@0.3.0

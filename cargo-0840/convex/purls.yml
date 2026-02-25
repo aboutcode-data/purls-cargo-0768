@@ -4,6 +4,7 @@
 - pkg:cargo/convex@0.1.2
 - pkg:cargo/convex@0.10.1
 - pkg:cargo/convex@0.10.2
+- pkg:cargo/convex@0.10.3
 - pkg:cargo/convex@0.2.0
 - pkg:cargo/convex@0.3.0
 - pkg:cargo/convex@0.3.1

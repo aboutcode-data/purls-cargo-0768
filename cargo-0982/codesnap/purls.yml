@@ -31,6 +31,7 @@
 - pkg:cargo/codesnap@0.12.9
 - pkg:cargo/codesnap@0.13.0
 - pkg:cargo/codesnap@0.13.1
+- pkg:cargo/codesnap@0.13.2
 - pkg:cargo/codesnap@0.2.0
 - pkg:cargo/codesnap@0.2.1
 - pkg:cargo/codesnap@0.2.2

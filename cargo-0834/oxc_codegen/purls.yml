@@ -14,6 +14,9 @@
 - pkg:cargo/oxc_codegen@0.110.0
 - pkg:cargo/oxc_codegen@0.111.0
 - pkg:cargo/oxc_codegen@0.112.0
+- pkg:cargo/oxc_codegen@0.113.0
+- pkg:cargo/oxc_codegen@0.114.0
+- pkg:cargo/oxc_codegen@0.115.0
 - pkg:cargo/oxc_codegen@0.12.1
 - pkg:cargo/oxc_codegen@0.12.2
 - pkg:cargo/oxc_codegen@0.12.3

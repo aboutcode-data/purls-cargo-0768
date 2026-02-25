@@ -42,3 +42,4 @@
 - pkg:cargo/const-gen@1.6.6
 - pkg:cargo/const-gen@1.6.7
 - pkg:cargo/const-gen@1.6.8
+- pkg:cargo/const-gen@1.6.9
