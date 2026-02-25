@@ -3,3 +3,4 @@
 - pkg:cargo/trixter-osec-anchor-attribute-error@0.41.0
 - pkg:cargo/trixter-osec-anchor-attribute-error@0.41.5
 - pkg:cargo/trixter-osec-anchor-attribute-error@1.0.0-rc.3
+- pkg:cargo/trixter-osec-anchor-attribute-error@1.1.2
