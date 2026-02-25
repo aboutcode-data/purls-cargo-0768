@@ -1,1 +1,2 @@
 - pkg:cargo/rustp2p-reliable@0.1.0
+- pkg:cargo/rustp2p-reliable@0.1.2

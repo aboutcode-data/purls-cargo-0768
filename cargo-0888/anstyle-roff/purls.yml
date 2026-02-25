@@ -9,3 +9,4 @@
 - pkg:cargo/anstyle-roff@0.3.6
 - pkg:cargo/anstyle-roff@0.3.7
 - pkg:cargo/anstyle-roff@0.3.8
+- pkg:cargo/anstyle-roff@1.0.0

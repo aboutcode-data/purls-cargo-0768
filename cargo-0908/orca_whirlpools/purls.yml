@@ -20,3 +20,5 @@
 - pkg:cargo/orca_whirlpools@5.0.2
 - pkg:cargo/orca_whirlpools@6.0.0
 - pkg:cargo/orca_whirlpools@6.1.0
+- pkg:cargo/orca_whirlpools@7.0.0
+- pkg:cargo/orca_whirlpools@7.0.1

@@ -4,3 +4,6 @@
 - pkg:cargo/ruvector-router-core@0.1.22
 - pkg:cargo/ruvector-router-core@0.1.25
 - pkg:cargo/ruvector-router-core@0.1.30
+- pkg:cargo/ruvector-router-core@2.0.2
+- pkg:cargo/ruvector-router-core@2.0.3
+- pkg:cargo/ruvector-router-core@2.0.4

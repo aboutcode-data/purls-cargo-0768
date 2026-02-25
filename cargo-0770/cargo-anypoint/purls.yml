@@ -8,4 +8,5 @@
 - pkg:cargo/cargo-anypoint@1.6.0
 - pkg:cargo/cargo-anypoint@1.6.0-rc.0
 - pkg:cargo/cargo-anypoint@1.6.0-rc.1
+- pkg:cargo/cargo-anypoint@1.7.0
 - pkg:cargo/cargo-anypoint@1.7.0-alpha.0

@@ -5,3 +5,4 @@
 - pkg:cargo/rusty_nodejs_repl@0.2.1
 - pkg:cargo/rusty_nodejs_repl@0.2.2
 - pkg:cargo/rusty_nodejs_repl@0.3.0
+- pkg:cargo/rusty_nodejs_repl@0.4.0

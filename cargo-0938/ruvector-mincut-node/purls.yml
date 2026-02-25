@@ -1,1 +1,2 @@
 - pkg:cargo/ruvector-mincut-node@0.1.29
+- pkg:cargo/ruvector-mincut-node@2.0.4

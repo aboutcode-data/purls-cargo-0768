@@ -80,3 +80,5 @@
 - pkg:cargo/cap-fs-ext@3.4.4
 - pkg:cargo/cap-fs-ext@3.4.5
 - pkg:cargo/cap-fs-ext@4.0.0
+- pkg:cargo/cap-fs-ext@4.0.1
+- pkg:cargo/cap-fs-ext@4.0.2

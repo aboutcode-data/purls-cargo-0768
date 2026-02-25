@@ -11,3 +11,4 @@
 - pkg:cargo/rustic_backend@0.5.2
 - pkg:cargo/rustic_backend@0.5.3
 - pkg:cargo/rustic_backend@0.5.4
+- pkg:cargo/rustic_backend@0.6.0

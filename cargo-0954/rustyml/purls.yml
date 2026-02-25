@@ -1,6 +1,7 @@
 - pkg:cargo/rustyml@0.1.0
 - pkg:cargo/rustyml@0.1.1
 - pkg:cargo/rustyml@0.10.0
+- pkg:cargo/rustyml@0.11.0
 - pkg:cargo/rustyml@0.2.0
 - pkg:cargo/rustyml@0.2.1
 - pkg:cargo/rustyml@0.3.0

@@ -20,3 +20,5 @@
 - pkg:cargo/rustyline-async@0.4.5
 - pkg:cargo/rustyline-async@0.4.6
 - pkg:cargo/rustyline-async@0.4.7
+- pkg:cargo/rustyline-async@0.4.8
+- pkg:cargo/rustyline-async@0.4.9

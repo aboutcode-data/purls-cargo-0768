@@ -17,3 +17,4 @@
 - pkg:cargo/cargo-toml-workspace@7.0.6
 - pkg:cargo/cargo-toml-workspace@7.0.7
 - pkg:cargo/cargo-toml-workspace@7.0.8
+- pkg:cargo/cargo-toml-workspace@7.0.9

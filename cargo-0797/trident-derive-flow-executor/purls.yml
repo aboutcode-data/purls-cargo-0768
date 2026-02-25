@@ -10,3 +10,4 @@
 - pkg:cargo/trident-derive-flow-executor@0.12.0
 - pkg:cargo/trident-derive-flow-executor@0.12.0-rc.1
 - pkg:cargo/trident-derive-flow-executor@0.12.0-rc.2
+- pkg:cargo/trident-derive-flow-executor@0.13.0-rc.1

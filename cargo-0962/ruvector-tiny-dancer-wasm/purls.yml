@@ -2,3 +2,4 @@
 - pkg:cargo/ruvector-tiny-dancer-wasm@0.1.2
 - pkg:cargo/ruvector-tiny-dancer-wasm@0.1.22
 - pkg:cargo/ruvector-tiny-dancer-wasm@0.1.29
+- pkg:cargo/ruvector-tiny-dancer-wasm@2.0.4

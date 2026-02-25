@@ -1,1 +1,2 @@
 - pkg:cargo/ruvector-mincut-wasm@0.1.29
+- pkg:cargo/ruvector-mincut-wasm@2.0.4

@@ -1,3 +1,5 @@
 - pkg:cargo/rialo-oracle-processor-interface@0.1.10
 - pkg:cargo/rialo-oracle-processor-interface@0.1.8
 - pkg:cargo/rialo-oracle-processor-interface@0.2.0-alpha.0
+- pkg:cargo/rialo-oracle-processor-interface@0.2.0-alpha.1
+- pkg:cargo/rialo-oracle-processor-interface@0.2.0-alpha.2

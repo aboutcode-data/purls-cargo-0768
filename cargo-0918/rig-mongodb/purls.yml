@@ -45,3 +45,4 @@
 - pkg:cargo/rig-mongodb@0.3.4
 - pkg:cargo/rig-mongodb@0.3.5
 - pkg:cargo/rig-mongodb@0.3.6
+- pkg:cargo/rig-mongodb@0.3.7

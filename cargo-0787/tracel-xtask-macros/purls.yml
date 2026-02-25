@@ -50,6 +50,10 @@
 - pkg:cargo/tracel-xtask-macros@4.12.1
 - pkg:cargo/tracel-xtask-macros@4.12.2
 - pkg:cargo/tracel-xtask-macros@4.12.3
+- pkg:cargo/tracel-xtask-macros@4.13.0
+- pkg:cargo/tracel-xtask-macros@4.13.1
+- pkg:cargo/tracel-xtask-macros@4.13.2
+- pkg:cargo/tracel-xtask-macros@4.13.3
 - pkg:cargo/tracel-xtask-macros@4.2.0
 - pkg:cargo/tracel-xtask-macros@4.2.1
 - pkg:cargo/tracel-xtask-macros@4.2.2

@@ -8,3 +8,5 @@
 - pkg:cargo/rustac@0.2.4
 - pkg:cargo/rustac@0.2.5
 - pkg:cargo/rustac@0.2.6
+- pkg:cargo/rustac@0.2.7
+- pkg:cargo/rustac@0.2.8

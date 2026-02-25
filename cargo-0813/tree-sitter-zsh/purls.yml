@@ -13,3 +13,6 @@
 - pkg:cargo/tree-sitter-zsh@0.48.0
 - pkg:cargo/tree-sitter-zsh@0.52.0
 - pkg:cargo/tree-sitter-zsh@0.53.0
+- pkg:cargo/tree-sitter-zsh@0.54.0
+- pkg:cargo/tree-sitter-zsh@0.55.0
+- pkg:cargo/tree-sitter-zsh@0.56.0
