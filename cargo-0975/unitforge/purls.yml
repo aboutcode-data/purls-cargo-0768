@@ -48,3 +48,5 @@
 - pkg:cargo/unitforge@0.3.4
 - pkg:cargo/unitforge@0.3.5
 - pkg:cargo/unitforge@0.3.6
+- pkg:cargo/unitforge@0.3.7
+- pkg:cargo/unitforge@0.3.8

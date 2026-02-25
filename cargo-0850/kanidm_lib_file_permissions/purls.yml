@@ -28,3 +28,7 @@
 - pkg:cargo/kanidm_lib_file_permissions@1.8.2
 - pkg:cargo/kanidm_lib_file_permissions@1.8.3
 - pkg:cargo/kanidm_lib_file_permissions@1.8.5
+- pkg:cargo/kanidm_lib_file_permissions@1.8.6
+- pkg:cargo/kanidm_lib_file_permissions@1.9.0
+- pkg:cargo/kanidm_lib_file_permissions@1.9.0-pre
+- pkg:cargo/kanidm_lib_file_permissions@1.9.1

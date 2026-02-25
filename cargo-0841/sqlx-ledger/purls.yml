@@ -6,6 +6,9 @@
 - pkg:cargo/sqlx-ledger@0.11.1
 - pkg:cargo/sqlx-ledger@0.11.10
 - pkg:cargo/sqlx-ledger@0.11.11
+- pkg:cargo/sqlx-ledger@0.11.12
+- pkg:cargo/sqlx-ledger@0.11.13
+- pkg:cargo/sqlx-ledger@0.11.14
 - pkg:cargo/sqlx-ledger@0.11.2
 - pkg:cargo/sqlx-ledger@0.11.3
 - pkg:cargo/sqlx-ledger@0.11.4

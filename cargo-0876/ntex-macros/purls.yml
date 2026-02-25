@@ -6,3 +6,4 @@
 - pkg:cargo/ntex-macros@0.2.0
 - pkg:cargo/ntex-macros@3.0.0
 - pkg:cargo/ntex-macros@3.1.0
+- pkg:cargo/ntex-macros@3.2.0

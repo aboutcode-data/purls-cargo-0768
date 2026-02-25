@@ -4,3 +4,7 @@
 - pkg:cargo/kellnr-common@5.13.0
 - pkg:cargo/kellnr-common@5.14.0
 - pkg:cargo/kellnr-common@5.14.1
+- pkg:cargo/kellnr-common@6.0.0
+- pkg:cargo/kellnr-common@6.0.1
+- pkg:cargo/kellnr-common@6.0.2
+- pkg:cargo/kellnr-common@6.0.3

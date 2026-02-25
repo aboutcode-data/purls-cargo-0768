@@ -42,6 +42,7 @@
 - pkg:cargo/png@0.18.0-rc
 - pkg:cargo/png@0.18.0-rc.2
 - pkg:cargo/png@0.18.0-rc.3
+- pkg:cargo/png@0.18.1
 - pkg:cargo/png@0.2.0
 - pkg:cargo/png@0.3.0
 - pkg:cargo/png@0.3.1

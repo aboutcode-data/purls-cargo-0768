@@ -18,6 +18,7 @@
 - pkg:cargo/ntex-prost-build@0.11.14
 - pkg:cargo/ntex-prost-build@0.11.15
 - pkg:cargo/ntex-prost-build@0.11.17
+- pkg:cargo/ntex-prost-build@0.11.18
 - pkg:cargo/ntex-prost-build@0.11.2
 - pkg:cargo/ntex-prost-build@0.11.3
 - pkg:cargo/ntex-prost-build@0.11.4

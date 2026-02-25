@@ -14,3 +14,4 @@
 - pkg:cargo/twsnap@0.7.2
 - pkg:cargo/twsnap@0.7.3
 - pkg:cargo/twsnap@0.7.4
+- pkg:cargo/twsnap@0.8.0

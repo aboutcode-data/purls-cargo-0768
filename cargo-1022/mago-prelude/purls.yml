@@ -50,6 +50,9 @@
 - pkg:cargo/mago-prelude@1.0.2
 - pkg:cargo/mago-prelude@1.0.3
 - pkg:cargo/mago-prelude@1.1.0
+- pkg:cargo/mago-prelude@1.10.0
+- pkg:cargo/mago-prelude@1.11.0
+- pkg:cargo/mago-prelude@1.12.0
 - pkg:cargo/mago-prelude@1.2.0
 - pkg:cargo/mago-prelude@1.2.1
 - pkg:cargo/mago-prelude@1.2.2
@@ -57,3 +60,8 @@
 - pkg:cargo/mago-prelude@1.4.0
 - pkg:cargo/mago-prelude@1.4.1
 - pkg:cargo/mago-prelude@1.5.0
+- pkg:cargo/mago-prelude@1.6.0
+- pkg:cargo/mago-prelude@1.7.0
+- pkg:cargo/mago-prelude@1.8.0
+- pkg:cargo/mago-prelude@1.9.0
+- pkg:cargo/mago-prelude@1.9.1

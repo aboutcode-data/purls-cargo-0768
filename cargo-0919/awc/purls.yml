@@ -65,3 +65,4 @@
 - pkg:cargo/awc@3.7.0
 - pkg:cargo/awc@3.8.0
 - pkg:cargo/awc@3.8.1
+- pkg:cargo/awc@3.8.2

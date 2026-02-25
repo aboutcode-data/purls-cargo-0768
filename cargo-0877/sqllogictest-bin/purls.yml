@@ -45,6 +45,7 @@
 - pkg:cargo/sqllogictest-bin@0.28.3
 - pkg:cargo/sqllogictest-bin@0.28.4
 - pkg:cargo/sqllogictest-bin@0.29.0
+- pkg:cargo/sqllogictest-bin@0.29.1
 - pkg:cargo/sqllogictest-bin@0.6.0
 - pkg:cargo/sqllogictest-bin@0.6.1
 - pkg:cargo/sqllogictest-bin@0.6.2

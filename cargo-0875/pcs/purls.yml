@@ -12,3 +12,5 @@
 - pkg:cargo/pcs@0.7.1
 - pkg:cargo/pcs@0.7.2
 - pkg:cargo/pcs@0.7.3
+- pkg:cargo/pcs@0.8.0
+- pkg:cargo/pcs@0.8.1

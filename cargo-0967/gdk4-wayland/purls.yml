@@ -4,6 +4,7 @@
 - pkg:cargo/gdk4-wayland@0.10.1
 - pkg:cargo/gdk4-wayland@0.10.2
 - pkg:cargo/gdk4-wayland@0.10.3
+- pkg:cargo/gdk4-wayland@0.11.0
 - pkg:cargo/gdk4-wayland@0.11.0-alpha.1
 - pkg:cargo/gdk4-wayland@0.11.0-alpha.2
 - pkg:cargo/gdk4-wayland@0.11.0-alpha.3

@@ -218,3 +218,8 @@
 - pkg:cargo/ntex@3.0.0-pre.9
 - pkg:cargo/ntex@3.0.1
 - pkg:cargo/ntex@3.1.0
+- pkg:cargo/ntex@3.2.0
+- pkg:cargo/ntex@3.3.0
+- pkg:cargo/ntex@3.4.0
+- pkg:cargo/ntex@3.5.0
+- pkg:cargo/ntex@3.5.1

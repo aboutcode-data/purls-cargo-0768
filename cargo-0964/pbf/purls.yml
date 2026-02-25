@@ -14,3 +14,4 @@
 - pkg:cargo/pbf@1.20.0
 - pkg:cargo/pbf@1.21.0
 - pkg:cargo/pbf@1.22.0
+- pkg:cargo/pbf@1.22.1

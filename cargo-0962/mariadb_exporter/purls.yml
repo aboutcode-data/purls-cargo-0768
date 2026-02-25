@@ -8,3 +8,4 @@
 - pkg:cargo/mariadb_exporter@0.4.2
 - pkg:cargo/mariadb_exporter@0.5.0
 - pkg:cargo/mariadb_exporter@0.5.1
+- pkg:cargo/mariadb_exporter@0.6.0
