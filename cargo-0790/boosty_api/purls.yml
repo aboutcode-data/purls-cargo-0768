@@ -21,6 +21,7 @@
 - pkg:cargo/boosty_api@0.24.0
 - pkg:cargo/boosty_api@0.25.0
 - pkg:cargo/boosty_api@0.25.1
+- pkg:cargo/boosty_api@0.26.0
 - pkg:cargo/boosty_api@0.8.2
 - pkg:cargo/boosty_api@0.8.3
 - pkg:cargo/boosty_api@0.8.4

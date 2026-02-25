@@ -3,5 +3,6 @@
 - pkg:cargo/radicle-crypto@0.12.0
 - pkg:cargo/radicle-crypto@0.13.0
 - pkg:cargo/radicle-crypto@0.14.0
+- pkg:cargo/radicle-crypto@0.15.0
 - pkg:cargo/radicle-crypto@0.2.0
 - pkg:cargo/radicle-crypto@0.9.0

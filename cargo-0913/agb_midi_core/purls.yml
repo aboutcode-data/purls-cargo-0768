@@ -16,3 +16,5 @@
 - pkg:cargo/agb_midi_core@0.22.4
 - pkg:cargo/agb_midi_core@0.22.5
 - pkg:cargo/agb_midi_core@0.22.6
+- pkg:cargo/agb_midi_core@0.23.0
+- pkg:cargo/agb_midi_core@0.23.1

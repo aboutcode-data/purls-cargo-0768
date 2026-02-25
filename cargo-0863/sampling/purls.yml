@@ -2,3 +2,4 @@
 - pkg:cargo/sampling@0.1.1
 - pkg:cargo/sampling@0.2.0
 - pkg:cargo/sampling@0.3.0
+- pkg:cargo/sampling@0.3.1

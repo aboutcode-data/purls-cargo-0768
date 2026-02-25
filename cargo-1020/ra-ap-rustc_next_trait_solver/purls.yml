@@ -42,3 +42,5 @@
 - pkg:cargo/ra-ap-rustc_next_trait_solver@0.148.0
 - pkg:cargo/ra-ap-rustc_next_trait_solver@0.149.0
 - pkg:cargo/ra-ap-rustc_next_trait_solver@0.150.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.151.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.152.0

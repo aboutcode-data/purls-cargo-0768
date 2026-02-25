@@ -73,6 +73,7 @@
 - pkg:cargo/qcs-api-client-grpc@0.14.0-dev-180.0
 - pkg:cargo/qcs-api-client-grpc@0.14.0-dev-182.0
 - pkg:cargo/qcs-api-client-grpc@0.14.0-dev-ref-180.0
+- pkg:cargo/qcs-api-client-grpc@0.15.0
 - pkg:cargo/qcs-api-client-grpc@0.2.2
 - pkg:cargo/qcs-api-client-grpc@0.2.3
 - pkg:cargo/qcs-api-client-grpc@0.2.4

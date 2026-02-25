@@ -45,4 +45,7 @@
 - pkg:cargo/boojum-cuda@0.155.4
 - pkg:cargo/boojum-cuda@0.155.5
 - pkg:cargo/boojum-cuda@0.155.6
+- pkg:cargo/boojum-cuda@0.155.7
+- pkg:cargo/boojum-cuda@0.155.8
+- pkg:cargo/boojum-cuda@0.155.9
 - pkg:cargo/boojum-cuda@0.2.0
