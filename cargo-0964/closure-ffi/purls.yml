@@ -22,3 +22,4 @@
 - pkg:cargo/closure-ffi@4.1.0
 - pkg:cargo/closure-ffi@5.0.0
 - pkg:cargo/closure-ffi@5.0.1
+- pkg:cargo/closure-ffi@5.1.2

@@ -5,6 +5,7 @@
 - pkg:cargo/atproto-xrpcs@0.11.3
 - pkg:cargo/atproto-xrpcs@0.12.0
 - pkg:cargo/atproto-xrpcs@0.13.0
+- pkg:cargo/atproto-xrpcs@0.14.0
 - pkg:cargo/atproto-xrpcs@0.6.0
 - pkg:cargo/atproto-xrpcs@0.7.0
 - pkg:cargo/atproto-xrpcs@0.8.0

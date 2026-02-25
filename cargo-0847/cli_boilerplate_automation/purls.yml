@@ -1,4 +1,12 @@
 - pkg:cargo/cli_boilerplate_automation@0.0.1
+- pkg:cargo/cli_boilerplate_automation@0.0.10
+- pkg:cargo/cli_boilerplate_automation@0.0.11
+- pkg:cargo/cli_boilerplate_automation@0.0.12
+- pkg:cargo/cli_boilerplate_automation@0.0.13
+- pkg:cargo/cli_boilerplate_automation@0.0.14
+- pkg:cargo/cli_boilerplate_automation@0.0.15
+- pkg:cargo/cli_boilerplate_automation@0.0.16
+- pkg:cargo/cli_boilerplate_automation@0.0.17
 - pkg:cargo/cli_boilerplate_automation@0.0.2
 - pkg:cargo/cli_boilerplate_automation@0.0.3
 - pkg:cargo/cli_boilerplate_automation@0.0.4
@@ -6,3 +14,4 @@
 - pkg:cargo/cli_boilerplate_automation@0.0.6
 - pkg:cargo/cli_boilerplate_automation@0.0.7
 - pkg:cargo/cli_boilerplate_automation@0.0.8
+- pkg:cargo/cli_boilerplate_automation@0.0.9

@@ -1,0 +1,4 @@
+- pkg:cargo/filter-repo-rs@1.0.0
+- pkg:cargo/filter-repo-rs@1.0.0-beta
+- pkg:cargo/filter-repo-rs@1.0.0-beta.1
+- pkg:cargo/filter-repo-rs@1.0.1

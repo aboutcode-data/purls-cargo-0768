@@ -43,6 +43,7 @@
 - pkg:cargo/lalrpop-util@0.22.0
 - pkg:cargo/lalrpop-util@0.22.1
 - pkg:cargo/lalrpop-util@0.22.2
+- pkg:cargo/lalrpop-util@0.23.0
 - pkg:cargo/lalrpop-util@0.3.0
 - pkg:cargo/lalrpop-util@0.4.0
 - pkg:cargo/lalrpop-util@0.4.1

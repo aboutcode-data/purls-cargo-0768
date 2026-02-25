@@ -1,4 +1,5 @@
 - pkg:cargo/deno-tower-lsp-macros@0.10.0
 - pkg:cargo/deno-tower-lsp-macros@0.11.2
 - pkg:cargo/deno-tower-lsp-macros@0.11.3
+- pkg:cargo/deno-tower-lsp-macros@0.12.0
 - pkg:cargo/deno-tower-lsp-macros@0.9.0

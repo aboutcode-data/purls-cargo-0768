@@ -5,3 +5,8 @@
 - pkg:cargo/mdvault-core@0.2.1
 - pkg:cargo/mdvault-core@0.2.5
 - pkg:cargo/mdvault-core@0.3.0
+- pkg:cargo/mdvault-core@0.3.2
+- pkg:cargo/mdvault-core@0.3.4
+- pkg:cargo/mdvault-core@0.3.6
+- pkg:cargo/mdvault-core@0.4.0
+- pkg:cargo/mdvault-core@0.4.1

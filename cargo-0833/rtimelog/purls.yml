@@ -10,3 +10,4 @@
 - pkg:cargo/rtimelog@0.50.3
 - pkg:cargo/rtimelog@0.51.0
 - pkg:cargo/rtimelog@1.0.0
+- pkg:cargo/rtimelog@1.1.0

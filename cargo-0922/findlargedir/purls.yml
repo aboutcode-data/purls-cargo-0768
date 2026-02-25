@@ -1,6 +1,9 @@
 - pkg:cargo/findlargedir@0.10.0
 - pkg:cargo/findlargedir@0.10.2
 - pkg:cargo/findlargedir@0.10.3
+- pkg:cargo/findlargedir@0.10.4
+- pkg:cargo/findlargedir@0.11.0
+- pkg:cargo/findlargedir@0.11.1
 - pkg:cargo/findlargedir@0.5.2
 - pkg:cargo/findlargedir@0.5.3
 - pkg:cargo/findlargedir@0.5.4

@@ -5,6 +5,7 @@
 - pkg:cargo/atproto-oauth-aip@0.11.3
 - pkg:cargo/atproto-oauth-aip@0.12.0
 - pkg:cargo/atproto-oauth-aip@0.13.0
+- pkg:cargo/atproto-oauth-aip@0.14.0
 - pkg:cargo/atproto-oauth-aip@0.8.0
 - pkg:cargo/atproto-oauth-aip@0.8.1
 - pkg:cargo/atproto-oauth-aip@0.9.0

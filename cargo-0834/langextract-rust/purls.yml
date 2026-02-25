@@ -6,3 +6,4 @@
 - pkg:cargo/langextract-rust@0.4.1
 - pkg:cargo/langextract-rust@0.4.2
 - pkg:cargo/langextract-rust@0.4.3
+- pkg:cargo/langextract-rust@0.5.0

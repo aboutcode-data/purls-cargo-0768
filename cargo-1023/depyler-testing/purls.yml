@@ -1,1 +1,2 @@
 - pkg:cargo/depyler-testing@3.22.0
+- pkg:cargo/depyler-testing@4.1.1

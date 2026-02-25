@@ -22,4 +22,5 @@
 - pkg:cargo/cloud_terrastodon_relative_location@0.30.0
 - pkg:cargo/cloud_terrastodon_relative_location@0.31.0
 - pkg:cargo/cloud_terrastodon_relative_location@0.32.0
+- pkg:cargo/cloud_terrastodon_relative_location@0.33.0
 - pkg:cargo/cloud_terrastodon_relative_location@0.9.0

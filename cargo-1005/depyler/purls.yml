@@ -46,3 +46,4 @@
 - pkg:cargo/depyler@3.6.0
 - pkg:cargo/depyler@3.8.0
 - pkg:cargo/depyler@3.9.0
+- pkg:cargo/depyler@4.1.1

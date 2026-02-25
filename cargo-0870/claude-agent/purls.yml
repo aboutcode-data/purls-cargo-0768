@@ -24,6 +24,7 @@
 - pkg:cargo/claude-agent@0.2.22
 - pkg:cargo/claude-agent@0.2.23
 - pkg:cargo/claude-agent@0.2.24
+- pkg:cargo/claude-agent@0.2.25
 - pkg:cargo/claude-agent@0.2.3
 - pkg:cargo/claude-agent@0.2.4
 - pkg:cargo/claude-agent@0.2.6

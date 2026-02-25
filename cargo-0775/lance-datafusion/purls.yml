@@ -98,3 +98,4 @@
 - pkg:cargo/lance-datafusion@1.0.3
 - pkg:cargo/lance-datafusion@1.0.4
 - pkg:cargo/lance-datafusion@2.0.0
+- pkg:cargo/lance-datafusion@2.0.1

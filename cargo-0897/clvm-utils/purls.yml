@@ -40,6 +40,7 @@
 - pkg:cargo/clvm-utils@0.36.0
 - pkg:cargo/clvm-utils@0.36.1
 - pkg:cargo/clvm-utils@0.37.0
+- pkg:cargo/clvm-utils@0.38.0
 - pkg:cargo/clvm-utils@0.4.0
 - pkg:cargo/clvm-utils@0.5.1
 - pkg:cargo/clvm-utils@0.6.0

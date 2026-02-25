@@ -64,6 +64,7 @@
 - pkg:cargo/pea2pea@0.52.0
 - pkg:cargo/pea2pea@0.53.0
 - pkg:cargo/pea2pea@0.54.0
+- pkg:cargo/pea2pea@0.54.1
 - pkg:cargo/pea2pea@0.6.0
 - pkg:cargo/pea2pea@0.7.0
 - pkg:cargo/pea2pea@0.8.0

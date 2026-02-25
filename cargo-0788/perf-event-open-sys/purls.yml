@@ -12,3 +12,4 @@
 - pkg:cargo/perf-event-open-sys@3.0.0
 - pkg:cargo/perf-event-open-sys@4.0.0
 - pkg:cargo/perf-event-open-sys@5.0.0
+- pkg:cargo/perf-event-open-sys@6.0.0

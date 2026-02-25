@@ -1,3 +1,6 @@
 - pkg:cargo/sysd-manager-comcontroler@2.10.0
 - pkg:cargo/sysd-manager-comcontroler@2.12.0
 - pkg:cargo/sysd-manager-comcontroler@2.12.1
+- pkg:cargo/sysd-manager-comcontroler@2.13.0
+- pkg:cargo/sysd-manager-comcontroler@2.13.2
+- pkg:cargo/sysd-manager-comcontroler@2.13.3
