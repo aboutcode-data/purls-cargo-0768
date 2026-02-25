@@ -53,6 +53,7 @@
 - pkg:cargo/mago-prelude@1.10.0
 - pkg:cargo/mago-prelude@1.11.0
 - pkg:cargo/mago-prelude@1.12.0
+- pkg:cargo/mago-prelude@1.12.1
 - pkg:cargo/mago-prelude@1.2.0
 - pkg:cargo/mago-prelude@1.2.1
 - pkg:cargo/mago-prelude@1.2.2
