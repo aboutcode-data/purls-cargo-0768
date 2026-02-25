@@ -1,2 +1,3 @@
 - pkg:cargo/stellar-history-archive-hasher@0.7.0
 - pkg:cargo/stellar-history-archive-hasher@0.8.0
+- pkg:cargo/stellar-history-archive-hasher@0.8.1
