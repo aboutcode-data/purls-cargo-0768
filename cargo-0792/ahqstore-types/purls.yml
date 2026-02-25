@@ -69,3 +69,8 @@
 - pkg:cargo/ahqstore-types@3.9.0
 - pkg:cargo/ahqstore-types@3.9.1
 - pkg:cargo/ahqstore-types@3.9.2
+- pkg:cargo/ahqstore-types@4.0.1
+- pkg:cargo/ahqstore-types@4.1.0
+- pkg:cargo/ahqstore-types@4.2.0
+- pkg:cargo/ahqstore-types@4.3.0
+- pkg:cargo/ahqstore-types@4.4.0

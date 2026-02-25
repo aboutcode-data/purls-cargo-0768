@@ -29,6 +29,8 @@
 - pkg:cargo/rodio@0.20.1
 - pkg:cargo/rodio@0.21.0
 - pkg:cargo/rodio@0.21.1
+- pkg:cargo/rodio@0.22.0
+- pkg:cargo/rodio@0.22.1
 - pkg:cargo/rodio@0.3.0
 - pkg:cargo/rodio@0.3.1
 - pkg:cargo/rodio@0.3.2

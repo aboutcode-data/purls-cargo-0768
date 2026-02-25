@@ -1,2 +1,6 @@
 - pkg:cargo/jetstream_http@14.0.0
 - pkg:cargo/jetstream_http@14.1.0
+- pkg:cargo/jetstream_http@15.0.0
+- pkg:cargo/jetstream_http@15.1.0
+- pkg:cargo/jetstream_http@15.2.0
+- pkg:cargo/jetstream_http@16.0.0

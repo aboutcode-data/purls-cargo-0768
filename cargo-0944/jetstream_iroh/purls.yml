@@ -6,6 +6,10 @@
 - pkg:cargo/jetstream_iroh@13.0.0
 - pkg:cargo/jetstream_iroh@14.0.0
 - pkg:cargo/jetstream_iroh@14.1.0
+- pkg:cargo/jetstream_iroh@15.0.0
+- pkg:cargo/jetstream_iroh@15.1.0
+- pkg:cargo/jetstream_iroh@15.2.0
+- pkg:cargo/jetstream_iroh@16.0.0
 - pkg:cargo/jetstream_iroh@9.1.0
 - pkg:cargo/jetstream_iroh@9.1.1
 - pkg:cargo/jetstream_iroh@9.1.2

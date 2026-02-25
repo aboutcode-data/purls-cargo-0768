@@ -1,4 +1,5 @@
 - pkg:cargo/rsonpath-lib@0.1.2
+- pkg:cargo/rsonpath-lib@0.10.0
 - pkg:cargo/rsonpath-lib@0.2.0
 - pkg:cargo/rsonpath-lib@0.2.1
 - pkg:cargo/rsonpath-lib@0.3.0

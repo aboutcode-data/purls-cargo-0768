@@ -6,3 +6,7 @@
 - pkg:cargo/jetstream_error@13.0.0
 - pkg:cargo/jetstream_error@14.0.0
 - pkg:cargo/jetstream_error@14.1.0
+- pkg:cargo/jetstream_error@15.0.0
+- pkg:cargo/jetstream_error@15.1.0
+- pkg:cargo/jetstream_error@15.2.0
+- pkg:cargo/jetstream_error@16.0.0

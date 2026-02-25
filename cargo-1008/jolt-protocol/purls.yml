@@ -6,5 +6,6 @@
 - pkg:cargo/jolt-protocol@1.1.1
 - pkg:cargo/jolt-protocol@1.1.2
 - pkg:cargo/jolt-protocol@1.1.3
+- pkg:cargo/jolt-protocol@1.2.0
 - pkg:cargo/jolt-protocol@1.2.0-beta.1
 - pkg:cargo/jolt-protocol@1.2.0-beta.2

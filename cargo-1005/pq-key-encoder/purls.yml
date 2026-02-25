@@ -1,1 +1,2 @@
 - pkg:cargo/pq-key-encoder@0.0.1
+- pkg:cargo/pq-key-encoder@1.0.1

@@ -20,6 +20,11 @@
 - pkg:cargo/ballistics-engine@0.13.36
 - pkg:cargo/ballistics-engine@0.13.37
 - pkg:cargo/ballistics-engine@0.13.38
+- pkg:cargo/ballistics-engine@0.13.41
+- pkg:cargo/ballistics-engine@0.13.42
+- pkg:cargo/ballistics-engine@0.13.43
+- pkg:cargo/ballistics-engine@0.13.45
+- pkg:cargo/ballistics-engine@0.13.46
 - pkg:cargo/ballistics-engine@0.13.8
 - pkg:cargo/ballistics-engine@0.13.9
 - pkg:cargo/ballistics-engine@0.2.0

@@ -53,3 +53,4 @@
 - pkg:cargo/arrow-array@57.1.0
 - pkg:cargo/arrow-array@57.2.0
 - pkg:cargo/arrow-array@57.3.0
+- pkg:cargo/arrow-array@58.0.0

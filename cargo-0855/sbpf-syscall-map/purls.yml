@@ -1,2 +1,4 @@
 - pkg:cargo/sbpf-syscall-map@0.1.5
 - pkg:cargo/sbpf-syscall-map@0.1.6
+- pkg:cargo/sbpf-syscall-map@0.1.7
+- pkg:cargo/sbpf-syscall-map@0.1.8

@@ -3,7 +3,11 @@
 - pkg:cargo/msvc-kit@0.1.4
 - pkg:cargo/msvc-kit@0.2.0
 - pkg:cargo/msvc-kit@0.2.1
+- pkg:cargo/msvc-kit@0.2.10
 - pkg:cargo/msvc-kit@0.2.2
 - pkg:cargo/msvc-kit@0.2.3
 - pkg:cargo/msvc-kit@0.2.4
 - pkg:cargo/msvc-kit@0.2.5
+- pkg:cargo/msvc-kit@0.2.6
+- pkg:cargo/msvc-kit@0.2.7
+- pkg:cargo/msvc-kit@0.2.9

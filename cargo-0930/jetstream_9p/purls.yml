@@ -6,6 +6,10 @@
 - pkg:cargo/jetstream_9p@13.0.0
 - pkg:cargo/jetstream_9p@14.0.0
 - pkg:cargo/jetstream_9p@14.1.0
+- pkg:cargo/jetstream_9p@15.0.0
+- pkg:cargo/jetstream_9p@15.1.0
+- pkg:cargo/jetstream_9p@15.2.0
+- pkg:cargo/jetstream_9p@16.0.0
 - pkg:cargo/jetstream_9p@5.0.0
 - pkg:cargo/jetstream_9p@5.2.3
 - pkg:cargo/jetstream_9p@5.3.0

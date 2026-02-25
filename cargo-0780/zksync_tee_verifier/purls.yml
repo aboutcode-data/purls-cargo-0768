@@ -8,6 +8,7 @@
 - pkg:cargo/zksync_tee_verifier@28.8.0-non-semver-compat
 - pkg:cargo/zksync_tee_verifier@29.0.0-non-semver-compat
 - pkg:cargo/zksync_tee_verifier@29.1.2-non-semver-compat
+- pkg:cargo/zksync_tee_verifier@29.11.0-non-semver-compat
 - pkg:cargo/zksync_tee_verifier@29.2.0-non-semver-compat
 - pkg:cargo/zksync_tee_verifier@29.3.0-non-semver-compat
 - pkg:cargo/zksync_tee_verifier@29.4.0-non-semver-compat

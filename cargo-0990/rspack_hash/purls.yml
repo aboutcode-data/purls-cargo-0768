@@ -42,3 +42,4 @@
 - pkg:cargo/rspack_hash@0.7.3
 - pkg:cargo/rspack_hash@0.7.4
 - pkg:cargo/rspack_hash@0.7.5
+- pkg:cargo/rspack_hash@0.7.6

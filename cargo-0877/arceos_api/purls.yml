@@ -1,1 +1,5 @@
+- pkg:cargo/arceos_api@0.2.2-hv.2
+- pkg:cargo/arceos_api@0.2.2-hv.3
+- pkg:cargo/arceos_api@0.2.2-hv.4
+- pkg:cargo/arceos_api@0.2.2-hv.5
 - pkg:cargo/arceos_api@0.2.2-preview.1

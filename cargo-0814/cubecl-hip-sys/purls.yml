@@ -26,3 +26,4 @@
 - pkg:cargo/cubecl-hip-sys@6.4.4348400
 - pkg:cargo/cubecl-hip-sys@7.0.5183100
 - pkg:cargo/cubecl-hip-sys@7.0.5183101
+- pkg:cargo/cubecl-hip-sys@7.1.5280200

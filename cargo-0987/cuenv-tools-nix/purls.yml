@@ -1,1 +1,4 @@
+- pkg:cargo/cuenv-tools-nix@0.1.0
+- pkg:cargo/cuenv-tools-nix@0.26.11
+- pkg:cargo/cuenv-tools-nix@0.26.12
 - pkg:cargo/cuenv-tools-nix@0.26.2

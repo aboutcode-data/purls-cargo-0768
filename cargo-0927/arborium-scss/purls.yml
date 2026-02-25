@@ -21,6 +21,7 @@
 - pkg:cargo/arborium-scss@2.12.2
 - pkg:cargo/arborium-scss@2.12.3
 - pkg:cargo/arborium-scss@2.12.4
+- pkg:cargo/arborium-scss@2.13.0
 - pkg:cargo/arborium-scss@2.2.0
 - pkg:cargo/arborium-scss@2.3.0
 - pkg:cargo/arborium-scss@2.3.1

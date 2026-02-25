@@ -120,4 +120,7 @@
 - pkg:cargo/divviup-cli@0.4.78
 - pkg:cargo/divviup-cli@0.4.79
 - pkg:cargo/divviup-cli@0.4.8
+- pkg:cargo/divviup-cli@0.4.80
+- pkg:cargo/divviup-cli@0.4.81
+- pkg:cargo/divviup-cli@0.4.82
 - pkg:cargo/divviup-cli@0.4.9

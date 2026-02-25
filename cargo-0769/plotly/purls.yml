@@ -10,6 +10,7 @@
 - pkg:cargo/plotly@0.13.4
 - pkg:cargo/plotly@0.13.5
 - pkg:cargo/plotly@0.14.0
+- pkg:cargo/plotly@0.14.1
 - pkg:cargo/plotly@0.2.1
 - pkg:cargo/plotly@0.3.0
 - pkg:cargo/plotly@0.4.0

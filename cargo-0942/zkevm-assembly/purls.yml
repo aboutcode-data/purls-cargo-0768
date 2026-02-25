@@ -41,3 +41,6 @@
 - pkg:cargo/zkevm-assembly@0.153.4
 - pkg:cargo/zkevm-assembly@0.153.5
 - pkg:cargo/zkevm-assembly@0.153.6
+- pkg:cargo/zkevm-assembly@0.153.7
+- pkg:cargo/zkevm-assembly@0.153.8
+- pkg:cargo/zkevm-assembly@0.153.9

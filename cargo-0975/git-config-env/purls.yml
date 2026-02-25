@@ -8,3 +8,4 @@
 - pkg:cargo/git-config-env@0.2.1
 - pkg:cargo/git-config-env@0.2.2
 - pkg:cargo/git-config-env@0.2.3
+- pkg:cargo/git-config-env@1.0.0

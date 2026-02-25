@@ -8,3 +8,6 @@
 - pkg:cargo/rsdex@0.1.55
 - pkg:cargo/rsdex@0.1.60
 - pkg:cargo/rsdex@0.1.70
+- pkg:cargo/rsdex@0.1.85
+- pkg:cargo/rsdex@0.1.86
+- pkg:cargo/rsdex@0.1.87

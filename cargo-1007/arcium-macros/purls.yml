@@ -19,3 +19,7 @@
 - pkg:cargo/arcium-macros@0.6.6
 - pkg:cargo/arcium-macros@0.7.0
 - pkg:cargo/arcium-macros@0.8.0
+- pkg:cargo/arcium-macros@0.8.2
+- pkg:cargo/arcium-macros@0.8.3
+- pkg:cargo/arcium-macros@0.8.4
+- pkg:cargo/arcium-macros@0.8.5
