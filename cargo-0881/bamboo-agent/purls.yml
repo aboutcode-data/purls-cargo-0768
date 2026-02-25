@@ -9,3 +9,4 @@
 - pkg:cargo/bamboo-agent@0.2.5
 - pkg:cargo/bamboo-agent@0.2.6
 - pkg:cargo/bamboo-agent@0.2.8
+- pkg:cargo/bamboo-agent@0.2.9
