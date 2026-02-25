@@ -1,1 +1,2 @@
 - pkg:cargo/rknn-runtime@0.1.0
+- pkg:cargo/rknn-runtime@0.1.1

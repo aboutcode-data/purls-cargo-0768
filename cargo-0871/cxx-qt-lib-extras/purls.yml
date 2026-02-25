@@ -3,3 +3,4 @@
 - pkg:cargo/cxx-qt-lib-extras@0.7.2
 - pkg:cargo/cxx-qt-lib-extras@0.7.3
 - pkg:cargo/cxx-qt-lib-extras@0.8.0
+- pkg:cargo/cxx-qt-lib-extras@0.8.1

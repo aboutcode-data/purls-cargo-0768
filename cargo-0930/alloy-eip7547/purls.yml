@@ -114,3 +114,6 @@
 - pkg:cargo/alloy-eip7547@1.5.2
 - pkg:cargo/alloy-eip7547@1.6.0
 - pkg:cargo/alloy-eip7547@1.6.1
+- pkg:cargo/alloy-eip7547@1.7.0
+- pkg:cargo/alloy-eip7547@1.7.1
+- pkg:cargo/alloy-eip7547@1.7.3

@@ -1,6 +1,8 @@
 - pkg:cargo/moq-relay-ietf@0.7.0
 - pkg:cargo/moq-relay-ietf@0.7.1
 - pkg:cargo/moq-relay-ietf@0.7.10
+- pkg:cargo/moq-relay-ietf@0.7.11
+- pkg:cargo/moq-relay-ietf@0.7.12
 - pkg:cargo/moq-relay-ietf@0.7.2
 - pkg:cargo/moq-relay-ietf@0.7.3
 - pkg:cargo/moq-relay-ietf@0.7.4

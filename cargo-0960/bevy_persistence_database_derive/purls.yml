@@ -1,4 +1,6 @@
 - pkg:cargo/bevy_persistence_database_derive@0.1.0
 - pkg:cargo/bevy_persistence_database_derive@0.2.0
+- pkg:cargo/bevy_persistence_database_derive@0.2.10
 - pkg:cargo/bevy_persistence_database_derive@0.2.3
 - pkg:cargo/bevy_persistence_database_derive@0.2.6
+- pkg:cargo/bevy_persistence_database_derive@0.3.0

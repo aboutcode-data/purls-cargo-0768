@@ -8,6 +8,8 @@
 - pkg:cargo/czkawka_gui@1.5.0
 - pkg:cargo/czkawka_gui@1.5.1
 - pkg:cargo/czkawka_gui@10.0.0
+- pkg:cargo/czkawka_gui@11.0.0
+- pkg:cargo/czkawka_gui@11.0.1
 - pkg:cargo/czkawka_gui@2.0.0
 - pkg:cargo/czkawka_gui@2.1.0
 - pkg:cargo/czkawka_gui@2.2.0

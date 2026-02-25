@@ -15,7 +15,13 @@
 - pkg:cargo/pytest-language-server@0.17.2
 - pkg:cargo/pytest-language-server@0.17.3
 - pkg:cargo/pytest-language-server@0.18.0
+- pkg:cargo/pytest-language-server@0.19.0
+- pkg:cargo/pytest-language-server@0.19.1
+- pkg:cargo/pytest-language-server@0.19.2
+- pkg:cargo/pytest-language-server@0.19.3
 - pkg:cargo/pytest-language-server@0.2.0
+- pkg:cargo/pytest-language-server@0.20.0
+- pkg:cargo/pytest-language-server@0.21.0
 - pkg:cargo/pytest-language-server@0.3.0
 - pkg:cargo/pytest-language-server@0.3.1
 - pkg:cargo/pytest-language-server@0.4.0

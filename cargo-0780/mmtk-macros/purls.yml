@@ -19,3 +19,4 @@
 - pkg:cargo/mmtk-macros@0.29.0
 - pkg:cargo/mmtk-macros@0.30.0
 - pkg:cargo/mmtk-macros@0.31.0
+- pkg:cargo/mmtk-macros@0.32.0

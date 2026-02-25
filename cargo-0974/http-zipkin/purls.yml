@@ -4,3 +4,4 @@
 - pkg:cargo/http-zipkin@0.3.0
 - pkg:cargo/http-zipkin@0.4.0
 - pkg:cargo/http-zipkin@1.0.0
+- pkg:cargo/http-zipkin@1.1.0

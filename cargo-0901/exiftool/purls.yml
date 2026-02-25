@@ -8,3 +8,4 @@
 - pkg:cargo/exiftool@0.2.5
 - pkg:cargo/exiftool@0.2.6
 - pkg:cargo/exiftool@0.3.0
+- pkg:cargo/exiftool@0.3.1

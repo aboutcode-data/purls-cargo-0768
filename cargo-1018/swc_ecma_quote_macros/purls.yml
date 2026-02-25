@@ -315,6 +315,7 @@
 - pkg:cargo/swc_ecma_quote_macros@31.0.0
 - pkg:cargo/swc_ecma_quote_macros@32.0.0
 - pkg:cargo/swc_ecma_quote_macros@33.0.0
+- pkg:cargo/swc_ecma_quote_macros@34.0.0
 - pkg:cargo/swc_ecma_quote_macros@4.0.0
 - pkg:cargo/swc_ecma_quote_macros@5.0.0
 - pkg:cargo/swc_ecma_quote_macros@6.0.0

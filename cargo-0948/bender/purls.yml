@@ -35,3 +35,4 @@
 - pkg:cargo/bender@0.28.2
 - pkg:cargo/bender@0.29.0
 - pkg:cargo/bender@0.29.1
+- pkg:cargo/bender@0.30.0

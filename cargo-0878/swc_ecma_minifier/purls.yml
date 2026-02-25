@@ -1300,6 +1300,8 @@
 - pkg:cargo/swc_ecma_minifier@43.0.1
 - pkg:cargo/swc_ecma_minifier@43.0.2
 - pkg:cargo/swc_ecma_minifier@44.0.0
+- pkg:cargo/swc_ecma_minifier@45.0.0
+- pkg:cargo/swc_ecma_minifier@45.0.1
 - pkg:cargo/swc_ecma_minifier@5.0.0
 - pkg:cargo/swc_ecma_minifier@5.0.1
 - pkg:cargo/swc_ecma_minifier@6.0.0

@@ -24,3 +24,4 @@
 - pkg:cargo/zebra-state@3.1.0
 - pkg:cargo/zebra-state@3.1.1
 - pkg:cargo/zebra-state@3.1.2
+- pkg:cargo/zebra-state@4.0.0

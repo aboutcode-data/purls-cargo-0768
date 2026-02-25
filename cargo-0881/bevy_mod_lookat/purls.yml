@@ -7,3 +7,4 @@
 - pkg:cargo/bevy_mod_lookat@0.4.2
 - pkg:cargo/bevy_mod_lookat@0.5.0
 - pkg:cargo/bevy_mod_lookat@0.5.1
+- pkg:cargo/bevy_mod_lookat@0.6.0

@@ -7,3 +7,5 @@
 - pkg:cargo/beamer-macros@0.1.6
 - pkg:cargo/beamer-macros@0.2.0
 - pkg:cargo/beamer-macros@0.2.1
+- pkg:cargo/beamer-macros@0.2.2
+- pkg:cargo/beamer-macros@0.2.3

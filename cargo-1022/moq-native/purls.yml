@@ -4,6 +4,9 @@
 - pkg:cargo/moq-native@0.11.0
 - pkg:cargo/moq-native@0.12.0
 - pkg:cargo/moq-native@0.12.1
+- pkg:cargo/moq-native@0.12.2
+- pkg:cargo/moq-native@0.13.0
+- pkg:cargo/moq-native@0.13.1
 - pkg:cargo/moq-native@0.2.0
 - pkg:cargo/moq-native@0.2.1
 - pkg:cargo/moq-native@0.2.2

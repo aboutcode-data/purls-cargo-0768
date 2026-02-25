@@ -2,3 +2,4 @@
 - pkg:cargo/model-context-protocol-macros@0.1.3
 - pkg:cargo/model-context-protocol-macros@0.1.4
 - pkg:cargo/model-context-protocol-macros@0.2.0
+- pkg:cargo/model-context-protocol-macros@0.2.2

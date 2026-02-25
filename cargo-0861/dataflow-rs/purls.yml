@@ -45,3 +45,5 @@
 - pkg:cargo/dataflow-rs@2.0.2
 - pkg:cargo/dataflow-rs@2.0.3
 - pkg:cargo/dataflow-rs@2.0.4
+- pkg:cargo/dataflow-rs@2.1.0
+- pkg:cargo/dataflow-rs@2.1.1

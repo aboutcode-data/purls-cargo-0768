@@ -1,1 +1,8 @@
 - pkg:cargo/moneylib@0.0.0
+- pkg:cargo/moneylib@0.1.0
+- pkg:cargo/moneylib@0.2.0
+- pkg:cargo/moneylib@0.2.2
+- pkg:cargo/moneylib@0.2.3
+- pkg:cargo/moneylib@0.2.4
+- pkg:cargo/moneylib@0.3.0
+- pkg:cargo/moneylib@0.4.0

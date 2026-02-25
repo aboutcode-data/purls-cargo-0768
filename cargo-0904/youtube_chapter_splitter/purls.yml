@@ -10,12 +10,15 @@
 - pkg:cargo/youtube_chapter_splitter@0.13.0
 - pkg:cargo/youtube_chapter_splitter@0.14.0
 - pkg:cargo/youtube_chapter_splitter@0.14.1
+- pkg:cargo/youtube_chapter_splitter@0.14.10
 - pkg:cargo/youtube_chapter_splitter@0.14.2
 - pkg:cargo/youtube_chapter_splitter@0.14.3
 - pkg:cargo/youtube_chapter_splitter@0.14.4
 - pkg:cargo/youtube_chapter_splitter@0.14.5
 - pkg:cargo/youtube_chapter_splitter@0.14.6
 - pkg:cargo/youtube_chapter_splitter@0.14.7
+- pkg:cargo/youtube_chapter_splitter@0.14.8
+- pkg:cargo/youtube_chapter_splitter@0.14.9
 - pkg:cargo/youtube_chapter_splitter@0.15.0
 - pkg:cargo/youtube_chapter_splitter@0.15.1
 - pkg:cargo/youtube_chapter_splitter@0.15.3
