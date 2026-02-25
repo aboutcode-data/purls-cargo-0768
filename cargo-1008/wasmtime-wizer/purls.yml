@@ -6,7 +6,10 @@
 - pkg:cargo/wasmtime-wizer@40.0.1
 - pkg:cargo/wasmtime-wizer@40.0.2
 - pkg:cargo/wasmtime-wizer@40.0.3
+- pkg:cargo/wasmtime-wizer@40.0.4
 - pkg:cargo/wasmtime-wizer@41.0.0
 - pkg:cargo/wasmtime-wizer@41.0.1
 - pkg:cargo/wasmtime-wizer@41.0.2
 - pkg:cargo/wasmtime-wizer@41.0.3
+- pkg:cargo/wasmtime-wizer@41.0.4
+- pkg:cargo/wasmtime-wizer@42.0.0

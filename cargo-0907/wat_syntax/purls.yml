@@ -8,3 +8,4 @@
 - pkg:cargo/wat_syntax@0.6.0
 - pkg:cargo/wat_syntax@0.7.0
 - pkg:cargo/wat_syntax@0.8.0
+- pkg:cargo/wat_syntax@0.9.0

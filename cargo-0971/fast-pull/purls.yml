@@ -27,3 +27,10 @@
 - pkg:cargo/fast-pull@3.6.0
 - pkg:cargo/fast-pull@3.6.1
 - pkg:cargo/fast-pull@3.6.2
+- pkg:cargo/fast-pull@3.6.3
+- pkg:cargo/fast-pull@3.7.0
+- pkg:cargo/fast-pull@3.7.1
+- pkg:cargo/fast-pull@3.7.2
+- pkg:cargo/fast-pull@3.7.3
+- pkg:cargo/fast-pull@3.7.4
+- pkg:cargo/fast-pull@3.7.5

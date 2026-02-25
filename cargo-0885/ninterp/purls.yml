@@ -23,3 +23,4 @@
 - pkg:cargo/ninterp@0.7.3
 - pkg:cargo/ninterp@0.8.0
 - pkg:cargo/ninterp@0.8.1
+- pkg:cargo/ninterp@0.8.2

@@ -36,6 +36,7 @@
 - pkg:cargo/testcontainers@0.26.3
 - pkg:cargo/testcontainers@0.26.4
 - pkg:cargo/testcontainers@0.27.0
+- pkg:cargo/testcontainers@0.27.1
 - pkg:cargo/testcontainers@0.3.0
 - pkg:cargo/testcontainers@0.3.1
 - pkg:cargo/testcontainers@0.4.0

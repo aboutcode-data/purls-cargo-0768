@@ -1,3 +1,8 @@
+- pkg:cargo/shvcall@3.10.0
+- pkg:cargo/shvcall@3.10.1
+- pkg:cargo/shvcall@3.10.2
+- pkg:cargo/shvcall@3.10.3
+- pkg:cargo/shvcall@3.11.0
 - pkg:cargo/shvcall@3.9.10
 - pkg:cargo/shvcall@3.9.11
 - pkg:cargo/shvcall@3.9.12
@@ -5,6 +10,8 @@
 - pkg:cargo/shvcall@3.9.14
 - pkg:cargo/shvcall@3.9.15
 - pkg:cargo/shvcall@3.9.16
+- pkg:cargo/shvcall@3.9.17
+- pkg:cargo/shvcall@3.9.18
 - pkg:cargo/shvcall@3.9.3
 - pkg:cargo/shvcall@3.9.5
 - pkg:cargo/shvcall@3.9.6

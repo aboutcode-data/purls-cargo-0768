@@ -3,3 +3,4 @@
 - pkg:cargo/oauth2-passkey-axum@0.1.2
 - pkg:cargo/oauth2-passkey-axum@0.1.3
 - pkg:cargo/oauth2-passkey-axum@0.2.0
+- pkg:cargo/oauth2-passkey-axum@0.3.0

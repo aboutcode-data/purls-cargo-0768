@@ -16,6 +16,10 @@
 - pkg:cargo/vrc-log@0.13.6
 - pkg:cargo/vrc-log@0.14.0
 - pkg:cargo/vrc-log@0.14.1
+- pkg:cargo/vrc-log@0.14.2
+- pkg:cargo/vrc-log@0.15.0
+- pkg:cargo/vrc-log@0.15.1
+- pkg:cargo/vrc-log@0.15.2
 - pkg:cargo/vrc-log@0.2.5
 - pkg:cargo/vrc-log@0.2.6
 - pkg:cargo/vrc-log@0.2.7

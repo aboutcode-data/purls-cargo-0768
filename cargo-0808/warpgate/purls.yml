@@ -82,6 +82,7 @@
 - pkg:cargo/warpgate@0.28.5
 - pkg:cargo/warpgate@0.29.0
 - pkg:cargo/warpgate@0.29.1
+- pkg:cargo/warpgate@0.29.2
 - pkg:cargo/warpgate@0.3.0
 - pkg:cargo/warpgate@0.3.1
 - pkg:cargo/warpgate@0.3.2

@@ -15,3 +15,4 @@
 - pkg:cargo/timeago@0.4.1
 - pkg:cargo/timeago@0.4.2
 - pkg:cargo/timeago@0.5.0
+- pkg:cargo/timeago@0.6.0

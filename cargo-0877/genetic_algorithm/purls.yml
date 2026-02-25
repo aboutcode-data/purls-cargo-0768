@@ -36,6 +36,8 @@
 - pkg:cargo/genetic_algorithm@0.25.0
 - pkg:cargo/genetic_algorithm@0.25.1
 - pkg:cargo/genetic_algorithm@0.26.0
+- pkg:cargo/genetic_algorithm@0.26.1
+- pkg:cargo/genetic_algorithm@0.27.0
 - pkg:cargo/genetic_algorithm@0.3.1
 - pkg:cargo/genetic_algorithm@0.4.0
 - pkg:cargo/genetic_algorithm@0.4.1

@@ -15,9 +15,13 @@
 - pkg:cargo/factorion-bot-reddit@5.2.0
 - pkg:cargo/factorion-bot-reddit@5.2.1
 - pkg:cargo/factorion-bot-reddit@5.2.11
+- pkg:cargo/factorion-bot-reddit@5.2.12
+- pkg:cargo/factorion-bot-reddit@5.2.13
+- pkg:cargo/factorion-bot-reddit@5.2.14
 - pkg:cargo/factorion-bot-reddit@5.2.2
 - pkg:cargo/factorion-bot-reddit@5.2.3
 - pkg:cargo/factorion-bot-reddit@5.2.4
 - pkg:cargo/factorion-bot-reddit@5.2.5
 - pkg:cargo/factorion-bot-reddit@5.2.6
 - pkg:cargo/factorion-bot-reddit@5.2.7
+- pkg:cargo/factorion-bot-reddit@5.3.0

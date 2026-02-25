@@ -191,6 +191,7 @@
 - pkg:cargo/broot@1.52.0
 - pkg:cargo/broot@1.53.0
 - pkg:cargo/broot@1.54.0
+- pkg:cargo/broot@1.55.0
 - pkg:cargo/broot@1.6.0
 - pkg:cargo/broot@1.6.1
 - pkg:cargo/broot@1.6.2

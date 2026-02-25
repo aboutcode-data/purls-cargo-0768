@@ -70,3 +70,4 @@
 - pkg:cargo/wasmer-cli@7.0.0-rc.1
 - pkg:cargo/wasmer-cli@7.0.0-rc.2
 - pkg:cargo/wasmer-cli@7.0.1
+- pkg:cargo/wasmer-cli@7.1.0-alpha.1

@@ -1,2 +1,5 @@
 - pkg:cargo/shvproto@3.6.28
 - pkg:cargo/shvproto@5.0.1
+- pkg:cargo/shvproto@6.0.1
+- pkg:cargo/shvproto@6.0.2
+- pkg:cargo/shvproto@6.1.0

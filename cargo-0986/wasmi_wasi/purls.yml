@@ -81,3 +81,6 @@
 - pkg:cargo/wasmi_wasi@1.0.6
 - pkg:cargo/wasmi_wasi@1.0.7
 - pkg:cargo/wasmi_wasi@1.0.8
+- pkg:cargo/wasmi_wasi@1.0.9
+- pkg:cargo/wasmi_wasi@2.0.0-beta.0
+- pkg:cargo/wasmi_wasi@2.0.0-beta.1

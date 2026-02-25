@@ -1,5 +1,6 @@
 - pkg:cargo/terraphim_rolegraph@0.1.0
 - pkg:cargo/terraphim_rolegraph@1.0.0
+- pkg:cargo/terraphim_rolegraph@1.10.0
 - pkg:cargo/terraphim_rolegraph@1.4.10
 - pkg:cargo/terraphim_rolegraph@1.4.7
 - pkg:cargo/terraphim_rolegraph@1.4.8

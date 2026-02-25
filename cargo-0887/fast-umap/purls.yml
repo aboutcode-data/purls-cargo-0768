@@ -1,2 +1,5 @@
 - pkg:cargo/fast-umap@0.0.1
 - pkg:cargo/fast-umap@0.0.2
+- pkg:cargo/fast-umap@1.0.0
+- pkg:cargo/fast-umap@1.1.0
+- pkg:cargo/fast-umap@1.2.0
