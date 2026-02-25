@@ -5,3 +5,5 @@
 - pkg:cargo/idax-sys@0.2.3
 - pkg:cargo/idax-sys@0.2.4
 - pkg:cargo/idax-sys@0.2.6
+- pkg:cargo/idax-sys@0.2.7
+- pkg:cargo/idax-sys@0.3.0
