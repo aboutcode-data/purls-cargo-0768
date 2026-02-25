@@ -134,4 +134,6 @@
 - pkg:cargo/svix@1.83.0
 - pkg:cargo/svix@1.84.0
 - pkg:cargo/svix@1.84.1
+- pkg:cargo/svix@1.85.0
+- pkg:cargo/svix@1.86.0
 - pkg:cargo/svix@1.9.0

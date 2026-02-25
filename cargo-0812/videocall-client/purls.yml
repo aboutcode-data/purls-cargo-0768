@@ -34,3 +34,9 @@
 - pkg:cargo/videocall-client@1.1.9
 - pkg:cargo/videocall-client@2.0.0
 - pkg:cargo/videocall-client@3.0.0
+- pkg:cargo/videocall-client@4.0.0
+- pkg:cargo/videocall-client@4.0.1
+- pkg:cargo/videocall-client@4.0.2
+- pkg:cargo/videocall-client@4.0.3
+- pkg:cargo/videocall-client@4.0.4
+- pkg:cargo/videocall-client@4.0.5

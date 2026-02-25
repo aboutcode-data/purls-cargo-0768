@@ -1,0 +1,4 @@
+- pkg:cargo/groth16-proofs@0.1.0
+- pkg:cargo/groth16-proofs@1.0.0
+- pkg:cargo/groth16-proofs@1.1.0
+- pkg:cargo/groth16-proofs@2.0.0

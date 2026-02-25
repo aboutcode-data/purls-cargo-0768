@@ -1,3 +1,7 @@
 - pkg:cargo/spacedatastandards-org@1.73.10
 - pkg:cargo/spacedatastandards-org@1.73.11
 - pkg:cargo/spacedatastandards-org@1.73.12
+- pkg:cargo/spacedatastandards-org@23.3.3-0.3.1
+- pkg:cargo/spacedatastandards-org@23.3.3-0.3.2
+- pkg:cargo/spacedatastandards-org@23.3.3-0.3.3
+- pkg:cargo/spacedatastandards-org@23.3.3-0.3.4

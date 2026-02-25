@@ -1,6 +1,8 @@
 - pkg:cargo/sparreal-macros@0.0.1
 - pkg:cargo/sparreal-macros@0.0.2
 - pkg:cargo/sparreal-macros@0.0.5
+- pkg:cargo/sparreal-macros@0.10.0
+- pkg:cargo/sparreal-macros@0.10.1
 - pkg:cargo/sparreal-macros@0.6.0
 - pkg:cargo/sparreal-macros@0.6.3
 - pkg:cargo/sparreal-macros@0.7.0

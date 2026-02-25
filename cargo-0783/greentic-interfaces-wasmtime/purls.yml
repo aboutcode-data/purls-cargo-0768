@@ -4,6 +4,12 @@
 - pkg:cargo/greentic-interfaces-wasmtime@0.2.0
 - pkg:cargo/greentic-interfaces-wasmtime@0.2.1
 - pkg:cargo/greentic-interfaces-wasmtime@0.2.3
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.100
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.102
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.103
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.104
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.105
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.106
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.22
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.30
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.32
@@ -51,3 +57,12 @@
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.87
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.88
 - pkg:cargo/greentic-interfaces-wasmtime@0.4.89
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.90
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.91
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.92
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.93
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.94
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.95
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.96
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.98
+- pkg:cargo/greentic-interfaces-wasmtime@0.4.99

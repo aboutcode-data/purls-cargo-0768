@@ -10,7 +10,17 @@
 - pkg:cargo/dcel@0.6.10
 - pkg:cargo/dcel@0.6.11
 - pkg:cargo/dcel@0.6.12
+- pkg:cargo/dcel@0.6.13
+- pkg:cargo/dcel@0.6.14
+- pkg:cargo/dcel@0.6.15
+- pkg:cargo/dcel@0.6.16
+- pkg:cargo/dcel@0.6.17
+- pkg:cargo/dcel@0.6.18
+- pkg:cargo/dcel@0.6.19
 - pkg:cargo/dcel@0.6.2
+- pkg:cargo/dcel@0.6.20
+- pkg:cargo/dcel@0.6.21
+- pkg:cargo/dcel@0.6.22
 - pkg:cargo/dcel@0.6.3
 - pkg:cargo/dcel@0.6.4
 - pkg:cargo/dcel@0.6.5
@@ -18,3 +28,6 @@
 - pkg:cargo/dcel@0.6.7
 - pkg:cargo/dcel@0.6.8
 - pkg:cargo/dcel@0.6.9
+- pkg:cargo/dcel@0.7.1
+- pkg:cargo/dcel@0.8.0
+- pkg:cargo/dcel@0.8.1

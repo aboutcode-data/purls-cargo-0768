@@ -1,2 +1,3 @@
 - pkg:cargo/oxiarc-bzip2@0.1.0
 - pkg:cargo/oxiarc-bzip2@0.2.0
+- pkg:cargo/oxiarc-bzip2@0.2.1

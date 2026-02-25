@@ -10,3 +10,6 @@
 - pkg:cargo/ferrotunnel-common@0.9.5
 - pkg:cargo/ferrotunnel-common@0.9.6
 - pkg:cargo/ferrotunnel-common@1.0.0
+- pkg:cargo/ferrotunnel-common@1.0.1
+- pkg:cargo/ferrotunnel-common@1.0.2
+- pkg:cargo/ferrotunnel-common@1.0.3

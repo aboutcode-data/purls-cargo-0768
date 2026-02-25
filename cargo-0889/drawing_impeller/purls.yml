@@ -1,2 +1,4 @@
 - pkg:cargo/drawing_impeller@1000.0.0
 - pkg:cargo/drawing_impeller@1001.0.0
+- pkg:cargo/drawing_impeller@1002.0.0
+- pkg:cargo/drawing_impeller@1002.0.1

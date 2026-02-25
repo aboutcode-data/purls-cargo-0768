@@ -16,6 +16,7 @@
 - pkg:cargo/sval_test@2.14.1
 - pkg:cargo/sval_test@2.15.0
 - pkg:cargo/sval_test@2.16.0
+- pkg:cargo/sval_test@2.17.0
 - pkg:cargo/sval_test@2.2.0
 - pkg:cargo/sval_test@2.2.1
 - pkg:cargo/sval_test@2.3.0

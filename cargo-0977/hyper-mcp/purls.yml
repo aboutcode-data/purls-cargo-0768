@@ -3,3 +3,8 @@
 - pkg:cargo/hyper-mcp@0.1.6
 - pkg:cargo/hyper-mcp@0.1.7
 - pkg:cargo/hyper-mcp@0.2.3
+- pkg:cargo/hyper-mcp@0.3.0
+- pkg:cargo/hyper-mcp@0.3.1
+- pkg:cargo/hyper-mcp@0.4.0
+- pkg:cargo/hyper-mcp@0.4.1
+- pkg:cargo/hyper-mcp@0.4.2
