@@ -1,1 +1,2 @@
 - pkg:cargo/pprint_derive@0.1.0
+- pkg:cargo/pprint_derive@0.2.0
