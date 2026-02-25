@@ -12,6 +12,7 @@
 - pkg:cargo/pallet-encointer-reputation-commitments@20.1.1
 - pkg:cargo/pallet-encointer-reputation-commitments@20.1.2
 - pkg:cargo/pallet-encointer-reputation-commitments@21.1.0
+- pkg:cargo/pallet-encointer-reputation-commitments@21.1.1
 - pkg:cargo/pallet-encointer-reputation-commitments@3.0.0
 - pkg:cargo/pallet-encointer-reputation-commitments@3.0.1
 - pkg:cargo/pallet-encointer-reputation-commitments@3.0.2

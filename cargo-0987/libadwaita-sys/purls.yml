@@ -28,3 +28,4 @@
 - pkg:cargo/libadwaita-sys@0.8.1
 - pkg:cargo/libadwaita-sys@0.9.0
 - pkg:cargo/libadwaita-sys@0.9.0-alpha.0
+- pkg:cargo/libadwaita-sys@0.9.1

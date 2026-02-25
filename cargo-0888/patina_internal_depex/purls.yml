@@ -32,3 +32,5 @@
 - pkg:cargo/patina_internal_depex@19.0.4
 - pkg:cargo/patina_internal_depex@19.0.5
 - pkg:cargo/patina_internal_depex@20.0.0
+- pkg:cargo/patina_internal_depex@20.0.1
+- pkg:cargo/patina_internal_depex@20.0.2

@@ -32,3 +32,4 @@
 - pkg:cargo/patina_internal_device_path@19.0.4
 - pkg:cargo/patina_internal_device_path@19.0.5
 - pkg:cargo/patina_internal_device_path@20.0.0
+- pkg:cargo/patina_internal_device_path@20.0.1

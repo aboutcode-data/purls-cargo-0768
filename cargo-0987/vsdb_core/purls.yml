@@ -72,3 +72,6 @@
 - pkg:cargo/vsdb_core@7.0.1
 - pkg:cargo/vsdb_core@7.0.2
 - pkg:cargo/vsdb_core@7.1.0
+- pkg:cargo/vsdb_core@8.0.0
+- pkg:cargo/vsdb_core@8.1.0
+- pkg:cargo/vsdb_core@8.1.1

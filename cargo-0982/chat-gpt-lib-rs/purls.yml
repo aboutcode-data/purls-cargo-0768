@@ -25,3 +25,4 @@
 - pkg:cargo/chat-gpt-lib-rs@0.6.5
 - pkg:cargo/chat-gpt-lib-rs@0.6.6
 - pkg:cargo/chat-gpt-lib-rs@0.6.7
+- pkg:cargo/chat-gpt-lib-rs@0.7.0

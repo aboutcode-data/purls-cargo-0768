@@ -6,6 +6,9 @@
 - pkg:cargo/inbq@0.14.0
 - pkg:cargo/inbq@0.15.0
 - pkg:cargo/inbq@0.16.0
+- pkg:cargo/inbq@0.17.0
+- pkg:cargo/inbq@0.17.1
+- pkg:cargo/inbq@0.17.2
 - pkg:cargo/inbq@0.2.0
 - pkg:cargo/inbq@0.2.1
 - pkg:cargo/inbq@0.3.0

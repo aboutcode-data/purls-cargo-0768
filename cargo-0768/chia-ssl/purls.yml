@@ -26,5 +26,6 @@
 - pkg:cargo/chia-ssl@0.36.0
 - pkg:cargo/chia-ssl@0.36.1
 - pkg:cargo/chia-ssl@0.37.0
+- pkg:cargo/chia-ssl@0.38.0
 - pkg:cargo/chia-ssl@0.6.0
 - pkg:cargo/chia-ssl@0.7.0

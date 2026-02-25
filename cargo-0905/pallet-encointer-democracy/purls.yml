@@ -18,4 +18,7 @@
 - pkg:cargo/pallet-encointer-democracy@20.6.2
 - pkg:cargo/pallet-encointer-democracy@20.6.3
 - pkg:cargo/pallet-encointer-democracy@21.6.0
+- pkg:cargo/pallet-encointer-democracy@21.6.1
+- pkg:cargo/pallet-encointer-democracy@21.7.0
+- pkg:cargo/pallet-encointer-democracy@21.7.1
 - pkg:cargo/pallet-encointer-democracy@7.0.0

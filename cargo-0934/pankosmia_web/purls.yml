@@ -38,6 +38,7 @@
 - pkg:cargo/pankosmia_web@0.12.19
 - pkg:cargo/pankosmia_web@0.12.2
 - pkg:cargo/pankosmia_web@0.12.20
+- pkg:cargo/pankosmia_web@0.12.21
 - pkg:cargo/pankosmia_web@0.12.3
 - pkg:cargo/pankosmia_web@0.12.4
 - pkg:cargo/pankosmia_web@0.12.5
@@ -45,6 +46,9 @@
 - pkg:cargo/pankosmia_web@0.12.7
 - pkg:cargo/pankosmia_web@0.12.8
 - pkg:cargo/pankosmia_web@0.12.9
+- pkg:cargo/pankosmia_web@0.13.0
+- pkg:cargo/pankosmia_web@0.14.0
+- pkg:cargo/pankosmia_web@0.14.1
 - pkg:cargo/pankosmia_web@0.2.0
 - pkg:cargo/pankosmia_web@0.2.1
 - pkg:cargo/pankosmia_web@0.2.2

@@ -24,6 +24,9 @@
 - pkg:cargo/intrico@0.5.5
 - pkg:cargo/intrico@1.0.0
 - pkg:cargo/intrico@2.0.0
+- pkg:cargo/intrico@2.0.1
+- pkg:cargo/intrico@2.0.2
+- pkg:cargo/intrico@2.0.3
 - pkg:cargo/intrico@2.1.0
 - pkg:cargo/intrico@2.2.0
 - pkg:cargo/intrico@2.2.1

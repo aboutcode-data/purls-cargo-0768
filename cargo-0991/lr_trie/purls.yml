@@ -29,3 +29,4 @@
 - pkg:cargo/lr_trie@4.0.1
 - pkg:cargo/lr_trie@4.0.2
 - pkg:cargo/lr_trie@4.0.3
+- pkg:cargo/lr_trie@4.1.0

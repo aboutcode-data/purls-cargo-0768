@@ -7,3 +7,4 @@
 - pkg:cargo/libdxfeed-sys@0.1.8
 - pkg:cargo/libdxfeed-sys@0.2.0
 - pkg:cargo/libdxfeed-sys@0.2.1
+- pkg:cargo/libdxfeed-sys@0.2.2

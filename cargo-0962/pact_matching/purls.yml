@@ -128,3 +128,4 @@
 - pkg:cargo/pact_matching@2.0.0-beta.3
 - pkg:cargo/pact_matching@2.0.1
 - pkg:cargo/pact_matching@2.0.2
+- pkg:cargo/pact_matching@2.0.3

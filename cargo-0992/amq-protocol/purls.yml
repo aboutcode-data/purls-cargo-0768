@@ -42,6 +42,7 @@
 - pkg:cargo/amq-protocol@10.0.0-rc.1
 - pkg:cargo/amq-protocol@10.0.0-rc.2
 - pkg:cargo/amq-protocol@10.0.0-rc.3
+- pkg:cargo/amq-protocol@10.0.1
 - pkg:cargo/amq-protocol@2.0.0
 - pkg:cargo/amq-protocol@2.0.0-beta1
 - pkg:cargo/amq-protocol@2.0.0-beta2

@@ -12,3 +12,4 @@
 - pkg:cargo/lief-build@0.17.1
 - pkg:cargo/lief-build@0.17.2
 - pkg:cargo/lief-build@0.17.3
+- pkg:cargo/lief-build@0.17.4

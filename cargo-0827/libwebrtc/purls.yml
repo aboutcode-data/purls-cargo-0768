@@ -17,6 +17,8 @@
 - pkg:cargo/libwebrtc@0.3.22
 - pkg:cargo/libwebrtc@0.3.23
 - pkg:cargo/libwebrtc@0.3.24
+- pkg:cargo/libwebrtc@0.3.25
+- pkg:cargo/libwebrtc@0.3.26
 - pkg:cargo/libwebrtc@0.3.4
 - pkg:cargo/libwebrtc@0.3.5
 - pkg:cargo/libwebrtc@0.3.6

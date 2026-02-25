@@ -5,3 +5,5 @@
 - pkg:cargo/miden-core-lib@0.20.4
 - pkg:cargo/miden-core-lib@0.20.5
 - pkg:cargo/miden-core-lib@0.20.6
+- pkg:cargo/miden-core-lib@0.21.0
+- pkg:cargo/miden-core-lib@0.21.1

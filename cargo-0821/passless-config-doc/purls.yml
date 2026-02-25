@@ -17,3 +17,8 @@
 - pkg:cargo/passless-config-doc@0.6.6
 - pkg:cargo/passless-config-doc@0.7.0
 - pkg:cargo/passless-config-doc@0.7.1
+- pkg:cargo/passless-config-doc@0.7.2
+- pkg:cargo/passless-config-doc@0.7.3
+- pkg:cargo/passless-config-doc@0.7.4
+- pkg:cargo/passless-config-doc@0.7.5
+- pkg:cargo/passless-config-doc@0.7.6

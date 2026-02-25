@@ -8,3 +8,5 @@
 - pkg:cargo/libcrux-curve25519@0.0.4-pre.1
 - pkg:cargo/libcrux-curve25519@0.0.5
 - pkg:cargo/libcrux-curve25519@0.0.5-pre.1
+- pkg:cargo/libcrux-curve25519@0.0.6
+- pkg:cargo/libcrux-curve25519@0.0.6-pre.1

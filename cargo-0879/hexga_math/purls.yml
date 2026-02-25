@@ -19,6 +19,8 @@
 - pkg:cargo/hexga_math@0.0.11-beta.47
 - pkg:cargo/hexga_math@0.0.11-beta.49
 - pkg:cargo/hexga_math@0.0.11-beta.50
+- pkg:cargo/hexga_math@0.0.11-beta.51
+- pkg:cargo/hexga_math@0.0.11-beta.53
 - pkg:cargo/hexga_math@0.0.3
 - pkg:cargo/hexga_math@0.0.5
 - pkg:cargo/hexga_math@0.0.6

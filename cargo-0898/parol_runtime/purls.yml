@@ -67,3 +67,4 @@
 - pkg:cargo/parol_runtime@4.0.1
 - pkg:cargo/parol_runtime@4.1.0
 - pkg:cargo/parol_runtime@4.2.0
+- pkg:cargo/parol_runtime@4.3.0

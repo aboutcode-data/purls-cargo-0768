@@ -28,3 +28,4 @@
 - pkg:cargo/chia-tools@0.36.0
 - pkg:cargo/chia-tools@0.36.1
 - pkg:cargo/chia-tools@0.37.0
+- pkg:cargo/chia-tools@0.38.0
