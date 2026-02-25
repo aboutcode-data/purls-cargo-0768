@@ -46,3 +46,4 @@
 - pkg:cargo/fsst@1.0.3
 - pkg:cargo/fsst@1.0.4
 - pkg:cargo/fsst@2.0.0
+- pkg:cargo/fsst@2.0.1

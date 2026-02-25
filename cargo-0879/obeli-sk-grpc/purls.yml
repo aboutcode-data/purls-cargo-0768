@@ -20,3 +20,8 @@
 - pkg:cargo/obeli-sk-grpc@0.33.1
 - pkg:cargo/obeli-sk-grpc@0.34.0
 - pkg:cargo/obeli-sk-grpc@0.34.1
+- pkg:cargo/obeli-sk-grpc@0.35.0
+- pkg:cargo/obeli-sk-grpc@0.35.1
+- pkg:cargo/obeli-sk-grpc@0.35.2
+- pkg:cargo/obeli-sk-grpc@0.35.3
+- pkg:cargo/obeli-sk-grpc@0.35.4

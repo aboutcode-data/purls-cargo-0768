@@ -6,3 +6,4 @@
 - pkg:cargo/crossplatform_path@2.1.1
 - pkg:cargo/crossplatform_path@3.0.3
 - pkg:cargo/crossplatform_path@4.0.1
+- pkg:cargo/crossplatform_path@4.0.7

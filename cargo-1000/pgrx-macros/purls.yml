@@ -38,6 +38,7 @@
 - pkg:cargo/pgrx-macros@0.15.0
 - pkg:cargo/pgrx-macros@0.16.0
 - pkg:cargo/pgrx-macros@0.16.1
+- pkg:cargo/pgrx-macros@0.17.0
 - pkg:cargo/pgrx-macros@0.7.4
 - pkg:cargo/pgrx-macros@0.8.0
 - pkg:cargo/pgrx-macros@0.8.1

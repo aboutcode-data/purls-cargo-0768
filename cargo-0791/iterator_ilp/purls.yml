@@ -14,4 +14,5 @@
 - pkg:cargo/iterator_ilp@2.1.0
 - pkg:cargo/iterator_ilp@2.1.1
 - pkg:cargo/iterator_ilp@2.1.2
+- pkg:cargo/iterator_ilp@2.2.0
 - pkg:cargo/iterator_ilp@3.0.1

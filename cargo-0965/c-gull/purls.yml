@@ -68,6 +68,7 @@
 - pkg:cargo/c-gull@0.22.0
 - pkg:cargo/c-gull@0.22.1
 - pkg:cargo/c-gull@0.22.2
+- pkg:cargo/c-gull@0.22.3
 - pkg:cargo/c-gull@0.6.1
 - pkg:cargo/c-gull@0.7.0
 - pkg:cargo/c-gull@0.8.0

@@ -1,1 +1,5 @@
 - pkg:cargo/pg-client@0.0.1-pre1
+- pkg:cargo/pg-client@0.0.3
+- pkg:cargo/pg-client@0.0.4
+- pkg:cargo/pg-client@0.0.5
+- pkg:cargo/pg-client@0.1.0

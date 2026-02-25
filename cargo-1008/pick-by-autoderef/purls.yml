@@ -1,3 +1,11 @@
 - pkg:cargo/pick-by-autoderef@0.1.0
 - pkg:cargo/pick-by-autoderef@0.1.1
 - pkg:cargo/pick-by-autoderef@0.2.0
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.0
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.1
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.2
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.3
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.4
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.5
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.6
+- pkg:cargo/pick-by-autoderef@0.2.1-rc.7

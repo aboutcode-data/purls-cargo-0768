@@ -1,1 +1,2 @@
 - pkg:cargo/pinocchio-groth16@0.2.0
+- pkg:cargo/pinocchio-groth16@0.3.0

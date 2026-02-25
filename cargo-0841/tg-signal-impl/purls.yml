@@ -1,1 +1,4 @@
 - pkg:cargo/tg-signal-impl@0.1.0-preview.1
+- pkg:cargo/tg-signal-impl@0.4.0-preview.1
+- pkg:cargo/tg-signal-impl@0.4.1-preview.1
+- pkg:cargo/tg-signal-impl@0.4.2-preview.1

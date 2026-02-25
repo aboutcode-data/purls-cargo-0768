@@ -1,1 +1,2 @@
 - pkg:cargo/ax_slab_allocator@0.3.2-preview.1
+- pkg:cargo/ax_slab_allocator@0.4.0

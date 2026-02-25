@@ -1,1 +1,2 @@
 - pkg:cargo/axum-autoformat@0.3.0
+- pkg:cargo/axum-autoformat@0.4.0

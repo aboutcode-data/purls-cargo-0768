@@ -1,3 +1,4 @@
 - pkg:cargo/axum-subdomain-routing@0.0.5
 - pkg:cargo/axum-subdomain-routing@0.0.6
 - pkg:cargo/axum-subdomain-routing@0.0.7
+- pkg:cargo/axum-subdomain-routing@0.0.8

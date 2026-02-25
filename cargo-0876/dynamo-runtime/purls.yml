@@ -17,3 +17,4 @@
 - pkg:cargo/dynamo-runtime@0.7.1
 - pkg:cargo/dynamo-runtime@0.8.0
 - pkg:cargo/dynamo-runtime@0.8.1
+- pkg:cargo/dynamo-runtime@0.9.0

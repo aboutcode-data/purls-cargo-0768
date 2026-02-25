@@ -12,3 +12,4 @@
 - pkg:cargo/voltdb-client-rust@0.1.8
 - pkg:cargo/voltdb-client-rust@0.1.9
 - pkg:cargo/voltdb-client-rust@0.2.0
+- pkg:cargo/voltdb-client-rust@0.2.1

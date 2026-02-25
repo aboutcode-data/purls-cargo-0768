@@ -1,2 +1,7 @@
 - pkg:cargo/axalloc@0.2.1-preview.1
+- pkg:cargo/axalloc@0.2.2-hv.1
+- pkg:cargo/axalloc@0.2.2-hv.2
+- pkg:cargo/axalloc@0.2.2-hv.3
+- pkg:cargo/axalloc@0.2.2-hv.4
+- pkg:cargo/axalloc@0.2.2-hv.5
 - pkg:cargo/axalloc@0.2.2-preview.1

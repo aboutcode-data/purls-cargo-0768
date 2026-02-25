@@ -56,5 +56,6 @@
 - pkg:cargo/vortex-runend@0.57.0-rc.0
 - pkg:cargo/vortex-runend@0.57.2
 - pkg:cargo/vortex-runend@0.58.0
+- pkg:cargo/vortex-runend@0.59.4
 - pkg:cargo/vortex-runend@0.7.0
 - pkg:cargo/vortex-runend@0.9.0

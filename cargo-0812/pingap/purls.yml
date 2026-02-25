@@ -5,6 +5,7 @@
 - pkg:cargo/pingap@0.1.8
 - pkg:cargo/pingap@0.11.0
 - pkg:cargo/pingap@0.12.0
+- pkg:cargo/pingap@0.13.0
 - pkg:cargo/pingap@0.2.0
 - pkg:cargo/pingap@0.2.3
 - pkg:cargo/pingap@0.3.0
