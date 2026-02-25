@@ -3,6 +3,11 @@
 - pkg:cargo/apr-cli@0.2.1
 - pkg:cargo/apr-cli@0.2.10
 - pkg:cargo/apr-cli@0.2.11
+- pkg:cargo/apr-cli@0.2.13
+- pkg:cargo/apr-cli@0.2.14
+- pkg:cargo/apr-cli@0.2.15
+- pkg:cargo/apr-cli@0.2.16
+- pkg:cargo/apr-cli@0.2.18
 - pkg:cargo/apr-cli@0.2.2
 - pkg:cargo/apr-cli@0.2.3
 - pkg:cargo/apr-cli@0.2.4
@@ -11,3 +16,5 @@
 - pkg:cargo/apr-cli@0.2.7
 - pkg:cargo/apr-cli@0.2.8
 - pkg:cargo/apr-cli@0.2.9
+- pkg:cargo/apr-cli@0.3.0
+- pkg:cargo/apr-cli@0.3.1

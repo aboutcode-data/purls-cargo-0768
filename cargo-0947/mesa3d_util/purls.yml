@@ -6,3 +6,4 @@
 - pkg:cargo/mesa3d_util@0.1.73
 - pkg:cargo/mesa3d_util@0.1.75
 - pkg:cargo/mesa3d_util@0.1.76-alpha.0
+- pkg:cargo/mesa3d_util@0.1.76-libkrun.0

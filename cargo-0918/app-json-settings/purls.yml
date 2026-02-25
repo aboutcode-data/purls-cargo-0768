@@ -6,3 +6,6 @@
 - pkg:cargo/app-json-settings@1.0.5
 - pkg:cargo/app-json-settings@1.0.6
 - pkg:cargo/app-json-settings@1.0.7
+- pkg:cargo/app-json-settings@2.0.0
+- pkg:cargo/app-json-settings@2.0.1
+- pkg:cargo/app-json-settings@2.0.2

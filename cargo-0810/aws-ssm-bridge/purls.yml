@@ -1,2 +1,3 @@
 - pkg:cargo/aws-ssm-bridge@0.1.0
 - pkg:cargo/aws-ssm-bridge@0.2.0
+- pkg:cargo/aws-ssm-bridge@0.3.0

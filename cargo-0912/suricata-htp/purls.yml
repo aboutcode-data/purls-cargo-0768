@@ -4,3 +4,4 @@
 - pkg:cargo/suricata-htp@8.0.1
 - pkg:cargo/suricata-htp@8.0.2
 - pkg:cargo/suricata-htp@8.0.3
+- pkg:cargo/suricata-htp@9.0.0-alpha.20260210

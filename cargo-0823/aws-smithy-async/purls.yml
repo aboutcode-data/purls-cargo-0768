@@ -62,6 +62,8 @@
 - pkg:cargo/aws-smithy-async@1.2.1
 - pkg:cargo/aws-smithy-async@1.2.10
 - pkg:cargo/aws-smithy-async@1.2.11
+- pkg:cargo/aws-smithy-async@1.2.12
+- pkg:cargo/aws-smithy-async@1.2.13
 - pkg:cargo/aws-smithy-async@1.2.2
 - pkg:cargo/aws-smithy-async@1.2.3
 - pkg:cargo/aws-smithy-async@1.2.4

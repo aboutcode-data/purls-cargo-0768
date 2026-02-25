@@ -140,3 +140,5 @@
 - pkg:cargo/aws-sdk-applicationinsights@1.92.0
 - pkg:cargo/aws-sdk-applicationinsights@1.93.0
 - pkg:cargo/aws-sdk-applicationinsights@1.94.0
+- pkg:cargo/aws-sdk-applicationinsights@1.95.0
+- pkg:cargo/aws-sdk-applicationinsights@1.96.0

@@ -25,3 +25,5 @@
 - pkg:cargo/km-crates-publish-test@1.9.0
 - pkg:cargo/km-crates-publish-test@1.92.0
 - pkg:cargo/km-crates-publish-test@1.93.0
+- pkg:cargo/km-crates-publish-test@2.0.0
+- pkg:cargo/km-crates-publish-test@2.0.0-rc.1

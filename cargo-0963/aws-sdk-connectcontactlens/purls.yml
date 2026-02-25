@@ -141,3 +141,5 @@
 - pkg:cargo/aws-sdk-connectcontactlens@1.93.0
 - pkg:cargo/aws-sdk-connectcontactlens@1.94.0
 - pkg:cargo/aws-sdk-connectcontactlens@1.95.0
+- pkg:cargo/aws-sdk-connectcontactlens@1.96.0
+- pkg:cargo/aws-sdk-connectcontactlens@1.97.0

@@ -1,6 +1,7 @@
 - pkg:cargo/surrealdb-types@0.8.0
 - pkg:cargo/surrealdb-types@0.8.1
 - pkg:cargo/surrealdb-types@0.8.2
+- pkg:cargo/surrealdb-types@3.0.0
 - pkg:cargo/surrealdb-types@3.0.0-alpha.10
 - pkg:cargo/surrealdb-types@3.0.0-alpha.11
 - pkg:cargo/surrealdb-types@3.0.0-alpha.12
@@ -15,3 +16,6 @@
 - pkg:cargo/surrealdb-types@3.0.0-beta.1
 - pkg:cargo/surrealdb-types@3.0.0-beta.2
 - pkg:cargo/surrealdb-types@3.0.0-beta.3
+- pkg:cargo/surrealdb-types@3.0.0-beta.4
+- pkg:cargo/surrealdb-types@3.0.0-rc.1
+- pkg:cargo/surrealdb-types@3.0.1

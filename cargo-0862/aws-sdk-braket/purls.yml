@@ -49,6 +49,7 @@
 - pkg:cargo/aws-sdk-braket@0.9.0
 - pkg:cargo/aws-sdk-braket@1.1.0
 - pkg:cargo/aws-sdk-braket@1.10.0
+- pkg:cargo/aws-sdk-braket@1.100.0
 - pkg:cargo/aws-sdk-braket@1.11.0
 - pkg:cargo/aws-sdk-braket@1.12.0
 - pkg:cargo/aws-sdk-braket@1.13.0
@@ -145,3 +146,4 @@
 - pkg:cargo/aws-sdk-braket@1.96.0
 - pkg:cargo/aws-sdk-braket@1.97.0
 - pkg:cargo/aws-sdk-braket@1.98.0
+- pkg:cargo/aws-sdk-braket@1.99.0

@@ -1,2 +1,7 @@
 - pkg:cargo/mesa-dev@0.1.0
 - pkg:cargo/mesa-dev@0.1.1
+- pkg:cargo/mesa-dev@1.11.0
+- pkg:cargo/mesa-dev@1.12.0
+- pkg:cargo/mesa-dev@1.15.0
+- pkg:cargo/mesa-dev@1.18.0
+- pkg:cargo/mesa-dev@1.8.0

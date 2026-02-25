@@ -200,3 +200,7 @@
 - pkg:cargo/tcplane@5.0.7
 - pkg:cargo/tcplane@5.0.8
 - pkg:cargo/tcplane@5.0.9
+- pkg:cargo/tcplane@6.0.0
+- pkg:cargo/tcplane@6.0.1
+- pkg:cargo/tcplane@7.0.0
+- pkg:cargo/tcplane@8.0.0

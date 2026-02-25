@@ -30,3 +30,7 @@
 - pkg:cargo/superposition_sdk@0.97.0
 - pkg:cargo/superposition_sdk@0.97.1
 - pkg:cargo/superposition_sdk@0.97.4
+- pkg:cargo/superposition_sdk@0.98.0
+- pkg:cargo/superposition_sdk@0.99.0
+- pkg:cargo/superposition_sdk@0.99.1
+- pkg:cargo/superposition_sdk@0.99.2

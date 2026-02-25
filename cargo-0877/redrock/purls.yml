@@ -6,3 +6,4 @@
 - pkg:cargo/redrock@0.5.1
 - pkg:cargo/redrock@0.6.0
 - pkg:cargo/redrock@0.6.1
+- pkg:cargo/redrock@0.6.2

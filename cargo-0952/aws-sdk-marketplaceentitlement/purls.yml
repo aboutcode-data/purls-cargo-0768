@@ -47,6 +47,7 @@
 - pkg:cargo/aws-sdk-marketplaceentitlement@0.9.0
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.1.0
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.10.0
+- pkg:cargo/aws-sdk-marketplaceentitlement@1.100.0
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.11.0
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.12.0
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.13.0
@@ -143,3 +144,4 @@
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.96.0
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.97.0
 - pkg:cargo/aws-sdk-marketplaceentitlement@1.98.0
+- pkg:cargo/aws-sdk-marketplaceentitlement@1.99.0

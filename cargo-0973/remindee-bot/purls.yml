@@ -31,3 +31,5 @@
 - pkg:cargo/remindee-bot@0.3.3
 - pkg:cargo/remindee-bot@0.4.0
 - pkg:cargo/remindee-bot@0.4.1
+- pkg:cargo/remindee-bot@0.5.0
+- pkg:cargo/remindee-bot@0.5.1

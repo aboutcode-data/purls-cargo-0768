@@ -1,4 +1,5 @@
 - pkg:cargo/why2-chat@1.4.10
+- pkg:cargo/why2-chat@1.4.11
 - pkg:cargo/why2-chat@1.4.3-sync
 - pkg:cargo/why2-chat@1.4.4
 - pkg:cargo/why2-chat@1.4.5

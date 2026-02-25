@@ -57,7 +57,9 @@
 - pkg:cargo/aws-sdk-cognitoidentityprovider@1.106.0
 - pkg:cargo/aws-sdk-cognitoidentityprovider@1.107.0
 - pkg:cargo/aws-sdk-cognitoidentityprovider@1.108.0
+- pkg:cargo/aws-sdk-cognitoidentityprovider@1.109.0
 - pkg:cargo/aws-sdk-cognitoidentityprovider@1.11.0
+- pkg:cargo/aws-sdk-cognitoidentityprovider@1.110.0
 - pkg:cargo/aws-sdk-cognitoidentityprovider@1.12.0
 - pkg:cargo/aws-sdk-cognitoidentityprovider@1.13.0
 - pkg:cargo/aws-sdk-cognitoidentityprovider@1.14.0

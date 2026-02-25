@@ -33,6 +33,8 @@
 - pkg:cargo/aws-sdk-keyspaces@0.9.0
 - pkg:cargo/aws-sdk-keyspaces@1.1.0
 - pkg:cargo/aws-sdk-keyspaces@1.10.0
+- pkg:cargo/aws-sdk-keyspaces@1.100.0
+- pkg:cargo/aws-sdk-keyspaces@1.101.0
 - pkg:cargo/aws-sdk-keyspaces@1.11.0
 - pkg:cargo/aws-sdk-keyspaces@1.12.0
 - pkg:cargo/aws-sdk-keyspaces@1.13.0

@@ -12,3 +12,4 @@
 - pkg:cargo/restic-115@0.2.3
 - pkg:cargo/restic-115@0.2.4
 - pkg:cargo/restic-115@0.2.5
+- pkg:cargo/restic-115@0.2.6

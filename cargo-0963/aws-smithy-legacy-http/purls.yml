@@ -1,4 +1,6 @@
 - pkg:cargo/aws-smithy-legacy-http@0.62.10
+- pkg:cargo/aws-smithy-legacy-http@0.62.11
+- pkg:cargo/aws-smithy-legacy-http@0.62.12
 - pkg:cargo/aws-smithy-legacy-http@0.62.6
 - pkg:cargo/aws-smithy-legacy-http@0.62.7
 - pkg:cargo/aws-smithy-legacy-http@0.62.8

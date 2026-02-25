@@ -28,6 +28,7 @@
 - pkg:cargo/rdrive@0.18.1
 - pkg:cargo/rdrive@0.18.10
 - pkg:cargo/rdrive@0.18.11
+- pkg:cargo/rdrive@0.18.12
 - pkg:cargo/rdrive@0.18.2
 - pkg:cargo/rdrive@0.18.3
 - pkg:cargo/rdrive@0.18.4

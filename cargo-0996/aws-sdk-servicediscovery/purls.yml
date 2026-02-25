@@ -140,3 +140,5 @@
 - pkg:cargo/aws-sdk-servicediscovery@1.91.0
 - pkg:cargo/aws-sdk-servicediscovery@1.92.0
 - pkg:cargo/aws-sdk-servicediscovery@1.93.0
+- pkg:cargo/aws-sdk-servicediscovery@1.94.0
+- pkg:cargo/aws-sdk-servicediscovery@1.95.0

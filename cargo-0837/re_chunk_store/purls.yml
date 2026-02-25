@@ -139,3 +139,12 @@
 - pkg:cargo/re_chunk_store@0.29.0-rc.4
 - pkg:cargo/re_chunk_store@0.29.1
 - pkg:cargo/re_chunk_store@0.29.1-rc.1
+- pkg:cargo/re_chunk_store@0.29.2
+- pkg:cargo/re_chunk_store@0.30.0
+- pkg:cargo/re_chunk_store@0.30.0-alpha.1
+- pkg:cargo/re_chunk_store@0.30.0-alpha.2
+- pkg:cargo/re_chunk_store@0.30.0-alpha.3
+- pkg:cargo/re_chunk_store@0.30.0-alpha.4
+- pkg:cargo/re_chunk_store@0.30.0-alpha.7
+- pkg:cargo/re_chunk_store@0.30.0-rc.1
+- pkg:cargo/re_chunk_store@0.30.0-rc.2
