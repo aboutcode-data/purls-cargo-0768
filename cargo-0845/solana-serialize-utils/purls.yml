@@ -24,3 +24,4 @@
 - pkg:cargo/solana-serialize-utils@2.2.1
 - pkg:cargo/solana-serialize-utils@3.0.0
 - pkg:cargo/solana-serialize-utils@3.1.0
+- pkg:cargo/solana-serialize-utils@3.1.1

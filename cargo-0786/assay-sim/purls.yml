@@ -4,6 +4,8 @@
 - pkg:cargo/assay-sim@2.13.0
 - pkg:cargo/assay-sim@2.14.0
 - pkg:cargo/assay-sim@2.15.0
+- pkg:cargo/assay-sim@2.17.0
+- pkg:cargo/assay-sim@2.18.0
 - pkg:cargo/assay-sim@2.7.0
 - pkg:cargo/assay-sim@2.8.0
 - pkg:cargo/assay-sim@2.9.0

@@ -1,2 +1,8 @@
 - pkg:cargo/easyhttpmock@0.1.0
 - pkg:cargo/easyhttpmock@0.1.1
+- pkg:cargo/easyhttpmock@0.1.3-beta.1
+- pkg:cargo/easyhttpmock@0.1.3-beta.2
+- pkg:cargo/easyhttpmock@0.1.3-beta.4
+- pkg:cargo/easyhttpmock@0.1.3-beta.5
+- pkg:cargo/easyhttpmock@0.1.3-beta.6
+- pkg:cargo/easyhttpmock@0.1.3-beta.7

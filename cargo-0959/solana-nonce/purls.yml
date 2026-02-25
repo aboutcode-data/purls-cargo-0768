@@ -3,3 +3,4 @@
 - pkg:cargo/solana-nonce@2.2.0
 - pkg:cargo/solana-nonce@2.2.1
 - pkg:cargo/solana-nonce@3.0.0
+- pkg:cargo/solana-nonce@3.1.0

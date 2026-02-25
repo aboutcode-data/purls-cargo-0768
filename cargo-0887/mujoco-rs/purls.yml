@@ -21,3 +21,6 @@
 - pkg:cargo/mujoco-rs@2.2.1%2Bmj-3.3.7
 - pkg:cargo/mujoco-rs@2.2.2%2Bmj-3.3.7
 - pkg:cargo/mujoco-rs@2.3.0%2Bmj-3.3.7
+- pkg:cargo/mujoco-rs@2.3.1%2Bmj-3.3.7
+- pkg:cargo/mujoco-rs@2.3.2%2Bmj-3.3.7
+- pkg:cargo/mujoco-rs@2.3.3%2Bmj-3.3.7

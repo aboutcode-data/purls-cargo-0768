@@ -3,3 +3,4 @@
 - pkg:cargo/solana-system-transaction@2.2.0
 - pkg:cargo/solana-system-transaction@2.2.1
 - pkg:cargo/solana-system-transaction@3.0.0
+- pkg:cargo/solana-system-transaction@4.0.0

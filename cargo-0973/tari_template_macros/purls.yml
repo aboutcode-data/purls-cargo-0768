@@ -4,5 +4,7 @@
 - pkg:cargo/tari_template_macros@0.12.3
 - pkg:cargo/tari_template_macros@0.13.0
 - pkg:cargo/tari_template_macros@0.14.0
+- pkg:cargo/tari_template_macros@0.15.0
+- pkg:cargo/tari_template_macros@0.15.1
 - pkg:cargo/tari_template_macros@0.3.0
 - pkg:cargo/tari_template_macros@0.7.0

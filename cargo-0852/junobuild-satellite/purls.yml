@@ -41,3 +41,4 @@
 - pkg:cargo/junobuild-satellite@0.3.1
 - pkg:cargo/junobuild-satellite@0.3.1-patch.1
 - pkg:cargo/junobuild-satellite@0.4.0
+- pkg:cargo/junobuild-satellite@0.5.0

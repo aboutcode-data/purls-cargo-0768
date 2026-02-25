@@ -11,3 +11,4 @@
 - pkg:cargo/tari_comms@0.8.1
 - pkg:cargo/tari_comms@1.0.0-rc.5
 - pkg:cargo/tari_comms@5.1.0
+- pkg:cargo/tari_comms@5.2.1

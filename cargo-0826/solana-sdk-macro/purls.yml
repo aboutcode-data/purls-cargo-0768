@@ -485,3 +485,4 @@
 - pkg:cargo/solana-sdk-macro@2.2.0
 - pkg:cargo/solana-sdk-macro@2.2.1
 - pkg:cargo/solana-sdk-macro@3.0.0
+- pkg:cargo/solana-sdk-macro@3.0.1

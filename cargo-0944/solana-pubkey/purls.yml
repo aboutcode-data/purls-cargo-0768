@@ -26,3 +26,4 @@
 - pkg:cargo/solana-pubkey@2.4.0
 - pkg:cargo/solana-pubkey@3.0.0
 - pkg:cargo/solana-pubkey@4.0.0
+- pkg:cargo/solana-pubkey@4.1.0

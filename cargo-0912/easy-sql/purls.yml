@@ -1,1 +1,6 @@
 - pkg:cargo/easy-sql@0.0.0
+- pkg:cargo/easy-sql@0.100.0
+- pkg:cargo/easy-sql@0.100.1
+- pkg:cargo/easy-sql@0.100.2
+- pkg:cargo/easy-sql@0.101.0
+- pkg:cargo/easy-sql@0.101.1

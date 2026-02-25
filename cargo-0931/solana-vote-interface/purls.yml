@@ -15,3 +15,4 @@
 - pkg:cargo/solana-vote-interface@4.0.4
 - pkg:cargo/solana-vote-interface@5.0.0
 - pkg:cargo/solana-vote-interface@5.1.0
+- pkg:cargo/solana-vote-interface@5.1.1

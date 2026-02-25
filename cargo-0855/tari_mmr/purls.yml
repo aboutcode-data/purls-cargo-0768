@@ -12,3 +12,4 @@
 - pkg:cargo/tari_mmr@0.9.5
 - pkg:cargo/tari_mmr@1.0.0-rc.5
 - pkg:cargo/tari_mmr@5.1.0
+- pkg:cargo/tari_mmr@5.2.1

@@ -1,3 +1,4 @@
 - pkg:cargo/pbf-core@1.1.0
 - pkg:cargo/pbf-core@1.2.0
 - pkg:cargo/pbf-core@1.22.0
+- pkg:cargo/pbf-core@1.22.1

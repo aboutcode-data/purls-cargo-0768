@@ -406,3 +406,4 @@
 - pkg:cargo/solana-tokens@3.1.6
 - pkg:cargo/solana-tokens@3.1.7
 - pkg:cargo/solana-tokens@3.1.8
+- pkg:cargo/solana-tokens@3.1.9

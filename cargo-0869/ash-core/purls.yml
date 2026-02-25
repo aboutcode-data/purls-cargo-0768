@@ -3,3 +3,5 @@
 - pkg:cargo/ash-core@2.3.1
 - pkg:cargo/ash-core@2.3.2
 - pkg:cargo/ash-core@2.3.3
+- pkg:cargo/ash-core@2.3.5
+- pkg:cargo/ash-core@2.3.6

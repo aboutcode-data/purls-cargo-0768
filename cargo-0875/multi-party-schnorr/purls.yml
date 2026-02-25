@@ -2,3 +2,4 @@
 - pkg:cargo/multi-party-schnorr@1.0.0-beta.1
 - pkg:cargo/multi-party-schnorr@1.0.0-beta.2
 - pkg:cargo/multi-party-schnorr@1.1.0
+- pkg:cargo/multi-party-schnorr@1.2.0-pre.1

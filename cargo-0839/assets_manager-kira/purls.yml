@@ -7,3 +7,4 @@
 - pkg:cargo/assets_manager-kira@0.6.0
 - pkg:cargo/assets_manager-kira@0.6.0-migration
 - pkg:cargo/assets_manager-kira@0.7.0
+- pkg:cargo/assets_manager-kira@0.8.0

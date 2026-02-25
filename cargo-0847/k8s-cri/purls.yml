@@ -2,6 +2,7 @@
 - pkg:cargo/k8s-cri@0.1.1
 - pkg:cargo/k8s-cri@0.1.2
 - pkg:cargo/k8s-cri@0.10.0
+- pkg:cargo/k8s-cri@0.11.0
 - pkg:cargo/k8s-cri@0.2.0
 - pkg:cargo/k8s-cri@0.3.0
 - pkg:cargo/k8s-cri@0.4.0

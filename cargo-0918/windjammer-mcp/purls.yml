@@ -19,3 +19,5 @@
 - pkg:cargo/windjammer-mcp@0.39.4
 - pkg:cargo/windjammer-mcp@0.39.5
 - pkg:cargo/windjammer-mcp@0.39.6
+- pkg:cargo/windjammer-mcp@0.41.0
+- pkg:cargo/windjammer-mcp@0.44.0

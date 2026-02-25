@@ -50,6 +50,7 @@
 - pkg:cargo/noodles-gff@0.52.0
 - pkg:cargo/noodles-gff@0.53.0
 - pkg:cargo/noodles-gff@0.54.0
+- pkg:cargo/noodles-gff@0.55.0
 - pkg:cargo/noodles-gff@0.6.0
 - pkg:cargo/noodles-gff@0.6.1
 - pkg:cargo/noodles-gff@0.7.0

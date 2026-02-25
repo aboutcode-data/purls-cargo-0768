@@ -64,3 +64,5 @@
 - pkg:cargo/async-stripe@1.0.0-alpha.8
 - pkg:cargo/async-stripe@1.0.0-alpha.9
 - pkg:cargo/async-stripe@1.0.0-rc.0
+- pkg:cargo/async-stripe@1.0.0-rc.1
+- pkg:cargo/async-stripe@1.0.0-rc.2

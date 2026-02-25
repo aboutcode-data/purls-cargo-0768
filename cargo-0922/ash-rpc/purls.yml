@@ -1,2 +1,3 @@
 - pkg:cargo/ash-rpc@4.0.0
 - pkg:cargo/ash-rpc@4.0.1
+- pkg:cargo/ash-rpc@4.1.0
