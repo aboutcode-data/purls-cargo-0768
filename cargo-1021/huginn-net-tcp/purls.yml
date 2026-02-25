@@ -6,3 +6,4 @@
 - pkg:cargo/huginn-net-tcp@1.7.0
 - pkg:cargo/huginn-net-tcp@1.7.1
 - pkg:cargo/huginn-net-tcp@1.7.2
+- pkg:cargo/huginn-net-tcp@1.7.3

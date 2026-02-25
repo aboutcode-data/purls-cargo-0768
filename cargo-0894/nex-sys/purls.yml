@@ -17,6 +17,7 @@
 - pkg:cargo/nex-sys@0.23.2
 - pkg:cargo/nex-sys@0.24.0
 - pkg:cargo/nex-sys@0.24.1
+- pkg:cargo/nex-sys@0.25.0
 - pkg:cargo/nex-sys@0.6.0
 - pkg:cargo/nex-sys@0.7.0
 - pkg:cargo/nex-sys@0.8.0

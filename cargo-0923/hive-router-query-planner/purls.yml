@@ -11,3 +11,5 @@
 - pkg:cargo/hive-router-query-planner@2.1.5
 - pkg:cargo/hive-router-query-planner@2.1.6
 - pkg:cargo/hive-router-query-planner@2.1.7
+- pkg:cargo/hive-router-query-planner@2.2.0
+- pkg:cargo/hive-router-query-planner@2.2.1

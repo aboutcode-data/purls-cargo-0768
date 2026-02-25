@@ -8,3 +8,4 @@
 - pkg:cargo/ender-derive@0.3.6
 - pkg:cargo/ender-derive@0.3.7
 - pkg:cargo/ender-derive@0.4.0
+- pkg:cargo/ender-derive@0.4.1

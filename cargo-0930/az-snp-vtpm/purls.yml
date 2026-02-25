@@ -18,3 +18,4 @@
 - pkg:cargo/az-snp-vtpm@0.7.3
 - pkg:cargo/az-snp-vtpm@0.7.4
 - pkg:cargo/az-snp-vtpm@0.8.0
+- pkg:cargo/az-snp-vtpm@0.8.1

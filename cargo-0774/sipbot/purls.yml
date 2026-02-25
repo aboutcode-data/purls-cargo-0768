@@ -18,6 +18,9 @@
 - pkg:cargo/sipbot@0.2.18
 - pkg:cargo/sipbot@0.2.19
 - pkg:cargo/sipbot@0.2.20
+- pkg:cargo/sipbot@0.2.21
+- pkg:cargo/sipbot@0.2.22
+- pkg:cargo/sipbot@0.2.23
 - pkg:cargo/sipbot@0.2.3
 - pkg:cargo/sipbot@0.2.4
 - pkg:cargo/sipbot@0.2.5

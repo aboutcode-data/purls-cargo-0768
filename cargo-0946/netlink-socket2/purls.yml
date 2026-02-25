@@ -1,3 +1,4 @@
 - pkg:cargo/netlink-socket2@0.2.1-rev1
 - pkg:cargo/netlink-socket2@0.2.2
 - pkg:cargo/netlink-socket2@0.2.3
+- pkg:cargo/netlink-socket2@0.2.4

@@ -1,2 +1,4 @@
 - pkg:cargo/cf-modkit-node-info@0.1.0
 - pkg:cargo/cf-modkit-node-info@0.2.0
+- pkg:cargo/cf-modkit-node-info@0.2.12
+- pkg:cargo/cf-modkit-node-info@0.2.8

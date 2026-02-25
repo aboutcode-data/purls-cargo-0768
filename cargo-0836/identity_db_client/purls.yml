@@ -6,3 +6,4 @@
 - pkg:cargo/identity_db_client@2.0.0
 - pkg:cargo/identity_db_client@3.0.0
 - pkg:cargo/identity_db_client@3.0.1
+- pkg:cargo/identity_db_client@3.0.2

@@ -9,3 +9,5 @@
 - pkg:cargo/netbox-openapi@0.2.1
 - pkg:cargo/netbox-openapi@0.3.0
 - pkg:cargo/netbox-openapi@0.3.1
+- pkg:cargo/netbox-openapi@0.3.2
+- pkg:cargo/netbox-openapi@0.3.3

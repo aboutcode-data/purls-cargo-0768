@@ -22,6 +22,7 @@
 - pkg:cargo/sibyl@0.6.20
 - pkg:cargo/sibyl@0.6.21
 - pkg:cargo/sibyl@0.6.22
+- pkg:cargo/sibyl@0.6.23
 - pkg:cargo/sibyl@0.6.3
 - pkg:cargo/sibyl@0.6.4
 - pkg:cargo/sibyl@0.6.5

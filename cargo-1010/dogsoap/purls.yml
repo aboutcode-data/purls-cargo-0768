@@ -5,6 +5,9 @@
 - pkg:cargo/dogsoap@0.11.0-alpha.2
 - pkg:cargo/dogsoap@0.11.1-alpha.1
 - pkg:cargo/dogsoap@0.12.0-alpha.1
+- pkg:cargo/dogsoap@0.12.1-alpha.1
+- pkg:cargo/dogsoap@0.12.1-alpha.2
+- pkg:cargo/dogsoap@0.12.1-alpha.3
 - pkg:cargo/dogsoap@0.2.0-alpha.1
 - pkg:cargo/dogsoap@0.2.0-alpha.2
 - pkg:cargo/dogsoap@0.2.1-alpha.1
@@ -18,3 +21,9 @@
 - pkg:cargo/dogsoap@0.7.1-alpha.2
 - pkg:cargo/dogsoap@0.8.0-alpha.1
 - pkg:cargo/dogsoap@0.9.0-alpha.1
+- pkg:cargo/dogsoap@1.0.0
+- pkg:cargo/dogsoap@2.0.0
+- pkg:cargo/dogsoap@3.0.0
+- pkg:cargo/dogsoap@3.1.0
+- pkg:cargo/dogsoap@3.2.0
+- pkg:cargo/dogsoap@4.0.0

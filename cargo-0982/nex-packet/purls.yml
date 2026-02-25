@@ -15,6 +15,7 @@
 - pkg:cargo/nex-packet@0.23.2
 - pkg:cargo/nex-packet@0.24.0
 - pkg:cargo/nex-packet@0.24.1
+- pkg:cargo/nex-packet@0.25.0
 - pkg:cargo/nex-packet@0.6.0
 - pkg:cargo/nex-packet@0.7.0
 - pkg:cargo/nex-packet@0.8.0

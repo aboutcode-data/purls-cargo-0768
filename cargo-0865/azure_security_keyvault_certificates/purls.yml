@@ -1,5 +1,6 @@
 - pkg:cargo/azure_security_keyvault_certificates@0.0.1
 - pkg:cargo/azure_security_keyvault_certificates@0.1.0
+- pkg:cargo/azure_security_keyvault_certificates@0.10.0
 - pkg:cargo/azure_security_keyvault_certificates@0.2.0
 - pkg:cargo/azure_security_keyvault_certificates@0.3.0
 - pkg:cargo/azure_security_keyvault_certificates@0.4.0
