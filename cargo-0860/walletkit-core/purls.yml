@@ -34,3 +34,4 @@
 - pkg:cargo/walletkit-core@0.6.2
 - pkg:cargo/walletkit-core@0.6.3
 - pkg:cargo/walletkit-core@0.6.4
+- pkg:cargo/walletkit-core@0.6.5
