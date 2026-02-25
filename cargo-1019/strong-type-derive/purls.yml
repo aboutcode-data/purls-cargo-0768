@@ -13,3 +13,4 @@
 - pkg:cargo/strong-type-derive@0.9.0
 - pkg:cargo/strong-type-derive@1.0.0
 - pkg:cargo/strong-type-derive@1.1.0
+- pkg:cargo/strong-type-derive@1.1.1

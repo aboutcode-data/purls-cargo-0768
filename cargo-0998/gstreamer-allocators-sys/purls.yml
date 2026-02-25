@@ -12,5 +12,6 @@
 - pkg:cargo/gstreamer-allocators-sys@0.23.5
 - pkg:cargo/gstreamer-allocators-sys@0.24.0
 - pkg:cargo/gstreamer-allocators-sys@0.24.4
+- pkg:cargo/gstreamer-allocators-sys@0.25.0
 - pkg:cargo/gstreamer-allocators-sys@0.25.0-alpha.1
 - pkg:cargo/gstreamer-allocators-sys@0.25.0-alpha.2

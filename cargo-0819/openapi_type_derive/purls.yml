@@ -12,3 +12,4 @@
 - pkg:cargo/openapi_type_derive@0.4.3
 - pkg:cargo/openapi_type_derive@0.4.4
 - pkg:cargo/openapi_type_derive@0.4.5
+- pkg:cargo/openapi_type_derive@0.4.6

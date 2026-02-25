@@ -12,9 +12,11 @@
 - pkg:cargo/stellar-asset-spec@23.4.1
 - pkg:cargo/stellar-asset-spec@23.5.0
 - pkg:cargo/stellar-asset-spec@23.5.1
+- pkg:cargo/stellar-asset-spec@23.5.2
 - pkg:cargo/stellar-asset-spec@25.0.0
 - pkg:cargo/stellar-asset-spec@25.0.0-rc.1
 - pkg:cargo/stellar-asset-spec@25.0.0-rc.2
 - pkg:cargo/stellar-asset-spec@25.0.1
 - pkg:cargo/stellar-asset-spec@25.0.2
 - pkg:cargo/stellar-asset-spec@25.1.0
+- pkg:cargo/stellar-asset-spec@25.1.1

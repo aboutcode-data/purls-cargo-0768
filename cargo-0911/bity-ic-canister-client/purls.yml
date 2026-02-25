@@ -8,3 +8,4 @@
 - pkg:cargo/bity-ic-canister-client@0.2.3
 - pkg:cargo/bity-ic-canister-client@0.2.4
 - pkg:cargo/bity-ic-canister-client@0.2.5
+- pkg:cargo/bity-ic-canister-client@0.3.0

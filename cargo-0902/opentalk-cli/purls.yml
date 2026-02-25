@@ -1,4 +1,5 @@
 - pkg:cargo/opentalk-cli@0.0.1-alpha
+- pkg:cargo/opentalk-cli@0.0.1-alpha.10
 - pkg:cargo/opentalk-cli@0.0.1-alpha.2
 - pkg:cargo/opentalk-cli@0.0.1-alpha.3
 - pkg:cargo/opentalk-cli@0.0.1-alpha.4
@@ -6,3 +7,4 @@
 - pkg:cargo/opentalk-cli@0.0.1-alpha.6
 - pkg:cargo/opentalk-cli@0.0.1-alpha.7
 - pkg:cargo/opentalk-cli@0.0.1-alpha.8
+- pkg:cargo/opentalk-cli@0.0.1-alpha.9

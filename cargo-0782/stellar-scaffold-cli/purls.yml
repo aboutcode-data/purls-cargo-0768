@@ -11,6 +11,7 @@
 - pkg:cargo/stellar-scaffold-cli@0.0.16
 - pkg:cargo/stellar-scaffold-cli@0.0.17
 - pkg:cargo/stellar-scaffold-cli@0.0.18
+- pkg:cargo/stellar-scaffold-cli@0.0.19
 - pkg:cargo/stellar-scaffold-cli@0.0.2
 - pkg:cargo/stellar-scaffold-cli@0.0.3
 - pkg:cargo/stellar-scaffold-cli@0.0.4

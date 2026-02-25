@@ -6,6 +6,8 @@
 - pkg:cargo/zng-ext-config@0.11.2
 - pkg:cargo/zng-ext-config@0.11.3
 - pkg:cargo/zng-ext-config@0.11.4
+- pkg:cargo/zng-ext-config@0.12.0
+- pkg:cargo/zng-ext-config@0.12.1
 - pkg:cargo/zng-ext-config@0.2.1
 - pkg:cargo/zng-ext-config@0.2.10
 - pkg:cargo/zng-ext-config@0.2.11

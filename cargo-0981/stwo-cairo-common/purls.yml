@@ -1,1 +1,3 @@
 - pkg:cargo/stwo-cairo-common@1.0.0
+- pkg:cargo/stwo-cairo-common@1.0.1
+- pkg:cargo/stwo-cairo-common@1.1.0

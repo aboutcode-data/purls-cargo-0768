@@ -44,6 +44,7 @@
 - pkg:cargo/zvariant_derive@5.0.0
 - pkg:cargo/zvariant_derive@5.0.1
 - pkg:cargo/zvariant_derive@5.1.0
+- pkg:cargo/zvariant_derive@5.10.0
 - pkg:cargo/zvariant_derive@5.2.0
 - pkg:cargo/zvariant_derive@5.3.0
 - pkg:cargo/zvariant_derive@5.4.0

@@ -5,6 +5,8 @@
 - pkg:cargo/zng-var@0.11.2
 - pkg:cargo/zng-var@0.12.0
 - pkg:cargo/zng-var@0.12.1
+- pkg:cargo/zng-var@0.13.0
+- pkg:cargo/zng-var@0.13.1
 - pkg:cargo/zng-var@0.2.0
 - pkg:cargo/zng-var@0.2.1
 - pkg:cargo/zng-var@0.2.2

@@ -7,3 +7,4 @@
 - pkg:cargo/horfimbor-eventsource-derive@0.1.6
 - pkg:cargo/horfimbor-eventsource-derive@0.1.7
 - pkg:cargo/horfimbor-eventsource-derive@0.1.8
+- pkg:cargo/horfimbor-eventsource-derive@0.1.9
