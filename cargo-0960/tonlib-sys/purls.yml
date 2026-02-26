@@ -39,3 +39,4 @@
 - pkg:cargo/tonlib-sys@2025.4.1
 - pkg:cargo/tonlib-sys@2025.6.0
 - pkg:cargo/tonlib-sys@2025.7.0
+- pkg:cargo/tonlib-sys@2026.2.1
