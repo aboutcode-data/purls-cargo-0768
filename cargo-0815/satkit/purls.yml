@@ -2,6 +2,7 @@
 - pkg:cargo/satkit@0.10.1
 - pkg:cargo/satkit@0.10.2
 - pkg:cargo/satkit@0.10.3
+- pkg:cargo/satkit@0.10.4
 - pkg:cargo/satkit@0.2.3
 - pkg:cargo/satkit@0.2.5
 - pkg:cargo/satkit@0.2.6

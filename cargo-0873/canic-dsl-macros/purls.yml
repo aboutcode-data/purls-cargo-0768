@@ -2,6 +2,8 @@
 - pkg:cargo/canic-dsl-macros@0.10.2
 - pkg:cargo/canic-dsl-macros@0.10.4
 - pkg:cargo/canic-dsl-macros@0.10.5
+- pkg:cargo/canic-dsl-macros@0.10.6
+- pkg:cargo/canic-dsl-macros@0.10.7
 - pkg:cargo/canic-dsl-macros@0.8.2
 - pkg:cargo/canic-dsl-macros@0.8.3
 - pkg:cargo/canic-dsl-macros@0.8.4
