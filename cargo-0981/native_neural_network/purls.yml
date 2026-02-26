@@ -5,3 +5,6 @@
 - pkg:cargo/native_neural_network@0.1.4
 - pkg:cargo/native_neural_network@0.1.5
 - pkg:cargo/native_neural_network@0.1.6
+- pkg:cargo/native_neural_network@0.1.7
+- pkg:cargo/native_neural_network@0.1.9
+- pkg:cargo/native_neural_network@0.2.0
