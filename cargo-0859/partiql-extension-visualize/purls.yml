@@ -4,6 +4,7 @@
 - pkg:cargo/partiql-extension-visualize@0.12.0
 - pkg:cargo/partiql-extension-visualize@0.13.0
 - pkg:cargo/partiql-extension-visualize@0.14.0
+- pkg:cargo/partiql-extension-visualize@0.15.0-alpha.1
 - pkg:cargo/partiql-extension-visualize@0.7.0
 - pkg:cargo/partiql-extension-visualize@0.7.1
 - pkg:cargo/partiql-extension-visualize@0.7.2
