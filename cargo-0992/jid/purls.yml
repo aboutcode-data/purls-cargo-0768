@@ -4,6 +4,7 @@
 - pkg:cargo/jid@0.11.1
 - pkg:cargo/jid@0.12.0
 - pkg:cargo/jid@0.12.1
+- pkg:cargo/jid@0.12.2
 - pkg:cargo/jid@0.2.0
 - pkg:cargo/jid@0.2.1
 - pkg:cargo/jid@0.2.2
