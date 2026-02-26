@@ -12,6 +12,10 @@
 - pkg:cargo/fastpack-tui@0.21.0
 - pkg:cargo/fastpack-tui@0.21.1
 - pkg:cargo/fastpack-tui@0.21.2
+- pkg:cargo/fastpack-tui@0.21.3
+- pkg:cargo/fastpack-tui@0.22.0
+- pkg:cargo/fastpack-tui@0.23.0
+- pkg:cargo/fastpack-tui@0.24.0
 - pkg:cargo/fastpack-tui@0.3.0
 - pkg:cargo/fastpack-tui@0.4.0
 - pkg:cargo/fastpack-tui@0.4.1

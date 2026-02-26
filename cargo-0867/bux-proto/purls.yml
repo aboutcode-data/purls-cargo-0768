@@ -1,3 +1,5 @@
 - pkg:cargo/bux-proto@0.3.0
 - pkg:cargo/bux-proto@0.4.0
 - pkg:cargo/bux-proto@0.4.1
+- pkg:cargo/bux-proto@0.6.0
+- pkg:cargo/bux-proto@0.6.1
