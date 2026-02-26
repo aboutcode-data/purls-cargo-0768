@@ -9,6 +9,8 @@
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.11
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.12
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.13
+- pkg:cargo/amqp-client-rust@0.0.3-alpha.14
+- pkg:cargo/amqp-client-rust@0.0.3-alpha.15
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.2
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.3
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.4
