@@ -63,6 +63,7 @@
 - pkg:cargo/neutralts@1.3.1
 - pkg:cargo/neutralts@1.3.2
 - pkg:cargo/neutralts@1.3.3
+- pkg:cargo/neutralts@1.4.0
 - pkg:cargo/neutralts@1.4.0-beta1
 - pkg:cargo/neutralts@1.4.0-beta2
 - pkg:cargo/neutralts@1.4.0-beta3
