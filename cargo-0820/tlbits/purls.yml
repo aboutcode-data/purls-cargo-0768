@@ -39,3 +39,4 @@
 - pkg:cargo/tlbits@0.6.4
 - pkg:cargo/tlbits@0.7.0
 - pkg:cargo/tlbits@0.7.1
+- pkg:cargo/tlbits@0.7.2
