@@ -60,3 +60,4 @@
 - pkg:cargo/try-rs@1.5.1
 - pkg:cargo/try-rs@1.5.2
 - pkg:cargo/try-rs@1.5.3
+- pkg:cargo/try-rs@1.6.0
