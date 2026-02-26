@@ -54,3 +54,4 @@
 - pkg:cargo/wasi-preview1-component-adapter-provider@41.0.3
 - pkg:cargo/wasi-preview1-component-adapter-provider@41.0.4
 - pkg:cargo/wasi-preview1-component-adapter-provider@42.0.0
+- pkg:cargo/wasi-preview1-component-adapter-provider@42.0.1
