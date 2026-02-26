@@ -1,4 +1,6 @@
+- pkg:cargo/gibblox-zip@0.0.1-rc.10
 - pkg:cargo/gibblox-zip@0.0.1-rc.5
 - pkg:cargo/gibblox-zip@0.0.1-rc.6
 - pkg:cargo/gibblox-zip@0.0.1-rc.7
 - pkg:cargo/gibblox-zip@0.0.1-rc.8
+- pkg:cargo/gibblox-zip@0.0.1-rc.9
