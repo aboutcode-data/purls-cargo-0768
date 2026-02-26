@@ -5,3 +5,4 @@
 - pkg:cargo/pg-ephemeral@0.0.4
 - pkg:cargo/pg-ephemeral@0.0.5
 - pkg:cargo/pg-ephemeral@0.0.6
+- pkg:cargo/pg-ephemeral@0.0.7
