@@ -8,3 +8,4 @@
 - pkg:cargo/celestia-grpc-macros@0.6.0
 - pkg:cargo/celestia-grpc-macros@0.7.0
 - pkg:cargo/celestia-grpc-macros@1.0.0-rc.1
+- pkg:cargo/celestia-grpc-macros@1.0.0-rc.2

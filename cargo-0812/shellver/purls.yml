@@ -1,3 +1,5 @@
 - pkg:cargo/shellver@1.0.0
 - pkg:cargo/shellver@1.0.1
 - pkg:cargo/shellver@1.0.2
+- pkg:cargo/shellver@2.0.0
+- pkg:cargo/shellver@2.0.1
