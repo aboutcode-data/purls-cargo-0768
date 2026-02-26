@@ -4,6 +4,8 @@
 - pkg:cargo/cf-modkit-macros@0.2.10
 - pkg:cargo/cf-modkit-macros@0.2.11
 - pkg:cargo/cf-modkit-macros@0.2.12
+- pkg:cargo/cf-modkit-macros@0.2.13
+- pkg:cargo/cf-modkit-macros@0.2.14
 - pkg:cargo/cf-modkit-macros@0.2.7
 - pkg:cargo/cf-modkit-macros@0.2.8
 - pkg:cargo/cf-modkit-macros@0.2.9

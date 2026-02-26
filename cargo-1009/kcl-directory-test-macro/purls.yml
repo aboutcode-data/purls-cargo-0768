@@ -28,6 +28,7 @@
 - pkg:cargo/kcl-directory-test-macro@0.1.127
 - pkg:cargo/kcl-directory-test-macro@0.1.128
 - pkg:cargo/kcl-directory-test-macro@0.1.129
+- pkg:cargo/kcl-directory-test-macro@0.1.130
 - pkg:cargo/kcl-directory-test-macro@0.1.47
 - pkg:cargo/kcl-directory-test-macro@0.1.48
 - pkg:cargo/kcl-directory-test-macro@0.1.49
