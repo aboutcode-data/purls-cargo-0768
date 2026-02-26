@@ -7,3 +7,4 @@
 - pkg:cargo/slumber_macros@4.3.1
 - pkg:cargo/slumber_macros@5.0.0
 - pkg:cargo/slumber_macros@5.1.0
+- pkg:cargo/slumber_macros@5.1.1
