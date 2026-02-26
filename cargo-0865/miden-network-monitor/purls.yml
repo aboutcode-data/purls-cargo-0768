@@ -13,3 +13,5 @@
 - pkg:cargo/miden-network-monitor@0.13.3
 - pkg:cargo/miden-network-monitor@0.13.4
 - pkg:cargo/miden-network-monitor@0.13.5
+- pkg:cargo/miden-network-monitor@0.13.6
+- pkg:cargo/miden-network-monitor@0.13.7
