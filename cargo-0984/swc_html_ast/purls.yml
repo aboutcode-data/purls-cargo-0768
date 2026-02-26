@@ -163,6 +163,7 @@
 - pkg:cargo/swc_html_ast@16.0.0
 - pkg:cargo/swc_html_ast@17.0.0
 - pkg:cargo/swc_html_ast@18.0.0
+- pkg:cargo/swc_html_ast@19.0.0
 - pkg:cargo/swc_html_ast@2.0.0
 - pkg:cargo/swc_html_ast@3.0.0
 - pkg:cargo/swc_html_ast@4.0.0

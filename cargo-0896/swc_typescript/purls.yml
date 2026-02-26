@@ -37,6 +37,7 @@
 - pkg:cargo/swc_typescript@23.0.0
 - pkg:cargo/swc_typescript@24.0.0
 - pkg:cargo/swc_typescript@25.0.0
+- pkg:cargo/swc_typescript@26.0.0
 - pkg:cargo/swc_typescript@3.0.0
 - pkg:cargo/swc_typescript@4.0.0
 - pkg:cargo/swc_typescript@5.0.0

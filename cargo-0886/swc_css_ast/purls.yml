@@ -287,6 +287,7 @@
 - pkg:cargo/swc_css_ast@16.0.0
 - pkg:cargo/swc_css_ast@17.0.0
 - pkg:cargo/swc_css_ast@18.0.0
+- pkg:cargo/swc_css_ast@19.0.0
 - pkg:cargo/swc_css_ast@2.0.0
 - pkg:cargo/swc_css_ast@3.0.0
 - pkg:cargo/swc_css_ast@4.0.0
