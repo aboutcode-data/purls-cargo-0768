@@ -46,6 +46,7 @@
 - pkg:cargo/many_cpus_benchmarking@0.1.4
 - pkg:cargo/many_cpus_benchmarking@0.1.40
 - pkg:cargo/many_cpus_benchmarking@0.1.41
+- pkg:cargo/many_cpus_benchmarking@0.1.42
 - pkg:cargo/many_cpus_benchmarking@0.1.5
 - pkg:cargo/many_cpus_benchmarking@0.1.6
 - pkg:cargo/many_cpus_benchmarking@0.1.7

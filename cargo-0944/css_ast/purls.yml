@@ -37,6 +37,7 @@
 - pkg:cargo/css_ast@0.0.18-canary.703faa8090
 - pkg:cargo/css_ast@0.0.18-canary.87f87b87d4
 - pkg:cargo/css_ast@0.0.18-canary.96ff6a32ce
+- pkg:cargo/css_ast@0.0.18-canary.9e20bddd4a
 - pkg:cargo/css_ast@0.0.18-canary.c123dbe538
 - pkg:cargo/css_ast@0.0.18-canary.ddc3be3ac1
 - pkg:cargo/css_ast@0.0.18-canary.ebb418d345
