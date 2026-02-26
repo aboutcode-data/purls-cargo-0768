@@ -1,1 +1,2 @@
 - pkg:cargo/vault-client-rs@0.6.0
+- pkg:cargo/vault-client-rs@0.7.0
