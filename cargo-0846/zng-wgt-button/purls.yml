@@ -11,6 +11,7 @@
 - pkg:cargo/zng-wgt-button@0.12.4
 - pkg:cargo/zng-wgt-button@0.13.0
 - pkg:cargo/zng-wgt-button@0.13.1
+- pkg:cargo/zng-wgt-button@0.13.2
 - pkg:cargo/zng-wgt-button@0.2.10
 - pkg:cargo/zng-wgt-button@0.2.2
 - pkg:cargo/zng-wgt-button@0.2.3
