@@ -12,3 +12,4 @@
 - pkg:cargo/pg2any_lib@0.5.0
 - pkg:cargo/pg2any_lib@0.6.0
 - pkg:cargo/pg2any_lib@0.7.0
+- pkg:cargo/pg2any_lib@0.8.0
