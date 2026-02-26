@@ -16,4 +16,6 @@
 - pkg:cargo/rustapi-testing@0.1.300
 - pkg:cargo/rustapi-testing@0.1.333
 - pkg:cargo/rustapi-testing@0.1.335
+- pkg:cargo/rustapi-testing@0.1.389
+- pkg:cargo/rustapi-testing@0.1.397
 - pkg:cargo/rustapi-testing@0.1.9
