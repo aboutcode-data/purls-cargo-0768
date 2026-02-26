@@ -9,3 +9,4 @@
 - pkg:cargo/nils-api-websocket@0.5.0
 - pkg:cargo/nils-api-websocket@0.5.2
 - pkg:cargo/nils-api-websocket@0.5.3
+- pkg:cargo/nils-api-websocket@0.5.5

@@ -2,3 +2,4 @@
 - pkg:cargo/apiary-runtime@0.1.1
 - pkg:cargo/apiary-runtime@0.1.1-alpha
 - pkg:cargo/apiary-runtime@0.1.1-beta
+- pkg:cargo/apiary-runtime@0.1.1-c
