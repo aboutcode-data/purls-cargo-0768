@@ -2,3 +2,4 @@
 - pkg:cargo/zeph-core@0.11.5
 - pkg:cargo/zeph-core@0.11.6
 - pkg:cargo/zeph-core@0.12.0
+- pkg:cargo/zeph-core@0.12.1

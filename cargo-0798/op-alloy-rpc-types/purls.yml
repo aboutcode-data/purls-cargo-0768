@@ -75,6 +75,7 @@
 - pkg:cargo/op-alloy-rpc-types@0.23.0
 - pkg:cargo/op-alloy-rpc-types@0.23.1
 - pkg:cargo/op-alloy-rpc-types@0.23.4
+- pkg:cargo/op-alloy-rpc-types@0.24.0
 - pkg:cargo/op-alloy-rpc-types@0.3.0
 - pkg:cargo/op-alloy-rpc-types@0.3.1
 - pkg:cargo/op-alloy-rpc-types@0.3.2

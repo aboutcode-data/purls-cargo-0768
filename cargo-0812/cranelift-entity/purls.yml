@@ -92,6 +92,7 @@
 - pkg:cargo/cranelift-entity@0.128.3
 - pkg:cargo/cranelift-entity@0.128.4
 - pkg:cargo/cranelift-entity@0.129.0
+- pkg:cargo/cranelift-entity@0.129.1
 - pkg:cargo/cranelift-entity@0.14.0
 - pkg:cargo/cranelift-entity@0.15.0
 - pkg:cargo/cranelift-entity@0.16.0
