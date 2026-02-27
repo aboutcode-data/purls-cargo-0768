@@ -11,3 +11,5 @@
 - pkg:cargo/ironclad-server@0.7.0
 - pkg:cargo/ironclad-server@0.7.1
 - pkg:cargo/ironclad-server@0.8.0
+- pkg:cargo/ironclad-server@0.8.1
+- pkg:cargo/ironclad-server@0.8.2

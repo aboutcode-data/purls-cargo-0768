@@ -17,6 +17,7 @@
 - pkg:cargo/candid@0.10.21
 - pkg:cargo/candid@0.10.22
 - pkg:cargo/candid@0.10.23
+- pkg:cargo/candid@0.10.24
 - pkg:cargo/candid@0.10.3
 - pkg:cargo/candid@0.10.4
 - pkg:cargo/candid@0.10.5
