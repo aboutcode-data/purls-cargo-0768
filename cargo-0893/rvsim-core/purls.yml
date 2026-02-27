@@ -2,3 +2,4 @@
 - pkg:cargo/rvsim-core@0.10.1
 - pkg:cargo/rvsim-core@0.10.2
 - pkg:cargo/rvsim-core@0.11.0
+- pkg:cargo/rvsim-core@0.12.0
