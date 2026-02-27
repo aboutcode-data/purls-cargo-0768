@@ -3,6 +3,7 @@
 - pkg:cargo/feagi-npu-runtime@0.0.1-beta.19
 - pkg:cargo/feagi-npu-runtime@0.0.1-beta.2
 - pkg:cargo/feagi-npu-runtime@0.0.1-beta.20
+- pkg:cargo/feagi-npu-runtime@0.0.1-beta.21
 - pkg:cargo/feagi-npu-runtime@0.0.1-beta.4
 - pkg:cargo/feagi-npu-runtime@0.0.1-beta.8
 - pkg:cargo/feagi-npu-runtime@0.0.1-beta.9

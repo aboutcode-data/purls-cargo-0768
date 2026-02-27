@@ -26,3 +26,5 @@
 - pkg:cargo/factorion-bot-reddit@5.2.7
 - pkg:cargo/factorion-bot-reddit@5.3.0
 - pkg:cargo/factorion-bot-reddit@5.3.2
+- pkg:cargo/factorion-bot-reddit@5.3.4
+- pkg:cargo/factorion-bot-reddit@5.4.0
