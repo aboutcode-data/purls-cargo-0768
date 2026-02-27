@@ -54,6 +54,8 @@
 - pkg:cargo/alloy-evm@0.27.1
 - pkg:cargo/alloy-evm@0.27.2
 - pkg:cargo/alloy-evm@0.27.3
+- pkg:cargo/alloy-evm@0.27.4
+- pkg:cargo/alloy-evm@0.28.0
 - pkg:cargo/alloy-evm@0.3.0
 - pkg:cargo/alloy-evm@0.3.1
 - pkg:cargo/alloy-evm@0.3.2
