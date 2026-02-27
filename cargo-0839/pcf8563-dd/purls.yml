@@ -1,1 +1,2 @@
 - pkg:cargo/pcf8563-dd@0.2.0
+- pkg:cargo/pcf8563-dd@0.3.0
