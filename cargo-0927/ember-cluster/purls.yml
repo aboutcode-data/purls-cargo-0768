@@ -14,3 +14,4 @@
 - pkg:cargo/ember-cluster@0.4.4
 - pkg:cargo/ember-cluster@0.4.5
 - pkg:cargo/ember-cluster@0.4.8
+- pkg:cargo/ember-cluster@0.4.9
