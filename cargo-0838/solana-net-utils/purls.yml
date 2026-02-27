@@ -504,3 +504,4 @@
 - pkg:cargo/solana-net-utils@3.1.7
 - pkg:cargo/solana-net-utils@3.1.8
 - pkg:cargo/solana-net-utils@3.1.9
+- pkg:cargo/solana-net-utils@4.0.0-alpha.0
