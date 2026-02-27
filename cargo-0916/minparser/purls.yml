@@ -3,6 +3,7 @@
 - pkg:cargo/minparser@0.13.1
 - pkg:cargo/minparser@0.13.2
 - pkg:cargo/minparser@0.13.3
+- pkg:cargo/minparser@0.13.4
 - pkg:cargo/minparser@0.2.0
 - pkg:cargo/minparser@0.2.3
 - pkg:cargo/minparser@0.3.0
