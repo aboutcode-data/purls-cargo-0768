@@ -23,6 +23,7 @@
 - pkg:cargo/opensession-runtime-config@0.2.3
 - pkg:cargo/opensession-runtime-config@0.2.30
 - pkg:cargo/opensession-runtime-config@0.2.31
+- pkg:cargo/opensession-runtime-config@0.2.32
 - pkg:cargo/opensession-runtime-config@0.2.4
 - pkg:cargo/opensession-runtime-config@0.2.5
 - pkg:cargo/opensession-runtime-config@0.2.6
