@@ -1,1 +1,2 @@
 - pkg:cargo/nym-http-api-common@1.20.4
+- pkg:cargo/nym-http-api-common@1.20.5

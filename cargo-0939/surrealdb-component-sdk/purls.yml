@@ -1,1 +1,2 @@
 - pkg:cargo/surrealdb-component-sdk@0.1.0
+- pkg:cargo/surrealdb-component-sdk@0.2.0
