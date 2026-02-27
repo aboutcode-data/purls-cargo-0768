@@ -1,1 +1,2 @@
 - pkg:cargo/mangle-codegen@0.3.0
+- pkg:cargo/mangle-codegen@0.4.0
