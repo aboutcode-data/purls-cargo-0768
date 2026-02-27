@@ -7,6 +7,7 @@
 - pkg:cargo/ctr@0.10.0-rc.1
 - pkg:cargo/ctr@0.10.0-rc.2
 - pkg:cargo/ctr@0.10.0-rc.3
+- pkg:cargo/ctr@0.10.0-rc.4
 - pkg:cargo/ctr@0.2.0
 - pkg:cargo/ctr@0.3.0
 - pkg:cargo/ctr@0.3.2
