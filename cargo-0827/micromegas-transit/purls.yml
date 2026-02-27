@@ -23,6 +23,7 @@
 - pkg:cargo/micromegas-transit@0.2.2
 - pkg:cargo/micromegas-transit@0.2.3
 - pkg:cargo/micromegas-transit@0.20.0
+- pkg:cargo/micromegas-transit@0.21.0
 - pkg:cargo/micromegas-transit@0.3.0
 - pkg:cargo/micromegas-transit@0.3.2
 - pkg:cargo/micromegas-transit@0.3.3
