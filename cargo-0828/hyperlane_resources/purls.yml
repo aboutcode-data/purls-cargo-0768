@@ -48,6 +48,10 @@
 - pkg:cargo/hyperlane_resources@14.1.9
 - pkg:cargo/hyperlane_resources@15.0.0
 - pkg:cargo/hyperlane_resources@16.0.0
+- pkg:cargo/hyperlane_resources@16.0.1
+- pkg:cargo/hyperlane_resources@16.1.0
+- pkg:cargo/hyperlane_resources@16.1.1
+- pkg:cargo/hyperlane_resources@16.1.2
 - pkg:cargo/hyperlane_resources@9.2.10
 - pkg:cargo/hyperlane_resources@9.2.11
 - pkg:cargo/hyperlane_resources@9.2.13
