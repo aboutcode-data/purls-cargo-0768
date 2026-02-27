@@ -39,6 +39,7 @@
 - pkg:cargo/zcash_client_sqlite@0.19.1
 - pkg:cargo/zcash_client_sqlite@0.19.2
 - pkg:cargo/zcash_client_sqlite@0.19.3
+- pkg:cargo/zcash_client_sqlite@0.19.4
 - pkg:cargo/zcash_client_sqlite@0.2.0
 - pkg:cargo/zcash_client_sqlite@0.2.1
 - pkg:cargo/zcash_client_sqlite@0.3.0
