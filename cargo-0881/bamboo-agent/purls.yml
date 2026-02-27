@@ -14,3 +14,4 @@
 - pkg:cargo/bamboo-agent@0.2.6
 - pkg:cargo/bamboo-agent@0.2.8
 - pkg:cargo/bamboo-agent@0.2.9
+- pkg:cargo/bamboo-agent@0.3.0
