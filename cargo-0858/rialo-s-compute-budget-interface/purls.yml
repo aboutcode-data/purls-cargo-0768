@@ -4,6 +4,7 @@
 - pkg:cargo/rialo-s-compute-budget-interface@0.1.6
 - pkg:cargo/rialo-s-compute-budget-interface@0.1.7
 - pkg:cargo/rialo-s-compute-budget-interface@0.1.8
+- pkg:cargo/rialo-s-compute-budget-interface@0.2.0
 - pkg:cargo/rialo-s-compute-budget-interface@0.2.0-alpha.0
 - pkg:cargo/rialo-s-compute-budget-interface@0.2.0-alpha.1
 - pkg:cargo/rialo-s-compute-budget-interface@0.2.0-alpha.2
