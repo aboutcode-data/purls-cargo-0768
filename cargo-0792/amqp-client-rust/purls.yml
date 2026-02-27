@@ -12,6 +12,7 @@
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.14
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.15
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.16
+- pkg:cargo/amqp-client-rust@0.0.3-alpha.17
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.2
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.3
 - pkg:cargo/amqp-client-rust@0.0.3-alpha.4
