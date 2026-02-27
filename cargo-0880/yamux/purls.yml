@@ -25,6 +25,7 @@
 - pkg:cargo/yamux@0.13.6
 - pkg:cargo/yamux@0.13.7
 - pkg:cargo/yamux@0.13.8
+- pkg:cargo/yamux@0.13.9
 - pkg:cargo/yamux@0.2.0
 - pkg:cargo/yamux@0.2.1
 - pkg:cargo/yamux@0.2.2
