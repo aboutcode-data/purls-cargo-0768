@@ -8,6 +8,7 @@
 - pkg:cargo/spacetimedsl_derive-input@0.16.0
 - pkg:cargo/spacetimedsl_derive-input@0.17.0
 - pkg:cargo/spacetimedsl_derive-input@0.18.0
+- pkg:cargo/spacetimedsl_derive-input@0.18.1
 - pkg:cargo/spacetimedsl_derive-input@0.4.0
 - pkg:cargo/spacetimedsl_derive-input@0.5.0
 - pkg:cargo/spacetimedsl_derive-input@0.5.1
