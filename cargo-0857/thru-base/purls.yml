@@ -42,3 +42,4 @@
 - pkg:cargo/thru-base@0.2.3
 - pkg:cargo/thru-base@0.2.4
 - pkg:cargo/thru-base@0.2.5
+- pkg:cargo/thru-base@0.2.6
