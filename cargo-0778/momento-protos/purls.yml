@@ -73,6 +73,7 @@
 - pkg:cargo/momento-protos@0.127.4
 - pkg:cargo/momento-protos@0.128.0
 - pkg:cargo/momento-protos@0.128.1
+- pkg:cargo/momento-protos@0.128.2
 - pkg:cargo/momento-protos@0.17.2
 - pkg:cargo/momento-protos@0.17.3
 - pkg:cargo/momento-protos@0.18.0
