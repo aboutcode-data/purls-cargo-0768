@@ -20,6 +20,7 @@
 - pkg:cargo/dynamodb_marshall@1.104.0
 - pkg:cargo/dynamodb_marshall@1.105.0
 - pkg:cargo/dynamodb_marshall@1.106.0
+- pkg:cargo/dynamodb_marshall@1.107.0
 - pkg:cargo/dynamodb_marshall@1.14.0
 - pkg:cargo/dynamodb_marshall@1.16.1
 - pkg:cargo/dynamodb_marshall@1.18.0

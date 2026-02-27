@@ -1,3 +1,5 @@
 - pkg:cargo/oxide-rs@0.1.0
 - pkg:cargo/oxide-rs@0.1.1
 - pkg:cargo/oxide-rs@0.1.10
+- pkg:cargo/oxide-rs@0.1.11
+- pkg:cargo/oxide-rs@0.1.12
