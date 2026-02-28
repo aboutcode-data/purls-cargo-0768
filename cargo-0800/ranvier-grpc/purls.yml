@@ -1,2 +1,4 @@
 - pkg:cargo/ranvier-grpc@0.13.0
 - pkg:cargo/ranvier-grpc@0.14.0
+- pkg:cargo/ranvier-grpc@0.14.1
+- pkg:cargo/ranvier-grpc@0.14.2
