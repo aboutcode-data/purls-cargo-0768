@@ -12,3 +12,4 @@
 - pkg:cargo/ironclad-agent@0.8.0
 - pkg:cargo/ironclad-agent@0.8.1
 - pkg:cargo/ironclad-agent@0.8.2
+- pkg:cargo/ironclad-agent@0.8.3
