@@ -1,4 +1,5 @@
 - pkg:cargo/cynic-parser-deser@0.10.0
+- pkg:cargo/cynic-parser-deser@0.11.0
 - pkg:cargo/cynic-parser-deser@0.8.1
 - pkg:cargo/cynic-parser-deser@0.8.2
 - pkg:cargo/cynic-parser-deser@0.8.3
