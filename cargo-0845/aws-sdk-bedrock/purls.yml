@@ -45,6 +45,7 @@
 - pkg:cargo/aws-sdk-bedrock@1.131.0
 - pkg:cargo/aws-sdk-bedrock@1.132.0
 - pkg:cargo/aws-sdk-bedrock@1.133.0
+- pkg:cargo/aws-sdk-bedrock@1.134.0
 - pkg:cargo/aws-sdk-bedrock@1.14.0
 - pkg:cargo/aws-sdk-bedrock@1.15.0
 - pkg:cargo/aws-sdk-bedrock@1.16.0

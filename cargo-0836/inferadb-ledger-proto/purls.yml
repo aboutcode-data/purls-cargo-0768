@@ -33,3 +33,5 @@
 - pkg:cargo/inferadb-ledger-proto@0.1.0-dev.20260226
 - pkg:cargo/inferadb-ledger-proto@0.1.0-dev.20260227
 - pkg:cargo/inferadb-ledger-proto@0.1.0-dev.20260227.73
+- pkg:cargo/inferadb-ledger-proto@0.1.0-dev.20260227.74
+- pkg:cargo/inferadb-ledger-proto@0.1.0-dev.20260227.76
