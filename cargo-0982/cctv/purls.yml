@@ -14,3 +14,5 @@
 - pkg:cargo/cctv@1.0.0
 - pkg:cargo/cctv@1.1.0
 - pkg:cargo/cctv@2.0.0
+- pkg:cargo/cctv@2.0.1
+- pkg:cargo/cctv@2.0.2
