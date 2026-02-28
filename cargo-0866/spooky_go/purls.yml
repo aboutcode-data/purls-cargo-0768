@@ -1,2 +1,4 @@
 - pkg:cargo/spooky_go@0.2.20
 - pkg:cargo/spooky_go@0.2.21
+- pkg:cargo/spooky_go@0.3.0
+- pkg:cargo/spooky_go@0.3.1
