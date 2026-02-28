@@ -20,3 +20,5 @@
 - pkg:cargo/indexweave_derive@0.19.3
 - pkg:cargo/indexweave_derive@0.20.0
 - pkg:cargo/indexweave_derive@0.20.1
+- pkg:cargo/indexweave_derive@0.21.0
+- pkg:cargo/indexweave_derive@0.21.1

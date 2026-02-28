@@ -17,3 +17,4 @@
 - pkg:cargo/nils-cli-template@0.5.2
 - pkg:cargo/nils-cli-template@0.5.3
 - pkg:cargo/nils-cli-template@0.5.5
+- pkg:cargo/nils-cli-template@0.5.9
