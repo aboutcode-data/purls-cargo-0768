@@ -11,3 +11,5 @@
 - pkg:cargo/symbi@1.1.0
 - pkg:cargo/symbi@1.4.0
 - pkg:cargo/symbi@1.5.0
+- pkg:cargo/symbi@1.6.0
+- pkg:cargo/symbi@1.6.1
