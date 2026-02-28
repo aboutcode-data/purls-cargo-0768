@@ -1,4 +1,5 @@
 - pkg:cargo/tempo-x402-gateway@0.10.0
+- pkg:cargo/tempo-x402-gateway@0.11.0
 - pkg:cargo/tempo-x402-gateway@0.2.0
 - pkg:cargo/tempo-x402-gateway@0.2.1
 - pkg:cargo/tempo-x402-gateway@0.3.0
