@@ -10,3 +10,5 @@
 - pkg:cargo/ascfix@0.5.7
 - pkg:cargo/ascfix@0.5.8
 - pkg:cargo/ascfix@0.6.0
+- pkg:cargo/ascfix@0.6.1
+- pkg:cargo/ascfix@0.6.2

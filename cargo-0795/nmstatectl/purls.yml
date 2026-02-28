@@ -41,4 +41,5 @@
 - pkg:cargo/nmstatectl@2.2.56
 - pkg:cargo/nmstatectl@2.2.57
 - pkg:cargo/nmstatectl@2.2.58
+- pkg:cargo/nmstatectl@2.2.59
 - pkg:cargo/nmstatectl@2.2.8
