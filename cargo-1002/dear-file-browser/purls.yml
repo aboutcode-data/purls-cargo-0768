@@ -1,6 +1,7 @@
 - pkg:cargo/dear-file-browser@0.10.0
 - pkg:cargo/dear-file-browser@0.10.1
 - pkg:cargo/dear-file-browser@0.10.2
+- pkg:cargo/dear-file-browser@0.10.3
 - pkg:cargo/dear-file-browser@0.3.0
 - pkg:cargo/dear-file-browser@0.4.0
 - pkg:cargo/dear-file-browser@0.4.1
