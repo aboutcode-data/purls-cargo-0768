@@ -4,3 +4,4 @@
 - pkg:cargo/topo-treesit@0.1.4
 - pkg:cargo/topo-treesit@0.1.6
 - pkg:cargo/topo-treesit@0.1.7
+- pkg:cargo/topo-treesit@0.1.8
