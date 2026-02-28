@@ -16,3 +16,5 @@
 - pkg:cargo/service-federation@2.4.1
 - pkg:cargo/service-federation@2.4.2
 - pkg:cargo/service-federation@2.5.0
+- pkg:cargo/service-federation@2.6.0
+- pkg:cargo/service-federation@3.0.0
