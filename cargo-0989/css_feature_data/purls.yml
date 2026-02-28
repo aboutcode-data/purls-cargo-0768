@@ -31,6 +31,7 @@
 - pkg:cargo/css_feature_data@0.0.17-canary.fbef67d111
 - pkg:cargo/css_feature_data@0.0.18-canary.21b19a166d
 - pkg:cargo/css_feature_data@0.0.18-canary.259d40f3d5
+- pkg:cargo/css_feature_data@0.0.18-canary.30b187c030
 - pkg:cargo/css_feature_data@0.0.18-canary.460c93f5e2
 - pkg:cargo/css_feature_data@0.0.18-canary.4f2985f2d4
 - pkg:cargo/css_feature_data@0.0.18-canary.51e5d559ed
