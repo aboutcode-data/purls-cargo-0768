@@ -6,3 +6,4 @@
 - pkg:cargo/mcp-protobuf@1.4.0
 - pkg:cargo/mcp-protobuf@1.4.1
 - pkg:cargo/mcp-protobuf@1.4.2
+- pkg:cargo/mcp-protobuf@1.4.3
