@@ -36,6 +36,7 @@
 - pkg:cargo/gst-plugin-webrtc@0.14.2
 - pkg:cargo/gst-plugin-webrtc@0.14.3
 - pkg:cargo/gst-plugin-webrtc@0.14.4
+- pkg:cargo/gst-plugin-webrtc@0.14.5
 - pkg:cargo/gst-plugin-webrtc@0.15.0
 - pkg:cargo/gst-plugin-webrtc@0.15.0-alpha.1
 - pkg:cargo/gst-plugin-webrtc@0.15.0-alpha.2

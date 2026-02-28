@@ -53,3 +53,4 @@
 - pkg:cargo/glib-macros@0.22.0-alpha.1
 - pkg:cargo/glib-macros@0.22.0-alpha.2
 - pkg:cargo/glib-macros@0.22.0-alpha.3
+- pkg:cargo/glib-macros@0.22.2

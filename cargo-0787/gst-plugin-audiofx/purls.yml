@@ -13,6 +13,7 @@
 - pkg:cargo/gst-plugin-audiofx@0.13.4
 - pkg:cargo/gst-plugin-audiofx@0.14.0
 - pkg:cargo/gst-plugin-audiofx@0.14.4
+- pkg:cargo/gst-plugin-audiofx@0.14.5
 - pkg:cargo/gst-plugin-audiofx@0.15.0
 - pkg:cargo/gst-plugin-audiofx@0.15.0-alpha.1
 - pkg:cargo/gst-plugin-audiofx@0.15.0-alpha.2
