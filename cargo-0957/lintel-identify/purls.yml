@@ -1,5 +1,6 @@
 - pkg:cargo/lintel-identify@0.0.1
 - pkg:cargo/lintel-identify@0.0.10
+- pkg:cargo/lintel-identify@0.0.11
 - pkg:cargo/lintel-identify@0.0.2
 - pkg:cargo/lintel-identify@0.0.3
 - pkg:cargo/lintel-identify@0.0.4

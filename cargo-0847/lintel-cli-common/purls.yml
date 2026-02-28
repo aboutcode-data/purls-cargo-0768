@@ -3,3 +3,4 @@
 - pkg:cargo/lintel-cli-common@0.0.3
 - pkg:cargo/lintel-cli-common@0.0.4
 - pkg:cargo/lintel-cli-common@0.0.5
+- pkg:cargo/lintel-cli-common@0.0.6
