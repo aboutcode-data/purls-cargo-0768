@@ -7,3 +7,4 @@
 - pkg:cargo/async-pop@1.0.2
 - pkg:cargo/async-pop@1.1.0
 - pkg:cargo/async-pop@1.1.1
+- pkg:cargo/async-pop@1.1.3

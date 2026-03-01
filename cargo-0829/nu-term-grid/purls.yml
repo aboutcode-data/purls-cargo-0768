@@ -13,6 +13,7 @@
 - pkg:cargo/nu-term-grid@0.109.0
 - pkg:cargo/nu-term-grid@0.109.1
 - pkg:cargo/nu-term-grid@0.110.0
+- pkg:cargo/nu-term-grid@0.111.0
 - pkg:cargo/nu-term-grid@0.60.0
 - pkg:cargo/nu-term-grid@0.61.0
 - pkg:cargo/nu-term-grid@0.62.0
