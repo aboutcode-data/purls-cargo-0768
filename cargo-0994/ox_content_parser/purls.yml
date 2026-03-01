@@ -1,6 +1,8 @@
 - pkg:cargo/ox_content_parser@0.10.0
 - pkg:cargo/ox_content_parser@0.11.0
 - pkg:cargo/ox_content_parser@0.12.0
+- pkg:cargo/ox_content_parser@0.13.0
+- pkg:cargo/ox_content_parser@0.14.0
 - pkg:cargo/ox_content_parser@0.3.0-alpha.10
 - pkg:cargo/ox_content_parser@0.3.0-alpha.11
 - pkg:cargo/ox_content_parser@0.3.0-alpha.12

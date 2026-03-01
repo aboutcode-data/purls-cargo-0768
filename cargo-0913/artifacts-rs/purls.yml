@@ -5,3 +5,4 @@
 - pkg:cargo/artifacts-rs@1.5.1
 - pkg:cargo/artifacts-rs@1.5.2
 - pkg:cargo/artifacts-rs@1.7.0
+- pkg:cargo/artifacts-rs@1.7.1
