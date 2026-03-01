@@ -3,3 +3,4 @@
 - pkg:cargo/laminar-storage@0.13.0
 - pkg:cargo/laminar-storage@0.13.1
 - pkg:cargo/laminar-storage@0.15.0
+- pkg:cargo/laminar-storage@0.16.0
