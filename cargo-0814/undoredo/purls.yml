@@ -20,6 +20,8 @@
 - pkg:cargo/undoredo@0.8.15
 - pkg:cargo/undoredo@0.8.16
 - pkg:cargo/undoredo@0.8.17
+- pkg:cargo/undoredo@0.8.18
+- pkg:cargo/undoredo@0.8.19
 - pkg:cargo/undoredo@0.8.2
 - pkg:cargo/undoredo@0.8.3
 - pkg:cargo/undoredo@0.8.4

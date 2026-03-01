@@ -6,3 +6,4 @@
 - pkg:cargo/cgp-tests@0.6.0
 - pkg:cargo/cgp-tests@0.6.0-beta
 - pkg:cargo/cgp-tests@0.6.1
+- pkg:cargo/cgp-tests@0.7.0

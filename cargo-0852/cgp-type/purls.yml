@@ -13,3 +13,4 @@
 - pkg:cargo/cgp-type@0.6.0
 - pkg:cargo/cgp-type@0.6.0-beta
 - pkg:cargo/cgp-type@0.6.1
+- pkg:cargo/cgp-type@0.7.0
