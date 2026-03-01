@@ -74,4 +74,5 @@
 - pkg:cargo/mkutils-macros@0.1.80
 - pkg:cargo/mkutils-macros@0.1.81
 - pkg:cargo/mkutils-macros@0.1.82
+- pkg:cargo/mkutils-macros@0.1.85
 - pkg:cargo/mkutils-macros@0.1.9
