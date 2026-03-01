@@ -1,3 +1,5 @@
 - pkg:cargo/seam-engine@0.3.7
+- pkg:cargo/seam-engine@0.4.10
+- pkg:cargo/seam-engine@0.4.11
 - pkg:cargo/seam-engine@0.4.3
 - pkg:cargo/seam-engine@0.4.4
