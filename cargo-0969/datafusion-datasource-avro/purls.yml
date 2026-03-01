@@ -11,3 +11,4 @@
 - pkg:cargo/datafusion-datasource-avro@51.0.0
 - pkg:cargo/datafusion-datasource-avro@52.0.0
 - pkg:cargo/datafusion-datasource-avro@52.1.0
+- pkg:cargo/datafusion-datasource-avro@52.2.0

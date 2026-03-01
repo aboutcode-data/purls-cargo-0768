@@ -15,3 +15,4 @@
 - pkg:cargo/datafusion-functions-table@51.0.0
 - pkg:cargo/datafusion-functions-table@52.0.0
 - pkg:cargo/datafusion-functions-table@52.1.0
+- pkg:cargo/datafusion-functions-table@52.2.0

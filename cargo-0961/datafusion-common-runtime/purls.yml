@@ -25,3 +25,4 @@
 - pkg:cargo/datafusion-common-runtime@51.0.0
 - pkg:cargo/datafusion-common-runtime@52.0.0
 - pkg:cargo/datafusion-common-runtime@52.1.0
+- pkg:cargo/datafusion-common-runtime@52.2.0
