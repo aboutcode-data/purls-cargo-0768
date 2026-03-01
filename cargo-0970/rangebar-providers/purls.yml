@@ -12,6 +12,11 @@
 - pkg:cargo/rangebar-providers@12.34.0
 - pkg:cargo/rangebar-providers@12.35.0
 - pkg:cargo/rangebar-providers@12.35.1
+- pkg:cargo/rangebar-providers@12.36.0
+- pkg:cargo/rangebar-providers@12.37.0
+- pkg:cargo/rangebar-providers@12.38.0
+- pkg:cargo/rangebar-providers@12.38.1
+- pkg:cargo/rangebar-providers@12.39.0
 - pkg:cargo/rangebar-providers@5.0.0
 - pkg:cargo/rangebar-providers@5.0.1
 - pkg:cargo/rangebar-providers@5.1.0

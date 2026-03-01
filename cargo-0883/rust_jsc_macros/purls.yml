@@ -6,3 +6,4 @@
 - pkg:cargo/rust_jsc_macros@0.1.8
 - pkg:cargo/rust_jsc_macros@0.1.9
 - pkg:cargo/rust_jsc_macros@0.2.0
+- pkg:cargo/rust_jsc_macros@0.2.1
