@@ -5,3 +5,4 @@
 - pkg:cargo/esp-csi-rs@0.2.1
 - pkg:cargo/esp-csi-rs@0.2.2
 - pkg:cargo/esp-csi-rs@0.3.0
+- pkg:cargo/esp-csi-rs@0.4.0
