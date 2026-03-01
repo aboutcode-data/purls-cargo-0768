@@ -18,3 +18,4 @@
 - pkg:cargo/nils-api-test@0.5.3
 - pkg:cargo/nils-api-test@0.5.5
 - pkg:cargo/nils-api-test@0.5.9
+- pkg:cargo/nils-api-test@0.6.0

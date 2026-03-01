@@ -11,3 +11,4 @@
 - pkg:cargo/nils-api-websocket@0.5.3
 - pkg:cargo/nils-api-websocket@0.5.5
 - pkg:cargo/nils-api-websocket@0.5.9
+- pkg:cargo/nils-api-websocket@0.6.0
