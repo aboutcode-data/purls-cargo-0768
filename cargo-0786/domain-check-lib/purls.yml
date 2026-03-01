@@ -7,3 +7,5 @@
 - pkg:cargo/domain-check-lib@0.8.0
 - pkg:cargo/domain-check-lib@0.9.0
 - pkg:cargo/domain-check-lib@0.9.1
+- pkg:cargo/domain-check-lib@1.0.0
+- pkg:cargo/domain-check-lib@1.0.1
