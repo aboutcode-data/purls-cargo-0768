@@ -1,4 +1,5 @@
 - pkg:cargo/freya-terminal@0.4.0-rc.10
+- pkg:cargo/freya-terminal@0.4.0-rc.11
 - pkg:cargo/freya-terminal@0.4.0-rc.4
 - pkg:cargo/freya-terminal@0.4.0-rc.5
 - pkg:cargo/freya-terminal@0.4.0-rc.6
