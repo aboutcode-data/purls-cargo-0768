@@ -14,3 +14,4 @@
 - pkg:cargo/sayiir-postgres@0.1.0-alpha.9
 - pkg:cargo/sayiir-postgres@0.2.0
 - pkg:cargo/sayiir-postgres@0.3.0
+- pkg:cargo/sayiir-postgres@0.3.1
