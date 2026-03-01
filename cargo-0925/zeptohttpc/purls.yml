@@ -13,6 +13,7 @@
 - pkg:cargo/zeptohttpc@0.10.1
 - pkg:cargo/zeptohttpc@0.10.2
 - pkg:cargo/zeptohttpc@0.10.3
+- pkg:cargo/zeptohttpc@0.10.4
 - pkg:cargo/zeptohttpc@0.2.1
 - pkg:cargo/zeptohttpc@0.3.0
 - pkg:cargo/zeptohttpc@0.3.1

@@ -17,3 +17,5 @@
 - pkg:cargo/zene@0.5.3
 - pkg:cargo/zene@0.5.4
 - pkg:cargo/zene@0.5.5
+- pkg:cargo/zene@0.6.0
+- pkg:cargo/zene@0.6.1
