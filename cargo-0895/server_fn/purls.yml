@@ -83,6 +83,7 @@
 - pkg:cargo/server_fn@0.8.0-rc3
 - pkg:cargo/server_fn@0.8.1
 - pkg:cargo/server_fn@0.8.10
+- pkg:cargo/server_fn@0.8.11
 - pkg:cargo/server_fn@0.8.2
 - pkg:cargo/server_fn@0.8.3
 - pkg:cargo/server_fn@0.8.4

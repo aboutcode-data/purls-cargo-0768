@@ -18,3 +18,4 @@
 - pkg:cargo/squawk-linter@2.40.0
 - pkg:cargo/squawk-linter@2.40.1
 - pkg:cargo/squawk-linter@2.41.0
+- pkg:cargo/squawk-linter@2.43.0
