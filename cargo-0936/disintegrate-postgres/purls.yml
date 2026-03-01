@@ -16,3 +16,4 @@
 - pkg:cargo/disintegrate-postgres@2.1.0
 - pkg:cargo/disintegrate-postgres@3.0.0
 - pkg:cargo/disintegrate-postgres@4.0.0
+- pkg:cargo/disintegrate-postgres@4.0.1
