@@ -3,3 +3,4 @@
 - pkg:cargo/hyper-body-utils@0.1.2
 - pkg:cargo/hyper-body-utils@0.1.4
 - pkg:cargo/hyper-body-utils@0.1.5
+- pkg:cargo/hyper-body-utils@0.1.6-beta.1
