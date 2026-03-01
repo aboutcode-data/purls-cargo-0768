@@ -18,6 +18,8 @@
 - pkg:cargo/boundary@0.22.0
 - pkg:cargo/boundary@0.22.1
 - pkg:cargo/boundary@0.23.0
+- pkg:cargo/boundary@0.24.0
+- pkg:cargo/boundary@0.25.0
 - pkg:cargo/boundary@0.8.3
 - pkg:cargo/boundary@0.8.4
 - pkg:cargo/boundary@0.8.5

@@ -1,3 +1,4 @@
 - pkg:cargo/btlescan@1.1.0
 - pkg:cargo/btlescan@1.1.1
 - pkg:cargo/btlescan@1.1.2
+- pkg:cargo/btlescan@1.1.3
