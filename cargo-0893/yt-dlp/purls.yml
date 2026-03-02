@@ -36,3 +36,4 @@
 - pkg:cargo/yt-dlp@2.1.0
 - pkg:cargo/yt-dlp@2.2.0
 - pkg:cargo/yt-dlp@2.3.0
+- pkg:cargo/yt-dlp@2.4.0
