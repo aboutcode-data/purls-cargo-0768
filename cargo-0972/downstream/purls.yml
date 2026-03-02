@@ -19,6 +19,7 @@
 - pkg:cargo/downstream@1.17.0
 - pkg:cargo/downstream@1.18.0
 - pkg:cargo/downstream@1.19.0
+- pkg:cargo/downstream@1.20.0
 - pkg:cargo/downstream@1.6.19
 - pkg:cargo/downstream@1.6.24
 - pkg:cargo/downstream@1.7.0
