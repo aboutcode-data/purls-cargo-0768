@@ -1,2 +1,4 @@
 - pkg:cargo/xrpl-mithril-codec@0.3.0
 - pkg:cargo/xrpl-mithril-codec@0.3.1
+- pkg:cargo/xrpl-mithril-codec@0.3.2
+- pkg:cargo/xrpl-mithril-codec@0.3.3
