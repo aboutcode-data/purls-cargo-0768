@@ -2,3 +2,4 @@
 - pkg:cargo/kube-fake-client@0.1.2
 - pkg:cargo/kube-fake-client@0.1.3
 - pkg:cargo/kube-fake-client@0.1.4
+- pkg:cargo/kube-fake-client@0.2.0
