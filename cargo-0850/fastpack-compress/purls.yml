@@ -18,6 +18,9 @@
 - pkg:cargo/fastpack-compress@0.24.0
 - pkg:cargo/fastpack-compress@0.27.2
 - pkg:cargo/fastpack-compress@0.29.0
+- pkg:cargo/fastpack-compress@0.29.1
+- pkg:cargo/fastpack-compress@0.29.2
+- pkg:cargo/fastpack-compress@0.29.3
 - pkg:cargo/fastpack-compress@0.3.0
 - pkg:cargo/fastpack-compress@0.4.0
 - pkg:cargo/fastpack-compress@0.4.1
