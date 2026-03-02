@@ -2,3 +2,4 @@
 - pkg:cargo/near-kit-macros@0.2.0
 - pkg:cargo/near-kit-macros@0.3.0
 - pkg:cargo/near-kit-macros@0.3.1
+- pkg:cargo/near-kit-macros@0.4.0
