@@ -1,5 +1,6 @@
 - pkg:cargo/zentinel-config@0.5.0
 - pkg:cargo/zentinel-config@0.5.11
+- pkg:cargo/zentinel-config@0.5.13
 - pkg:cargo/zentinel-config@0.5.3
 - pkg:cargo/zentinel-config@0.5.4
 - pkg:cargo/zentinel-config@0.5.5
