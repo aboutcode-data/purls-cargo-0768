@@ -5,3 +5,4 @@
 - pkg:cargo/evm-dex-pool@0.5.0
 - pkg:cargo/evm-dex-pool@0.6.0
 - pkg:cargo/evm-dex-pool@0.7.0
+- pkg:cargo/evm-dex-pool@0.8.0
