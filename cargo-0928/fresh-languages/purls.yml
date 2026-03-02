@@ -12,6 +12,7 @@
 - pkg:cargo/fresh-languages@0.1.99
 - pkg:cargo/fresh-languages@0.2.1
 - pkg:cargo/fresh-languages@0.2.11
+- pkg:cargo/fresh-languages@0.2.12
 - pkg:cargo/fresh-languages@0.2.2
 - pkg:cargo/fresh-languages@0.2.3
 - pkg:cargo/fresh-languages@0.2.4
