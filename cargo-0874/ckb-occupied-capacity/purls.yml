@@ -113,3 +113,4 @@
 - pkg:cargo/ckb-occupied-capacity@1.0.0-rc2
 - pkg:cargo/ckb-occupied-capacity@1.0.1
 - pkg:cargo/ckb-occupied-capacity@1.0.2
+- pkg:cargo/ckb-occupied-capacity@1.1.0

@@ -110,3 +110,4 @@
 - pkg:cargo/ckb-tx-pool@1.0.0-rc2
 - pkg:cargo/ckb-tx-pool@1.1.0
 - pkg:cargo/ckb-tx-pool@1.1.1
+- pkg:cargo/ckb-tx-pool@1.2.0
