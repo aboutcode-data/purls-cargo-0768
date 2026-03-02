@@ -41,3 +41,4 @@
 - pkg:cargo/shacl_ast@0.1.90
 - pkg:cargo/shacl_ast@0.1.91
 - pkg:cargo/shacl_ast@0.2.2
+- pkg:cargo/shacl_ast@0.2.6
