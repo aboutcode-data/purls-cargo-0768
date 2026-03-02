@@ -20,3 +20,4 @@
 - pkg:cargo/tket-json-rs@0.7.6
 - pkg:cargo/tket-json-rs@0.7.7
 - pkg:cargo/tket-json-rs@0.8.0
+- pkg:cargo/tket-json-rs@0.8.1
