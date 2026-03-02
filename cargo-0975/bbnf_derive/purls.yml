@@ -1,1 +1,2 @@
 - pkg:cargo/bbnf_derive@0.1.0
+- pkg:cargo/bbnf_derive@0.1.1
