@@ -8,3 +8,7 @@
 - pkg:cargo/rusty-haystack-server@0.5.1
 - pkg:cargo/rusty-haystack-server@0.5.3
 - pkg:cargo/rusty-haystack-server@0.5.4
+- pkg:cargo/rusty-haystack-server@0.6.0
+- pkg:cargo/rusty-haystack-server@0.6.1
+- pkg:cargo/rusty-haystack-server@0.6.2
+- pkg:cargo/rusty-haystack-server@0.6.3
