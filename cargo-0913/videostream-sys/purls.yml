@@ -29,3 +29,4 @@
 - pkg:cargo/videostream-sys@2.1.4
 - pkg:cargo/videostream-sys@2.2.0
 - pkg:cargo/videostream-sys@2.2.1
+- pkg:cargo/videostream-sys@2.2.2
