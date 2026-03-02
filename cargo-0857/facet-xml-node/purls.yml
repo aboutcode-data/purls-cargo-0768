@@ -1,3 +1,4 @@
 - pkg:cargo/facet-xml-node@0.0.0
 - pkg:cargo/facet-xml-node@0.43.0
 - pkg:cargo/facet-xml-node@0.43.1
+- pkg:cargo/facet-xml-node@0.44.0

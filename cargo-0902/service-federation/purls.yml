@@ -22,3 +22,4 @@
 - pkg:cargo/service-federation@3.0.2
 - pkg:cargo/service-federation@3.0.3
 - pkg:cargo/service-federation@3.1.0
+- pkg:cargo/service-federation@3.4.1
