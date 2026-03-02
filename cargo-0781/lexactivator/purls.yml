@@ -21,3 +21,6 @@
 - pkg:cargo/lexactivator@3.34.0
 - pkg:cargo/lexactivator@3.35.0
 - pkg:cargo/lexactivator@3.35.1
+- pkg:cargo/lexactivator@3.36.0
+- pkg:cargo/lexactivator@3.37.0
+- pkg:cargo/lexactivator@3.38.0
