@@ -69,6 +69,7 @@
 - pkg:cargo/mago-algebra@1.13.0
 - pkg:cargo/mago-algebra@1.13.1
 - pkg:cargo/mago-algebra@1.13.2
+- pkg:cargo/mago-algebra@1.13.3
 - pkg:cargo/mago-algebra@1.2.0
 - pkg:cargo/mago-algebra@1.2.1
 - pkg:cargo/mago-algebra@1.2.2
