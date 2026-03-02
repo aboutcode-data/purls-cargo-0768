@@ -1,2 +1,3 @@
 - pkg:cargo/thread-utilities@0.1.1
 - pkg:cargo/thread-utilities@0.1.2
+- pkg:cargo/thread-utilities@0.1.3
