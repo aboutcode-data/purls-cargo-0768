@@ -11,3 +11,4 @@
 - pkg:cargo/linkbudget@0.5.1
 - pkg:cargo/linkbudget@0.5.2
 - pkg:cargo/linkbudget@0.5.3
+- pkg:cargo/linkbudget@0.6.0
