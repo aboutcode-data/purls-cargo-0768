@@ -28,12 +28,14 @@
 - pkg:cargo/css_ast@0.0.17-canary.6da5a3e408
 - pkg:cargo/css_ast@0.0.17-canary.e0c9e6897d
 - pkg:cargo/css_ast@0.0.17-canary.fbef67d111
+- pkg:cargo/css_ast@0.0.18
 - pkg:cargo/css_ast@0.0.18-canary.21b19a166d
 - pkg:cargo/css_ast@0.0.18-canary.259d40f3d5
 - pkg:cargo/css_ast@0.0.18-canary.30b187c030
 - pkg:cargo/css_ast@0.0.18-canary.460c93f5e2
 - pkg:cargo/css_ast@0.0.18-canary.4f2985f2d4
 - pkg:cargo/css_ast@0.0.18-canary.51e5d559ed
+- pkg:cargo/css_ast@0.0.18-canary.58acc58261
 - pkg:cargo/css_ast@0.0.18-canary.6b44559379
 - pkg:cargo/css_ast@0.0.18-canary.703faa8090
 - pkg:cargo/css_ast@0.0.18-canary.87f87b87d4
@@ -46,6 +48,7 @@
 - pkg:cargo/css_ast@0.0.18-canary.ebb418d345
 - pkg:cargo/css_ast@0.0.18-canary.f2744799a4
 - pkg:cargo/css_ast@0.0.18-canary.f8df552bcc
+- pkg:cargo/css_ast@0.0.19-canary.d8f21f6277
 - pkg:cargo/css_ast@0.0.5
 - pkg:cargo/css_ast@0.0.6
 - pkg:cargo/css_ast@0.0.6-canary.23726265a1
