@@ -1,4 +1,5 @@
 - pkg:cargo/chopin-pg@0.5.1
+- pkg:cargo/chopin-pg@0.5.10
 - pkg:cargo/chopin-pg@0.5.2
 - pkg:cargo/chopin-pg@0.5.3
 - pkg:cargo/chopin-pg@0.5.6
