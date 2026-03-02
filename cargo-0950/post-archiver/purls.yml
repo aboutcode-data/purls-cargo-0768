@@ -21,3 +21,6 @@
 - pkg:cargo/post-archiver@0.4.5
 - pkg:cargo/post-archiver@0.5.0
 - pkg:cargo/post-archiver@0.5.1
+- pkg:cargo/post-archiver@0.5.2
+- pkg:cargo/post-archiver@0.5.3
+- pkg:cargo/post-archiver@0.5.4
