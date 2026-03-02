@@ -7,3 +7,5 @@
 - pkg:cargo/expman-server@0.2.5
 - pkg:cargo/expman-server@0.2.6
 - pkg:cargo/expman-server@0.2.7
+- pkg:cargo/expman-server@0.2.8
+- pkg:cargo/expman-server@0.2.9
