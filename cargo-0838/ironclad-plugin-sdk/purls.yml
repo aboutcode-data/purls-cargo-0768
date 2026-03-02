@@ -16,3 +16,5 @@
 - pkg:cargo/ironclad-plugin-sdk@0.8.4
 - pkg:cargo/ironclad-plugin-sdk@0.8.7
 - pkg:cargo/ironclad-plugin-sdk@0.8.9
+- pkg:cargo/ironclad-plugin-sdk@0.9.0
+- pkg:cargo/ironclad-plugin-sdk@0.9.1
