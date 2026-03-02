@@ -22,3 +22,4 @@
 - pkg:cargo/mimium-midi@3.1.2
 - pkg:cargo/mimium-midi@3.2.0
 - pkg:cargo/mimium-midi@4.0.0-alpha
+- pkg:cargo/mimium-midi@4.0.0-alpha.4
