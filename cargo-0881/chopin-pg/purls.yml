@@ -3,3 +3,5 @@
 - pkg:cargo/chopin-pg@0.5.3
 - pkg:cargo/chopin-pg@0.5.6
 - pkg:cargo/chopin-pg@0.5.7
+- pkg:cargo/chopin-pg@0.5.8
+- pkg:cargo/chopin-pg@0.5.9

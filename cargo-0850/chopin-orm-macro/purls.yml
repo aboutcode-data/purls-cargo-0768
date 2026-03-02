@@ -1,2 +1,4 @@
 - pkg:cargo/chopin-orm-macro@0.5.6
 - pkg:cargo/chopin-orm-macro@0.5.7
+- pkg:cargo/chopin-orm-macro@0.5.8
+- pkg:cargo/chopin-orm-macro@0.5.9

@@ -7,3 +7,4 @@
 - pkg:cargo/mimium-fmt@3.1.1
 - pkg:cargo/mimium-fmt@3.1.2
 - pkg:cargo/mimium-fmt@3.2.0
+- pkg:cargo/mimium-fmt@4.0.0-alpha
