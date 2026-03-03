@@ -1,1 +1,2 @@
 - pkg:cargo/pingora-s2n@0.7.0
+- pkg:cargo/pingora-s2n@0.8.0
