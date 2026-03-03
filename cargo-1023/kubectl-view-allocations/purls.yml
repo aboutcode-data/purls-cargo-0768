@@ -57,3 +57,4 @@
 - pkg:cargo/kubectl-view-allocations@0.9.1
 - pkg:cargo/kubectl-view-allocations@0.9.2
 - pkg:cargo/kubectl-view-allocations@1.0.0
+- pkg:cargo/kubectl-view-allocations@1.1.0

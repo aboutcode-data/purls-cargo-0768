@@ -18,3 +18,4 @@
 - pkg:cargo/keen-retry@0.5.0
 - pkg:cargo/keen-retry@0.5.1
 - pkg:cargo/keen-retry@0.5.2
+- pkg:cargo/keen-retry@0.5.3
