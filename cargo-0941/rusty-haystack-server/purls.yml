@@ -14,3 +14,4 @@
 - pkg:cargo/rusty-haystack-server@0.6.3
 - pkg:cargo/rusty-haystack-server@0.7.0
 - pkg:cargo/rusty-haystack-server@0.7.1
+- pkg:cargo/rusty-haystack-server@0.7.2
