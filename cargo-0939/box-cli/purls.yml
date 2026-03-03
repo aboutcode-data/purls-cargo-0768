@@ -30,6 +30,9 @@
 - pkg:cargo/box-cli@0.0.41
 - pkg:cargo/box-cli@0.0.42
 - pkg:cargo/box-cli@0.0.44
+- pkg:cargo/box-cli@0.0.46
+- pkg:cargo/box-cli@0.0.48
+- pkg:cargo/box-cli@0.0.49
 - pkg:cargo/box-cli@0.0.5
 - pkg:cargo/box-cli@0.0.6
 - pkg:cargo/box-cli@0.0.7
