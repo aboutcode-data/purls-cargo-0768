@@ -162,6 +162,7 @@
 - pkg:cargo/tokio@1.49.0
 - pkg:cargo/tokio@1.5.0
 - pkg:cargo/tokio@1.5.1
+- pkg:cargo/tokio@1.50.0
 - pkg:cargo/tokio@1.6.0
 - pkg:cargo/tokio@1.6.1
 - pkg:cargo/tokio@1.6.2
