@@ -24,3 +24,4 @@
 - pkg:cargo/wgpu_canvas@5.0.3
 - pkg:cargo/wgpu_canvas@5.0.4
 - pkg:cargo/wgpu_canvas@5.0.5
+- pkg:cargo/wgpu_canvas@5.0.6
