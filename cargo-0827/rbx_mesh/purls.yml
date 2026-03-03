@@ -8,3 +8,4 @@
 - pkg:cargo/rbx_mesh@0.5.0
 - pkg:cargo/rbx_mesh@0.5.0-csgmdl5-pre1
 - pkg:cargo/rbx_mesh@0.5.1
+- pkg:cargo/rbx_mesh@0.6.0
