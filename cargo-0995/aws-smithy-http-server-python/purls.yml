@@ -49,3 +49,4 @@
 - pkg:cargo/aws-smithy-http-server-python@0.66.8
 - pkg:cargo/aws-smithy-http-server-python@0.66.9
 - pkg:cargo/aws-smithy-http-server-python@0.67.0
+- pkg:cargo/aws-smithy-http-server-python@0.67.1
