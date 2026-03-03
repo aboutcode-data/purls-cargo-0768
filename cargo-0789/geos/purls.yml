@@ -7,6 +7,7 @@
 - pkg:cargo/geos@10.0.0
 - pkg:cargo/geos@11.0.0
 - pkg:cargo/geos@11.0.1
+- pkg:cargo/geos@11.1.1
 - pkg:cargo/geos@2.0.0
 - pkg:cargo/geos@2.0.1
 - pkg:cargo/geos@2.0.2
