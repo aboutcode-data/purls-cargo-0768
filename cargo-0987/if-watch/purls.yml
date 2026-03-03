@@ -20,3 +20,4 @@
 - pkg:cargo/if-watch@3.1.0
 - pkg:cargo/if-watch@3.2.0
 - pkg:cargo/if-watch@3.2.1
+- pkg:cargo/if-watch@3.2.2

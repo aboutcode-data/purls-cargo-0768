@@ -1,3 +1,4 @@
+- pkg:cargo/javascript-mel@0.10.0
 - pkg:cargo/javascript-mel@0.7.0
 - pkg:cargo/javascript-mel@0.7.1
 - pkg:cargo/javascript-mel@0.8.0
