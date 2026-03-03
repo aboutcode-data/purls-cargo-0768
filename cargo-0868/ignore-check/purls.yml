@@ -7,3 +7,4 @@
 - pkg:cargo/ignore-check@0.3.0
 - pkg:cargo/ignore-check@0.3.1
 - pkg:cargo/ignore-check@0.3.2
+- pkg:cargo/ignore-check@0.3.3
