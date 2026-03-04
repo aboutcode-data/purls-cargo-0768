@@ -1,1 +1,2 @@
 - pkg:cargo/salvo-helmet@0.3.0
+- pkg:cargo/salvo-helmet@1.0.0

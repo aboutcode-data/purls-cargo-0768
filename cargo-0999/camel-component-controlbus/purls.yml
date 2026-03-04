@@ -1,1 +1,2 @@
 - pkg:cargo/camel-component-controlbus@0.2.0
+- pkg:cargo/camel-component-controlbus@0.2.1
