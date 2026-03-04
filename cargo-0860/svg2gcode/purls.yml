@@ -18,3 +18,4 @@
 - pkg:cargo/svg2gcode@0.3.1
 - pkg:cargo/svg2gcode@0.3.2
 - pkg:cargo/svg2gcode@0.3.3
+- pkg:cargo/svg2gcode@0.3.4

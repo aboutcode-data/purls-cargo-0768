@@ -6,6 +6,7 @@
 - pkg:cargo/svg2gcode-web@0.0.15
 - pkg:cargo/svg2gcode-web@0.0.16
 - pkg:cargo/svg2gcode-web@0.0.17
+- pkg:cargo/svg2gcode-web@0.0.18
 - pkg:cargo/svg2gcode-web@0.0.4
 - pkg:cargo/svg2gcode-web@0.0.5
 - pkg:cargo/svg2gcode-web@0.0.6

@@ -6,6 +6,7 @@
 - pkg:cargo/svg2gcode-cli@0.0.15
 - pkg:cargo/svg2gcode-cli@0.0.16
 - pkg:cargo/svg2gcode-cli@0.0.17
+- pkg:cargo/svg2gcode-cli@0.0.18
 - pkg:cargo/svg2gcode-cli@0.0.5
 - pkg:cargo/svg2gcode-cli@0.0.6
 - pkg:cargo/svg2gcode-cli@0.0.7
