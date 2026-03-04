@@ -2,3 +2,4 @@
 - pkg:cargo/scouter-tonic@0.16.0
 - pkg:cargo/scouter-tonic@0.17.1
 - pkg:cargo/scouter-tonic@0.18.0
+- pkg:cargo/scouter-tonic@0.19.0
