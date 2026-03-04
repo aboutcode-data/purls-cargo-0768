@@ -20,6 +20,7 @@
 - pkg:cargo/tokf@0.2.19
 - pkg:cargo/tokf@0.2.2
 - pkg:cargo/tokf@0.2.20
+- pkg:cargo/tokf@0.2.21
 - pkg:cargo/tokf@0.2.6
 - pkg:cargo/tokf@0.2.7
 - pkg:cargo/tokf@0.2.8
