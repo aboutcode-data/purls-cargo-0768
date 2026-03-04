@@ -4,3 +4,4 @@
 - pkg:cargo/edgefirst-hal@0.6.2
 - pkg:cargo/edgefirst-hal@0.7.0
 - pkg:cargo/edgefirst-hal@0.8.0
+- pkg:cargo/edgefirst-hal@0.9.0

@@ -94,6 +94,7 @@
 - pkg:cargo/minijinja@2.15.1
 - pkg:cargo/minijinja@2.16.0
 - pkg:cargo/minijinja@2.17.0
+- pkg:cargo/minijinja@2.17.1
 - pkg:cargo/minijinja@2.2.0
 - pkg:cargo/minijinja@2.3.0
 - pkg:cargo/minijinja@2.3.1
