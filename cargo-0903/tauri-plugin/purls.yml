@@ -48,3 +48,4 @@
 - pkg:cargo/tauri-plugin@2.5.1
 - pkg:cargo/tauri-plugin@2.5.2
 - pkg:cargo/tauri-plugin@2.5.3
+- pkg:cargo/tauri-plugin@2.5.4
