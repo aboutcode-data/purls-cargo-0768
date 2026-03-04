@@ -72,6 +72,7 @@
 - pkg:cargo/napi_sym@0.163.0
 - pkg:cargo/napi_sym@0.164.0
 - pkg:cargo/napi_sym@0.165.0
+- pkg:cargo/napi_sym@0.166.0
 - pkg:cargo/napi_sym@0.17.0
 - pkg:cargo/napi_sym@0.18.0
 - pkg:cargo/napi_sym@0.19.0

@@ -23,3 +23,4 @@
 - pkg:cargo/launchdarkly-server-sdk@2.6.1
 - pkg:cargo/launchdarkly-server-sdk@2.6.2
 - pkg:cargo/launchdarkly-server-sdk@2.6.3
+- pkg:cargo/launchdarkly-server-sdk@3.0.0
