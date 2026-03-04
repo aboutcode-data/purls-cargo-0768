@@ -30,3 +30,4 @@
 - pkg:cargo/cocogitto@6.3.0
 - pkg:cargo/cocogitto@6.4.0
 - pkg:cargo/cocogitto@6.5.0
+- pkg:cargo/cocogitto@7.0.0
