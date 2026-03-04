@@ -1,5 +1,7 @@
+- pkg:cargo/tui-file-explorer@0.1.10
 - pkg:cargo/tui-file-explorer@0.1.3
 - pkg:cargo/tui-file-explorer@0.1.4
 - pkg:cargo/tui-file-explorer@0.1.5
 - pkg:cargo/tui-file-explorer@0.1.7
 - pkg:cargo/tui-file-explorer@0.1.8
+- pkg:cargo/tui-file-explorer@0.1.9

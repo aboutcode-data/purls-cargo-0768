@@ -89,3 +89,4 @@
 - pkg:cargo/aqua-registry@2026.2.7
 - pkg:cargo/aqua-registry@2026.2.8
 - pkg:cargo/aqua-registry@2026.2.9
+- pkg:cargo/aqua-registry@2026.3.1
