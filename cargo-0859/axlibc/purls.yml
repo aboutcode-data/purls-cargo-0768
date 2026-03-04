@@ -2,3 +2,4 @@
 - pkg:cargo/axlibc@0.2.2-hv.4
 - pkg:cargo/axlibc@0.2.2-hv.5
 - pkg:cargo/axlibc@0.2.2-preview.1
+- pkg:cargo/axlibc@0.3.0-preview.1
