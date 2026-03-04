@@ -1,3 +1,6 @@
 - pkg:cargo/secry@1.1.6
 - pkg:cargo/secry@1.1.7
 - pkg:cargo/secry@1.1.8
+- pkg:cargo/secry@1.2.1
+- pkg:cargo/secry@1.2.2
+- pkg:cargo/secry@1.2.3

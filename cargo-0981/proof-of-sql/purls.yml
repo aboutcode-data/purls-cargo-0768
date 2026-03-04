@@ -208,6 +208,7 @@
 - pkg:cargo/proof-of-sql@0.127.7
 - pkg:cargo/proof-of-sql@0.127.8
 - pkg:cargo/proof-of-sql@0.127.9
+- pkg:cargo/proof-of-sql@0.128.0
 - pkg:cargo/proof-of-sql@0.13.0
 - pkg:cargo/proof-of-sql@0.14.0
 - pkg:cargo/proof-of-sql@0.14.1
