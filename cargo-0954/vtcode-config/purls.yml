@@ -295,3 +295,4 @@
 - pkg:cargo/vtcode-config@0.85.0
 - pkg:cargo/vtcode-config@0.85.2
 - pkg:cargo/vtcode-config@0.85.3
+- pkg:cargo/vtcode-config@0.86.1
