@@ -1,5 +1,6 @@
 - pkg:cargo/surge-cli@0.2.0-preview.36
 - pkg:cargo/surge-cli@0.3.0
+- pkg:cargo/surge-cli@0.4.0-preview.100
 - pkg:cargo/surge-cli@0.4.0-preview.45
 - pkg:cargo/surge-cli@0.4.0-preview.47
 - pkg:cargo/surge-cli@0.4.0-preview.55
