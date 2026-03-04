@@ -21,6 +21,7 @@
 - pkg:cargo/miden-node-rpc@0.13.5
 - pkg:cargo/miden-node-rpc@0.13.6
 - pkg:cargo/miden-node-rpc@0.13.7
+- pkg:cargo/miden-node-rpc@0.14.0-alpha.1
 - pkg:cargo/miden-node-rpc@0.2.0
 - pkg:cargo/miden-node-rpc@0.2.1
 - pkg:cargo/miden-node-rpc@0.3.0
