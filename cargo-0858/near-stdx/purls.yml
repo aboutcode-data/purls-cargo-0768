@@ -50,3 +50,4 @@
 - pkg:cargo/near-stdx@0.34.4
 - pkg:cargo/near-stdx@0.34.5
 - pkg:cargo/near-stdx@0.34.6
+- pkg:cargo/near-stdx@0.34.7
