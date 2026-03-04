@@ -1,2 +1,6 @@
 - pkg:cargo/roam-codegen@0.1.0
 - pkg:cargo/roam-codegen@0.6.0
+- pkg:cargo/roam-codegen@7.0.0
+- pkg:cargo/roam-codegen@7.0.0-alpha.1
+- pkg:cargo/roam-codegen@7.0.0-alpha.2
+- pkg:cargo/roam-codegen@7.0.0-alpha.3
