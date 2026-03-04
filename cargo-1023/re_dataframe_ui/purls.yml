@@ -87,3 +87,4 @@
 - pkg:cargo/re_dataframe_ui@0.30.0-alpha.7
 - pkg:cargo/re_dataframe_ui@0.30.0-rc.1
 - pkg:cargo/re_dataframe_ui@0.30.0-rc.2
+- pkg:cargo/re_dataframe_ui@0.30.1
