@@ -3,3 +3,5 @@
 - pkg:cargo/meld@1.0.1
 - pkg:cargo/meld@1.1.0
 - pkg:cargo/meld@1.1.1
+- pkg:cargo/meld@1.1.2
+- pkg:cargo/meld@1.1.3
