@@ -1,2 +1,4 @@
 - pkg:cargo/gtc@0.9.0
+- pkg:cargo/gtc@0.9.1
+- pkg:cargo/gtc@0.9.3
 - pkg:cargo/gtc@1.0.0-alpha1
