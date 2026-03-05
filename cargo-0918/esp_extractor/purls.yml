@@ -6,3 +6,5 @@
 - pkg:cargo/esp_extractor@0.5.2
 - pkg:cargo/esp_extractor@0.6.0
 - pkg:cargo/esp_extractor@0.7.0
+- pkg:cargo/esp_extractor@0.8.0
+- pkg:cargo/esp_extractor@0.8.1
