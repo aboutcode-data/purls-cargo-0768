@@ -19,3 +19,4 @@
 - pkg:cargo/scirs2-autograd@0.1.4
 - pkg:cargo/scirs2-autograd@0.1.5
 - pkg:cargo/scirs2-autograd@0.2.0
+- pkg:cargo/scirs2-autograd@0.3.0
