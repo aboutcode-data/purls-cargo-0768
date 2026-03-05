@@ -1,3 +1,4 @@
+- pkg:cargo/turbomcp-wasm@3.0.0
 - pkg:cargo/turbomcp-wasm@3.0.0-beta.1
 - pkg:cargo/turbomcp-wasm@3.0.0-beta.2
 - pkg:cargo/turbomcp-wasm@3.0.0-beta.3
