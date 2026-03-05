@@ -5,6 +5,7 @@
 - pkg:cargo/argh_shared@0.1.12
 - pkg:cargo/argh_shared@0.1.13
 - pkg:cargo/argh_shared@0.1.14
+- pkg:cargo/argh_shared@0.1.15
 - pkg:cargo/argh_shared@0.1.4
 - pkg:cargo/argh_shared@0.1.5
 - pkg:cargo/argh_shared@0.1.6

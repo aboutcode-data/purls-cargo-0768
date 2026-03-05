@@ -29,3 +29,4 @@
 - pkg:cargo/dyn_trie@4.0.1
 - pkg:cargo/dyn_trie@5.0.0
 - pkg:cargo/dyn_trie@5.0.1
+- pkg:cargo/dyn_trie@6.0.0
