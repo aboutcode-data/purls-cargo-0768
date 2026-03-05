@@ -17,3 +17,4 @@
 - pkg:cargo/dlprotoc@0.4.6%2B33.0
 - pkg:cargo/dlprotoc@0.4.7%2B33.2
 - pkg:cargo/dlprotoc@0.4.8%2B33.5
+- pkg:cargo/dlprotoc@0.4.9%2B34.0
