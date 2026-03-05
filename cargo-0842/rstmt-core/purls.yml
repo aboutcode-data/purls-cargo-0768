@@ -12,3 +12,4 @@
 - pkg:cargo/rstmt-core@0.0.7
 - pkg:cargo/rstmt-core@0.0.8
 - pkg:cargo/rstmt-core@0.0.9
+- pkg:cargo/rstmt-core@0.1.0
