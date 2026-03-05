@@ -5,3 +5,4 @@
 - pkg:cargo/aws-sdk-partnercentralaccount@1.4.0
 - pkg:cargo/aws-sdk-partnercentralaccount@1.5.0
 - pkg:cargo/aws-sdk-partnercentralaccount@1.6.0
+- pkg:cargo/aws-sdk-partnercentralaccount@1.7.0

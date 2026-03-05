@@ -145,3 +145,4 @@
 - pkg:cargo/aws-sdk-efs@1.96.0
 - pkg:cargo/aws-sdk-efs@1.97.0
 - pkg:cargo/aws-sdk-efs@1.98.0
+- pkg:cargo/aws-sdk-efs@1.99.0

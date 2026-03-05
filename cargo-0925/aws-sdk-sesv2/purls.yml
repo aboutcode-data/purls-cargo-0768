@@ -63,6 +63,7 @@
 - pkg:cargo/aws-sdk-sesv2@1.112.0
 - pkg:cargo/aws-sdk-sesv2@1.113.0
 - pkg:cargo/aws-sdk-sesv2@1.114.0
+- pkg:cargo/aws-sdk-sesv2@1.115.0
 - pkg:cargo/aws-sdk-sesv2@1.12.0
 - pkg:cargo/aws-sdk-sesv2@1.13.0
 - pkg:cargo/aws-sdk-sesv2@1.14.0
