@@ -3,6 +3,7 @@
 - pkg:cargo/kwaai-compression@0.3.13
 - pkg:cargo/kwaai-compression@0.3.14
 - pkg:cargo/kwaai-compression@0.3.15
+- pkg:cargo/kwaai-compression@0.3.21
 - pkg:cargo/kwaai-compression@0.3.5
 - pkg:cargo/kwaai-compression@0.3.6
 - pkg:cargo/kwaai-compression@0.3.7
