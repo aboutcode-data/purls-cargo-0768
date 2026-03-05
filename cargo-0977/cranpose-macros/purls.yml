@@ -14,4 +14,5 @@
 - pkg:cargo/cranpose-macros@0.0.45
 - pkg:cargo/cranpose-macros@0.0.46
 - pkg:cargo/cranpose-macros@0.0.47
+- pkg:cargo/cranpose-macros@0.0.48
 - pkg:cargo/cranpose-macros@0.1.0
