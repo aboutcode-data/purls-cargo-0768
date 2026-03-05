@@ -6,3 +6,4 @@
 - pkg:cargo/rustpix-cli@1.0.5
 - pkg:cargo/rustpix-cli@1.1.0
 - pkg:cargo/rustpix-cli@1.1.1
+- pkg:cargo/rustpix-cli@1.1.2
