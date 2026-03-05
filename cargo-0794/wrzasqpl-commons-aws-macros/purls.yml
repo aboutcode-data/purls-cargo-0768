@@ -31,6 +31,7 @@
 - pkg:cargo/wrzasqpl-commons-aws-macros@4.2.34
 - pkg:cargo/wrzasqpl-commons-aws-macros@4.2.35
 - pkg:cargo/wrzasqpl-commons-aws-macros@4.2.36
+- pkg:cargo/wrzasqpl-commons-aws-macros@4.2.37
 - pkg:cargo/wrzasqpl-commons-aws-macros@4.2.4
 - pkg:cargo/wrzasqpl-commons-aws-macros@4.2.5
 - pkg:cargo/wrzasqpl-commons-aws-macros@4.2.6
