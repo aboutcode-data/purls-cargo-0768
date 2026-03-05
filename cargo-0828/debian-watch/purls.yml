@@ -31,3 +31,4 @@
 - pkg:cargo/debian-watch@0.3.8
 - pkg:cargo/debian-watch@0.4.0
 - pkg:cargo/debian-watch@0.4.1
+- pkg:cargo/debian-watch@0.4.2

@@ -323,3 +323,4 @@
 - pkg:cargo/deno@2.7.1
 - pkg:cargo/deno@2.7.2
 - pkg:cargo/deno@2.7.3
+- pkg:cargo/deno@2.7.4
