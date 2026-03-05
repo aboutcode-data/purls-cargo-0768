@@ -10,6 +10,7 @@
 - pkg:cargo/ffi_types@0.0.18
 - pkg:cargo/ffi_types@0.0.19
 - pkg:cargo/ffi_types@0.0.2
+- pkg:cargo/ffi_types@0.0.21
 - pkg:cargo/ffi_types@0.0.3
 - pkg:cargo/ffi_types@0.0.4
 - pkg:cargo/ffi_types@0.0.5

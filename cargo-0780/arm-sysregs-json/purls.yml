@@ -2,3 +2,4 @@
 - pkg:cargo/arm-sysregs-json@0.2.0
 - pkg:cargo/arm-sysregs-json@0.3.0
 - pkg:cargo/arm-sysregs-json@0.4.0
+- pkg:cargo/arm-sysregs-json@0.5.0
