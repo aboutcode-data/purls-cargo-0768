@@ -1,1 +1,2 @@
 - pkg:cargo/openraft-rt@0.10.0-alpha.14
+- pkg:cargo/openraft-rt@0.10.0-alpha.15
