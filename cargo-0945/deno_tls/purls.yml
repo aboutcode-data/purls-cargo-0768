@@ -137,6 +137,7 @@
 - pkg:cargo/deno_tls@0.221.0
 - pkg:cargo/deno_tls@0.222.0
 - pkg:cargo/deno_tls@0.223.0
+- pkg:cargo/deno_tls@0.224.0
 - pkg:cargo/deno_tls@0.23.0
 - pkg:cargo/deno_tls@0.24.0
 - pkg:cargo/deno_tls@0.25.0
