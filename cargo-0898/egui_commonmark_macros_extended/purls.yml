@@ -1,1 +1,2 @@
 - pkg:cargo/egui_commonmark_macros_extended@0.22.1
+- pkg:cargo/egui_commonmark_macros_extended@0.22.2
