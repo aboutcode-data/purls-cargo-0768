@@ -18,3 +18,4 @@
 - pkg:cargo/rustzk@0.4.5
 - pkg:cargo/rustzk@0.4.6
 - pkg:cargo/rustzk@0.4.7
+- pkg:cargo/rustzk@0.4.8
