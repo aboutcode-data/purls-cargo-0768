@@ -2,3 +2,4 @@
 - pkg:cargo/maud-extensions@0.1.1
 - pkg:cargo/maud-extensions@0.1.2
 - pkg:cargo/maud-extensions@0.1.4
+- pkg:cargo/maud-extensions@0.2.0

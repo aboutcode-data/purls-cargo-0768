@@ -1,1 +1,2 @@
 - pkg:cargo/wasm-bodge@0.1.0
+- pkg:cargo/wasm-bodge@0.2.0

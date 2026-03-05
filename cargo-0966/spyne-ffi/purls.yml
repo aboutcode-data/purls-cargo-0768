@@ -5,3 +5,4 @@
 - pkg:cargo/spyne-ffi@0.5.0
 - pkg:cargo/spyne-ffi@0.6.0
 - pkg:cargo/spyne-ffi@0.6.1
+- pkg:cargo/spyne-ffi@0.6.2
