@@ -21,3 +21,4 @@
 - pkg:cargo/miden-utils-sync@0.20.6
 - pkg:cargo/miden-utils-sync@0.21.0
 - pkg:cargo/miden-utils-sync@0.21.1
+- pkg:cargo/miden-utils-sync@0.21.2

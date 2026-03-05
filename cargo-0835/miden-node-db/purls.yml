@@ -1,1 +1,2 @@
 - pkg:cargo/miden-node-db@0.14.0-alpha.1
+- pkg:cargo/miden-node-db@0.14.0-alpha.2
