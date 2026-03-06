@@ -181,3 +181,4 @@
 - pkg:cargo/lapin@4.0.2
 - pkg:cargo/lapin@4.0.3
 - pkg:cargo/lapin@4.1.0
+- pkg:cargo/lapin@4.1.1
