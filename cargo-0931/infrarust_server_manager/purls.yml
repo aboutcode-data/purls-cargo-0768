@@ -5,3 +5,4 @@
 - pkg:cargo/infrarust_server_manager@1.5.1
 - pkg:cargo/infrarust_server_manager@1.6.0
 - pkg:cargo/infrarust_server_manager@1.6.1
+- pkg:cargo/infrarust_server_manager@1.6.2
