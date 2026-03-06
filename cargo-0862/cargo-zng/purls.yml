@@ -7,6 +7,7 @@
 - pkg:cargo/cargo-zng@0.11.0
 - pkg:cargo/cargo-zng@0.11.1
 - pkg:cargo/cargo-zng@0.11.2
+- pkg:cargo/cargo-zng@0.11.3
 - pkg:cargo/cargo-zng@0.2.0
 - pkg:cargo/cargo-zng@0.2.1
 - pkg:cargo/cargo-zng@0.2.2
