@@ -15,3 +15,5 @@
 - pkg:cargo/gene@0.6.0
 - pkg:cargo/gene@0.6.1
 - pkg:cargo/gene@0.6.2
+- pkg:cargo/gene@0.7.0
+- pkg:cargo/gene@0.7.1
