@@ -1,4 +1,5 @@
 - pkg:cargo/lingora-core@0.4.10
+- pkg:cargo/lingora-core@0.4.11
 - pkg:cargo/lingora-core@0.4.7
 - pkg:cargo/lingora-core@0.4.8
 - pkg:cargo/lingora-core@0.4.9
