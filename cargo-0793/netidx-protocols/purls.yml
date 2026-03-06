@@ -49,6 +49,7 @@
 - pkg:cargo/netidx-protocols@0.30.2
 - pkg:cargo/netidx-protocols@0.31.0
 - pkg:cargo/netidx-protocols@0.31.1
+- pkg:cargo/netidx-protocols@0.31.5
 - pkg:cargo/netidx-protocols@0.4.0
 - pkg:cargo/netidx-protocols@0.4.2
 - pkg:cargo/netidx-protocols@0.5.0
