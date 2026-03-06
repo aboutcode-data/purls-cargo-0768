@@ -30,6 +30,9 @@
 - pkg:cargo/purple-ssh@1.11.0
 - pkg:cargo/purple-ssh@1.12.0
 - pkg:cargo/purple-ssh@1.13.0
+- pkg:cargo/purple-ssh@1.13.1
+- pkg:cargo/purple-ssh@1.14.0
+- pkg:cargo/purple-ssh@1.14.1
 - pkg:cargo/purple-ssh@1.2.0
 - pkg:cargo/purple-ssh@1.3.0
 - pkg:cargo/purple-ssh@1.4.0
