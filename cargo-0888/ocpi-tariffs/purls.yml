@@ -36,6 +36,7 @@
 - pkg:cargo/ocpi-tariffs@0.38.0
 - pkg:cargo/ocpi-tariffs@0.39.0
 - pkg:cargo/ocpi-tariffs@0.4.0
+- pkg:cargo/ocpi-tariffs@0.40.0
 - pkg:cargo/ocpi-tariffs@0.5.0
 - pkg:cargo/ocpi-tariffs@0.5.1
 - pkg:cargo/ocpi-tariffs@0.5.2
