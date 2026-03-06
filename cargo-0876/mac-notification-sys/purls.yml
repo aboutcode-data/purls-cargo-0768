@@ -17,6 +17,7 @@
 - pkg:cargo/mac-notification-sys@0.5.9
 - pkg:cargo/mac-notification-sys@0.6.0
 - pkg:cargo/mac-notification-sys@0.6.1
+- pkg:cargo/mac-notification-sys@0.6.10
 - pkg:cargo/mac-notification-sys@0.6.2
 - pkg:cargo/mac-notification-sys@0.6.3
 - pkg:cargo/mac-notification-sys@0.6.4
