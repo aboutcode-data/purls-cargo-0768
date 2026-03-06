@@ -6,3 +6,4 @@
 - pkg:cargo/axalloc@0.2.2-hv.5
 - pkg:cargo/axalloc@0.2.2-preview.1
 - pkg:cargo/axalloc@0.3.0-preview.1
+- pkg:cargo/axalloc@0.3.0-preview.2
