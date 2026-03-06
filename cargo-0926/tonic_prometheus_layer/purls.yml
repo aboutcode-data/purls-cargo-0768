@@ -12,3 +12,4 @@
 - pkg:cargo/tonic_prometheus_layer@0.1.9
 - pkg:cargo/tonic_prometheus_layer@0.2.0
 - pkg:cargo/tonic_prometheus_layer@0.2.1
+- pkg:cargo/tonic_prometheus_layer@0.3.0
