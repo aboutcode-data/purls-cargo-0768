@@ -16,3 +16,4 @@
 - pkg:cargo/brk_rolldown_error@0.7.0
 - pkg:cargo/brk_rolldown_error@0.8.0
 - pkg:cargo/brk_rolldown_error@1.0.0-rc.2
+- pkg:cargo/brk_rolldown_error@1.0.0-rc.7
