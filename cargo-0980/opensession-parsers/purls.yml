@@ -31,6 +31,7 @@
 - pkg:cargo/opensession-parsers@0.2.31
 - pkg:cargo/opensession-parsers@0.2.32
 - pkg:cargo/opensession-parsers@0.2.33
+- pkg:cargo/opensession-parsers@0.2.34
 - pkg:cargo/opensession-parsers@0.2.4
 - pkg:cargo/opensession-parsers@0.2.5
 - pkg:cargo/opensession-parsers@0.2.6
