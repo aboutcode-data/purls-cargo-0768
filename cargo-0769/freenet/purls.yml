@@ -79,6 +79,7 @@
 - pkg:cargo/freenet@0.1.168
 - pkg:cargo/freenet@0.1.169
 - pkg:cargo/freenet@0.1.17
+- pkg:cargo/freenet@0.1.170
 - pkg:cargo/freenet@0.1.18
 - pkg:cargo/freenet@0.1.19
 - pkg:cargo/freenet@0.1.2
