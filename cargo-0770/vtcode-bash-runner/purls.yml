@@ -250,3 +250,4 @@
 - pkg:cargo/vtcode-bash-runner@0.86.4
 - pkg:cargo/vtcode-bash-runner@0.86.5
 - pkg:cargo/vtcode-bash-runner@0.86.6
+- pkg:cargo/vtcode-bash-runner@0.86.7
