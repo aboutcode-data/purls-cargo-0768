@@ -1,3 +1,4 @@
 - pkg:cargo/tari_template_test_tooling@0.1.0
 - pkg:cargo/tari_template_test_tooling@0.25.6
 - pkg:cargo/tari_template_test_tooling@0.25.7
+- pkg:cargo/tari_template_test_tooling@0.25.8
