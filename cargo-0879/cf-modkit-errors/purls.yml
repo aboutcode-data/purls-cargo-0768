@@ -17,3 +17,4 @@
 - pkg:cargo/cf-modkit-errors@0.2.8
 - pkg:cargo/cf-modkit-errors@0.2.9
 - pkg:cargo/cf-modkit-errors@0.3.0
+- pkg:cargo/cf-modkit-errors@0.3.1
