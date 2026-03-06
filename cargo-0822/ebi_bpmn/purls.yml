@@ -4,6 +4,10 @@
 - pkg:cargo/ebi_bpmn@0.0.11
 - pkg:cargo/ebi_bpmn@0.0.12
 - pkg:cargo/ebi_bpmn@0.0.13
+- pkg:cargo/ebi_bpmn@0.0.14
+- pkg:cargo/ebi_bpmn@0.0.15
+- pkg:cargo/ebi_bpmn@0.0.16
+- pkg:cargo/ebi_bpmn@0.0.17
 - pkg:cargo/ebi_bpmn@0.0.2
 - pkg:cargo/ebi_bpmn@0.0.3
 - pkg:cargo/ebi_bpmn@0.0.4
