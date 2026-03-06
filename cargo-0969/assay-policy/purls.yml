@@ -19,3 +19,4 @@
 - pkg:cargo/assay-policy@2.7.0
 - pkg:cargo/assay-policy@2.8.0
 - pkg:cargo/assay-policy@2.9.0
+- pkg:cargo/assay-policy@3.0.0
