@@ -1,1 +1,2 @@
 - pkg:cargo/caldir-provider-caldav@0.1.0
+- pkg:cargo/caldir-provider-caldav@0.1.2

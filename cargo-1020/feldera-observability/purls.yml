@@ -64,3 +64,4 @@
 - pkg:cargo/feldera-observability@0.257.0
 - pkg:cargo/feldera-observability@0.258.0
 - pkg:cargo/feldera-observability@0.259.0
+- pkg:cargo/feldera-observability@0.260.0
