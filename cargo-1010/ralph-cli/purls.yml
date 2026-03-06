@@ -27,3 +27,4 @@
 - pkg:cargo/ralph-cli@2.5.0
 - pkg:cargo/ralph-cli@2.5.1
 - pkg:cargo/ralph-cli@2.6.0
+- pkg:cargo/ralph-cli@2.7.0
