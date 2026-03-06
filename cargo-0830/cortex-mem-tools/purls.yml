@@ -1,1 +1,2 @@
 - pkg:cargo/cortex-mem-tools@1.0.0
+- pkg:cargo/cortex-mem-tools@2.5.0
