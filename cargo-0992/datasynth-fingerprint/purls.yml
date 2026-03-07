@@ -19,3 +19,4 @@
 - pkg:cargo/datasynth-fingerprint@0.9.3
 - pkg:cargo/datasynth-fingerprint@0.9.4
 - pkg:cargo/datasynth-fingerprint@0.9.5
+- pkg:cargo/datasynth-fingerprint@1.0.0
