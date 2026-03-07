@@ -21,3 +21,4 @@
 - pkg:cargo/windjammer-runtime@0.39.6
 - pkg:cargo/windjammer-runtime@0.41.0
 - pkg:cargo/windjammer-runtime@0.44.0
+- pkg:cargo/windjammer-runtime@0.45.0
