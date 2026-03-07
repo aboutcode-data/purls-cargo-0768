@@ -11,3 +11,4 @@
 - pkg:cargo/wolfe_bfgs@0.2.3
 - pkg:cargo/wolfe_bfgs@0.2.4
 - pkg:cargo/wolfe_bfgs@0.2.5
+- pkg:cargo/wolfe_bfgs@0.3.0
