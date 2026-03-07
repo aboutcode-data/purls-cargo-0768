@@ -14,6 +14,7 @@
 - pkg:cargo/glow@0.14.2
 - pkg:cargo/glow@0.15.0
 - pkg:cargo/glow@0.16.0
+- pkg:cargo/glow@0.17.0
 - pkg:cargo/glow@0.2.0
 - pkg:cargo/glow@0.2.1
 - pkg:cargo/glow@0.2.2
