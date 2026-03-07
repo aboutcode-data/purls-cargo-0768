@@ -7,3 +7,4 @@
 - pkg:cargo/zeph-acp@0.12.6
 - pkg:cargo/zeph-acp@0.13.0
 - pkg:cargo/zeph-acp@0.14.0
+- pkg:cargo/zeph-acp@0.14.1
