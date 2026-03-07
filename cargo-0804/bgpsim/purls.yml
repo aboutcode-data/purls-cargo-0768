@@ -16,3 +16,5 @@
 - pkg:cargo/bgpsim@0.20.0
 - pkg:cargo/bgpsim@0.20.1
 - pkg:cargo/bgpsim@0.20.2
+- pkg:cargo/bgpsim@0.20.3
+- pkg:cargo/bgpsim@0.20.4
