@@ -84,3 +84,4 @@
 - pkg:cargo/snarkvm-circuit-types-group@4.3.0
 - pkg:cargo/snarkvm-circuit-types-group@4.3.1
 - pkg:cargo/snarkvm-circuit-types-group@4.4.0
+- pkg:cargo/snarkvm-circuit-types-group@4.5.0

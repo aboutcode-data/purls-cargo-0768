@@ -56,3 +56,4 @@
 - pkg:cargo/snarkos@4.2.2
 - pkg:cargo/snarkos@4.3.0
 - pkg:cargo/snarkos@4.4.0
+- pkg:cargo/snarkos@4.5.0
