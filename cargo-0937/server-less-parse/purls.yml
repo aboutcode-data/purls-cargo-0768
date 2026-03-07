@@ -8,3 +8,4 @@
 - pkg:cargo/server-less-parse@0.2.1-alpha.6
 - pkg:cargo/server-less-parse@0.2.1-alpha.7
 - pkg:cargo/server-less-parse@0.3.0
+- pkg:cargo/server-less-parse@0.3.1
