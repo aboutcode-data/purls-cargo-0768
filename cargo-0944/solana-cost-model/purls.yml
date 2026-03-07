@@ -150,3 +150,4 @@
 - pkg:cargo/solana-cost-model@3.1.8
 - pkg:cargo/solana-cost-model@3.1.9
 - pkg:cargo/solana-cost-model@4.0.0-alpha.0
+- pkg:cargo/solana-cost-model@4.0.0-beta.0
