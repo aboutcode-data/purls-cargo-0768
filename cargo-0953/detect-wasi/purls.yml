@@ -44,6 +44,7 @@
 - pkg:cargo/detect-wasi@1.0.48
 - pkg:cargo/detect-wasi@1.0.49
 - pkg:cargo/detect-wasi@1.0.5
+- pkg:cargo/detect-wasi@1.0.50
 - pkg:cargo/detect-wasi@1.0.6
 - pkg:cargo/detect-wasi@1.0.7
 - pkg:cargo/detect-wasi@1.0.8
