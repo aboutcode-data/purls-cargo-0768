@@ -17,5 +17,6 @@
 - pkg:cargo/bamboo-agent@0.3.0
 - pkg:cargo/bamboo-agent@0.3.1
 - pkg:cargo/bamboo-agent@0.3.2
+- pkg:cargo/bamboo-agent@2026.3.11
 - pkg:cargo/bamboo-agent@2026.3.3
 - pkg:cargo/bamboo-agent@2026.3.9
