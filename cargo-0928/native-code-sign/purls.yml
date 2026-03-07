@@ -1,1 +1,2 @@
 - pkg:cargo/native-code-sign@0.1.0
+- pkg:cargo/native-code-sign@0.2.0
