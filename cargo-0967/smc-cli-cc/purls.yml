@@ -4,3 +4,5 @@
 - pkg:cargo/smc-cli-cc@0.5.2
 - pkg:cargo/smc-cli-cc@0.6.0
 - pkg:cargo/smc-cli-cc@0.7.0
+- pkg:cargo/smc-cli-cc@0.8.0
+- pkg:cargo/smc-cli-cc@0.8.1
