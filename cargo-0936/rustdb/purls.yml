@@ -220,6 +220,7 @@
 - pkg:cargo/rustdb@5.2.113
 - pkg:cargo/rustdb@5.2.114
 - pkg:cargo/rustdb@5.2.115
+- pkg:cargo/rustdb@5.2.116
 - pkg:cargo/rustdb@5.2.12
 - pkg:cargo/rustdb@5.2.13
 - pkg:cargo/rustdb@5.2.15
@@ -313,3 +314,4 @@
 - pkg:cargo/rustdb@5.2.97
 - pkg:cargo/rustdb@5.2.98
 - pkg:cargo/rustdb@5.2.99
+- pkg:cargo/rustdb@6.0.0

@@ -40,3 +40,4 @@
 - pkg:cargo/encoderfile@0.5.0-alpha.2
 - pkg:cargo/encoderfile@0.5.1
 - pkg:cargo/encoderfile@0.5.1-rc.1
+- pkg:cargo/encoderfile@0.5.2
