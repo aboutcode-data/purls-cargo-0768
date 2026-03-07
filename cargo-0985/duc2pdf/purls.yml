@@ -5,3 +5,4 @@
 - pkg:cargo/duc2pdf@2.4.0
 - pkg:cargo/duc2pdf@2.5.0
 - pkg:cargo/duc2pdf@3.0.0
+- pkg:cargo/duc2pdf@3.0.1
