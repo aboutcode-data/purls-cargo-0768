@@ -24,6 +24,7 @@
 - pkg:cargo/calimero-context@0.10.0-rc.8
 - pkg:cargo/calimero-context@0.10.0-rc.9
 - pkg:cargo/calimero-context@0.10.1-rc.1
+- pkg:cargo/calimero-context@0.10.1-rc.2
 - pkg:cargo/calimero-context@0.2.1
 - pkg:cargo/calimero-context@0.2.2
 - pkg:cargo/calimero-context@0.2.3
