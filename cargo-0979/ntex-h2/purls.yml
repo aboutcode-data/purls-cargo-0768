@@ -70,3 +70,5 @@
 - pkg:cargo/ntex-h2@3.6.2
 - pkg:cargo/ntex-h2@3.7.0
 - pkg:cargo/ntex-h2@3.7.1
+- pkg:cargo/ntex-h2@3.8.0
+- pkg:cargo/ntex-h2@3.8.1
