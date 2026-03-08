@@ -27,6 +27,7 @@
 - pkg:cargo/freya-engine@0.4.0-rc.10
 - pkg:cargo/freya-engine@0.4.0-rc.11
 - pkg:cargo/freya-engine@0.4.0-rc.12
+- pkg:cargo/freya-engine@0.4.0-rc.13
 - pkg:cargo/freya-engine@0.4.0-rc.2
 - pkg:cargo/freya-engine@0.4.0-rc.3
 - pkg:cargo/freya-engine@0.4.0-rc.4
