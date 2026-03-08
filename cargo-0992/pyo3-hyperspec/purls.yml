@@ -2,3 +2,4 @@
 - pkg:cargo/pyo3-hyperspec@0.4.0
 - pkg:cargo/pyo3-hyperspec@0.5.0
 - pkg:cargo/pyo3-hyperspec@0.6.0
+- pkg:cargo/pyo3-hyperspec@0.6.1
