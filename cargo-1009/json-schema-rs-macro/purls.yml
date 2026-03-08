@@ -1,1 +1,2 @@
 - pkg:cargo/json-schema-rs-macro@0.0.5
+- pkg:cargo/json-schema-rs-macro@0.0.6
