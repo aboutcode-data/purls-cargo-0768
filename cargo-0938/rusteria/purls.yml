@@ -1,1 +1,2 @@
 - pkg:cargo/rusteria@0.8.100
+- pkg:cargo/rusteria@0.9.0
