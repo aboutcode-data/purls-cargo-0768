@@ -13,3 +13,4 @@
 - pkg:cargo/conceal@0.5.7
 - pkg:cargo/conceal@0.6.0
 - pkg:cargo/conceal@0.6.1
+- pkg:cargo/conceal@0.7.0
