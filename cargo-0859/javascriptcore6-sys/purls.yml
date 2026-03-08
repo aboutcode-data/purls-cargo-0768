@@ -3,3 +3,4 @@
 - pkg:cargo/javascriptcore6-sys@0.3.0
 - pkg:cargo/javascriptcore6-sys@0.4.0
 - pkg:cargo/javascriptcore6-sys@0.5.0
+- pkg:cargo/javascriptcore6-sys@0.6.0
