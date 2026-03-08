@@ -2,3 +2,4 @@
 - pkg:cargo/tracexec-backend-ptrace@0.16.0-beta.1
 - pkg:cargo/tracexec-backend-ptrace@0.16.0-beta.7
 - pkg:cargo/tracexec-backend-ptrace@0.16.1
+- pkg:cargo/tracexec-backend-ptrace@0.17.0
