@@ -4,3 +4,5 @@
 - pkg:cargo/simd_vector@0.2.0
 - pkg:cargo/simd_vector@0.2.1
 - pkg:cargo/simd_vector@0.2.2
+- pkg:cargo/simd_vector@0.2.3
+- pkg:cargo/simd_vector@0.2.4
