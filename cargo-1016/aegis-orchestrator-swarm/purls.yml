@@ -5,3 +5,4 @@
 - pkg:cargo/aegis-orchestrator-swarm@0.5.0-pre-alpha
 - pkg:cargo/aegis-orchestrator-swarm@0.6.0-pre-alpha
 - pkg:cargo/aegis-orchestrator-swarm@0.7.0-pre-alpha
+- pkg:cargo/aegis-orchestrator-swarm@0.8.0-pre-alpha
