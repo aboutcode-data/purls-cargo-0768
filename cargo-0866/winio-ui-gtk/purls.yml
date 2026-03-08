@@ -6,3 +6,4 @@
 - pkg:cargo/winio-ui-gtk@0.3.1
 - pkg:cargo/winio-ui-gtk@0.3.2
 - pkg:cargo/winio-ui-gtk@0.4.0
+- pkg:cargo/winio-ui-gtk@0.5.0
