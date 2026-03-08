@@ -8,3 +8,4 @@
 - pkg:cargo/meld@1.1.4
 - pkg:cargo/meld@1.1.5
 - pkg:cargo/meld@1.2.0
+- pkg:cargo/meld@2.0.0
