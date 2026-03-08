@@ -29,3 +29,4 @@
 - pkg:cargo/jetbrains-toolbox-updater@5.4.4
 - pkg:cargo/jetbrains-toolbox-updater@5.4.5
 - pkg:cargo/jetbrains-toolbox-updater@5.4.6
+- pkg:cargo/jetbrains-toolbox-updater@6.0.0
