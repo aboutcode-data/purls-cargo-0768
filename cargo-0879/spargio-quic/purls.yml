@@ -4,6 +4,7 @@
 - pkg:cargo/spargio-quic@0.5.0
 - pkg:cargo/spargio-quic@0.5.1
 - pkg:cargo/spargio-quic@0.5.10
+- pkg:cargo/spargio-quic@0.5.11
 - pkg:cargo/spargio-quic@0.5.2
 - pkg:cargo/spargio-quic@0.5.3
 - pkg:cargo/spargio-quic@0.5.4
