@@ -16,3 +16,4 @@
 - pkg:cargo/process-wrap@9.0.1
 - pkg:cargo/process-wrap@9.0.2
 - pkg:cargo/process-wrap@9.0.3
+- pkg:cargo/process-wrap@9.1.0
