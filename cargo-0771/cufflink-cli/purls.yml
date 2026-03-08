@@ -27,3 +27,4 @@
 - pkg:cargo/cufflink-cli@0.7.3
 - pkg:cargo/cufflink-cli@0.7.4
 - pkg:cargo/cufflink-cli@0.7.6
+- pkg:cargo/cufflink-cli@0.7.7

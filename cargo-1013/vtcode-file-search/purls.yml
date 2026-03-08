@@ -150,3 +150,5 @@
 - pkg:cargo/vtcode-file-search@0.86.7
 - pkg:cargo/vtcode-file-search@0.86.8
 - pkg:cargo/vtcode-file-search@0.86.9
+- pkg:cargo/vtcode-file-search@0.87.0
+- pkg:cargo/vtcode-file-search@0.87.1
