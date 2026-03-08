@@ -54,3 +54,4 @@
 - pkg:cargo/seesaw_core_macros@0.24.0
 - pkg:cargo/seesaw_core_macros@0.24.1
 - pkg:cargo/seesaw_core_macros@0.24.2
+- pkg:cargo/seesaw_core_macros@0.25.0
