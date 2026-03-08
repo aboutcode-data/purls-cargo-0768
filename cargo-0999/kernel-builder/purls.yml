@@ -11,3 +11,4 @@
 - pkg:cargo/kernel-builder@0.2.3
 - pkg:cargo/kernel-builder@0.3.0
 - pkg:cargo/kernel-builder@0.4.0
+- pkg:cargo/kernel-builder@0.4.1
