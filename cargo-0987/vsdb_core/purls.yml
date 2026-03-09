@@ -81,3 +81,4 @@
 - pkg:cargo/vsdb_core@8.2.2
 - pkg:cargo/vsdb_core@8.3.0
 - pkg:cargo/vsdb_core@9.0.0
+- pkg:cargo/vsdb_core@9.1.0
