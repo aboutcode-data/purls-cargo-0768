@@ -3,3 +3,4 @@
 - pkg:cargo/axum-helmet@0.3.0
 - pkg:cargo/axum-helmet@0.3.1
 - pkg:cargo/axum-helmet@1.0.0
+- pkg:cargo/axum-helmet@1.0.1
