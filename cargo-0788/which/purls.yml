@@ -37,3 +37,4 @@
 - pkg:cargo/which@7.0.3
 - pkg:cargo/which@8.0.0
 - pkg:cargo/which@8.0.1
+- pkg:cargo/which@8.0.2
