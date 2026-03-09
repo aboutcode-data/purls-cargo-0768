@@ -19,6 +19,7 @@
 - pkg:cargo/rustapi-view@0.1.389
 - pkg:cargo/rustapi-view@0.1.397
 - pkg:cargo/rustapi-view@0.1.4
+- pkg:cargo/rustapi-view@0.1.410
 - pkg:cargo/rustapi-view@0.1.5
 - pkg:cargo/rustapi-view@0.1.6
 - pkg:cargo/rustapi-view@0.1.7

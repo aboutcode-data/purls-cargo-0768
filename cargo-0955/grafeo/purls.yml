@@ -21,6 +21,7 @@
 - pkg:cargo/grafeo@0.5.14
 - pkg:cargo/grafeo@0.5.15
 - pkg:cargo/grafeo@0.5.16
+- pkg:cargo/grafeo@0.5.17
 - pkg:cargo/grafeo@0.5.3
 - pkg:cargo/grafeo@0.5.4
 - pkg:cargo/grafeo@0.5.5
