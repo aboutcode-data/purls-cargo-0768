@@ -1,1 +1,2 @@
 - pkg:cargo/kbd-evdev@0.1.0
+- pkg:cargo/kbd-evdev@0.2.0
