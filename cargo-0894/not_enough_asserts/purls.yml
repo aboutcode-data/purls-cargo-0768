@@ -1,2 +1,5 @@
 - pkg:cargo/not_enough_asserts@0.1.0
 - pkg:cargo/not_enough_asserts@0.1.1
+- pkg:cargo/not_enough_asserts@1.0.0
+- pkg:cargo/not_enough_asserts@1.1.0
+- pkg:cargo/not_enough_asserts@1.1.1
