@@ -1,3 +1,4 @@
 - pkg:cargo/mermaid-rs-renderer@0.1.0
 - pkg:cargo/mermaid-rs-renderer@0.1.2
 - pkg:cargo/mermaid-rs-renderer@0.2.0
+- pkg:cargo/mermaid-rs-renderer@0.2.1
