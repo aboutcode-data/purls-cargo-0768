@@ -284,6 +284,7 @@
 - pkg:cargo/dragonfly-api@2.2.20
 - pkg:cargo/dragonfly-api@2.2.21
 - pkg:cargo/dragonfly-api@2.2.22
+- pkg:cargo/dragonfly-api@2.2.23
 - pkg:cargo/dragonfly-api@2.2.3
 - pkg:cargo/dragonfly-api@2.2.4
 - pkg:cargo/dragonfly-api@2.2.5

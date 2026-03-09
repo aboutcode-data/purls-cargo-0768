@@ -3,6 +3,7 @@
 - pkg:cargo/tract-metal@0.21.12
 - pkg:cargo/tract-metal@0.21.13
 - pkg:cargo/tract-metal@0.21.14
+- pkg:cargo/tract-metal@0.21.15
 - pkg:cargo/tract-metal@0.21.7
 - pkg:cargo/tract-metal@0.21.8
 - pkg:cargo/tract-metal@0.21.9
