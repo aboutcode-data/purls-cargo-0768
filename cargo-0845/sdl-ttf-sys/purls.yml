@@ -1,1 +1,2 @@
 - pkg:cargo/sdl-ttf-sys@0.1.0%2B3.3.0-053bbc89517471427748a082583c9eada55c07b5
+- pkg:cargo/sdl-ttf-sys@0.1.1%2B3.3.0-053bbc89517471427748a082583c9eada55c07b5

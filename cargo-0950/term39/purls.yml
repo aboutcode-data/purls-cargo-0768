@@ -43,3 +43,4 @@
 - pkg:cargo/term39@1.0.0
 - pkg:cargo/term39@1.1.0
 - pkg:cargo/term39@1.2.0
+- pkg:cargo/term39@1.5.0
