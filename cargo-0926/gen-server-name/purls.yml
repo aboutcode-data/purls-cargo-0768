@@ -1,3 +1,4 @@
+- pkg:cargo/gen-server-name@1.0.10
 - pkg:cargo/gen-server-name@1.0.2
 - pkg:cargo/gen-server-name@1.0.3
 - pkg:cargo/gen-server-name@1.0.4
