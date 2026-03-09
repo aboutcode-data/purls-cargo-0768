@@ -5,6 +5,7 @@
 - pkg:cargo/calimero-store-rocksdb@0.10.0-rc.52
 - pkg:cargo/calimero-store-rocksdb@0.10.1-rc.1
 - pkg:cargo/calimero-store-rocksdb@0.10.1-rc.2
+- pkg:cargo/calimero-store-rocksdb@0.10.1-rc.3
 - pkg:cargo/calimero-store-rocksdb@0.2.0
 - pkg:cargo/calimero-store-rocksdb@0.2.5
 - pkg:cargo/calimero-store-rocksdb@0.8.0
