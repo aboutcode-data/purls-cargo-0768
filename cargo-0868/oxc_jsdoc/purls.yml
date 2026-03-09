@@ -1,2 +1,3 @@
 - pkg:cargo/oxc_jsdoc@0.115.0
 - pkg:cargo/oxc_jsdoc@0.116.0
+- pkg:cargo/oxc_jsdoc@0.117.0
