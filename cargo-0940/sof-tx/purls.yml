@@ -10,3 +10,4 @@
 - pkg:cargo/sof-tx@0.6.3
 - pkg:cargo/sof-tx@0.7.0
 - pkg:cargo/sof-tx@0.7.1
+- pkg:cargo/sof-tx@0.8.0
