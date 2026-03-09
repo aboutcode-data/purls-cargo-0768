@@ -1,2 +1,3 @@
+- pkg:cargo/hdds-convert-qos@1.0.10
 - pkg:cargo/hdds-convert-qos@1.0.8
 - pkg:cargo/hdds-convert-qos@1.0.9

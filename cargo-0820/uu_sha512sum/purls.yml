@@ -1,1 +1,2 @@
 - pkg:cargo/uu_sha512sum@0.6.0
+- pkg:cargo/uu_sha512sum@0.7.0
