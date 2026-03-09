@@ -12,3 +12,4 @@
 - pkg:cargo/leo-interpreter@3.3.0
 - pkg:cargo/leo-interpreter@3.3.1
 - pkg:cargo/leo-interpreter@3.4.0
+- pkg:cargo/leo-interpreter@3.5.0
