@@ -29,3 +29,5 @@
 - pkg:cargo/mergers@0.6.1
 - pkg:cargo/mergers@0.7.0
 - pkg:cargo/mergers@0.7.1
+- pkg:cargo/mergers@0.7.2
+- pkg:cargo/mergers@0.7.3
