@@ -1,3 +1,4 @@
 - pkg:cargo/libindigo@0.1.0%2BINDIGO.2.0.301
 - pkg:cargo/libindigo@0.2.0%2BINDIGO.2.0.300
 - pkg:cargo/libindigo@0.3.1%2BINDIGO.2.0.300
+- pkg:cargo/libindigo@0.3.2%2BINDIGO.2.0.300

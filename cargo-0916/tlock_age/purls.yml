@@ -3,3 +3,5 @@
 - pkg:cargo/tlock_age@0.0.3
 - pkg:cargo/tlock_age@0.0.4
 - pkg:cargo/tlock_age@0.0.5
+- pkg:cargo/tlock_age@0.0.7
+- pkg:cargo/tlock_age@0.0.8
