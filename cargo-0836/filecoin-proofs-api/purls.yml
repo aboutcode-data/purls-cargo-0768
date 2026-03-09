@@ -14,6 +14,7 @@
 - pkg:cargo/filecoin-proofs-api@18.0.1
 - pkg:cargo/filecoin-proofs-api@18.1.0
 - pkg:cargo/filecoin-proofs-api@19.0.0
+- pkg:cargo/filecoin-proofs-api@19.1.0
 - pkg:cargo/filecoin-proofs-api@2.0.0
 - pkg:cargo/filecoin-proofs-api@3.0.0
 - pkg:cargo/filecoin-proofs-api@4.0.0
