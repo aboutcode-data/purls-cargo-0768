@@ -2,3 +2,5 @@
 - pkg:cargo/embednfsd@0.1.1
 - pkg:cargo/embednfsd@0.1.2
 - pkg:cargo/embednfsd@0.1.3
+- pkg:cargo/embednfsd@0.2.0
+- pkg:cargo/embednfsd@0.2.1

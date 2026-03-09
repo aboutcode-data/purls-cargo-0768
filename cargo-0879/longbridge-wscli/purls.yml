@@ -74,3 +74,4 @@
 - pkg:cargo/longbridge-wscli@0.2.77
 - pkg:cargo/longbridge-wscli@0.2.8
 - pkg:cargo/longbridge-wscli@0.2.9
+- pkg:cargo/longbridge-wscli@4.0.0
