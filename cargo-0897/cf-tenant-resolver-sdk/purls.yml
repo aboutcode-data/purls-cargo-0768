@@ -8,3 +8,4 @@
 - pkg:cargo/cf-tenant-resolver-sdk@0.2.2
 - pkg:cargo/cf-tenant-resolver-sdk@0.2.3
 - pkg:cargo/cf-tenant-resolver-sdk@0.2.4
+- pkg:cargo/cf-tenant-resolver-sdk@0.2.5
