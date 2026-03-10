@@ -9,3 +9,6 @@
 - pkg:cargo/van-parser@0.1.21
 - pkg:cargo/van-parser@0.1.23
 - pkg:cargo/van-parser@0.1.24
+- pkg:cargo/van-parser@0.1.25
+- pkg:cargo/van-parser@0.1.26
+- pkg:cargo/van-parser@0.1.27
