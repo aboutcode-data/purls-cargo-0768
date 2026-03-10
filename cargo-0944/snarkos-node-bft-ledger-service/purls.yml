@@ -25,3 +25,4 @@
 - pkg:cargo/snarkos-node-bft-ledger-service@4.3.0
 - pkg:cargo/snarkos-node-bft-ledger-service@4.4.0
 - pkg:cargo/snarkos-node-bft-ledger-service@4.5.0
+- pkg:cargo/snarkos-node-bft-ledger-service@4.5.1
