@@ -3,3 +3,4 @@
 - pkg:cargo/gazelle-parser@0.3.0
 - pkg:cargo/gazelle-parser@0.9.0
 - pkg:cargo/gazelle-parser@0.9.1
+- pkg:cargo/gazelle-parser@0.9.3
