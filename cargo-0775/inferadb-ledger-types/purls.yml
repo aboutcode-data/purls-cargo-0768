@@ -82,5 +82,7 @@
 - pkg:cargo/inferadb-ledger-types@0.1.0-dev.20260308
 - pkg:cargo/inferadb-ledger-types@0.1.0-dev.20260309
 - pkg:cargo/inferadb-ledger-types@0.1.0-dev.20260309.92
+- pkg:cargo/inferadb-ledger-types@0.1.0-dev.20260310
 - pkg:cargo/inferadb-ledger-types@0.1.0-dev.20260310.93
+- pkg:cargo/inferadb-ledger-types@0.1.0-dev.20260310.94
 - pkg:cargo/inferadb-ledger-types@0.1.0-nightly.20260127
