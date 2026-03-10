@@ -6,3 +6,4 @@
 - pkg:cargo/vex-anchor@0.2.1
 - pkg:cargo/vex-anchor@0.3.0
 - pkg:cargo/vex-anchor@1.0.0
+- pkg:cargo/vex-anchor@1.1.3
