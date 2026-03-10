@@ -117,3 +117,4 @@
 - pkg:cargo/skim@3.6.1
 - pkg:cargo/skim@3.6.2
 - pkg:cargo/skim@3.7.0
+- pkg:cargo/skim@4.0.0
