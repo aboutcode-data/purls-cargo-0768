@@ -22,3 +22,4 @@
 - pkg:cargo/layer-climb-config@0.8.6
 - pkg:cargo/layer-climb-config@0.8.7
 - pkg:cargo/layer-climb-config@0.8.8
+- pkg:cargo/layer-climb-config@0.9.0
