@@ -1,2 +1,3 @@
 - pkg:cargo/atproto-repo@0.14.0
 - pkg:cargo/atproto-repo@0.14.1
+- pkg:cargo/atproto-repo@0.14.2
