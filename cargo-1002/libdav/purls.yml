@@ -3,6 +3,7 @@
 - pkg:cargo/libdav@0.10.0
 - pkg:cargo/libdav@0.10.1
 - pkg:cargo/libdav@0.10.2
+- pkg:cargo/libdav@0.10.3
 - pkg:cargo/libdav@0.2.0
 - pkg:cargo/libdav@0.2.1
 - pkg:cargo/libdav@0.3.0
