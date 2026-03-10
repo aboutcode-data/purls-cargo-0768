@@ -47,3 +47,4 @@
 - pkg:cargo/sentry-anyhow@0.46.0
 - pkg:cargo/sentry-anyhow@0.46.1
 - pkg:cargo/sentry-anyhow@0.46.2
+- pkg:cargo/sentry-anyhow@0.47.0
