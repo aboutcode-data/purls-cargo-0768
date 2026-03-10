@@ -2,3 +2,4 @@
 - pkg:cargo/openai-protocol@1.0.0
 - pkg:cargo/openai-protocol@1.1.0
 - pkg:cargo/openai-protocol@1.2.0
+- pkg:cargo/openai-protocol@1.3.0
