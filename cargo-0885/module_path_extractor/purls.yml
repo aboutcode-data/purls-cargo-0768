@@ -4,3 +4,6 @@
 - pkg:cargo/module_path_extractor@0.2.2
 - pkg:cargo/module_path_extractor@0.2.3
 - pkg:cargo/module_path_extractor@0.2.4
+- pkg:cargo/module_path_extractor@0.3.13
+- pkg:cargo/module_path_extractor@0.3.14
+- pkg:cargo/module_path_extractor@0.3.15
