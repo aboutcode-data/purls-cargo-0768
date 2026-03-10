@@ -43,3 +43,4 @@
 - pkg:cargo/rspack_plugin_javascript@0.7.5
 - pkg:cargo/rspack_plugin_javascript@0.7.6
 - pkg:cargo/rspack_plugin_javascript@0.7.7
+- pkg:cargo/rspack_plugin_javascript@0.7.8
