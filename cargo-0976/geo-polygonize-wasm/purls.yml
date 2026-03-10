@@ -7,3 +7,4 @@
 - pkg:cargo/geo-polygonize-wasm@0.6.2
 - pkg:cargo/geo-polygonize-wasm@0.6.3
 - pkg:cargo/geo-polygonize-wasm@0.7.0
+- pkg:cargo/geo-polygonize-wasm@0.8.1
