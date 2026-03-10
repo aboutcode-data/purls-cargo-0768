@@ -1,1 +1,4 @@
 - pkg:cargo/gosuto-webrtc-sys@0.3.23
+- pkg:cargo/gosuto-webrtc-sys@0.3.24
+- pkg:cargo/gosuto-webrtc-sys@0.3.25
+- pkg:cargo/gosuto-webrtc-sys@0.3.26

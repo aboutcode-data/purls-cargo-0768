@@ -1,1 +1,4 @@
 - pkg:cargo/gosuto-libwebrtc@0.3.26
+- pkg:cargo/gosuto-libwebrtc@0.3.27
+- pkg:cargo/gosuto-libwebrtc@0.3.28
+- pkg:cargo/gosuto-libwebrtc@0.3.29

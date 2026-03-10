@@ -31,3 +31,4 @@
 - pkg:cargo/ll@7.0.0
 - pkg:cargo/ll@7.1.0
 - pkg:cargo/ll@7.2.0
+- pkg:cargo/ll@8.0.0
