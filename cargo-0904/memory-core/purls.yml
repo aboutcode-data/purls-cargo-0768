@@ -13,3 +13,5 @@
 - pkg:cargo/memory-core@0.1.6
 - pkg:cargo/memory-core@0.1.7
 - pkg:cargo/memory-core@0.1.9
+- pkg:cargo/memory-core@0.2.0
+- pkg:cargo/memory-core@0.3.0
