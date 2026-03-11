@@ -45,3 +45,4 @@
 - pkg:cargo/statum-macros@0.3.7
 - pkg:cargo/statum-macros@0.3.8
 - pkg:cargo/statum-macros@0.3.9
+- pkg:cargo/statum-macros@0.4.0

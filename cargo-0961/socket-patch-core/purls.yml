@@ -7,3 +7,4 @@
 - pkg:cargo/socket-patch-core@1.7.0
 - pkg:cargo/socket-patch-core@1.7.1
 - pkg:cargo/socket-patch-core@2.0.0
+- pkg:cargo/socket-patch-core@2.1.0
