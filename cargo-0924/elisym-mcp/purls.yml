@@ -8,3 +8,5 @@
 - pkg:cargo/elisym-mcp@0.1.8
 - pkg:cargo/elisym-mcp@0.1.9
 - pkg:cargo/elisym-mcp@0.2.10
+- pkg:cargo/elisym-mcp@0.3.0
+- pkg:cargo/elisym-mcp@0.3.1
