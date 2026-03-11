@@ -1,1 +1,4 @@
+- pkg:cargo/ag-forge@0.5.10
 - pkg:cargo/ag-forge@0.5.7
+- pkg:cargo/ag-forge@0.5.8
+- pkg:cargo/ag-forge@0.5.9

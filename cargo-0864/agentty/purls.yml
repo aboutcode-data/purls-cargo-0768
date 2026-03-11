@@ -12,9 +12,12 @@
 - pkg:cargo/agentty@0.4.7
 - pkg:cargo/agentty@0.5.0
 - pkg:cargo/agentty@0.5.1
+- pkg:cargo/agentty@0.5.10
 - pkg:cargo/agentty@0.5.2
 - pkg:cargo/agentty@0.5.3
 - pkg:cargo/agentty@0.5.4
 - pkg:cargo/agentty@0.5.5
 - pkg:cargo/agentty@0.5.6
 - pkg:cargo/agentty@0.5.7
+- pkg:cargo/agentty@0.5.8
+- pkg:cargo/agentty@0.5.9
