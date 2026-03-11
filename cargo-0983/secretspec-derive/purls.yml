@@ -15,3 +15,4 @@
 - pkg:cargo/secretspec-derive@0.6.2
 - pkg:cargo/secretspec-derive@0.7.0
 - pkg:cargo/secretspec-derive@0.7.2
+- pkg:cargo/secretspec-derive@0.8.0
