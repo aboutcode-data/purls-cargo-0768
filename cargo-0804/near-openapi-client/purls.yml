@@ -9,3 +9,4 @@
 - pkg:cargo/near-openapi-client@0.5.2
 - pkg:cargo/near-openapi-client@0.6.0
 - pkg:cargo/near-openapi-client@0.7.0
+- pkg:cargo/near-openapi-client@0.8.0

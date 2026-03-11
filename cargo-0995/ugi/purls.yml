@@ -1,1 +1,3 @@
 - pkg:cargo/ugi@0.0.1
+- pkg:cargo/ugi@0.1.0
+- pkg:cargo/ugi@0.2.0
