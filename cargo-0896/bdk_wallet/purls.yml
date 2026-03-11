@@ -16,3 +16,4 @@
 - pkg:cargo/bdk_wallet@2.1.0
 - pkg:cargo/bdk_wallet@2.2.0
 - pkg:cargo/bdk_wallet@2.3.0
+- pkg:cargo/bdk_wallet@3.0.0-rc.1
