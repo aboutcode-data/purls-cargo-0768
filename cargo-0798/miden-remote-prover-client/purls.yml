@@ -24,3 +24,4 @@
 - pkg:cargo/miden-remote-prover-client@0.14.0-alpha.2
 - pkg:cargo/miden-remote-prover-client@0.14.0-alpha.3
 - pkg:cargo/miden-remote-prover-client@0.14.0-alpha.4
+- pkg:cargo/miden-remote-prover-client@0.14.0-alpha.5
