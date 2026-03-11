@@ -12,3 +12,4 @@
 - pkg:cargo/ssh-cipher@0.3.0-rc.5
 - pkg:cargo/ssh-cipher@0.3.0-rc.6
 - pkg:cargo/ssh-cipher@0.3.0-rc.7
+- pkg:cargo/ssh-cipher@0.3.0-rc.8
