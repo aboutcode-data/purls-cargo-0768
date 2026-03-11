@@ -2,3 +2,4 @@
 - pkg:cargo/bevy_cef_bundle_app@0.2.1
 - pkg:cargo/bevy_cef_bundle_app@0.3.0
 - pkg:cargo/bevy_cef_bundle_app@0.4.0
+- pkg:cargo/bevy_cef_bundle_app@0.4.1
