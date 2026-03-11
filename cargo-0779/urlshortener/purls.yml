@@ -25,3 +25,4 @@
 - pkg:cargo/urlshortener@3.2.1
 - pkg:cargo/urlshortener@4.0.0
 - pkg:cargo/urlshortener@4.1.0
+- pkg:cargo/urlshortener@4.2.0
