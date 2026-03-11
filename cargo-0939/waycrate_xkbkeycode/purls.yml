@@ -24,6 +24,7 @@
 - pkg:cargo/waycrate_xkbkeycode@0.14.2
 - pkg:cargo/waycrate_xkbkeycode@0.15.0
 - pkg:cargo/waycrate_xkbkeycode@0.15.0-rc1
+- pkg:cargo/waycrate_xkbkeycode@0.15.1
 - pkg:cargo/waycrate_xkbkeycode@0.3.0
 - pkg:cargo/waycrate_xkbkeycode@0.3.0-beta1
 - pkg:cargo/waycrate_xkbkeycode@0.3.0-beta2
