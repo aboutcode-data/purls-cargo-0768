@@ -9,3 +9,4 @@
 - pkg:cargo/bitrouter-openai@0.2.3
 - pkg:cargo/bitrouter-openai@0.2.4
 - pkg:cargo/bitrouter-openai@0.2.5
+- pkg:cargo/bitrouter-openai@0.3.0
