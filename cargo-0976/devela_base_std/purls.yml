@@ -1,3 +1,4 @@
+- pkg:cargo/devela_base_std@0.25.0
 - pkg:cargo/devela_base_std@0.25.0-wip.0
 - pkg:cargo/devela_base_std@0.25.0-wip.1
 - pkg:cargo/devela_base_std@0.25.0-wip.2
