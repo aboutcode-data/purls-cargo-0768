@@ -5,6 +5,7 @@
 - pkg:cargo/stylist@0.12.1
 - pkg:cargo/stylist@0.13.0
 - pkg:cargo/stylist@0.14.0
+- pkg:cargo/stylist@0.15.0
 - pkg:cargo/stylist@0.6.0
 - pkg:cargo/stylist@0.7.0
 - pkg:cargo/stylist@0.8.0
