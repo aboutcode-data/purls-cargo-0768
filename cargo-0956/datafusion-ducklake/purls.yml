@@ -5,3 +5,4 @@
 - pkg:cargo/datafusion-ducklake@0.0.5
 - pkg:cargo/datafusion-ducklake@0.0.6
 - pkg:cargo/datafusion-ducklake@0.0.7
+- pkg:cargo/datafusion-ducklake@0.1.0
