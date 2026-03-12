@@ -23,3 +23,4 @@
 - pkg:cargo/clap_lex@0.7.6
 - pkg:cargo/clap_lex@0.7.7
 - pkg:cargo/clap_lex@1.0.0
+- pkg:cargo/clap_lex@1.0.1
