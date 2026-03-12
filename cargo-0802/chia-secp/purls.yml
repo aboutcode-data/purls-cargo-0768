@@ -28,3 +28,4 @@
 - pkg:cargo/chia-secp@0.38.0
 - pkg:cargo/chia-secp@0.38.1
 - pkg:cargo/chia-secp@0.38.2
+- pkg:cargo/chia-secp@0.39.0

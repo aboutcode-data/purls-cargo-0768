@@ -3,3 +3,4 @@
 - pkg:cargo/miden-standards@0.13.2
 - pkg:cargo/miden-standards@0.13.3
 - pkg:cargo/miden-standards@0.14.0-alpha.1
+- pkg:cargo/miden-standards@0.14.0-beta.1
