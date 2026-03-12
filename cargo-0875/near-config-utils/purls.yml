@@ -51,3 +51,4 @@
 - pkg:cargo/near-config-utils@0.34.5
 - pkg:cargo/near-config-utils@0.34.6
 - pkg:cargo/near-config-utils@0.34.7
+- pkg:cargo/near-config-utils@0.35.0-rc.1
