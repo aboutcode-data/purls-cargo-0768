@@ -310,3 +310,4 @@
 - pkg:cargo/vtcode-config@0.87.1
 - pkg:cargo/vtcode-config@0.88.0
 - pkg:cargo/vtcode-config@0.88.1
+- pkg:cargo/vtcode-config@0.88.2
