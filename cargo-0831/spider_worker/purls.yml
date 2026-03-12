@@ -1539,6 +1539,9 @@
 - pkg:cargo/spider_worker@2.46.2
 - pkg:cargo/spider_worker@2.47.2
 - pkg:cargo/spider_worker@2.47.3
+- pkg:cargo/spider_worker@2.47.4
+- pkg:cargo/spider_worker@2.47.5
+- pkg:cargo/spider_worker@2.47.6
 - pkg:cargo/spider_worker@2.5.0
 - pkg:cargo/spider_worker@2.5.1
 - pkg:cargo/spider_worker@2.5.2
