@@ -26,3 +26,6 @@
 - pkg:cargo/palette-core@0.7.1
 - pkg:cargo/palette-core@0.7.2
 - pkg:cargo/palette-core@0.7.3
+- pkg:cargo/palette-core@0.8.0
+- pkg:cargo/palette-core@0.8.1
+- pkg:cargo/palette-core@0.8.2
