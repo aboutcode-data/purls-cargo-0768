@@ -28,3 +28,4 @@
 - pkg:cargo/derive-deftly@1.5.0
 - pkg:cargo/derive-deftly@1.5.1
 - pkg:cargo/derive-deftly@1.6.0
+- pkg:cargo/derive-deftly@1.7.0
