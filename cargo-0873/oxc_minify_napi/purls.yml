@@ -16,6 +16,7 @@
 - pkg:cargo/oxc_minify_napi@0.115.0
 - pkg:cargo/oxc_minify_napi@0.116.0
 - pkg:cargo/oxc_minify_napi@0.117.0
+- pkg:cargo/oxc_minify_napi@0.118.0
 - pkg:cargo/oxc_minify_napi@0.79.1
 - pkg:cargo/oxc_minify_napi@0.80.0
 - pkg:cargo/oxc_minify_napi@0.81.0

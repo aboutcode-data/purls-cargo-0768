@@ -16,6 +16,7 @@
 - pkg:cargo/oxc_ast_macros@0.115.0
 - pkg:cargo/oxc_ast_macros@0.116.0
 - pkg:cargo/oxc_ast_macros@0.117.0
+- pkg:cargo/oxc_ast_macros@0.118.0
 - pkg:cargo/oxc_ast_macros@0.13.0
 - pkg:cargo/oxc_ast_macros@0.13.1
 - pkg:cargo/oxc_ast_macros@0.13.2
