@@ -2,3 +2,4 @@
 - pkg:cargo/configsync@0.3.1
 - pkg:cargo/configsync@0.3.2
 - pkg:cargo/configsync@0.3.4
+- pkg:cargo/configsync@0.3.5
