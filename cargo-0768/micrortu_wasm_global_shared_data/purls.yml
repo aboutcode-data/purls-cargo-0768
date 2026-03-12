@@ -20,6 +20,8 @@
 - pkg:cargo/micrortu_wasm_global_shared_data@0.5.1
 - pkg:cargo/micrortu_wasm_global_shared_data@0.5.10
 - pkg:cargo/micrortu_wasm_global_shared_data@0.5.11
+- pkg:cargo/micrortu_wasm_global_shared_data@0.5.12
+- pkg:cargo/micrortu_wasm_global_shared_data@0.5.13
 - pkg:cargo/micrortu_wasm_global_shared_data@0.5.3
 - pkg:cargo/micrortu_wasm_global_shared_data@0.5.4
 - pkg:cargo/micrortu_wasm_global_shared_data@0.5.5
