@@ -21,3 +21,4 @@
 - pkg:cargo/datafusion-catalog@52.0.0
 - pkg:cargo/datafusion-catalog@52.1.0
 - pkg:cargo/datafusion-catalog@52.2.0
+- pkg:cargo/datafusion-catalog@52.3.0
