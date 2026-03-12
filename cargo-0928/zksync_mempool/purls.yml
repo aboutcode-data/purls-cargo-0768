@@ -14,6 +14,7 @@
 - pkg:cargo/zksync_mempool@29.11.0-non-semver-compat
 - pkg:cargo/zksync_mempool@29.11.1-non-semver-compat
 - pkg:cargo/zksync_mempool@29.12.0-non-semver-compat
+- pkg:cargo/zksync_mempool@29.13.0-non-semver-compat
 - pkg:cargo/zksync_mempool@29.2.0-non-semver-compat
 - pkg:cargo/zksync_mempool@29.3.0-non-semver-compat
 - pkg:cargo/zksync_mempool@29.4.0-non-semver-compat
