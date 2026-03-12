@@ -1,1 +1,2 @@
 - pkg:cargo/windows-dpapi@0.1.0
+- pkg:cargo/windows-dpapi@0.2.0

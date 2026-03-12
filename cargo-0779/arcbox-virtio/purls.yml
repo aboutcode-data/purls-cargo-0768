@@ -1,2 +1,4 @@
 - pkg:cargo/arcbox-virtio@0.0.1-alpha.1
 - pkg:cargo/arcbox-virtio@0.1.4
+- pkg:cargo/arcbox-virtio@0.1.5
+- pkg:cargo/arcbox-virtio@0.1.6
