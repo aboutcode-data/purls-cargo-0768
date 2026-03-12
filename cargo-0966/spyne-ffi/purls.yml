@@ -5,6 +5,7 @@
 - pkg:cargo/spyne-ffi@0.5.0
 - pkg:cargo/spyne-ffi@0.6.0
 - pkg:cargo/spyne-ffi@0.6.1
+- pkg:cargo/spyne-ffi@0.6.10
 - pkg:cargo/spyne-ffi@0.6.2
 - pkg:cargo/spyne-ffi@0.6.3
 - pkg:cargo/spyne-ffi@0.6.4
@@ -12,3 +13,4 @@
 - pkg:cargo/spyne-ffi@0.6.6
 - pkg:cargo/spyne-ffi@0.6.7
 - pkg:cargo/spyne-ffi@0.6.8
+- pkg:cargo/spyne-ffi@0.6.9
