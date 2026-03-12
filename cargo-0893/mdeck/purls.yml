@@ -4,6 +4,7 @@
 - pkg:cargo/mdeck@0.11.2
 - pkg:cargo/mdeck@0.12.0
 - pkg:cargo/mdeck@0.12.1
+- pkg:cargo/mdeck@0.12.2
 - pkg:cargo/mdeck@0.3.0
 - pkg:cargo/mdeck@0.4.0
 - pkg:cargo/mdeck@0.5.0
