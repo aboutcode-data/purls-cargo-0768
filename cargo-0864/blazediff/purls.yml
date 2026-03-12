@@ -2,3 +2,4 @@
 - pkg:cargo/blazediff@3.3.0
 - pkg:cargo/blazediff@3.4.0
 - pkg:cargo/blazediff@3.5.0
+- pkg:cargo/blazediff@4.0.0
