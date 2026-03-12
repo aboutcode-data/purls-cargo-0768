@@ -5,6 +5,7 @@
 - pkg:cargo/ox_content_allocator@0.14.0
 - pkg:cargo/ox_content_allocator@0.15.0
 - pkg:cargo/ox_content_allocator@0.16.0
+- pkg:cargo/ox_content_allocator@0.17.0
 - pkg:cargo/ox_content_allocator@0.3.0-alpha.10
 - pkg:cargo/ox_content_allocator@0.3.0-alpha.11
 - pkg:cargo/ox_content_allocator@0.3.0-alpha.12
@@ -30,3 +31,4 @@
 - pkg:cargo/ox_content_allocator@0.7.0
 - pkg:cargo/ox_content_allocator@0.8.0
 - pkg:cargo/ox_content_allocator@0.9.0
+- pkg:cargo/ox_content_allocator@1.0.0-alpha.0
