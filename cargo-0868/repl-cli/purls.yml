@@ -6,3 +6,4 @@
 - pkg:cargo/repl-cli@1.6.0
 - pkg:cargo/repl-cli@1.6.1
 - pkg:cargo/repl-cli@1.7.0
+- pkg:cargo/repl-cli@1.7.1
