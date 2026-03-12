@@ -89,6 +89,7 @@
 - pkg:cargo/vize_canon@0.25.0
 - pkg:cargo/vize_canon@0.26.0
 - pkg:cargo/vize_canon@0.28.0
+- pkg:cargo/vize_canon@0.29.0
 - pkg:cargo/vize_canon@0.3.0
 - pkg:cargo/vize_canon@0.6.0
 - pkg:cargo/vize_canon@0.7.0
