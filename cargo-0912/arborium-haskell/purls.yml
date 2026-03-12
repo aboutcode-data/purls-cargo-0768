@@ -26,6 +26,7 @@
 - pkg:cargo/arborium-haskell@2.13.0
 - pkg:cargo/arborium-haskell@2.14.0
 - pkg:cargo/arborium-haskell@2.15.0
+- pkg:cargo/arborium-haskell@2.16.0
 - pkg:cargo/arborium-haskell@2.2.0
 - pkg:cargo/arborium-haskell@2.3.0
 - pkg:cargo/arborium-haskell@2.3.1
