@@ -1,5 +1,6 @@
 - pkg:cargo/rustledger-plugin@0.1.0
 - pkg:cargo/rustledger-plugin@0.10.0
+- pkg:cargo/rustledger-plugin@0.10.1
 - pkg:cargo/rustledger-plugin@0.3.0
 - pkg:cargo/rustledger-plugin@0.4.0
 - pkg:cargo/rustledger-plugin@0.5.2
