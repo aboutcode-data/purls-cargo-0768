@@ -3,3 +3,4 @@
 - pkg:cargo/koda-ast@0.1.5
 - pkg:cargo/koda-ast@0.1.6
 - pkg:cargo/koda-ast@0.1.7
+- pkg:cargo/koda-ast@0.1.8
