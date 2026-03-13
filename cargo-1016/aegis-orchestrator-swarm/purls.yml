@@ -1,4 +1,5 @@
 - pkg:cargo/aegis-orchestrator-swarm@0.1.0-pre-alpha
+- pkg:cargo/aegis-orchestrator-swarm@0.10.0-pre-alpha
 - pkg:cargo/aegis-orchestrator-swarm@0.2.0-pre-alpha
 - pkg:cargo/aegis-orchestrator-swarm@0.3.0-pre-alpha
 - pkg:cargo/aegis-orchestrator-swarm@0.4.0-pre-alpha
