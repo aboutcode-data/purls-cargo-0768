@@ -24,4 +24,5 @@
 - pkg:cargo/cloud_terrastodon_command@0.31.0
 - pkg:cargo/cloud_terrastodon_command@0.32.0
 - pkg:cargo/cloud_terrastodon_command@0.33.0
+- pkg:cargo/cloud_terrastodon_command@0.34.0
 - pkg:cargo/cloud_terrastodon_command@0.9.0
