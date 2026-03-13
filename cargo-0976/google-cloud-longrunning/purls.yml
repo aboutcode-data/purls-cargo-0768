@@ -49,3 +49,4 @@
 - pkg:cargo/google-cloud-longrunning@1.4.0
 - pkg:cargo/google-cloud-longrunning@1.5.0
 - pkg:cargo/google-cloud-longrunning@1.6.0
+- pkg:cargo/google-cloud-longrunning@1.7.0
