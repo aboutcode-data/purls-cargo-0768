@@ -1,5 +1,6 @@
 - pkg:cargo/capsula-capture-machine@0.10.0
 - pkg:cargo/capsula-capture-machine@0.11.0
+- pkg:cargo/capsula-capture-machine@0.11.1
 - pkg:cargo/capsula-capture-machine@0.3.0
 - pkg:cargo/capsula-capture-machine@0.9.0
 - pkg:cargo/capsula-capture-machine@0.9.1
