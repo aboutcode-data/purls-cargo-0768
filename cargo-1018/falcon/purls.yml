@@ -23,3 +23,4 @@
 - pkg:cargo/falcon@0.5.2
 - pkg:cargo/falcon@0.5.4
 - pkg:cargo/falcon@0.5.5
+- pkg:cargo/falcon@0.6.0
