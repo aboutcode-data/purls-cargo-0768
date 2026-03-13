@@ -1,1 +1,3 @@
 - pkg:cargo/mcp-kit-macros@0.1.0
+- pkg:cargo/mcp-kit-macros@0.1.2
+- pkg:cargo/mcp-kit-macros@0.1.3
