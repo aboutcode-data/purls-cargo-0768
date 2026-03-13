@@ -10,3 +10,4 @@
 - pkg:cargo/wechat-pub-rs@0.5.2
 - pkg:cargo/wechat-pub-rs@0.5.3
 - pkg:cargo/wechat-pub-rs@0.6.0
+- pkg:cargo/wechat-pub-rs@0.7.0
