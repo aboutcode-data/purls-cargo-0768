@@ -1,3 +1,5 @@
 - pkg:cargo/sss-transfer-hook@0.1.0
 - pkg:cargo/sss-transfer-hook@1.0.0
 - pkg:cargo/sss-transfer-hook@1.0.1
+- pkg:cargo/sss-transfer-hook@1.0.2
+- pkg:cargo/sss-transfer-hook@1.0.3
