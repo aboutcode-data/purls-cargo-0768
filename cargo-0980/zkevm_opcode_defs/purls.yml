@@ -46,4 +46,5 @@
 - pkg:cargo/zkevm_opcode_defs@0.153.6
 - pkg:cargo/zkevm_opcode_defs@0.153.7
 - pkg:cargo/zkevm_opcode_defs@0.153.8
+- pkg:cargo/zkevm_opcode_defs@0.153.8-1
 - pkg:cargo/zkevm_opcode_defs@0.153.9
