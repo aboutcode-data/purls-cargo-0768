@@ -1,3 +1,4 @@
 - pkg:cargo/tokemon@0.1.0-alpha.1
 - pkg:cargo/tokemon@0.2.0
 - pkg:cargo/tokemon@0.2.0-alpha.1
+- pkg:cargo/tokemon@0.2.3
