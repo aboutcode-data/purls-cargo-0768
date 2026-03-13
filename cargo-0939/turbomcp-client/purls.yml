@@ -58,3 +58,4 @@
 - pkg:cargo/turbomcp-client@3.0.0-exp.1
 - pkg:cargo/turbomcp-client@3.0.0-exp.2
 - pkg:cargo/turbomcp-client@3.0.1
+- pkg:cargo/turbomcp-client@3.0.2

@@ -120,3 +120,4 @@
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-alpha.0
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-beta.0
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-beta.1
+- pkg:cargo/solana-unified-scheduler-logic@4.0.0-beta.2
