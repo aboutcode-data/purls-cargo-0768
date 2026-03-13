@@ -8,6 +8,7 @@
 - pkg:cargo/scouter-profile@0.19.0
 - pkg:cargo/scouter-profile@0.20.0
 - pkg:cargo/scouter-profile@0.21.0
+- pkg:cargo/scouter-profile@0.21.1
 - pkg:cargo/scouter-profile@0.5.5
 - pkg:cargo/scouter-profile@0.5.6
 - pkg:cargo/scouter-profile@0.6.1
