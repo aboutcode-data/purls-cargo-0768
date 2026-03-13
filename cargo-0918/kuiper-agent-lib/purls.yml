@@ -1,1 +1,2 @@
 - pkg:cargo/kuiper-agent-lib@0.2.0
+- pkg:cargo/kuiper-agent-lib@0.2.1
