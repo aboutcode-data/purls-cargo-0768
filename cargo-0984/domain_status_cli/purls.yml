@@ -2,3 +2,4 @@
 - pkg:cargo/domain_status_cli@0.1.16
 - pkg:cargo/domain_status_cli@0.1.17
 - pkg:cargo/domain_status_cli@0.1.18
+- pkg:cargo/domain_status_cli@0.1.19
