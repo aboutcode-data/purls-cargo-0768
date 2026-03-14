@@ -14,6 +14,7 @@
 - pkg:cargo/chopin-pg@0.5.21
 - pkg:cargo/chopin-pg@0.5.22
 - pkg:cargo/chopin-pg@0.5.23
+- pkg:cargo/chopin-pg@0.5.25
 - pkg:cargo/chopin-pg@0.5.3
 - pkg:cargo/chopin-pg@0.5.6
 - pkg:cargo/chopin-pg@0.5.7
