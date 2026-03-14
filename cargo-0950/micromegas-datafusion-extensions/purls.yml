@@ -1,1 +1,2 @@
 - pkg:cargo/micromegas-datafusion-extensions@0.21.0
+- pkg:cargo/micromegas-datafusion-extensions@0.22.0
