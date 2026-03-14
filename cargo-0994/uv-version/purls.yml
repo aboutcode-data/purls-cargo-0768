@@ -1,5 +1,6 @@
 - pkg:cargo/uv-version@0.10.0
 - pkg:cargo/uv-version@0.10.1
+- pkg:cargo/uv-version@0.10.10
 - pkg:cargo/uv-version@0.10.2
 - pkg:cargo/uv-version@0.10.3
 - pkg:cargo/uv-version@0.10.4

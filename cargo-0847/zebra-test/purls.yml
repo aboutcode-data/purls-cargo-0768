@@ -24,3 +24,4 @@
 - pkg:cargo/zebra-test@1.0.1
 - pkg:cargo/zebra-test@2.0.0
 - pkg:cargo/zebra-test@2.0.1
+- pkg:cargo/zebra-test@3.0.0

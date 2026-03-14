@@ -24,3 +24,4 @@
 - pkg:cargo/zebra-node-services@2.1.1
 - pkg:cargo/zebra-node-services@2.1.2
 - pkg:cargo/zebra-node-services@3.0.0
+- pkg:cargo/zebra-node-services@4.0.0
