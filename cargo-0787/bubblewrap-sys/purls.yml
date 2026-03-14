@@ -5,3 +5,4 @@
 - pkg:cargo/bubblewrap-sys@0.7.2
 - pkg:cargo/bubblewrap-sys@0.7.3
 - pkg:cargo/bubblewrap-sys@0.7.4
+- pkg:cargo/bubblewrap-sys@0.7.5
