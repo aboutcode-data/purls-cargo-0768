@@ -17,6 +17,7 @@
 - pkg:cargo/oxc_regular_expression@0.116.0
 - pkg:cargo/oxc_regular_expression@0.117.0
 - pkg:cargo/oxc_regular_expression@0.118.0
+- pkg:cargo/oxc_regular_expression@0.119.0
 - pkg:cargo/oxc_regular_expression@0.25.0
 - pkg:cargo/oxc_regular_expression@0.26.0
 - pkg:cargo/oxc_regular_expression@0.27.0

@@ -17,6 +17,7 @@
 - pkg:cargo/oxc_compat@0.116.0
 - pkg:cargo/oxc_compat@0.117.0
 - pkg:cargo/oxc_compat@0.118.0
+- pkg:cargo/oxc_compat@0.119.0
 - pkg:cargo/oxc_compat@0.91.0
 - pkg:cargo/oxc_compat@0.92.0
 - pkg:cargo/oxc_compat@0.93.0
