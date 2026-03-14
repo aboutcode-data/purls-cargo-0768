@@ -23,6 +23,7 @@
 - pkg:cargo/jsontoml@0.2.30
 - pkg:cargo/jsontoml@0.2.31
 - pkg:cargo/jsontoml@0.2.32
+- pkg:cargo/jsontoml@0.2.33
 - pkg:cargo/jsontoml@0.2.4
 - pkg:cargo/jsontoml@0.2.5
 - pkg:cargo/jsontoml@0.2.6
