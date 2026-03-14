@@ -9,3 +9,4 @@
 - pkg:cargo/samyama-optimization@0.5.12
 - pkg:cargo/samyama-optimization@0.5.8
 - pkg:cargo/samyama-optimization@0.6.0
+- pkg:cargo/samyama-optimization@0.6.1
