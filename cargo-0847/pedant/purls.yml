@@ -18,3 +18,4 @@
 - pkg:cargo/pedant@0.6.1
 - pkg:cargo/pedant@0.7.0
 - pkg:cargo/pedant@0.7.1
+- pkg:cargo/pedant@0.7.2
