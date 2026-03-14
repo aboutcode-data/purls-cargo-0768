@@ -2,3 +2,4 @@
 - pkg:cargo/camel-processor@0.2.1
 - pkg:cargo/camel-processor@0.3.0
 - pkg:cargo/camel-processor@0.3.5
+- pkg:cargo/camel-processor@0.4.0
