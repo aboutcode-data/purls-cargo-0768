@@ -26,3 +26,4 @@
 - pkg:cargo/elisym-mcp@0.3.9
 - pkg:cargo/elisym-mcp@0.4.1
 - pkg:cargo/elisym-mcp@0.4.3
+- pkg:cargo/elisym-mcp@0.4.8

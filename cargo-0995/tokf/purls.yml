@@ -34,6 +34,7 @@
 - pkg:cargo/tokf@0.2.32
 - pkg:cargo/tokf@0.2.33
 - pkg:cargo/tokf@0.2.34
+- pkg:cargo/tokf@0.2.35
 - pkg:cargo/tokf@0.2.6
 - pkg:cargo/tokf@0.2.7
 - pkg:cargo/tokf@0.2.8
