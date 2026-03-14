@@ -24,6 +24,7 @@
 - pkg:cargo/aws-sdk-ivsrealtime@1.105.0
 - pkg:cargo/aws-sdk-ivsrealtime@1.106.0
 - pkg:cargo/aws-sdk-ivsrealtime@1.107.0
+- pkg:cargo/aws-sdk-ivsrealtime@1.108.0
 - pkg:cargo/aws-sdk-ivsrealtime@1.11.0
 - pkg:cargo/aws-sdk-ivsrealtime@1.12.0
 - pkg:cargo/aws-sdk-ivsrealtime@1.13.0
