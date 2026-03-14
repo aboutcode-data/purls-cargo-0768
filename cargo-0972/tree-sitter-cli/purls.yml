@@ -42,3 +42,4 @@
 - pkg:cargo/tree-sitter-cli@0.26.3
 - pkg:cargo/tree-sitter-cli@0.26.5
 - pkg:cargo/tree-sitter-cli@0.26.6
+- pkg:cargo/tree-sitter-cli@0.26.7
