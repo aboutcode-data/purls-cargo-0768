@@ -12,6 +12,7 @@
 - pkg:cargo/test_kms_server@5.16.0
 - pkg:cargo/test_kms_server@5.16.1
 - pkg:cargo/test_kms_server@5.16.2
+- pkg:cargo/test_kms_server@5.17.0
 - pkg:cargo/test_kms_server@5.3.0
 - pkg:cargo/test_kms_server@5.6.1
 - pkg:cargo/test_kms_server@5.7.0
