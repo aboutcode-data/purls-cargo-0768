@@ -10,3 +10,4 @@
 - pkg:cargo/room-cli@3.0.0-rc.6
 - pkg:cargo/room-cli@3.0.1
 - pkg:cargo/room-cli@3.1.0
+- pkg:cargo/room-cli@3.3.0

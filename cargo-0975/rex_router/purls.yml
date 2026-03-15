@@ -3,3 +3,4 @@
 - pkg:cargo/rex_router@0.17.2
 - pkg:cargo/rex_router@0.17.3
 - pkg:cargo/rex_router@0.18.0
+- pkg:cargo/rex_router@0.19.0
