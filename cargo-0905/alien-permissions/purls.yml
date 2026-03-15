@@ -1,1 +1,5 @@
 - pkg:cargo/alien-permissions@0.1.0
+- pkg:cargo/alien-permissions@1.0.10
+- pkg:cargo/alien-permissions@1.0.15
+- pkg:cargo/alien-permissions@1.0.8
+- pkg:cargo/alien-permissions@1.0.9
