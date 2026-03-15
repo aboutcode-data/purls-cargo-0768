@@ -224,3 +224,4 @@
 - pkg:cargo/takumi@0.73.1
 - pkg:cargo/takumi@0.8.0
 - pkg:cargo/takumi@0.9.0
+- pkg:cargo/takumi@1.0.0-beta.0
