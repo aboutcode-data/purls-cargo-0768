@@ -14,3 +14,4 @@
 - pkg:cargo/zeph-index@0.14.2
 - pkg:cargo/zeph-index@0.14.3
 - pkg:cargo/zeph-index@0.15.0
+- pkg:cargo/zeph-index@0.15.1
