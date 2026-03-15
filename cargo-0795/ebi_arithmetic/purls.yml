@@ -38,6 +38,7 @@
 - pkg:cargo/ebi_arithmetic@0.2.9
 - pkg:cargo/ebi_arithmetic@0.3.0
 - pkg:cargo/ebi_arithmetic@0.3.1
+- pkg:cargo/ebi_arithmetic@0.3.10
 - pkg:cargo/ebi_arithmetic@0.3.2
 - pkg:cargo/ebi_arithmetic@0.3.3
 - pkg:cargo/ebi_arithmetic@0.3.4

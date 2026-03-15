@@ -11,6 +11,7 @@
 - pkg:cargo/zng-ext-single-instance@0.12.2
 - pkg:cargo/zng-ext-single-instance@0.12.3
 - pkg:cargo/zng-ext-single-instance@0.12.4
+- pkg:cargo/zng-ext-single-instance@0.12.5
 - pkg:cargo/zng-ext-single-instance@0.2.1
 - pkg:cargo/zng-ext-single-instance@0.2.2
 - pkg:cargo/zng-ext-single-instance@0.2.3

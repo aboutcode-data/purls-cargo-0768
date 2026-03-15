@@ -25,6 +25,7 @@
 - pkg:cargo/ebi_bpmn@0.0.31
 - pkg:cargo/ebi_bpmn@0.0.32
 - pkg:cargo/ebi_bpmn@0.0.33
+- pkg:cargo/ebi_bpmn@0.0.34
 - pkg:cargo/ebi_bpmn@0.0.4
 - pkg:cargo/ebi_bpmn@0.0.5
 - pkg:cargo/ebi_bpmn@0.0.6
