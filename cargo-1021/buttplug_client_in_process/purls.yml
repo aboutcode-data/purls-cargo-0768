@@ -1,1 +1,2 @@
 - pkg:cargo/buttplug_client_in_process@10.0.0
+- pkg:cargo/buttplug_client_in_process@10.0.1
