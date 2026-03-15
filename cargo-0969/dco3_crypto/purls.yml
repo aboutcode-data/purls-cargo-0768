@@ -7,3 +7,5 @@
 - pkg:cargo/dco3_crypto@0.5.1
 - pkg:cargo/dco3_crypto@0.6.0
 - pkg:cargo/dco3_crypto@0.7.0
+- pkg:cargo/dco3_crypto@0.8.0
+- pkg:cargo/dco3_crypto@0.9.0

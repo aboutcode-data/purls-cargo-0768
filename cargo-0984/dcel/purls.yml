@@ -36,3 +36,4 @@
 - pkg:cargo/dcel@0.8.4
 - pkg:cargo/dcel@0.8.5
 - pkg:cargo/dcel@0.8.6
+- pkg:cargo/dcel@0.8.7
