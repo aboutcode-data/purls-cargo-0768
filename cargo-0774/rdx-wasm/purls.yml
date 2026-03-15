@@ -6,3 +6,5 @@
 - pkg:cargo/rdx-wasm@0.1.0-beta.5
 - pkg:cargo/rdx-wasm@0.1.0-beta.6
 - pkg:cargo/rdx-wasm@0.1.0-beta.7
+- pkg:cargo/rdx-wasm@0.1.1-beta.1
+- pkg:cargo/rdx-wasm@0.1.1-beta.2
