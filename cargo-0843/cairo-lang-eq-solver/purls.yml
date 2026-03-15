@@ -67,6 +67,7 @@
 - pkg:cargo/cairo-lang-eq-solver@2.16.1
 - pkg:cargo/cairo-lang-eq-solver@2.16.1-rc.0
 - pkg:cargo/cairo-lang-eq-solver@2.17.0-rc.0
+- pkg:cargo/cairo-lang-eq-solver@2.17.0-rc.2
 - pkg:cargo/cairo-lang-eq-solver@2.2.0
 - pkg:cargo/cairo-lang-eq-solver@2.3.0
 - pkg:cargo/cairo-lang-eq-solver@2.3.0-rc0
