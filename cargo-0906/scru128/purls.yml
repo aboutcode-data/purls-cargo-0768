@@ -47,4 +47,6 @@
 - pkg:cargo/scru128@3.3.1
 - pkg:cargo/scru128@3.4.0
 - pkg:cargo/scru128@3.5.0
+- pkg:cargo/scru128@3.6.0
 - pkg:cargo/scru128@4.0.0-beta.1
+- pkg:cargo/scru128@4.0.0-beta.2
