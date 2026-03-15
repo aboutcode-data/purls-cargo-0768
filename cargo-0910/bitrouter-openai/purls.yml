@@ -15,3 +15,5 @@
 - pkg:cargo/bitrouter-openai@0.6.0
 - pkg:cargo/bitrouter-openai@0.6.1
 - pkg:cargo/bitrouter-openai@0.7.0
+- pkg:cargo/bitrouter-openai@0.7.1
+- pkg:cargo/bitrouter-openai@0.8.0
