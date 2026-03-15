@@ -77,3 +77,5 @@
 - pkg:cargo/inferadb-common-authn@0.1.0-dev.20260313
 - pkg:cargo/inferadb-common-authn@0.1.0-dev.20260314
 - pkg:cargo/inferadb-common-authn@0.1.0-dev.20260315
+- pkg:cargo/inferadb-common-authn@0.1.0-dev.20260315.72%2B0dd84f2
+- pkg:cargo/inferadb-common-authn@0.1.0-dev.20260315.73%2B188d963
