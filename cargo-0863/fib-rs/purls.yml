@@ -35,3 +35,4 @@
 - pkg:cargo/fib-rs@1.2.3
 - pkg:cargo/fib-rs@1.2.4
 - pkg:cargo/fib-rs@1.2.5
+- pkg:cargo/fib-rs@1.2.6
