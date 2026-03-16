@@ -2,5 +2,6 @@
 - pkg:cargo/alien-k8s-clients@1.0.10
 - pkg:cargo/alien-k8s-clients@1.0.11
 - pkg:cargo/alien-k8s-clients@1.0.15
+- pkg:cargo/alien-k8s-clients@1.0.16
 - pkg:cargo/alien-k8s-clients@1.0.8
 - pkg:cargo/alien-k8s-clients@1.0.9
