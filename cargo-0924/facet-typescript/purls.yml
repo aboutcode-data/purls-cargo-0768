@@ -6,3 +6,5 @@
 - pkg:cargo/facet-typescript@0.44.0
 - pkg:cargo/facet-typescript@0.44.1
 - pkg:cargo/facet-typescript@0.44.3
+- pkg:cargo/facet-typescript@0.44.4
+- pkg:cargo/facet-typescript@0.44.5
