@@ -1,1 +1,2 @@
 - pkg:cargo/annotate-build@1.0.0
+- pkg:cargo/annotate-build@1.0.1
