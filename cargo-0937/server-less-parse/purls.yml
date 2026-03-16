@@ -16,3 +16,4 @@
 - pkg:cargo/server-less-parse@0.4.1-alpha.2
 - pkg:cargo/server-less-parse@0.4.2
 - pkg:cargo/server-less-parse@0.4.3
+- pkg:cargo/server-less-parse@0.4.4
