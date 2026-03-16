@@ -19,6 +19,7 @@
 - pkg:cargo/norad@0.17.0
 - pkg:cargo/norad@0.18.0
 - pkg:cargo/norad@0.18.1
+- pkg:cargo/norad@0.18.2
 - pkg:cargo/norad@0.2.0
 - pkg:cargo/norad@0.3.0
 - pkg:cargo/norad@0.3.1
