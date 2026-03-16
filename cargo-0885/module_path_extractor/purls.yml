@@ -14,3 +14,4 @@
 - pkg:cargo/module_path_extractor@0.5.1
 - pkg:cargo/module_path_extractor@0.5.2
 - pkg:cargo/module_path_extractor@0.5.3
+- pkg:cargo/module_path_extractor@0.5.4
