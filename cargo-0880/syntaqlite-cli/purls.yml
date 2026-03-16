@@ -9,5 +9,10 @@
 - pkg:cargo/syntaqlite-cli@0.0.18
 - pkg:cargo/syntaqlite-cli@0.0.19
 - pkg:cargo/syntaqlite-cli@0.0.21
+- pkg:cargo/syntaqlite-cli@0.0.28
+- pkg:cargo/syntaqlite-cli@0.0.29
+- pkg:cargo/syntaqlite-cli@0.0.30
+- pkg:cargo/syntaqlite-cli@0.0.31
+- pkg:cargo/syntaqlite-cli@0.0.32
 - pkg:cargo/syntaqlite-cli@0.0.8
 - pkg:cargo/syntaqlite-cli@0.0.9
