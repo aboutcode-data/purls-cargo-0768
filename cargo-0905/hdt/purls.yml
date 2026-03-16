@@ -31,3 +31,4 @@
 - pkg:cargo/hdt@0.3.0
 - pkg:cargo/hdt@0.4.0
 - pkg:cargo/hdt@0.4.0-alpha.0
+- pkg:cargo/hdt@0.6.0
