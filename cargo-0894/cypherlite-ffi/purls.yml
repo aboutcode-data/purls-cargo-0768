@@ -5,3 +5,5 @@
 - pkg:cargo/cypherlite-ffi@1.2.4
 - pkg:cargo/cypherlite-ffi@1.2.5
 - pkg:cargo/cypherlite-ffi@1.2.6
+- pkg:cargo/cypherlite-ffi@2.0.0
+- pkg:cargo/cypherlite-ffi@2.0.1
