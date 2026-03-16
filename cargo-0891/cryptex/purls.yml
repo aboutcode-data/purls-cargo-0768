@@ -16,3 +16,4 @@
 - pkg:cargo/cryptex@2.0.0
 - pkg:cargo/cryptex@2.0.0-rc.0
 - pkg:cargo/cryptex@2.0.0-rc.1
+- pkg:cargo/cryptex@2.0.1

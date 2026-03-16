@@ -1,1 +1,2 @@
 - pkg:cargo/metar-taf-parser@0.2.19
+- pkg:cargo/metar-taf-parser@0.3.0
