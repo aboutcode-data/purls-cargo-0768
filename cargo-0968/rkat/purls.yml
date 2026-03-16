@@ -5,6 +5,8 @@
 - pkg:cargo/rkat@0.4.1
 - pkg:cargo/rkat@0.4.10
 - pkg:cargo/rkat@0.4.11
+- pkg:cargo/rkat@0.4.12
+- pkg:cargo/rkat@0.4.13
 - pkg:cargo/rkat@0.4.2
 - pkg:cargo/rkat@0.4.4
 - pkg:cargo/rkat@0.4.5
