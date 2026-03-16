@@ -31,3 +31,4 @@
 - pkg:cargo/chia-sha2@0.38.1
 - pkg:cargo/chia-sha2@0.38.2
 - pkg:cargo/chia-sha2@0.39.0
+- pkg:cargo/chia-sha2@0.40.0
