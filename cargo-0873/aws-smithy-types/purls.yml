@@ -87,3 +87,4 @@
 - pkg:cargo/aws-smithy-types@1.4.4
 - pkg:cargo/aws-smithy-types@1.4.5
 - pkg:cargo/aws-smithy-types@1.4.6
+- pkg:cargo/aws-smithy-types@1.4.7
