@@ -1,1 +1,2 @@
 - pkg:cargo/anyhow-auto-context@0.1.0
+- pkg:cargo/anyhow-auto-context@1.0.0
