@@ -1,2 +1,3 @@
 - pkg:cargo/ferrotorch-gpu@0.1.1
 - pkg:cargo/ferrotorch-gpu@0.1.2
+- pkg:cargo/ferrotorch-gpu@0.1.3
