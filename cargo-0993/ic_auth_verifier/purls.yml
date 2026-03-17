@@ -29,3 +29,5 @@
 - pkg:cargo/ic_auth_verifier@0.7.3
 - pkg:cargo/ic_auth_verifier@0.7.5
 - pkg:cargo/ic_auth_verifier@0.7.6
+- pkg:cargo/ic_auth_verifier@0.8.0
+- pkg:cargo/ic_auth_verifier@0.8.1

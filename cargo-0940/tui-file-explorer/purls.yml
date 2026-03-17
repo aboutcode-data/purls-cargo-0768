@@ -28,3 +28,4 @@
 - pkg:cargo/tui-file-explorer@0.5.1
 - pkg:cargo/tui-file-explorer@0.6.0
 - pkg:cargo/tui-file-explorer@0.6.1
+- pkg:cargo/tui-file-explorer@0.6.2
