@@ -12,3 +12,4 @@
 - pkg:cargo/van-compiler@0.1.25
 - pkg:cargo/van-compiler@0.1.26
 - pkg:cargo/van-compiler@0.1.27
+- pkg:cargo/van-compiler@0.1.28
