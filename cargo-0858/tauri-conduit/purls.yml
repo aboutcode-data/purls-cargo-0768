@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-conduit@2.0.0
+- pkg:cargo/tauri-conduit@2.1.0
