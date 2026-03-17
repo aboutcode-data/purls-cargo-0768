@@ -12,3 +12,5 @@
 - pkg:cargo/photon-ring@0.9.0
 - pkg:cargo/photon-ring@1.0.0
 - pkg:cargo/photon-ring@1.0.1
+- pkg:cargo/photon-ring@2.0.0
+- pkg:cargo/photon-ring@2.1.0
