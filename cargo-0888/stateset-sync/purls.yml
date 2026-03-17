@@ -3,3 +3,4 @@
 - pkg:cargo/stateset-sync@0.7.20
 - pkg:cargo/stateset-sync@0.7.22
 - pkg:cargo/stateset-sync@0.7.4
+- pkg:cargo/stateset-sync@0.8.0
