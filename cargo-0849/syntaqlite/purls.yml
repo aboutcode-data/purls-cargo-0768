@@ -27,3 +27,4 @@
 - pkg:cargo/syntaqlite@0.0.8
 - pkg:cargo/syntaqlite@0.0.9
 - pkg:cargo/syntaqlite@0.1.0
+- pkg:cargo/syntaqlite@0.2.0
