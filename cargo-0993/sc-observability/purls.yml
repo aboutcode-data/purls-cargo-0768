@@ -1,2 +1,4 @@
 - pkg:cargo/sc-observability@0.43.4
 - pkg:cargo/sc-observability@0.44.9
+- pkg:cargo/sc-observability@0.45.1
+- pkg:cargo/sc-observability@0.45.2
