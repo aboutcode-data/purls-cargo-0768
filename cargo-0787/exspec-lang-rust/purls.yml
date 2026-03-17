@@ -1,2 +1,3 @@
 - pkg:cargo/exspec-lang-rust@0.1.1
 - pkg:cargo/exspec-lang-rust@0.1.2
+- pkg:cargo/exspec-lang-rust@0.2.0
