@@ -1,1 +1,2 @@
 - pkg:cargo/hdf5-io@0.1.0
+- pkg:cargo/hdf5-io@0.1.3
