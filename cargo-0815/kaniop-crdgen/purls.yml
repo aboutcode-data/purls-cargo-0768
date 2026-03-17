@@ -23,3 +23,4 @@
 - pkg:cargo/kaniop-crdgen@0.5.3
 - pkg:cargo/kaniop-crdgen@0.5.4
 - pkg:cargo/kaniop-crdgen@0.5.5
+- pkg:cargo/kaniop-crdgen@0.5.6
