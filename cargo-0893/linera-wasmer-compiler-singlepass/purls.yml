@@ -5,3 +5,4 @@
 - pkg:cargo/linera-wasmer-compiler-singlepass@4.4.0-linera.5
 - pkg:cargo/linera-wasmer-compiler-singlepass@4.4.0-linera.6
 - pkg:cargo/linera-wasmer-compiler-singlepass@4.4.0-linera.7
+- pkg:cargo/linera-wasmer-compiler-singlepass@4.4.0-linera.8
