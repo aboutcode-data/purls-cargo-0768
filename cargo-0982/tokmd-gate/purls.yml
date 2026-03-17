@@ -2,3 +2,4 @@
 - pkg:cargo/tokmd-gate@1.6.3
 - pkg:cargo/tokmd-gate@1.7.2
 - pkg:cargo/tokmd-gate@1.7.3
+- pkg:cargo/tokmd-gate@1.8.0-rc.1
