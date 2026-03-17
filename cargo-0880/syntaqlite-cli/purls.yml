@@ -20,3 +20,4 @@
 - pkg:cargo/syntaqlite-cli@0.0.36
 - pkg:cargo/syntaqlite-cli@0.0.8
 - pkg:cargo/syntaqlite-cli@0.0.9
+- pkg:cargo/syntaqlite-cli@0.1.0

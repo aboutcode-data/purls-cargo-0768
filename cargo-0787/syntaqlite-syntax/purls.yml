@@ -26,3 +26,4 @@
 - pkg:cargo/syntaqlite-syntax@0.0.7
 - pkg:cargo/syntaqlite-syntax@0.0.8
 - pkg:cargo/syntaqlite-syntax@0.0.9
+- pkg:cargo/syntaqlite-syntax@0.1.0
