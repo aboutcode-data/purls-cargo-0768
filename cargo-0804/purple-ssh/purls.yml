@@ -69,3 +69,4 @@
 - pkg:cargo/purple-ssh@2.0.1
 - pkg:cargo/purple-ssh@2.0.2
 - pkg:cargo/purple-ssh@2.0.3
+- pkg:cargo/purple-ssh@2.0.4
