@@ -17,3 +17,5 @@
 - pkg:cargo/value-box@2.3.2
 - pkg:cargo/value-box@2.3.3
 - pkg:cargo/value-box@3.0.0
+- pkg:cargo/value-box@4.0.0
+- pkg:cargo/value-box@4.1.0
