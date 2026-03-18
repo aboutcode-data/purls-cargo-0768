@@ -15,3 +15,4 @@
 - pkg:cargo/sevenmark_formatter@2.26.9
 - pkg:cargo/sevenmark_formatter@2.27.1
 - pkg:cargo/sevenmark_formatter@2.27.2
+- pkg:cargo/sevenmark_formatter@2.27.6
