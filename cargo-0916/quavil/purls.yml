@@ -1,1 +1,3 @@
 - pkg:cargo/quavil@4.0.3
+- pkg:cargo/quavil@4.0.8
+- pkg:cargo/quavil@4.0.9

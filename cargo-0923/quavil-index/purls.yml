@@ -1,3 +1,5 @@
 - pkg:cargo/quavil-index@4.0.0
 - pkg:cargo/quavil-index@4.0.1
 - pkg:cargo/quavil-index@4.0.3
+- pkg:cargo/quavil-index@4.0.8
+- pkg:cargo/quavil-index@4.0.9

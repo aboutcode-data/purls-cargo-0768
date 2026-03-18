@@ -9,6 +9,7 @@
 - pkg:cargo/mq-lsp@0.5.18
 - pkg:cargo/mq-lsp@0.5.19
 - pkg:cargo/mq-lsp@0.5.2
+- pkg:cargo/mq-lsp@0.5.20
 - pkg:cargo/mq-lsp@0.5.3
 - pkg:cargo/mq-lsp@0.5.4
 - pkg:cargo/mq-lsp@0.5.5

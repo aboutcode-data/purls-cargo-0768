@@ -6,3 +6,5 @@
 - pkg:cargo/quavil-config@4.0.1
 - pkg:cargo/quavil-config@4.0.3
 - pkg:cargo/quavil-config@4.0.7
+- pkg:cargo/quavil-config@4.0.8
+- pkg:cargo/quavil-config@4.0.9
