@@ -6,3 +6,4 @@
 - pkg:cargo/tracing-for-pyo3-logging@0.0.5
 - pkg:cargo/tracing-for-pyo3-logging@0.0.6
 - pkg:cargo/tracing-for-pyo3-logging@0.0.7
+- pkg:cargo/tracing-for-pyo3-logging@0.0.8
