@@ -42,6 +42,7 @@
 - pkg:cargo/morphix@0.18.2
 - pkg:cargo/morphix@0.18.3
 - pkg:cargo/morphix@0.18.4
+- pkg:cargo/morphix@0.18.5
 - pkg:cargo/morphix@0.2.0
 - pkg:cargo/morphix@0.3.0
 - pkg:cargo/morphix@0.3.1
