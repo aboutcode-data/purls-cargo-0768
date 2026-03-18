@@ -6,6 +6,9 @@
 - pkg:cargo/karbon-framework@0.2.10
 - pkg:cargo/karbon-framework@0.2.11
 - pkg:cargo/karbon-framework@0.2.12
+- pkg:cargo/karbon-framework@0.2.13
+- pkg:cargo/karbon-framework@0.2.14
+- pkg:cargo/karbon-framework@0.2.15
 - pkg:cargo/karbon-framework@0.2.2
 - pkg:cargo/karbon-framework@0.2.3
 - pkg:cargo/karbon-framework@0.2.4
