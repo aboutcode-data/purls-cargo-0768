@@ -13,6 +13,8 @@
 - pkg:cargo/image_charts@6.1.110
 - pkg:cargo/image_charts@6.1.111
 - pkg:cargo/image_charts@6.1.112
+- pkg:cargo/image_charts@6.1.113
+- pkg:cargo/image_charts@6.1.114
 - pkg:cargo/image_charts@6.1.12
 - pkg:cargo/image_charts@6.1.13
 - pkg:cargo/image_charts@6.1.14
