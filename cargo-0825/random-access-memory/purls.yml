@@ -12,3 +12,4 @@
 - pkg:cargo/random-access-memory@1.2.0
 - pkg:cargo/random-access-memory@2.0.0
 - pkg:cargo/random-access-memory@3.0.0
+- pkg:cargo/random-access-memory@4.0.0-alpha
