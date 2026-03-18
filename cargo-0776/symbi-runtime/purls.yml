@@ -10,3 +10,4 @@
 - pkg:cargo/symbi-runtime@1.6.1
 - pkg:cargo/symbi-runtime@1.7.0
 - pkg:cargo/symbi-runtime@1.7.1
+- pkg:cargo/symbi-runtime@1.8.0

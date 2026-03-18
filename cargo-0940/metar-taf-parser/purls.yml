@@ -4,3 +4,7 @@
 - pkg:cargo/metar-taf-parser@0.4.1
 - pkg:cargo/metar-taf-parser@0.4.2
 - pkg:cargo/metar-taf-parser@0.4.3
+- pkg:cargo/metar-taf-parser@0.4.6
+- pkg:cargo/metar-taf-parser@0.4.7
+- pkg:cargo/metar-taf-parser@0.4.8
+- pkg:cargo/metar-taf-parser@0.4.9

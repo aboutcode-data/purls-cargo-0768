@@ -1,1 +1,2 @@
 - pkg:cargo/metrique-writer-format-json@0.1.0
+- pkg:cargo/metrique-writer-format-json@0.1.1
