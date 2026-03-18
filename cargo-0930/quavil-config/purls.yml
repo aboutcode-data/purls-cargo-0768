@@ -1,3 +1,8 @@
 - pkg:cargo/quavil-config@3.0.3
 - pkg:cargo/quavil-config@3.0.5
 - pkg:cargo/quavil-config@3.0.6
+- pkg:cargo/quavil-config@3.0.7
+- pkg:cargo/quavil-config@4.0.0
+- pkg:cargo/quavil-config@4.0.1
+- pkg:cargo/quavil-config@4.0.3
+- pkg:cargo/quavil-config@4.0.7
