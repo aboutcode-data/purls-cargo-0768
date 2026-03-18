@@ -141,3 +141,4 @@
 - pkg:cargo/aws-sdk-xray@1.95.0
 - pkg:cargo/aws-sdk-xray@1.96.0
 - pkg:cargo/aws-sdk-xray@1.97.0
+- pkg:cargo/aws-sdk-xray@1.98.0

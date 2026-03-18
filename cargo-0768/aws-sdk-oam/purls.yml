@@ -20,6 +20,7 @@
 - pkg:cargo/aws-sdk-oam@0.9.1
 - pkg:cargo/aws-sdk-oam@1.1.0
 - pkg:cargo/aws-sdk-oam@1.10.0
+- pkg:cargo/aws-sdk-oam@1.100.0
 - pkg:cargo/aws-sdk-oam@1.11.0
 - pkg:cargo/aws-sdk-oam@1.12.0
 - pkg:cargo/aws-sdk-oam@1.13.0

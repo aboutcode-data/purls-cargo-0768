@@ -36,6 +36,7 @@
 - pkg:cargo/aws-sdk-emrserverless@1.104.0
 - pkg:cargo/aws-sdk-emrserverless@1.105.0
 - pkg:cargo/aws-sdk-emrserverless@1.106.0
+- pkg:cargo/aws-sdk-emrserverless@1.107.0
 - pkg:cargo/aws-sdk-emrserverless@1.11.0
 - pkg:cargo/aws-sdk-emrserverless@1.12.0
 - pkg:cargo/aws-sdk-emrserverless@1.13.0

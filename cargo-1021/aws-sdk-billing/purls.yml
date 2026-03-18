@@ -47,6 +47,7 @@
 - pkg:cargo/aws-sdk-billing@1.50.0
 - pkg:cargo/aws-sdk-billing@1.51.0
 - pkg:cargo/aws-sdk-billing@1.52.0
+- pkg:cargo/aws-sdk-billing@1.53.0
 - pkg:cargo/aws-sdk-billing@1.6.0
 - pkg:cargo/aws-sdk-billing@1.7.0
 - pkg:cargo/aws-sdk-billing@1.8.0
