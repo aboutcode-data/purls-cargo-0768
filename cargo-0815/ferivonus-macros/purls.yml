@@ -2,3 +2,5 @@
 - pkg:cargo/ferivonus-macros@0.1.1
 - pkg:cargo/ferivonus-macros@0.1.2
 - pkg:cargo/ferivonus-macros@0.1.3
+- pkg:cargo/ferivonus-macros@0.2.0
+- pkg:cargo/ferivonus-macros@0.2.1
