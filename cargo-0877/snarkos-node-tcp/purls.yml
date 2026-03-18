@@ -35,3 +35,4 @@
 - pkg:cargo/snarkos-node-tcp@4.4.0
 - pkg:cargo/snarkos-node-tcp@4.5.0
 - pkg:cargo/snarkos-node-tcp@4.5.1
+- pkg:cargo/snarkos-node-tcp@4.5.4
