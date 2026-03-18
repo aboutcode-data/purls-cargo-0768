@@ -58,3 +58,4 @@
 - pkg:cargo/mockforge-mqtt@0.3.90
 - pkg:cargo/mockforge-mqtt@0.3.91
 - pkg:cargo/mockforge-mqtt@0.3.92
+- pkg:cargo/mockforge-mqtt@0.3.93
