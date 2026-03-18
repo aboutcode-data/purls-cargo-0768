@@ -4,3 +4,5 @@
 - pkg:cargo/workflow-graph-scheduler@0.2.5
 - pkg:cargo/workflow-graph-scheduler@0.2.6
 - pkg:cargo/workflow-graph-scheduler@0.3.0
+- pkg:cargo/workflow-graph-scheduler@0.4.0
+- pkg:cargo/workflow-graph-scheduler@0.4.1
