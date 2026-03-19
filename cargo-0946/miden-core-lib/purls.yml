@@ -8,4 +8,5 @@
 - pkg:cargo/miden-core-lib@0.21.0
 - pkg:cargo/miden-core-lib@0.21.1
 - pkg:cargo/miden-core-lib@0.21.2
+- pkg:cargo/miden-core-lib@0.22.0
 - pkg:cargo/miden-core-lib@0.22.0-alpha.1
