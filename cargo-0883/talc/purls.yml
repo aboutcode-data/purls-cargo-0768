@@ -19,3 +19,5 @@
 - pkg:cargo/talc@4.4.1
 - pkg:cargo/talc@4.4.2
 - pkg:cargo/talc@4.4.3
+- pkg:cargo/talc@5.0.0-beta.1
+- pkg:cargo/talc@5.0.0-beta.2
