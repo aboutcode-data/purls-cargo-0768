@@ -2,3 +2,5 @@
 - pkg:cargo/simple-agents-workflow@0.2.20
 - pkg:cargo/simple-agents-workflow@0.2.21
 - pkg:cargo/simple-agents-workflow@0.2.22
+- pkg:cargo/simple-agents-workflow@0.2.25
+- pkg:cargo/simple-agents-workflow@0.2.26

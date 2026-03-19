@@ -12,3 +12,4 @@
 - pkg:cargo/tree-sitter-rust@0.23.2
 - pkg:cargo/tree-sitter-rust@0.23.3
 - pkg:cargo/tree-sitter-rust@0.24.0
+- pkg:cargo/tree-sitter-rust@0.24.1
