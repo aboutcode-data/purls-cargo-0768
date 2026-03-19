@@ -8,3 +8,4 @@
 - pkg:cargo/repl-cli@1.7.0
 - pkg:cargo/repl-cli@1.7.1
 - pkg:cargo/repl-cli@1.8.0
+- pkg:cargo/repl-cli@1.8.1
