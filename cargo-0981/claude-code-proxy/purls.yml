@@ -1,1 +1,2 @@
 - pkg:cargo/claude-code-proxy@0.3.0
+- pkg:cargo/claude-code-proxy@0.4.0
