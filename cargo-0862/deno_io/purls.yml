@@ -55,6 +55,7 @@
 - pkg:cargo/deno_io@0.148.0
 - pkg:cargo/deno_io@0.149.0
 - pkg:cargo/deno_io@0.15.0
+- pkg:cargo/deno_io@0.150.0
 - pkg:cargo/deno_io@0.16.0
 - pkg:cargo/deno_io@0.17.0
 - pkg:cargo/deno_io@0.18.0
