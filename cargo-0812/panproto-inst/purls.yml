@@ -6,3 +6,4 @@
 - pkg:cargo/panproto-inst@0.5.1
 - pkg:cargo/panproto-inst@0.6.0
 - pkg:cargo/panproto-inst@0.7.0
+- pkg:cargo/panproto-inst@0.8.0
