@@ -1,3 +1,4 @@
+- pkg:cargo/crabtalk-core@0.0.10
 - pkg:cargo/crabtalk-core@0.0.2
 - pkg:cargo/crabtalk-core@0.0.3
 - pkg:cargo/crabtalk-core@0.0.4
