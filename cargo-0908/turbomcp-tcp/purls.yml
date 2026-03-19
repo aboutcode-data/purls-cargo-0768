@@ -12,3 +12,4 @@
 - pkg:cargo/turbomcp-tcp@3.0.3
 - pkg:cargo/turbomcp-tcp@3.0.4
 - pkg:cargo/turbomcp-tcp@3.0.5
+- pkg:cargo/turbomcp-tcp@3.0.6
