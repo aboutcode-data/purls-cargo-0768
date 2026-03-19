@@ -35,6 +35,7 @@
 - pkg:cargo/job@0.5.1
 - pkg:cargo/job@0.6.0
 - pkg:cargo/job@0.6.1
+- pkg:cargo/job@0.6.10
 - pkg:cargo/job@0.6.2
 - pkg:cargo/job@0.6.3
 - pkg:cargo/job@0.6.4
