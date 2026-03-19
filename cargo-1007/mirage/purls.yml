@@ -1,1 +1,2 @@
-- pkg:cargo/mirage@0.1.0
+- pkg:cargo/mirage@0.0.1
+- pkg:cargo/mirage@0.0.1-alpha
