@@ -1,3 +1,4 @@
+- pkg:cargo/dbrest-core@0.10.0
 - pkg:cargo/dbrest-core@0.8.1
 - pkg:cargo/dbrest-core@0.8.2
 - pkg:cargo/dbrest-core@0.8.3
