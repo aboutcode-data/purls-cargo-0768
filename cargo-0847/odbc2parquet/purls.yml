@@ -122,3 +122,4 @@
 - pkg:cargo/odbc2parquet@8.1.5
 - pkg:cargo/odbc2parquet@8.1.6
 - pkg:cargo/odbc2parquet@8.1.7
+- pkg:cargo/odbc2parquet@9.0.0
