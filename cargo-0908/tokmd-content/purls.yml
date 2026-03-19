@@ -3,4 +3,5 @@
 - pkg:cargo/tokmd-content@1.6.3
 - pkg:cargo/tokmd-content@1.7.2
 - pkg:cargo/tokmd-content@1.7.3
+- pkg:cargo/tokmd-content@1.8.0
 - pkg:cargo/tokmd-content@1.8.0-rc.1
