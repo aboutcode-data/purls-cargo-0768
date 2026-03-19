@@ -8,6 +8,7 @@
 - pkg:cargo/baked-potato@0.16.1
 - pkg:cargo/baked-potato@0.17.0
 - pkg:cargo/baked-potato@0.18.0
+- pkg:cargo/baked-potato@0.19.0
 - pkg:cargo/baked-potato@0.3.2
 - pkg:cargo/baked-potato@0.3.3
 - pkg:cargo/baked-potato@0.4.0

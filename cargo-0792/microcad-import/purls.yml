@@ -20,3 +20,4 @@
 - pkg:cargo/microcad-import@0.2.8
 - pkg:cargo/microcad-import@0.2.9
 - pkg:cargo/microcad-import@0.3.0
+- pkg:cargo/microcad-import@0.4.0
