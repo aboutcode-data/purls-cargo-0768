@@ -18,6 +18,7 @@
 - pkg:cargo/ashpd@0.13.5
 - pkg:cargo/ashpd@0.13.6
 - pkg:cargo/ashpd@0.13.7
+- pkg:cargo/ashpd@0.13.8
 - pkg:cargo/ashpd@0.2.0
 - pkg:cargo/ashpd@0.2.0-alpha
 - pkg:cargo/ashpd@0.2.0-alpha-2
