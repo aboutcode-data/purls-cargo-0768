@@ -1,3 +1,4 @@
 - pkg:cargo/uselesskey-core-hmac-spec@0.2.0
 - pkg:cargo/uselesskey-core-hmac-spec@0.3.0
 - pkg:cargo/uselesskey-core-hmac-spec@0.4.0
+- pkg:cargo/uselesskey-core-hmac-spec@0.4.1
