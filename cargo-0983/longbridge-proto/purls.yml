@@ -77,3 +77,4 @@
 - pkg:cargo/longbridge-proto@0.2.9
 - pkg:cargo/longbridge-proto@4.0.0
 - pkg:cargo/longbridge-proto@4.0.1
+- pkg:cargo/longbridge-proto@4.0.2
