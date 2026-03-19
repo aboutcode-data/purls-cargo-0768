@@ -3,3 +3,4 @@
 - pkg:cargo/trustless@0.3.0
 - pkg:cargo/trustless@0.3.0-rc1
 - pkg:cargo/trustless@0.3.0-rc2
+- pkg:cargo/trustless@0.3.1
