@@ -76,3 +76,5 @@
 - pkg:cargo/purple-ssh@2.4.0
 - pkg:cargo/purple-ssh@2.5.0
 - pkg:cargo/purple-ssh@2.6.0
+- pkg:cargo/purple-ssh@2.7.0
+- pkg:cargo/purple-ssh@2.7.1
