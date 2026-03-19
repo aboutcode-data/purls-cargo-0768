@@ -1,2 +1,3 @@
 - pkg:cargo/styx-testhelpers@0.0.0
 - pkg:cargo/styx-testhelpers@2.0.0
+- pkg:cargo/styx-testhelpers@3.0.0
