@@ -140,6 +140,15 @@
 - pkg:cargo/zerocopy@0.8.41
 - pkg:cargo/zerocopy@0.8.41-alpha
 - pkg:cargo/zerocopy@0.8.42
+- pkg:cargo/zerocopy@0.8.43
+- pkg:cargo/zerocopy@0.8.44
+- pkg:cargo/zerocopy@0.8.45
+- pkg:cargo/zerocopy@0.8.46
+- pkg:cargo/zerocopy@0.8.46-alpha
+- pkg:cargo/zerocopy@0.8.46-alpha.1
+- pkg:cargo/zerocopy@0.8.46-alpha.2
+- pkg:cargo/zerocopy@0.8.46-alpha.3
+- pkg:cargo/zerocopy@0.8.47
 - pkg:cargo/zerocopy@0.8.5
 - pkg:cargo/zerocopy@0.8.6
 - pkg:cargo/zerocopy@0.8.7

@@ -3,3 +3,4 @@
 - pkg:cargo/pygmy@0.2.0
 - pkg:cargo/pygmy@0.2.2
 - pkg:cargo/pygmy@0.3.0
+- pkg:cargo/pygmy@1.0.0
