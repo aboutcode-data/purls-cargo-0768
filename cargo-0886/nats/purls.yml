@@ -32,6 +32,7 @@
 - pkg:cargo/nats@0.24.0
 - pkg:cargo/nats@0.24.1
 - pkg:cargo/nats@0.25.0
+- pkg:cargo/nats@0.26.0
 - pkg:cargo/nats@0.3.0
 - pkg:cargo/nats@0.3.1
 - pkg:cargo/nats@0.3.2

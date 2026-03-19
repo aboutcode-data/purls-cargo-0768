@@ -44,6 +44,7 @@
 - pkg:cargo/libsql-sys@0.9.27
 - pkg:cargo/libsql-sys@0.9.29
 - pkg:cargo/libsql-sys@0.9.3
+- pkg:cargo/libsql-sys@0.9.30
 - pkg:cargo/libsql-sys@0.9.4
 - pkg:cargo/libsql-sys@0.9.5
 - pkg:cargo/libsql-sys@0.9.6
