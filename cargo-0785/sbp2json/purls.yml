@@ -39,3 +39,4 @@
 - pkg:cargo/sbp2json@6.2.2
 - pkg:cargo/sbp2json@6.3.0
 - pkg:cargo/sbp2json@6.3.2
+- pkg:cargo/sbp2json@6.3.3
