@@ -124,3 +124,4 @@
 - pkg:cargo/tract-data@0.22.1
 - pkg:cargo/tract-data@0.23.0-dev.1
 - pkg:cargo/tract-data@0.23.0-dev.2
+- pkg:cargo/tract-data@0.23.0-dev.3
