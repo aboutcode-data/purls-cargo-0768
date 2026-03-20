@@ -25,3 +25,4 @@
 - pkg:cargo/my-canister-dashboard@0.9.0
 - pkg:cargo/my-canister-dashboard@0.9.1
 - pkg:cargo/my-canister-dashboard@1.0.0
+- pkg:cargo/my-canister-dashboard@1.0.1
