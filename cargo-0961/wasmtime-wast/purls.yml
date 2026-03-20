@@ -161,6 +161,7 @@
 - pkg:cargo/wasmtime-wast@41.0.4
 - pkg:cargo/wasmtime-wast@42.0.0
 - pkg:cargo/wasmtime-wast@42.0.1
+- pkg:cargo/wasmtime-wast@43.0.0
 - pkg:cargo/wasmtime-wast@5.0.0
 - pkg:cargo/wasmtime-wast@5.0.1
 - pkg:cargo/wasmtime-wast@6.0.0
