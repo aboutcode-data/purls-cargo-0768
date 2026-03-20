@@ -1,1 +1,2 @@
 - pkg:cargo/nextsql-backend-rust-runtime@0.1.0
+- pkg:cargo/nextsql-backend-rust-runtime@0.1.5
