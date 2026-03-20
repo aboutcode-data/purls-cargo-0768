@@ -1,1 +1,2 @@
 - pkg:cargo/we-trust-redis@0.0.0
+- pkg:cargo/we-trust-redis@0.0.1
