@@ -19,6 +19,7 @@
 - pkg:cargo/xidl-typeobject@0.26.0
 - pkg:cargo/xidl-typeobject@0.27.0
 - pkg:cargo/xidl-typeobject@0.28.0
+- pkg:cargo/xidl-typeobject@0.29.0
 - pkg:cargo/xidl-typeobject@0.3.0
 - pkg:cargo/xidl-typeobject@0.4.0
 - pkg:cargo/xidl-typeobject@0.5.0

@@ -4,3 +4,4 @@
 - pkg:cargo/miden-node-db@0.14.0-alpha.4
 - pkg:cargo/miden-node-db@0.14.0-alpha.5
 - pkg:cargo/miden-node-db@0.14.0-alpha.7
+- pkg:cargo/miden-node-db@0.14.0-alpha.8

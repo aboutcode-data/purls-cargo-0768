@@ -20,6 +20,8 @@
 - pkg:cargo/miden-tx@0.14.0-alpha.2
 - pkg:cargo/miden-tx@0.14.0-beta.1
 - pkg:cargo/miden-tx@0.14.0-beta.2
+- pkg:cargo/miden-tx@0.14.0-beta.4
+- pkg:cargo/miden-tx@0.14.0-rc.1
 - pkg:cargo/miden-tx@0.2.0
 - pkg:cargo/miden-tx@0.2.1
 - pkg:cargo/miden-tx@0.2.2
