@@ -30,6 +30,7 @@
 - pkg:cargo/tuitbot-server@0.1.36
 - pkg:cargo/tuitbot-server@0.1.37
 - pkg:cargo/tuitbot-server@0.1.38
+- pkg:cargo/tuitbot-server@0.1.39
 - pkg:cargo/tuitbot-server@0.1.4
 - pkg:cargo/tuitbot-server@0.1.5
 - pkg:cargo/tuitbot-server@0.1.6
