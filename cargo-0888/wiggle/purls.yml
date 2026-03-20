@@ -154,6 +154,7 @@
 - pkg:cargo/wiggle@41.0.4
 - pkg:cargo/wiggle@42.0.0
 - pkg:cargo/wiggle@42.0.1
+- pkg:cargo/wiggle@43.0.0
 - pkg:cargo/wiggle@5.0.0
 - pkg:cargo/wiggle@5.0.1
 - pkg:cargo/wiggle@6.0.0
