@@ -4,3 +4,4 @@
 - pkg:cargo/stateset-sdk@0.7.22
 - pkg:cargo/stateset-sdk@0.7.4
 - pkg:cargo/stateset-sdk@0.8.0
+- pkg:cargo/stateset-sdk@0.8.1
