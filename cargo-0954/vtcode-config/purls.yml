@@ -319,3 +319,4 @@
 - pkg:cargo/vtcode-config@0.89.2
 - pkg:cargo/vtcode-config@0.90.0
 - pkg:cargo/vtcode-config@0.91.0
+- pkg:cargo/vtcode-config@0.91.1
