@@ -63,6 +63,7 @@
 - pkg:cargo/html-to-markdown-rs@2.28.0
 - pkg:cargo/html-to-markdown-rs@2.28.1
 - pkg:cargo/html-to-markdown-rs@2.28.2
+- pkg:cargo/html-to-markdown-rs@2.28.6
 - pkg:cargo/html-to-markdown-rs@2.3.0
 - pkg:cargo/html-to-markdown-rs@2.3.1
 - pkg:cargo/html-to-markdown-rs@2.3.2
