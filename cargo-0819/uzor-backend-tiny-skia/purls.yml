@@ -1,4 +1,7 @@
 - pkg:cargo/uzor-backend-tiny-skia@1.0.10
+- pkg:cargo/uzor-backend-tiny-skia@1.0.11
+- pkg:cargo/uzor-backend-tiny-skia@1.0.12
+- pkg:cargo/uzor-backend-tiny-skia@1.0.13
 - pkg:cargo/uzor-backend-tiny-skia@1.0.2
 - pkg:cargo/uzor-backend-tiny-skia@1.0.3
 - pkg:cargo/uzor-backend-tiny-skia@1.0.4
