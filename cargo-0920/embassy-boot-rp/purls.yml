@@ -1,4 +1,5 @@
 - pkg:cargo/embassy-boot-rp@0.0.0
+- pkg:cargo/embassy-boot-rp@0.10.0
 - pkg:cargo/embassy-boot-rp@0.2.0
 - pkg:cargo/embassy-boot-rp@0.3.0
 - pkg:cargo/embassy-boot-rp@0.4.0

@@ -4,3 +4,4 @@
 - pkg:cargo/embassy-net-driver-channel@0.3.0
 - pkg:cargo/embassy-net-driver-channel@0.3.1
 - pkg:cargo/embassy-net-driver-channel@0.3.2
+- pkg:cargo/embassy-net-driver-channel@0.4.0

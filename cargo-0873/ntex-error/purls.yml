@@ -6,3 +6,4 @@
 - pkg:cargo/ntex-error@1.4.0
 - pkg:cargo/ntex-error@1.5.0
 - pkg:cargo/ntex-error@1.5.1
+- pkg:cargo/ntex-error@1.5.2
