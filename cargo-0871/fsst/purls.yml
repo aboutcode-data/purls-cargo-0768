@@ -48,3 +48,4 @@
 - pkg:cargo/fsst@2.0.0
 - pkg:cargo/fsst@2.0.1
 - pkg:cargo/fsst@3.0.0
+- pkg:cargo/fsst@3.0.1
