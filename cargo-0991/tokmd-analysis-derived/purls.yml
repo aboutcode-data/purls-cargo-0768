@@ -1,3 +1,4 @@
 - pkg:cargo/tokmd-analysis-derived@1.7.2
 - pkg:cargo/tokmd-analysis-derived@1.7.3
 - pkg:cargo/tokmd-analysis-derived@1.8.0
+- pkg:cargo/tokmd-analysis-derived@1.8.1

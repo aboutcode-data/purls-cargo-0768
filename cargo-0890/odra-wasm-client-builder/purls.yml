@@ -1,1 +1,2 @@
 - pkg:cargo/odra-wasm-client-builder@2.5.0
+- pkg:cargo/odra-wasm-client-builder@2.5.1
