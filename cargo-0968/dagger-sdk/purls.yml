@@ -71,6 +71,7 @@
 - pkg:cargo/dagger-sdk@0.20.0
 - pkg:cargo/dagger-sdk@0.20.1
 - pkg:cargo/dagger-sdk@0.20.2
+- pkg:cargo/dagger-sdk@0.20.3
 - pkg:cargo/dagger-sdk@0.3.0
 - pkg:cargo/dagger-sdk@0.3.1
 - pkg:cargo/dagger-sdk@0.3.2
