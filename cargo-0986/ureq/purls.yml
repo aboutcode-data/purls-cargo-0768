@@ -109,3 +109,4 @@
 - pkg:cargo/ureq@3.1.4
 - pkg:cargo/ureq@3.2.0
 - pkg:cargo/ureq@3.2.1
+- pkg:cargo/ureq@3.3.0
