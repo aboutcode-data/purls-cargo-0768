@@ -1,5 +1,6 @@
 - pkg:cargo/sof-gossip-tuning@0.10.0
 - pkg:cargo/sof-gossip-tuning@0.10.1
+- pkg:cargo/sof-gossip-tuning@0.11.0
 - pkg:cargo/sof-gossip-tuning@0.7.0
 - pkg:cargo/sof-gossip-tuning@0.7.1
 - pkg:cargo/sof-gossip-tuning@0.8.0
