@@ -2,3 +2,4 @@
 - pkg:cargo/rustyclaw@0.1.32
 - pkg:cargo/rustyclaw@0.1.33
 - pkg:cargo/rustyclaw@0.1.9
+- pkg:cargo/rustyclaw@0.3.0
