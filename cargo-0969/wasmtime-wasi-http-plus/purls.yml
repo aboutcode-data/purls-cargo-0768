@@ -1,0 +1,2 @@
+- pkg:cargo/wasmtime-wasi-http-plus@0.0.1
+- pkg:cargo/wasmtime-wasi-http-plus@0.0.2
