@@ -68,6 +68,7 @@
 - pkg:cargo/zng-app@0.22.5
 - pkg:cargo/zng-app@0.22.6
 - pkg:cargo/zng-app@0.22.7
+- pkg:cargo/zng-app@0.22.8
 - pkg:cargo/zng-app@0.3.0
 - pkg:cargo/zng-app@0.3.2
 - pkg:cargo/zng-app@0.3.3
