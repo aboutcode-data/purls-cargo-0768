@@ -33,6 +33,7 @@
 - pkg:cargo/rustls-webpki@0.102.8
 - pkg:cargo/rustls-webpki@0.103.0
 - pkg:cargo/rustls-webpki@0.103.1
+- pkg:cargo/rustls-webpki@0.103.10
 - pkg:cargo/rustls-webpki@0.103.2
 - pkg:cargo/rustls-webpki@0.103.3
 - pkg:cargo/rustls-webpki@0.103.4
@@ -45,3 +46,4 @@
 - pkg:cargo/rustls-webpki@0.104.0-alpha.2
 - pkg:cargo/rustls-webpki@0.104.0-alpha.3
 - pkg:cargo/rustls-webpki@0.104.0-alpha.4
+- pkg:cargo/rustls-webpki@0.104.0-alpha.5

@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-plugin-auth-session@0.1.0
+- pkg:cargo/tauri-plugin-auth-session@0.2.1
