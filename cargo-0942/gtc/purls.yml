@@ -9,6 +9,7 @@
 - pkg:cargo/gtc@0.9.17
 - pkg:cargo/gtc@0.9.18
 - pkg:cargo/gtc@0.9.19
+- pkg:cargo/gtc@0.9.20
 - pkg:cargo/gtc@0.9.3
 - pkg:cargo/gtc@0.9.4
 - pkg:cargo/gtc@0.9.5

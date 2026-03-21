@@ -2,3 +2,4 @@
 - pkg:cargo/freecycle@1.0.43
 - pkg:cargo/freecycle@1.0.51
 - pkg:cargo/freecycle@1.0.52
+- pkg:cargo/freecycle@2.0.1
