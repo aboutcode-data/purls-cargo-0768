@@ -5,4 +5,5 @@
 - pkg:cargo/pouch@0.0.5-alpha
 - pkg:cargo/pouch@0.0.6-alpha
 - pkg:cargo/pouch@0.0.7-alpha
+- pkg:cargo/pouch@0.0.8
 - pkg:cargo/pouch@0.1.0
