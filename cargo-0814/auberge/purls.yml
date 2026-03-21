@@ -46,3 +46,5 @@
 - pkg:cargo/auberge@0.6.8
 - pkg:cargo/auberge@0.6.9
 - pkg:cargo/auberge@0.7.0
+- pkg:cargo/auberge@0.7.1
+- pkg:cargo/auberge@0.7.2

@@ -1,6 +1,8 @@
 - pkg:cargo/azure_iot_operations_connector@1.0.0
 - pkg:cargo/azure_iot_operations_connector@1.1.0
 - pkg:cargo/azure_iot_operations_connector@1.1.0-rc1
+- pkg:cargo/azure_iot_operations_connector@2.0.0
 - pkg:cargo/azure_iot_operations_connector@2.0.0-rc1
 - pkg:cargo/azure_iot_operations_connector@2.0.0-rc2
 - pkg:cargo/azure_iot_operations_connector@2.0.0-rc3
+- pkg:cargo/azure_iot_operations_connector@2.0.1-rc1
