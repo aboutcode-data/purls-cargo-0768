@@ -74,3 +74,4 @@
 - pkg:cargo/sqlite-vec@0.1.7-alpha.7
 - pkg:cargo/sqlite-vec@0.1.7-alpha.8
 - pkg:cargo/sqlite-vec@0.1.7-alpha.9
+- pkg:cargo/sqlite-vec@0.1.8-alpha.1
