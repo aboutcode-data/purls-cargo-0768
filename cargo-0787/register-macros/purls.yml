@@ -1,2 +1,3 @@
 - pkg:cargo/register-macros@0.0.1
 - pkg:cargo/register-macros@0.0.2
+- pkg:cargo/register-macros@0.0.3
