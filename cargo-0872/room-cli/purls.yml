@@ -14,3 +14,4 @@
 - pkg:cargo/room-cli@3.4.0
 - pkg:cargo/room-cli@3.5.0
 - pkg:cargo/room-cli@3.5.1
+- pkg:cargo/room-cli@3.6.0
