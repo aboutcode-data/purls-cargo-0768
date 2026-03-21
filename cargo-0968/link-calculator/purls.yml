@@ -10,3 +10,4 @@
 - pkg:cargo/link-calculator@0.5.2
 - pkg:cargo/link-calculator@0.5.3
 - pkg:cargo/link-calculator@0.6.0
+- pkg:cargo/link-calculator@0.7.0
