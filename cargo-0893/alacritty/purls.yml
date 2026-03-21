@@ -37,6 +37,7 @@
 - pkg:cargo/alacritty@0.16.0
 - pkg:cargo/alacritty@0.16.0-rc1
 - pkg:cargo/alacritty@0.16.1
+- pkg:cargo/alacritty@0.17.0-rc1
 - pkg:cargo/alacritty@0.5.0
 - pkg:cargo/alacritty@0.6.0
 - pkg:cargo/alacritty@0.7.0
