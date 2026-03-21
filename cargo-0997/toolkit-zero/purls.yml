@@ -12,3 +12,5 @@
 - pkg:cargo/toolkit-zero@4.0.1
 - pkg:cargo/toolkit-zero@4.0.2
 - pkg:cargo/toolkit-zero@5.0.0
+- pkg:cargo/toolkit-zero@5.1.0
+- pkg:cargo/toolkit-zero@5.2.0
