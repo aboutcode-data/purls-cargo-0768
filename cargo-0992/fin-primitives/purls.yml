@@ -2,3 +2,5 @@
 - pkg:cargo/fin-primitives@1.1.0
 - pkg:cargo/fin-primitives@1.1.1
 - pkg:cargo/fin-primitives@2.0.0
+- pkg:cargo/fin-primitives@2.2.0
+- pkg:cargo/fin-primitives@2.3.0
