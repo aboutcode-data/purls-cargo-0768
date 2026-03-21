@@ -24,3 +24,5 @@
 - pkg:cargo/sift_error@0.7.2
 - pkg:cargo/sift_error@0.7.3
 - pkg:cargo/sift_error@0.8.0
+- pkg:cargo/sift_error@0.8.1
+- pkg:cargo/sift_error@0.8.2
