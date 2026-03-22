@@ -45,6 +45,7 @@
 - pkg:cargo/rona@2.18.0
 - pkg:cargo/rona@2.18.1
 - pkg:cargo/rona@2.18.2
+- pkg:cargo/rona@2.18.3
 - pkg:cargo/rona@2.2.0
 - pkg:cargo/rona@2.2.1
 - pkg:cargo/rona@2.2.2
