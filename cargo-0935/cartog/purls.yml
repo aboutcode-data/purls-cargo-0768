@@ -22,3 +22,5 @@
 - pkg:cargo/cartog@0.5.4
 - pkg:cargo/cartog@0.5.5
 - pkg:cargo/cartog@0.5.6
+- pkg:cargo/cartog@0.6.0
+- pkg:cargo/cartog@0.6.1
