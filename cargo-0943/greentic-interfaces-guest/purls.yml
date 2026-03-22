@@ -9,6 +9,7 @@
 - pkg:cargo/greentic-interfaces-guest@0.4.109
 - pkg:cargo/greentic-interfaces-guest@0.4.110
 - pkg:cargo/greentic-interfaces-guest@0.4.111
+- pkg:cargo/greentic-interfaces-guest@0.4.112
 - pkg:cargo/greentic-interfaces-guest@0.4.34
 - pkg:cargo/greentic-interfaces-guest@0.4.35
 - pkg:cargo/greentic-interfaces-guest@0.4.36
