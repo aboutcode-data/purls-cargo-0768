@@ -10,3 +10,4 @@
 - pkg:cargo/hpx-transport@2.3.0
 - pkg:cargo/hpx-transport@2.3.1
 - pkg:cargo/hpx-transport@2.4.0
+- pkg:cargo/hpx-transport@2.4.1
