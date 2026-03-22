@@ -2,3 +2,5 @@
 - pkg:cargo/cutty@0.17.0-dev
 - pkg:cargo/cutty@0.17.1
 - pkg:cargo/cutty@0.18.0
+- pkg:cargo/cutty@0.18.3
+- pkg:cargo/cutty@0.18.4
