@@ -86,6 +86,9 @@
 - pkg:cargo/hyperlane_resources@18.2.7
 - pkg:cargo/hyperlane_resources@18.2.8
 - pkg:cargo/hyperlane_resources@18.2.9
+- pkg:cargo/hyperlane_resources@18.3.0
+- pkg:cargo/hyperlane_resources@18.3.1
+- pkg:cargo/hyperlane_resources@18.3.2
 - pkg:cargo/hyperlane_resources@9.2.10
 - pkg:cargo/hyperlane_resources@9.2.11
 - pkg:cargo/hyperlane_resources@9.2.13
