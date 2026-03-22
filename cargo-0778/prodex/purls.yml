@@ -28,6 +28,9 @@
 - pkg:cargo/prodex@0.2.32
 - pkg:cargo/prodex@0.2.33
 - pkg:cargo/prodex@0.2.34
+- pkg:cargo/prodex@0.2.35
+- pkg:cargo/prodex@0.2.36
+- pkg:cargo/prodex@0.2.37
 - pkg:cargo/prodex@0.2.4
 - pkg:cargo/prodex@0.2.5
 - pkg:cargo/prodex@0.2.6
