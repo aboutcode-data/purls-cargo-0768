@@ -31,7 +31,12 @@
 - pkg:cargo/prodex@0.2.35
 - pkg:cargo/prodex@0.2.36
 - pkg:cargo/prodex@0.2.37
+- pkg:cargo/prodex@0.2.38
+- pkg:cargo/prodex@0.2.39
 - pkg:cargo/prodex@0.2.4
+- pkg:cargo/prodex@0.2.40
+- pkg:cargo/prodex@0.2.41
+- pkg:cargo/prodex@0.2.42
 - pkg:cargo/prodex@0.2.5
 - pkg:cargo/prodex@0.2.6
 - pkg:cargo/prodex@0.2.7

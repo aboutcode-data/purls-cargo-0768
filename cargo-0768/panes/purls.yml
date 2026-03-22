@@ -12,6 +12,7 @@
 - pkg:cargo/panes@0.13.1
 - pkg:cargo/panes@0.14.0
 - pkg:cargo/panes@0.15.0
+- pkg:cargo/panes@0.16.0
 - pkg:cargo/panes@0.2.0
 - pkg:cargo/panes@0.3.0
 - pkg:cargo/panes@0.4.0
