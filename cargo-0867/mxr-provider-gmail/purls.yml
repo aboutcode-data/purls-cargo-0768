@@ -3,3 +3,5 @@
 - pkg:cargo/mxr-provider-gmail@0.4.4
 - pkg:cargo/mxr-provider-gmail@0.4.5
 - pkg:cargo/mxr-provider-gmail@0.4.6
+- pkg:cargo/mxr-provider-gmail@0.4.8
+- pkg:cargo/mxr-provider-gmail@0.4.9
