@@ -16,3 +16,4 @@
 - pkg:cargo/terminput-egui@0.4.6
 - pkg:cargo/terminput-egui@0.5.0
 - pkg:cargo/terminput-egui@0.5.1
+- pkg:cargo/terminput-egui@0.5.2
