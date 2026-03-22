@@ -9,3 +9,4 @@
 - pkg:cargo/signet-eval@2.4.0
 - pkg:cargo/signet-eval@2.5.0
 - pkg:cargo/signet-eval@2.6.0
+- pkg:cargo/signet-eval@2.7.0

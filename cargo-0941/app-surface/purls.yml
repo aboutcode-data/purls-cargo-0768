@@ -11,6 +11,7 @@
 - pkg:cargo/app-surface@0.4.4
 - pkg:cargo/app-surface@1.0.0
 - pkg:cargo/app-surface@1.1.0
+- pkg:cargo/app-surface@1.10.0
 - pkg:cargo/app-surface@1.2.0
 - pkg:cargo/app-surface@1.2.1
 - pkg:cargo/app-surface@1.2.2
