@@ -15,6 +15,7 @@
 - pkg:cargo/binup@0.9.1
 - pkg:cargo/binup@1.0.0
 - pkg:cargo/binup@1.1.0
+- pkg:cargo/binup@1.10.0
 - pkg:cargo/binup@1.2.0
 - pkg:cargo/binup@1.2.1
 - pkg:cargo/binup@1.2.2
