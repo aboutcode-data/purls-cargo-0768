@@ -12,3 +12,4 @@
 - pkg:cargo/sherpa-onnx@0.1.9
 - pkg:cargo/sherpa-onnx@1.12.30
 - pkg:cargo/sherpa-onnx@1.12.31
+- pkg:cargo/sherpa-onnx@1.12.32
