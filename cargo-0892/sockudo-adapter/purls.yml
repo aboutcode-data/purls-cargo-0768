@@ -2,3 +2,4 @@
 - pkg:cargo/sockudo-adapter@3.2.1
 - pkg:cargo/sockudo-adapter@3.2.2
 - pkg:cargo/sockudo-adapter@3.2.3
+- pkg:cargo/sockudo-adapter@3.4.0

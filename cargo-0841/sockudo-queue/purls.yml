@@ -2,3 +2,4 @@
 - pkg:cargo/sockudo-queue@3.2.1
 - pkg:cargo/sockudo-queue@3.2.2
 - pkg:cargo/sockudo-queue@3.2.3
+- pkg:cargo/sockudo-queue@3.4.0
