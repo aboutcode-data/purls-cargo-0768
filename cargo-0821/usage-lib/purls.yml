@@ -112,3 +112,4 @@
 - pkg:cargo/usage-lib@2.8.0
 - pkg:cargo/usage-lib@2.9.0
 - pkg:cargo/usage-lib@3.0.0
+- pkg:cargo/usage-lib@3.1.0
