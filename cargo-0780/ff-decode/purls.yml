@@ -6,3 +6,5 @@
 - pkg:cargo/ff-decode@0.4.0
 - pkg:cargo/ff-decode@0.5.0
 - pkg:cargo/ff-decode@0.6.0
+- pkg:cargo/ff-decode@0.7.0
+- pkg:cargo/ff-decode@0.7.1
