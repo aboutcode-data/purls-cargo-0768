@@ -167,6 +167,7 @@
 - pkg:cargo/stof@0.9.10
 - pkg:cargo/stof@0.9.12
 - pkg:cargo/stof@0.9.14
+- pkg:cargo/stof@0.9.16
 - pkg:cargo/stof@0.9.2
 - pkg:cargo/stof@0.9.3
 - pkg:cargo/stof@0.9.4
