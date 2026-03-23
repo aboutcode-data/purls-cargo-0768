@@ -4,3 +4,5 @@
 - pkg:cargo/ows-core@0.3.6
 - pkg:cargo/ows-core@0.3.7
 - pkg:cargo/ows-core@0.3.8
+- pkg:cargo/ows-core@0.5.4
+- pkg:cargo/ows-core@0.5.6
