@@ -16,3 +16,4 @@
 - pkg:cargo/zeph-acp@0.15.3
 - pkg:cargo/zeph-acp@0.16.0
 - pkg:cargo/zeph-acp@0.16.1
+- pkg:cargo/zeph-acp@0.17.0
