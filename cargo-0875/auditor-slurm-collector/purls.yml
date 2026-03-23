@@ -2,6 +2,7 @@
 - pkg:cargo/auditor-slurm-collector@0.1.0
 - pkg:cargo/auditor-slurm-collector@0.10.0
 - pkg:cargo/auditor-slurm-collector@0.10.1
+- pkg:cargo/auditor-slurm-collector@0.10.2
 - pkg:cargo/auditor-slurm-collector@0.2.0
 - pkg:cargo/auditor-slurm-collector@0.3.0
 - pkg:cargo/auditor-slurm-collector@0.3.1
