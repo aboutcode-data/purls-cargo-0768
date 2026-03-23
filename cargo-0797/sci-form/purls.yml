@@ -1,4 +1,6 @@
 - pkg:cargo/sci-form@0.1.7
+- pkg:cargo/sci-form@0.10.1
+- pkg:cargo/sci-form@0.10.5
 - pkg:cargo/sci-form@0.2.0
 - pkg:cargo/sci-form@0.3.1
 - pkg:cargo/sci-form@0.4.2
