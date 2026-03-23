@@ -22,3 +22,4 @@
 - pkg:cargo/talc@5.0.0
 - pkg:cargo/talc@5.0.0-beta.1
 - pkg:cargo/talc@5.0.0-beta.2
+- pkg:cargo/talc@5.0.1
