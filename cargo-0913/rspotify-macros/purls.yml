@@ -16,3 +16,4 @@
 - pkg:cargo/rspotify-macros@0.15.1
 - pkg:cargo/rspotify-macros@0.15.2
 - pkg:cargo/rspotify-macros@0.15.3
+- pkg:cargo/rspotify-macros@0.16.0
