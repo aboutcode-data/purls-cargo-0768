@@ -1,3 +1,4 @@
 - pkg:cargo/sqry-lang-c@4.10.0
 - pkg:cargo/sqry-lang-c@4.10.1
+- pkg:cargo/sqry-lang-c@4.10.13
 - pkg:cargo/sqry-lang-c@4.8.16
