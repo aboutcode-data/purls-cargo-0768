@@ -2,3 +2,4 @@
 - pkg:cargo/wls-alloc@0.1.1
 - pkg:cargo/wls-alloc@0.1.2
 - pkg:cargo/wls-alloc@0.2.0
+- pkg:cargo/wls-alloc@0.3.0
