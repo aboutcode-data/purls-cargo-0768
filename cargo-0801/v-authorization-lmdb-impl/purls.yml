@@ -1,1 +1,2 @@
 - pkg:cargo/v-authorization-lmdb-impl@0.6.0
+- pkg:cargo/v-authorization-lmdb-impl@0.7.0
