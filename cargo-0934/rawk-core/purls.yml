@@ -13,3 +13,4 @@
 - pkg:cargo/rawk-core@0.3.2
 - pkg:cargo/rawk-core@0.4.0
 - pkg:cargo/rawk-core@0.4.1
+- pkg:cargo/rawk-core@0.5.0

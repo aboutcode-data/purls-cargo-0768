@@ -30,4 +30,5 @@
 - pkg:cargo/ranvier-runtime@0.37.0
 - pkg:cargo/ranvier-runtime@0.38.0
 - pkg:cargo/ranvier-runtime@0.39.0
+- pkg:cargo/ranvier-runtime@0.40.0
 - pkg:cargo/ranvier-runtime@0.7.0
