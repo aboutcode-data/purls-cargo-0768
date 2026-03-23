@@ -1,3 +1,4 @@
 - pkg:cargo/redis-universal-client@0.0.1
 - pkg:cargo/redis-universal-client@0.0.2
 - pkg:cargo/redis-universal-client@0.0.3
+- pkg:cargo/redis-universal-client@0.1.0

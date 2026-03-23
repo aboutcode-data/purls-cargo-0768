@@ -1,2 +1,3 @@
+- pkg:cargo/roboticus-agent@0.10.0
 - pkg:cargo/roboticus-agent@0.9.8
 - pkg:cargo/roboticus-agent@0.9.9
