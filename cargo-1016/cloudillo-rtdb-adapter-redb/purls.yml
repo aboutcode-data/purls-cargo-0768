@@ -1,1 +1,2 @@
+- pkg:cargo/cloudillo-rtdb-adapter-redb@0.8.11
 - pkg:cargo/cloudillo-rtdb-adapter-redb@0.8.9
