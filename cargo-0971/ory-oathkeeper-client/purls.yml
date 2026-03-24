@@ -25,3 +25,4 @@
 - pkg:cargo/ory-oathkeeper-client@0.40.6
 - pkg:cargo/ory-oathkeeper-client@0.40.8
 - pkg:cargo/ory-oathkeeper-client@25.4.0
+- pkg:cargo/ory-oathkeeper-client@26.2.0
