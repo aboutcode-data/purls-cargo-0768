@@ -5,3 +5,4 @@
 - pkg:cargo/nestforge-mongo@1.4.0
 - pkg:cargo/nestforge-mongo@1.4.1
 - pkg:cargo/nestforge-mongo@1.6.0
+- pkg:cargo/nestforge-mongo@1.9.0
