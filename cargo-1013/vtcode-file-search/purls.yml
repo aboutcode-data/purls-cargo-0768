@@ -168,3 +168,4 @@
 - pkg:cargo/vtcode-file-search@0.92.1
 - pkg:cargo/vtcode-file-search@0.93.0
 - pkg:cargo/vtcode-file-search@0.93.1
+- pkg:cargo/vtcode-file-search@0.93.2
