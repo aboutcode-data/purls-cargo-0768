@@ -11,3 +11,5 @@
 - pkg:cargo/strike48-proto@0.2.9
 - pkg:cargo/strike48-proto@0.3.0
 - pkg:cargo/strike48-proto@0.3.1
+- pkg:cargo/strike48-proto@0.3.2
+- pkg:cargo/strike48-proto@0.3.3
