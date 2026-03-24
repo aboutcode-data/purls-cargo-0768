@@ -1,3 +1,4 @@
 - pkg:cargo/libdd-data-pipeline@1.0.0
 - pkg:cargo/libdd-data-pipeline@2.0.0
 - pkg:cargo/libdd-data-pipeline@2.0.1
+- pkg:cargo/libdd-data-pipeline@3.0.0
