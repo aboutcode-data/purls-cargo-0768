@@ -100,3 +100,4 @@
 - pkg:cargo/seq-runtime@4.0.1
 - pkg:cargo/seq-runtime@4.0.2
 - pkg:cargo/seq-runtime@4.0.3
+- pkg:cargo/seq-runtime@4.1.0
