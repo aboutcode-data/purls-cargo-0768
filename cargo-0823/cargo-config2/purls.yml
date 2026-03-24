@@ -37,6 +37,7 @@
 - pkg:cargo/cargo-config2@0.1.41
 - pkg:cargo/cargo-config2@0.1.42
 - pkg:cargo/cargo-config2@0.1.43
+- pkg:cargo/cargo-config2@0.1.44
 - pkg:cargo/cargo-config2@0.1.5
 - pkg:cargo/cargo-config2@0.1.6
 - pkg:cargo/cargo-config2@0.1.7
