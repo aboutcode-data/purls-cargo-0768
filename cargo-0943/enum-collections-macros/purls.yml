@@ -3,3 +3,4 @@
 - pkg:cargo/enum-collections-macros@0.3.0
 - pkg:cargo/enum-collections-macros@1.0.0
 - pkg:cargo/enum-collections-macros@1.0.1
+- pkg:cargo/enum-collections-macros@2.0.0
