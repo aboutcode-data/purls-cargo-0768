@@ -20,6 +20,7 @@
 - pkg:cargo/mozjs@0.15.4
 - pkg:cargo/mozjs@0.15.5
 - pkg:cargo/mozjs@0.15.6
+- pkg:cargo/mozjs@0.15.7
 - pkg:cargo/mozjs@0.2.0
 - pkg:cargo/mozjs@0.3.0
 - pkg:cargo/mozjs@0.3.1

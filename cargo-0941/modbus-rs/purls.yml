@@ -1,1 +1,2 @@
 - pkg:cargo/modbus-rs@0.1.0
+- pkg:cargo/modbus-rs@0.2.0
