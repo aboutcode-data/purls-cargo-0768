@@ -1,1 +1,2 @@
 - pkg:cargo/nexus-notify@1.0.0
+- pkg:cargo/nexus-notify@1.0.1
