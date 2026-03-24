@@ -30,3 +30,4 @@
 - pkg:cargo/sibyl@0.6.7
 - pkg:cargo/sibyl@0.6.8
 - pkg:cargo/sibyl@0.6.9
+- pkg:cargo/sibyl@0.7.0
