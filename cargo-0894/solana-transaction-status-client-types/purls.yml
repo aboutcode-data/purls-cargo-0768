@@ -82,3 +82,4 @@
 - pkg:cargo/solana-transaction-status-client-types@4.0.0-beta.1
 - pkg:cargo/solana-transaction-status-client-types@4.0.0-beta.2
 - pkg:cargo/solana-transaction-status-client-types@4.0.0-beta.3
+- pkg:cargo/solana-transaction-status-client-types@4.0.0-beta.4
