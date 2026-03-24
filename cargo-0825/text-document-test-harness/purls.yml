@@ -1,3 +1,4 @@
 - pkg:cargo/text-document-test-harness@0.0.10
 - pkg:cargo/text-document-test-harness@0.0.11
+- pkg:cargo/text-document-test-harness@0.0.13
 - pkg:cargo/text-document-test-harness@0.0.9

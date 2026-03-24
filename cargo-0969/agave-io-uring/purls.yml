@@ -42,3 +42,4 @@
 - pkg:cargo/agave-io-uring@4.0.0-beta.1
 - pkg:cargo/agave-io-uring@4.0.0-beta.2
 - pkg:cargo/agave-io-uring@4.0.0-beta.3
+- pkg:cargo/agave-io-uring@4.0.0-beta.4

@@ -119,3 +119,4 @@
 - pkg:cargo/brk_indexer@0.1.8
 - pkg:cargo/brk_indexer@0.1.9
 - pkg:cargo/brk_indexer@0.2.1
+- pkg:cargo/brk_indexer@0.2.2

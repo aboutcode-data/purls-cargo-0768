@@ -12,3 +12,4 @@
 - pkg:cargo/git_sshripped_repository_models@0.1.8
 - pkg:cargo/git_sshripped_repository_models@0.2.0
 - pkg:cargo/git_sshripped_repository_models@0.2.1
+- pkg:cargo/git_sshripped_repository_models@0.2.2
