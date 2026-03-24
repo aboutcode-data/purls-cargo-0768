@@ -37,6 +37,7 @@
 - pkg:cargo/sp-transaction-storage-proof@39.0.0
 - pkg:cargo/sp-transaction-storage-proof@4.0.0
 - pkg:cargo/sp-transaction-storage-proof@40.0.0
+- pkg:cargo/sp-transaction-storage-proof@40.1.0
 - pkg:cargo/sp-transaction-storage-proof@5.0.0
 - pkg:cargo/sp-transaction-storage-proof@6.0.0
 - pkg:cargo/sp-transaction-storage-proof@7.0.0
