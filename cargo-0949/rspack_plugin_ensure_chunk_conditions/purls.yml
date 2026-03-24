@@ -1,4 +1,5 @@
 - pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.1.0
+- pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.100.0-beta.8
 - pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.2.0
 - pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.2.1-alpha.0
 - pkg:cargo/rspack_plugin_ensure_chunk_conditions@0.2.1-alpha.1
