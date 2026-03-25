@@ -4,3 +4,4 @@
 - pkg:cargo/shard-cli@0.1.3
 - pkg:cargo/shard-cli@0.2.0
 - pkg:cargo/shard-cli@2.0.0
+- pkg:cargo/shard-cli@2.0.1
