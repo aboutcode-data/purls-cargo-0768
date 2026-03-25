@@ -1620,6 +1620,10 @@
 - pkg:cargo/spider_worker@2.47.88
 - pkg:cargo/spider_worker@2.47.89
 - pkg:cargo/spider_worker@2.47.9
+- pkg:cargo/spider_worker@2.47.90
+- pkg:cargo/spider_worker@2.47.91
+- pkg:cargo/spider_worker@2.47.92
+- pkg:cargo/spider_worker@2.47.93
 - pkg:cargo/spider_worker@2.5.0
 - pkg:cargo/spider_worker@2.5.1
 - pkg:cargo/spider_worker@2.5.2
