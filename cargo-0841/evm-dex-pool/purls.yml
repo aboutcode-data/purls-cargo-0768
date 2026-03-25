@@ -10,3 +10,6 @@
 - pkg:cargo/evm-dex-pool@1.1.0
 - pkg:cargo/evm-dex-pool@1.2.0
 - pkg:cargo/evm-dex-pool@1.2.1
+- pkg:cargo/evm-dex-pool@1.2.2
+- pkg:cargo/evm-dex-pool@1.2.3
+- pkg:cargo/evm-dex-pool@1.2.4
