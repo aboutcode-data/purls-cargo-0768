@@ -5,3 +5,4 @@
 - pkg:cargo/tishlang_compile@1.0.26
 - pkg:cargo/tishlang_compile@1.0.27
 - pkg:cargo/tishlang_compile@1.0.28
+- pkg:cargo/tishlang_compile@1.0.29
