@@ -9,3 +9,4 @@
 - pkg:cargo/auto-default@0.2.3
 - pkg:cargo/auto-default@0.2.4
 - pkg:cargo/auto-default@0.2.5
+- pkg:cargo/auto-default@0.3.0
