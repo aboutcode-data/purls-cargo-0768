@@ -50,3 +50,4 @@
 - pkg:cargo/tui-file-explorer@0.8.7
 - pkg:cargo/tui-file-explorer@0.8.8
 - pkg:cargo/tui-file-explorer@0.9.0
+- pkg:cargo/tui-file-explorer@0.9.1
