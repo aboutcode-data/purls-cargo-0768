@@ -34,3 +34,4 @@
 - pkg:cargo/chia-tools@0.39.0
 - pkg:cargo/chia-tools@0.40.0
 - pkg:cargo/chia-tools@0.41.0
+- pkg:cargo/chia-tools@0.41.1
