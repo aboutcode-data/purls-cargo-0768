@@ -19,3 +19,4 @@
 - pkg:cargo/wincode@0.4.6
 - pkg:cargo/wincode@0.4.7
 - pkg:cargo/wincode@0.4.8
+- pkg:cargo/wincode@0.4.9
