@@ -6,3 +6,5 @@
 - pkg:cargo/rustld@0.1.41
 - pkg:cargo/rustld@0.1.42
 - pkg:cargo/rustld@0.1.43
+- pkg:cargo/rustld@0.1.5
+- pkg:cargo/rustld@0.1.51

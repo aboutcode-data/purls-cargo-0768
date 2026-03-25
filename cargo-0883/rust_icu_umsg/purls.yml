@@ -29,3 +29,5 @@
 - pkg:cargo/rust_icu_umsg@5.1.0
 - pkg:cargo/rust_icu_umsg@5.3.0
 - pkg:cargo/rust_icu_umsg@5.4.0
+- pkg:cargo/rust_icu_umsg@5.5.0
+- pkg:cargo/rust_icu_umsg@5.6.0

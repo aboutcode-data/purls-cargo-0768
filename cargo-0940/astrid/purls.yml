@@ -1,2 +1,4 @@
 - pkg:cargo/astrid@0.0.1
 - pkg:cargo/astrid@0.4.0
+- pkg:cargo/astrid@0.5.0
+- pkg:cargo/astrid@0.5.1
