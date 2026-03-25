@@ -16,3 +16,4 @@
 - pkg:cargo/server-less-openapi@0.4.1-alpha.2
 - pkg:cargo/server-less-openapi@0.4.3
 - pkg:cargo/server-less-openapi@0.4.7
+- pkg:cargo/server-less-openapi@0.4.8
