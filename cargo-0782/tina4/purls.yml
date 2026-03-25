@@ -13,3 +13,5 @@
 - pkg:cargo/tina4@3.3.3
 - pkg:cargo/tina4@3.4.0
 - pkg:cargo/tina4@3.5.0
+- pkg:cargo/tina4@3.5.1
+- pkg:cargo/tina4@3.5.2
