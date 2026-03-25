@@ -1,2 +1,3 @@
 - pkg:cargo/keyhive_core@0.1.0
 - pkg:cargo/keyhive_core@0.2.0-alpha.1
+- pkg:cargo/keyhive_core@0.3.0

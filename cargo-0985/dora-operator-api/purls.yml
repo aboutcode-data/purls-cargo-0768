@@ -61,3 +61,5 @@
 - pkg:cargo/dora-operator-api@0.4.0
 - pkg:cargo/dora-operator-api@0.4.0-rc0
 - pkg:cargo/dora-operator-api@0.4.1
+- pkg:cargo/dora-operator-api@0.5.0
+- pkg:cargo/dora-operator-api@0.5.0-rc0

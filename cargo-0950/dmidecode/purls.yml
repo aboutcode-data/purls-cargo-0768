@@ -25,3 +25,4 @@
 - pkg:cargo/dmidecode@0.8.5
 - pkg:cargo/dmidecode@0.9.0
 - pkg:cargo/dmidecode@1.0.0
+- pkg:cargo/dmidecode@1.0.1
