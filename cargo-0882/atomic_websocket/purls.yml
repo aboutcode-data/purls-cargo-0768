@@ -91,3 +91,4 @@
 - pkg:cargo/atomic_websocket@0.7.3
 - pkg:cargo/atomic_websocket@0.7.4
 - pkg:cargo/atomic_websocket@0.7.5
+- pkg:cargo/atomic_websocket@0.8.0
