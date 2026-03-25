@@ -17,3 +17,4 @@
 - pkg:cargo/uv-unix@0.0.31
 - pkg:cargo/uv-unix@0.0.32
 - pkg:cargo/uv-unix@0.0.33
+- pkg:cargo/uv-unix@0.0.34
