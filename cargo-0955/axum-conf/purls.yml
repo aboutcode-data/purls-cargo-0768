@@ -17,3 +17,4 @@
 - pkg:cargo/axum-conf@0.3.5
 - pkg:cargo/axum-conf@0.3.6
 - pkg:cargo/axum-conf@0.3.7
+- pkg:cargo/axum-conf@0.4.0
