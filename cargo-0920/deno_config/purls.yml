@@ -138,3 +138,4 @@
 - pkg:cargo/deno_config@0.9.1
 - pkg:cargo/deno_config@0.9.2
 - pkg:cargo/deno_config@0.90.0
+- pkg:cargo/deno_config@0.91.0

@@ -1,3 +1,4 @@
 - pkg:cargo/tree-sitter-mcfunction@0.3.4
 - pkg:cargo/tree-sitter-mcfunction@0.3.6
 - pkg:cargo/tree-sitter-mcfunction@0.3.7
+- pkg:cargo/tree-sitter-mcfunction@0.3.8
