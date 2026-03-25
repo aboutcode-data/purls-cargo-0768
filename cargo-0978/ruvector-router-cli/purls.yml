@@ -3,3 +3,4 @@
 - pkg:cargo/ruvector-router-cli@0.1.22
 - pkg:cargo/ruvector-router-cli@0.1.29
 - pkg:cargo/ruvector-router-cli@2.0.4
+- pkg:cargo/ruvector-router-cli@2.0.6
