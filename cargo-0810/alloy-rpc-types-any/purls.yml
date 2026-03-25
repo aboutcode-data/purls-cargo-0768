@@ -96,3 +96,4 @@
 - pkg:cargo/alloy-rpc-types-any@1.7.2
 - pkg:cargo/alloy-rpc-types-any@1.7.3
 - pkg:cargo/alloy-rpc-types-any@1.7.4
+- pkg:cargo/alloy-rpc-types-any@1.8.0
