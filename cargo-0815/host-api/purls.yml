@@ -3,3 +3,4 @@
 - pkg:cargo/host-api@0.3.4
 - pkg:cargo/host-api@0.3.5
 - pkg:cargo/host-api@0.3.6
+- pkg:cargo/host-api@0.3.7
