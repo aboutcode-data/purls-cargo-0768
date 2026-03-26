@@ -8,5 +8,8 @@
 - pkg:cargo/tari_template_macros@0.15.1
 - pkg:cargo/tari_template_macros@0.16.0
 - pkg:cargo/tari_template_macros@0.17.0
+- pkg:cargo/tari_template_macros@0.17.1
+- pkg:cargo/tari_template_macros@0.17.2
+- pkg:cargo/tari_template_macros@0.17.3
 - pkg:cargo/tari_template_macros@0.3.0
 - pkg:cargo/tari_template_macros@0.7.0
