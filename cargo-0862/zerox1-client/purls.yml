@@ -10,3 +10,8 @@
 - pkg:cargo/zerox1-client@0.4.5
 - pkg:cargo/zerox1-client@0.4.6
 - pkg:cargo/zerox1-client@0.4.7
+- pkg:cargo/zerox1-client@0.5.0
+- pkg:cargo/zerox1-client@0.5.1
+- pkg:cargo/zerox1-client@0.5.2
+- pkg:cargo/zerox1-client@0.5.3
+- pkg:cargo/zerox1-client@0.5.5
