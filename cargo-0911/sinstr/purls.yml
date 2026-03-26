@@ -1,1 +1,4 @@
 - pkg:cargo/sinstr@0.1.0
+- pkg:cargo/sinstr@0.2.0
+- pkg:cargo/sinstr@0.3.0
+- pkg:cargo/sinstr@0.4.0

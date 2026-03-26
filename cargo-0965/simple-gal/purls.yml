@@ -8,6 +8,8 @@
 - pkg:cargo/simple-gal@0.11.2
 - pkg:cargo/simple-gal@0.11.3
 - pkg:cargo/simple-gal@0.11.4
+- pkg:cargo/simple-gal@0.11.6
+- pkg:cargo/simple-gal@0.11.7
 - pkg:cargo/simple-gal@0.2.0
 - pkg:cargo/simple-gal@0.2.1
 - pkg:cargo/simple-gal@0.3.0
