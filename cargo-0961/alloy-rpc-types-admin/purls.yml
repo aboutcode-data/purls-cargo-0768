@@ -124,3 +124,4 @@
 - pkg:cargo/alloy-rpc-types-admin@1.7.4
 - pkg:cargo/alloy-rpc-types-admin@1.8.0
 - pkg:cargo/alloy-rpc-types-admin@1.8.1
+- pkg:cargo/alloy-rpc-types-admin@1.8.2
