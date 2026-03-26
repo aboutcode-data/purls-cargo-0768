@@ -32,3 +32,4 @@
 - pkg:cargo/seq-core@4.0.3
 - pkg:cargo/seq-core@4.1.0
 - pkg:cargo/seq-core@4.2.0
+- pkg:cargo/seq-core@4.2.1

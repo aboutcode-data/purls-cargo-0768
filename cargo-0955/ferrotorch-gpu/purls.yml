@@ -4,3 +4,5 @@
 - pkg:cargo/ferrotorch-gpu@0.1.4
 - pkg:cargo/ferrotorch-gpu@0.1.5
 - pkg:cargo/ferrotorch-gpu@0.1.8
+- pkg:cargo/ferrotorch-gpu@0.1.9
+- pkg:cargo/ferrotorch-gpu@0.2.0
