@@ -15,3 +15,4 @@
 - pkg:cargo/ckb-debugger@0.200.2
 - pkg:cargo/ckb-debugger@1.0.0
 - pkg:cargo/ckb-debugger@1.1.0
+- pkg:cargo/ckb-debugger@1.1.1
