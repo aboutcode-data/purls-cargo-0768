@@ -3,3 +3,4 @@
 - pkg:cargo/rosql@0.1.5
 - pkg:cargo/rosql@0.3.0
 - pkg:cargo/rosql@0.3.1
+- pkg:cargo/rosql@0.3.2
