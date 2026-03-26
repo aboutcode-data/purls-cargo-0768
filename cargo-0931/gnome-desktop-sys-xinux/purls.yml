@@ -1,1 +1,4 @@
+- pkg:cargo/gnome-desktop-sys-xinux@0.21.5
 - pkg:cargo/gnome-desktop-sys-xinux@0.4.3
+- pkg:cargo/gnome-desktop-sys-xinux@0.4.4
+- pkg:cargo/gnome-desktop-sys-xinux@0.4.4-patch
