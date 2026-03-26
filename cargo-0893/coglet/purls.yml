@@ -1,5 +1,6 @@
 - pkg:cargo/coglet@0.0.1
 - pkg:cargo/coglet@0.0.2
+- pkg:cargo/coglet@0.17.0
 - pkg:cargo/coglet@0.17.0-alpha2
 - pkg:cargo/coglet@0.17.0-alpha3
 - pkg:cargo/coglet@0.17.0-alpha4
