@@ -15,3 +15,5 @@
 - pkg:cargo/twitch-gql-rs@0.2.4
 - pkg:cargo/twitch-gql-rs@0.2.5
 - pkg:cargo/twitch-gql-rs@0.2.6
+- pkg:cargo/twitch-gql-rs@0.2.7
+- pkg:cargo/twitch-gql-rs@0.2.8
