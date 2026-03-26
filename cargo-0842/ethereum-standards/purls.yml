@@ -1,3 +1,4 @@
 - pkg:cargo/ethereum-standards@0.0.0
 - pkg:cargo/ethereum-standards@0.1.1
 - pkg:cargo/ethereum-standards@0.1.2
+- pkg:cargo/ethereum-standards@0.1.3
