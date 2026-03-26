@@ -1,6 +1,9 @@
 - pkg:cargo/php-lsp@0.1.0
 - pkg:cargo/php-lsp@0.1.1
 - pkg:cargo/php-lsp@0.1.11
+- pkg:cargo/php-lsp@0.1.12
+- pkg:cargo/php-lsp@0.1.13
+- pkg:cargo/php-lsp@0.1.14
 - pkg:cargo/php-lsp@0.1.2
 - pkg:cargo/php-lsp@0.1.5
 - pkg:cargo/php-lsp@0.1.6
