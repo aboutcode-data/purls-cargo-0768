@@ -141,6 +141,7 @@
 - pkg:cargo/deno_ffi@0.226.0
 - pkg:cargo/deno_ffi@0.227.0
 - pkg:cargo/deno_ffi@0.228.0
+- pkg:cargo/deno_ffi@0.229.0
 - pkg:cargo/deno_ffi@0.23.0
 - pkg:cargo/deno_ffi@0.24.0
 - pkg:cargo/deno_ffi@0.25.0
