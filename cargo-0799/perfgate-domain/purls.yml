@@ -1,2 +1,3 @@
+- pkg:cargo/perfgate-domain@0.15.0
 - pkg:cargo/perfgate-domain@0.4.0
 - pkg:cargo/perfgate-domain@0.4.1
