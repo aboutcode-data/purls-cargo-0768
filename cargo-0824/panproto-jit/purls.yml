@@ -1,1 +1,2 @@
 - pkg:cargo/panproto-jit@0.16.0
+- pkg:cargo/panproto-jit@0.17.0
