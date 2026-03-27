@@ -10,3 +10,5 @@
 - pkg:cargo/exspec-lang-rust@0.5.0
 - pkg:cargo/exspec-lang-rust@0.5.1
 - pkg:cargo/exspec-lang-rust@0.5.2
+- pkg:cargo/exspec-lang-rust@0.6.0
+- pkg:cargo/exspec-lang-rust@1.0.0
