@@ -10,6 +10,7 @@
 - pkg:cargo/laminar-storage@0.18.11
 - pkg:cargo/laminar-storage@0.18.12
 - pkg:cargo/laminar-storage@0.18.13
+- pkg:cargo/laminar-storage@0.18.14
 - pkg:cargo/laminar-storage@0.18.2
 - pkg:cargo/laminar-storage@0.18.3
 - pkg:cargo/laminar-storage@0.18.4
