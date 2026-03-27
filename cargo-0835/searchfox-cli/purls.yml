@@ -1,6 +1,7 @@
 - pkg:cargo/searchfox-cli@0.1.0
 - pkg:cargo/searchfox-cli@0.10.0
 - pkg:cargo/searchfox-cli@0.10.1
+- pkg:cargo/searchfox-cli@0.10.10
 - pkg:cargo/searchfox-cli@0.10.2
 - pkg:cargo/searchfox-cli@0.10.3
 - pkg:cargo/searchfox-cli@0.10.4
