@@ -28,3 +28,4 @@
 - pkg:cargo/belt@3.6.1
 - pkg:cargo/belt@3.7.0
 - pkg:cargo/belt@3.8.0
+- pkg:cargo/belt@3.9.0
