@@ -16,3 +16,4 @@
 - pkg:cargo/memfaultc-sys@1.25.1
 - pkg:cargo/memfaultc-sys@1.25.2
 - pkg:cargo/memfaultc-sys@1.26.0
+- pkg:cargo/memfaultc-sys@1.26.1
