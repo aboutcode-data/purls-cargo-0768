@@ -26,3 +26,4 @@
 - pkg:cargo/quinn-udp@0.5.8
 - pkg:cargo/quinn-udp@0.5.9
 - pkg:cargo/quinn-udp@0.6.0
+- pkg:cargo/quinn-udp@0.6.1
