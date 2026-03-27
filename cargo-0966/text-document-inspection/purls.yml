@@ -9,3 +9,5 @@
 - pkg:cargo/text-document-inspection@0.0.20
 - pkg:cargo/text-document-inspection@0.0.8
 - pkg:cargo/text-document-inspection@0.0.9
+- pkg:cargo/text-document-inspection@1.0.0
+- pkg:cargo/text-document-inspection@1.1.0
