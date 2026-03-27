@@ -29,6 +29,7 @@
 - pkg:cargo/pack_component@0.4.114
 - pkg:cargo/pack_component@0.4.115
 - pkg:cargo/pack_component@0.4.116
+- pkg:cargo/pack_component@0.4.117
 - pkg:cargo/pack_component@0.4.12
 - pkg:cargo/pack_component@0.4.13
 - pkg:cargo/pack_component@0.4.14
