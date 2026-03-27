@@ -522,3 +522,4 @@
 - pkg:cargo/solana-remote-wallet@4.0.0-beta.2
 - pkg:cargo/solana-remote-wallet@4.0.0-beta.3
 - pkg:cargo/solana-remote-wallet@4.0.0-beta.4
+- pkg:cargo/solana-remote-wallet@4.0.0-beta.5
