@@ -1,2 +1,3 @@
 - pkg:cargo/beamterm-core@0.16.0
 - pkg:cargo/beamterm-core@0.17.0
+- pkg:cargo/beamterm-core@0.18.0
