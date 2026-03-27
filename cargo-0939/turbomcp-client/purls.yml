@@ -58,6 +58,7 @@
 - pkg:cargo/turbomcp-client@3.0.0-exp.1
 - pkg:cargo/turbomcp-client@3.0.0-exp.2
 - pkg:cargo/turbomcp-client@3.0.1
+- pkg:cargo/turbomcp-client@3.0.10
 - pkg:cargo/turbomcp-client@3.0.2
 - pkg:cargo/turbomcp-client@3.0.3
 - pkg:cargo/turbomcp-client@3.0.4
@@ -65,3 +66,4 @@
 - pkg:cargo/turbomcp-client@3.0.6
 - pkg:cargo/turbomcp-client@3.0.7
 - pkg:cargo/turbomcp-client@3.0.8
+- pkg:cargo/turbomcp-client@3.0.9

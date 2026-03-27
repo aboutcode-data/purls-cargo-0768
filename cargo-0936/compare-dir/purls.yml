@@ -8,3 +8,4 @@
 - pkg:cargo/compare-dir@0.2.4
 - pkg:cargo/compare-dir@0.3.0
 - pkg:cargo/compare-dir@0.3.1
+- pkg:cargo/compare-dir@0.4.0
