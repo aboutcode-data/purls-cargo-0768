@@ -20,3 +20,4 @@
 - pkg:cargo/mangadex-api-schema-rust@0.8.0
 - pkg:cargo/mangadex-api-schema-rust@0.9.0
 - pkg:cargo/mangadex-api-schema-rust@1.0.0
+- pkg:cargo/mangadex-api-schema-rust@1.1.0
