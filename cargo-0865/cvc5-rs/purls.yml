@@ -2,3 +2,4 @@
 - pkg:cargo/cvc5-rs@0.2.0
 - pkg:cargo/cvc5-rs@0.3.0
 - pkg:cargo/cvc5-rs@0.3.1
+- pkg:cargo/cvc5-rs@0.3.2
