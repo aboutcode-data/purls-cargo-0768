@@ -790,6 +790,8 @@
 - pkg:cargo/cf-colo-hint@0.1.811
 - pkg:cargo/cf-colo-hint@0.1.812
 - pkg:cargo/cf-colo-hint@0.1.813
+- pkg:cargo/cf-colo-hint@0.1.814
+- pkg:cargo/cf-colo-hint@0.1.815
 - pkg:cargo/cf-colo-hint@0.1.82
 - pkg:cargo/cf-colo-hint@0.1.83
 - pkg:cargo/cf-colo-hint@0.1.84
