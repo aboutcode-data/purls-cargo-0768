@@ -198,6 +198,7 @@
 - pkg:cargo/cc@1.2.55
 - pkg:cargo/cc@1.2.56
 - pkg:cargo/cc@1.2.57
+- pkg:cargo/cc@1.2.58
 - pkg:cargo/cc@1.2.6
 - pkg:cargo/cc@1.2.7
 - pkg:cargo/cc@1.2.8
