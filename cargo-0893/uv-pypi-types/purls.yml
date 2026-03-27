@@ -26,6 +26,7 @@
 - pkg:cargo/uv-pypi-types@0.0.32
 - pkg:cargo/uv-pypi-types@0.0.33
 - pkg:cargo/uv-pypi-types@0.0.34
+- pkg:cargo/uv-pypi-types@0.0.35
 - pkg:cargo/uv-pypi-types@0.0.4
 - pkg:cargo/uv-pypi-types@0.0.5
 - pkg:cargo/uv-pypi-types@0.0.6
