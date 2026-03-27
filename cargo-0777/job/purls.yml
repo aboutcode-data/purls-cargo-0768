@@ -38,6 +38,7 @@
 - pkg:cargo/job@0.6.10
 - pkg:cargo/job@0.6.11
 - pkg:cargo/job@0.6.12
+- pkg:cargo/job@0.6.13
 - pkg:cargo/job@0.6.2
 - pkg:cargo/job@0.6.3
 - pkg:cargo/job@0.6.4
