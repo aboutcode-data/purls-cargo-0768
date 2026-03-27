@@ -1,4 +1,5 @@
 - pkg:cargo/rspack_cacheable_macros@0.100.0-beta.8
+- pkg:cargo/rspack_cacheable_macros@0.100.0-beta.9
 - pkg:cargo/rspack_cacheable_macros@0.6.8
 - pkg:cargo/rspack_cacheable_macros@0.7.0
 - pkg:cargo/rspack_cacheable_macros@0.7.0-beta.0
