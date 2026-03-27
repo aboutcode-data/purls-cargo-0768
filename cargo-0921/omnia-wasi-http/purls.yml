@@ -1,1 +1,2 @@
 - pkg:cargo/omnia-wasi-http@0.28.0
+- pkg:cargo/omnia-wasi-http@0.29.0
