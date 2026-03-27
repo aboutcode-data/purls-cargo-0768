@@ -11,3 +11,4 @@
 - pkg:cargo/embedded-test-macros@0.7.0-alpha.0
 - pkg:cargo/embedded-test-macros@0.7.0-alpha.1
 - pkg:cargo/embedded-test-macros@0.7.0-alpha.2
+- pkg:cargo/embedded-test-macros@0.8.0
