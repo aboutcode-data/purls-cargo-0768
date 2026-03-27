@@ -1,3 +1,4 @@
+- pkg:cargo/host-encoding@0.3.11
 - pkg:cargo/host-encoding@0.3.2
 - pkg:cargo/host-encoding@0.3.3
 - pkg:cargo/host-encoding@0.3.4
