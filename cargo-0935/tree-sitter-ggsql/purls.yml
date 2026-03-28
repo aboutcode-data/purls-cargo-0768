@@ -1,3 +1,4 @@
 - pkg:cargo/tree-sitter-ggsql@0.1.0
 - pkg:cargo/tree-sitter-ggsql@0.1.7
 - pkg:cargo/tree-sitter-ggsql@0.1.8
+- pkg:cargo/tree-sitter-ggsql@0.1.9
