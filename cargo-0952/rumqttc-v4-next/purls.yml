@@ -1,1 +1,2 @@
 - pkg:cargo/rumqttc-v4-next@0.28.0
+- pkg:cargo/rumqttc-v4-next@0.29.0
