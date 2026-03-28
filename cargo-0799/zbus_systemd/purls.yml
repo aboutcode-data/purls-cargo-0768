@@ -22,3 +22,4 @@
 - pkg:cargo/zbus_systemd@0.25800.0
 - pkg:cargo/zbus_systemd@0.25900.0
 - pkg:cargo/zbus_systemd@0.25901.0
+- pkg:cargo/zbus_systemd@0.26000.0
