@@ -5,3 +5,4 @@
 - pkg:cargo/tokmd-tokeignore@1.8.0
 - pkg:cargo/tokmd-tokeignore@1.8.0-rc.1
 - pkg:cargo/tokmd-tokeignore@1.8.1
+- pkg:cargo/tokmd-tokeignore@1.9.0

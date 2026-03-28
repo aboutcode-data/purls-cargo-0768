@@ -3,3 +3,4 @@
 - pkg:cargo/tokmd-badge@1.7.3
 - pkg:cargo/tokmd-badge@1.8.0
 - pkg:cargo/tokmd-badge@1.8.1
+- pkg:cargo/tokmd-badge@1.9.0
