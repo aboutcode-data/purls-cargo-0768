@@ -9,3 +9,4 @@
 - pkg:cargo/reifydb-client-derive@0.4.2
 - pkg:cargo/reifydb-client-derive@0.4.5
 - pkg:cargo/reifydb-client-derive@0.4.6
+- pkg:cargo/reifydb-client-derive@0.4.7
