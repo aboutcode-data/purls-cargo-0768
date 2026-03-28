@@ -22,6 +22,7 @@
 - pkg:cargo/sys_alloc@0.8.16
 - pkg:cargo/sys_alloc@0.8.17
 - pkg:cargo/sys_alloc@0.8.18
+- pkg:cargo/sys_alloc@0.8.19
 - pkg:cargo/sys_alloc@0.8.2
 - pkg:cargo/sys_alloc@0.8.3
 - pkg:cargo/sys_alloc@0.8.4
