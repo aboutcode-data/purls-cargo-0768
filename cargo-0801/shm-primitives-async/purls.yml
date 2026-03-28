@@ -1,5 +1,7 @@
 - pkg:cargo/shm-primitives-async@0.0.0
 - pkg:cargo/shm-primitives-async@0.2.0
+- pkg:cargo/shm-primitives-async@0.2.1
+- pkg:cargo/shm-primitives-async@0.2.2
 - pkg:cargo/shm-primitives-async@7.0.0
 - pkg:cargo/shm-primitives-async@7.0.0-alpha.1
 - pkg:cargo/shm-primitives-async@7.0.0-alpha.2
