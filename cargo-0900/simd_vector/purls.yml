@@ -9,3 +9,6 @@
 - pkg:cargo/simd_vector@0.2.5
 - pkg:cargo/simd_vector@0.3.0
 - pkg:cargo/simd_vector@0.3.1
+- pkg:cargo/simd_vector@0.4.0
+- pkg:cargo/simd_vector@0.4.1
+- pkg:cargo/simd_vector@0.4.2
