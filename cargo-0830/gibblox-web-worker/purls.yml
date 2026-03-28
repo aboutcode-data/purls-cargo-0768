@@ -1,3 +1,4 @@
+- pkg:cargo/gibblox-web-worker@0.0.1
 - pkg:cargo/gibblox-web-worker@0.0.1-rc.10
 - pkg:cargo/gibblox-web-worker@0.0.1-rc.11
 - pkg:cargo/gibblox-web-worker@0.0.1-rc.12
