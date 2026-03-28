@@ -7,3 +7,4 @@
 - pkg:cargo/dicom-echoscu@0.7.0
 - pkg:cargo/dicom-echoscu@0.8.0
 - pkg:cargo/dicom-echoscu@0.9.0
+- pkg:cargo/dicom-echoscu@0.9.1
