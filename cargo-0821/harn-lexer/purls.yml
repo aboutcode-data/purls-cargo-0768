@@ -1,2 +1,8 @@
 - pkg:cargo/harn-lexer@0.2.1
+- pkg:cargo/harn-lexer@0.2.10
 - pkg:cargo/harn-lexer@0.2.5
+- pkg:cargo/harn-lexer@0.2.7
+- pkg:cargo/harn-lexer@0.2.8
+- pkg:cargo/harn-lexer@0.2.9
+- pkg:cargo/harn-lexer@0.3.0
+- pkg:cargo/harn-lexer@0.3.1
