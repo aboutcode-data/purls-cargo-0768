@@ -12,3 +12,5 @@
 - pkg:cargo/byokey-provider@0.5.3
 - pkg:cargo/byokey-provider@0.6.0
 - pkg:cargo/byokey-provider@0.7.0
+- pkg:cargo/byokey-provider@0.7.1
+- pkg:cargo/byokey-provider@0.8.0
