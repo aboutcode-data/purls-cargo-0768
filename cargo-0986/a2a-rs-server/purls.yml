@@ -3,6 +3,8 @@
 - pkg:cargo/a2a-rs-server@1.0.10
 - pkg:cargo/a2a-rs-server@1.0.11
 - pkg:cargo/a2a-rs-server@1.0.12
+- pkg:cargo/a2a-rs-server@1.0.13
+- pkg:cargo/a2a-rs-server@1.0.14
 - pkg:cargo/a2a-rs-server@1.0.2
 - pkg:cargo/a2a-rs-server@1.0.3
 - pkg:cargo/a2a-rs-server@1.0.4
