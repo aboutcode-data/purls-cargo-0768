@@ -4,3 +4,4 @@
 - pkg:cargo/seam-codegen@0.5.10
 - pkg:cargo/seam-codegen@0.5.27
 - pkg:cargo/seam-codegen@0.5.31
+- pkg:cargo/seam-codegen@0.5.38
