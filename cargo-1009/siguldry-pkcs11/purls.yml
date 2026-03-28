@@ -1,1 +1,2 @@
 - pkg:cargo/siguldry-pkcs11@1.0.0
+- pkg:cargo/siguldry-pkcs11@2.0.0
