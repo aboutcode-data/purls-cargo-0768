@@ -57,6 +57,7 @@
 - pkg:cargo/pallet-authority-discovery@43.0.0
 - pkg:cargo/pallet-authority-discovery@44.0.0
 - pkg:cargo/pallet-authority-discovery@45.0.0
+- pkg:cargo/pallet-authority-discovery@46.0.0
 - pkg:cargo/pallet-authority-discovery@5.0.0
 - pkg:cargo/pallet-authority-discovery@6.0.0
 - pkg:cargo/pallet-authority-discovery@7.0.0
