@@ -2,3 +2,4 @@
 - pkg:cargo/cmn-substrate@0.1.1
 - pkg:cargo/cmn-substrate@0.1.2
 - pkg:cargo/cmn-substrate@0.1.3
+- pkg:cargo/cmn-substrate@0.2.0
