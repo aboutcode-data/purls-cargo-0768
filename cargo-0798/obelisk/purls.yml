@@ -63,6 +63,7 @@
 - pkg:cargo/obelisk@0.35.2
 - pkg:cargo/obelisk@0.35.3
 - pkg:cargo/obelisk@0.35.4
+- pkg:cargo/obelisk@0.36.0
 - pkg:cargo/obelisk@0.6.0
 - pkg:cargo/obelisk@0.6.1
 - pkg:cargo/obelisk@0.7.0
