@@ -1,5 +1,7 @@
 - pkg:cargo/link-calculator@0.1.0
 - pkg:cargo/link-calculator@0.1.1
+- pkg:cargo/link-calculator@0.10.0
+- pkg:cargo/link-calculator@0.11.0
 - pkg:cargo/link-calculator@0.2.0
 - pkg:cargo/link-calculator@0.2.1
 - pkg:cargo/link-calculator@0.3.0
@@ -18,3 +20,5 @@
 - pkg:cargo/link-calculator@0.8.4
 - pkg:cargo/link-calculator@0.8.5
 - pkg:cargo/link-calculator@0.9.0
+- pkg:cargo/link-calculator@0.9.1
+- pkg:cargo/link-calculator@0.9.2
