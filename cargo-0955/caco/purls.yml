@@ -8,3 +8,5 @@
 - pkg:cargo/caco@0.4.18
 - pkg:cargo/caco@0.4.81
 - pkg:cargo/caco@0.4.86
+- pkg:cargo/caco@0.5.3
+- pkg:cargo/caco@0.5.33
