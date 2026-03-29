@@ -26,6 +26,7 @@
 - pkg:cargo/cashu@0.15.2-rc.0
 - pkg:cargo/cashu@0.16.0-rc.0
 - pkg:cargo/cashu@0.16.0-rc.1
+- pkg:cargo/cashu@0.16.0-rc.2
 - pkg:cargo/cashu@0.7.0
 - pkg:cargo/cashu@0.7.1
 - pkg:cargo/cashu@0.8.0
