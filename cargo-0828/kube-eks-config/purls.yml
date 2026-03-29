@@ -1,1 +1,2 @@
 - pkg:cargo/kube-eks-config@0.1.1
+- pkg:cargo/kube-eks-config@3.0.0
