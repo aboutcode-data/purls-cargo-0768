@@ -2,3 +2,4 @@
 - pkg:cargo/sonos-sdk-discovery@0.2.0
 - pkg:cargo/sonos-sdk-discovery@0.2.1
 - pkg:cargo/sonos-sdk-discovery@0.3.0
+- pkg:cargo/sonos-sdk-discovery@0.4.0
