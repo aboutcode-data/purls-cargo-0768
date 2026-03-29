@@ -22,3 +22,5 @@
 - pkg:cargo/forge-macros@0.7.3
 - pkg:cargo/forge-macros@0.7.4
 - pkg:cargo/forge-macros@0.8.0
+- pkg:cargo/forge-macros@0.8.1
+- pkg:cargo/forge-macros@0.8.2
