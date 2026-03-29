@@ -24,3 +24,5 @@
 - pkg:cargo/sevenmark_html@2.27.1
 - pkg:cargo/sevenmark_html@2.27.2
 - pkg:cargo/sevenmark_html@2.27.6
+- pkg:cargo/sevenmark_html@2.28.0
+- pkg:cargo/sevenmark_html@2.28.1
