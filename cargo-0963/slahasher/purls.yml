@@ -8,3 +8,4 @@
 - pkg:cargo/slahasher@0.3.11
 - pkg:cargo/slahasher@0.3.12
 - pkg:cargo/slahasher@0.3.13
+- pkg:cargo/slahasher@0.5.0
