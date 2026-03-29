@@ -1,4 +1,5 @@
 - pkg:cargo/chunk@0.1.0
+- pkg:cargo/chunk@0.10.0
 - pkg:cargo/chunk@0.4.0
 - pkg:cargo/chunk@0.7.0
 - pkg:cargo/chunk@0.8.0
