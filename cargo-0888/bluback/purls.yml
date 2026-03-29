@@ -7,3 +7,5 @@
 - pkg:cargo/bluback@0.8.0
 - pkg:cargo/bluback@0.8.1
 - pkg:cargo/bluback@0.8.2
+- pkg:cargo/bluback@0.9.1
+- pkg:cargo/bluback@0.9.2
