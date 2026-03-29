@@ -10,3 +10,4 @@
 - pkg:cargo/generic_singleton@0.4.1
 - pkg:cargo/generic_singleton@0.5.0
 - pkg:cargo/generic_singleton@0.5.1
+- pkg:cargo/generic_singleton@0.5.2

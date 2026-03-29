@@ -4,6 +4,8 @@
 - pkg:cargo/iftoprs@2.11.0
 - pkg:cargo/iftoprs@2.12.0
 - pkg:cargo/iftoprs@2.13.0
+- pkg:cargo/iftoprs@2.14.0
+- pkg:cargo/iftoprs@2.15.0
 - pkg:cargo/iftoprs@2.2.0
 - pkg:cargo/iftoprs@2.3.0
 - pkg:cargo/iftoprs@2.4.0
