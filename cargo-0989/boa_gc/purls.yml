@@ -10,3 +10,4 @@
 - pkg:cargo/boa_gc@0.19.1
 - pkg:cargo/boa_gc@0.20.0
 - pkg:cargo/boa_gc@0.21.0
+- pkg:cargo/boa_gc@0.21.1
