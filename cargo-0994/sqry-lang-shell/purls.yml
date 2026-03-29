@@ -2,3 +2,4 @@
 - pkg:cargo/sqry-lang-shell@4.10.1
 - pkg:cargo/sqry-lang-shell@4.10.13
 - pkg:cargo/sqry-lang-shell@4.12.6
+- pkg:cargo/sqry-lang-shell@4.12.7
