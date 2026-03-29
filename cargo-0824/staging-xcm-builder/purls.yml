@@ -36,6 +36,7 @@
 - pkg:cargo/staging-xcm-builder@23.0.0
 - pkg:cargo/staging-xcm-builder@24.0.0
 - pkg:cargo/staging-xcm-builder@25.0.0
+- pkg:cargo/staging-xcm-builder@26.0.0
 - pkg:cargo/staging-xcm-builder@3.0.0
 - pkg:cargo/staging-xcm-builder@3.0.0-dev.1
 - pkg:cargo/staging-xcm-builder@3.0.1
