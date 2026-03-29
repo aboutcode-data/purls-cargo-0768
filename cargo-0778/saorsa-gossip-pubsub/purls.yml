@@ -37,3 +37,4 @@
 - pkg:cargo/saorsa-gossip-pubsub@0.5.6
 - pkg:cargo/saorsa-gossip-pubsub@0.5.7
 - pkg:cargo/saorsa-gossip-pubsub@0.5.8
+- pkg:cargo/saorsa-gossip-pubsub@0.5.9

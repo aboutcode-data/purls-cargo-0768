@@ -1,3 +1,4 @@
+- pkg:cargo/mx@0.1.100
 - pkg:cargo/mx@0.1.15
 - pkg:cargo/mx@0.1.16
 - pkg:cargo/mx@0.1.17
@@ -72,3 +73,4 @@
 - pkg:cargo/mx@0.1.96
 - pkg:cargo/mx@0.1.97
 - pkg:cargo/mx@0.1.98
+- pkg:cargo/mx@0.1.99
