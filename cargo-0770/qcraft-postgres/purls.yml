@@ -10,3 +10,5 @@
 - pkg:cargo/qcraft-postgres@2.1.2
 - pkg:cargo/qcraft-postgres@2.2.0
 - pkg:cargo/qcraft-postgres@2.3.0
+- pkg:cargo/qcraft-postgres@2.4.0
+- pkg:cargo/qcraft-postgres@2.4.1
