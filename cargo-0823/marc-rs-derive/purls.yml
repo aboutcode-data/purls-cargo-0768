@@ -1,3 +1,4 @@
 - pkg:cargo/marc-rs-derive@0.1.0
 - pkg:cargo/marc-rs-derive@0.1.1
 - pkg:cargo/marc-rs-derive@1.0.0
+- pkg:cargo/marc-rs-derive@1.0.1
