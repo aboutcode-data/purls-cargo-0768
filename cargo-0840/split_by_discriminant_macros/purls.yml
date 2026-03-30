@@ -5,3 +5,5 @@
 - pkg:cargo/split_by_discriminant_macros@0.1.5
 - pkg:cargo/split_by_discriminant_macros@0.1.6
 - pkg:cargo/split_by_discriminant_macros@0.1.7
+- pkg:cargo/split_by_discriminant_macros@0.6.0
+- pkg:cargo/split_by_discriminant_macros@0.6.1
