@@ -64,6 +64,7 @@
 - pkg:cargo/css_feature_data@0.0.2-canary.df6f19b9c8c8be01b090ed083694a0f6f7e2d10e
 - pkg:cargo/css_feature_data@0.0.2-canary.eee508abc638b1b285b39d2b9e4e255aa1664a46
 - pkg:cargo/css_feature_data@0.0.2-canary.fefe08828bc3762182ad48a40dfc0996b2ac9add
+- pkg:cargo/css_feature_data@0.0.20-canary.73b427d7b2
 - pkg:cargo/css_feature_data@0.0.3
 - pkg:cargo/css_feature_data@0.0.3-canary.4172a21495e4050b4c3b7574bbaf53fb7c6580f3
 - pkg:cargo/css_feature_data@0.0.3-canary.4332f41d5516c322805fe6124284902998343b14

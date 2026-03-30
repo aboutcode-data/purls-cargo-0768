@@ -53,6 +53,7 @@
 - pkg:cargo/csskit_spec_generator@0.0.19-canary.3dd306bf32
 - pkg:cargo/csskit_spec_generator@0.0.19-canary.d8f21f6277
 - pkg:cargo/csskit_spec_generator@0.0.19-canary.eb5adcab3a
+- pkg:cargo/csskit_spec_generator@0.0.20-canary.73b427d7b2
 - pkg:cargo/csskit_spec_generator@0.0.7
 - pkg:cargo/csskit_spec_generator@0.0.7-canary.477dda2a83
 - pkg:cargo/csskit_spec_generator@0.0.7-canary.5147d83ce7
