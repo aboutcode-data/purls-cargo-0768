@@ -71,6 +71,7 @@
 - pkg:cargo/vortex-alp@0.64.0
 - pkg:cargo/vortex-alp@0.65.0
 - pkg:cargo/vortex-alp@0.66.0
+- pkg:cargo/vortex-alp@0.67.0
 - pkg:cargo/vortex-alp@0.7.0
 - pkg:cargo/vortex-alp@0.8.0
 - pkg:cargo/vortex-alp@0.9.0
