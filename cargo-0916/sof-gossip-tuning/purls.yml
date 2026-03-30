@@ -8,6 +8,9 @@
 - pkg:cargo/sof-gossip-tuning@0.15.0
 - pkg:cargo/sof-gossip-tuning@0.16.0
 - pkg:cargo/sof-gossip-tuning@0.17.0
+- pkg:cargo/sof-gossip-tuning@0.17.1
+- pkg:cargo/sof-gossip-tuning@0.17.2
+- pkg:cargo/sof-gossip-tuning@0.17.3
 - pkg:cargo/sof-gossip-tuning@0.7.0
 - pkg:cargo/sof-gossip-tuning@0.7.1
 - pkg:cargo/sof-gossip-tuning@0.8.0

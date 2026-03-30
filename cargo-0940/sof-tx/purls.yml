@@ -9,6 +9,9 @@
 - pkg:cargo/sof-tx@0.15.0
 - pkg:cargo/sof-tx@0.16.0
 - pkg:cargo/sof-tx@0.17.0
+- pkg:cargo/sof-tx@0.17.1
+- pkg:cargo/sof-tx@0.17.2
+- pkg:cargo/sof-tx@0.17.3
 - pkg:cargo/sof-tx@0.2.0
 - pkg:cargo/sof-tx@0.3.0
 - pkg:cargo/sof-tx@0.4.0
