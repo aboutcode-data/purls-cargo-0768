@@ -1,2 +1,3 @@
 - pkg:cargo/fetchlib@0.0.1
 - pkg:cargo/fetchlib@0.0.11
+- pkg:cargo/fetchlib@0.0.12
