@@ -1,3 +1,5 @@
+- pkg:cargo/tmp-postgrust@0.10.0
+- pkg:cargo/tmp-postgrust@0.10.1
 - pkg:cargo/tmp-postgrust@0.5.0
 - pkg:cargo/tmp-postgrust@0.5.1
 - pkg:cargo/tmp-postgrust@0.6.0
