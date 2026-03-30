@@ -27,3 +27,5 @@
 - pkg:cargo/rstsr@0.6.0-alpha.1
 - pkg:cargo/rstsr@0.6.1
 - pkg:cargo/rstsr@0.6.2
+- pkg:cargo/rstsr@0.7.0
+- pkg:cargo/rstsr@0.7.1

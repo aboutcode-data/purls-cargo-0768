@@ -1,1 +1,2 @@
 - pkg:cargo/perl-dap-command-args@0.11.0
+- pkg:cargo/perl-dap-command-args@0.12.0

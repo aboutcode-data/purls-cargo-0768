@@ -35,3 +35,4 @@
 - pkg:cargo/vtcode-tui@0.93.2
 - pkg:cargo/vtcode-tui@0.93.3
 - pkg:cargo/vtcode-tui@0.94.0
+- pkg:cargo/vtcode-tui@0.95.0
