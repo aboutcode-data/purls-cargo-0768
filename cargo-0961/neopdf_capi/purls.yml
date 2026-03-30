@@ -18,3 +18,4 @@
 - pkg:cargo/neopdf_capi@0.3.0-alpha4
 - pkg:cargo/neopdf_capi@0.3.0-alpha5
 - pkg:cargo/neopdf_capi@0.3.1
+- pkg:cargo/neopdf_capi@0.3.2

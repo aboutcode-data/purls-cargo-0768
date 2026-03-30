@@ -5,3 +5,5 @@
 - pkg:cargo/pkcore@0.0.26
 - pkg:cargo/pkcore@0.0.28
 - pkg:cargo/pkcore@0.0.29
+- pkg:cargo/pkcore@0.0.30
+- pkg:cargo/pkcore@0.0.31
