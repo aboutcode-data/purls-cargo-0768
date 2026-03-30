@@ -28,3 +28,4 @@
 - pkg:cargo/z3950-rs@0.3.8
 - pkg:cargo/z3950-rs@0.3.9
 - pkg:cargo/z3950-rs@1.0.0
+- pkg:cargo/z3950-rs@1.0.1
