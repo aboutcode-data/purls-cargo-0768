@@ -1,2 +1,4 @@
 - pkg:cargo/fidius-cli@0.0.0-alpha.1
 - pkg:cargo/fidius-cli@0.0.1
+- pkg:cargo/fidius-cli@0.0.2
+- pkg:cargo/fidius-cli@0.0.3
