@@ -15,3 +15,5 @@
 - pkg:cargo/devops-armory@0.5.5
 - pkg:cargo/devops-armory@0.5.6
 - pkg:cargo/devops-armory@0.6.0
+- pkg:cargo/devops-armory@0.6.1
+- pkg:cargo/devops-armory@0.6.2
