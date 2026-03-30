@@ -17,3 +17,5 @@
 - pkg:cargo/wagner@0.4.1
 - pkg:cargo/wagner@0.5.0
 - pkg:cargo/wagner@0.5.1
+- pkg:cargo/wagner@0.5.2
+- pkg:cargo/wagner@0.5.3
