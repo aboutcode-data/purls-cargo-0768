@@ -31,3 +31,5 @@
 - pkg:cargo/sqlxo_macros@0.7.5
 - pkg:cargo/sqlxo_macros@0.7.6
 - pkg:cargo/sqlxo_macros@0.7.9
+- pkg:cargo/sqlxo_macros@0.8.1
+- pkg:cargo/sqlxo_macros@0.8.2
