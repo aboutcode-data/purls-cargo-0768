@@ -18,6 +18,7 @@
 - pkg:cargo/mkutils-macros@0.1.113
 - pkg:cargo/mkutils-macros@0.1.114
 - pkg:cargo/mkutils-macros@0.1.115
+- pkg:cargo/mkutils-macros@0.1.116
 - pkg:cargo/mkutils-macros@0.1.12
 - pkg:cargo/mkutils-macros@0.1.13
 - pkg:cargo/mkutils-macros@0.1.14
