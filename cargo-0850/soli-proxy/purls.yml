@@ -7,6 +7,11 @@
 - pkg:cargo/soli-proxy@0.14.1
 - pkg:cargo/soli-proxy@0.14.2
 - pkg:cargo/soli-proxy@0.15.0
+- pkg:cargo/soli-proxy@0.19.14
+- pkg:cargo/soli-proxy@0.19.15
+- pkg:cargo/soli-proxy@0.19.16
+- pkg:cargo/soli-proxy@0.19.17
+- pkg:cargo/soli-proxy@0.19.18
 - pkg:cargo/soli-proxy@0.3.0
 - pkg:cargo/soli-proxy@0.4.0
 - pkg:cargo/soli-proxy@0.6.0
