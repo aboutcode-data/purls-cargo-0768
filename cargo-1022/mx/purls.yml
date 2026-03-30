@@ -1,5 +1,6 @@
 - pkg:cargo/mx@0.1.100
 - pkg:cargo/mx@0.1.101
+- pkg:cargo/mx@0.1.102
 - pkg:cargo/mx@0.1.15
 - pkg:cargo/mx@0.1.16
 - pkg:cargo/mx@0.1.17
