@@ -10,6 +10,7 @@
 - pkg:cargo/ccboard-tui@0.16.4
 - pkg:cargo/ccboard-tui@0.16.5
 - pkg:cargo/ccboard-tui@0.17.0
+- pkg:cargo/ccboard-tui@0.21.0
 - pkg:cargo/ccboard-tui@0.5.2
 - pkg:cargo/ccboard-tui@0.6.3
 - pkg:cargo/ccboard-tui@0.6.4
