@@ -32,6 +32,7 @@
 - pkg:cargo/saorsa-gossip-identity@0.4.6
 - pkg:cargo/saorsa-gossip-identity@0.4.7
 - pkg:cargo/saorsa-gossip-identity@0.5.1
+- pkg:cargo/saorsa-gossip-identity@0.5.10
 - pkg:cargo/saorsa-gossip-identity@0.5.2
 - pkg:cargo/saorsa-gossip-identity@0.5.3
 - pkg:cargo/saorsa-gossip-identity@0.5.4
