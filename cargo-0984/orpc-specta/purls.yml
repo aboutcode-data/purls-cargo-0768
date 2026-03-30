@@ -1,2 +1,3 @@
 - pkg:cargo/orpc-specta@0.1.1
 - pkg:cargo/orpc-specta@0.1.2
+- pkg:cargo/orpc-specta@1.0.0
