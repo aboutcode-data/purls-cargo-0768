@@ -12,6 +12,7 @@
 - pkg:cargo/radicle-ci-ambient@0.14.0
 - pkg:cargo/radicle-ci-ambient@0.15.0
 - pkg:cargo/radicle-ci-ambient@0.16.0
+- pkg:cargo/radicle-ci-ambient@0.18.0
 - pkg:cargo/radicle-ci-ambient@0.2.0
 - pkg:cargo/radicle-ci-ambient@0.2.1
 - pkg:cargo/radicle-ci-ambient@0.2.2
