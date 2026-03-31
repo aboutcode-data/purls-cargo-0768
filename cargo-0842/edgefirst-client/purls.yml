@@ -19,3 +19,4 @@
 - pkg:cargo/edgefirst-client@2.7.3
 - pkg:cargo/edgefirst-client@2.8.0
 - pkg:cargo/edgefirst-client@2.9.0
+- pkg:cargo/edgefirst-client@2.9.1
