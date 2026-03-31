@@ -12,3 +12,4 @@
 - pkg:cargo/feagi-npu-runtime@0.0.2
 - pkg:cargo/feagi-npu-runtime@0.0.3
 - pkg:cargo/feagi-npu-runtime@0.0.4
+- pkg:cargo/feagi-npu-runtime@0.0.5
