@@ -2,6 +2,7 @@
 - pkg:cargo/rspack_hash@0.1.0
 - pkg:cargo/rspack_hash@0.100.0-beta.8
 - pkg:cargo/rspack_hash@0.100.0-beta.9
+- pkg:cargo/rspack_hash@0.101.0-beta.0
 - pkg:cargo/rspack_hash@0.2.0
 - pkg:cargo/rspack_hash@0.2.1-alpha.0
 - pkg:cargo/rspack_hash@0.2.1-alpha.1
