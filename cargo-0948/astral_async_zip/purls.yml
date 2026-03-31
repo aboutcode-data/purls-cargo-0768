@@ -1,1 +1,2 @@
 - pkg:cargo/astral_async_zip@0.0.17
+- pkg:cargo/astral_async_zip@0.0.18-rc1
