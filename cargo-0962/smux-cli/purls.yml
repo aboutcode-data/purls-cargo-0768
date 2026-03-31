@@ -1,1 +1,2 @@
 - pkg:cargo/smux-cli@0.1.4
+- pkg:cargo/smux-cli@0.1.6

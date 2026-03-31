@@ -7,3 +7,4 @@
 - pkg:cargo/neptunium-http@0.2.5
 - pkg:cargo/neptunium-http@0.2.6
 - pkg:cargo/neptunium-http@0.2.7
+- pkg:cargo/neptunium-http@0.3.0
