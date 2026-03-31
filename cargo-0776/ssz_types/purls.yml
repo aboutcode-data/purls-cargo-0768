@@ -6,6 +6,7 @@
 - pkg:cargo/ssz_types@0.12.2
 - pkg:cargo/ssz_types@0.13.0
 - pkg:cargo/ssz_types@0.14.0
+- pkg:cargo/ssz_types@0.14.1
 - pkg:cargo/ssz_types@0.5.0
 - pkg:cargo/ssz_types@0.5.1
 - pkg:cargo/ssz_types@0.5.2

@@ -24,6 +24,10 @@
 - pkg:cargo/php-lsp@0.1.37
 - pkg:cargo/php-lsp@0.1.39
 - pkg:cargo/php-lsp@0.1.40
+- pkg:cargo/php-lsp@0.1.41
+- pkg:cargo/php-lsp@0.1.42
+- pkg:cargo/php-lsp@0.1.43
+- pkg:cargo/php-lsp@0.1.44
 - pkg:cargo/php-lsp@0.1.5
 - pkg:cargo/php-lsp@0.1.6
 - pkg:cargo/php-lsp@0.1.7
