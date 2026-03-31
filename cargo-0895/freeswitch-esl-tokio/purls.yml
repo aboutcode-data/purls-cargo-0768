@@ -19,3 +19,4 @@
 - pkg:cargo/freeswitch-esl-tokio@2.0.0-beta.6
 - pkg:cargo/freeswitch-esl-tokio@2.0.0-beta.7
 - pkg:cargo/freeswitch-esl-tokio@2.0.0-beta.8
+- pkg:cargo/freeswitch-esl-tokio@2.0.0-beta.9
