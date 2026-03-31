@@ -19,6 +19,7 @@
 - pkg:cargo/mockforge-core@0.3.101
 - pkg:cargo/mockforge-core@0.3.102
 - pkg:cargo/mockforge-core@0.3.103
+- pkg:cargo/mockforge-core@0.3.104
 - pkg:cargo/mockforge-core@0.3.11
 - pkg:cargo/mockforge-core@0.3.12
 - pkg:cargo/mockforge-core@0.3.13
