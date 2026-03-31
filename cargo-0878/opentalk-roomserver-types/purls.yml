@@ -21,6 +21,7 @@
 - pkg:cargo/opentalk-roomserver-types@0.0.28
 - pkg:cargo/opentalk-roomserver-types@0.0.29
 - pkg:cargo/opentalk-roomserver-types@0.0.3
+- pkg:cargo/opentalk-roomserver-types@0.0.31
 - pkg:cargo/opentalk-roomserver-types@0.0.5
 - pkg:cargo/opentalk-roomserver-types@0.0.6
 - pkg:cargo/opentalk-roomserver-types@0.0.7

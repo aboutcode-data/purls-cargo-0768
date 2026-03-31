@@ -18,5 +18,6 @@
 - pkg:cargo/opentalk-roomserver-types-whiteboard@0.0.27
 - pkg:cargo/opentalk-roomserver-types-whiteboard@0.0.28
 - pkg:cargo/opentalk-roomserver-types-whiteboard@0.0.29
+- pkg:cargo/opentalk-roomserver-types-whiteboard@0.0.31
 - pkg:cargo/opentalk-roomserver-types-whiteboard@0.0.8
 - pkg:cargo/opentalk-roomserver-types-whiteboard@0.0.9

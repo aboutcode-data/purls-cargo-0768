@@ -2,3 +2,4 @@
 - pkg:cargo/opentalk-roomserver-module-livekit@0.0.27
 - pkg:cargo/opentalk-roomserver-module-livekit@0.0.28
 - pkg:cargo/opentalk-roomserver-module-livekit@0.0.29
+- pkg:cargo/opentalk-roomserver-module-livekit@0.0.31
