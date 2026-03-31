@@ -2,3 +2,4 @@
 - pkg:cargo/blit-server@0.12.1
 - pkg:cargo/blit-server@0.12.2
 - pkg:cargo/blit-server@0.13.0
+- pkg:cargo/blit-server@0.13.1

@@ -49,3 +49,4 @@
 - pkg:cargo/mech-interpreter@0.2.75
 - pkg:cargo/mech-interpreter@0.3.0
 - pkg:cargo/mech-interpreter@0.3.1
+- pkg:cargo/mech-interpreter@0.3.2
