@@ -1,1 +1,2 @@
 - pkg:cargo/zcash-memo-decode@0.1.0
+- pkg:cargo/zcash-memo-decode@0.1.1

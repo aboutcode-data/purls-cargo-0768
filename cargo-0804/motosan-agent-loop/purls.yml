@@ -3,3 +3,5 @@
 - pkg:cargo/motosan-agent-loop@0.7.0
 - pkg:cargo/motosan-agent-loop@0.7.1
 - pkg:cargo/motosan-agent-loop@0.8.0
+- pkg:cargo/motosan-agent-loop@0.8.1
+- pkg:cargo/motosan-agent-loop@0.8.2
