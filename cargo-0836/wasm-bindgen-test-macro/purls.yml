@@ -96,6 +96,7 @@
 - pkg:cargo/wasm-bindgen-test-macro@0.3.63
 - pkg:cargo/wasm-bindgen-test-macro@0.3.64
 - pkg:cargo/wasm-bindgen-test-macro@0.3.65
+- pkg:cargo/wasm-bindgen-test-macro@0.3.66
 - pkg:cargo/wasm-bindgen-test-macro@0.3.7
 - pkg:cargo/wasm-bindgen-test-macro@0.3.8
 - pkg:cargo/wasm-bindgen-test-macro@0.3.9
