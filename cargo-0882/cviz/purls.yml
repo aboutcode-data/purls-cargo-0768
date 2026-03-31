@@ -2,3 +2,4 @@
 - pkg:cargo/cviz@1.0.1
 - pkg:cargo/cviz@1.1.0
 - pkg:cargo/cviz@2.0.0-rc1
+- pkg:cargo/cviz@2.0.0-rc2
