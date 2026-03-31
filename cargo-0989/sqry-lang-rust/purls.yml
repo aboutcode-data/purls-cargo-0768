@@ -4,3 +4,4 @@
 - pkg:cargo/sqry-lang-rust@4.12.6
 - pkg:cargo/sqry-lang-rust@4.12.7
 - pkg:cargo/sqry-lang-rust@4.8.16
+- pkg:cargo/sqry-lang-rust@5.0.1
