@@ -1,0 +1,2 @@
+- pkg:cargo/hadb-lease-etcd@0.2.0
+- pkg:cargo/hadb-lease-etcd@0.2.1

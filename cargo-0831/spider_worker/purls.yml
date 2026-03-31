@@ -1626,6 +1626,8 @@
 - pkg:cargo/spider_worker@2.47.93
 - pkg:cargo/spider_worker@2.48.1
 - pkg:cargo/spider_worker@2.48.10
+- pkg:cargo/spider_worker@2.48.11
+- pkg:cargo/spider_worker@2.48.12
 - pkg:cargo/spider_worker@2.48.2
 - pkg:cargo/spider_worker@2.48.3
 - pkg:cargo/spider_worker@2.48.4
