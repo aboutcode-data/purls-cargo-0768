@@ -1,2 +1,5 @@
 - pkg:cargo/orca-ai@0.0.1
 - pkg:cargo/orca-ai@0.0.2
+- pkg:cargo/orca-ai@0.0.4
+- pkg:cargo/orca-ai@0.0.5
+- pkg:cargo/orca-ai@0.0.6
