@@ -1,1 +1,2 @@
 - pkg:cargo/watch_dir@1.0.0
+- pkg:cargo/watch_dir@1.0.1
