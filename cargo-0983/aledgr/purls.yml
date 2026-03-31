@@ -1,6 +1,9 @@
 - pkg:cargo/aledgr@0.11.0
 - pkg:cargo/aledgr@0.12.0
 - pkg:cargo/aledgr@0.13.0
+- pkg:cargo/aledgr@0.13.1
+- pkg:cargo/aledgr@0.14.1
+- pkg:cargo/aledgr@0.15.0
 - pkg:cargo/aledgr@0.8.0
 - pkg:cargo/aledgr@0.8.1
 - pkg:cargo/aledgr@0.8.2
