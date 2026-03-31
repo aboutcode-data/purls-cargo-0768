@@ -1,2 +1,3 @@
 - pkg:cargo/telltale-language@7.0.0
 - pkg:cargo/telltale-language@8.0.0
+- pkg:cargo/telltale-language@9.0.0
