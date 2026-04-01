@@ -21,3 +21,4 @@
 - pkg:cargo/fast-yaml-parallel@0.5.2
 - pkg:cargo/fast-yaml-parallel@0.5.3
 - pkg:cargo/fast-yaml-parallel@0.6.0
+- pkg:cargo/fast-yaml-parallel@0.6.1

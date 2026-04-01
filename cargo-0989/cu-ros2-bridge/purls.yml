@@ -1,2 +1,3 @@
 - pkg:cargo/cu-ros2-bridge@0.13.1
 - pkg:cargo/cu-ros2-bridge@0.14.0
+- pkg:cargo/cu-ros2-bridge@0.15.0
