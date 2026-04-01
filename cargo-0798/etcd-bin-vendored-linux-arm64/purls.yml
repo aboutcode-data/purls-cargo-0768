@@ -5,11 +5,13 @@
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.4.39
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.4.40
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.4.41
+- pkg:cargo/etcd-bin-vendored-linux-arm64@3.4.42
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.5.23
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.5.24
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.5.25
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.5.26
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.5.27
+- pkg:cargo/etcd-bin-vendored-linux-arm64@3.5.28
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.6.0
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.6.1
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.6.2
@@ -19,3 +21,4 @@
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.6.6
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.6.7
 - pkg:cargo/etcd-bin-vendored-linux-arm64@3.6.8
+- pkg:cargo/etcd-bin-vendored-linux-arm64@3.6.9
