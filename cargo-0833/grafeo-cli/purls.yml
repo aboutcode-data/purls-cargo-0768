@@ -22,6 +22,7 @@
 - pkg:cargo/grafeo-cli@0.5.29
 - pkg:cargo/grafeo-cli@0.5.3
 - pkg:cargo/grafeo-cli@0.5.30
+- pkg:cargo/grafeo-cli@0.5.31
 - pkg:cargo/grafeo-cli@0.5.4
 - pkg:cargo/grafeo-cli@0.5.5
 - pkg:cargo/grafeo-cli@0.5.6
