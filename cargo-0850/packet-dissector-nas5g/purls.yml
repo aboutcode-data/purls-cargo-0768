@@ -1,1 +1,2 @@
 - pkg:cargo/packet-dissector-nas5g@0.1.0
+- pkg:cargo/packet-dissector-nas5g@0.2.0
