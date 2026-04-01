@@ -1,1 +1,2 @@
 - pkg:cargo/reovim-module-vfs-local@0.14.3
+- pkg:cargo/reovim-module-vfs-local@0.14.4

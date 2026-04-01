@@ -1,1 +1,2 @@
 - pkg:cargo/reovim-module-tetromino@0.14.3
+- pkg:cargo/reovim-module-tetromino@0.14.4

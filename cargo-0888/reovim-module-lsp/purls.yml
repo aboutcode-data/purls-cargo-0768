@@ -1,1 +1,2 @@
 - pkg:cargo/reovim-module-lsp@0.14.3
+- pkg:cargo/reovim-module-lsp@0.14.4

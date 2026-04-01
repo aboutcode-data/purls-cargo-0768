@@ -1,1 +1,2 @@
 - pkg:cargo/reovim-driver-formatter@0.14.3
+- pkg:cargo/reovim-driver-formatter@0.14.4
