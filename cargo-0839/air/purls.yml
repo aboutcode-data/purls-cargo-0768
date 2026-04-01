@@ -6,3 +6,6 @@
 - pkg:cargo/air@0.2.4
 - pkg:cargo/air@0.2.5
 - pkg:cargo/air@0.2.6
+- pkg:cargo/air@1.0.0
+- pkg:cargo/air@1.0.1
+- pkg:cargo/air@1.0.2
