@@ -13,3 +13,6 @@
 - pkg:cargo/fynd-rpc@0.43.0
 - pkg:cargo/fynd-rpc@0.43.1
 - pkg:cargo/fynd-rpc@0.43.2
+- pkg:cargo/fynd-rpc@0.44.0
+- pkg:cargo/fynd-rpc@0.44.1
+- pkg:cargo/fynd-rpc@0.45.0

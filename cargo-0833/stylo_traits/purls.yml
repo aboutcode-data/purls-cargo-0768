@@ -4,6 +4,7 @@
 - pkg:cargo/stylo_traits@0.12.0
 - pkg:cargo/stylo_traits@0.13.0
 - pkg:cargo/stylo_traits@0.14.0
+- pkg:cargo/stylo_traits@0.15.0
 - pkg:cargo/stylo_traits@0.2.0
 - pkg:cargo/stylo_traits@0.3.0
 - pkg:cargo/stylo_traits@0.4.0
