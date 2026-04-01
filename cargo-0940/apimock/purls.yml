@@ -98,3 +98,4 @@
 - pkg:cargo/apimock@4.6.3
 - pkg:cargo/apimock@4.6.4
 - pkg:cargo/apimock@4.6.5
+- pkg:cargo/apimock@4.6.6
