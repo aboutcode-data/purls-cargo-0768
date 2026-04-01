@@ -22,6 +22,7 @@
 - pkg:cargo/egui_code_editor@0.2.20
 - pkg:cargo/egui_code_editor@0.2.21
 - pkg:cargo/egui_code_editor@0.2.22
+- pkg:cargo/egui_code_editor@0.2.23
 - pkg:cargo/egui_code_editor@0.2.3
 - pkg:cargo/egui_code_editor@0.2.4
 - pkg:cargo/egui_code_editor@0.2.5
