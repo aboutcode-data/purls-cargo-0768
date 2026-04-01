@@ -8,7 +8,11 @@
 - pkg:cargo/iftoprs@2.15.0
 - pkg:cargo/iftoprs@2.16.0
 - pkg:cargo/iftoprs@2.17.0
+- pkg:cargo/iftoprs@2.18.0
+- pkg:cargo/iftoprs@2.19.0
 - pkg:cargo/iftoprs@2.2.0
+- pkg:cargo/iftoprs@2.20.0
+- pkg:cargo/iftoprs@2.21.0
 - pkg:cargo/iftoprs@2.3.0
 - pkg:cargo/iftoprs@2.4.0
 - pkg:cargo/iftoprs@2.5.0
