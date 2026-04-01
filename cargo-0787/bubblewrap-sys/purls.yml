@@ -6,3 +6,4 @@
 - pkg:cargo/bubblewrap-sys@0.7.3
 - pkg:cargo/bubblewrap-sys@0.7.4
 - pkg:cargo/bubblewrap-sys@0.7.5
+- pkg:cargo/bubblewrap-sys@0.8.0

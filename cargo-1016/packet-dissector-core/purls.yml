@@ -1,1 +1,2 @@
 - pkg:cargo/packet-dissector-core@0.1.0
+- pkg:cargo/packet-dissector-core@0.2.0
