@@ -62,3 +62,4 @@
 - pkg:cargo/statum-macros@0.6.7
 - pkg:cargo/statum-macros@0.6.8
 - pkg:cargo/statum-macros@0.6.9
+- pkg:cargo/statum-macros@0.7.0
