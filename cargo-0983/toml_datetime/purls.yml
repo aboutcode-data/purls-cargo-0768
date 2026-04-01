@@ -21,3 +21,4 @@
 - pkg:cargo/toml_datetime@1.0.0%2Bspec-1.1.0
 - pkg:cargo/toml_datetime@1.0.1%2Bspec-1.1.0
 - pkg:cargo/toml_datetime@1.1.0%2Bspec-1.1.0
+- pkg:cargo/toml_datetime@1.1.1%2Bspec-1.1.0
