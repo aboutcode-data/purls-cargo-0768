@@ -9,3 +9,4 @@
 - pkg:cargo/agent-orchestrator@0.2.1
 - pkg:cargo/agent-orchestrator@0.2.3
 - pkg:cargo/agent-orchestrator@0.2.5
+- pkg:cargo/agent-orchestrator@0.2.7

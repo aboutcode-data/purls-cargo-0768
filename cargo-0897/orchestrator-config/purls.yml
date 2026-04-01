@@ -10,3 +10,4 @@
 - pkg:cargo/orchestrator-config@0.2.3
 - pkg:cargo/orchestrator-config@0.2.4
 - pkg:cargo/orchestrator-config@0.2.5
+- pkg:cargo/orchestrator-config@0.2.7
