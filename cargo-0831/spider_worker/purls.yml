@@ -1630,7 +1630,13 @@
 - pkg:cargo/spider_worker@2.48.12
 - pkg:cargo/spider_worker@2.48.13
 - pkg:cargo/spider_worker@2.48.14
+- pkg:cargo/spider_worker@2.48.15
+- pkg:cargo/spider_worker@2.48.16
+- pkg:cargo/spider_worker@2.48.17
+- pkg:cargo/spider_worker@2.48.18
+- pkg:cargo/spider_worker@2.48.19
 - pkg:cargo/spider_worker@2.48.2
+- pkg:cargo/spider_worker@2.48.20
 - pkg:cargo/spider_worker@2.48.3
 - pkg:cargo/spider_worker@2.48.4
 - pkg:cargo/spider_worker@2.48.5
