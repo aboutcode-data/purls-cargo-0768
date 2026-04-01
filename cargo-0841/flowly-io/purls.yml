@@ -8,3 +8,5 @@
 - pkg:cargo/flowly-io@0.4.7
 - pkg:cargo/flowly-io@0.4.8
 - pkg:cargo/flowly-io@0.4.9
+- pkg:cargo/flowly-io@0.6.0
+- pkg:cargo/flowly-io@0.6.1
