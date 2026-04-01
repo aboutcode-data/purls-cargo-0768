@@ -7,3 +7,5 @@
 - pkg:cargo/nika-core@0.55.0
 - pkg:cargo/nika-core@0.56.0
 - pkg:cargo/nika-core@0.56.1
+- pkg:cargo/nika-core@0.56.2
+- pkg:cargo/nika-core@0.58.0
