@@ -80,3 +80,4 @@
 - pkg:cargo/fuel-core-bin@0.46.0
 - pkg:cargo/fuel-core-bin@0.47.1
 - pkg:cargo/fuel-core-bin@0.47.3
+- pkg:cargo/fuel-core-bin@0.48.0
