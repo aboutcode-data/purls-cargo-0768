@@ -134,6 +134,8 @@
 - pkg:cargo/wasmparser@0.244.0
 - pkg:cargo/wasmparser@0.245.0
 - pkg:cargo/wasmparser@0.245.1
+- pkg:cargo/wasmparser@0.246.0
+- pkg:cargo/wasmparser@0.246.1
 - pkg:cargo/wasmparser@0.25.0
 - pkg:cargo/wasmparser@0.26.0
 - pkg:cargo/wasmparser@0.27.0
