@@ -79,3 +79,5 @@
 - pkg:cargo/tempo-x402@6.4.4
 - pkg:cargo/tempo-x402@6.4.5
 - pkg:cargo/tempo-x402@6.4.6
+- pkg:cargo/tempo-x402@6.5.0
+- pkg:cargo/tempo-x402@6.6.0
