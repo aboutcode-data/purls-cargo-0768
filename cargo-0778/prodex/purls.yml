@@ -2,6 +2,8 @@
 - pkg:cargo/prodex@0.2.0
 - pkg:cargo/prodex@0.2.1
 - pkg:cargo/prodex@0.2.10
+- pkg:cargo/prodex@0.2.100
+- pkg:cargo/prodex@0.2.101
 - pkg:cargo/prodex@0.2.11
 - pkg:cargo/prodex@0.2.12
 - pkg:cargo/prodex@0.2.13
@@ -97,3 +99,5 @@
 - pkg:cargo/prodex@0.2.95
 - pkg:cargo/prodex@0.2.96
 - pkg:cargo/prodex@0.2.97
+- pkg:cargo/prodex@0.2.98
+- pkg:cargo/prodex@0.2.99
