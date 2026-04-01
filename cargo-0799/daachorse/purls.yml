@@ -9,3 +9,4 @@
 - pkg:cargo/daachorse@0.4.3
 - pkg:cargo/daachorse@1.0.0
 - pkg:cargo/daachorse@1.0.0-rc.1
+- pkg:cargo/daachorse@1.0.1

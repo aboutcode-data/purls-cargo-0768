@@ -80,3 +80,6 @@
 - pkg:cargo/tempo-x402-gateway@6.4.6
 - pkg:cargo/tempo-x402-gateway@6.5.0
 - pkg:cargo/tempo-x402-gateway@6.6.0
+- pkg:cargo/tempo-x402-gateway@6.7.0
+- pkg:cargo/tempo-x402-gateway@6.8.0
+- pkg:cargo/tempo-x402-gateway@6.9.0
