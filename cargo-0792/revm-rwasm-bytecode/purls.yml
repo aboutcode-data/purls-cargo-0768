@@ -1,2 +1,4 @@
 - pkg:cargo/revm-rwasm-bytecode@6.0.1
 - pkg:cargo/revm-rwasm-bytecode@8.0.0-rwasm.1
+- pkg:cargo/revm-rwasm-bytecode@8.0.0-rwasm.2
+- pkg:cargo/revm-rwasm-bytecode@8.0.1
