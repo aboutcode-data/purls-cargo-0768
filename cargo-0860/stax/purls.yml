@@ -52,6 +52,7 @@
 - pkg:cargo/stax@0.38.1
 - pkg:cargo/stax@0.39.0
 - pkg:cargo/stax@0.4.0
+- pkg:cargo/stax@0.40.0
 - pkg:cargo/stax@0.5.0
 - pkg:cargo/stax@0.5.1
 - pkg:cargo/stax@0.5.2

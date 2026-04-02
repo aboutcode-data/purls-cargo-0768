@@ -53,3 +53,5 @@
 - pkg:cargo/symforge@5.1.0
 - pkg:cargo/symforge@5.1.1
 - pkg:cargo/symforge@6.0.0
+- pkg:cargo/symforge@6.0.1
+- pkg:cargo/symforge@6.0.2
