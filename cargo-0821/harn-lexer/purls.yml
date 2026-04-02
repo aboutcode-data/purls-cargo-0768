@@ -55,6 +55,11 @@
 - pkg:cargo/harn-lexer@0.5.20
 - pkg:cargo/harn-lexer@0.5.21
 - pkg:cargo/harn-lexer@0.5.22
+- pkg:cargo/harn-lexer@0.5.23
+- pkg:cargo/harn-lexer@0.5.24
+- pkg:cargo/harn-lexer@0.5.25
+- pkg:cargo/harn-lexer@0.5.26
+- pkg:cargo/harn-lexer@0.5.27
 - pkg:cargo/harn-lexer@0.5.3
 - pkg:cargo/harn-lexer@0.5.4
 - pkg:cargo/harn-lexer@0.5.5
