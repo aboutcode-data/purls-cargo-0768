@@ -2,6 +2,7 @@
 - pkg:cargo/pyth-lazer-agent@0.11.0
 - pkg:cargo/pyth-lazer-agent@0.11.1
 - pkg:cargo/pyth-lazer-agent@0.11.2
+- pkg:cargo/pyth-lazer-agent@0.12.0
 - pkg:cargo/pyth-lazer-agent@0.3.3
 - pkg:cargo/pyth-lazer-agent@0.4.0
 - pkg:cargo/pyth-lazer-agent@0.4.1

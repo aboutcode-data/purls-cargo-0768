@@ -195,6 +195,7 @@
 - pkg:cargo/csskit_derives@0.0.20-canary.73b427d7b2
 - pkg:cargo/csskit_derives@0.0.20-canary.a923cbbb01
 - pkg:cargo/csskit_derives@0.0.20-canary.c397b8c3f7
+- pkg:cargo/csskit_derives@0.0.21-canary.30d8c1d4df
 - pkg:cargo/csskit_derives@0.0.3
 - pkg:cargo/csskit_derives@0.0.3-canary.2b9ff762ce0a482b5dd39eb212ef34f687a0bd5a
 - pkg:cargo/csskit_derives@0.0.3-canary.4172a21495e4050b4c3b7574bbaf53fb7c6580f3
