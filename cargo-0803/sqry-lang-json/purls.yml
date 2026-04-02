@@ -2,3 +2,4 @@
 - pkg:cargo/sqry-lang-json@4.12.7
 - pkg:cargo/sqry-lang-json@5.0.1
 - pkg:cargo/sqry-lang-json@6.0.12
+- pkg:cargo/sqry-lang-json@6.0.15

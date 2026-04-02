@@ -3,3 +3,5 @@
 - pkg:cargo/sqry-mcp@4.12.6
 - pkg:cargo/sqry-mcp@4.12.7
 - pkg:cargo/sqry-mcp@5.0.1
+- pkg:cargo/sqry-mcp@6.0.12
+- pkg:cargo/sqry-mcp@6.0.15
