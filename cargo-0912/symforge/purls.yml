@@ -49,3 +49,7 @@
 - pkg:cargo/symforge@4.9.7
 - pkg:cargo/symforge@4.9.8
 - pkg:cargo/symforge@4.9.9
+- pkg:cargo/symforge@5.0.0
+- pkg:cargo/symforge@5.1.0
+- pkg:cargo/symforge@5.1.1
+- pkg:cargo/symforge@6.0.0
