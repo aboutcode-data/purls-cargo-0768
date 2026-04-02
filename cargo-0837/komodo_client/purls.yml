@@ -46,3 +46,4 @@
 - pkg:cargo/komodo_client@1.19.5
 - pkg:cargo/komodo_client@2.0.0
 - pkg:cargo/komodo_client@2.0.0-dev-104
+- pkg:cargo/komodo_client@2.1.0

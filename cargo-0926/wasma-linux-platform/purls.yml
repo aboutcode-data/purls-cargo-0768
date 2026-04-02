@@ -1,1 +1,2 @@
 - pkg:cargo/wasma-linux-platform@1.3.0-beta
+- pkg:cargo/wasma-linux-platform@1.3.0-beta-release2

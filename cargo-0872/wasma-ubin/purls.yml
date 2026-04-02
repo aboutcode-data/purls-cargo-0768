@@ -1,2 +1,4 @@
 - pkg:cargo/wasma-ubin@1.2.0-stable-beta1
 - pkg:cargo/wasma-ubin@1.2.0-stable-beta2
+- pkg:cargo/wasma-ubin@1.23.0-stable-beta
+- pkg:cargo/wasma-ubin@1.3.0-stable-beta
