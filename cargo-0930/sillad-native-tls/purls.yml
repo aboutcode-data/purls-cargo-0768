@@ -1,1 +1,2 @@
 - pkg:cargo/sillad-native-tls@0.2.11
+- pkg:cargo/sillad-native-tls@0.2.12
