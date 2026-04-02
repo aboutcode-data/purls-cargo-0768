@@ -1,3 +1,5 @@
 - pkg:cargo/plushie-iced-widget@0.7.0
 - pkg:cargo/plushie-iced-widget@0.8.0
 - pkg:cargo/plushie-iced-widget@0.8.1
+- pkg:cargo/plushie-iced-widget@0.8.2
+- pkg:cargo/plushie-iced-widget@0.8.3
