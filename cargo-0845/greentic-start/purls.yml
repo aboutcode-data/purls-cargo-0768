@@ -23,6 +23,7 @@
 - pkg:cargo/greentic-start@0.4.30
 - pkg:cargo/greentic-start@0.4.32
 - pkg:cargo/greentic-start@0.4.33
+- pkg:cargo/greentic-start@0.4.34
 - pkg:cargo/greentic-start@0.4.4
 - pkg:cargo/greentic-start@0.4.5
 - pkg:cargo/greentic-start@0.4.6

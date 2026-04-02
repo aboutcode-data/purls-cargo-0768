@@ -1,1 +1,2 @@
 - pkg:cargo/graphstream@0.2.0
+- pkg:cargo/graphstream@0.3.0
