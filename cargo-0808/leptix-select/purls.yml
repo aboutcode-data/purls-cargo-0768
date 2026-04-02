@@ -1,1 +1,4 @@
 - pkg:cargo/leptix-select@0.1.0
+- pkg:cargo/leptix-select@0.1.3
+- pkg:cargo/leptix-select@0.1.4
+- pkg:cargo/leptix-select@0.1.5
