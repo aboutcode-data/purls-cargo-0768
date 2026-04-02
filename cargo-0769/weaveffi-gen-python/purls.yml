@@ -1,1 +1,2 @@
 - pkg:cargo/weaveffi-gen-python@0.2.0
+- pkg:cargo/weaveffi-gen-python@0.3.0
