@@ -14,3 +14,4 @@
 - pkg:cargo/hickory-dns@0.26.0-alpha.1
 - pkg:cargo/hickory-dns@0.26.0-beta.1
 - pkg:cargo/hickory-dns@0.26.0-beta.2
+- pkg:cargo/hickory-dns@0.26.0-beta.3
