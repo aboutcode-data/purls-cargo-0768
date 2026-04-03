@@ -1,3 +1,4 @@
 - pkg:cargo/cashu-service@0.2.15
 - pkg:cargo/cashu-service@0.2.18
 - pkg:cargo/cashu-service@0.2.20
+- pkg:cargo/cashu-service@0.2.22
