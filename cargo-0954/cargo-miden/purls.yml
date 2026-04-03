@@ -13,3 +13,4 @@
 - pkg:cargo/cargo-miden@0.6.0
 - pkg:cargo/cargo-miden@0.7.0
 - pkg:cargo/cargo-miden@0.7.1
+- pkg:cargo/cargo-miden@0.8.0

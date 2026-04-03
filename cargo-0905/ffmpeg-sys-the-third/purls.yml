@@ -8,3 +8,4 @@
 - pkg:cargo/ffmpeg-sys-the-third@3.0.1%2Bffmpeg-7.1
 - pkg:cargo/ffmpeg-sys-the-third@4.0.0%2Bffmpeg-8.0
 - pkg:cargo/ffmpeg-sys-the-third@4.1.0%2Bffmpeg-8.0
+- pkg:cargo/ffmpeg-sys-the-third@5.0.0%2Bffmpeg-8.1
