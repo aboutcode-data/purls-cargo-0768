@@ -13,4 +13,5 @@
 - pkg:cargo/airlock-gateway@0.4.4
 - pkg:cargo/airlock-gateway@0.4.5
 - pkg:cargo/airlock-gateway@0.4.6
+- pkg:cargo/airlock-gateway@0.4.7
 - pkg:cargo/airlock-gateway@2.0.1
