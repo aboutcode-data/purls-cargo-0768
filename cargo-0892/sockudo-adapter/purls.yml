@@ -6,3 +6,4 @@
 - pkg:cargo/sockudo-adapter@3.4.1
 - pkg:cargo/sockudo-adapter@3.4.2
 - pkg:cargo/sockudo-adapter@4.0.0
+- pkg:cargo/sockudo-adapter@4.1.0

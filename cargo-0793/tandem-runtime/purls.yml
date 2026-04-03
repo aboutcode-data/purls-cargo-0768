@@ -26,6 +26,7 @@
 - pkg:cargo/tandem-runtime@0.4.18
 - pkg:cargo/tandem-runtime@0.4.19
 - pkg:cargo/tandem-runtime@0.4.2
+- pkg:cargo/tandem-runtime@0.4.20
 - pkg:cargo/tandem-runtime@0.4.3
 - pkg:cargo/tandem-runtime@0.4.4
 - pkg:cargo/tandem-runtime@0.4.5

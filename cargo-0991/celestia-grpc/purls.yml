@@ -18,3 +18,4 @@
 - pkg:cargo/celestia-grpc@1.0.0-rc.1
 - pkg:cargo/celestia-grpc@1.0.0-rc.2
 - pkg:cargo/celestia-grpc@1.0.0-rc.3
+- pkg:cargo/celestia-grpc@1.0.0-rc.4
