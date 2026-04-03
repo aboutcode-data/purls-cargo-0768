@@ -1305,6 +1305,7 @@
 - pkg:cargo/swc_ecma_minifier@46.0.0
 - pkg:cargo/swc_ecma_minifier@47.0.0
 - pkg:cargo/swc_ecma_minifier@48.0.0
+- pkg:cargo/swc_ecma_minifier@49.0.0
 - pkg:cargo/swc_ecma_minifier@5.0.0
 - pkg:cargo/swc_ecma_minifier@5.0.1
 - pkg:cargo/swc_ecma_minifier@6.0.0
