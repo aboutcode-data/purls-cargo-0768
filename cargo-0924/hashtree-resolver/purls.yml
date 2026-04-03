@@ -16,6 +16,7 @@
 - pkg:cargo/hashtree-resolver@0.2.18
 - pkg:cargo/hashtree-resolver@0.2.20
 - pkg:cargo/hashtree-resolver@0.2.22
+- pkg:cargo/hashtree-resolver@0.2.23
 - pkg:cargo/hashtree-resolver@0.2.3
 - pkg:cargo/hashtree-resolver@0.2.4
 - pkg:cargo/hashtree-resolver@0.2.5
