@@ -5,3 +5,4 @@
 - pkg:cargo/include-file@0.4.0
 - pkg:cargo/include-file@0.5.0
 - pkg:cargo/include-file@0.5.1
+- pkg:cargo/include-file@1.0.0
