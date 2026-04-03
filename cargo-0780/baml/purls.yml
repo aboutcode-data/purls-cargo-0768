@@ -3,3 +3,5 @@
 - pkg:cargo/baml@0.216.1-beta.1
 - pkg:cargo/baml@0.217.0
 - pkg:cargo/baml@0.218.0
+- pkg:cargo/baml@0.219.0
+- pkg:cargo/baml@0.220.0
