@@ -15,6 +15,7 @@
 - pkg:cargo/phantom-frame@0.1.9
 - pkg:cargo/phantom-frame@0.2.1
 - pkg:cargo/phantom-frame@0.2.10
+- pkg:cargo/phantom-frame@0.2.11
 - pkg:cargo/phantom-frame@0.2.2
 - pkg:cargo/phantom-frame@0.2.3
 - pkg:cargo/phantom-frame@0.2.4
