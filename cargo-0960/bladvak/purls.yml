@@ -28,6 +28,8 @@
 - pkg:cargo/bladvak@1.2.10
 - pkg:cargo/bladvak@1.2.11
 - pkg:cargo/bladvak@1.2.12
+- pkg:cargo/bladvak@1.2.13
+- pkg:cargo/bladvak@1.2.14
 - pkg:cargo/bladvak@1.2.2
 - pkg:cargo/bladvak@1.2.4
 - pkg:cargo/bladvak@1.2.5
