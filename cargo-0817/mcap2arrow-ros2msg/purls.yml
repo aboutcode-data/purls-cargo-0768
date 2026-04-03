@@ -1,2 +1,3 @@
 - pkg:cargo/mcap2arrow-ros2msg@0.1.0
 - pkg:cargo/mcap2arrow-ros2msg@0.2.0
+- pkg:cargo/mcap2arrow-ros2msg@0.3.0

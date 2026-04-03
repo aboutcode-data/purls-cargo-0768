@@ -1,3 +1,6 @@
 - pkg:cargo/ironflow-worker@2.0.0
 - pkg:cargo/ironflow-worker@2.0.1
 - pkg:cargo/ironflow-worker@2.0.2
+- pkg:cargo/ironflow-worker@2.0.3
+- pkg:cargo/ironflow-worker@2.0.4
+- pkg:cargo/ironflow-worker@2.1.0
