@@ -543,6 +543,7 @@
 - pkg:cargo/swc_ecma_transforms_classes@39.0.0
 - pkg:cargo/swc_ecma_transforms_classes@4.0.0
 - pkg:cargo/swc_ecma_transforms_classes@40.0.0
+- pkg:cargo/swc_ecma_transforms_classes@41.0.0
 - pkg:cargo/swc_ecma_transforms_classes@5.0.0
 - pkg:cargo/swc_ecma_transforms_classes@6.0.0
 - pkg:cargo/swc_ecma_transforms_classes@7.0.0

@@ -288,6 +288,7 @@
 - pkg:cargo/swc_css_visit@19.0.0
 - pkg:cargo/swc_css_visit@2.0.0
 - pkg:cargo/swc_css_visit@20.0.0
+- pkg:cargo/swc_css_visit@21.0.0
 - pkg:cargo/swc_css_visit@3.0.0
 - pkg:cargo/swc_css_visit@4.0.0
 - pkg:cargo/swc_css_visit@4.0.1
