@@ -3,6 +3,7 @@
 - pkg:cargo/terraphim_config@1.10.0
 - pkg:cargo/terraphim_config@1.11.0
 - pkg:cargo/terraphim_config@1.14.0
+- pkg:cargo/terraphim_config@1.15.0
 - pkg:cargo/terraphim_config@1.4.10
 - pkg:cargo/terraphim_config@1.4.7
 - pkg:cargo/terraphim_config@1.4.8
