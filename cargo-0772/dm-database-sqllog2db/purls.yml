@@ -8,3 +8,4 @@
 - pkg:cargo/dm-database-sqllog2db@0.3.2
 - pkg:cargo/dm-database-sqllog2db@0.3.3
 - pkg:cargo/dm-database-sqllog2db@0.4.0
+- pkg:cargo/dm-database-sqllog2db@0.4.1
