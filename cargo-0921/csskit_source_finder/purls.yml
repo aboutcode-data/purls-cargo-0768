@@ -59,6 +59,7 @@
 - pkg:cargo/csskit_source_finder@0.0.20-canary.a923cbbb01
 - pkg:cargo/csskit_source_finder@0.0.20-canary.c397b8c3f7
 - pkg:cargo/csskit_source_finder@0.0.21-canary.30d8c1d4df
+- pkg:cargo/csskit_source_finder@0.0.21-canary.5634e9b638
 - pkg:cargo/csskit_source_finder@0.0.5
 - pkg:cargo/csskit_source_finder@0.0.6
 - pkg:cargo/csskit_source_finder@0.0.6-canary.23726265a1
