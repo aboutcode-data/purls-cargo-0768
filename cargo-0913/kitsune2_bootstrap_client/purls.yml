@@ -63,3 +63,5 @@
 - pkg:cargo/kitsune2_bootstrap_client@0.4.0-dev.5
 - pkg:cargo/kitsune2_bootstrap_client@0.4.0-dev.6
 - pkg:cargo/kitsune2_bootstrap_client@0.4.0-dev.7
+- pkg:cargo/kitsune2_bootstrap_client@0.4.0-dev.8
+- pkg:cargo/kitsune2_bootstrap_client@0.4.0-dev.9
