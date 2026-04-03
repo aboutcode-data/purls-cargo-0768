@@ -12,3 +12,4 @@
 - pkg:cargo/yubikey@0.7.0
 - pkg:cargo/yubikey@0.8.0
 - pkg:cargo/yubikey@0.8.0-pre.0
+- pkg:cargo/yubikey@0.9.0-pre.0
