@@ -3,4 +3,5 @@
 - pkg:cargo/axdriver_block@0.1.4-preview.1
 - pkg:cargo/axdriver_block@0.1.4-preview.2
 - pkg:cargo/axdriver_block@0.1.4-preview.3
+- pkg:cargo/axdriver_block@0.2.0
 - pkg:cargo/axdriver_block@0.3.4

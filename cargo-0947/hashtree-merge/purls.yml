@@ -2,3 +2,4 @@
 - pkg:cargo/hashtree-merge@0.2.15
 - pkg:cargo/hashtree-merge@0.2.18
 - pkg:cargo/hashtree-merge@0.2.20
+- pkg:cargo/hashtree-merge@0.2.22
