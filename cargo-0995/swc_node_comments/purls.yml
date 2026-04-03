@@ -143,6 +143,7 @@
 - pkg:cargo/swc_node_comments@18.0.0
 - pkg:cargo/swc_node_comments@19.0.0
 - pkg:cargo/swc_node_comments@2.0.0
+- pkg:cargo/swc_node_comments@20.0.0
 - pkg:cargo/swc_node_comments@3.0.0
 - pkg:cargo/swc_node_comments@4.0.0
 - pkg:cargo/swc_node_comments@5.0.0
