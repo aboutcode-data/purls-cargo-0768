@@ -2,3 +2,4 @@
 - pkg:cargo/mistralrs@0.7.0-alpha.3
 - pkg:cargo/mistralrs@0.7.0-alpha.4
 - pkg:cargo/mistralrs@0.8.0
+- pkg:cargo/mistralrs@0.8.1
