@@ -15,3 +15,4 @@
 - pkg:cargo/tree-sitter-perl-sqry@6.0.21
 - pkg:cargo/tree-sitter-perl-sqry@6.0.22
 - pkg:cargo/tree-sitter-perl-sqry@6.0.23
+- pkg:cargo/tree-sitter-perl-sqry@7.1.3
