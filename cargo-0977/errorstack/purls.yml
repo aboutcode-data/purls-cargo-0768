@@ -1,1 +1,3 @@
 - pkg:cargo/errorstack@0.0.1
+- pkg:cargo/errorstack@0.1.0
+- pkg:cargo/errorstack@0.1.1
