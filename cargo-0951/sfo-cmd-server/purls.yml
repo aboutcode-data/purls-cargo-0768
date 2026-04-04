@@ -10,3 +10,4 @@
 - pkg:cargo/sfo-cmd-server@0.2.5
 - pkg:cargo/sfo-cmd-server@0.2.6
 - pkg:cargo/sfo-cmd-server@0.3.0
+- pkg:cargo/sfo-cmd-server@0.3.1
