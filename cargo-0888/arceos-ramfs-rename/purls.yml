@@ -1,1 +1,2 @@
 - pkg:cargo/arceos-ramfs-rename@0.4.0
+- pkg:cargo/arceos-ramfs-rename@0.4.1
