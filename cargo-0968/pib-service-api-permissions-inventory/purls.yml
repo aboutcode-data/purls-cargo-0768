@@ -1,2 +1,4 @@
 - pkg:cargo/pib-service-api-permissions-inventory@0.11.0
 - pkg:cargo/pib-service-api-permissions-inventory@0.12.0
+- pkg:cargo/pib-service-api-permissions-inventory@0.13.0
+- pkg:cargo/pib-service-api-permissions-inventory@0.13.1
