@@ -10,3 +10,7 @@
 - pkg:cargo/somatize@0.2.19
 - pkg:cargo/somatize@0.2.20
 - pkg:cargo/somatize@0.2.21
+- pkg:cargo/somatize@0.2.22
+- pkg:cargo/somatize@0.2.24
+- pkg:cargo/somatize@0.2.26
+- pkg:cargo/somatize@0.2.27

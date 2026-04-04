@@ -13,6 +13,7 @@
 - pkg:cargo/tantivy-analysis-contrib@0.12.6
 - pkg:cargo/tantivy-analysis-contrib@0.12.7
 - pkg:cargo/tantivy-analysis-contrib@0.12.8
+- pkg:cargo/tantivy-analysis-contrib@0.12.9
 - pkg:cargo/tantivy-analysis-contrib@0.2.0
 - pkg:cargo/tantivy-analysis-contrib@0.3.0
 - pkg:cargo/tantivy-analysis-contrib@0.4.0
