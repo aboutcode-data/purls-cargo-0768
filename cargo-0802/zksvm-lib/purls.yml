@@ -1,2 +1,3 @@
 - pkg:cargo/zksvm-lib@0.1.1-alpha
 - pkg:cargo/zksvm-lib@0.1.1-alpha.1
+- pkg:cargo/zksvm-lib@0.1.1-alpha.2
