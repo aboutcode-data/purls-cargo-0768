@@ -53,6 +53,7 @@
 - pkg:cargo/wasm-wave@0.245.1
 - pkg:cargo/wasm-wave@0.246.0
 - pkg:cargo/wasm-wave@0.246.1
+- pkg:cargo/wasm-wave@0.246.2
 - pkg:cargo/wasm-wave@0.3.0
 - pkg:cargo/wasm-wave@0.4.0
 - pkg:cargo/wasm-wave@0.5.0
