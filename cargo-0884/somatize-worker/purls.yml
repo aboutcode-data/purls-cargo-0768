@@ -14,4 +14,7 @@
 - pkg:cargo/somatize-worker@0.2.24
 - pkg:cargo/somatize-worker@0.2.26
 - pkg:cargo/somatize-worker@0.2.27
+- pkg:cargo/somatize-worker@0.2.38
+- pkg:cargo/somatize-worker@0.2.39
+- pkg:cargo/somatize-worker@0.2.40
 - pkg:cargo/somatize-worker@0.2.9
