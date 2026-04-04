@@ -1,3 +1,5 @@
 - pkg:cargo/clawft-plugin@0.1.1
 - pkg:cargo/clawft-plugin@0.2.1
 - pkg:cargo/clawft-plugin@0.3.1
+- pkg:cargo/clawft-plugin@0.4.2
+- pkg:cargo/clawft-plugin@0.4.3

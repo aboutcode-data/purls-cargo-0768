@@ -1,3 +1,5 @@
 - pkg:cargo/clawft-llm@0.1.1
 - pkg:cargo/clawft-llm@0.2.1
 - pkg:cargo/clawft-llm@0.3.1
+- pkg:cargo/clawft-llm@0.4.2
+- pkg:cargo/clawft-llm@0.4.3
