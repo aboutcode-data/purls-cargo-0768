@@ -3,3 +3,5 @@
 - pkg:cargo/shannon-nu-cli@0.111.2
 - pkg:cargo/shannon-nu-cli@0.111.3
 - pkg:cargo/shannon-nu-cli@0.5.2
+- pkg:cargo/shannon-nu-cli@0.5.3
+- pkg:cargo/shannon-nu-cli@0.5.4
