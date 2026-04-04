@@ -2,3 +2,4 @@
 - pkg:cargo/ratatui-input-manager@0.2.0
 - pkg:cargo/ratatui-input-manager@0.2.1
 - pkg:cargo/ratatui-input-manager@0.3.0
+- pkg:cargo/ratatui-input-manager@0.4.0
