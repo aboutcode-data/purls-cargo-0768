@@ -29,3 +29,4 @@
 - pkg:cargo/charts-rs-derive@0.2.4
 - pkg:cargo/charts-rs-derive@0.2.5
 - pkg:cargo/charts-rs-derive@0.2.6
+- pkg:cargo/charts-rs-derive@0.3.0
