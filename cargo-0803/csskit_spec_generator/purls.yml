@@ -59,6 +59,7 @@
 - pkg:cargo/csskit_spec_generator@0.0.20-canary.c397b8c3f7
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.30d8c1d4df
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.5634e9b638
+- pkg:cargo/csskit_spec_generator@0.0.21-canary.64ed0c392c
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.dad37871ce
 - pkg:cargo/csskit_spec_generator@0.0.7
 - pkg:cargo/csskit_spec_generator@0.0.7-canary.477dda2a83
