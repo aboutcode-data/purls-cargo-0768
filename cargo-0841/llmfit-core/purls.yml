@@ -40,3 +40,5 @@
 - pkg:cargo/llmfit-core@0.8.5
 - pkg:cargo/llmfit-core@0.8.6
 - pkg:cargo/llmfit-core@0.8.7
+- pkg:cargo/llmfit-core@0.8.8
+- pkg:cargo/llmfit-core@0.8.9
