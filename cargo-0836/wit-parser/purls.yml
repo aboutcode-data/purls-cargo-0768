@@ -80,6 +80,7 @@
 - pkg:cargo/wit-parser@0.245.1
 - pkg:cargo/wit-parser@0.246.0
 - pkg:cargo/wit-parser@0.246.1
+- pkg:cargo/wit-parser@0.246.2
 - pkg:cargo/wit-parser@0.3.0
 - pkg:cargo/wit-parser@0.3.1
 - pkg:cargo/wit-parser@0.4.0
