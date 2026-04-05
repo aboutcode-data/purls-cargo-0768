@@ -24,3 +24,4 @@
 - pkg:cargo/zeph-llm@0.18.0
 - pkg:cargo/zeph-llm@0.18.1
 - pkg:cargo/zeph-llm@0.18.2
+- pkg:cargo/zeph-llm@0.18.3
