@@ -1,2 +1,3 @@
 - pkg:cargo/tracing-datadog-macros@0.0.2
 - pkg:cargo/tracing-datadog-macros@0.0.3
+- pkg:cargo/tracing-datadog-macros@0.1.0
