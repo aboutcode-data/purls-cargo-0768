@@ -6,3 +6,6 @@
 - pkg:cargo/ironpress@0.7.0
 - pkg:cargo/ironpress@0.8.0
 - pkg:cargo/ironpress@1.0.0
+- pkg:cargo/ironpress@1.1.0
+- pkg:cargo/ironpress@1.1.1
+- pkg:cargo/ironpress@1.1.2
