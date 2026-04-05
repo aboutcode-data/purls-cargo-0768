@@ -20,3 +20,4 @@
 - pkg:cargo/biscuit@0.6.0
 - pkg:cargo/biscuit@0.6.0-beta1
 - pkg:cargo/biscuit@0.7.0
+- pkg:cargo/biscuit@0.8.0
