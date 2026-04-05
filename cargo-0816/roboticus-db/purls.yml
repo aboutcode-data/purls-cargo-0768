@@ -3,5 +3,6 @@
 - pkg:cargo/roboticus-db@0.11.1
 - pkg:cargo/roboticus-db@0.11.2
 - pkg:cargo/roboticus-db@0.11.3
+- pkg:cargo/roboticus-db@0.11.4
 - pkg:cargo/roboticus-db@0.9.8
 - pkg:cargo/roboticus-db@0.9.9
