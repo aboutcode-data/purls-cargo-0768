@@ -17,6 +17,7 @@
 - pkg:cargo/pushover-rs@0.3.20
 - pkg:cargo/pushover-rs@0.3.21
 - pkg:cargo/pushover-rs@0.3.22
+- pkg:cargo/pushover-rs@0.3.23
 - pkg:cargo/pushover-rs@0.3.3
 - pkg:cargo/pushover-rs@0.3.4
 - pkg:cargo/pushover-rs@0.3.7
