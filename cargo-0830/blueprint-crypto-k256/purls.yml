@@ -9,3 +9,4 @@
 - pkg:cargo/blueprint-crypto-k256@0.1.0-alpha.8
 - pkg:cargo/blueprint-crypto-k256@0.1.0-alpha.9
 - pkg:cargo/blueprint-crypto-k256@0.2.0-alpha.1
+- pkg:cargo/blueprint-crypto-k256@0.2.0-alpha.2
