@@ -19,6 +19,7 @@
 - pkg:cargo/duroxide-pg@0.1.25
 - pkg:cargo/duroxide-pg@0.1.26
 - pkg:cargo/duroxide-pg@0.1.27
+- pkg:cargo/duroxide-pg@0.1.28
 - pkg:cargo/duroxide-pg@0.1.4
 - pkg:cargo/duroxide-pg@0.1.5
 - pkg:cargo/duroxide-pg@0.1.6

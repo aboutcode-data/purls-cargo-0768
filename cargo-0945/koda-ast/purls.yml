@@ -16,3 +16,4 @@
 - pkg:cargo/koda-ast@0.1.7
 - pkg:cargo/koda-ast@0.1.8
 - pkg:cargo/koda-ast@0.1.9
+- pkg:cargo/koda-ast@0.2.0
