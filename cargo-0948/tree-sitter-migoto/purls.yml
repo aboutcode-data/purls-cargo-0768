@@ -6,3 +6,4 @@
 - pkg:cargo/tree-sitter-migoto@0.5.7
 - pkg:cargo/tree-sitter-migoto@0.5.8
 - pkg:cargo/tree-sitter-migoto@0.5.9
+- pkg:cargo/tree-sitter-migoto@0.6.0
