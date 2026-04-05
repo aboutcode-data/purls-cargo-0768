@@ -25,5 +25,7 @@
 - pkg:cargo/simple-agents-providers@0.2.34
 - pkg:cargo/simple-agents-providers@0.2.35
 - pkg:cargo/simple-agents-providers@0.2.36
+- pkg:cargo/simple-agents-providers@0.2.37
 - pkg:cargo/simple-agents-providers@0.2.4
 - pkg:cargo/simple-agents-providers@0.2.6
+- pkg:cargo/simple-agents-providers@0.3.0
