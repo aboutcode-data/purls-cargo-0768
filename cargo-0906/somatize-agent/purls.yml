@@ -28,5 +28,6 @@
 - pkg:cargo/somatize-agent@0.2.38
 - pkg:cargo/somatize-agent@0.2.39
 - pkg:cargo/somatize-agent@0.2.40
+- pkg:cargo/somatize-agent@0.2.41
 - pkg:cargo/somatize-agent@0.2.8
 - pkg:cargo/somatize-agent@0.2.9
