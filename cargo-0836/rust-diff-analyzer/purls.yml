@@ -1,3 +1,5 @@
 - pkg:cargo/rust-diff-analyzer@1.1.0
 - pkg:cargo/rust-diff-analyzer@1.1.1
 - pkg:cargo/rust-diff-analyzer@1.2.0
+- pkg:cargo/rust-diff-analyzer@1.4.1
+- pkg:cargo/rust-diff-analyzer@1.6.0
