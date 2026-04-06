@@ -1,1 +1,2 @@
 - pkg:cargo/bsql-driver-postgres@0.16.0
+- pkg:cargo/bsql-driver-postgres@0.17.0
