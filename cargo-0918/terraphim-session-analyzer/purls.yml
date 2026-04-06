@@ -2,6 +2,9 @@
 - pkg:cargo/terraphim-session-analyzer@1.11.0
 - pkg:cargo/terraphim-session-analyzer@1.14.0
 - pkg:cargo/terraphim-session-analyzer@1.15.0
+- pkg:cargo/terraphim-session-analyzer@1.16.7
+- pkg:cargo/terraphim-session-analyzer@1.16.8
+- pkg:cargo/terraphim-session-analyzer@1.16.9
 - pkg:cargo/terraphim-session-analyzer@1.4.10
 - pkg:cargo/terraphim-session-analyzer@1.4.11
 - pkg:cargo/terraphim-session-analyzer@1.5.0
