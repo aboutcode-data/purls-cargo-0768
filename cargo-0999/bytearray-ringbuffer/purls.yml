@@ -5,3 +5,4 @@
 - pkg:cargo/bytearray-ringbuffer@0.4.0
 - pkg:cargo/bytearray-ringbuffer@1.0.0
 - pkg:cargo/bytearray-ringbuffer@1.1.0
+- pkg:cargo/bytearray-ringbuffer@1.2.0
