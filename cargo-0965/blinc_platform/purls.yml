@@ -3,3 +3,4 @@
 - pkg:cargo/blinc_platform@0.1.13
 - pkg:cargo/blinc_platform@0.1.14
 - pkg:cargo/blinc_platform@0.1.15
+- pkg:cargo/blinc_platform@0.4.0
