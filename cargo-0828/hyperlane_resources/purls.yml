@@ -99,6 +99,7 @@
 - pkg:cargo/hyperlane_resources@19.0.4
 - pkg:cargo/hyperlane_resources@19.0.5
 - pkg:cargo/hyperlane_resources@19.0.6
+- pkg:cargo/hyperlane_resources@20.0.0
 - pkg:cargo/hyperlane_resources@9.2.10
 - pkg:cargo/hyperlane_resources@9.2.11
 - pkg:cargo/hyperlane_resources@9.2.13
