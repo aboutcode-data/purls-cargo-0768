@@ -6,3 +6,5 @@
 - pkg:cargo/vimcord@0.5.2
 - pkg:cargo/vimcord@0.5.3
 - pkg:cargo/vimcord@0.6.0
+- pkg:cargo/vimcord@0.7.0
+- pkg:cargo/vimcord@0.7.1
