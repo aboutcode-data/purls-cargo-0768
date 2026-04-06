@@ -26,4 +26,5 @@
 - pkg:cargo/padzapp@0.28.0
 - pkg:cargo/padzapp@0.9.7
 - pkg:cargo/padzapp@0.9.8
+- pkg:cargo/padzapp@1.0.0
 - pkg:cargo/padzapp@1.0.0-rc.1
