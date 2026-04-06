@@ -2,3 +2,4 @@
 - pkg:cargo/coordinode-lsm-tree@4.1.0
 - pkg:cargo/coordinode-lsm-tree@4.2.0
 - pkg:cargo/coordinode-lsm-tree@4.3.0
+- pkg:cargo/coordinode-lsm-tree@4.3.1
