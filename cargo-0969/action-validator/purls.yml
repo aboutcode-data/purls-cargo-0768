@@ -10,3 +10,4 @@
 - pkg:cargo/action-validator@0.7.0
 - pkg:cargo/action-validator@0.7.1
 - pkg:cargo/action-validator@0.8.0
+- pkg:cargo/action-validator@0.9.0

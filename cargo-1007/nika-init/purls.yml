@@ -21,3 +21,5 @@
 - pkg:cargo/nika-init@0.68.2
 - pkg:cargo/nika-init@0.70.0
 - pkg:cargo/nika-init@0.71.0
+- pkg:cargo/nika-init@0.72.0
+- pkg:cargo/nika-init@0.73.0
