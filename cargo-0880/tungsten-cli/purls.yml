@@ -2,3 +2,4 @@
 - pkg:cargo/tungsten-cli@0.1.1
 - pkg:cargo/tungsten-cli@0.1.2
 - pkg:cargo/tungsten-cli@0.1.3
+- pkg:cargo/tungsten-cli@1.0.0
