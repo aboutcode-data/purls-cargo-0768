@@ -11,4 +11,5 @@
 - pkg:cargo/pulumi_gestalt_proto@0.0.5
 - pkg:cargo/pulumi_gestalt_proto@0.0.6
 - pkg:cargo/pulumi_gestalt_proto@0.0.7
+- pkg:cargo/pulumi_gestalt_proto@0.0.8
 - pkg:cargo/pulumi_gestalt_proto@0.2.0-fix-changelog
