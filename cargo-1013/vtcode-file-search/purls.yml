@@ -179,3 +179,4 @@
 - pkg:cargo/vtcode-file-search@0.96.9
 - pkg:cargo/vtcode-file-search@0.97.0
 - pkg:cargo/vtcode-file-search@0.97.1
+- pkg:cargo/vtcode-file-search@0.97.2

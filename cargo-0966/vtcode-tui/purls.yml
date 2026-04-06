@@ -42,3 +42,4 @@
 - pkg:cargo/vtcode-tui@0.96.9
 - pkg:cargo/vtcode-tui@0.97.0
 - pkg:cargo/vtcode-tui@0.97.1
+- pkg:cargo/vtcode-tui@0.97.2
