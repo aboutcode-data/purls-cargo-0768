@@ -20,3 +20,5 @@
 - pkg:cargo/glances@0.6.7
 - pkg:cargo/glances@0.7.0
 - pkg:cargo/glances@0.7.1
+- pkg:cargo/glances@0.8.0
+- pkg:cargo/glances@0.8.1
