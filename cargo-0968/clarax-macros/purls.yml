@@ -1,1 +1,3 @@
 - pkg:cargo/clarax-macros@0.3.0
+- pkg:cargo/clarax-macros@1.0.0
+- pkg:cargo/clarax-macros@1.0.1
