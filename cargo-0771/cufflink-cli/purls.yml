@@ -47,3 +47,6 @@
 - pkg:cargo/cufflink-cli@0.8.36
 - pkg:cargo/cufflink-cli@0.8.37
 - pkg:cargo/cufflink-cli@0.8.39
+- pkg:cargo/cufflink-cli@0.8.41
+- pkg:cargo/cufflink-cli@0.8.42
+- pkg:cargo/cufflink-cli@0.8.43
