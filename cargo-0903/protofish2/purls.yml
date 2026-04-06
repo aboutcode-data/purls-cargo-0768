@@ -4,3 +4,5 @@
 - pkg:cargo/protofish2@0.3.0
 - pkg:cargo/protofish2@0.4.0
 - pkg:cargo/protofish2@0.5.0
+- pkg:cargo/protofish2@0.6.0
+- pkg:cargo/protofish2@0.6.1
