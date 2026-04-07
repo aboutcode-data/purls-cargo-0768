@@ -22,6 +22,7 @@
 - pkg:cargo/oxc_data_structures@0.121.0
 - pkg:cargo/oxc_data_structures@0.122.0
 - pkg:cargo/oxc_data_structures@0.123.0
+- pkg:cargo/oxc_data_structures@0.124.0
 - pkg:cargo/oxc_data_structures@0.30.5
 - pkg:cargo/oxc_data_structures@0.31.0
 - pkg:cargo/oxc_data_structures@0.32.0
