@@ -13,6 +13,7 @@
 - pkg:cargo/zng-wgt-container@0.13.1
 - pkg:cargo/zng-wgt-container@0.13.10
 - pkg:cargo/zng-wgt-container@0.13.11
+- pkg:cargo/zng-wgt-container@0.13.12
 - pkg:cargo/zng-wgt-container@0.13.2
 - pkg:cargo/zng-wgt-container@0.13.3
 - pkg:cargo/zng-wgt-container@0.13.4
