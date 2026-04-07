@@ -28,3 +28,4 @@
 - pkg:cargo/miden-mast-package@0.21.2
 - pkg:cargo/miden-mast-package@0.22.0
 - pkg:cargo/miden-mast-package@0.22.0-alpha.1
+- pkg:cargo/miden-mast-package@0.22.1

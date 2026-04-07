@@ -5,3 +5,4 @@
 - pkg:cargo/pelagos@0.24.0
 - pkg:cargo/pelagos@0.59.0
 - pkg:cargo/pelagos@0.59.2
+- pkg:cargo/pelagos@0.60.6

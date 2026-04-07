@@ -3,3 +3,4 @@
 - pkg:cargo/momento-functions-guest-web@0.14.1
 - pkg:cargo/momento-functions-guest-web@0.15.0
 - pkg:cargo/momento-functions-guest-web@0.15.1
+- pkg:cargo/momento-functions-guest-web@0.16.1

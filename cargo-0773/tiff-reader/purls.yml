@@ -4,3 +4,4 @@
 - pkg:cargo/tiff-reader@0.2.3
 - pkg:cargo/tiff-reader@0.2.4
 - pkg:cargo/tiff-reader@0.2.5
+- pkg:cargo/tiff-reader@0.3.1
