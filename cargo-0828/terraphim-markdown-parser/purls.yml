@@ -1,4 +1,10 @@
 - pkg:cargo/terraphim-markdown-parser@0.1.0
+- pkg:cargo/terraphim-markdown-parser@1.16.10
+- pkg:cargo/terraphim-markdown-parser@1.16.11
+- pkg:cargo/terraphim-markdown-parser@1.16.12
+- pkg:cargo/terraphim-markdown-parser@1.16.13
+- pkg:cargo/terraphim-markdown-parser@1.16.14
+- pkg:cargo/terraphim-markdown-parser@1.16.15
 - pkg:cargo/terraphim-markdown-parser@1.16.7
 - pkg:cargo/terraphim-markdown-parser@1.16.8
 - pkg:cargo/terraphim-markdown-parser@1.16.9
