@@ -28,6 +28,8 @@
 - pkg:cargo/prodex@0.2.121
 - pkg:cargo/prodex@0.2.122
 - pkg:cargo/prodex@0.2.123
+- pkg:cargo/prodex@0.2.124
+- pkg:cargo/prodex@0.2.125
 - pkg:cargo/prodex@0.2.13
 - pkg:cargo/prodex@0.2.14
 - pkg:cargo/prodex@0.2.15
