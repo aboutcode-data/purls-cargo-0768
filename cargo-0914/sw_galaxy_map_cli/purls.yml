@@ -3,3 +3,4 @@
 - pkg:cargo/sw_galaxy_map_cli@0.14.0
 - pkg:cargo/sw_galaxy_map_cli@0.15.1
 - pkg:cargo/sw_galaxy_map_cli@0.15.2
+- pkg:cargo/sw_galaxy_map_cli@0.15.3
