@@ -287,3 +287,4 @@
 - pkg:cargo/vtcode-bash-runner@0.97.2
 - pkg:cargo/vtcode-bash-runner@0.97.3
 - pkg:cargo/vtcode-bash-runner@0.97.4
+- pkg:cargo/vtcode-bash-runner@0.98.0
