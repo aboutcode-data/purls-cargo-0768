@@ -1,6 +1,7 @@
 - pkg:cargo/telltale-language@10.0.0
 - pkg:cargo/telltale-language@11.0.0
 - pkg:cargo/telltale-language@11.1.0
+- pkg:cargo/telltale-language@11.2.0
 - pkg:cargo/telltale-language@7.0.0
 - pkg:cargo/telltale-language@8.0.0
 - pkg:cargo/telltale-language@9.0.0

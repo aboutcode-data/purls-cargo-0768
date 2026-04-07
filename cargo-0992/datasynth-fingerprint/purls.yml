@@ -27,3 +27,4 @@
 - pkg:cargo/datasynth-fingerprint@1.5.0
 - pkg:cargo/datasynth-fingerprint@2.0.0
 - pkg:cargo/datasynth-fingerprint@2.1.0
+- pkg:cargo/datasynth-fingerprint@2.2.0

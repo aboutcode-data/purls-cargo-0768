@@ -3,6 +3,7 @@
 - pkg:cargo/telltale-simulator@10.0.0
 - pkg:cargo/telltale-simulator@11.0.0
 - pkg:cargo/telltale-simulator@11.1.0
+- pkg:cargo/telltale-simulator@11.2.0
 - pkg:cargo/telltale-simulator@2.0.0
 - pkg:cargo/telltale-simulator@2.1.0
 - pkg:cargo/telltale-simulator@3.0.0
