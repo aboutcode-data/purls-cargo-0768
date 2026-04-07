@@ -1,2 +1,3 @@
 - pkg:cargo/uu_sha1sum@0.6.0
 - pkg:cargo/uu_sha1sum@0.7.0
+- pkg:cargo/uu_sha1sum@0.8.0
