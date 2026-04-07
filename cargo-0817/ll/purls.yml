@@ -10,6 +10,7 @@
 - pkg:cargo/ll@0.2.7
 - pkg:cargo/ll@0.2.8
 - pkg:cargo/ll@0.2.9
+- pkg:cargo/ll@10.0.0
 - pkg:cargo/ll@3.0.0
 - pkg:cargo/ll@3.0.1
 - pkg:cargo/ll@3.0.10

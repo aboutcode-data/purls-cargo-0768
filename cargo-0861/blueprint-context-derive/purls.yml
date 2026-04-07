@@ -10,3 +10,4 @@
 - pkg:cargo/blueprint-context-derive@0.1.0-alpha.8
 - pkg:cargo/blueprint-context-derive@0.1.0-alpha.9
 - pkg:cargo/blueprint-context-derive@0.2.0-alpha.1
+- pkg:cargo/blueprint-context-derive@0.2.0-alpha.2
