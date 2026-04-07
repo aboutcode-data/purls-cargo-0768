@@ -61,3 +61,4 @@
 - pkg:cargo/canic-control-plane@0.26.1
 - pkg:cargo/canic-control-plane@0.26.2
 - pkg:cargo/canic-control-plane@0.26.3
+- pkg:cargo/canic-control-plane@0.26.4
