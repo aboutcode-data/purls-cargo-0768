@@ -17,3 +17,4 @@
 - pkg:cargo/lindera-python@2.3.3
 - pkg:cargo/lindera-python@2.3.4
 - pkg:cargo/lindera-python@3.0.0
+- pkg:cargo/lindera-python@3.0.1
