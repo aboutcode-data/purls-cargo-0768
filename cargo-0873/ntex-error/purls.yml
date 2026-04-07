@@ -13,3 +13,4 @@
 - pkg:cargo/ntex-error@1.7.0
 - pkg:cargo/ntex-error@1.7.1
 - pkg:cargo/ntex-error@2.0.0
+- pkg:cargo/ntex-error@2.1.0
