@@ -42,6 +42,8 @@
 - pkg:cargo/codestyle@0.2.48
 - pkg:cargo/codestyle@0.2.49
 - pkg:cargo/codestyle@0.2.5
+- pkg:cargo/codestyle@0.2.50
+- pkg:cargo/codestyle@0.2.51
 - pkg:cargo/codestyle@0.2.6
 - pkg:cargo/codestyle@0.2.7
 - pkg:cargo/codestyle@0.2.8
