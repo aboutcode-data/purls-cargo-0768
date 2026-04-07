@@ -3,3 +3,5 @@
 - pkg:cargo/lolevel@0.3.0-indev
 - pkg:cargo/lolevel@0.3.1-indev
 - pkg:cargo/lolevel@0.4.0-indev
+- pkg:cargo/lolevel@0.5.0-indev
+- pkg:cargo/lolevel@0.5.1-indev

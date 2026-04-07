@@ -1,1 +1,2 @@
 - pkg:cargo/servo-jstraceable-derive@0.1.0-rc1
+- pkg:cargo/servo-jstraceable-derive@0.1.0-rc2
