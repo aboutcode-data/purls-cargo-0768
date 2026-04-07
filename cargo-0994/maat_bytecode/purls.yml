@@ -1,2 +1,3 @@
 - pkg:cargo/maat_bytecode@0.11.2
 - pkg:cargo/maat_bytecode@0.11.3
+- pkg:cargo/maat_bytecode@0.12.0
