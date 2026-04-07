@@ -4,3 +4,4 @@
 - pkg:cargo/wasmsh-fs@0.5.0
 - pkg:cargo/wasmsh-fs@0.5.5
 - pkg:cargo/wasmsh-fs@0.5.6
+- pkg:cargo/wasmsh-fs@0.5.8
