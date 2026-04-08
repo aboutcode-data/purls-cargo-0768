@@ -1,1 +1,2 @@
 - pkg:cargo/perl-lsp-input-validation@0.12.1
+- pkg:cargo/perl-lsp-input-validation@0.12.2
