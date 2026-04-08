@@ -3,3 +3,4 @@
 - pkg:cargo/thiserrorctx@0.3.0
 - pkg:cargo/thiserrorctx@0.4.0
 - pkg:cargo/thiserrorctx@1.0.0
+- pkg:cargo/thiserrorctx@2.0.0
