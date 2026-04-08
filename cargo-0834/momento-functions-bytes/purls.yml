@@ -5,3 +5,5 @@
 - pkg:cargo/momento-functions-bytes@0.15.0
 - pkg:cargo/momento-functions-bytes@0.15.1
 - pkg:cargo/momento-functions-bytes@0.16.1
+- pkg:cargo/momento-functions-bytes@0.17.0
+- pkg:cargo/momento-functions-bytes@0.18.0
