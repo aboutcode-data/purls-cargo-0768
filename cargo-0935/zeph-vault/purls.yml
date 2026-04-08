@@ -8,3 +8,4 @@
 - pkg:cargo/zeph-vault@0.18.3
 - pkg:cargo/zeph-vault@0.18.4
 - pkg:cargo/zeph-vault@0.18.5
+- pkg:cargo/zeph-vault@0.18.6
