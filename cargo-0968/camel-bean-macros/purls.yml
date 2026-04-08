@@ -5,3 +5,4 @@
 - pkg:cargo/camel-bean-macros@0.5.1
 - pkg:cargo/camel-bean-macros@0.5.6
 - pkg:cargo/camel-bean-macros@0.5.7
+- pkg:cargo/camel-bean-macros@0.5.8
