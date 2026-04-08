@@ -1,4 +1,5 @@
 - pkg:cargo/btrfs-tune@0.10.0
+- pkg:cargo/btrfs-tune@0.11.0
 - pkg:cargo/btrfs-tune@0.7.0
 - pkg:cargo/btrfs-tune@0.8.0
 - pkg:cargo/btrfs-tune@0.9.0
