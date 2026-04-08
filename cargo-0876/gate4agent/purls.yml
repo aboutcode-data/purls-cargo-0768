@@ -2,6 +2,10 @@
 - pkg:cargo/gate4agent@0.1.1
 - pkg:cargo/gate4agent@0.1.10
 - pkg:cargo/gate4agent@0.1.11
+- pkg:cargo/gate4agent@0.1.12
+- pkg:cargo/gate4agent@0.1.13
+- pkg:cargo/gate4agent@0.1.14
+- pkg:cargo/gate4agent@0.1.15
 - pkg:cargo/gate4agent@0.1.2
 - pkg:cargo/gate4agent@0.1.3
 - pkg:cargo/gate4agent@0.1.4
