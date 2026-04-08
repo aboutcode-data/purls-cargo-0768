@@ -28,6 +28,7 @@
 - pkg:cargo/uv-client@0.0.34
 - pkg:cargo/uv-client@0.0.35
 - pkg:cargo/uv-client@0.0.36
+- pkg:cargo/uv-client@0.0.37
 - pkg:cargo/uv-client@0.0.4
 - pkg:cargo/uv-client@0.0.5
 - pkg:cargo/uv-client@0.0.6

@@ -2,6 +2,7 @@
 - pkg:cargo/rspack_loader_swc@0.100.0-beta.8
 - pkg:cargo/rspack_loader_swc@0.100.0-beta.9
 - pkg:cargo/rspack_loader_swc@0.100.0-rc.0
+- pkg:cargo/rspack_loader_swc@0.100.0-rc.1
 - pkg:cargo/rspack_loader_swc@0.2.0
 - pkg:cargo/rspack_loader_swc@0.2.1-alpha.0
 - pkg:cargo/rspack_loader_swc@0.2.1-alpha.1
