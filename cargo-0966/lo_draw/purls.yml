@@ -12,3 +12,4 @@
 - pkg:cargo/lo_draw@0.3.9
 - pkg:cargo/lo_draw@0.4.0
 - pkg:cargo/lo_draw@0.4.1
+- pkg:cargo/lo_draw@0.4.2

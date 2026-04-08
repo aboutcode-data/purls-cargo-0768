@@ -1,5 +1,6 @@
 - pkg:cargo/securestore@0.100.0
 - pkg:cargo/securestore@0.100.2
+- pkg:cargo/securestore@0.100.3
 - pkg:cargo/securestore@0.99.0
 - pkg:cargo/securestore@0.99.1
 - pkg:cargo/securestore@0.99.2
