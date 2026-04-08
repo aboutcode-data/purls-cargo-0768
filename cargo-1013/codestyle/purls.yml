@@ -50,6 +50,9 @@
 - pkg:cargo/codestyle@0.2.58
 - pkg:cargo/codestyle@0.2.59
 - pkg:cargo/codestyle@0.2.6
+- pkg:cargo/codestyle@0.2.61
+- pkg:cargo/codestyle@0.2.62
+- pkg:cargo/codestyle@0.2.63
 - pkg:cargo/codestyle@0.2.7
 - pkg:cargo/codestyle@0.2.8
 - pkg:cargo/codestyle@0.2.9
