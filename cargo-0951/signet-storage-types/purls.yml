@@ -15,3 +15,4 @@
 - pkg:cargo/signet-storage-types@0.6.7
 - pkg:cargo/signet-storage-types@0.6.8
 - pkg:cargo/signet-storage-types@0.6.9
+- pkg:cargo/signet-storage-types@0.7.0

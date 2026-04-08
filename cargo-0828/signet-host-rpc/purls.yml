@@ -1,1 +1,2 @@
 - pkg:cargo/signet-host-rpc@0.17.0
+- pkg:cargo/signet-host-rpc@0.17.1
