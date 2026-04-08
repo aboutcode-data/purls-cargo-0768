@@ -3,3 +3,4 @@
 - pkg:cargo/trillium-aws-lambda@0.2.0
 - pkg:cargo/trillium-aws-lambda@0.2.1
 - pkg:cargo/trillium-aws-lambda@0.2.2
+- pkg:cargo/trillium-aws-lambda@0.3.0-rc.1

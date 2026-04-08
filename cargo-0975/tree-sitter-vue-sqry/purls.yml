@@ -18,3 +18,4 @@
 - pkg:cargo/tree-sitter-vue-sqry@7.1.3
 - pkg:cargo/tree-sitter-vue-sqry@7.1.4
 - pkg:cargo/tree-sitter-vue-sqry@7.1.5
+- pkg:cargo/tree-sitter-vue-sqry@7.2.0
