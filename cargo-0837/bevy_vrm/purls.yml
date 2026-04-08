@@ -11,3 +11,4 @@
 - pkg:cargo/bevy_vrm@0.0.8
 - pkg:cargo/bevy_vrm@0.0.9
 - pkg:cargo/bevy_vrm@0.1.0
+- pkg:cargo/bevy_vrm@0.3.0
