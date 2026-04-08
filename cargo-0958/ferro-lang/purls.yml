@@ -15,3 +15,5 @@
 - pkg:cargo/ferro-lang@0.1.86
 - pkg:cargo/ferro-lang@0.1.87
 - pkg:cargo/ferro-lang@0.1.88
+- pkg:cargo/ferro-lang@0.2.0
+- pkg:cargo/ferro-lang@0.2.1
