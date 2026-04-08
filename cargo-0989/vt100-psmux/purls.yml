@@ -2,3 +2,4 @@
 - pkg:cargo/vt100-psmux@0.16.3
 - pkg:cargo/vt100-psmux@0.16.4
 - pkg:cargo/vt100-psmux@0.16.5
+- pkg:cargo/vt100-psmux@0.16.6
