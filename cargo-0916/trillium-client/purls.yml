@@ -25,3 +25,4 @@
 - pkg:cargo/trillium-client@0.6.0
 - pkg:cargo/trillium-client@0.6.1
 - pkg:cargo/trillium-client@0.6.2
+- pkg:cargo/trillium-client@0.7.0-rc.1
