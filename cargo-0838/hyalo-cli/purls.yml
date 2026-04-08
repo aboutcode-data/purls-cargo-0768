@@ -1,3 +1,4 @@
+- pkg:cargo/hyalo-cli@0.10.0
 - pkg:cargo/hyalo-cli@0.7.1
 - pkg:cargo/hyalo-cli@0.7.3
 - pkg:cargo/hyalo-cli@0.8.0
