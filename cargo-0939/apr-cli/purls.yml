@@ -17,6 +17,8 @@
 - pkg:cargo/apr-cli@0.2.8
 - pkg:cargo/apr-cli@0.2.9
 - pkg:cargo/apr-cli@0.29.0
+- pkg:cargo/apr-cli@0.29.1
+- pkg:cargo/apr-cli@0.29.2
 - pkg:cargo/apr-cli@0.3.0
 - pkg:cargo/apr-cli@0.3.1
 - pkg:cargo/apr-cli@0.4.0
