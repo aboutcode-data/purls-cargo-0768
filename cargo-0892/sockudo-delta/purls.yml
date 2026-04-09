@@ -7,3 +7,4 @@
 - pkg:cargo/sockudo-delta@3.4.2
 - pkg:cargo/sockudo-delta@4.0.0
 - pkg:cargo/sockudo-delta@4.1.0
+- pkg:cargo/sockudo-delta@4.1.1
