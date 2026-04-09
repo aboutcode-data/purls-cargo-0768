@@ -109,6 +109,8 @@
 - pkg:cargo/tycho-ethereum@0.154.0
 - pkg:cargo/tycho-ethereum@0.155.0
 - pkg:cargo/tycho-ethereum@0.156.0
+- pkg:cargo/tycho-ethereum@0.157.0
+- pkg:cargo/tycho-ethereum@0.157.1
 - pkg:cargo/tycho-ethereum@0.91.0
 - pkg:cargo/tycho-ethereum@0.91.1
 - pkg:cargo/tycho-ethereum@0.91.2
