@@ -12,3 +12,5 @@
 - pkg:cargo/ruviz-web@0.4.3
 - pkg:cargo/ruviz-web@0.4.5
 - pkg:cargo/ruviz-web@0.4.6
+- pkg:cargo/ruviz-web@0.4.7
+- pkg:cargo/ruviz-web@0.4.8
