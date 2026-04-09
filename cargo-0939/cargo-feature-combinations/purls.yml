@@ -38,5 +38,6 @@
 - pkg:cargo/cargo-feature-combinations@0.0.48
 - pkg:cargo/cargo-feature-combinations@0.0.49
 - pkg:cargo/cargo-feature-combinations@0.0.5
+- pkg:cargo/cargo-feature-combinations@0.0.50
 - pkg:cargo/cargo-feature-combinations@0.0.8
 - pkg:cargo/cargo-feature-combinations@0.0.9
