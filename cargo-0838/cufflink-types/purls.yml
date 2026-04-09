@@ -1,3 +1,4 @@
 - pkg:cargo/cufflink-types@0.1.0
 - pkg:cargo/cufflink-types@0.6.0
 - pkg:cargo/cufflink-types@0.6.1
+- pkg:cargo/cufflink-types@0.7.0
