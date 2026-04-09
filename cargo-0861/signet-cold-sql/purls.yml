@@ -14,3 +14,4 @@
 - pkg:cargo/signet-cold-sql@0.6.8
 - pkg:cargo/signet-cold-sql@0.6.9
 - pkg:cargo/signet-cold-sql@0.7.0
+- pkg:cargo/signet-cold-sql@0.7.1
