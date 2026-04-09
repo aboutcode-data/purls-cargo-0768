@@ -1,5 +1,6 @@
 - pkg:cargo/kaslc@0.2.10
 - pkg:cargo/kaslc@0.2.11
+- pkg:cargo/kaslc@0.2.12
 - pkg:cargo/kaslc@0.2.5
 - pkg:cargo/kaslc@0.2.6
 - pkg:cargo/kaslc@0.2.7
