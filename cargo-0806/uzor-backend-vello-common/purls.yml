@@ -26,7 +26,9 @@
 - pkg:cargo/uzor-backend-vello-common@1.0.36
 - pkg:cargo/uzor-backend-vello-common@1.0.37
 - pkg:cargo/uzor-backend-vello-common@1.0.38
+- pkg:cargo/uzor-backend-vello-common@1.0.39
 - pkg:cargo/uzor-backend-vello-common@1.0.4
+- pkg:cargo/uzor-backend-vello-common@1.0.40
 - pkg:cargo/uzor-backend-vello-common@1.0.5
 - pkg:cargo/uzor-backend-vello-common@1.0.6
 - pkg:cargo/uzor-backend-vello-common@1.0.8
