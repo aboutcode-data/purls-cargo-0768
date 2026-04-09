@@ -27,3 +27,4 @@
 - pkg:cargo/base64-stream@3.0.1
 - pkg:cargo/base64-stream@4.0.0
 - pkg:cargo/base64-stream@4.0.1
+- pkg:cargo/base64-stream@5.0.0
