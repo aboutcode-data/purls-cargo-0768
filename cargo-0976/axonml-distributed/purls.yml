@@ -12,3 +12,4 @@
 - pkg:cargo/axonml-distributed@0.4.2
 - pkg:cargo/axonml-distributed@0.4.3
 - pkg:cargo/axonml-distributed@0.5.0
+- pkg:cargo/axonml-distributed@0.6.0

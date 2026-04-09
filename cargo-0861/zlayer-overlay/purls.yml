@@ -6,6 +6,7 @@
 - pkg:cargo/zlayer-overlay@0.10.62
 - pkg:cargo/zlayer-overlay@0.10.63
 - pkg:cargo/zlayer-overlay@0.10.64
+- pkg:cargo/zlayer-overlay@0.10.65
 - pkg:cargo/zlayer-overlay@0.9.991
 - pkg:cargo/zlayer-overlay@0.9.993
 - pkg:cargo/zlayer-overlay@0.9.994

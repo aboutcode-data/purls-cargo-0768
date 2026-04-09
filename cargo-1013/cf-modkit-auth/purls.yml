@@ -19,3 +19,4 @@
 - pkg:cargo/cf-modkit-auth@0.5.9
 - pkg:cargo/cf-modkit-auth@0.6.0
 - pkg:cargo/cf-modkit-auth@0.6.1
+- pkg:cargo/cf-modkit-auth@0.6.2
