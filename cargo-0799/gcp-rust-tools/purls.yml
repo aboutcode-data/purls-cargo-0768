@@ -4,3 +4,4 @@
 - pkg:cargo/gcp-rust-tools@0.2.3
 - pkg:cargo/gcp-rust-tools@0.2.4
 - pkg:cargo/gcp-rust-tools@0.2.5
+- pkg:cargo/gcp-rust-tools@0.2.6

@@ -38,6 +38,7 @@
 - pkg:cargo/cranelift-jit@0.111.4
 - pkg:cargo/cranelift-jit@0.111.5
 - pkg:cargo/cranelift-jit@0.111.6
+- pkg:cargo/cranelift-jit@0.111.7
 - pkg:cargo/cranelift-jit@0.112.0
 - pkg:cargo/cranelift-jit@0.112.1
 - pkg:cargo/cranelift-jit@0.112.2
@@ -69,6 +70,7 @@
 - pkg:cargo/cranelift-jit@0.123.4
 - pkg:cargo/cranelift-jit@0.123.5
 - pkg:cargo/cranelift-jit@0.123.6
+- pkg:cargo/cranelift-jit@0.123.7
 - pkg:cargo/cranelift-jit@0.124.0
 - pkg:cargo/cranelift-jit@0.124.1
 - pkg:cargo/cranelift-jit@0.124.2
@@ -93,7 +95,9 @@
 - pkg:cargo/cranelift-jit@0.128.4
 - pkg:cargo/cranelift-jit@0.129.0
 - pkg:cargo/cranelift-jit@0.129.1
+- pkg:cargo/cranelift-jit@0.129.2
 - pkg:cargo/cranelift-jit@0.130.0
+- pkg:cargo/cranelift-jit@0.130.1
 - pkg:cargo/cranelift-jit@0.69.0
 - pkg:cargo/cranelift-jit@0.70.0
 - pkg:cargo/cranelift-jit@0.71.0
