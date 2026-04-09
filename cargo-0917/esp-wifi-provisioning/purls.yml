@@ -1,1 +1,2 @@
 - pkg:cargo/esp-wifi-provisioning@0.1.0
+- pkg:cargo/esp-wifi-provisioning@0.1.1
