@@ -22,3 +22,4 @@
 - pkg:cargo/zerox1-client@0.5.7
 - pkg:cargo/zerox1-client@0.5.8
 - pkg:cargo/zerox1-client@0.5.9
+- pkg:cargo/zerox1-client@0.6.0
