@@ -60,6 +60,7 @@
 - pkg:cargo/deno_fs@0.152.0
 - pkg:cargo/deno_fs@0.153.0
 - pkg:cargo/deno_fs@0.154.0
+- pkg:cargo/deno_fs@0.155.0
 - pkg:cargo/deno_fs@0.16.0
 - pkg:cargo/deno_fs@0.17.0
 - pkg:cargo/deno_fs@0.18.0
