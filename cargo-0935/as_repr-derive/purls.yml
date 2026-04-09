@@ -2,3 +2,4 @@
 - pkg:cargo/as_repr-derive@1.4.0
 - pkg:cargo/as_repr-derive@1.4.1
 - pkg:cargo/as_repr-derive@1.5.0
+- pkg:cargo/as_repr-derive@1.6.0
