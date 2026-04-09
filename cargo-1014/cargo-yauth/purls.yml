@@ -11,3 +11,5 @@
 - pkg:cargo/cargo-yauth@0.8.7
 - pkg:cargo/cargo-yauth@0.8.8
 - pkg:cargo/cargo-yauth@0.8.9
+- pkg:cargo/cargo-yauth@0.9.0
+- pkg:cargo/cargo-yauth@0.9.1
