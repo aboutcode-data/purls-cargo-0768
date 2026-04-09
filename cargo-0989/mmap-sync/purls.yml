@@ -6,3 +6,5 @@
 - pkg:cargo/mmap-sync@2.0.0
 - pkg:cargo/mmap-sync@2.0.1
 - pkg:cargo/mmap-sync@2.0.2
+- pkg:cargo/mmap-sync@2.0.3
+- pkg:cargo/mmap-sync@2.0.4
