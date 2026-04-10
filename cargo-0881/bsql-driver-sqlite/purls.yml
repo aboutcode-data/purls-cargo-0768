@@ -17,3 +17,4 @@
 - pkg:cargo/bsql-driver-sqlite@0.26.2
 - pkg:cargo/bsql-driver-sqlite@0.26.3
 - pkg:cargo/bsql-driver-sqlite@0.26.4
+- pkg:cargo/bsql-driver-sqlite@0.27.0
