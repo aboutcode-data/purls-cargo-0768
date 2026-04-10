@@ -7,3 +7,5 @@
 - pkg:cargo/cashu-service@0.2.25
 - pkg:cargo/cashu-service@0.2.26
 - pkg:cargo/cashu-service@0.2.28
+- pkg:cargo/cashu-service@0.2.30
+- pkg:cargo/cashu-service@0.2.31
