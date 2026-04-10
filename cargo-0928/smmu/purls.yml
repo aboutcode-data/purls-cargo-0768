@@ -23,3 +23,5 @@
 - pkg:cargo/smmu@1.4.0
 - pkg:cargo/smmu@1.5.0
 - pkg:cargo/smmu@1.6.0
+- pkg:cargo/smmu@1.6.4
+- pkg:cargo/smmu@1.6.5

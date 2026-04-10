@@ -32,3 +32,4 @@
 - pkg:cargo/ralph-core@2.8.1
 - pkg:cargo/ralph-core@2.9.0
 - pkg:cargo/ralph-core@2.9.1
+- pkg:cargo/ralph-core@2.9.2
