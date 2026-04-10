@@ -1,5 +1,7 @@
+- pkg:cargo/oxidized-inventory@0.1.0-dev.00a798c
 - pkg:cargo/oxidized-inventory@0.1.0-dev.2b07f4b
 - pkg:cargo/oxidized-inventory@0.1.0-dev.3c80246
+- pkg:cargo/oxidized-inventory@0.1.0-dev.6279479
 - pkg:cargo/oxidized-inventory@0.1.0-dev.ba3d6db
 - pkg:cargo/oxidized-inventory@0.1.0-dev.bcb12b1
 - pkg:cargo/oxidized-inventory@0.1.0-dev.cc99baf
