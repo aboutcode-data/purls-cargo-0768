@@ -2,3 +2,4 @@
 - pkg:cargo/audiflow-smartplaylist-server@2.0.1
 - pkg:cargo/audiflow-smartplaylist-server@2.1.0
 - pkg:cargo/audiflow-smartplaylist-server@3.0.0
+- pkg:cargo/audiflow-smartplaylist-server@4.0.0
