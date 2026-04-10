@@ -87,3 +87,4 @@
 - pkg:cargo/snarkvm-console-types-scalar@4.5.0
 - pkg:cargo/snarkvm-console-types-scalar@4.5.4
 - pkg:cargo/snarkvm-console-types-scalar@4.6.0
+- pkg:cargo/snarkvm-console-types-scalar@4.6.1

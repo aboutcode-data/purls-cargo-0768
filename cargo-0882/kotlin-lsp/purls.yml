@@ -4,3 +4,4 @@
 - pkg:cargo/kotlin-lsp@0.3.0
 - pkg:cargo/kotlin-lsp@0.3.10
 - pkg:cargo/kotlin-lsp@0.3.11
+- pkg:cargo/kotlin-lsp@0.3.12
