@@ -6,3 +6,4 @@
 - pkg:cargo/camel-component-http@0.5.6
 - pkg:cargo/camel-component-http@0.5.7
 - pkg:cargo/camel-component-http@0.5.8
+- pkg:cargo/camel-component-http@0.6.0
