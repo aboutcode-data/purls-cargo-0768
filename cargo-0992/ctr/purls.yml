@@ -1,5 +1,6 @@
 - pkg:cargo/ctr@0.1.0
 - pkg:cargo/ctr@0.1.1
+- pkg:cargo/ctr@0.10.0
 - pkg:cargo/ctr@0.10.0-pre.0
 - pkg:cargo/ctr@0.10.0-pre.1
 - pkg:cargo/ctr@0.10.0-pre.2
