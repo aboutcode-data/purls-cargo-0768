@@ -30,6 +30,7 @@
 - pkg:cargo/pulpod@0.0.41
 - pkg:cargo/pulpod@0.0.42
 - pkg:cargo/pulpod@0.0.43
+- pkg:cargo/pulpod@0.0.44
 - pkg:cargo/pulpod@0.0.6
 - pkg:cargo/pulpod@0.0.7
 - pkg:cargo/pulpod@0.0.8
