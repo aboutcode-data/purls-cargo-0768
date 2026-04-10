@@ -19,3 +19,4 @@
 - pkg:cargo/sqry-lang-css@7.1.4
 - pkg:cargo/sqry-lang-css@7.1.5
 - pkg:cargo/sqry-lang-css@7.2.0
+- pkg:cargo/sqry-lang-css@8.0.0
