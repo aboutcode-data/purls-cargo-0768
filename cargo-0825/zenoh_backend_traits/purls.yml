@@ -44,3 +44,4 @@
 - pkg:cargo/zenoh_backend_traits@1.7.1
 - pkg:cargo/zenoh_backend_traits@1.7.2
 - pkg:cargo/zenoh_backend_traits@1.8.0
+- pkg:cargo/zenoh_backend_traits@1.9.0

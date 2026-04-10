@@ -9,3 +9,4 @@
 - pkg:cargo/zentinel-agent-protocol@0.5.8
 - pkg:cargo/zentinel-agent-protocol@0.6.2
 - pkg:cargo/zentinel-agent-protocol@0.6.4
+- pkg:cargo/zentinel-agent-protocol@0.6.6
