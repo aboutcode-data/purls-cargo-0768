@@ -1,1 +1,2 @@
 - pkg:cargo/foundry-local-sdk@0.0.0
+- pkg:cargo/foundry-local-sdk@1.0.0

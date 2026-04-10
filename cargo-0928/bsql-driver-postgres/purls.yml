@@ -12,3 +12,6 @@
 - pkg:cargo/bsql-driver-postgres@0.24.0
 - pkg:cargo/bsql-driver-postgres@0.24.1
 - pkg:cargo/bsql-driver-postgres@0.25.0
+- pkg:cargo/bsql-driver-postgres@0.26.0
+- pkg:cargo/bsql-driver-postgres@0.26.1
+- pkg:cargo/bsql-driver-postgres@0.26.2
