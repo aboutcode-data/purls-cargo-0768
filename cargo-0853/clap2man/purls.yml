@@ -1,1 +1,2 @@
 - pkg:cargo/clap2man@0.1.0
+- pkg:cargo/clap2man@0.1.1
