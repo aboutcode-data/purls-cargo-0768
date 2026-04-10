@@ -35,6 +35,7 @@
 - pkg:cargo/revm-primitives@21.0.2
 - pkg:cargo/revm-primitives@22.0.0
 - pkg:cargo/revm-primitives@22.1.0
+- pkg:cargo/revm-primitives@23.0.0
 - pkg:cargo/revm-primitives@3.0.0
 - pkg:cargo/revm-primitives@3.1.0
 - pkg:cargo/revm-primitives@3.1.1
