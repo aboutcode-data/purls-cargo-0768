@@ -1,1 +1,2 @@
 - pkg:cargo/zccache-fscache@1.1.18
+- pkg:cargo/zccache-fscache@1.2.1

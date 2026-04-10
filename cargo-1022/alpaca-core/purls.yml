@@ -1,0 +1,4 @@
+- pkg:cargo/alpaca-core@0.23.6
+- pkg:cargo/alpaca-core@0.23.7
+- pkg:cargo/alpaca-core@0.23.8
+- pkg:cargo/alpaca-core@0.24.2
