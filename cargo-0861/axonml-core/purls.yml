@@ -16,3 +16,4 @@
 - pkg:cargo/axonml-core@0.4.3
 - pkg:cargo/axonml-core@0.5.0
 - pkg:cargo/axonml-core@0.6.0
+- pkg:cargo/axonml-core@0.6.1
