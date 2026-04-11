@@ -7,3 +7,4 @@
 - pkg:cargo/vparser@1.0.1
 - pkg:cargo/vparser@1.1.0
 - pkg:cargo/vparser@1.2.0
+- pkg:cargo/vparser@1.2.1
