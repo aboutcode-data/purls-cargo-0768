@@ -22,6 +22,7 @@
 - pkg:cargo/blazen-macros@0.1.123
 - pkg:cargo/blazen-macros@0.1.124
 - pkg:cargo/blazen-macros@0.1.125
+- pkg:cargo/blazen-macros@0.1.126
 - pkg:cargo/blazen-macros@0.1.85
 - pkg:cargo/blazen-macros@0.1.89
 - pkg:cargo/blazen-macros@0.1.90
