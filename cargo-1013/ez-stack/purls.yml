@@ -37,6 +37,8 @@
 - pkg:cargo/ez-stack@0.2.18
 - pkg:cargo/ez-stack@0.2.19
 - pkg:cargo/ez-stack@0.2.20
+- pkg:cargo/ez-stack@0.2.21
+- pkg:cargo/ez-stack@0.2.22
 - pkg:cargo/ez-stack@0.2.3
 - pkg:cargo/ez-stack@0.2.4
 - pkg:cargo/ez-stack@0.2.8
