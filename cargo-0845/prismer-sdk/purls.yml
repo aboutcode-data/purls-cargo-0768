@@ -2,3 +2,4 @@
 - pkg:cargo/prismer-sdk@1.7.3
 - pkg:cargo/prismer-sdk@1.7.4
 - pkg:cargo/prismer-sdk@1.8.0
+- pkg:cargo/prismer-sdk@1.8.1
