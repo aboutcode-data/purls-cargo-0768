@@ -4,3 +4,4 @@
 - pkg:cargo/edgecrab-cli@0.1.4
 - pkg:cargo/edgecrab-cli@0.2.2
 - pkg:cargo/edgecrab-cli@0.2.3
+- pkg:cargo/edgecrab-cli@0.3.0
