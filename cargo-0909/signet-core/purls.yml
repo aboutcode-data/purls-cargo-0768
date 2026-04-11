@@ -7,3 +7,4 @@
 - pkg:cargo/signet-core@0.4.6
 - pkg:cargo/signet-core@0.5.0
 - pkg:cargo/signet-core@0.6.0
+- pkg:cargo/signet-core@0.7.0
