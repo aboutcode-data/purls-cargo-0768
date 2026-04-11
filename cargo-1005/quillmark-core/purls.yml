@@ -114,6 +114,7 @@
 - pkg:cargo/quillmark-core@0.50.0
 - pkg:cargo/quillmark-core@0.51.0
 - pkg:cargo/quillmark-core@0.51.1
+- pkg:cargo/quillmark-core@0.52.0
 - pkg:cargo/quillmark-core@0.6.0
 - pkg:cargo/quillmark-core@0.6.1
 - pkg:cargo/quillmark-core@0.6.10
