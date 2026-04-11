@@ -65,3 +65,4 @@
 - pkg:cargo/seq-repl@5.1.1
 - pkg:cargo/seq-repl@5.2.0
 - pkg:cargo/seq-repl@5.2.1
+- pkg:cargo/seq-repl@5.3.0
