@@ -1,3 +1,4 @@
 - pkg:cargo/motosan-wallet-core@0.1.0
 - pkg:cargo/motosan-wallet-core@0.4.1
 - pkg:cargo/motosan-wallet-core@0.5.0
+- pkg:cargo/motosan-wallet-core@0.5.1
