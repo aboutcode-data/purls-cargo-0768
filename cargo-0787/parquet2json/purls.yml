@@ -22,3 +22,4 @@
 - pkg:cargo/parquet2json@4.1.0
 - pkg:cargo/parquet2json@4.2.0
 - pkg:cargo/parquet2json@4.3.0
+- pkg:cargo/parquet2json@4.4.0
