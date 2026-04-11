@@ -3,3 +3,4 @@
 - pkg:cargo/slop-matrix@6.0.0-rc.1
 - pkg:cargo/slop-matrix@6.0.1
 - pkg:cargo/slop-matrix@6.0.2
+- pkg:cargo/slop-matrix@6.1.0
