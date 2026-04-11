@@ -5,6 +5,7 @@
 - pkg:cargo/mockforge-tui@0.3.105
 - pkg:cargo/mockforge-tui@0.3.109
 - pkg:cargo/mockforge-tui@0.3.110
+- pkg:cargo/mockforge-tui@0.3.111
 - pkg:cargo/mockforge-tui@0.3.69
 - pkg:cargo/mockforge-tui@0.3.70
 - pkg:cargo/mockforge-tui@0.3.71
