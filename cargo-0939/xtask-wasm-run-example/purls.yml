@@ -6,3 +6,6 @@
 - pkg:cargo/xtask-wasm-run-example@0.2.1
 - pkg:cargo/xtask-wasm-run-example@0.2.3
 - pkg:cargo/xtask-wasm-run-example@0.3.0
+- pkg:cargo/xtask-wasm-run-example@0.4.0
+- pkg:cargo/xtask-wasm-run-example@0.6.0
+- pkg:cargo/xtask-wasm-run-example@0.6.1

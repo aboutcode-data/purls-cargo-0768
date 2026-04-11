@@ -5,3 +5,5 @@
 - pkg:cargo/edgecrab-gateway@0.2.2
 - pkg:cargo/edgecrab-gateway@0.2.3
 - pkg:cargo/edgecrab-gateway@0.3.0
+- pkg:cargo/edgecrab-gateway@0.3.2
+- pkg:cargo/edgecrab-gateway@0.3.3
