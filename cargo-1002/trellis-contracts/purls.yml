@@ -1,2 +1,3 @@
 - pkg:cargo/trellis-contracts@0.4.0
 - pkg:cargo/trellis-contracts@0.5.1
+- pkg:cargo/trellis-contracts@0.6.0

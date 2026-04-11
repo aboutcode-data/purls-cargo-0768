@@ -24,3 +24,5 @@
 - pkg:cargo/tree-sitter-zsh@0.61.1
 - pkg:cargo/tree-sitter-zsh@0.62.0
 - pkg:cargo/tree-sitter-zsh@0.63.1
+- pkg:cargo/tree-sitter-zsh@0.63.2
+- pkg:cargo/tree-sitter-zsh@0.63.3
