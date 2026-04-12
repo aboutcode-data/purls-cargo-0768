@@ -1,1 +1,2 @@
 - pkg:cargo/localgpt-bridge-slack@0.3.5
+- pkg:cargo/localgpt-bridge-slack@0.3.6
