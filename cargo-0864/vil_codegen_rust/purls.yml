@@ -5,3 +5,4 @@
 - pkg:cargo/vil_codegen_rust@0.1.4
 - pkg:cargo/vil_codegen_rust@0.2.0
 - pkg:cargo/vil_codegen_rust@0.2.2
+- pkg:cargo/vil_codegen_rust@0.3.0
