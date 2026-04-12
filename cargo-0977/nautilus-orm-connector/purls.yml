@@ -3,3 +3,4 @@
 - pkg:cargo/nautilus-orm-connector@0.1.5
 - pkg:cargo/nautilus-orm-connector@0.1.6
 - pkg:cargo/nautilus-orm-connector@0.1.7
+- pkg:cargo/nautilus-orm-connector@1.0.0
