@@ -5,5 +5,9 @@
 - pkg:cargo/rdx-cli@0.1.1-beta.1
 - pkg:cargo/rdx-cli@0.1.1-beta.2
 - pkg:cargo/rdx-cli@0.1.1-beta.3
+- pkg:cargo/rdx-cli@0.1.2
+- pkg:cargo/rdx-cli@0.1.2-beta.10
+- pkg:cargo/rdx-cli@0.1.2-beta.11
 - pkg:cargo/rdx-cli@0.1.2-beta.7
 - pkg:cargo/rdx-cli@0.1.2-beta.8
+- pkg:cargo/rdx-cli@0.1.2-beta.9
