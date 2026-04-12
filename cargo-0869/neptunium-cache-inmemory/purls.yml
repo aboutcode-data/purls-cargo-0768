@@ -4,3 +4,4 @@
 - pkg:cargo/neptunium-cache-inmemory@0.5.2
 - pkg:cargo/neptunium-cache-inmemory@0.5.3
 - pkg:cargo/neptunium-cache-inmemory@0.5.4
+- pkg:cargo/neptunium-cache-inmemory@0.5.5
