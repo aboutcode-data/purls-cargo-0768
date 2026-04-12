@@ -17,3 +17,4 @@
 - pkg:cargo/tishlang_compile@1.4.2
 - pkg:cargo/tishlang_compile@1.5.0
 - pkg:cargo/tishlang_compile@1.6.0
+- pkg:cargo/tishlang_compile@1.7.0
