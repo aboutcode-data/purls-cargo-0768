@@ -29,6 +29,7 @@
 - pkg:cargo/zorto@0.20.4
 - pkg:cargo/zorto@0.20.5
 - pkg:cargo/zorto@0.20.6
+- pkg:cargo/zorto@0.21.0
 - pkg:cargo/zorto@0.3.0
 - pkg:cargo/zorto@0.5.0
 - pkg:cargo/zorto@0.6.0
