@@ -4,6 +4,7 @@
 - pkg:cargo/telltale-bridge@11.2.0
 - pkg:cargo/telltale-bridge@11.3.0
 - pkg:cargo/telltale-bridge@12.0.0
+- pkg:cargo/telltale-bridge@13.0.0
 - pkg:cargo/telltale-bridge@7.0.0
 - pkg:cargo/telltale-bridge@8.0.0
 - pkg:cargo/telltale-bridge@9.0.0
