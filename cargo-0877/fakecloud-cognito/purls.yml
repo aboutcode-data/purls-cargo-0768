@@ -3,3 +3,4 @@
 - pkg:cargo/fakecloud-cognito@0.6.0
 - pkg:cargo/fakecloud-cognito@0.6.1
 - pkg:cargo/fakecloud-cognito@0.7.0
+- pkg:cargo/fakecloud-cognito@0.7.1
