@@ -41,6 +41,7 @@
 - pkg:cargo/crev-lib@0.26.0
 - pkg:cargo/crev-lib@0.26.1
 - pkg:cargo/crev-lib@0.26.3
+- pkg:cargo/crev-lib@0.27.1
 - pkg:cargo/crev-lib@0.3.0
 - pkg:cargo/crev-lib@0.4.0
 - pkg:cargo/crev-lib@0.5.0
