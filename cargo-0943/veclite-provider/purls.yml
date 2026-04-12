@@ -1,2 +1,4 @@
 - pkg:cargo/veclite-provider@1.0.7
 - pkg:cargo/veclite-provider@1.0.9
+- pkg:cargo/veclite-provider@1.1.0
+- pkg:cargo/veclite-provider@1.1.1
