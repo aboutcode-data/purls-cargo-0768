@@ -28,6 +28,8 @@
 - pkg:cargo/uzor-backend-canvas2d@1.0.4
 - pkg:cargo/uzor-backend-canvas2d@1.0.40
 - pkg:cargo/uzor-backend-canvas2d@1.0.41
+- pkg:cargo/uzor-backend-canvas2d@1.0.42
+- pkg:cargo/uzor-backend-canvas2d@1.0.43
 - pkg:cargo/uzor-backend-canvas2d@1.0.5
 - pkg:cargo/uzor-backend-canvas2d@1.0.6
 - pkg:cargo/uzor-backend-canvas2d@1.0.8
