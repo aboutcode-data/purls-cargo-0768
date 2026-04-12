@@ -35,5 +35,6 @@
 - pkg:cargo/php-lsp@0.1.49
 - pkg:cargo/php-lsp@0.1.5
 - pkg:cargo/php-lsp@0.1.50
+- pkg:cargo/php-lsp@0.1.51
 - pkg:cargo/php-lsp@0.1.6
 - pkg:cargo/php-lsp@0.1.7
