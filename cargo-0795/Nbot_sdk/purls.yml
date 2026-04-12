@@ -1,2 +1,4 @@
 - pkg:cargo/Nbot_sdk@1.0.0
 - pkg:cargo/Nbot_sdk@1.0.0-beta.1
+- pkg:cargo/Nbot_sdk@1.0.0-beta.2
+- pkg:cargo/Nbot_sdk@1.0.1-beta.1

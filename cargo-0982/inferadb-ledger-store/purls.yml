@@ -129,4 +129,5 @@
 - pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260409
 - pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260410
 - pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260411
+- pkg:cargo/inferadb-ledger-store@0.1.0-dev.20260412
 - pkg:cargo/inferadb-ledger-store@0.1.0-nightly.20260127
