@@ -7,3 +7,4 @@
 - pkg:cargo/fraiseql-arrow@2.0.0-rc.9
 - pkg:cargo/fraiseql-arrow@2.1.2
 - pkg:cargo/fraiseql-arrow@2.1.4
+- pkg:cargo/fraiseql-arrow@2.1.5
