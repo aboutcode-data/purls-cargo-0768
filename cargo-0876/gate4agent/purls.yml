@@ -40,6 +40,9 @@
 - pkg:cargo/gate4agent@0.2.3
 - pkg:cargo/gate4agent@0.2.30
 - pkg:cargo/gate4agent@0.2.31
+- pkg:cargo/gate4agent@0.2.32
+- pkg:cargo/gate4agent@0.2.34
+- pkg:cargo/gate4agent@0.2.35
 - pkg:cargo/gate4agent@0.2.4
 - pkg:cargo/gate4agent@0.2.5
 - pkg:cargo/gate4agent@0.2.6
