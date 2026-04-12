@@ -4,3 +4,4 @@
 - pkg:cargo/oxidros-wrapper@0.5.4
 - pkg:cargo/oxidros-wrapper@0.5.5
 - pkg:cargo/oxidros-wrapper@0.5.7
+- pkg:cargo/oxidros-wrapper@0.5.8
