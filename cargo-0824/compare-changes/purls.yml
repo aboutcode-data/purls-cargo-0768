@@ -75,3 +75,6 @@
 - pkg:cargo/compare-changes@0.8.4
 - pkg:cargo/compare-changes@0.8.5
 - pkg:cargo/compare-changes@0.8.6
+- pkg:cargo/compare-changes@0.8.7
+- pkg:cargo/compare-changes@0.8.8
+- pkg:cargo/compare-changes@0.8.9
