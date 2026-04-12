@@ -12,6 +12,7 @@
 - pkg:cargo/agentix@0.11.5
 - pkg:cargo/agentix@0.12.0
 - pkg:cargo/agentix@0.13.0
+- pkg:cargo/agentix@0.14.0
 - pkg:cargo/agentix@0.2.0
 - pkg:cargo/agentix@0.2.1
 - pkg:cargo/agentix@0.3.0
