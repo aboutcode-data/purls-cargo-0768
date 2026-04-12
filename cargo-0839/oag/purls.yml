@@ -1,2 +1,5 @@
 - pkg:cargo/oag@0.14.0
 - pkg:cargo/oag@0.19.2
+- pkg:cargo/oag@0.19.3
+- pkg:cargo/oag@0.20.0
+- pkg:cargo/oag@0.20.1
