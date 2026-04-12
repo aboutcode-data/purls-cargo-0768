@@ -103,5 +103,8 @@
 - pkg:cargo/harn-lexer@0.5.69
 - pkg:cargo/harn-lexer@0.5.7
 - pkg:cargo/harn-lexer@0.5.70
+- pkg:cargo/harn-lexer@0.5.71
+- pkg:cargo/harn-lexer@0.5.72
+- pkg:cargo/harn-lexer@0.5.73
 - pkg:cargo/harn-lexer@0.5.8
 - pkg:cargo/harn-lexer@0.5.9
