@@ -18,3 +18,4 @@
 - pkg:cargo/meerkat-core@0.4.9
 - pkg:cargo/meerkat-core@0.5.0
 - pkg:cargo/meerkat-core@0.5.1
+- pkg:cargo/meerkat-core@0.5.2
