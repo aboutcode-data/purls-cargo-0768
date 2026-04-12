@@ -18,3 +18,4 @@
 - pkg:cargo/panproto-grammars@0.27.1
 - pkg:cargo/panproto-grammars@0.27.2
 - pkg:cargo/panproto-grammars@0.27.3
+- pkg:cargo/panproto-grammars@0.28.0
