@@ -25,3 +25,4 @@
 - pkg:cargo/laminar-storage@0.19.11
 - pkg:cargo/laminar-storage@0.20.0
 - pkg:cargo/laminar-storage@0.20.1
+- pkg:cargo/laminar-storage@0.20.2
