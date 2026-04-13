@@ -56,3 +56,4 @@
 - pkg:cargo/tycho-simulation@0.253.0
 - pkg:cargo/tycho-simulation@0.254.0
 - pkg:cargo/tycho-simulation@0.255.0
+- pkg:cargo/tycho-simulation@0.255.1
