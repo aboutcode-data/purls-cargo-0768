@@ -79,3 +79,5 @@
 - pkg:cargo/sugarloaf@0.2.9
 - pkg:cargo/sugarloaf@0.3.0
 - pkg:cargo/sugarloaf@0.3.1
+- pkg:cargo/sugarloaf@0.3.6
+- pkg:cargo/sugarloaf@0.3.7
