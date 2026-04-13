@@ -57,10 +57,13 @@
 - pkg:cargo/csskit_spec_generator@0.0.20-canary.73b427d7b2
 - pkg:cargo/csskit_spec_generator@0.0.20-canary.a923cbbb01
 - pkg:cargo/csskit_spec_generator@0.0.20-canary.c397b8c3f7
+- pkg:cargo/csskit_spec_generator@0.0.21-canary.0f0790b12a
+- pkg:cargo/csskit_spec_generator@0.0.21-canary.235b3f1a5d
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.30d8c1d4df
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.5634e9b638
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.64ed0c392c
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.88c7ee6d54
+- pkg:cargo/csskit_spec_generator@0.0.21-canary.904b9aef93
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.a8210b9e28
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.b7ef6f2c23
 - pkg:cargo/csskit_spec_generator@0.0.21-canary.ce8235d61e

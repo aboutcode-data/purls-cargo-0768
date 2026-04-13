@@ -42,6 +42,7 @@
 - pkg:cargo/oxc_parser@0.122.0
 - pkg:cargo/oxc_parser@0.123.0
 - pkg:cargo/oxc_parser@0.124.0
+- pkg:cargo/oxc_parser@0.125.0
 - pkg:cargo/oxc_parser@0.13.0
 - pkg:cargo/oxc_parser@0.13.1
 - pkg:cargo/oxc_parser@0.13.2
