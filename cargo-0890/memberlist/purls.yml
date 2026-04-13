@@ -21,3 +21,4 @@
 - pkg:cargo/memberlist@0.6.5
 - pkg:cargo/memberlist@0.6.6
 - pkg:cargo/memberlist@0.7.0
+- pkg:cargo/memberlist@0.8.0
