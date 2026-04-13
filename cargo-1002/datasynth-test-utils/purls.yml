@@ -31,3 +31,4 @@
 - pkg:cargo/datasynth-test-utils@2.1.0
 - pkg:cargo/datasynth-test-utils@2.2.0
 - pkg:cargo/datasynth-test-utils@2.3.0
+- pkg:cargo/datasynth-test-utils@2.3.1
