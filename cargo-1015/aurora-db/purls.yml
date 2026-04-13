@@ -15,6 +15,7 @@
 - pkg:cargo/aurora-db@0.5.8
 - pkg:cargo/aurora-db@0.5.9
 - pkg:cargo/aurora-db@0.6.0
+- pkg:cargo/aurora-db@0.6.1
 - pkg:cargo/aurora-db@5.0.1
 - pkg:cargo/aurora-db@5.1.0
 - pkg:cargo/aurora-db@5.1.1
