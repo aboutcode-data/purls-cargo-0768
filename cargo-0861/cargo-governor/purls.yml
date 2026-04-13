@@ -9,3 +9,6 @@
 - pkg:cargo/cargo-governor@1.12.0
 - pkg:cargo/cargo-governor@1.2.0
 - pkg:cargo/cargo-governor@1.3.0
+- pkg:cargo/cargo-governor@2.0.0
+- pkg:cargo/cargo-governor@2.0.2
+- pkg:cargo/cargo-governor@2.0.3
