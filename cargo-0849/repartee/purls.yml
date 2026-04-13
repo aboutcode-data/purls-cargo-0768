@@ -25,3 +25,4 @@
 - pkg:cargo/repartee@0.8.4
 - pkg:cargo/repartee@0.8.5
 - pkg:cargo/repartee@0.9.0
+- pkg:cargo/repartee@0.9.1
