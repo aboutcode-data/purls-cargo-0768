@@ -10,3 +10,4 @@
 - pkg:cargo/clawft-llm@0.5.4
 - pkg:cargo/clawft-llm@0.5.5
 - pkg:cargo/clawft-llm@0.6.0
+- pkg:cargo/clawft-llm@0.6.1
