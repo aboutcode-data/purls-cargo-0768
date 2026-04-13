@@ -4,3 +4,4 @@
 - pkg:cargo/opentalk-roomserver-module-training-participation-report@0.0.29
 - pkg:cargo/opentalk-roomserver-module-training-participation-report@0.0.31
 - pkg:cargo/opentalk-roomserver-module-training-participation-report@0.0.32
+- pkg:cargo/opentalk-roomserver-module-training-participation-report@0.0.34-alpha
