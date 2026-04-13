@@ -20,3 +20,4 @@
 - pkg:cargo/sqry-lang-json@8.0.2
 - pkg:cargo/sqry-lang-json@8.0.3
 - pkg:cargo/sqry-lang-json@8.0.4
+- pkg:cargo/sqry-lang-json@8.0.7
