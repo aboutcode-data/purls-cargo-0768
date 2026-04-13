@@ -4,6 +4,7 @@
 - pkg:cargo/ff-encode@0.10.0
 - pkg:cargo/ff-encode@0.11.0
 - pkg:cargo/ff-encode@0.12.0
+- pkg:cargo/ff-encode@0.13.0
 - pkg:cargo/ff-encode@0.2.0
 - pkg:cargo/ff-encode@0.3.0
 - pkg:cargo/ff-encode@0.4.0

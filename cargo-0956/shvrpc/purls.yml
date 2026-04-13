@@ -19,6 +19,7 @@
 - pkg:cargo/shvrpc@15.0.1
 - pkg:cargo/shvrpc@15.0.2
 - pkg:cargo/shvrpc@15.0.3
+- pkg:cargo/shvrpc@15.0.4
 - pkg:cargo/shvrpc@7.1.10
 - pkg:cargo/shvrpc@7.1.5
 - pkg:cargo/shvrpc@7.1.6
