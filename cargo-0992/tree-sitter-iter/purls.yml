@@ -1,4 +1,5 @@
 - pkg:cargo/tree-sitter-iter@0.0.1
 - pkg:cargo/tree-sitter-iter@0.0.2
 - pkg:cargo/tree-sitter-iter@0.0.3
+- pkg:cargo/tree-sitter-iter@1.24.0
 - pkg:cargo/tree-sitter-iter@1.24.0-rc3
