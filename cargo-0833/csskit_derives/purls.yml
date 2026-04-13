@@ -202,8 +202,10 @@
 - pkg:cargo/csskit_derives@0.0.21-canary.64ed0c392c
 - pkg:cargo/csskit_derives@0.0.21-canary.88c7ee6d54
 - pkg:cargo/csskit_derives@0.0.21-canary.904b9aef93
+- pkg:cargo/csskit_derives@0.0.21-canary.a69fe0f08c
 - pkg:cargo/csskit_derives@0.0.21-canary.a8210b9e28
 - pkg:cargo/csskit_derives@0.0.21-canary.b7ef6f2c23
+- pkg:cargo/csskit_derives@0.0.21-canary.ca12619f33
 - pkg:cargo/csskit_derives@0.0.21-canary.ce8235d61e
 - pkg:cargo/csskit_derives@0.0.21-canary.dad37871ce
 - pkg:cargo/csskit_derives@0.0.21-canary.f31167cc60
