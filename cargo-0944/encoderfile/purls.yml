@@ -50,3 +50,5 @@
 - pkg:cargo/encoderfile@0.6.0-rc.1
 - pkg:cargo/encoderfile@0.6.1
 - pkg:cargo/encoderfile@0.6.1-rc.1
+- pkg:cargo/encoderfile@0.6.2
+- pkg:cargo/encoderfile@0.6.2-rc.2

@@ -4,3 +4,4 @@
 - pkg:cargo/nautilus-orm-lsp@0.1.6
 - pkg:cargo/nautilus-orm-lsp@0.1.7
 - pkg:cargo/nautilus-orm-lsp@1.0.0
+- pkg:cargo/nautilus-orm-lsp@1.0.1
