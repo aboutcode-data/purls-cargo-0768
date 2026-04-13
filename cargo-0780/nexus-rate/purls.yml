@@ -2,3 +2,5 @@
 - pkg:cargo/nexus-rate@2.0.0
 - pkg:cargo/nexus-rate@2.0.1
 - pkg:cargo/nexus-rate@2.1.0
+- pkg:cargo/nexus-rate@2.1.1
+- pkg:cargo/nexus-rate@2.1.2
