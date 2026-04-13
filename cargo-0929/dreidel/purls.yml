@@ -6,3 +6,5 @@
 - pkg:cargo/dreidel@0.3.1
 - pkg:cargo/dreidel@0.4.0
 - pkg:cargo/dreidel@0.5.0
+- pkg:cargo/dreidel@0.5.1
+- pkg:cargo/dreidel@0.6.0
