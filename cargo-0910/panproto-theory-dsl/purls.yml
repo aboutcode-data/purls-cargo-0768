@@ -3,3 +3,4 @@
 - pkg:cargo/panproto-theory-dsl@0.27.2
 - pkg:cargo/panproto-theory-dsl@0.27.3
 - pkg:cargo/panproto-theory-dsl@0.28.0
+- pkg:cargo/panproto-theory-dsl@0.29.0
