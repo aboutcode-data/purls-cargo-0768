@@ -7,3 +7,4 @@
 - pkg:cargo/garmin-cli@1.0.6
 - pkg:cargo/garmin-cli@2.0.0
 - pkg:cargo/garmin-cli@2.0.1
+- pkg:cargo/garmin-cli@2.0.2
