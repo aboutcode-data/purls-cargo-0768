@@ -48,3 +48,4 @@
 - pkg:cargo/rustls-webpki@0.104.0-alpha.3
 - pkg:cargo/rustls-webpki@0.104.0-alpha.4
 - pkg:cargo/rustls-webpki@0.104.0-alpha.5
+- pkg:cargo/rustls-webpki@0.104.0-alpha.6
