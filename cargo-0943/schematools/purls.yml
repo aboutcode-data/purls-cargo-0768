@@ -22,3 +22,4 @@
 - pkg:cargo/schematools@0.22.1
 - pkg:cargo/schematools@0.22.2
 - pkg:cargo/schematools@0.22.3
+- pkg:cargo/schematools@0.22.4
