@@ -34,3 +34,4 @@
 - pkg:cargo/leo-passes@3.4.0
 - pkg:cargo/leo-passes@3.5.0
 - pkg:cargo/leo-passes@4.0.0
+- pkg:cargo/leo-passes@4.0.1
