@@ -149,3 +149,4 @@
 - pkg:cargo/forc-lsp@0.70.1
 - pkg:cargo/forc-lsp@0.70.2
 - pkg:cargo/forc-lsp@0.70.3
+- pkg:cargo/forc-lsp@0.71.0
