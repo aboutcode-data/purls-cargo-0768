@@ -115,3 +115,4 @@
 - pkg:cargo/harn-dap@0.5.82
 - pkg:cargo/harn-dap@0.5.83
 - pkg:cargo/harn-dap@0.5.9
+- pkg:cargo/harn-dap@0.6.0
