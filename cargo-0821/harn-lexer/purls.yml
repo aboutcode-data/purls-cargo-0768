@@ -122,3 +122,6 @@
 - pkg:cargo/harn-lexer@0.6.1
 - pkg:cargo/harn-lexer@0.6.2
 - pkg:cargo/harn-lexer@0.6.3
+- pkg:cargo/harn-lexer@0.7.0
+- pkg:cargo/harn-lexer@0.7.1
+- pkg:cargo/harn-lexer@0.7.2

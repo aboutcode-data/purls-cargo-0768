@@ -4,5 +4,6 @@
 - pkg:cargo/lockbook-server@26.3.20
 - pkg:cargo/lockbook-server@26.3.21
 - pkg:cargo/lockbook-server@26.3.22
+- pkg:cargo/lockbook-server@26.4.13
 - pkg:cargo/lockbook-server@26.4.8
 - pkg:cargo/lockbook-server@26.4.9
