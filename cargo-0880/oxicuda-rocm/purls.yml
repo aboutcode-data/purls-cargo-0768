@@ -1,1 +1,2 @@
 - pkg:cargo/oxicuda-rocm@0.1.0
+- pkg:cargo/oxicuda-rocm@0.1.1

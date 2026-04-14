@@ -19,3 +19,4 @@
 - pkg:cargo/google-cloud-language-v2@1.5.0
 - pkg:cargo/google-cloud-language-v2@1.6.0
 - pkg:cargo/google-cloud-language-v2@1.7.0
+- pkg:cargo/google-cloud-language-v2@1.8.0

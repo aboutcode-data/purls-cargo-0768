@@ -109,3 +109,5 @@
 - pkg:cargo/seq-runtime@5.2.0
 - pkg:cargo/seq-runtime@5.2.1
 - pkg:cargo/seq-runtime@5.3.0
+- pkg:cargo/seq-runtime@5.4.0
+- pkg:cargo/seq-runtime@5.4.1
