@@ -39,3 +39,4 @@
 - pkg:cargo/charms-sdk@11.0.1
 - pkg:cargo/charms-sdk@12.0.0
 - pkg:cargo/charms-sdk@12.0.1
+- pkg:cargo/charms-sdk@13.0.0
