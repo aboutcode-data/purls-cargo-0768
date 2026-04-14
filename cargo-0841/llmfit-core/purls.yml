@@ -50,3 +50,4 @@
 - pkg:cargo/llmfit-core@0.9.5
 - pkg:cargo/llmfit-core@0.9.6
 - pkg:cargo/llmfit-core@0.9.7
+- pkg:cargo/llmfit-core@0.9.8

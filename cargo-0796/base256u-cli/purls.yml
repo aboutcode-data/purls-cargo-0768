@@ -2,3 +2,5 @@
 - pkg:cargo/base256u-cli@1.1.0
 - pkg:cargo/base256u-cli@1.1.1
 - pkg:cargo/base256u-cli@1.1.2
+- pkg:cargo/base256u-cli@1.1.4
+- pkg:cargo/base256u-cli@1.1.5
