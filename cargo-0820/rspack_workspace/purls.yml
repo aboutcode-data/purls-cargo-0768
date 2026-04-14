@@ -2,6 +2,7 @@
 - pkg:cargo/rspack_workspace@0.100.0-beta.9
 - pkg:cargo/rspack_workspace@0.100.0-rc.0
 - pkg:cargo/rspack_workspace@0.100.0-rc.1
+- pkg:cargo/rspack_workspace@0.100.0-rc.2
 - pkg:cargo/rspack_workspace@0.2.1-alpha.1
 - pkg:cargo/rspack_workspace@0.4.10
 - pkg:cargo/rspack_workspace@0.4.11
