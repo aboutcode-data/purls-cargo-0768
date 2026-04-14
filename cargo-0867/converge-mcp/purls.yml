@@ -1,3 +1,4 @@
 - pkg:cargo/converge-mcp@2.0.0
 - pkg:cargo/converge-mcp@2.1.0
 - pkg:cargo/converge-mcp@2.1.2
+- pkg:cargo/converge-mcp@3.0.3
