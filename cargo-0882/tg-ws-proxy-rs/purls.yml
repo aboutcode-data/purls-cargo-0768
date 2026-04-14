@@ -2,3 +2,4 @@
 - pkg:cargo/tg-ws-proxy-rs@1.0.1
 - pkg:cargo/tg-ws-proxy-rs@1.0.3
 - pkg:cargo/tg-ws-proxy-rs@1.0.7
+- pkg:cargo/tg-ws-proxy-rs@1.1.3
