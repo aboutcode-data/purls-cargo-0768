@@ -11,3 +11,4 @@
 - pkg:cargo/bevy_cef_debug_render_process@0.5.4
 - pkg:cargo/bevy_cef_debug_render_process@0.6.0
 - pkg:cargo/bevy_cef_debug_render_process@0.7.0
+- pkg:cargo/bevy_cef_debug_render_process@0.8.0
