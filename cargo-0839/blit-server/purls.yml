@@ -15,3 +15,4 @@
 - pkg:cargo/blit-server@0.20.0
 - pkg:cargo/blit-server@0.21.0
 - pkg:cargo/blit-server@0.22.0
+- pkg:cargo/blit-server@0.24.0

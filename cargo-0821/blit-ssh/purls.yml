@@ -2,3 +2,4 @@
 - pkg:cargo/blit-ssh@0.21.0
 - pkg:cargo/blit-ssh@0.22.0
 - pkg:cargo/blit-ssh@0.23.0
+- pkg:cargo/blit-ssh@0.24.0
