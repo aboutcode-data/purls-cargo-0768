@@ -8,5 +8,6 @@
 - pkg:cargo/claudectl@0.15.2
 - pkg:cargo/claudectl@0.15.3
 - pkg:cargo/claudectl@0.15.4
+- pkg:cargo/claudectl@0.15.5
 - pkg:cargo/claudectl@0.9.0
 - pkg:cargo/claudectl@0.9.1
