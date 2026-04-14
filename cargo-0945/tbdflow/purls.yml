@@ -45,6 +45,7 @@
 - pkg:cargo/tbdflow@0.25.3
 - pkg:cargo/tbdflow@0.26.0
 - pkg:cargo/tbdflow@0.26.1
+- pkg:cargo/tbdflow@0.27.0
 - pkg:cargo/tbdflow@0.3.0
 - pkg:cargo/tbdflow@0.3.2
 - pkg:cargo/tbdflow@0.4.0
