@@ -4,6 +4,7 @@
 - pkg:cargo/swh_graph_topology@11.0.0
 - pkg:cargo/swh_graph_topology@11.1.1
 - pkg:cargo/swh_graph_topology@12.0.0
+- pkg:cargo/swh_graph_topology@13.0.0
 - pkg:cargo/swh_graph_topology@6.2.0
 - pkg:cargo/swh_graph_topology@6.3.0
 - pkg:cargo/swh_graph_topology@6.7.4
