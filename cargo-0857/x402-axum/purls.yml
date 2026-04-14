@@ -28,3 +28,4 @@
 - pkg:cargo/x402-axum@1.4.3
 - pkg:cargo/x402-axum@1.4.4
 - pkg:cargo/x402-axum@1.4.5
+- pkg:cargo/x402-axum@1.4.6
