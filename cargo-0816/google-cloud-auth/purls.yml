@@ -52,3 +52,4 @@
 - pkg:cargo/google-cloud-auth@1.6.0
 - pkg:cargo/google-cloud-auth@1.7.0
 - pkg:cargo/google-cloud-auth@1.8.0
+- pkg:cargo/google-cloud-auth@1.9.0
