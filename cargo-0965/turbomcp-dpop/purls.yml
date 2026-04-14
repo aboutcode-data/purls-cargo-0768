@@ -46,6 +46,7 @@
 - pkg:cargo/turbomcp-dpop@3.0.1
 - pkg:cargo/turbomcp-dpop@3.0.10
 - pkg:cargo/turbomcp-dpop@3.0.11
+- pkg:cargo/turbomcp-dpop@3.0.12
 - pkg:cargo/turbomcp-dpop@3.0.2
 - pkg:cargo/turbomcp-dpop@3.0.3
 - pkg:cargo/turbomcp-dpop@3.0.4
