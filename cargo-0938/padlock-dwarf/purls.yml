@@ -11,3 +11,4 @@
 - pkg:cargo/padlock-dwarf@0.8.1
 - pkg:cargo/padlock-dwarf@0.8.4
 - pkg:cargo/padlock-dwarf@0.9.3
+- pkg:cargo/padlock-dwarf@0.9.5
