@@ -14,6 +14,7 @@
 - pkg:cargo/mq-crawler@0.5.23
 - pkg:cargo/mq-crawler@0.5.24
 - pkg:cargo/mq-crawler@0.5.25
+- pkg:cargo/mq-crawler@0.5.26
 - pkg:cargo/mq-crawler@0.5.3
 - pkg:cargo/mq-crawler@0.5.4
 - pkg:cargo/mq-crawler@0.5.5
