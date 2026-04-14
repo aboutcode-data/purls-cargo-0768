@@ -41,3 +41,4 @@
 - pkg:cargo/shacl_validation@0.2.6
 - pkg:cargo/shacl_validation@0.2.7
 - pkg:cargo/shacl_validation@0.2.8
+- pkg:cargo/shacl_validation@0.2.9

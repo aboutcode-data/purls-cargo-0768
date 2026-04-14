@@ -9,7 +9,9 @@
 - pkg:cargo/interoptopus_csharp@0.16.0-alpha.16
 - pkg:cargo/interoptopus_csharp@0.16.0-alpha.17
 - pkg:cargo/interoptopus_csharp@0.16.0-alpha.18
+- pkg:cargo/interoptopus_csharp@0.16.0-alpha.19
 - pkg:cargo/interoptopus_csharp@0.16.0-alpha.2
+- pkg:cargo/interoptopus_csharp@0.16.0-alpha.20
 - pkg:cargo/interoptopus_csharp@0.16.0-alpha.3
 - pkg:cargo/interoptopus_csharp@0.16.0-alpha.4
 - pkg:cargo/interoptopus_csharp@0.16.0-alpha.5
