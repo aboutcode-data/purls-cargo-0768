@@ -179,6 +179,7 @@
 - pkg:cargo/janus_client@0.7.114
 - pkg:cargo/janus_client@0.7.115
 - pkg:cargo/janus_client@0.7.116
+- pkg:cargo/janus_client@0.7.117
 - pkg:cargo/janus_client@0.7.12
 - pkg:cargo/janus_client@0.7.13
 - pkg:cargo/janus_client@0.7.14
