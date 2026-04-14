@@ -8,3 +8,4 @@
 - pkg:cargo/json-escape-simd@2.0.0
 - pkg:cargo/json-escape-simd@3.0.0
 - pkg:cargo/json-escape-simd@3.0.1
+- pkg:cargo/json-escape-simd@3.0.2
