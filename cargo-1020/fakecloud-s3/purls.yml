@@ -11,3 +11,4 @@
 - pkg:cargo/fakecloud-s3@0.8.0
 - pkg:cargo/fakecloud-s3@0.8.1
 - pkg:cargo/fakecloud-s3@0.9.0
+- pkg:cargo/fakecloud-s3@0.9.1
