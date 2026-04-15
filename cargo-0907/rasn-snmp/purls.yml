@@ -59,6 +59,7 @@
 - pkg:cargo/rasn-snmp@0.28.1
 - pkg:cargo/rasn-snmp@0.28.10
 - pkg:cargo/rasn-snmp@0.28.11
+- pkg:cargo/rasn-snmp@0.28.12
 - pkg:cargo/rasn-snmp@0.28.2
 - pkg:cargo/rasn-snmp@0.28.3
 - pkg:cargo/rasn-snmp@0.28.4
