@@ -3,3 +3,4 @@
 - pkg:cargo/axdevice@0.2.1-preview.1
 - pkg:cargo/axdevice@0.2.2
 - pkg:cargo/axdevice@0.4.2
+- pkg:cargo/axdevice@0.4.3

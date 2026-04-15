@@ -1,1 +1,2 @@
 - pkg:cargo/ax-driver-virtio@0.3.4
+- pkg:cargo/ax-driver-virtio@0.3.5
