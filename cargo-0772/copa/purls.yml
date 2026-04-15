@@ -76,6 +76,8 @@
 - pkg:cargo/copa@0.2.9
 - pkg:cargo/copa@0.3.0
 - pkg:cargo/copa@0.3.1
+- pkg:cargo/copa@0.3.10
 - pkg:cargo/copa@0.3.6
 - pkg:cargo/copa@0.3.7
 - pkg:cargo/copa@0.3.8
+- pkg:cargo/copa@0.3.9
