@@ -2,6 +2,7 @@
 - pkg:cargo/microsandbox-db@0.3.10
 - pkg:cargo/microsandbox-db@0.3.11
 - pkg:cargo/microsandbox-db@0.3.12
+- pkg:cargo/microsandbox-db@0.3.13
 - pkg:cargo/microsandbox-db@0.3.2
 - pkg:cargo/microsandbox-db@0.3.3
 - pkg:cargo/microsandbox-db@0.3.4

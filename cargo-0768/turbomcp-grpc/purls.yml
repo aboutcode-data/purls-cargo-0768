@@ -12,6 +12,7 @@
 - pkg:cargo/turbomcp-grpc@3.0.11
 - pkg:cargo/turbomcp-grpc@3.0.12
 - pkg:cargo/turbomcp-grpc@3.0.13
+- pkg:cargo/turbomcp-grpc@3.0.14
 - pkg:cargo/turbomcp-grpc@3.0.2
 - pkg:cargo/turbomcp-grpc@3.0.3
 - pkg:cargo/turbomcp-grpc@3.0.4
