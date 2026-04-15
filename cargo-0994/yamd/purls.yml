@@ -14,6 +14,7 @@
 - pkg:cargo/yamd@0.16.2
 - pkg:cargo/yamd@0.17.0
 - pkg:cargo/yamd@0.18.0
+- pkg:cargo/yamd@0.18.1
 - pkg:cargo/yamd@0.2.0
 - pkg:cargo/yamd@0.3.0
 - pkg:cargo/yamd@0.4.0
