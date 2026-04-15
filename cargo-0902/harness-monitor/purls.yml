@@ -4,3 +4,5 @@
 - pkg:cargo/harness-monitor@0.15.0
 - pkg:cargo/harness-monitor@0.15.1
 - pkg:cargo/harness-monitor@0.15.2
+- pkg:cargo/harness-monitor@0.15.3
+- pkg:cargo/harness-monitor@0.16.0
