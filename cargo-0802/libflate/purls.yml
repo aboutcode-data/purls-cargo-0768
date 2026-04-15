@@ -41,3 +41,4 @@
 - pkg:cargo/libflate@2.1.0
 - pkg:cargo/libflate@2.2.0
 - pkg:cargo/libflate@2.2.1
+- pkg:cargo/libflate@2.3.0
