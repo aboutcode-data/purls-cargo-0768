@@ -4,3 +4,4 @@
 - pkg:cargo/packet-dissector-pfcp@0.2.2
 - pkg:cargo/packet-dissector-pfcp@0.2.3
 - pkg:cargo/packet-dissector-pfcp@0.2.4
+- pkg:cargo/packet-dissector-pfcp@0.2.5
