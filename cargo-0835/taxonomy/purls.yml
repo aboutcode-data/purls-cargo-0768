@@ -1,6 +1,7 @@
 - pkg:cargo/taxonomy@0.1.0
 - pkg:cargo/taxonomy@0.10.0
 - pkg:cargo/taxonomy@0.10.1
+- pkg:cargo/taxonomy@0.10.5
 - pkg:cargo/taxonomy@0.3.0
 - pkg:cargo/taxonomy@0.3.1
 - pkg:cargo/taxonomy@0.3.2

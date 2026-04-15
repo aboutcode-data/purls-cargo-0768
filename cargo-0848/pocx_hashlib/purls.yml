@@ -9,3 +9,4 @@
 - pkg:cargo/pocx_hashlib@1.0.0-rc.8
 - pkg:cargo/pocx_hashlib@1.0.0-rc.9
 - pkg:cargo/pocx_hashlib@1.0.1
+- pkg:cargo/pocx_hashlib@1.0.2
