@@ -32,6 +32,7 @@
 - pkg:cargo/starknet-devnet@0.7.0
 - pkg:cargo/starknet-devnet@0.7.1
 - pkg:cargo/starknet-devnet@0.7.2
+- pkg:cargo/starknet-devnet@0.8.0
 - pkg:cargo/starknet-devnet@0.8.0-rc.0
 - pkg:cargo/starknet-devnet@0.8.0-rc.1
 - pkg:cargo/starknet-devnet@0.8.0-rc.2
