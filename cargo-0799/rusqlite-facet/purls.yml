@@ -1,2 +1,3 @@
 - pkg:cargo/rusqlite-facet@0.0.0
 - pkg:cargo/rusqlite-facet@1.0.0
+- pkg:cargo/rusqlite-facet@1.0.1
