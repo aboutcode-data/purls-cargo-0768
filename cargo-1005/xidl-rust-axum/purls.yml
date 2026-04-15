@@ -34,6 +34,7 @@
 - pkg:cargo/xidl-rust-axum@0.4.0
 - pkg:cargo/xidl-rust-axum@0.40.0
 - pkg:cargo/xidl-rust-axum@0.41.0
+- pkg:cargo/xidl-rust-axum@0.42.0
 - pkg:cargo/xidl-rust-axum@0.5.0
 - pkg:cargo/xidl-rust-axum@0.6.0
 - pkg:cargo/xidl-rust-axum@0.7.0

@@ -105,3 +105,4 @@
 - pkg:cargo/seq-lsp@5.3.0
 - pkg:cargo/seq-lsp@5.4.0
 - pkg:cargo/seq-lsp@5.4.1
+- pkg:cargo/seq-lsp@5.5.0
