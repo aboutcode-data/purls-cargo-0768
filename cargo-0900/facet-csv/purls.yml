@@ -43,3 +43,4 @@
 - pkg:cargo/facet-csv@0.44.5
 - pkg:cargo/facet-csv@0.44.6
 - pkg:cargo/facet-csv@0.44.7
+- pkg:cargo/facet-csv@0.46.0
