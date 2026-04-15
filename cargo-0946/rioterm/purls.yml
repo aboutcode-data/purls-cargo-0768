@@ -75,6 +75,8 @@
 - pkg:cargo/rioterm@0.2.9
 - pkg:cargo/rioterm@0.3.0
 - pkg:cargo/rioterm@0.3.1
+- pkg:cargo/rioterm@0.3.10
 - pkg:cargo/rioterm@0.3.6
 - pkg:cargo/rioterm@0.3.7
 - pkg:cargo/rioterm@0.3.8
+- pkg:cargo/rioterm@0.3.9
