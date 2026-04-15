@@ -6,6 +6,8 @@
 - pkg:cargo/zag-cli@0.12.4
 - pkg:cargo/zag-cli@0.12.5
 - pkg:cargo/zag-cli@0.12.6
+- pkg:cargo/zag-cli@0.12.7
+- pkg:cargo/zag-cli@0.12.8
 - pkg:cargo/zag-cli@0.2.2
 - pkg:cargo/zag-cli@0.2.3
 - pkg:cargo/zag-cli@0.2.4
