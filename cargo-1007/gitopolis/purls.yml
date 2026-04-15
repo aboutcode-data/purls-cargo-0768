@@ -3,3 +3,7 @@
 - pkg:cargo/gitopolis@1.13.0
 - pkg:cargo/gitopolis@1.13.1
 - pkg:cargo/gitopolis@1.13.2
+- pkg:cargo/gitopolis@1.14.1
+- pkg:cargo/gitopolis@1.15.0
+- pkg:cargo/gitopolis@1.16.0
+- pkg:cargo/gitopolis@1.17.0
