@@ -60,6 +60,7 @@
 - pkg:cargo/pallet-assets@48.0.0
 - pkg:cargo/pallet-assets@48.1.0
 - pkg:cargo/pallet-assets@49.0.0
+- pkg:cargo/pallet-assets@49.0.1
 - pkg:cargo/pallet-assets@5.0.0
 - pkg:cargo/pallet-assets@6.0.0
 - pkg:cargo/pallet-assets@7.0.0
