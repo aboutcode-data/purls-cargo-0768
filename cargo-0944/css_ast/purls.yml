@@ -60,9 +60,11 @@
 - pkg:cargo/css_ast@0.0.21-canary.0f0790b12a
 - pkg:cargo/css_ast@0.0.21-canary.235b3f1a5d
 - pkg:cargo/css_ast@0.0.21-canary.30d8c1d4df
+- pkg:cargo/css_ast@0.0.21-canary.3cabb0514a
 - pkg:cargo/css_ast@0.0.21-canary.5634e9b638
 - pkg:cargo/css_ast@0.0.21-canary.64ed0c392c
 - pkg:cargo/css_ast@0.0.21-canary.904b9aef93
+- pkg:cargo/css_ast@0.0.21-canary.a606b4ee90
 - pkg:cargo/css_ast@0.0.21-canary.a69fe0f08c
 - pkg:cargo/css_ast@0.0.21-canary.a8210b9e28
 - pkg:cargo/css_ast@0.0.21-canary.b7ef6f2c23
