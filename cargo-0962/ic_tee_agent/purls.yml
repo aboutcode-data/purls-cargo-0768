@@ -21,6 +21,7 @@
 - pkg:cargo/ic_tee_agent@0.5.6
 - pkg:cargo/ic_tee_agent@0.6.0
 - pkg:cargo/ic_tee_agent@0.6.1
+- pkg:cargo/ic_tee_agent@0.6.10
 - pkg:cargo/ic_tee_agent@0.6.2
 - pkg:cargo/ic_tee_agent@0.6.3
 - pkg:cargo/ic_tee_agent@0.6.4
