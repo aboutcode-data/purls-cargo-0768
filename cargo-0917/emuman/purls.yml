@@ -33,6 +33,7 @@
 - pkg:cargo/emuman@2.10.2
 - pkg:cargo/emuman@2.11.0
 - pkg:cargo/emuman@2.11.1
+- pkg:cargo/emuman@2.11.3
 - pkg:cargo/emuman@2.2.0
 - pkg:cargo/emuman@2.2.1
 - pkg:cargo/emuman@2.2.2
