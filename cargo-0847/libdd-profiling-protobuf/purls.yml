@@ -1,1 +1,2 @@
 - pkg:cargo/libdd-profiling-protobuf@1.0.0
+- pkg:cargo/libdd-profiling-protobuf@2.0.0
