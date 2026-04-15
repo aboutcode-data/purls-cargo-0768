@@ -4,3 +4,4 @@
 - pkg:cargo/styx-ffi@2.0.0
 - pkg:cargo/styx-ffi@3.0.0
 - pkg:cargo/styx-ffi@3.0.1
+- pkg:cargo/styx-ffi@3.0.2
