@@ -1,5 +1,10 @@
+- pkg:cargo/scrutin-web@0.0.1
+- pkg:cargo/scrutin-web@0.0.1-alpha.10
 - pkg:cargo/scrutin-web@0.0.1-alpha.5
 - pkg:cargo/scrutin-web@0.0.1-alpha.6
 - pkg:cargo/scrutin-web@0.0.1-alpha.7
 - pkg:cargo/scrutin-web@0.0.1-alpha.8
 - pkg:cargo/scrutin-web@0.0.1-alpha.9
+- pkg:cargo/scrutin-web@0.0.2
+- pkg:cargo/scrutin-web@0.0.3
+- pkg:cargo/scrutin-web@0.0.4

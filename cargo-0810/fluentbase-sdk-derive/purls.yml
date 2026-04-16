@@ -3,5 +3,6 @@
 - pkg:cargo/fluentbase-sdk-derive@1.1.1
 - pkg:cargo/fluentbase-sdk-derive@1.1.2
 - pkg:cargo/fluentbase-sdk-derive@1.1.3
+- pkg:cargo/fluentbase-sdk-derive@1.1.4
 - pkg:cargo/fluentbase-sdk-derive@1.2.0-rc.1
 - pkg:cargo/fluentbase-sdk-derive@1.2.0-rc.2
