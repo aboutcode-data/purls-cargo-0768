@@ -12,3 +12,4 @@
 - pkg:cargo/clippy_utils@0.1.94
 - pkg:cargo/clippy_utils@0.1.95
 - pkg:cargo/clippy_utils@0.1.96
+- pkg:cargo/clippy_utils@0.1.97
