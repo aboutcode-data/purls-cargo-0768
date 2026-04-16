@@ -6,3 +6,4 @@
 - pkg:cargo/arm_vgic@0.4.2
 - pkg:cargo/arm_vgic@0.4.3
 - pkg:cargo/arm_vgic@0.4.5
+- pkg:cargo/arm_vgic@0.4.6
