@@ -1,4 +1,6 @@
 - pkg:cargo/zccache-ipc@1.2.1
+- pkg:cargo/zccache-ipc@1.2.10
+- pkg:cargo/zccache-ipc@1.2.11
 - pkg:cargo/zccache-ipc@1.2.2
 - pkg:cargo/zccache-ipc@1.2.3
 - pkg:cargo/zccache-ipc@1.2.4
