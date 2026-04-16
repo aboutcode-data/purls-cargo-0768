@@ -2,3 +2,4 @@
 - pkg:cargo/range-alloc-arceos@0.1.4-pre.1
 - pkg:cargo/range-alloc-arceos@0.3.4
 - pkg:cargo/range-alloc-arceos@0.3.5
+- pkg:cargo/range-alloc-arceos@0.3.7
