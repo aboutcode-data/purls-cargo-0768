@@ -12,6 +12,7 @@
 - pkg:cargo/oag-core@0.20.1
 - pkg:cargo/oag-core@0.20.2
 - pkg:cargo/oag-core@0.20.3
+- pkg:cargo/oag-core@0.20.4
 - pkg:cargo/oag-core@0.3.0
 - pkg:cargo/oag-core@0.4.1
 - pkg:cargo/oag-core@0.4.2
