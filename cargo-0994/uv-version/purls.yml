@@ -18,6 +18,7 @@
 - pkg:cargo/uv-version@0.11.4
 - pkg:cargo/uv-version@0.11.5
 - pkg:cargo/uv-version@0.11.6
+- pkg:cargo/uv-version@0.11.7
 - pkg:cargo/uv-version@0.9.11
 - pkg:cargo/uv-version@0.9.12
 - pkg:cargo/uv-version@0.9.13
