@@ -24,6 +24,7 @@
 - pkg:cargo/oxc_ast_visit@0.123.0
 - pkg:cargo/oxc_ast_visit@0.124.0
 - pkg:cargo/oxc_ast_visit@0.125.0
+- pkg:cargo/oxc_ast_visit@0.126.0
 - pkg:cargo/oxc_ast_visit@0.53.0
 - pkg:cargo/oxc_ast_visit@0.54.0
 - pkg:cargo/oxc_ast_visit@0.55.0
