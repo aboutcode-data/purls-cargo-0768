@@ -12,6 +12,7 @@
 - pkg:cargo/orca-ai@0.2.0-rc.2
 - pkg:cargo/orca-ai@0.2.1-rc.1
 - pkg:cargo/orca-ai@0.2.2
+- pkg:cargo/orca-ai@0.2.3
 - pkg:cargo/orca-ai@0.2.3-rc.1
 - pkg:cargo/orca-ai@0.2.3-rc.2
 - pkg:cargo/orca-ai@0.2.3-rc.3
