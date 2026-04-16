@@ -6,3 +6,4 @@
 - pkg:cargo/libcros@0.4.2
 - pkg:cargo/libcros@0.5.0
 - pkg:cargo/libcros@0.5.1
+- pkg:cargo/libcros@0.5.2
