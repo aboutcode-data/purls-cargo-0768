@@ -61,3 +61,4 @@
 - pkg:cargo/radb_client@1.2.4
 - pkg:cargo/radb_client@1.2.5
 - pkg:cargo/radb_client@1.2.6
+- pkg:cargo/radb_client@1.2.7
