@@ -15,3 +15,4 @@
 - pkg:cargo/adk-core@0.3.2
 - pkg:cargo/adk-core@0.4.0
 - pkg:cargo/adk-core@0.5.0
+- pkg:cargo/adk-core@0.6.0
