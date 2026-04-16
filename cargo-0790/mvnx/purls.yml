@@ -1,1 +1,4 @@
 - pkg:cargo/mvnx@0.1.0
+- pkg:cargo/mvnx@1.0.10
+- pkg:cargo/mvnx@1.0.7
+- pkg:cargo/mvnx@1.1.0
