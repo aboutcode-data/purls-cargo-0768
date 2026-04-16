@@ -266,6 +266,7 @@
 - pkg:cargo/takumi@1.0.0-rc.9
 - pkg:cargo/takumi@1.0.1
 - pkg:cargo/takumi@1.0.10
+- pkg:cargo/takumi@1.0.11
 - pkg:cargo/takumi@1.0.2
 - pkg:cargo/takumi@1.0.3
 - pkg:cargo/takumi@1.0.4
