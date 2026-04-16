@@ -96,6 +96,7 @@
 - pkg:cargo/leptos_config@0.8.0-rc2
 - pkg:cargo/leptos_config@0.8.0-rc3
 - pkg:cargo/leptos_config@0.8.1
+- pkg:cargo/leptos_config@0.8.10
 - pkg:cargo/leptos_config@0.8.2
 - pkg:cargo/leptos_config@0.8.3
 - pkg:cargo/leptos_config@0.8.4
