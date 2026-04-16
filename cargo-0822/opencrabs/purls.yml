@@ -36,6 +36,7 @@
 - pkg:cargo/opencrabs@0.2.99
 - pkg:cargo/opencrabs@0.3.0
 - pkg:cargo/opencrabs@0.3.1
+- pkg:cargo/opencrabs@0.3.10
 - pkg:cargo/opencrabs@0.3.2
 - pkg:cargo/opencrabs@0.3.3
 - pkg:cargo/opencrabs@0.3.4
@@ -43,3 +44,4 @@
 - pkg:cargo/opencrabs@0.3.6
 - pkg:cargo/opencrabs@0.3.7
 - pkg:cargo/opencrabs@0.3.8
+- pkg:cargo/opencrabs@0.3.9
