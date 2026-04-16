@@ -4,3 +4,4 @@
 - pkg:cargo/jacquard-adapter@0.3.1
 - pkg:cargo/jacquard-adapter@0.3.2
 - pkg:cargo/jacquard-adapter@0.4.0
+- pkg:cargo/jacquard-adapter@0.5.0
