@@ -27,6 +27,8 @@
 - pkg:cargo/xoev-xwasser-derive@0.901.1%2B0.9.1
 - pkg:cargo/xoev-xwasser-derive@0.901.2%2B0.9.1
 - pkg:cargo/xoev-xwasser-derive@0.902.0%2B0.9.2
+- pkg:cargo/xoev-xwasser-derive@0.902.1%2B0.9.2
+- pkg:cargo/xoev-xwasser-derive@0.902.4%2B0.9.2
 - pkg:cargo/xoev-xwasser-derive@0.905.0%2B0.9.5
 - pkg:cargo/xoev-xwasser-derive@0.905.1%2B0.9.5
 - pkg:cargo/xoev-xwasser-derive@0.905.2%2B0.9.5
