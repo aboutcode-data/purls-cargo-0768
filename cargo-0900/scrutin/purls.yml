@@ -5,6 +5,11 @@
 - pkg:cargo/scrutin@0.0.1-alpha.7
 - pkg:cargo/scrutin@0.0.1-alpha.8
 - pkg:cargo/scrutin@0.0.1-alpha.9
+- pkg:cargo/scrutin@0.0.10
 - pkg:cargo/scrutin@0.0.2
 - pkg:cargo/scrutin@0.0.3
 - pkg:cargo/scrutin@0.0.4
+- pkg:cargo/scrutin@0.0.5
+- pkg:cargo/scrutin@0.0.6
+- pkg:cargo/scrutin@0.0.7
+- pkg:cargo/scrutin@0.0.9

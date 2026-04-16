@@ -46,6 +46,7 @@
 - pkg:cargo/sqlx-macros-oldapi@0.6.50
 - pkg:cargo/sqlx-macros-oldapi@0.6.51
 - pkg:cargo/sqlx-macros-oldapi@0.6.52
+- pkg:cargo/sqlx-macros-oldapi@0.6.53
 - pkg:cargo/sqlx-macros-oldapi@0.6.6
 - pkg:cargo/sqlx-macros-oldapi@0.6.7
 - pkg:cargo/sqlx-macros-oldapi@0.6.8
