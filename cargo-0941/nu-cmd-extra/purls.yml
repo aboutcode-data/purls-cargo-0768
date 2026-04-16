@@ -16,6 +16,7 @@
 - pkg:cargo/nu-cmd-extra@0.111.0
 - pkg:cargo/nu-cmd-extra@0.112.0
 - pkg:cargo/nu-cmd-extra@0.112.1
+- pkg:cargo/nu-cmd-extra@0.112.2
 - pkg:cargo/nu-cmd-extra@0.81.0
 - pkg:cargo/nu-cmd-extra@0.82.0
 - pkg:cargo/nu-cmd-extra@0.83.0

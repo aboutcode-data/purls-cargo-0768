@@ -16,6 +16,7 @@
 - pkg:cargo/nu-cmd-lang@0.111.0
 - pkg:cargo/nu-cmd-lang@0.112.0
 - pkg:cargo/nu-cmd-lang@0.112.1
+- pkg:cargo/nu-cmd-lang@0.112.2
 - pkg:cargo/nu-cmd-lang@0.77.0
 - pkg:cargo/nu-cmd-lang@0.77.1
 - pkg:cargo/nu-cmd-lang@0.78.0
