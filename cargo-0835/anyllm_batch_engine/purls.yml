@@ -1,1 +1,2 @@
 - pkg:cargo/anyllm_batch_engine@0.9.0
+- pkg:cargo/anyllm_batch_engine@0.9.1
