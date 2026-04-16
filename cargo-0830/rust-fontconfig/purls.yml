@@ -27,3 +27,6 @@
 - pkg:cargo/rust-fontconfig@3.2.0
 - pkg:cargo/rust-fontconfig@3.2.1
 - pkg:cargo/rust-fontconfig@3.3.0
+- pkg:cargo/rust-fontconfig@4.0.0
+- pkg:cargo/rust-fontconfig@4.1.0
+- pkg:cargo/rust-fontconfig@4.2.0
