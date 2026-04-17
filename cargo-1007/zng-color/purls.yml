@@ -17,6 +17,7 @@
 - pkg:cargo/zng-color@0.12.7
 - pkg:cargo/zng-color@0.12.8
 - pkg:cargo/zng-color@0.12.9
+- pkg:cargo/zng-color@0.13.0
 - pkg:cargo/zng-color@0.2.1
 - pkg:cargo/zng-color@0.2.10
 - pkg:cargo/zng-color@0.2.11

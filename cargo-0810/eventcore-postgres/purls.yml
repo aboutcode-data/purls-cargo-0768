@@ -10,3 +10,4 @@
 - pkg:cargo/eventcore-postgres@0.5.1
 - pkg:cargo/eventcore-postgres@0.6.0
 - pkg:cargo/eventcore-postgres@0.7.0
+- pkg:cargo/eventcore-postgres@0.7.1
