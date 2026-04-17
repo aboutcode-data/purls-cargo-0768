@@ -230,6 +230,7 @@
 - pkg:cargo/hyperlane-utils@27.0.2
 - pkg:cargo/hyperlane-utils@27.0.3
 - pkg:cargo/hyperlane-utils@27.0.4
+- pkg:cargo/hyperlane-utils@27.1.0
 - pkg:cargo/hyperlane-utils@3.0.0
 - pkg:cargo/hyperlane-utils@4.0.0
 - pkg:cargo/hyperlane-utils@4.0.1
