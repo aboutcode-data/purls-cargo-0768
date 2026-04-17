@@ -10,6 +10,8 @@
 - pkg:cargo/scrutin-web@0.0.12
 - pkg:cargo/scrutin-web@0.0.13
 - pkg:cargo/scrutin-web@0.0.14
+- pkg:cargo/scrutin-web@0.0.15
+- pkg:cargo/scrutin-web@0.0.16
 - pkg:cargo/scrutin-web@0.0.2
 - pkg:cargo/scrutin-web@0.0.3
 - pkg:cargo/scrutin-web@0.0.4
