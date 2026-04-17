@@ -1,3 +1,4 @@
 - pkg:cargo/ts-pack-cli@1.4.1
 - pkg:cargo/ts-pack-cli@1.4.2
 - pkg:cargo/ts-pack-cli@1.6.0
+- pkg:cargo/ts-pack-cli@1.6.1
