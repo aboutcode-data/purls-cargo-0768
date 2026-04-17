@@ -5,3 +5,4 @@
 - pkg:cargo/packet-dissector-radius@0.2.3
 - pkg:cargo/packet-dissector-radius@0.2.4
 - pkg:cargo/packet-dissector-radius@0.2.5
+- pkg:cargo/packet-dissector-radius@0.3.0
