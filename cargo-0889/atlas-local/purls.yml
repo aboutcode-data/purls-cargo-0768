@@ -8,3 +8,4 @@
 - pkg:cargo/atlas-local@0.4.2
 - pkg:cargo/atlas-local@0.5.0
 - pkg:cargo/atlas-local@0.6.0
+- pkg:cargo/atlas-local@0.6.1
