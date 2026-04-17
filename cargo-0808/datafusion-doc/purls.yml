@@ -20,3 +20,4 @@
 - pkg:cargo/datafusion-doc@52.4.0
 - pkg:cargo/datafusion-doc@52.5.0
 - pkg:cargo/datafusion-doc@53.0.0
+- pkg:cargo/datafusion-doc@53.1.0
