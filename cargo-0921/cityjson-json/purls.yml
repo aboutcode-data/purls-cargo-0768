@@ -1,1 +1,2 @@
 - pkg:cargo/cityjson-json@0.6.1
+- pkg:cargo/cityjson-json@0.7.0
