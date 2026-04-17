@@ -16,3 +16,4 @@
 - pkg:cargo/fvm_ipld_amt@0.7.4
 - pkg:cargo/fvm_ipld_amt@0.7.5
 - pkg:cargo/fvm_ipld_amt@0.7.6
+- pkg:cargo/fvm_ipld_amt@0.7.7

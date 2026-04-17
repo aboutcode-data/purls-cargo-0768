@@ -13,3 +13,4 @@
 - pkg:cargo/ic-certificate-verification@3.0.2
 - pkg:cargo/ic-certificate-verification@3.0.3
 - pkg:cargo/ic-certificate-verification@3.1.0
+- pkg:cargo/ic-certificate-verification@3.2.0

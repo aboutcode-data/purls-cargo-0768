@@ -33,3 +33,4 @@
 - pkg:cargo/datasynth-fingerprint@2.4.0
 - pkg:cargo/datasynth-fingerprint@2.5.0
 - pkg:cargo/datasynth-fingerprint@3.0.0
+- pkg:cargo/datasynth-fingerprint@3.1.0
