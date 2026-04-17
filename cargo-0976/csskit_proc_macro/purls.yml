@@ -58,6 +58,7 @@
 - pkg:cargo/csskit_proc_macro@0.0.20-canary.73b427d7b2
 - pkg:cargo/csskit_proc_macro@0.0.20-canary.a923cbbb01
 - pkg:cargo/csskit_proc_macro@0.0.20-canary.c397b8c3f7
+- pkg:cargo/csskit_proc_macro@0.0.21-canary.00220d38a8
 - pkg:cargo/csskit_proc_macro@0.0.21-canary.0f0790b12a
 - pkg:cargo/csskit_proc_macro@0.0.21-canary.235b3f1a5d
 - pkg:cargo/csskit_proc_macro@0.0.21-canary.30d8c1d4df
