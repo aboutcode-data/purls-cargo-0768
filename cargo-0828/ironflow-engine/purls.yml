@@ -20,3 +20,4 @@
 - pkg:cargo/ironflow-engine@2.7.6
 - pkg:cargo/ironflow-engine@2.8.0
 - pkg:cargo/ironflow-engine@2.8.1
+- pkg:cargo/ironflow-engine@2.9.0
