@@ -6,6 +6,9 @@
 - pkg:cargo/scrutin-web@0.0.1-alpha.8
 - pkg:cargo/scrutin-web@0.0.1-alpha.9
 - pkg:cargo/scrutin-web@0.0.10
+- pkg:cargo/scrutin-web@0.0.11
+- pkg:cargo/scrutin-web@0.0.12
+- pkg:cargo/scrutin-web@0.0.13
 - pkg:cargo/scrutin-web@0.0.2
 - pkg:cargo/scrutin-web@0.0.3
 - pkg:cargo/scrutin-web@0.0.4
