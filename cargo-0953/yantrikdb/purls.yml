@@ -17,3 +17,4 @@
 - pkg:cargo/yantrikdb@0.4.2
 - pkg:cargo/yantrikdb@0.4.3
 - pkg:cargo/yantrikdb@0.4.4
+- pkg:cargo/yantrikdb@0.5.0
