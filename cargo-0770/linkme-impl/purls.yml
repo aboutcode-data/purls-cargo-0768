@@ -46,6 +46,7 @@
 - pkg:cargo/linkme-impl@0.3.33
 - pkg:cargo/linkme-impl@0.3.34
 - pkg:cargo/linkme-impl@0.3.35
+- pkg:cargo/linkme-impl@0.3.36
 - pkg:cargo/linkme-impl@0.3.4
 - pkg:cargo/linkme-impl@0.3.5
 - pkg:cargo/linkme-impl@0.3.6
