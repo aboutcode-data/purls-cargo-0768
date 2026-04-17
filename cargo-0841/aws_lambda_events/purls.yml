@@ -51,3 +51,4 @@
 - pkg:cargo/aws_lambda_events@1.1.0
 - pkg:cargo/aws_lambda_events@1.1.1
 - pkg:cargo/aws_lambda_events@1.1.2
+- pkg:cargo/aws_lambda_events@1.1.3
