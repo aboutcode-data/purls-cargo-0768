@@ -1,6 +1,7 @@
 - pkg:cargo/anyclaw-sdk-tool@0.2.10
 - pkg:cargo/anyclaw-sdk-tool@0.2.11
 - pkg:cargo/anyclaw-sdk-tool@0.2.12
+- pkg:cargo/anyclaw-sdk-tool@0.2.13
 - pkg:cargo/anyclaw-sdk-tool@0.2.5
 - pkg:cargo/anyclaw-sdk-tool@0.2.6
 - pkg:cargo/anyclaw-sdk-tool@0.2.7
