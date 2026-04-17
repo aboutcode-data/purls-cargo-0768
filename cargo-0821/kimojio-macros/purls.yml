@@ -3,3 +3,4 @@
 - pkg:cargo/kimojio-macros@0.15.0
 - pkg:cargo/kimojio-macros@0.15.0-beta1
 - pkg:cargo/kimojio-macros@0.16.0
+- pkg:cargo/kimojio-macros@0.16.1
