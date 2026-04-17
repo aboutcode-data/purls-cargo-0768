@@ -63,3 +63,5 @@
 - pkg:cargo/graphannis-capi@4.0.1
 - pkg:cargo/graphannis-capi@4.1.0
 - pkg:cargo/graphannis-capi@4.1.1
+- pkg:cargo/graphannis-capi@4.1.2
+- pkg:cargo/graphannis-capi@4.1.3

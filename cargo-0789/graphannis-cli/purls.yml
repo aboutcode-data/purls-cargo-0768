@@ -66,3 +66,5 @@
 - pkg:cargo/graphannis-cli@4.0.1
 - pkg:cargo/graphannis-cli@4.1.0
 - pkg:cargo/graphannis-cli@4.1.1
+- pkg:cargo/graphannis-cli@4.1.2
+- pkg:cargo/graphannis-cli@4.1.3
