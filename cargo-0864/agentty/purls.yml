@@ -40,3 +40,5 @@
 - pkg:cargo/agentty@0.7.3
 - pkg:cargo/agentty@0.7.4
 - pkg:cargo/agentty@0.7.5
+- pkg:cargo/agentty@0.7.6
+- pkg:cargo/agentty@0.7.7

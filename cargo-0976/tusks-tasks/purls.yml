@@ -10,3 +10,6 @@
 - pkg:cargo/tusks-tasks@2.1.5
 - pkg:cargo/tusks-tasks@2.1.6
 - pkg:cargo/tusks-tasks@2.1.7
+- pkg:cargo/tusks-tasks@3.0.0
+- pkg:cargo/tusks-tasks@3.1.0
+- pkg:cargo/tusks-tasks@3.2.0
