@@ -22,3 +22,5 @@
 - pkg:cargo/ganit-core@0.3.9
 - pkg:cargo/ganit-core@0.4.0
 - pkg:cargo/ganit-core@0.4.1
+- pkg:cargo/ganit-core@0.4.2
+- pkg:cargo/ganit-core@0.4.3
