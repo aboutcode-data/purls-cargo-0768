@@ -17,3 +17,5 @@
 - pkg:cargo/fast-down-ffi@0.2.6
 - pkg:cargo/fast-down-ffi@0.2.7
 - pkg:cargo/fast-down-ffi@0.2.8
+- pkg:cargo/fast-down-ffi@0.2.9
+- pkg:cargo/fast-down-ffi@0.3.0
