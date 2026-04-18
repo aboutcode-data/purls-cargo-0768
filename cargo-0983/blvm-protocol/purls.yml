@@ -1,1 +1,2 @@
 - pkg:cargo/blvm-protocol@0.1.4
+- pkg:cargo/blvm-protocol@0.1.5
