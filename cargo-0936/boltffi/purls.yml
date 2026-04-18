@@ -5,3 +5,4 @@
 - pkg:cargo/boltffi@0.22.1
 - pkg:cargo/boltffi@0.23.0
 - pkg:cargo/boltffi@0.23.1
+- pkg:cargo/boltffi@0.24.0
