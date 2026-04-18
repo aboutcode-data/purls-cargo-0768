@@ -13,5 +13,6 @@
 - pkg:cargo/lightvgl-sys@9.5.0
 - pkg:cargo/lightvgl-sys@9.5.1
 - pkg:cargo/lightvgl-sys@9.5.2
+- pkg:cargo/lightvgl-sys@9.5.3
 - pkg:cargo/lightvgl-sys@9.5.3-beta.0
 - pkg:cargo/lightvgl-sys@9.5.3-beta.1
