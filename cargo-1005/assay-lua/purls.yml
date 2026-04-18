@@ -4,12 +4,17 @@
 - pkg:cargo/assay-lua@0.10.4
 - pkg:cargo/assay-lua@0.11.0
 - pkg:cargo/assay-lua@0.11.1
+- pkg:cargo/assay-lua@0.11.11
+- pkg:cargo/assay-lua@0.11.12
+- pkg:cargo/assay-lua@0.11.13
+- pkg:cargo/assay-lua@0.11.14
 - pkg:cargo/assay-lua@0.11.2
 - pkg:cargo/assay-lua@0.11.3
 - pkg:cargo/assay-lua@0.11.5
 - pkg:cargo/assay-lua@0.11.6
 - pkg:cargo/assay-lua@0.11.7
 - pkg:cargo/assay-lua@0.11.8
+- pkg:cargo/assay-lua@0.11.9
 - pkg:cargo/assay-lua@0.3.0
 - pkg:cargo/assay-lua@0.3.1
 - pkg:cargo/assay-lua@0.3.2
