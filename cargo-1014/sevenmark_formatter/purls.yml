@@ -36,3 +36,4 @@
 - pkg:cargo/sevenmark_formatter@2.32.6
 - pkg:cargo/sevenmark_formatter@2.32.8
 - pkg:cargo/sevenmark_formatter@2.32.9
+- pkg:cargo/sevenmark_formatter@2.34.0
