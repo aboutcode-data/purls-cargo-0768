@@ -10,3 +10,4 @@
 - pkg:cargo/claude-esp@0.4.5
 - pkg:cargo/claude-esp@0.4.6
 - pkg:cargo/claude-esp@0.4.7
+- pkg:cargo/claude-esp@0.5.0
