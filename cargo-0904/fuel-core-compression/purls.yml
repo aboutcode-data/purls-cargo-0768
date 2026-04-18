@@ -30,4 +30,5 @@
 - pkg:cargo/fuel-core-compression@0.47.1
 - pkg:cargo/fuel-core-compression@0.47.2
 - pkg:cargo/fuel-core-compression@0.47.3
+- pkg:cargo/fuel-core-compression@0.47.4
 - pkg:cargo/fuel-core-compression@0.48.0

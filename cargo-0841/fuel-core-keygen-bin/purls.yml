@@ -57,4 +57,5 @@
 - pkg:cargo/fuel-core-keygen-bin@0.47.0
 - pkg:cargo/fuel-core-keygen-bin@0.47.1
 - pkg:cargo/fuel-core-keygen-bin@0.47.3
+- pkg:cargo/fuel-core-keygen-bin@0.47.4
 - pkg:cargo/fuel-core-keygen-bin@0.48.0
