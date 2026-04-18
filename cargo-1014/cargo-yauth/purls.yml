@@ -1,3 +1,4 @@
+- pkg:cargo/cargo-yauth@0.12.0
 - pkg:cargo/cargo-yauth@0.8.0
 - pkg:cargo/cargo-yauth@0.8.10
 - pkg:cargo/cargo-yauth@0.8.11
