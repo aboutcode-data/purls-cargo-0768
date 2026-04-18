@@ -3,3 +3,5 @@
 - pkg:cargo/ggsql-jupyter@0.1.8
 - pkg:cargo/ggsql-jupyter@0.1.9
 - pkg:cargo/ggsql-jupyter@0.2.3
+- pkg:cargo/ggsql-jupyter@0.2.4
+- pkg:cargo/ggsql-jupyter@0.2.5
