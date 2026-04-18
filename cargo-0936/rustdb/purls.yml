@@ -374,6 +374,8 @@
 - pkg:cargo/rustdb@7.0.50
 - pkg:cargo/rustdb@7.0.51
 - pkg:cargo/rustdb@7.0.52
+- pkg:cargo/rustdb@7.0.53
+- pkg:cargo/rustdb@7.0.54
 - pkg:cargo/rustdb@7.0.6
 - pkg:cargo/rustdb@7.0.7
 - pkg:cargo/rustdb@7.0.8
