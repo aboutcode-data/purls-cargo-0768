@@ -41,3 +41,4 @@
 - pkg:cargo/rbdc-sqlite@4.7.2
 - pkg:cargo/rbdc-sqlite@4.8.0
 - pkg:cargo/rbdc-sqlite@4.8.1
+- pkg:cargo/rbdc-sqlite@4.8.2
