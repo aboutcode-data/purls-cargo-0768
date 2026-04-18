@@ -17,3 +17,4 @@
 - pkg:cargo/fount@0.7.8
 - pkg:cargo/fount@0.7.9
 - pkg:cargo/fount@0.8.0
+- pkg:cargo/fount@0.8.1

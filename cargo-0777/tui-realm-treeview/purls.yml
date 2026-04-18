@@ -8,3 +8,4 @@
 - pkg:cargo/tui-realm-treeview@1.2.0
 - pkg:cargo/tui-realm-treeview@2.0.0
 - pkg:cargo/tui-realm-treeview@3.0.0
+- pkg:cargo/tui-realm-treeview@4.0.0
