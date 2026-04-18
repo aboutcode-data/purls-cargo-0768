@@ -7,3 +7,4 @@
 - pkg:cargo/spl-single-pool@3.0.1
 - pkg:cargo/spl-single-pool@4.0.0
 - pkg:cargo/spl-single-pool@4.0.1
+- pkg:cargo/spl-single-pool@5.0.0
