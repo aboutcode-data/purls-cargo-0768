@@ -2,3 +2,4 @@
 - pkg:cargo/micromegas-datafusion-wasm@0.21.0
 - pkg:cargo/micromegas-datafusion-wasm@0.22.0
 - pkg:cargo/micromegas-datafusion-wasm@0.23.0
+- pkg:cargo/micromegas-datafusion-wasm@0.24.0
