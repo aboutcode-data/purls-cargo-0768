@@ -7,3 +7,5 @@
 - pkg:cargo/tetro-tui@3.0.0
 - pkg:cargo/tetro-tui@3.1.0
 - pkg:cargo/tetro-tui@3.2.0
+- pkg:cargo/tetro-tui@3.2.1
+- pkg:cargo/tetro-tui@3.2.2
