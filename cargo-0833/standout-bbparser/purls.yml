@@ -23,3 +23,5 @@
 - pkg:cargo/standout-bbparser@7.1.0
 - pkg:cargo/standout-bbparser@7.2.0
 - pkg:cargo/standout-bbparser@7.3.0
+- pkg:cargo/standout-bbparser@7.4.0
+- pkg:cargo/standout-bbparser@7.5.0
