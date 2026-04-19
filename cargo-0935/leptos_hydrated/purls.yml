@@ -16,3 +16,4 @@
 - pkg:cargo/leptos_hydrated@0.5.5
 - pkg:cargo/leptos_hydrated@0.5.6
 - pkg:cargo/leptos_hydrated@0.6.0
+- pkg:cargo/leptos_hydrated@0.7.0
