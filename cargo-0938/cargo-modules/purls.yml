@@ -59,6 +59,7 @@
 - pkg:cargo/cargo-modules@0.24.2
 - pkg:cargo/cargo-modules@0.24.3
 - pkg:cargo/cargo-modules@0.25.0
+- pkg:cargo/cargo-modules@0.26.0
 - pkg:cargo/cargo-modules@0.3.0
 - pkg:cargo/cargo-modules@0.3.1
 - pkg:cargo/cargo-modules@0.3.2
