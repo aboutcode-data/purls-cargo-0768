@@ -1,1 +1,3 @@
 - pkg:cargo/tensogram@0.15.0
+- pkg:cargo/tensogram@0.16.0
+- pkg:cargo/tensogram@0.16.1
