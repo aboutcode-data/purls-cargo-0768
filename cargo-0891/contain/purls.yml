@@ -4,3 +4,4 @@
 - pkg:cargo/contain@0.3.0
 - pkg:cargo/contain@0.3.1
 - pkg:cargo/contain@0.4.0
+- pkg:cargo/contain@0.5.1
