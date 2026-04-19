@@ -14,3 +14,4 @@
 - pkg:cargo/cha-cli@0.7.0
 - pkg:cargo/cha-cli@1.0.4
 - pkg:cargo/cha-cli@1.0.5
+- pkg:cargo/cha-cli@1.0.6
