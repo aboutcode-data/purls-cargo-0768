@@ -17,6 +17,7 @@
 - pkg:cargo/wmidi@4.0.0
 - pkg:cargo/wmidi@4.0.1
 - pkg:cargo/wmidi@4.0.10
+- pkg:cargo/wmidi@4.0.11
 - pkg:cargo/wmidi@4.0.2
 - pkg:cargo/wmidi@4.0.3
 - pkg:cargo/wmidi@4.0.4
