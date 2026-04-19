@@ -1,6 +1,8 @@
 - pkg:cargo/zccache-download-protocol@1.2.10
 - pkg:cargo/zccache-download-protocol@1.2.11
 - pkg:cargo/zccache-download-protocol@1.2.12
+- pkg:cargo/zccache-download-protocol@1.2.13
+- pkg:cargo/zccache-download-protocol@1.2.14
 - pkg:cargo/zccache-download-protocol@1.2.3
 - pkg:cargo/zccache-download-protocol@1.2.4
 - pkg:cargo/zccache-download-protocol@1.2.5
