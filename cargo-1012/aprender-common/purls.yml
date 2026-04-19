@@ -1,2 +1,4 @@
 - pkg:cargo/aprender-common@0.29.0
 - pkg:cargo/aprender-common@0.30.0
+- pkg:cargo/aprender-common@0.31.1
+- pkg:cargo/aprender-common@0.31.2
