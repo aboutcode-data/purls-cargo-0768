@@ -6,6 +6,9 @@
 - pkg:cargo/gnostr-git2-hooks@1878.945702.534710
 - pkg:cargo/gnostr-git2-hooks@1878.945702.535048
 - pkg:cargo/gnostr-git2-hooks@1878.945703.533663
+- pkg:cargo/gnostr-git2-hooks@1878.945704.532148
+- pkg:cargo/gnostr-git2-hooks@1878.945705.530574
+- pkg:cargo/gnostr-git2-hooks@1878.945705.530939
 - pkg:cargo/gnostr-git2-hooks@1893.935010.246953
 - pkg:cargo/gnostr-git2-hooks@1894.934224.276199
 - pkg:cargo/gnostr-git2-hooks@1895.933117.678085
