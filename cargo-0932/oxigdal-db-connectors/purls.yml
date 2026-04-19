@@ -2,3 +2,4 @@
 - pkg:cargo/oxigdal-db-connectors@0.1.1
 - pkg:cargo/oxigdal-db-connectors@0.1.2
 - pkg:cargo/oxigdal-db-connectors@0.1.3
+- pkg:cargo/oxigdal-db-connectors@0.1.4
