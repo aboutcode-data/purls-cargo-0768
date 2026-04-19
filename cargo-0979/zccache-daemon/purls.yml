@@ -1,5 +1,6 @@
 - pkg:cargo/zccache-daemon@1.2.10
 - pkg:cargo/zccache-daemon@1.2.11
+- pkg:cargo/zccache-daemon@1.2.12
 - pkg:cargo/zccache-daemon@1.2.3
 - pkg:cargo/zccache-daemon@1.2.4
 - pkg:cargo/zccache-daemon@1.2.5

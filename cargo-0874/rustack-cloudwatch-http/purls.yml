@@ -1,1 +1,2 @@
 - pkg:cargo/rustack-cloudwatch-http@0.6.0
+- pkg:cargo/rustack-cloudwatch-http@0.7.0
