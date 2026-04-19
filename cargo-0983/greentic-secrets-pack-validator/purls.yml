@@ -5,3 +5,4 @@
 - pkg:cargo/greentic-secrets-pack-validator@0.4.24
 - pkg:cargo/greentic-secrets-pack-validator@0.4.25
 - pkg:cargo/greentic-secrets-pack-validator@0.4.26
+- pkg:cargo/greentic-secrets-pack-validator@0.5.0
