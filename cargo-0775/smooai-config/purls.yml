@@ -1,1 +1,4 @@
 - pkg:cargo/smooai-config@2.0.4
+- pkg:cargo/smooai-config@3.2.0
+- pkg:cargo/smooai-config@3.3.0
+- pkg:cargo/smooai-config@3.4.0
