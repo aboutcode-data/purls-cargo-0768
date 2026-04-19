@@ -42,6 +42,8 @@
 - pkg:cargo/turso_sdk_kit@0.6.0-pre.18
 - pkg:cargo/turso_sdk_kit@0.6.0-pre.19
 - pkg:cargo/turso_sdk_kit@0.6.0-pre.2
+- pkg:cargo/turso_sdk_kit@0.6.0-pre.20
+- pkg:cargo/turso_sdk_kit@0.6.0-pre.21
 - pkg:cargo/turso_sdk_kit@0.6.0-pre.3
 - pkg:cargo/turso_sdk_kit@0.6.0-pre.4
 - pkg:cargo/turso_sdk_kit@0.6.0-pre.5
