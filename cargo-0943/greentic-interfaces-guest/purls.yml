@@ -61,3 +61,4 @@
 - pkg:cargo/greentic-interfaces-guest@0.4.94
 - pkg:cargo/greentic-interfaces-guest@0.4.95
 - pkg:cargo/greentic-interfaces-guest@0.4.96
+- pkg:cargo/greentic-interfaces-guest@0.5.0
