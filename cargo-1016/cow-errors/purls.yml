@@ -1,1 +1,2 @@
 - pkg:cargo/cow-errors@0.1.2
+- pkg:cargo/cow-errors@0.2.0
