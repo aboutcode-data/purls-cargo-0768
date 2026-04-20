@@ -126,3 +126,4 @@
 - pkg:cargo/winch-codegen@42.0.2
 - pkg:cargo/winch-codegen@43.0.0
 - pkg:cargo/winch-codegen@43.0.1
+- pkg:cargo/winch-codegen@44.0.0

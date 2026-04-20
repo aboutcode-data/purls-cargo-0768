@@ -34,3 +34,4 @@
 - pkg:cargo/wasmtime-internal-wit-bindgen@42.0.2
 - pkg:cargo/wasmtime-internal-wit-bindgen@43.0.0
 - pkg:cargo/wasmtime-internal-wit-bindgen@43.0.1
+- pkg:cargo/wasmtime-internal-wit-bindgen@44.0.0
