@@ -40,6 +40,7 @@
 - pkg:cargo/miden-node-store@0.14.5
 - pkg:cargo/miden-node-store@0.14.6
 - pkg:cargo/miden-node-store@0.14.7
+- pkg:cargo/miden-node-store@0.14.8
 - pkg:cargo/miden-node-store@0.2.0
 - pkg:cargo/miden-node-store@0.2.1
 - pkg:cargo/miden-node-store@0.3.0
