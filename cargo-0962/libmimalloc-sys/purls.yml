@@ -38,6 +38,8 @@
 - pkg:cargo/libmimalloc-sys@0.1.42
 - pkg:cargo/libmimalloc-sys@0.1.43
 - pkg:cargo/libmimalloc-sys@0.1.44
+- pkg:cargo/libmimalloc-sys@0.1.45
+- pkg:cargo/libmimalloc-sys@0.1.46
 - pkg:cargo/libmimalloc-sys@0.1.5
 - pkg:cargo/libmimalloc-sys@0.1.6
 - pkg:cargo/libmimalloc-sys@0.1.7
