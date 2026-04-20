@@ -2,3 +2,4 @@
 - pkg:cargo/unigateway-core@1.2.1
 - pkg:cargo/unigateway-core@1.3.0
 - pkg:cargo/unigateway-core@1.5.0
+- pkg:cargo/unigateway-core@1.6.0
