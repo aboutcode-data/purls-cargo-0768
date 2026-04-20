@@ -6,6 +6,7 @@
 - pkg:cargo/fvm_actor_utils@12.0.1
 - pkg:cargo/fvm_actor_utils@13.0.0
 - pkg:cargo/fvm_actor_utils@14.0.0
+- pkg:cargo/fvm_actor_utils@15.0.0
 - pkg:cargo/fvm_actor_utils@2.0.0
 - pkg:cargo/fvm_actor_utils@3.0.0
 - pkg:cargo/fvm_actor_utils@4.0.0

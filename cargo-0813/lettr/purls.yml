@@ -1,3 +1,5 @@
 - pkg:cargo/lettr@0.1.0
 - pkg:cargo/lettr@0.2.0
 - pkg:cargo/lettr@0.3.0
+- pkg:cargo/lettr@1.0.0
+- pkg:cargo/lettr@1.0.1
