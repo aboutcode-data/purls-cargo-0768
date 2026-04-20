@@ -21,3 +21,4 @@
 - pkg:cargo/turbomcp-http@3.0.7
 - pkg:cargo/turbomcp-http@3.0.8
 - pkg:cargo/turbomcp-http@3.0.9
+- pkg:cargo/turbomcp-http@3.1.0
