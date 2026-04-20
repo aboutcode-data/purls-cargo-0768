@@ -1,3 +1,4 @@
+- pkg:cargo/type-sitter@0.10.0
 - pkg:cargo/type-sitter@0.5.0
 - pkg:cargo/type-sitter@0.5.1
 - pkg:cargo/type-sitter@0.5.2
