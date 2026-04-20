@@ -21,3 +21,4 @@
 - pkg:cargo/blueprint-chain-setup-anvil@0.1.0-alpha.9
 - pkg:cargo/blueprint-chain-setup-anvil@0.2.0-alpha.1
 - pkg:cargo/blueprint-chain-setup-anvil@0.2.0-alpha.2
+- pkg:cargo/blueprint-chain-setup-anvil@0.2.0-alpha.3
