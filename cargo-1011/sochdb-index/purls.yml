@@ -10,3 +10,4 @@
 - pkg:cargo/sochdb-index@0.4.9
 - pkg:cargo/sochdb-index@0.5.0
 - pkg:cargo/sochdb-index@2.0.0
+- pkg:cargo/sochdb-index@2.0.1
