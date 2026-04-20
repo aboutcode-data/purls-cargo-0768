@@ -130,6 +130,8 @@
 - pkg:cargo/v_utils@2.15.37
 - pkg:cargo/v_utils@2.15.38
 - pkg:cargo/v_utils@2.15.4
+- pkg:cargo/v_utils@2.15.40
+- pkg:cargo/v_utils@2.15.41
 - pkg:cargo/v_utils@2.15.5
 - pkg:cargo/v_utils@2.15.6
 - pkg:cargo/v_utils@2.15.7
