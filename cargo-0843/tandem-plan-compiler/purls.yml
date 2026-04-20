@@ -14,3 +14,5 @@
 - pkg:cargo/tandem-plan-compiler@0.4.31
 - pkg:cargo/tandem-plan-compiler@0.4.32
 - pkg:cargo/tandem-plan-compiler@0.4.33
+- pkg:cargo/tandem-plan-compiler@0.4.34
+- pkg:cargo/tandem-plan-compiler@0.4.35

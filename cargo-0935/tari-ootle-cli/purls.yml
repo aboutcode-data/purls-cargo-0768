@@ -4,5 +4,6 @@
 - pkg:cargo/tari-ootle-cli@0.13.0
 - pkg:cargo/tari-ootle-cli@0.14.0
 - pkg:cargo/tari-ootle-cli@0.15.0
+- pkg:cargo/tari-ootle-cli@0.15.1
 - pkg:cargo/tari-ootle-cli@0.8.0
 - pkg:cargo/tari-ootle-cli@0.9.0
