@@ -20,3 +20,4 @@
 - pkg:cargo/hive-router-query-planner@2.5.2
 - pkg:cargo/hive-router-query-planner@2.6.0
 - pkg:cargo/hive-router-query-planner@2.7.0
+- pkg:cargo/hive-router-query-planner@2.7.1
