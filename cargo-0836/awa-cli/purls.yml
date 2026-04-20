@@ -28,3 +28,4 @@
 - pkg:cargo/awa-cli@0.5.3-alpha.2
 - pkg:cargo/awa-cli@0.5.4-alpha.0
 - pkg:cargo/awa-cli@0.5.4-alpha.1
+- pkg:cargo/awa-cli@0.5.5-alpha.0
