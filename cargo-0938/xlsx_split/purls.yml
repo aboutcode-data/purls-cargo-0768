@@ -11,3 +11,4 @@
 - pkg:cargo/xlsx_split@1.1.7
 - pkg:cargo/xlsx_split@1.1.8
 - pkg:cargo/xlsx_split@1.1.9
+- pkg:cargo/xlsx_split@1.2.0
