@@ -1,3 +1,4 @@
 - pkg:cargo/omnia-wasi-identity@0.28.0
 - pkg:cargo/omnia-wasi-identity@0.29.0
 - pkg:cargo/omnia-wasi-identity@0.30.0
+- pkg:cargo/omnia-wasi-identity@0.31.0
