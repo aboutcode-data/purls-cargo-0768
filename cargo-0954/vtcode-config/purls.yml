@@ -1,4 +1,5 @@
 - pkg:cargo/vtcode-config@0.100.0
+- pkg:cargo/vtcode-config@0.100.1
 - pkg:cargo/vtcode-config@0.30.7
 - pkg:cargo/vtcode-config@0.31.0
 - pkg:cargo/vtcode-config@0.33.0
