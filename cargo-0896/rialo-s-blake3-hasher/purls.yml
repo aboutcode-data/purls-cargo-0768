@@ -11,3 +11,4 @@
 - pkg:cargo/rialo-s-blake3-hasher@0.3.0
 - pkg:cargo/rialo-s-blake3-hasher@0.3.0-alpha.0
 - pkg:cargo/rialo-s-blake3-hasher@0.4.0-alpha.0
+- pkg:cargo/rialo-s-blake3-hasher@0.4.0-alpha.1

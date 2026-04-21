@@ -9,3 +9,4 @@
 - pkg:cargo/rialo-tee-secret-sharing@0.3.0
 - pkg:cargo/rialo-tee-secret-sharing@0.3.0-alpha.0
 - pkg:cargo/rialo-tee-secret-sharing@0.4.0-alpha.0
+- pkg:cargo/rialo-tee-secret-sharing@0.4.0-alpha.1
