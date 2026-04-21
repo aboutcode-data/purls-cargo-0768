@@ -1,0 +1,2 @@
+- pkg:cargo/k8s-crds-sshpiper@0.1.0
+- pkg:cargo/k8s-crds-sshpiper@1.5.3
