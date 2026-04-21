@@ -36,3 +36,4 @@
 - pkg:cargo/stellar-xdr@25.0.0-rc.1
 - pkg:cargo/stellar-xdr@25.0.1
 - pkg:cargo/stellar-xdr@26.0.0
+- pkg:cargo/stellar-xdr@26.0.1
