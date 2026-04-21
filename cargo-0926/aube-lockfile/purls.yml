@@ -1,5 +1,6 @@
 - pkg:cargo/aube-lockfile@1.0.0-beta.1
 - pkg:cargo/aube-lockfile@1.0.0-beta.10
+- pkg:cargo/aube-lockfile@1.0.0-beta.11
 - pkg:cargo/aube-lockfile@1.0.0-beta.2
 - pkg:cargo/aube-lockfile@1.0.0-beta.3
 - pkg:cargo/aube-lockfile@1.0.0-beta.4
