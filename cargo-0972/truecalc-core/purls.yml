@@ -5,6 +5,7 @@
 - pkg:cargo/truecalc-core@0.4.14
 - pkg:cargo/truecalc-core@0.4.15
 - pkg:cargo/truecalc-core@0.4.16
+- pkg:cargo/truecalc-core@0.4.17
 - pkg:cargo/truecalc-core@0.4.4
 - pkg:cargo/truecalc-core@0.4.5
 - pkg:cargo/truecalc-core@0.4.6
