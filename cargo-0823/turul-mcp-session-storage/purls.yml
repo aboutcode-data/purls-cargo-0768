@@ -28,6 +28,7 @@
 - pkg:cargo/turul-mcp-session-storage@0.3.31
 - pkg:cargo/turul-mcp-session-storage@0.3.32
 - pkg:cargo/turul-mcp-session-storage@0.3.33
+- pkg:cargo/turul-mcp-session-storage@0.3.34
 - pkg:cargo/turul-mcp-session-storage@0.3.4
 - pkg:cargo/turul-mcp-session-storage@0.3.5
 - pkg:cargo/turul-mcp-session-storage@0.3.6
