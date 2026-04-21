@@ -1,5 +1,6 @@
 - pkg:cargo/nifi-openapi-gen@0.10.0
 - pkg:cargo/nifi-openapi-gen@0.10.1
+- pkg:cargo/nifi-openapi-gen@0.11.0
 - pkg:cargo/nifi-openapi-gen@0.4.1
 - pkg:cargo/nifi-openapi-gen@0.4.2
 - pkg:cargo/nifi-openapi-gen@0.5.0
