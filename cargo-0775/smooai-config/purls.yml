@@ -8,3 +8,6 @@
 - pkg:cargo/smooai-config@4.1.2
 - pkg:cargo/smooai-config@4.1.3
 - pkg:cargo/smooai-config@4.1.4
+- pkg:cargo/smooai-config@4.2.0
+- pkg:cargo/smooai-config@4.2.1
+- pkg:cargo/smooai-config@4.2.2

@@ -139,6 +139,8 @@
 - pkg:cargo/harn-dap@0.7.25
 - pkg:cargo/harn-dap@0.7.26
 - pkg:cargo/harn-dap@0.7.27
+- pkg:cargo/harn-dap@0.7.28
+- pkg:cargo/harn-dap@0.7.29
 - pkg:cargo/harn-dap@0.7.3
 - pkg:cargo/harn-dap@0.7.4
 - pkg:cargo/harn-dap@0.7.5
