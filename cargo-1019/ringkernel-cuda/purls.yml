@@ -9,3 +9,4 @@
 - pkg:cargo/ringkernel-cuda@0.4.0
 - pkg:cargo/ringkernel-cuda@0.4.1
 - pkg:cargo/ringkernel-cuda@0.4.2
+- pkg:cargo/ringkernel-cuda@1.1.0
