@@ -17,3 +17,4 @@
 - pkg:cargo/cosmian_pkcs11@5.19.0
 - pkg:cargo/cosmian_pkcs11@5.20.0
 - pkg:cargo/cosmian_pkcs11@5.20.1
+- pkg:cargo/cosmian_pkcs11@5.21.0
