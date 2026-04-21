@@ -8,3 +8,4 @@
 - pkg:cargo/rigsql-cli@0.5.1
 - pkg:cargo/rigsql-cli@0.5.2
 - pkg:cargo/rigsql-cli@0.6.0
+- pkg:cargo/rigsql-cli@0.7.0
