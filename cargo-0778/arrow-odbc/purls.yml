@@ -136,6 +136,7 @@
 - pkg:cargo/arrow-odbc@23.0.0
 - pkg:cargo/arrow-odbc@23.0.1
 - pkg:cargo/arrow-odbc@23.1.0
+- pkg:cargo/arrow-odbc@23.2.0
 - pkg:cargo/arrow-odbc@3.0.0
 - pkg:cargo/arrow-odbc@3.1.0
 - pkg:cargo/arrow-odbc@3.1.1
