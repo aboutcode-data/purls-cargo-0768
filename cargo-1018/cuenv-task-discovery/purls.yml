@@ -3,3 +3,4 @@
 - pkg:cargo/cuenv-task-discovery@0.26.19
 - pkg:cargo/cuenv-task-discovery@0.26.2
 - pkg:cargo/cuenv-task-discovery@0.26.9
+- pkg:cargo/cuenv-task-discovery@0.40.6

@@ -19,6 +19,7 @@
 - pkg:cargo/prek-consts@0.2.30
 - pkg:cargo/prek-consts@0.3.0
 - pkg:cargo/prek-consts@0.3.1
+- pkg:cargo/prek-consts@0.3.10
 - pkg:cargo/prek-consts@0.3.2
 - pkg:cargo/prek-consts@0.3.3
 - pkg:cargo/prek-consts@0.3.4
