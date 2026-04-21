@@ -91,6 +91,7 @@
 - pkg:cargo/vortex-error@0.66.0
 - pkg:cargo/vortex-error@0.67.0
 - pkg:cargo/vortex-error@0.68.0
+- pkg:cargo/vortex-error@0.69.0
 - pkg:cargo/vortex-error@0.7.0
 - pkg:cargo/vortex-error@0.8.0
 - pkg:cargo/vortex-error@0.9.0

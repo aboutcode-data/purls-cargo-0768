@@ -5,3 +5,4 @@
 - pkg:cargo/vortex-tensor@0.66.0
 - pkg:cargo/vortex-tensor@0.67.0
 - pkg:cargo/vortex-tensor@0.68.0
+- pkg:cargo/vortex-tensor@0.69.0

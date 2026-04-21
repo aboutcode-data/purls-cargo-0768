@@ -3,3 +3,5 @@
 - pkg:cargo/vitrail-pg-macros@0.0.3
 - pkg:cargo/vitrail-pg-macros@0.0.4
 - pkg:cargo/vitrail-pg-macros@0.0.5
+- pkg:cargo/vitrail-pg-macros@0.0.6
+- pkg:cargo/vitrail-pg-macros@0.0.7
