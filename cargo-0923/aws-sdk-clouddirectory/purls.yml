@@ -144,3 +144,4 @@
 - pkg:cargo/aws-sdk-clouddirectory@1.95.0
 - pkg:cargo/aws-sdk-clouddirectory@1.96.0
 - pkg:cargo/aws-sdk-clouddirectory@1.97.0
+- pkg:cargo/aws-sdk-clouddirectory@1.98.0

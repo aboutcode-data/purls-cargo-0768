@@ -1,1 +1,2 @@
 - pkg:cargo/dotenvy-derive@0.15.7
+- pkg:cargo/dotenvy-derive@0.15.8
