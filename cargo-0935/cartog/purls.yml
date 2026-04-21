@@ -13,6 +13,7 @@
 - pkg:cargo/cartog@0.12.1
 - pkg:cargo/cartog@0.12.2
 - pkg:cargo/cartog@0.13.0
+- pkg:cargo/cartog@0.13.1
 - pkg:cargo/cartog@0.2.0
 - pkg:cargo/cartog@0.3.0
 - pkg:cargo/cartog@0.3.1
