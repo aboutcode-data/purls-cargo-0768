@@ -17,6 +17,7 @@
 - pkg:cargo/terraphim_rolegraph@1.16.7
 - pkg:cargo/terraphim_rolegraph@1.16.8
 - pkg:cargo/terraphim_rolegraph@1.16.9
+- pkg:cargo/terraphim_rolegraph@1.19.0
 - pkg:cargo/terraphim_rolegraph@1.4.10
 - pkg:cargo/terraphim_rolegraph@1.4.7
 - pkg:cargo/terraphim_rolegraph@1.4.8
