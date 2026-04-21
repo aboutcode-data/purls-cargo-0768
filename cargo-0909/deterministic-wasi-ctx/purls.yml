@@ -46,3 +46,4 @@
 - pkg:cargo/deterministic-wasi-ctx@3.0.6
 - pkg:cargo/deterministic-wasi-ctx@4.0.0
 - pkg:cargo/deterministic-wasi-ctx@4.0.1
+- pkg:cargo/deterministic-wasi-ctx@4.0.2
