@@ -1,3 +1,4 @@
 - pkg:cargo/rustledger-plugin-types@0.10.1
 - pkg:cargo/rustledger-plugin-types@0.11.0
 - pkg:cargo/rustledger-plugin-types@0.12.0
+- pkg:cargo/rustledger-plugin-types@0.13.0
