@@ -8,6 +8,7 @@
 - pkg:cargo/codelens-tui@1.9.43
 - pkg:cargo/codelens-tui@1.9.44
 - pkg:cargo/codelens-tui@1.9.45
+- pkg:cargo/codelens-tui@1.9.55
 - pkg:cargo/codelens-tui@1.9.6
 - pkg:cargo/codelens-tui@1.9.7
 - pkg:cargo/codelens-tui@1.9.8
