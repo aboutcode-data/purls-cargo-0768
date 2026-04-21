@@ -29,3 +29,4 @@
 - pkg:cargo/grove-rs@0.8.10
 - pkg:cargo/grove-rs@0.8.2
 - pkg:cargo/grove-rs@0.8.6
+- pkg:cargo/grove-rs@0.9.0
