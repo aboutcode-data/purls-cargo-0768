@@ -1,2 +1,4 @@
 - pkg:cargo/cvmfs@0.2.0
 - pkg:cargo/cvmfs@0.3.0
+- pkg:cargo/cvmfs@0.4.0
+- pkg:cargo/cvmfs@0.4.1
