@@ -32,3 +32,4 @@
 - pkg:cargo/ox_content_parser@0.8.0
 - pkg:cargo/ox_content_parser@0.9.0
 - pkg:cargo/ox_content_parser@1.0.0-alpha.0
+- pkg:cargo/ox_content_parser@1.1.0
