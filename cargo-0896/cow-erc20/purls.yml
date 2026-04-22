@@ -1,3 +1,5 @@
 - pkg:cargo/cow-erc20@0.1.2
 - pkg:cargo/cow-erc20@0.2.0
 - pkg:cargo/cow-erc20@0.3.0
+- pkg:cargo/cow-erc20@0.4.0
+- pkg:cargo/cow-erc20@0.5.0

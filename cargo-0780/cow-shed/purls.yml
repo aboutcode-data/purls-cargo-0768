@@ -1,3 +1,5 @@
 - pkg:cargo/cow-shed@0.1.2
 - pkg:cargo/cow-shed@0.2.0
 - pkg:cargo/cow-shed@0.3.0
+- pkg:cargo/cow-shed@0.4.0
+- pkg:cargo/cow-shed@0.5.0
