@@ -10,3 +10,4 @@
 - pkg:cargo/selene-core@0.5.5
 - pkg:cargo/selene-core@0.5.7
 - pkg:cargo/selene-core@0.6.0
+- pkg:cargo/selene-core@0.7.1
