@@ -10,3 +10,4 @@
 - pkg:cargo/sonda@0.7.0
 - pkg:cargo/sonda@0.8.0
 - pkg:cargo/sonda@0.9.0
+- pkg:cargo/sonda@1.0.1
