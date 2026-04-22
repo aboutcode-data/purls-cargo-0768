@@ -42,6 +42,7 @@
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.44.1
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.45.0
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.46.0
+- pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.47.0
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.5.0
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.6.0
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.7.0
