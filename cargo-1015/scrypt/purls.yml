@@ -4,6 +4,7 @@
 - pkg:cargo/scrypt@0.1.2
 - pkg:cargo/scrypt@0.10.0
 - pkg:cargo/scrypt@0.11.0
+- pkg:cargo/scrypt@0.12.0
 - pkg:cargo/scrypt@0.12.0-pre.0
 - pkg:cargo/scrypt@0.12.0-pre.1
 - pkg:cargo/scrypt@0.12.0-pre.2
