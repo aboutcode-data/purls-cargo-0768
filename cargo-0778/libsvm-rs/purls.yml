@@ -6,3 +6,4 @@
 - pkg:cargo/libsvm-rs@0.5.1
 - pkg:cargo/libsvm-rs@0.6.0
 - pkg:cargo/libsvm-rs@0.7.0
+- pkg:cargo/libsvm-rs@0.8.0
