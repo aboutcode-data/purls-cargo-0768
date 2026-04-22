@@ -70,3 +70,4 @@
 - pkg:cargo/try-rs@1.7.4
 - pkg:cargo/try-rs@1.7.5
 - pkg:cargo/try-rs@1.7.7
+- pkg:cargo/try-rs@1.7.8
