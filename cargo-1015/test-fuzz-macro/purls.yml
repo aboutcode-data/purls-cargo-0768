@@ -66,3 +66,4 @@
 - pkg:cargo/test-fuzz-macro@7.2.5
 - pkg:cargo/test-fuzz-macro@7.3.0
 - pkg:cargo/test-fuzz-macro@8.0.0
+- pkg:cargo/test-fuzz-macro@8.1.0
