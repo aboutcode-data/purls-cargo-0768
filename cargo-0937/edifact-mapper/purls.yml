@@ -43,6 +43,7 @@
 - pkg:cargo/edifact-mapper@0.1.50
 - pkg:cargo/edifact-mapper@0.1.51
 - pkg:cargo/edifact-mapper@0.1.52
+- pkg:cargo/edifact-mapper@0.1.53
 - pkg:cargo/edifact-mapper@0.1.7
 - pkg:cargo/edifact-mapper@0.1.8
 - pkg:cargo/edifact-mapper@0.1.9
