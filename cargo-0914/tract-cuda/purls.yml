@@ -4,3 +4,4 @@
 - pkg:cargo/tract-cuda@0.23.0-dev.2
 - pkg:cargo/tract-cuda@0.23.0-dev.3
 - pkg:cargo/tract-cuda@0.23.0-dev.4
+- pkg:cargo/tract-cuda@0.23.0-dev.5

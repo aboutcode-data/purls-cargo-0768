@@ -12,3 +12,4 @@
 - pkg:cargo/kobe-svm@0.7.6
 - pkg:cargo/kobe-svm@0.7.7
 - pkg:cargo/kobe-svm@0.8.0
+- pkg:cargo/kobe-svm@0.8.1
