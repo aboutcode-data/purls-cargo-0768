@@ -6,3 +6,5 @@
 - pkg:cargo/asupersync-conformance@0.2.7
 - pkg:cargo/asupersync-conformance@0.2.8
 - pkg:cargo/asupersync-conformance@0.2.9
+- pkg:cargo/asupersync-conformance@0.3.0
+- pkg:cargo/asupersync-conformance@0.3.1
