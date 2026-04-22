@@ -2,3 +2,4 @@
 - pkg:cargo/kimberlite-storage@0.4.2
 - pkg:cargo/kimberlite-storage@0.5.0
 - pkg:cargo/kimberlite-storage@0.5.1
+- pkg:cargo/kimberlite-storage@0.6.0

@@ -33,3 +33,6 @@
 - pkg:cargo/ox_content_allocator@0.9.0
 - pkg:cargo/ox_content_allocator@1.0.0-alpha.0
 - pkg:cargo/ox_content_allocator@1.1.0
+- pkg:cargo/ox_content_allocator@2.0.0
+- pkg:cargo/ox_content_allocator@2.1.0
+- pkg:cargo/ox_content_allocator@2.2.0
