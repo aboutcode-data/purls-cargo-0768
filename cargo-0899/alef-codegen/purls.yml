@@ -10,3 +10,8 @@
 - pkg:cargo/alef-codegen@0.4.1
 - pkg:cargo/alef-codegen@0.5.0
 - pkg:cargo/alef-codegen@0.5.1
+- pkg:cargo/alef-codegen@0.5.2
+- pkg:cargo/alef-codegen@0.5.3
+- pkg:cargo/alef-codegen@0.5.4
+- pkg:cargo/alef-codegen@0.5.6
+- pkg:cargo/alef-codegen@0.5.7
