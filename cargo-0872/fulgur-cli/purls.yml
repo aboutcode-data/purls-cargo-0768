@@ -11,7 +11,11 @@
 - pkg:cargo/fulgur-cli@0.4.5
 - pkg:cargo/fulgur-cli@0.5.0
 - pkg:cargo/fulgur-cli@0.5.1
+- pkg:cargo/fulgur-cli@0.5.10
+- pkg:cargo/fulgur-cli@0.5.11
 - pkg:cargo/fulgur-cli@0.5.2
 - pkg:cargo/fulgur-cli@0.5.5
 - pkg:cargo/fulgur-cli@0.5.6
 - pkg:cargo/fulgur-cli@0.5.7
+- pkg:cargo/fulgur-cli@0.5.8
+- pkg:cargo/fulgur-cli@0.5.9

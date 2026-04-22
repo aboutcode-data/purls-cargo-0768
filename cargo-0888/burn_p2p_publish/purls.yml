@@ -21,6 +21,7 @@
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.3
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.30
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.31
+- pkg:cargo/burn_p2p_publish@0.21.0-pre.32
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.4
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.5
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.6
