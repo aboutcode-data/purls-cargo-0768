@@ -4,3 +4,4 @@
 - pkg:cargo/miden-confidential-contracts@0.13.2
 - pkg:cargo/miden-confidential-contracts@0.13.3
 - pkg:cargo/miden-confidential-contracts@0.14.3
+- pkg:cargo/miden-confidential-contracts@0.14.4
