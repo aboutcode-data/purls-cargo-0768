@@ -1,1 +1,2 @@
+- pkg:cargo/cljrs@0.1.10
 - pkg:cargo/cljrs@0.1.7

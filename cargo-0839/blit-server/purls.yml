@@ -26,3 +26,4 @@
 - pkg:cargo/blit-server@0.27.4
 - pkg:cargo/blit-server@0.28.0
 - pkg:cargo/blit-server@0.28.1
+- pkg:cargo/blit-server@0.28.2
