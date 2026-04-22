@@ -3,6 +3,7 @@
 - pkg:cargo/modo-rs@0.10.1
 - pkg:cargo/modo-rs@0.10.2
 - pkg:cargo/modo-rs@0.10.3
+- pkg:cargo/modo-rs@0.10.4
 - pkg:cargo/modo-rs@0.2.0
 - pkg:cargo/modo-rs@0.3.0
 - pkg:cargo/modo-rs@0.4.0
