@@ -42,3 +42,4 @@
 - pkg:cargo/systemprompt-loader@0.2.2
 - pkg:cargo/systemprompt-loader@0.2.3
 - pkg:cargo/systemprompt-loader@0.2.4
+- pkg:cargo/systemprompt-loader@0.3.0
