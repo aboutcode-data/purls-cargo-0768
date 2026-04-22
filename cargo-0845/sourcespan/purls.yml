@@ -29,3 +29,4 @@
 - pkg:cargo/sourcespan@0.12.5
 - pkg:cargo/sourcespan@0.12.6
 - pkg:cargo/sourcespan@0.12.7
+- pkg:cargo/sourcespan@0.13.0
