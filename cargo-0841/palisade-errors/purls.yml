@@ -1,3 +1,4 @@
 - pkg:cargo/palisade-errors@0.3.0
 - pkg:cargo/palisade-errors@1.0.0
 - pkg:cargo/palisade-errors@1.0.1
+- pkg:cargo/palisade-errors@2.0.0

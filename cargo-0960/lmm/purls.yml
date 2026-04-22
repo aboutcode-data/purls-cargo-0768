@@ -18,3 +18,5 @@
 - pkg:cargo/lmm@0.1.9
 - pkg:cargo/lmm@0.2.0
 - pkg:cargo/lmm@0.2.1
+- pkg:cargo/lmm@0.2.2
+- pkg:cargo/lmm@0.2.3
