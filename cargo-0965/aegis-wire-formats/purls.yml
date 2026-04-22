@@ -1,1 +1,2 @@
 - pkg:cargo/aegis-wire-formats@0.0.0
+- pkg:cargo/aegis-wire-formats@0.16.0
