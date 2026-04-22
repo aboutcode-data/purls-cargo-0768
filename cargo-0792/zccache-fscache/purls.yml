@@ -14,3 +14,4 @@
 - pkg:cargo/zccache-fscache@1.2.7
 - pkg:cargo/zccache-fscache@1.2.8
 - pkg:cargo/zccache-fscache@1.3.0
+- pkg:cargo/zccache-fscache@1.3.1

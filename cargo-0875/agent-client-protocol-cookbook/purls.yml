@@ -1,1 +1,2 @@
 - pkg:cargo/agent-client-protocol-cookbook@0.11.0
+- pkg:cargo/agent-client-protocol-cookbook@0.11.1
