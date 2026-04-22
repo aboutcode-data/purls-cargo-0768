@@ -1,4 +1,5 @@
 - pkg:cargo/rspack_plugin_javascript@0.1.0
+- pkg:cargo/rspack_plugin_javascript@0.100.0
 - pkg:cargo/rspack_plugin_javascript@0.100.0-beta.8
 - pkg:cargo/rspack_plugin_javascript@0.100.0-beta.9
 - pkg:cargo/rspack_plugin_javascript@0.100.0-rc.0
