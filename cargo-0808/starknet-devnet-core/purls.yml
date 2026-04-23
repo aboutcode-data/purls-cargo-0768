@@ -39,3 +39,4 @@
 - pkg:cargo/starknet-devnet-core@0.8.0-rc.1
 - pkg:cargo/starknet-devnet-core@0.8.0-rc.2
 - pkg:cargo/starknet-devnet-core@0.8.0-rc.3
+- pkg:cargo/starknet-devnet-core@0.8.1

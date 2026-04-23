@@ -12,4 +12,5 @@
 - pkg:cargo/surfpool-types@0.9.5
 - pkg:cargo/surfpool-types@0.9.6
 - pkg:cargo/surfpool-types@1.1.1
+- pkg:cargo/surfpool-types@1.2.0
 - pkg:cargo/surfpool-types@1.2.0-beta.0
