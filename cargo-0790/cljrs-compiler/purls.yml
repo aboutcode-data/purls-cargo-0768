@@ -1,4 +1,5 @@
 - pkg:cargo/cljrs-compiler@0.1.10
 - pkg:cargo/cljrs-compiler@0.1.11
 - pkg:cargo/cljrs-compiler@0.1.12
+- pkg:cargo/cljrs-compiler@0.1.13
 - pkg:cargo/cljrs-compiler@0.1.7

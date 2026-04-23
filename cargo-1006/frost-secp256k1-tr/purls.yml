@@ -1,3 +1,4 @@
 - pkg:cargo/frost-secp256k1-tr@2.1.0
 - pkg:cargo/frost-secp256k1-tr@2.2.0
+- pkg:cargo/frost-secp256k1-tr@3.0.0
 - pkg:cargo/frost-secp256k1-tr@3.0.0-rc.0
