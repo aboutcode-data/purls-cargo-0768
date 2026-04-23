@@ -1,2 +1,3 @@
 - pkg:cargo/signer-nostr@0.7.0
 - pkg:cargo/signer-nostr@0.8.0
+- pkg:cargo/signer-nostr@1.0.0
