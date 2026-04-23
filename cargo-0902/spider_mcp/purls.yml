@@ -61,6 +61,10 @@
 - pkg:cargo/spider_mcp@2.51.100
 - pkg:cargo/spider_mcp@2.51.101
 - pkg:cargo/spider_mcp@2.51.102
+- pkg:cargo/spider_mcp@2.51.103
+- pkg:cargo/spider_mcp@2.51.104
+- pkg:cargo/spider_mcp@2.51.105
+- pkg:cargo/spider_mcp@2.51.106
 - pkg:cargo/spider_mcp@2.51.14
 - pkg:cargo/spider_mcp@2.51.15
 - pkg:cargo/spider_mcp@2.51.16

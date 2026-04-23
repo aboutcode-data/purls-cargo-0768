@@ -6,6 +6,8 @@
 - pkg:cargo/aetheris-protocol@0.2.13
 - pkg:cargo/aetheris-protocol@0.2.14
 - pkg:cargo/aetheris-protocol@0.2.15
+- pkg:cargo/aetheris-protocol@0.2.16
+- pkg:cargo/aetheris-protocol@0.2.17
 - pkg:cargo/aetheris-protocol@0.2.2
 - pkg:cargo/aetheris-protocol@0.2.3
 - pkg:cargo/aetheris-protocol@0.2.4
