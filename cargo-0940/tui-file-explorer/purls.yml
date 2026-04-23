@@ -59,3 +59,4 @@
 - pkg:cargo/tui-file-explorer@0.9.8
 - pkg:cargo/tui-file-explorer@1.0.2
 - pkg:cargo/tui-file-explorer@1.0.5
+- pkg:cargo/tui-file-explorer@1.0.6

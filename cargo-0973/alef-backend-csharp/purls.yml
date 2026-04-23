@@ -17,3 +17,4 @@
 - pkg:cargo/alef-backend-csharp@0.5.8
 - pkg:cargo/alef-backend-csharp@0.5.9
 - pkg:cargo/alef-backend-csharp@0.6.0
+- pkg:cargo/alef-backend-csharp@0.6.1
