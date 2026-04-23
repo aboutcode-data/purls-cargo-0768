@@ -3,3 +3,10 @@
 - pkg:cargo/plexus-substrate@0.2.8
 - pkg:cargo/plexus-substrate@0.3.0
 - pkg:cargo/plexus-substrate@0.5.0
+- pkg:cargo/plexus-substrate@0.5.1
+- pkg:cargo/plexus-substrate@0.5.2
+- pkg:cargo/plexus-substrate@0.5.3
+- pkg:cargo/plexus-substrate@0.6.0
+- pkg:cargo/plexus-substrate@0.6.1
+- pkg:cargo/plexus-substrate@0.6.2
+- pkg:cargo/plexus-substrate@0.6.3
