@@ -5,6 +5,7 @@
 - pkg:cargo/http-wasm-guest@0.10.3
 - pkg:cargo/http-wasm-guest@0.11.0
 - pkg:cargo/http-wasm-guest@0.11.1
+- pkg:cargo/http-wasm-guest@0.11.2
 - pkg:cargo/http-wasm-guest@0.2.0
 - pkg:cargo/http-wasm-guest@0.2.1
 - pkg:cargo/http-wasm-guest@0.3.0
