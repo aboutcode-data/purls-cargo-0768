@@ -8,3 +8,5 @@
 - pkg:cargo/kobe-tron@0.8.1
 - pkg:cargo/kobe-tron@0.8.2
 - pkg:cargo/kobe-tron@1.0.0
+- pkg:cargo/kobe-tron@1.1.0
+- pkg:cargo/kobe-tron@1.1.1
