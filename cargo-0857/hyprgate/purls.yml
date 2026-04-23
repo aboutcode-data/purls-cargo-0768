@@ -4,3 +4,4 @@
 - pkg:cargo/hyprgate@0.0.5
 - pkg:cargo/hyprgate@0.1.0
 - pkg:cargo/hyprgate@0.2.0
+- pkg:cargo/hyprgate@0.2.1

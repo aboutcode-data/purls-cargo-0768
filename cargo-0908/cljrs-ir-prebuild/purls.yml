@@ -1,1 +1,2 @@
 - pkg:cargo/cljrs-ir-prebuild@0.1.10
+- pkg:cargo/cljrs-ir-prebuild@0.1.11
