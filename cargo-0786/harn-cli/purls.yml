@@ -145,6 +145,7 @@
 - pkg:cargo/harn-cli@0.7.3
 - pkg:cargo/harn-cli@0.7.30
 - pkg:cargo/harn-cli@0.7.31
+- pkg:cargo/harn-cli@0.7.32
 - pkg:cargo/harn-cli@0.7.4
 - pkg:cargo/harn-cli@0.7.5
 - pkg:cargo/harn-cli@0.7.6

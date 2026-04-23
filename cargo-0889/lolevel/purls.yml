@@ -7,3 +7,5 @@
 - pkg:cargo/lolevel@0.5.1-indev
 - pkg:cargo/lolevel@0.6.0-indev
 - pkg:cargo/lolevel@0.6.1-indev
+- pkg:cargo/lolevel@0.7.0-indev
+- pkg:cargo/lolevel@1.0.0-indev
