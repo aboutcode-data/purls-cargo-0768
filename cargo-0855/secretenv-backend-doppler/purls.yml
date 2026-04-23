@@ -1,1 +1,2 @@
 - pkg:cargo/secretenv-backend-doppler@0.6.0
+- pkg:cargo/secretenv-backend-doppler@0.7.0
