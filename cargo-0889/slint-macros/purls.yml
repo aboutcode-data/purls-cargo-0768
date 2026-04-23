@@ -26,6 +26,7 @@
 - pkg:cargo/slint-macros@1.15.0
 - pkg:cargo/slint-macros@1.15.1
 - pkg:cargo/slint-macros@1.16.0
+- pkg:cargo/slint-macros@1.16.1
 - pkg:cargo/slint-macros@1.2.0
 - pkg:cargo/slint-macros@1.2.1
 - pkg:cargo/slint-macros@1.2.2

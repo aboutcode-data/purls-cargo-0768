@@ -19,3 +19,6 @@
 - pkg:cargo/oxidoc-text@0.1.6
 - pkg:cargo/oxidoc-text@0.1.6-beta.1
 - pkg:cargo/oxidoc-text@0.1.6-beta.2
+- pkg:cargo/oxidoc-text@0.1.7
+- pkg:cargo/oxidoc-text@0.1.7-beta.3
+- pkg:cargo/oxidoc-text@0.1.7-beta.4
