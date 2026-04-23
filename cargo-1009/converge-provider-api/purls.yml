@@ -3,3 +3,4 @@
 - pkg:cargo/converge-provider-api@3.2.1
 - pkg:cargo/converge-provider-api@3.7.0
 - pkg:cargo/converge-provider-api@3.7.1
+- pkg:cargo/converge-provider-api@3.7.2

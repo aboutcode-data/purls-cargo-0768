@@ -2,3 +2,4 @@
 - pkg:cargo/converge-protocol@3.2.1
 - pkg:cargo/converge-protocol@3.7.0
 - pkg:cargo/converge-protocol@3.7.1
+- pkg:cargo/converge-protocol@3.7.2
