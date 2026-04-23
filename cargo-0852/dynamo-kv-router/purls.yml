@@ -1,3 +1,4 @@
 - pkg:cargo/dynamo-kv-router@0.0.0-prerelease.0
 - pkg:cargo/dynamo-kv-router@1.0.0
 - pkg:cargo/dynamo-kv-router@1.0.1
+- pkg:cargo/dynamo-kv-router@1.0.2
