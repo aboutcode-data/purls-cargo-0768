@@ -12,3 +12,4 @@
 - pkg:cargo/perf-sentinel@0.4.8
 - pkg:cargo/perf-sentinel@0.5.0
 - pkg:cargo/perf-sentinel@0.5.1
+- pkg:cargo/perf-sentinel@0.5.2
