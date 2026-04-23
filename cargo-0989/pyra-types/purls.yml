@@ -15,3 +15,5 @@
 - pkg:cargo/pyra-types@0.5.2
 - pkg:cargo/pyra-types@0.5.3
 - pkg:cargo/pyra-types@0.5.4
+- pkg:cargo/pyra-types@0.6.1
+- pkg:cargo/pyra-types@0.6.2
