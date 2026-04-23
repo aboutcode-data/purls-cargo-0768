@@ -13,3 +13,5 @@
 - pkg:cargo/lex-babel@0.8.0
 - pkg:cargo/lex-babel@0.8.2
 - pkg:cargo/lex-babel@0.8.3
+- pkg:cargo/lex-babel@0.8.4
+- pkg:cargo/lex-babel@0.8.5
