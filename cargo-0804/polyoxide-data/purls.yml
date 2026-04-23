@@ -7,6 +7,7 @@
 - pkg:cargo/polyoxide-data@0.12.4
 - pkg:cargo/polyoxide-data@0.12.5
 - pkg:cargo/polyoxide-data@0.13.0
+- pkg:cargo/polyoxide-data@0.14.0
 - pkg:cargo/polyoxide-data@0.6.0
 - pkg:cargo/polyoxide-data@0.6.1
 - pkg:cargo/polyoxide-data@0.7.0
