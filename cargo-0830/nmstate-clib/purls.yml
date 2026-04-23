@@ -1,3 +1,4 @@
 - pkg:cargo/nmstate-clib@2.2.34
 - pkg:cargo/nmstate-clib@2.2.38
 - pkg:cargo/nmstate-clib@2.2.43
+- pkg:cargo/nmstate-clib@2.2.60
