@@ -30,6 +30,7 @@
 - pkg:cargo/fflonk-cuda@0.155.0
 - pkg:cargo/fflonk-cuda@0.155.1
 - pkg:cargo/fflonk-cuda@0.155.10
+- pkg:cargo/fflonk-cuda@0.155.11
 - pkg:cargo/fflonk-cuda@0.155.2
 - pkg:cargo/fflonk-cuda@0.155.3
 - pkg:cargo/fflonk-cuda@0.155.4
@@ -39,3 +40,4 @@
 - pkg:cargo/fflonk-cuda@0.155.8
 - pkg:cargo/fflonk-cuda@0.155.8-1
 - pkg:cargo/fflonk-cuda@0.155.9
+- pkg:cargo/fflonk-cuda@0.156.0
