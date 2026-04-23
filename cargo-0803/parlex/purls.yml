@@ -12,3 +12,4 @@
 - pkg:cargo/parlex@0.2.0
 - pkg:cargo/parlex@0.3.0
 - pkg:cargo/parlex@0.4.0
+- pkg:cargo/parlex@0.4.1
