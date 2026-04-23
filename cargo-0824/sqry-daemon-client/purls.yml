@@ -1,1 +1,2 @@
 - pkg:cargo/sqry-daemon-client@9.0.1
+- pkg:cargo/sqry-daemon-client@9.0.2
