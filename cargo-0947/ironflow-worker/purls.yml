@@ -32,3 +32,4 @@
 - pkg:cargo/ironflow-worker@2.8.0
 - pkg:cargo/ironflow-worker@2.8.1
 - pkg:cargo/ironflow-worker@2.8.2
+- pkg:cargo/ironflow-worker@2.8.3
