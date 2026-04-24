@@ -23,6 +23,8 @@
 - pkg:cargo/mx@0.1.123
 - pkg:cargo/mx@0.1.124
 - pkg:cargo/mx@0.1.125
+- pkg:cargo/mx@0.1.126
+- pkg:cargo/mx@0.1.127
 - pkg:cargo/mx@0.1.15
 - pkg:cargo/mx@0.1.16
 - pkg:cargo/mx@0.1.17
