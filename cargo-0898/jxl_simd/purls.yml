@@ -9,3 +9,4 @@
 - pkg:cargo/jxl_simd@0.4.0
 - pkg:cargo/jxl_simd@0.4.1
 - pkg:cargo/jxl_simd@0.4.2
+- pkg:cargo/jxl_simd@0.4.3
