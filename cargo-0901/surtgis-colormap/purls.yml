@@ -16,6 +16,7 @@
 - pkg:cargo/surtgis-colormap@0.6.25
 - pkg:cargo/surtgis-colormap@0.6.26
 - pkg:cargo/surtgis-colormap@0.6.27
+- pkg:cargo/surtgis-colormap@0.6.28
 - pkg:cargo/surtgis-colormap@0.6.3
 - pkg:cargo/surtgis-colormap@0.6.4
 - pkg:cargo/surtgis-colormap@0.6.5
@@ -23,3 +24,4 @@
 - pkg:cargo/surtgis-colormap@0.6.7
 - pkg:cargo/surtgis-colormap@0.6.8
 - pkg:cargo/surtgis-colormap@0.6.9
+- pkg:cargo/surtgis-colormap@0.7.0
