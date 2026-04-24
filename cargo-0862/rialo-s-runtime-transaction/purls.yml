@@ -10,3 +10,4 @@
 - pkg:cargo/rialo-s-runtime-transaction@0.3.0-alpha.0
 - pkg:cargo/rialo-s-runtime-transaction@0.4.0-alpha.0
 - pkg:cargo/rialo-s-runtime-transaction@0.4.0-alpha.1
+- pkg:cargo/rialo-s-runtime-transaction@0.4.1

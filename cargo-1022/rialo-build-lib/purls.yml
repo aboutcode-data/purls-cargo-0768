@@ -6,3 +6,4 @@
 - pkg:cargo/rialo-build-lib@0.3.0-alpha.0
 - pkg:cargo/rialo-build-lib@0.4.0-alpha.0
 - pkg:cargo/rialo-build-lib@0.4.0-alpha.1
+- pkg:cargo/rialo-build-lib@0.4.1
