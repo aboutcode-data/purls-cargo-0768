@@ -27,5 +27,6 @@
 - pkg:cargo/tree-sitter-vue-sqry@8.0.7
 - pkg:cargo/tree-sitter-vue-sqry@9.0.1
 - pkg:cargo/tree-sitter-vue-sqry@9.0.11
+- pkg:cargo/tree-sitter-vue-sqry@9.0.12
 - pkg:cargo/tree-sitter-vue-sqry@9.0.5
 - pkg:cargo/tree-sitter-vue-sqry@9.0.6
