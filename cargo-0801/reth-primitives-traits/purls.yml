@@ -3,3 +3,4 @@
 - pkg:cargo/reth-primitives-traits@0.1.1
 - pkg:cargo/reth-primitives-traits@0.2.0
 - pkg:cargo/reth-primitives-traits@0.3.0
+- pkg:cargo/reth-primitives-traits@0.3.1
