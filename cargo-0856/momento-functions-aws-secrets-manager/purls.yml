@@ -1,3 +1,4 @@
 - pkg:cargo/momento-functions-aws-secrets-manager@0.23.0
 - pkg:cargo/momento-functions-aws-secrets-manager@0.23.1
 - pkg:cargo/momento-functions-aws-secrets-manager@0.23.2
+- pkg:cargo/momento-functions-aws-secrets-manager@0.24.0
