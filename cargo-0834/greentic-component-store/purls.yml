@@ -28,3 +28,4 @@
 - pkg:cargo/greentic-component-store@0.4.76
 - pkg:cargo/greentic-component-store@0.5.0
 - pkg:cargo/greentic-component-store@0.5.1
+- pkg:cargo/greentic-component-store@0.5.2

@@ -72,6 +72,7 @@
 - pkg:cargo/greentic-runner-desktop@0.4.76
 - pkg:cargo/greentic-runner-desktop@0.4.8
 - pkg:cargo/greentic-runner-desktop@0.4.9
+- pkg:cargo/greentic-runner-desktop@0.5.10
 - pkg:cargo/greentic-runner-desktop@0.5.4
 - pkg:cargo/greentic-runner-desktop@0.5.5
 - pkg:cargo/greentic-runner-desktop@0.5.6
