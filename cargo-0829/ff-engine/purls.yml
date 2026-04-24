@@ -8,3 +8,4 @@
 - pkg:cargo/ff-engine@0.4.0
 - pkg:cargo/ff-engine@0.5.0
 - pkg:cargo/ff-engine@0.6.0
+- pkg:cargo/ff-engine@0.6.1

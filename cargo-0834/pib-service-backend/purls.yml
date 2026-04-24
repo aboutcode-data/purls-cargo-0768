@@ -3,3 +3,5 @@
 - pkg:cargo/pib-service-backend@0.14.0
 - pkg:cargo/pib-service-backend@0.14.2
 - pkg:cargo/pib-service-backend@0.15.0
+- pkg:cargo/pib-service-backend@0.15.2
+- pkg:cargo/pib-service-backend@0.16.0
