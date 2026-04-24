@@ -32,3 +32,4 @@
 - pkg:cargo/panproto-jit@0.35.0
 - pkg:cargo/panproto-jit@0.36.0
 - pkg:cargo/panproto-jit@0.37.0
+- pkg:cargo/panproto-jit@0.38.0
