@@ -50,6 +50,7 @@
 - pkg:cargo/image_charts@6.1.144
 - pkg:cargo/image_charts@6.1.145
 - pkg:cargo/image_charts@6.1.146
+- pkg:cargo/image_charts@6.1.147
 - pkg:cargo/image_charts@6.1.15
 - pkg:cargo/image_charts@6.1.16
 - pkg:cargo/image_charts@6.1.17
