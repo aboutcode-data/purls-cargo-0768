@@ -110,3 +110,4 @@
 - pkg:cargo/op-alloy-rpc-types@0.9.4
 - pkg:cargo/op-alloy-rpc-types@0.9.5
 - pkg:cargo/op-alloy-rpc-types@0.9.6
+- pkg:cargo/op-alloy-rpc-types@2.0.0

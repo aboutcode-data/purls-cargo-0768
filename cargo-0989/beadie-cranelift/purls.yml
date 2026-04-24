@@ -1,2 +1,3 @@
 - pkg:cargo/beadie-cranelift@0.2.0
 - pkg:cargo/beadie-cranelift@0.2.1
+- pkg:cargo/beadie-cranelift@0.3.0

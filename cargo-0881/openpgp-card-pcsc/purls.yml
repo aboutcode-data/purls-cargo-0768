@@ -9,3 +9,4 @@
 - pkg:cargo/openpgp-card-pcsc@0.2.2
 - pkg:cargo/openpgp-card-pcsc@0.3.0
 - pkg:cargo/openpgp-card-pcsc@0.3.1
+- pkg:cargo/openpgp-card-pcsc@0.4.0
