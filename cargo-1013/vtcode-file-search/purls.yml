@@ -2,6 +2,8 @@
 - pkg:cargo/vtcode-file-search@0.100.1
 - pkg:cargo/vtcode-file-search@0.100.2
 - pkg:cargo/vtcode-file-search@0.100.3
+- pkg:cargo/vtcode-file-search@0.103.1
+- pkg:cargo/vtcode-file-search@0.103.2
 - pkg:cargo/vtcode-file-search@0.56.0
 - pkg:cargo/vtcode-file-search@0.57.0
 - pkg:cargo/vtcode-file-search@0.58.0
