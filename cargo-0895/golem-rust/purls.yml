@@ -40,3 +40,4 @@
 - pkg:cargo/golem-rust@2.0.0-dev.6
 - pkg:cargo/golem-rust@2.0.0-dev.7
 - pkg:cargo/golem-rust@2.0.0-dev.8
+- pkg:cargo/golem-rust@2.0.0-rc1
