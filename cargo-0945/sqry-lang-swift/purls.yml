@@ -25,5 +25,6 @@
 - pkg:cargo/sqry-lang-swift@8.0.7
 - pkg:cargo/sqry-lang-swift@9.0.1
 - pkg:cargo/sqry-lang-swift@9.0.11
+- pkg:cargo/sqry-lang-swift@9.0.12
 - pkg:cargo/sqry-lang-swift@9.0.5
 - pkg:cargo/sqry-lang-swift@9.0.6
