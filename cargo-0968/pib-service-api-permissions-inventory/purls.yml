@@ -7,3 +7,4 @@
 - pkg:cargo/pib-service-api-permissions-inventory@0.15.0
 - pkg:cargo/pib-service-api-permissions-inventory@0.15.2
 - pkg:cargo/pib-service-api-permissions-inventory@0.16.0
+- pkg:cargo/pib-service-api-permissions-inventory@0.16.1
