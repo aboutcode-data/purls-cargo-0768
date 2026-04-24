@@ -35,6 +35,7 @@
 - pkg:cargo/tss-esapi@7.5.0
 - pkg:cargo/tss-esapi@7.5.1
 - pkg:cargo/tss-esapi@7.6.0
+- pkg:cargo/tss-esapi@7.7.0
 - pkg:cargo/tss-esapi@8.0.0-alpha
 - pkg:cargo/tss-esapi@8.0.0-alpha.1
 - pkg:cargo/tss-esapi@8.0.0-alpha.2
