@@ -3,3 +3,4 @@
 - pkg:cargo/iroh-http-discovery@0.1.5
 - pkg:cargo/iroh-http-discovery@0.1.6
 - pkg:cargo/iroh-http-discovery@0.2.1
+- pkg:cargo/iroh-http-discovery@0.3.0
