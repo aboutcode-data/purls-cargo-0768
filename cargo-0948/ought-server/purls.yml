@@ -2,3 +2,4 @@
 - pkg:cargo/ought-server@0.2.0-rc1
 - pkg:cargo/ought-server@0.2.0-rc2
 - pkg:cargo/ought-server@0.2.0-rc3
+- pkg:cargo/ought-server@0.2.1
