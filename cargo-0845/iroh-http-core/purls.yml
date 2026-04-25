@@ -4,3 +4,6 @@
 - pkg:cargo/iroh-http-core@0.1.6
 - pkg:cargo/iroh-http-core@0.2.1
 - pkg:cargo/iroh-http-core@0.3.0
+- pkg:cargo/iroh-http-core@0.3.1
+- pkg:cargo/iroh-http-core@0.3.2
+- pkg:cargo/iroh-http-core@0.3.3
