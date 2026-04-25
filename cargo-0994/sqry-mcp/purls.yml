@@ -25,5 +25,6 @@
 - pkg:cargo/sqry-mcp@8.0.7
 - pkg:cargo/sqry-mcp@9.0.11
 - pkg:cargo/sqry-mcp@9.0.12
+- pkg:cargo/sqry-mcp@9.0.16
 - pkg:cargo/sqry-mcp@9.0.5
 - pkg:cargo/sqry-mcp@9.0.6
