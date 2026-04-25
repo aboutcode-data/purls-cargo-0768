@@ -69,3 +69,4 @@
 - pkg:cargo/gmp-mpfr-sys@1.6.7
 - pkg:cargo/gmp-mpfr-sys@1.6.8
 - pkg:cargo/gmp-mpfr-sys@1.7.0
+- pkg:cargo/gmp-mpfr-sys@1.7.1

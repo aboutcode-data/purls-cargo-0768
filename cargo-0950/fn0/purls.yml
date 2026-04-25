@@ -13,6 +13,11 @@
 - pkg:cargo/fn0@0.2.18
 - pkg:cargo/fn0@0.2.19
 - pkg:cargo/fn0@0.2.2
+- pkg:cargo/fn0@0.2.20
+- pkg:cargo/fn0@0.2.21
+- pkg:cargo/fn0@0.2.22
+- pkg:cargo/fn0@0.2.23
+- pkg:cargo/fn0@0.2.24
 - pkg:cargo/fn0@0.2.3
 - pkg:cargo/fn0@0.2.4
 - pkg:cargo/fn0@0.2.5
