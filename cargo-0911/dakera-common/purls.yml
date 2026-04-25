@@ -16,6 +16,7 @@
 - pkg:cargo/dakera-common@0.11.22
 - pkg:cargo/dakera-common@0.11.27
 - pkg:cargo/dakera-common@0.11.28
+- pkg:cargo/dakera-common@0.11.29
 - pkg:cargo/dakera-common@0.11.3
 - pkg:cargo/dakera-common@0.11.4
 - pkg:cargo/dakera-common@0.11.5
