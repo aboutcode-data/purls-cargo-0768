@@ -3,5 +3,7 @@
 - pkg:cargo/cljrs-eval@0.1.12
 - pkg:cargo/cljrs-eval@0.1.13
 - pkg:cargo/cljrs-eval@0.1.14
+- pkg:cargo/cljrs-eval@0.1.15
+- pkg:cargo/cljrs-eval@0.1.16
 - pkg:cargo/cljrs-eval@0.1.6
 - pkg:cargo/cljrs-eval@0.1.7
