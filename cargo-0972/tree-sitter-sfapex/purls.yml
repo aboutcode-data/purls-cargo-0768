@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-sfapex@2.4.0
+- pkg:cargo/tree-sitter-sfapex@3.0.0
