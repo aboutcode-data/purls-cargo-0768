@@ -1,1 +1,3 @@
 - pkg:cargo/kelpdb@0.1.0
+- pkg:cargo/kelpdb@1.0.0
+- pkg:cargo/kelpdb@1.1.0
