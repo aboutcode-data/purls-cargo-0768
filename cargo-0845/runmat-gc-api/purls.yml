@@ -12,3 +12,4 @@
 - pkg:cargo/runmat-gc-api@0.3.2
 - pkg:cargo/runmat-gc-api@0.4.0
 - pkg:cargo/runmat-gc-api@0.4.1
+- pkg:cargo/runmat-gc-api@0.4.4
