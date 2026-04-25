@@ -7,3 +7,4 @@
 - pkg:cargo/zlayer-wsl@0.10.83
 - pkg:cargo/zlayer-wsl@0.10.86
 - pkg:cargo/zlayer-wsl@0.10.88
+- pkg:cargo/zlayer-wsl@0.11.0
