@@ -27,3 +27,4 @@
 - pkg:cargo/tftpd@0.5.1
 - pkg:cargo/tftpd@0.5.2
 - pkg:cargo/tftpd@0.5.3
+- pkg:cargo/tftpd@1.0.0
