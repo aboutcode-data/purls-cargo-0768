@@ -2,3 +2,4 @@
 - pkg:cargo/fortress-cli@1.0.1
 - pkg:cargo/fortress-cli@1.0.1-alpha
 - pkg:cargo/fortress-cli@1.0.2
+- pkg:cargo/fortress-cli@1.0.3

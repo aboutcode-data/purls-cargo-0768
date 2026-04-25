@@ -4,6 +4,7 @@
 - pkg:cargo/alint-core@0.3.2
 - pkg:cargo/alint-core@0.4.0
 - pkg:cargo/alint-core@0.4.1
+- pkg:cargo/alint-core@0.4.10
 - pkg:cargo/alint-core@0.4.2
 - pkg:cargo/alint-core@0.4.3
 - pkg:cargo/alint-core@0.4.4
@@ -11,3 +12,4 @@
 - pkg:cargo/alint-core@0.4.6
 - pkg:cargo/alint-core@0.4.7
 - pkg:cargo/alint-core@0.4.8
+- pkg:cargo/alint-core@0.4.9
