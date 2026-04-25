@@ -1,2 +1,3 @@
 - pkg:cargo/rag-cli-cuda@0.2.0
 - pkg:cargo/rag-cli-cuda@0.3.2
+- pkg:cargo/rag-cli-cuda@0.4.0
