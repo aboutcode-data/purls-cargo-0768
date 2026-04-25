@@ -7,3 +7,4 @@
 - pkg:cargo/compsys@0.8.16
 - pkg:cargo/compsys@0.8.17
 - pkg:cargo/compsys@0.8.7
+- pkg:cargo/compsys@0.9.0
