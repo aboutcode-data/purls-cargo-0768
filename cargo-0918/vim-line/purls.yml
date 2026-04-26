@@ -67,3 +67,4 @@
 - pkg:cargo/vim-line@5.6.5
 - pkg:cargo/vim-line@5.7.0
 - pkg:cargo/vim-line@5.7.1
+- pkg:cargo/vim-line@6.0.0
