@@ -7,3 +7,5 @@
 - pkg:cargo/alpaca-core@0.24.7
 - pkg:cargo/alpaca-core@0.24.8
 - pkg:cargo/alpaca-core@0.24.9
+- pkg:cargo/alpaca-core@0.25.0
+- pkg:cargo/alpaca-core@0.25.1
