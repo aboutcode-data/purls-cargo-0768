@@ -1,1 +1,2 @@
 - pkg:cargo/allocator-memfd-secret@1.0.0
+- pkg:cargo/allocator-memfd-secret@1.0.1
