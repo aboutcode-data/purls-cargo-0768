@@ -18,3 +18,4 @@
 - pkg:cargo/ant-protocol@1.0.7
 - pkg:cargo/ant-protocol@1.0.8
 - pkg:cargo/ant-protocol@1.0.9
+- pkg:cargo/ant-protocol@2.0.0
