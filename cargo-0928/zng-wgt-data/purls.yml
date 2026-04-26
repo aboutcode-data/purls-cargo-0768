@@ -18,6 +18,7 @@
 - pkg:cargo/zng-wgt-data@0.11.9
 - pkg:cargo/zng-wgt-data@0.12.0
 - pkg:cargo/zng-wgt-data@0.12.1
+- pkg:cargo/zng-wgt-data@0.12.2
 - pkg:cargo/zng-wgt-data@0.2.1
 - pkg:cargo/zng-wgt-data@0.2.10
 - pkg:cargo/zng-wgt-data@0.2.11
