@@ -3,3 +3,5 @@
 - pkg:cargo/nuimo-protocol@0.5.2
 - pkg:cargo/nuimo-protocol@0.5.3
 - pkg:cargo/nuimo-protocol@0.5.4
+- pkg:cargo/nuimo-protocol@0.6.0
+- pkg:cargo/nuimo-protocol@0.7.0
