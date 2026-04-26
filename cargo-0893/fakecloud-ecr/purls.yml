@@ -1,1 +1,2 @@
 - pkg:cargo/fakecloud-ecr@0.11.0
+- pkg:cargo/fakecloud-ecr@0.12.0

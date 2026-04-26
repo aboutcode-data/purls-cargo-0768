@@ -1,1 +1,4 @@
 - pkg:cargo/pylon-observability@0.2.3
+- pkg:cargo/pylon-observability@0.2.4
+- pkg:cargo/pylon-observability@0.2.5
+- pkg:cargo/pylon-observability@0.2.6
