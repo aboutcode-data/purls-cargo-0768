@@ -1720,6 +1720,11 @@
 - pkg:cargo/spider_worker@2.51.123
 - pkg:cargo/spider_worker@2.51.124
 - pkg:cargo/spider_worker@2.51.125
+- pkg:cargo/spider_worker@2.51.126
+- pkg:cargo/spider_worker@2.51.127
+- pkg:cargo/spider_worker@2.51.128
+- pkg:cargo/spider_worker@2.51.129
+- pkg:cargo/spider_worker@2.51.130
 - pkg:cargo/spider_worker@2.51.14
 - pkg:cargo/spider_worker@2.51.15
 - pkg:cargo/spider_worker@2.51.16
