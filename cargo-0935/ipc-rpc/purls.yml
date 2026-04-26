@@ -9,3 +9,4 @@
 - pkg:cargo/ipc-rpc@1.2.5
 - pkg:cargo/ipc-rpc@1.2.6
 - pkg:cargo/ipc-rpc@2.0.0
+- pkg:cargo/ipc-rpc@3.0.0
