@@ -9,6 +9,7 @@
 - pkg:cargo/telltale-types@13.0.0
 - pkg:cargo/telltale-types@14.0.0
 - pkg:cargo/telltale-types@15.0.0
+- pkg:cargo/telltale-types@16.0.0
 - pkg:cargo/telltale-types@2.0.0
 - pkg:cargo/telltale-types@2.1.0
 - pkg:cargo/telltale-types@3.0.0
