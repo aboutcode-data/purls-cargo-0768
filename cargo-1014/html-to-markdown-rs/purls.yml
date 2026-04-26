@@ -113,3 +113,5 @@
 - pkg:cargo/html-to-markdown-rs@3.3.1
 - pkg:cargo/html-to-markdown-rs@3.3.2
 - pkg:cargo/html-to-markdown-rs@3.3.3
+- pkg:cargo/html-to-markdown-rs@3.4.0-rc.1
+- pkg:cargo/html-to-markdown-rs@3.4.0-rc.2
