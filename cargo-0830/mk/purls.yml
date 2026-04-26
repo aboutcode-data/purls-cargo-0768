@@ -28,4 +28,5 @@
 - pkg:cargo/mk@0.7.1
 - pkg:cargo/mk@0.7.10
 - pkg:cargo/mk@0.7.12
+- pkg:cargo/mk@0.7.13
 - pkg:cargo/mk@0.7.3
