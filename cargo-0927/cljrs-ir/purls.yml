@@ -9,6 +9,7 @@
 - pkg:cargo/cljrs-ir@0.1.18
 - pkg:cargo/cljrs-ir@0.1.19
 - pkg:cargo/cljrs-ir@0.1.20
+- pkg:cargo/cljrs-ir@0.1.21
 - pkg:cargo/cljrs-ir@0.1.6
 - pkg:cargo/cljrs-ir@0.1.7
 - pkg:cargo/cljrs-ir@0.1.8
