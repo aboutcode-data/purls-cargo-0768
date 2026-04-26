@@ -1,4 +1,6 @@
 - pkg:cargo/aetheris-ecs-custom@0.10.0
+- pkg:cargo/aetheris-ecs-custom@0.10.1
+- pkg:cargo/aetheris-ecs-custom@0.10.2
 - pkg:cargo/aetheris-ecs-custom@0.2.0
 - pkg:cargo/aetheris-ecs-custom@0.3.0
 - pkg:cargo/aetheris-ecs-custom@0.3.1
