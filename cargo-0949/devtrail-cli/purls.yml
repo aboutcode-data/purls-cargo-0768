@@ -6,3 +6,9 @@
 - pkg:cargo/devtrail-cli@3.2.3
 - pkg:cargo/devtrail-cli@3.2.4
 - pkg:cargo/devtrail-cli@3.2.5
+- pkg:cargo/devtrail-cli@3.3.0
+- pkg:cargo/devtrail-cli@3.4.0
+- pkg:cargo/devtrail-cli@3.4.1
+- pkg:cargo/devtrail-cli@3.5.0
+- pkg:cargo/devtrail-cli@3.5.1
+- pkg:cargo/devtrail-cli@3.5.2
