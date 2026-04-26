@@ -16,3 +16,7 @@
 - pkg:cargo/truecalc-core@0.4.9
 - pkg:cargo/truecalc-core@0.5.0
 - pkg:cargo/truecalc-core@0.6.0
+- pkg:cargo/truecalc-core@0.6.1
+- pkg:cargo/truecalc-core@0.6.2
+- pkg:cargo/truecalc-core@0.6.3
+- pkg:cargo/truecalc-core@0.6.4
