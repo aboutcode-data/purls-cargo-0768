@@ -22,3 +22,4 @@
 - pkg:cargo/hurl_core@6.1.1
 - pkg:cargo/hurl_core@7.0.0
 - pkg:cargo/hurl_core@7.1.0
+- pkg:cargo/hurl_core@8.0.0

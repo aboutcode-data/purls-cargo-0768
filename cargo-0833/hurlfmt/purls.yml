@@ -20,3 +20,4 @@
 - pkg:cargo/hurlfmt@6.1.1
 - pkg:cargo/hurlfmt@7.0.0
 - pkg:cargo/hurlfmt@7.1.0
+- pkg:cargo/hurlfmt@8.0.0
