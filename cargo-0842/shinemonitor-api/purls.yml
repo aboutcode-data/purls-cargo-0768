@@ -1,2 +1,3 @@
 - pkg:cargo/shinemonitor-api@0.6.4
 - pkg:cargo/shinemonitor-api@0.6.5
+- pkg:cargo/shinemonitor-api@0.7.0
