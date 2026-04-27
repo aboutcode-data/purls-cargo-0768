@@ -10,3 +10,4 @@
 - pkg:cargo/sockudo-protocol@4.1.1
 - pkg:cargo/sockudo-protocol@4.2.0
 - pkg:cargo/sockudo-protocol@4.3.0
+- pkg:cargo/sockudo-protocol@4.3.1

@@ -33,5 +33,6 @@
 - pkg:cargo/sqry-lang-shell@9.0.19
 - pkg:cargo/sqry-lang-shell@9.0.20
 - pkg:cargo/sqry-lang-shell@9.0.22
+- pkg:cargo/sqry-lang-shell@9.0.23
 - pkg:cargo/sqry-lang-shell@9.0.5
 - pkg:cargo/sqry-lang-shell@9.0.6

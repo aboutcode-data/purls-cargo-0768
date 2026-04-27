@@ -32,5 +32,6 @@
 - pkg:cargo/sqry-plugin-registry@9.0.19
 - pkg:cargo/sqry-plugin-registry@9.0.20
 - pkg:cargo/sqry-plugin-registry@9.0.22
+- pkg:cargo/sqry-plugin-registry@9.0.23
 - pkg:cargo/sqry-plugin-registry@9.0.5
 - pkg:cargo/sqry-plugin-registry@9.0.6
