@@ -2,3 +2,4 @@
 - pkg:cargo/w3f-plonk-common@0.0.2
 - pkg:cargo/w3f-plonk-common@0.0.5
 - pkg:cargo/w3f-plonk-common@0.0.6
+- pkg:cargo/w3f-plonk-common@0.0.7
