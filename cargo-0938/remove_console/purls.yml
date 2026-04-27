@@ -98,3 +98,4 @@
 - pkg:cargo/remove_console@1.0.0
 - pkg:cargo/remove_console@2.0.0
 - pkg:cargo/remove_console@3.0.0
+- pkg:cargo/remove_console@4.0.0
