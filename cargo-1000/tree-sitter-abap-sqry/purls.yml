@@ -34,5 +34,6 @@
 - pkg:cargo/tree-sitter-abap-sqry@9.0.19
 - pkg:cargo/tree-sitter-abap-sqry@9.0.20
 - pkg:cargo/tree-sitter-abap-sqry@9.0.22
+- pkg:cargo/tree-sitter-abap-sqry@9.0.23
 - pkg:cargo/tree-sitter-abap-sqry@9.0.5
 - pkg:cargo/tree-sitter-abap-sqry@9.0.6
