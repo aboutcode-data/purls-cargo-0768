@@ -8,3 +8,4 @@
 - pkg:cargo/prax-mysql@0.6.2
 - pkg:cargo/prax-mysql@0.6.3
 - pkg:cargo/prax-mysql@0.7.0
+- pkg:cargo/prax-mysql@0.7.3

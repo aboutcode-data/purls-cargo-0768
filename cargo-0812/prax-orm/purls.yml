@@ -8,3 +8,4 @@
 - pkg:cargo/prax-orm@0.6.3
 - pkg:cargo/prax-orm@0.6.4
 - pkg:cargo/prax-orm@0.6.5
+- pkg:cargo/prax-orm@0.7.3
