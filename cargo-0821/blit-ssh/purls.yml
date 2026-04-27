@@ -15,3 +15,4 @@
 - pkg:cargo/blit-ssh@0.28.1
 - pkg:cargo/blit-ssh@0.28.2
 - pkg:cargo/blit-ssh@0.28.3
+- pkg:cargo/blit-ssh@0.29.0
