@@ -14,3 +14,4 @@
 - pkg:cargo/evm-dex-pool@1.2.3
 - pkg:cargo/evm-dex-pool@1.2.4
 - pkg:cargo/evm-dex-pool@1.3.0
+- pkg:cargo/evm-dex-pool@1.4.0
