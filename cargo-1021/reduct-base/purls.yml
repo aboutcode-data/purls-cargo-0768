@@ -47,6 +47,7 @@
 - pkg:cargo/reduct-base@1.19.3
 - pkg:cargo/reduct-base@1.19.5
 - pkg:cargo/reduct-base@1.19.6
+- pkg:cargo/reduct-base@1.19.7
 - pkg:cargo/reduct-base@1.6.0
 - pkg:cargo/reduct-base@1.6.1
 - pkg:cargo/reduct-base@1.6.2
