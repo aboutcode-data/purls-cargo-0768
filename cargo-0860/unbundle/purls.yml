@@ -26,3 +26,4 @@
 - pkg:cargo/unbundle@5.0.0
 - pkg:cargo/unbundle@5.0.1
 - pkg:cargo/unbundle@5.1.0
+- pkg:cargo/unbundle@5.2.0

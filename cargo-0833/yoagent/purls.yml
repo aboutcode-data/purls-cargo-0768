@@ -14,3 +14,4 @@
 - pkg:cargo/yoagent@0.7.3
 - pkg:cargo/yoagent@0.7.4
 - pkg:cargo/yoagent@0.7.5
+- pkg:cargo/yoagent@0.8.0
