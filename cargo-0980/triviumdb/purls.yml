@@ -3,3 +3,4 @@
 - pkg:cargo/triviumdb@0.4.90
 - pkg:cargo/triviumdb@0.4.91
 - pkg:cargo/triviumdb@0.5.0
+- pkg:cargo/triviumdb@0.5.2
