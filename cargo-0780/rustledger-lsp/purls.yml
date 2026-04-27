@@ -1,4 +1,5 @@
 - pkg:cargo/rustledger-lsp@0.11.0
 - pkg:cargo/rustledger-lsp@0.12.0
 - pkg:cargo/rustledger-lsp@0.13.0
+- pkg:cargo/rustledger-lsp@0.14.0
 - pkg:cargo/rustledger-lsp@0.9.0
