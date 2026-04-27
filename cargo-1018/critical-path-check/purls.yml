@@ -5,3 +5,4 @@
 - pkg:cargo/critical-path-check@1.0.4
 - pkg:cargo/critical-path-check@1.1.1
 - pkg:cargo/critical-path-check@1.1.2
+- pkg:cargo/critical-path-check@1.1.3
