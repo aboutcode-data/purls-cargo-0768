@@ -1,1 +1,2 @@
 - pkg:cargo/btrfs-fuse@0.11.0
+- pkg:cargo/btrfs-fuse@0.12.0
