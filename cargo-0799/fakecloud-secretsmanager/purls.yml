@@ -2,6 +2,7 @@
 - pkg:cargo/fakecloud-secretsmanager@0.10.1
 - pkg:cargo/fakecloud-secretsmanager@0.11.0
 - pkg:cargo/fakecloud-secretsmanager@0.12.0
+- pkg:cargo/fakecloud-secretsmanager@0.13.0
 - pkg:cargo/fakecloud-secretsmanager@0.2.0
 - pkg:cargo/fakecloud-secretsmanager@0.3.0
 - pkg:cargo/fakecloud-secretsmanager@0.5.0
