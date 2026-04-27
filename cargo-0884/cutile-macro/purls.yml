@@ -1,3 +1,4 @@
 - pkg:cargo/cutile-macro@0.0.0-alpha
 - pkg:cargo/cutile-macro@0.0.1
 - pkg:cargo/cutile-macro@0.0.1-alpha
+- pkg:cargo/cutile-macro@0.0.2
