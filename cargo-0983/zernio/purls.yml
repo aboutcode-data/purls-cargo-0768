@@ -79,6 +79,11 @@
 - pkg:cargo/zernio@0.0.178
 - pkg:cargo/zernio@0.0.179
 - pkg:cargo/zernio@0.0.180
+- pkg:cargo/zernio@0.0.181
+- pkg:cargo/zernio@0.0.182
+- pkg:cargo/zernio@0.0.183
+- pkg:cargo/zernio@0.0.184
+- pkg:cargo/zernio@0.0.185
 - pkg:cargo/zernio@0.0.67
 - pkg:cargo/zernio@0.0.68
 - pkg:cargo/zernio@0.0.69
