@@ -15,6 +15,7 @@
 - pkg:cargo/anda_engine@0.11.19
 - pkg:cargo/anda_engine@0.11.2
 - pkg:cargo/anda_engine@0.11.20
+- pkg:cargo/anda_engine@0.11.21
 - pkg:cargo/anda_engine@0.11.3
 - pkg:cargo/anda_engine@0.11.4
 - pkg:cargo/anda_engine@0.11.5

@@ -28,6 +28,7 @@
 - pkg:cargo/op-revm@18.0.0
 - pkg:cargo/op-revm@19.0.0
 - pkg:cargo/op-revm@2.0.0
+- pkg:cargo/op-revm@20.0.0
 - pkg:cargo/op-revm@3.0.0
 - pkg:cargo/op-revm@3.0.1
 - pkg:cargo/op-revm@3.0.2

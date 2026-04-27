@@ -32,3 +32,5 @@
 - pkg:cargo/greentic-operator@0.4.46
 - pkg:cargo/greentic-operator@0.4.48
 - pkg:cargo/greentic-operator@0.4.49
+- pkg:cargo/greentic-operator@0.5.0-dev.24996657225
+- pkg:cargo/greentic-operator@0.5.0-dev.25001436172
