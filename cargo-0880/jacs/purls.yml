@@ -1,3 +1,4 @@
+- pkg:cargo/jacs@0.10.0
 - pkg:cargo/jacs@0.2.10
 - pkg:cargo/jacs@0.2.11
 - pkg:cargo/jacs@0.2.12
