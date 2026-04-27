@@ -320,6 +320,7 @@
 - pkg:cargo/holochain_cli_sandbox@0.7.0-dev.2
 - pkg:cargo/holochain_cli_sandbox@0.7.0-dev.20
 - pkg:cargo/holochain_cli_sandbox@0.7.0-dev.21
+- pkg:cargo/holochain_cli_sandbox@0.7.0-dev.22
 - pkg:cargo/holochain_cli_sandbox@0.7.0-dev.3
 - pkg:cargo/holochain_cli_sandbox@0.7.0-dev.4
 - pkg:cargo/holochain_cli_sandbox@0.7.0-dev.5

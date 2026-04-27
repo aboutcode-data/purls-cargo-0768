@@ -11,3 +11,4 @@
 - pkg:cargo/router_prefilter@1.4.0
 - pkg:cargo/router_prefilter@1.5.0
 - pkg:cargo/router_prefilter@1.6.0
+- pkg:cargo/router_prefilter@1.6.1
