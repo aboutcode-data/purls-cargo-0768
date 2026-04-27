@@ -14,3 +14,4 @@
 - pkg:cargo/dodot@0.9.0
 - pkg:cargo/dodot@0.9.1
 - pkg:cargo/dodot@0.9.2
+- pkg:cargo/dodot@1.0.0-rc.1
