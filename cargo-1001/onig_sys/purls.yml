@@ -43,3 +43,4 @@
 - pkg:cargo/onig_sys@69.9.0
 - pkg:cargo/onig_sys@69.9.1
 - pkg:cargo/onig_sys@69.9.2
+- pkg:cargo/onig_sys@69.9.3
