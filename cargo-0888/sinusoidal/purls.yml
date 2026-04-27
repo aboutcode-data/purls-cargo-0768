@@ -12,3 +12,4 @@
 - pkg:cargo/sinusoidal@0.4.4
 - pkg:cargo/sinusoidal@0.4.5
 - pkg:cargo/sinusoidal@0.5.0
+- pkg:cargo/sinusoidal@0.6.0
