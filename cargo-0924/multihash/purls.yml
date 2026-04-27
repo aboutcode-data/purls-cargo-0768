@@ -24,6 +24,7 @@
 - pkg:cargo/multihash@0.19.2
 - pkg:cargo/multihash@0.19.3
 - pkg:cargo/multihash@0.19.4
+- pkg:cargo/multihash@0.19.5
 - pkg:cargo/multihash@0.3.0
 - pkg:cargo/multihash@0.4.0
 - pkg:cargo/multihash@0.4.1
