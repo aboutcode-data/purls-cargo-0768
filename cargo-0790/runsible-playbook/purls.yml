@@ -1,1 +1,2 @@
 - pkg:cargo/runsible-playbook@0.0.1
+- pkg:cargo/runsible-playbook@0.0.2
