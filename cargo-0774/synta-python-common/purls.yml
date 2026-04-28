@@ -1,3 +1,4 @@
+- pkg:cargo/synta-python-common@0.1.10
 - pkg:cargo/synta-python-common@0.1.6
 - pkg:cargo/synta-python-common@0.1.8
 - pkg:cargo/synta-python-common@0.1.9
