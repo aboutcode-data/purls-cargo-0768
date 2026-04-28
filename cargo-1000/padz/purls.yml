@@ -54,3 +54,4 @@
 - pkg:cargo/padz@1.4.2
 - pkg:cargo/padz@1.5.0
 - pkg:cargo/padz@1.7.0
+- pkg:cargo/padz@1.8.0-rc.1

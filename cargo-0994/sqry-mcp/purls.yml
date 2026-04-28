@@ -1,6 +1,7 @@
 - pkg:cargo/sqry-mcp@10.0.0
 - pkg:cargo/sqry-mcp@10.0.1
 - pkg:cargo/sqry-mcp@10.0.2
+- pkg:cargo/sqry-mcp@10.0.4
 - pkg:cargo/sqry-mcp@4.10.1
 - pkg:cargo/sqry-mcp@4.10.13
 - pkg:cargo/sqry-mcp@4.12.6
