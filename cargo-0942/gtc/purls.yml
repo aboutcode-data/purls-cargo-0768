@@ -44,6 +44,7 @@
 - pkg:cargo/gtc@1.0.11
 - pkg:cargo/gtc@1.0.12
 - pkg:cargo/gtc@1.0.13
+- pkg:cargo/gtc@1.0.14
 - pkg:cargo/gtc@1.0.2
 - pkg:cargo/gtc@1.0.24983510672
 - pkg:cargo/gtc@1.0.24984123309
@@ -53,3 +54,5 @@
 - pkg:cargo/gtc@1.0.6
 - pkg:cargo/gtc@1.0.7
 - pkg:cargo/gtc@1.0.9
+- pkg:cargo/gtc@1.1.0-dev.25053490868
+- pkg:cargo/gtc@1.1.0-dev.25056162355

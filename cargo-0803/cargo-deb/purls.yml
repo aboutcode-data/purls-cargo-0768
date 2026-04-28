@@ -141,3 +141,4 @@
 - pkg:cargo/cargo-deb@3.6.0
 - pkg:cargo/cargo-deb@3.6.2
 - pkg:cargo/cargo-deb@3.6.3
+- pkg:cargo/cargo-deb@3.6.4
