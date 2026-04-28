@@ -64,3 +64,4 @@
 - pkg:cargo/gix@0.80.0
 - pkg:cargo/gix@0.81.0
 - pkg:cargo/gix@0.82.0
+- pkg:cargo/gix@0.83.0

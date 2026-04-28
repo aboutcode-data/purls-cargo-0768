@@ -8,3 +8,12 @@
 - pkg:cargo/soroban-fork@0.5.2
 - pkg:cargo/soroban-fork@0.5.3
 - pkg:cargo/soroban-fork@0.6.0
+- pkg:cargo/soroban-fork@0.7.0
+- pkg:cargo/soroban-fork@0.8.0
+- pkg:cargo/soroban-fork@0.8.1
+- pkg:cargo/soroban-fork@0.8.2
+- pkg:cargo/soroban-fork@0.8.3
+- pkg:cargo/soroban-fork@0.8.4
+- pkg:cargo/soroban-fork@0.8.5
+- pkg:cargo/soroban-fork@0.8.6
+- pkg:cargo/soroban-fork@0.8.7
