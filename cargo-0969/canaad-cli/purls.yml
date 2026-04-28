@@ -3,3 +3,4 @@
 - pkg:cargo/canaad-cli@0.3.0
 - pkg:cargo/canaad-cli@0.3.1
 - pkg:cargo/canaad-cli@0.3.2
+- pkg:cargo/canaad-cli@1.0.0
