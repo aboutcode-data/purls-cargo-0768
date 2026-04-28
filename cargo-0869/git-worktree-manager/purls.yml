@@ -28,6 +28,7 @@
 - pkg:cargo/git-worktree-manager@0.0.38
 - pkg:cargo/git-worktree-manager@0.0.39
 - pkg:cargo/git-worktree-manager@0.0.40
+- pkg:cargo/git-worktree-manager@0.0.41
 - pkg:cargo/git-worktree-manager@0.0.5
 - pkg:cargo/git-worktree-manager@0.0.6
 - pkg:cargo/git-worktree-manager@0.0.7
