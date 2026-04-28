@@ -34,6 +34,7 @@
 - pkg:cargo/starbase_console@0.6.23
 - pkg:cargo/starbase_console@0.6.24
 - pkg:cargo/starbase_console@0.6.25
+- pkg:cargo/starbase_console@0.6.26
 - pkg:cargo/starbase_console@0.6.3
 - pkg:cargo/starbase_console@0.6.4
 - pkg:cargo/starbase_console@0.6.5
