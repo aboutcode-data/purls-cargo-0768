@@ -187,7 +187,10 @@
 - pkg:cargo/prodex@0.55.0
 - pkg:cargo/prodex@0.56.0
 - pkg:cargo/prodex@0.57.0
+- pkg:cargo/prodex@0.58.0
+- pkg:cargo/prodex@0.59.0
 - pkg:cargo/prodex@0.6.0
+- pkg:cargo/prodex@0.60.0
 - pkg:cargo/prodex@0.7.0
 - pkg:cargo/prodex@0.8.0
 - pkg:cargo/prodex@0.9.0
