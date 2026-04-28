@@ -2,3 +2,4 @@
 - pkg:cargo/surrealdb-rocksdb@0.24.0-surreal.2
 - pkg:cargo/surrealdb-rocksdb@0.24.0-surreal.3
 - pkg:cargo/surrealdb-rocksdb@0.24.0-surreal.4
+- pkg:cargo/surrealdb-rocksdb@0.24.0-surreal.5
