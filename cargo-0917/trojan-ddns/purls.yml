@@ -1,2 +1,3 @@
+- pkg:cargo/trojan-ddns@0.10.0
 - pkg:cargo/trojan-ddns@0.9.0
 - pkg:cargo/trojan-ddns@0.9.1
