@@ -1,1 +1,2 @@
 - pkg:cargo/baracuda-cutensor-sys@0.0.1-alpha.2
+- pkg:cargo/baracuda-cutensor-sys@0.0.1-alpha.3
