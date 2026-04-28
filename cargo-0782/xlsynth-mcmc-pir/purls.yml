@@ -12,3 +12,5 @@
 - pkg:cargo/xlsynth-mcmc-pir@0.40.0
 - pkg:cargo/xlsynth-mcmc-pir@0.41.0
 - pkg:cargo/xlsynth-mcmc-pir@0.42.0
+- pkg:cargo/xlsynth-mcmc-pir@0.43.0
+- pkg:cargo/xlsynth-mcmc-pir@0.44.0

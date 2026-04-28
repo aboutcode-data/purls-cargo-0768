@@ -9,6 +9,7 @@
 - pkg:cargo/ringboard-server@0.13.2
 - pkg:cargo/ringboard-server@0.14.0
 - pkg:cargo/ringboard-server@0.15.0
+- pkg:cargo/ringboard-server@0.16.0
 - pkg:cargo/ringboard-server@0.5.4
 - pkg:cargo/ringboard-server@0.6.0
 - pkg:cargo/ringboard-server@0.6.1
