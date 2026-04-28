@@ -6,8 +6,10 @@
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.5.26
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.5.27
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.5.28
+- pkg:cargo/etcd-bin-vendored-linux-s390x@3.5.29
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.6.0
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.6.1
+- pkg:cargo/etcd-bin-vendored-linux-s390x@3.6.10
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.6.2
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.6.3
 - pkg:cargo/etcd-bin-vendored-linux-s390x@3.6.4
