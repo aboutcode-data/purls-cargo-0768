@@ -14,3 +14,4 @@
 - pkg:cargo/zeph-config@0.19.2
 - pkg:cargo/zeph-config@0.19.3
 - pkg:cargo/zeph-config@0.20.0
+- pkg:cargo/zeph-config@0.20.1
