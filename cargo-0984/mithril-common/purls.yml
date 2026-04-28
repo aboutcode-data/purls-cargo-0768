@@ -21,3 +21,4 @@
 - pkg:cargo/mithril-common@0.6.17
 - pkg:cargo/mithril-common@0.6.25
 - pkg:cargo/mithril-common@0.6.43
+- pkg:cargo/mithril-common@0.6.67

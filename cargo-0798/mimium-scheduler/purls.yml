@@ -27,3 +27,4 @@
 - pkg:cargo/mimium-scheduler@4.0.0-alpha.6
 - pkg:cargo/mimium-scheduler@4.0.1
 - pkg:cargo/mimium-scheduler@4.0.2
+- pkg:cargo/mimium-scheduler@4.1.0

@@ -14,3 +14,4 @@
 - pkg:cargo/mimium-fmt@4.0.0-alpha.6
 - pkg:cargo/mimium-fmt@4.0.1
 - pkg:cargo/mimium-fmt@4.0.2
+- pkg:cargo/mimium-fmt@4.1.0
