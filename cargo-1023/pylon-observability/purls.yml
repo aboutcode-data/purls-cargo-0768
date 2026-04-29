@@ -3,6 +3,7 @@
 - pkg:cargo/pylon-observability@0.2.12
 - pkg:cargo/pylon-observability@0.2.14
 - pkg:cargo/pylon-observability@0.2.15
+- pkg:cargo/pylon-observability@0.2.16
 - pkg:cargo/pylon-observability@0.2.3
 - pkg:cargo/pylon-observability@0.2.4
 - pkg:cargo/pylon-observability@0.2.5
@@ -10,3 +11,7 @@
 - pkg:cargo/pylon-observability@0.2.7
 - pkg:cargo/pylon-observability@0.2.8
 - pkg:cargo/pylon-observability@0.2.9
+- pkg:cargo/pylon-observability@0.3.0
+- pkg:cargo/pylon-observability@0.3.1
+- pkg:cargo/pylon-observability@0.3.2
+- pkg:cargo/pylon-observability@0.3.3
