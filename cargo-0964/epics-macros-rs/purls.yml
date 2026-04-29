@@ -2,6 +2,8 @@
 - pkg:cargo/epics-macros-rs@0.10.2
 - pkg:cargo/epics-macros-rs@0.10.3
 - pkg:cargo/epics-macros-rs@0.10.5
+- pkg:cargo/epics-macros-rs@0.11.0
+- pkg:cargo/epics-macros-rs@0.11.1
 - pkg:cargo/epics-macros-rs@0.7.0
 - pkg:cargo/epics-macros-rs@0.8.0
 - pkg:cargo/epics-macros-rs@0.8.1
