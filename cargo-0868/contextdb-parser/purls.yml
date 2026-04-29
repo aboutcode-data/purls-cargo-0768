@@ -3,3 +3,4 @@
 - pkg:cargo/contextdb-parser@0.3.2
 - pkg:cargo/contextdb-parser@0.3.3
 - pkg:cargo/contextdb-parser@0.3.4
+- pkg:cargo/contextdb-parser@1.0.0

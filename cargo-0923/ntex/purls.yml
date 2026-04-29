@@ -229,3 +229,4 @@
 - pkg:cargo/ntex@3.7.0
 - pkg:cargo/ntex@3.7.1
 - pkg:cargo/ntex@3.7.2
+- pkg:cargo/ntex@3.7.3
