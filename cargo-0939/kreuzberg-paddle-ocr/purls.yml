@@ -1,4 +1,7 @@
 - pkg:cargo/kreuzberg-paddle-ocr@4.10.0-rc.11
+- pkg:cargo/kreuzberg-paddle-ocr@4.10.0-rc.12
+- pkg:cargo/kreuzberg-paddle-ocr@4.10.0-rc.14
+- pkg:cargo/kreuzberg-paddle-ocr@4.10.0-rc.15
 - pkg:cargo/kreuzberg-paddle-ocr@4.10.0-rc.3
 - pkg:cargo/kreuzberg-paddle-ocr@4.10.0-rc.6
 - pkg:cargo/kreuzberg-paddle-ocr@4.10.0-rc.7

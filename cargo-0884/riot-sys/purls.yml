@@ -29,6 +29,7 @@
 - pkg:cargo/riot-sys@0.7.13
 - pkg:cargo/riot-sys@0.7.14
 - pkg:cargo/riot-sys@0.7.15
+- pkg:cargo/riot-sys@0.7.16
 - pkg:cargo/riot-sys@0.7.2
 - pkg:cargo/riot-sys@0.7.3
 - pkg:cargo/riot-sys@0.7.4

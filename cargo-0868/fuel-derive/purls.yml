@@ -47,3 +47,4 @@
 - pkg:cargo/fuel-derive@0.66.1
 - pkg:cargo/fuel-derive@0.66.2
 - pkg:cargo/fuel-derive@0.66.3
+- pkg:cargo/fuel-derive@0.66.4
