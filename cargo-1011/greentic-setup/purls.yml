@@ -29,6 +29,7 @@
 - pkg:cargo/greentic-setup@0.5.0
 - pkg:cargo/greentic-setup@0.5.1
 - pkg:cargo/greentic-setup@0.5.2
+- pkg:cargo/greentic-setup@0.5.3
 - pkg:cargo/greentic-setup@0.6.0-dev.24981008766
 - pkg:cargo/greentic-setup@0.6.0-dev.24982347304
 - pkg:cargo/greentic-setup@0.6.0-dev.24983507634
