@@ -2,3 +2,4 @@
 - pkg:cargo/sec-fetcher@0.2.0-alpha
 - pkg:cargo/sec-fetcher@0.3.0-alpha
 - pkg:cargo/sec-fetcher@0.4.0-alpha
+- pkg:cargo/sec-fetcher@0.5.0-alpha
