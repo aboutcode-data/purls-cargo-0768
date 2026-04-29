@@ -1,2 +1,3 @@
 - pkg:cargo/operonx-macros@0.6.2
 - pkg:cargo/operonx-macros@0.7.0
+- pkg:cargo/operonx-macros@0.7.1
