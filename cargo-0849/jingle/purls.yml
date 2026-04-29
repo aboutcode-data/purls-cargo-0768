@@ -42,6 +42,7 @@
 - pkg:cargo/jingle@0.6.15
 - pkg:cargo/jingle@0.6.16
 - pkg:cargo/jingle@0.6.17
+- pkg:cargo/jingle@0.6.18
 - pkg:cargo/jingle@0.6.2
 - pkg:cargo/jingle@0.6.3
 - pkg:cargo/jingle@0.6.4
