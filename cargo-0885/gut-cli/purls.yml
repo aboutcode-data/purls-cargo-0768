@@ -6,3 +6,4 @@
 - pkg:cargo/gut-cli@0.3.3
 - pkg:cargo/gut-cli@0.3.4
 - pkg:cargo/gut-cli@0.3.5
+- pkg:cargo/gut-cli@0.4.0
