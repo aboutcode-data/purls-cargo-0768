@@ -47,6 +47,7 @@
 - pkg:cargo/edifact-parser@0.1.53
 - pkg:cargo/edifact-parser@0.1.54
 - pkg:cargo/edifact-parser@0.1.55
+- pkg:cargo/edifact-parser@0.1.56
 - pkg:cargo/edifact-parser@0.1.6
 - pkg:cargo/edifact-parser@0.1.7
 - pkg:cargo/edifact-parser@0.1.8

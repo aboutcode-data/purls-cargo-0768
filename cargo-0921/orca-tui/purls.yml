@@ -14,3 +14,4 @@
 - pkg:cargo/orca-tui@0.2.3-rc.2
 - pkg:cargo/orca-tui@0.2.3-rc.3
 - pkg:cargo/orca-tui@0.2.3-rc.4
+- pkg:cargo/orca-tui@0.2.4
