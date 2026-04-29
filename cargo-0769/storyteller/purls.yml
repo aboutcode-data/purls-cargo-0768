@@ -13,3 +13,4 @@
 - pkg:cargo/storyteller@0.8.1
 - pkg:cargo/storyteller@1.0.0
 - pkg:cargo/storyteller@1.0.1
+- pkg:cargo/storyteller@2.0.0-beta.1
