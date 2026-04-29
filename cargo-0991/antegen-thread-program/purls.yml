@@ -3,5 +3,7 @@
 - pkg:cargo/antegen-thread-program@4.0.0
 - pkg:cargo/antegen-thread-program@4.1.1
 - pkg:cargo/antegen-thread-program@5.0.10
+- pkg:cargo/antegen-thread-program@5.0.11
+- pkg:cargo/antegen-thread-program@5.0.12
 - pkg:cargo/antegen-thread-program@5.0.7
 - pkg:cargo/antegen-thread-program@5.0.8
