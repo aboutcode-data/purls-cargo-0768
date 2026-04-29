@@ -12,3 +12,4 @@
 - pkg:cargo/mogh_server@1.4.3
 - pkg:cargo/mogh_server@1.4.4
 - pkg:cargo/mogh_server@1.4.5
+- pkg:cargo/mogh_server@1.5.0
