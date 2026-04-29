@@ -52,6 +52,8 @@
 - pkg:cargo/greentic-start@0.4.8
 - pkg:cargo/greentic-start@0.5.0
 - pkg:cargo/greentic-start@0.5.1
+- pkg:cargo/greentic-start@0.5.10
+- pkg:cargo/greentic-start@0.5.11
 - pkg:cargo/greentic-start@0.5.2
 - pkg:cargo/greentic-start@0.5.24983494189
 - pkg:cargo/greentic-start@0.5.24984119915
@@ -60,5 +62,7 @@
 - pkg:cargo/greentic-start@0.5.5
 - pkg:cargo/greentic-start@0.5.6
 - pkg:cargo/greentic-start@0.5.7
+- pkg:cargo/greentic-start@0.5.8
+- pkg:cargo/greentic-start@0.5.9
 - pkg:cargo/greentic-start@0.6.0-dev.24993409150
 - pkg:cargo/greentic-start@0.6.0-dev.25001429544
