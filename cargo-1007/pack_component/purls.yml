@@ -120,3 +120,4 @@
 - pkg:cargo/pack_component@0.5.3
 - pkg:cargo/pack_component@0.5.4
 - pkg:cargo/pack_component@0.5.5
+- pkg:cargo/pack_component@0.6.0-dev.25094371151
