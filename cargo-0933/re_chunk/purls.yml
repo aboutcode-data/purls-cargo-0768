@@ -171,3 +171,4 @@
 - pkg:cargo/re_chunk@0.31.2
 - pkg:cargo/re_chunk@0.31.3
 - pkg:cargo/re_chunk@0.31.4
+- pkg:cargo/re_chunk@0.32.0-alpha.1

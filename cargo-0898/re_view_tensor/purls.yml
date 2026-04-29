@@ -106,3 +106,4 @@
 - pkg:cargo/re_view_tensor@0.31.2
 - pkg:cargo/re_view_tensor@0.31.3
 - pkg:cargo/re_view_tensor@0.31.4
+- pkg:cargo/re_view_tensor@0.32.0-alpha.1
