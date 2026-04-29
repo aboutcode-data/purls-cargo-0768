@@ -1,1 +1,2 @@
 - pkg:cargo/awsim-cloudwatch-metrics@0.1.0
+- pkg:cargo/awsim-cloudwatch-metrics@0.2.0
