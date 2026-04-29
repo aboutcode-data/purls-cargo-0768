@@ -2,3 +2,5 @@
 - pkg:cargo/bdemu@0.13.33
 - pkg:cargo/bdemu@0.13.35
 - pkg:cargo/bdemu@0.13.36
+- pkg:cargo/bdemu@0.13.38
+- pkg:cargo/bdemu@0.13.39
