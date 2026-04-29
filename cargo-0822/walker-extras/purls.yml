@@ -19,6 +19,7 @@
 - pkg:cargo/walker-extras@0.14.2
 - pkg:cargo/walker-extras@0.15.0
 - pkg:cargo/walker-extras@0.15.1
+- pkg:cargo/walker-extras@0.17.0
 - pkg:cargo/walker-extras@0.6.0
 - pkg:cargo/walker-extras@0.6.0-alpha.1
 - pkg:cargo/walker-extras@0.6.0-alpha.2
