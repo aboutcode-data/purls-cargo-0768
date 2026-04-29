@@ -15,3 +15,4 @@
 - pkg:cargo/girolle_macro@1.8.2
 - pkg:cargo/girolle_macro@1.8.3
 - pkg:cargo/girolle_macro@1.8.4
+- pkg:cargo/girolle_macro@2.0.0
