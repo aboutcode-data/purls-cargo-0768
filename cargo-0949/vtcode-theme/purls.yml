@@ -10,6 +10,7 @@
 - pkg:cargo/vtcode-theme@0.104.2
 - pkg:cargo/vtcode-theme@0.105.0
 - pkg:cargo/vtcode-theme@0.105.1
+- pkg:cargo/vtcode-theme@0.105.2
 - pkg:cargo/vtcode-theme@0.95.0
 - pkg:cargo/vtcode-theme@0.96.0
 - pkg:cargo/vtcode-theme@0.96.1
