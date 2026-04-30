@@ -39,6 +39,7 @@
 - pkg:cargo/mockforge-mqtt@0.3.121
 - pkg:cargo/mockforge-mqtt@0.3.122
 - pkg:cargo/mockforge-mqtt@0.3.123
+- pkg:cargo/mockforge-mqtt@0.3.124
 - pkg:cargo/mockforge-mqtt@0.3.13
 - pkg:cargo/mockforge-mqtt@0.3.14
 - pkg:cargo/mockforge-mqtt@0.3.15
