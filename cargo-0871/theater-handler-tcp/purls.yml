@@ -1,1 +1,3 @@
 - pkg:cargo/theater-handler-tcp@0.3.6
+- pkg:cargo/theater-handler-tcp@0.3.7
+- pkg:cargo/theater-handler-tcp@0.3.8
