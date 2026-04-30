@@ -11,3 +11,4 @@
 - pkg:cargo/dns-update@0.2.3
 - pkg:cargo/dns-update@0.2.4
 - pkg:cargo/dns-update@0.2.5
+- pkg:cargo/dns-update@0.2.6
