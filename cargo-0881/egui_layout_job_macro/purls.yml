@@ -1,1 +1,4 @@
 - pkg:cargo/egui_layout_job_macro@0.1.0-rc.0
+- pkg:cargo/egui_layout_job_macro@0.1.0-rc.1
+- pkg:cargo/egui_layout_job_macro@0.1.0-rc.2
+- pkg:cargo/egui_layout_job_macro@0.1.0-rc.3
