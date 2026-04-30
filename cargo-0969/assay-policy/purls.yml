@@ -30,3 +30,5 @@
 - pkg:cargo/assay-policy@3.6.0
 - pkg:cargo/assay-policy@3.7.0
 - pkg:cargo/assay-policy@3.8.0
+- pkg:cargo/assay-policy@3.9.0
+- pkg:cargo/assay-policy@3.9.1
