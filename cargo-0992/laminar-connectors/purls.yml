@@ -26,3 +26,4 @@
 - pkg:cargo/laminar-connectors@0.20.1
 - pkg:cargo/laminar-connectors@0.20.2
 - pkg:cargo/laminar-connectors@0.21.0
+- pkg:cargo/laminar-connectors@0.21.10
