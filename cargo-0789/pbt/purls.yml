@@ -13,6 +13,7 @@
 - pkg:cargo/pbt@0.4.10
 - pkg:cargo/pbt@0.4.11
 - pkg:cargo/pbt@0.4.12
+- pkg:cargo/pbt@0.4.13
 - pkg:cargo/pbt@0.4.2
 - pkg:cargo/pbt@0.4.4
 - pkg:cargo/pbt@0.4.5
