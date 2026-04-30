@@ -4,6 +4,7 @@
 - pkg:cargo/epics-ca-rs@0.10.5
 - pkg:cargo/epics-ca-rs@0.11.0
 - pkg:cargo/epics-ca-rs@0.11.1
+- pkg:cargo/epics-ca-rs@0.12.0
 - pkg:cargo/epics-ca-rs@0.8.0
 - pkg:cargo/epics-ca-rs@0.8.1
 - pkg:cargo/epics-ca-rs@0.8.2

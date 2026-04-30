@@ -123,6 +123,8 @@
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.17
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.18
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.2
+- pkg:cargo/html-to-markdown-rs@3.4.0-rc.20
+- pkg:cargo/html-to-markdown-rs@3.4.0-rc.21
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.7
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.8
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.9

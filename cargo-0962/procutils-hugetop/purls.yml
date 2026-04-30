@@ -1,1 +1,2 @@
+- pkg:cargo/procutils-hugetop@0.1.0
 - pkg:cargo/procutils-hugetop@0.1.0-alpha.1
