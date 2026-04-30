@@ -20,3 +20,5 @@
 - pkg:cargo/alint-core@0.5.9
 - pkg:cargo/alint-core@0.6.0
 - pkg:cargo/alint-core@0.7.0
+- pkg:cargo/alint-core@0.8.0
+- pkg:cargo/alint-core@0.8.1
