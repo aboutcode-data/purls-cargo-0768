@@ -26,3 +26,4 @@
 - pkg:cargo/simple-agents-workflow@0.3.8
 - pkg:cargo/simple-agents-workflow@0.3.9
 - pkg:cargo/simple-agents-workflow@0.4.0
+- pkg:cargo/simple-agents-workflow@0.5.0
