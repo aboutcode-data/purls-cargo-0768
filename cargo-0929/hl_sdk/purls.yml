@@ -1,3 +1,4 @@
+- pkg:cargo/hl_sdk@0.10.0
 - pkg:cargo/hl_sdk@0.6.0
 - pkg:cargo/hl_sdk@0.7.0
 - pkg:cargo/hl_sdk@0.8.0
