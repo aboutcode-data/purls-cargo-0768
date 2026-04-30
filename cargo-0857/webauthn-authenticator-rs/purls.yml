@@ -23,4 +23,6 @@
 - pkg:cargo/webauthn-authenticator-rs@0.5.2
 - pkg:cargo/webauthn-authenticator-rs@0.5.3
 - pkg:cargo/webauthn-authenticator-rs@0.5.4
+- pkg:cargo/webauthn-authenticator-rs@0.5.5
 - pkg:cargo/webauthn-authenticator-rs@0.6.0-dev
+- pkg:cargo/webauthn-authenticator-rs@0.6.1-dev
