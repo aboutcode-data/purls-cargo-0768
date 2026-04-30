@@ -6,6 +6,7 @@
 - pkg:cargo/llm_readability@0.0.14
 - pkg:cargo/llm_readability@0.0.15
 - pkg:cargo/llm_readability@0.0.16
+- pkg:cargo/llm_readability@0.0.17
 - pkg:cargo/llm_readability@0.0.2
 - pkg:cargo/llm_readability@0.0.3
 - pkg:cargo/llm_readability@0.0.4

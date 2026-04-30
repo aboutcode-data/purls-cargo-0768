@@ -81,3 +81,4 @@
 - pkg:cargo/rio-proc-macros@0.3.7
 - pkg:cargo/rio-proc-macros@0.3.8
 - pkg:cargo/rio-proc-macros@0.3.9
+- pkg:cargo/rio-proc-macros@0.4.1

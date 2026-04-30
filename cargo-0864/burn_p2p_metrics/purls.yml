@@ -38,6 +38,8 @@
 - pkg:cargo/burn_p2p_metrics@0.21.0-pre.45
 - pkg:cargo/burn_p2p_metrics@0.21.0-pre.46
 - pkg:cargo/burn_p2p_metrics@0.21.0-pre.47
+- pkg:cargo/burn_p2p_metrics@0.21.0-pre.48
+- pkg:cargo/burn_p2p_metrics@0.21.0-pre.49
 - pkg:cargo/burn_p2p_metrics@0.21.0-pre.5
 - pkg:cargo/burn_p2p_metrics@0.21.0-pre.6
 - pkg:cargo/burn_p2p_metrics@0.21.0-pre.7
