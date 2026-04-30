@@ -108,3 +108,4 @@
 - pkg:cargo/salvo-oapi@0.92.0
 - pkg:cargo/salvo-oapi@0.92.1
 - pkg:cargo/salvo-oapi@0.92.2
+- pkg:cargo/salvo-oapi@0.93.0
