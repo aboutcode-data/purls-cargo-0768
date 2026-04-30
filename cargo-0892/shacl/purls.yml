@@ -2,3 +2,4 @@
 - pkg:cargo/shacl@0.2.15
 - pkg:cargo/shacl@0.2.17
 - pkg:cargo/shacl@0.2.17-rc.1
+- pkg:cargo/shacl@0.2.18
