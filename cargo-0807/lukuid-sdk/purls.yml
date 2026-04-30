@@ -1,6 +1,8 @@
 - pkg:cargo/lukuid-sdk@1.0.10
 - pkg:cargo/lukuid-sdk@1.0.11
 - pkg:cargo/lukuid-sdk@1.0.12
+- pkg:cargo/lukuid-sdk@1.0.13
+- pkg:cargo/lukuid-sdk@1.0.14
 - pkg:cargo/lukuid-sdk@1.0.4
 - pkg:cargo/lukuid-sdk@1.0.6
 - pkg:cargo/lukuid-sdk@1.0.8
