@@ -1,4 +1,5 @@
 - pkg:cargo/synta-python-krb5@0.1.10
 - pkg:cargo/synta-python-krb5@0.1.11
+- pkg:cargo/synta-python-krb5@0.1.12
 - pkg:cargo/synta-python-krb5@0.1.6
 - pkg:cargo/synta-python-krb5@0.1.9

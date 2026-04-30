@@ -44,6 +44,8 @@
 - pkg:cargo/greentic-deployer@0.4.52
 - pkg:cargo/greentic-deployer@0.4.55
 - pkg:cargo/greentic-deployer@0.4.56
+- pkg:cargo/greentic-deployer@0.4.57
 - pkg:cargo/greentic-deployer@0.4.8
 - pkg:cargo/greentic-deployer@0.4.9
 - pkg:cargo/greentic-deployer@0.6.0-dev.25149027582
+- pkg:cargo/greentic-deployer@0.6.0-dev.25157281845
