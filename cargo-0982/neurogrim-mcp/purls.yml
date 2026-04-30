@@ -2,3 +2,4 @@
 - pkg:cargo/neurogrim-mcp@3.3.0
 - pkg:cargo/neurogrim-mcp@3.4.0
 - pkg:cargo/neurogrim-mcp@3.5.0
+- pkg:cargo/neurogrim-mcp@4.0.0
