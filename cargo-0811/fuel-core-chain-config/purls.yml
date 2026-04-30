@@ -90,3 +90,4 @@
 - pkg:cargo/fuel-core-chain-config@0.47.3
 - pkg:cargo/fuel-core-chain-config@0.47.4
 - pkg:cargo/fuel-core-chain-config@0.48.0
+- pkg:cargo/fuel-core-chain-config@0.48.1

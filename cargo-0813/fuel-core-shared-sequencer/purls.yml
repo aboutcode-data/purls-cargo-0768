@@ -27,3 +27,4 @@
 - pkg:cargo/fuel-core-shared-sequencer@0.47.3
 - pkg:cargo/fuel-core-shared-sequencer@0.47.4
 - pkg:cargo/fuel-core-shared-sequencer@0.48.0
+- pkg:cargo/fuel-core-shared-sequencer@0.48.1
