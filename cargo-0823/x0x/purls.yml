@@ -52,6 +52,7 @@
 - pkg:cargo/x0x@0.19.14
 - pkg:cargo/x0x@0.19.15
 - pkg:cargo/x0x@0.19.16
+- pkg:cargo/x0x@0.19.17
 - pkg:cargo/x0x@0.19.2
 - pkg:cargo/x0x@0.19.3
 - pkg:cargo/x0x@0.19.4
