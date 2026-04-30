@@ -7,3 +7,5 @@
 - pkg:cargo/dwbase-swarm-nats@0.1.5
 - pkg:cargo/dwbase-swarm-nats@0.1.8
 - pkg:cargo/dwbase-swarm-nats@0.2.0-dev.24989803323
+- pkg:cargo/dwbase-swarm-nats@0.2.0-dev.25151319945
+- pkg:cargo/dwbase-swarm-nats@0.2.0-dev.25154159466
