@@ -15,6 +15,7 @@
 - pkg:cargo/sentry-options-validation@0.0.9
 - pkg:cargo/sentry-options-validation@1.0.0
 - pkg:cargo/sentry-options-validation@1.0.1
+- pkg:cargo/sentry-options-validation@1.0.10
 - pkg:cargo/sentry-options-validation@1.0.2
 - pkg:cargo/sentry-options-validation@1.0.3
 - pkg:cargo/sentry-options-validation@1.0.4
