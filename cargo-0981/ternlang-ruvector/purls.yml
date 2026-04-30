@@ -1,2 +1,4 @@
 - pkg:cargo/ternlang-ruvector@1.2.4
 - pkg:cargo/ternlang-ruvector@1.2.5
+- pkg:cargo/ternlang-ruvector@1.2.7
+- pkg:cargo/ternlang-ruvector@1.2.9
