@@ -40,6 +40,7 @@
 - pkg:cargo/cranelift-codegen-shared@0.111.5
 - pkg:cargo/cranelift-codegen-shared@0.111.6
 - pkg:cargo/cranelift-codegen-shared@0.111.7
+- pkg:cargo/cranelift-codegen-shared@0.111.8
 - pkg:cargo/cranelift-codegen-shared@0.112.0
 - pkg:cargo/cranelift-codegen-shared@0.112.1
 - pkg:cargo/cranelift-codegen-shared@0.112.2
@@ -72,6 +73,7 @@
 - pkg:cargo/cranelift-codegen-shared@0.123.5
 - pkg:cargo/cranelift-codegen-shared@0.123.6
 - pkg:cargo/cranelift-codegen-shared@0.123.7
+- pkg:cargo/cranelift-codegen-shared@0.123.8
 - pkg:cargo/cranelift-codegen-shared@0.124.0
 - pkg:cargo/cranelift-codegen-shared@0.124.1
 - pkg:cargo/cranelift-codegen-shared@0.124.2
@@ -99,7 +101,9 @@
 - pkg:cargo/cranelift-codegen-shared@0.129.2
 - pkg:cargo/cranelift-codegen-shared@0.130.0
 - pkg:cargo/cranelift-codegen-shared@0.130.1
+- pkg:cargo/cranelift-codegen-shared@0.130.2
 - pkg:cargo/cranelift-codegen-shared@0.131.0
+- pkg:cargo/cranelift-codegen-shared@0.131.1
 - pkg:cargo/cranelift-codegen-shared@0.44.0
 - pkg:cargo/cranelift-codegen-shared@0.45.0
 - pkg:cargo/cranelift-codegen-shared@0.46.0

@@ -47,6 +47,7 @@
 - pkg:cargo/winch-codegen@0.22.5
 - pkg:cargo/winch-codegen@0.22.6
 - pkg:cargo/winch-codegen@0.22.7
+- pkg:cargo/winch-codegen@0.22.8
 - pkg:cargo/winch-codegen@0.23.0
 - pkg:cargo/winch-codegen@0.23.1
 - pkg:cargo/winch-codegen@0.23.2
@@ -99,6 +100,7 @@
 - pkg:cargo/winch-codegen@36.0.5
 - pkg:cargo/winch-codegen@36.0.6
 - pkg:cargo/winch-codegen@36.0.7
+- pkg:cargo/winch-codegen@36.0.8
 - pkg:cargo/winch-codegen@37.0.0
 - pkg:cargo/winch-codegen@37.0.1
 - pkg:cargo/winch-codegen@37.0.2
@@ -126,4 +128,6 @@
 - pkg:cargo/winch-codegen@42.0.2
 - pkg:cargo/winch-codegen@43.0.0
 - pkg:cargo/winch-codegen@43.0.1
+- pkg:cargo/winch-codegen@43.0.2
 - pkg:cargo/winch-codegen@44.0.0
+- pkg:cargo/winch-codegen@44.0.1
