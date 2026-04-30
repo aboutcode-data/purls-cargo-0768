@@ -18,6 +18,8 @@
 - pkg:cargo/ts-pack-cli@1.8.0-rc.22
 - pkg:cargo/ts-pack-cli@1.8.0-rc.23
 - pkg:cargo/ts-pack-cli@1.8.0-rc.24
+- pkg:cargo/ts-pack-cli@1.8.0-rc.25
+- pkg:cargo/ts-pack-cli@1.8.0-rc.26
 - pkg:cargo/ts-pack-cli@1.8.0-rc.4
 - pkg:cargo/ts-pack-cli@1.8.0-rc.5
 - pkg:cargo/ts-pack-cli@1.8.0-rc.6
