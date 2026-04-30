@@ -49,6 +49,7 @@
 - pkg:cargo/wasmtime-winch@24.0.5
 - pkg:cargo/wasmtime-winch@24.0.6
 - pkg:cargo/wasmtime-winch@24.0.7
+- pkg:cargo/wasmtime-winch@24.0.8
 - pkg:cargo/wasmtime-winch@25.0.0
 - pkg:cargo/wasmtime-winch@25.0.1
 - pkg:cargo/wasmtime-winch@25.0.2

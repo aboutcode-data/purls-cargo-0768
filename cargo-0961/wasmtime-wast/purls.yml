@@ -103,6 +103,7 @@
 - pkg:cargo/wasmtime-wast@24.0.5
 - pkg:cargo/wasmtime-wast@24.0.6
 - pkg:cargo/wasmtime-wast@24.0.7
+- pkg:cargo/wasmtime-wast@24.0.8
 - pkg:cargo/wasmtime-wast@25.0.0
 - pkg:cargo/wasmtime-wast@25.0.1
 - pkg:cargo/wasmtime-wast@25.0.2
@@ -137,6 +138,7 @@
 - pkg:cargo/wasmtime-wast@36.0.5
 - pkg:cargo/wasmtime-wast@36.0.6
 - pkg:cargo/wasmtime-wast@36.0.7
+- pkg:cargo/wasmtime-wast@36.0.8
 - pkg:cargo/wasmtime-wast@37.0.0
 - pkg:cargo/wasmtime-wast@37.0.1
 - pkg:cargo/wasmtime-wast@37.0.2
@@ -166,7 +168,9 @@
 - pkg:cargo/wasmtime-wast@42.0.2
 - pkg:cargo/wasmtime-wast@43.0.0
 - pkg:cargo/wasmtime-wast@43.0.1
+- pkg:cargo/wasmtime-wast@43.0.2
 - pkg:cargo/wasmtime-wast@44.0.0
+- pkg:cargo/wasmtime-wast@44.0.1
 - pkg:cargo/wasmtime-wast@5.0.0
 - pkg:cargo/wasmtime-wast@5.0.1
 - pkg:cargo/wasmtime-wast@6.0.0
