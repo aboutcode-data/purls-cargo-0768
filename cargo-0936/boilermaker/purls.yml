@@ -2,3 +2,6 @@
 - pkg:cargo/boilermaker@0.1.0-beta15
 - pkg:cargo/boilermaker@0.1.0-beta17
 - pkg:cargo/boilermaker@0.1.0-beta18
+- pkg:cargo/boilermaker@0.1.0-beta19
+- pkg:cargo/boilermaker@0.1.0-buildtest2
+- pkg:cargo/boilermaker@0.1.0-buildtest3
