@@ -9,6 +9,7 @@
 - pkg:cargo/zentinel-config@0.5.8
 - pkg:cargo/zentinel-config@0.6.10
 - pkg:cargo/zentinel-config@0.6.11
+- pkg:cargo/zentinel-config@0.6.12
 - pkg:cargo/zentinel-config@0.6.2
 - pkg:cargo/zentinel-config@0.6.4
 - pkg:cargo/zentinel-config@0.6.6
