@@ -3,6 +3,7 @@
 - pkg:cargo/sqry-plugin-registry@10.0.2
 - pkg:cargo/sqry-plugin-registry@10.0.4
 - pkg:cargo/sqry-plugin-registry@11.0.1
+- pkg:cargo/sqry-plugin-registry@11.0.3
 - pkg:cargo/sqry-plugin-registry@4.10.1
 - pkg:cargo/sqry-plugin-registry@4.10.13
 - pkg:cargo/sqry-plugin-registry@4.12.6
