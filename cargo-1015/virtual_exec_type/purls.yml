@@ -4,3 +4,4 @@
 - pkg:cargo/virtual_exec_type@0.3.1
 - pkg:cargo/virtual_exec_type@0.4.0
 - pkg:cargo/virtual_exec_type@0.5.0-alpha.0
+- pkg:cargo/virtual_exec_type@0.5.0-alpha.1
