@@ -28,6 +28,7 @@
 - pkg:cargo/zlayer-overlay@0.11.6
 - pkg:cargo/zlayer-overlay@0.11.7
 - pkg:cargo/zlayer-overlay@0.11.8
+- pkg:cargo/zlayer-overlay@0.11.9
 - pkg:cargo/zlayer-overlay@0.9.991
 - pkg:cargo/zlayer-overlay@0.9.993
 - pkg:cargo/zlayer-overlay@0.9.994
