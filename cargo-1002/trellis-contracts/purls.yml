@@ -7,6 +7,11 @@
 - pkg:cargo/trellis-contracts@0.7.0-rc.4
 - pkg:cargo/trellis-contracts@0.7.0-rc.5
 - pkg:cargo/trellis-contracts@0.7.0-rc.6
+- pkg:cargo/trellis-contracts@0.8.0
 - pkg:cargo/trellis-contracts@0.8.0-rc.2
 - pkg:cargo/trellis-contracts@0.8.0-rc.3
 - pkg:cargo/trellis-contracts@0.8.0-rc.4
+- pkg:cargo/trellis-contracts@0.8.0-rc.5
+- pkg:cargo/trellis-contracts@0.8.0-rc.6
+- pkg:cargo/trellis-contracts@0.8.0-rc.7
+- pkg:cargo/trellis-contracts@0.8.0-rc.8
