@@ -25,3 +25,4 @@
 - pkg:cargo/sdl3-src@3.4.0
 - pkg:cargo/sdl3-src@3.4.2
 - pkg:cargo/sdl3-src@3.4.4
+- pkg:cargo/sdl3-src@3.4.6
