@@ -2,3 +2,4 @@
 - pkg:cargo/theater-server-cli@0.2.1
 - pkg:cargo/theater-server-cli@0.3.7
 - pkg:cargo/theater-server-cli@0.3.8
+- pkg:cargo/theater-server-cli@0.3.9
