@@ -1,1 +1,2 @@
 - pkg:cargo/rune-axum-redirect-https@0.1.0
+- pkg:cargo/rune-axum-redirect-https@0.1.1

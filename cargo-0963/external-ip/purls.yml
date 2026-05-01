@@ -14,3 +14,4 @@
 - pkg:cargo/external-ip@5.1.0
 - pkg:cargo/external-ip@5.2.0
 - pkg:cargo/external-ip@6.0.0
+- pkg:cargo/external-ip@7.0.0
