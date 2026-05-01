@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-plugin-wdio-webdriver@1.0.0-next.5
+- pkg:cargo/tauri-plugin-wdio-webdriver@1.0.0-next.6
