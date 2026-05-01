@@ -23,3 +23,4 @@
 - pkg:cargo/surrealdb-types@3.0.3
 - pkg:cargo/surrealdb-types@3.0.4
 - pkg:cargo/surrealdb-types@3.0.5
+- pkg:cargo/surrealdb-types@3.1.0-beta.1
