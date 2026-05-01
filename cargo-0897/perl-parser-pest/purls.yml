@@ -1,2 +1,3 @@
 - pkg:cargo/perl-parser-pest@0.12.2
 - pkg:cargo/perl-parser-pest@0.13.0-rc1
+- pkg:cargo/perl-parser-pest@0.13.1

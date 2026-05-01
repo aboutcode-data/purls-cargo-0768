@@ -1,3 +1,4 @@
 - pkg:cargo/perl-uri@0.12.1
 - pkg:cargo/perl-uri@0.12.2
 - pkg:cargo/perl-uri@0.13.0-rc1
+- pkg:cargo/perl-uri@0.13.1
