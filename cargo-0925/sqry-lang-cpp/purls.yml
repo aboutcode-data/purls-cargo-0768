@@ -2,6 +2,7 @@
 - pkg:cargo/sqry-lang-cpp@10.0.1
 - pkg:cargo/sqry-lang-cpp@10.0.2
 - pkg:cargo/sqry-lang-cpp@10.0.4
+- pkg:cargo/sqry-lang-cpp@11.0.1
 - pkg:cargo/sqry-lang-cpp@4.10.0
 - pkg:cargo/sqry-lang-cpp@4.10.1
 - pkg:cargo/sqry-lang-cpp@4.10.13
