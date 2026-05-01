@@ -2,3 +2,4 @@
 - pkg:cargo/swiftide-docker-service@0.13.4
 - pkg:cargo/swiftide-docker-service@0.13.5
 - pkg:cargo/swiftide-docker-service@0.13.6
+- pkg:cargo/swiftide-docker-service@0.13.7
