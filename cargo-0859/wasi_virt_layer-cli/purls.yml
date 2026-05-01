@@ -10,3 +10,4 @@
 - pkg:cargo/wasi_virt_layer-cli@0.2.5
 - pkg:cargo/wasi_virt_layer-cli@0.2.6
 - pkg:cargo/wasi_virt_layer-cli@0.2.8
+- pkg:cargo/wasi_virt_layer-cli@0.2.9
