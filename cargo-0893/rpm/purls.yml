@@ -23,5 +23,6 @@
 - pkg:cargo/rpm@0.22.0
 - pkg:cargo/rpm@0.23.0
 - pkg:cargo/rpm@0.23.1
+- pkg:cargo/rpm@0.23.2
 - pkg:cargo/rpm@0.9.0
 - pkg:cargo/rpm@0.9.0-alpha.1
