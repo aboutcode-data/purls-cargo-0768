@@ -1,1 +1,2 @@
 - pkg:cargo/sqlitex_macros@0.0.1
+- pkg:cargo/sqlitex_macros@0.0.2

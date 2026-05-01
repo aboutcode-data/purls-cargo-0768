@@ -36,3 +36,5 @@
 - pkg:cargo/panproto-grammars@0.40.0
 - pkg:cargo/panproto-grammars@0.41.0
 - pkg:cargo/panproto-grammars@0.42.0
+- pkg:cargo/panproto-grammars@0.42.1
+- pkg:cargo/panproto-grammars@0.42.2
