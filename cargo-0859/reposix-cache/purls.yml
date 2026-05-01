@@ -1,3 +1,4 @@
 - pkg:cargo/reposix-cache@0.11.1
 - pkg:cargo/reposix-cache@0.11.2
 - pkg:cargo/reposix-cache@0.11.3
+- pkg:cargo/reposix-cache@0.12.0

@@ -1,1 +1,2 @@
 - pkg:cargo/reposix-quality@0.11.3
+- pkg:cargo/reposix-quality@0.12.0
