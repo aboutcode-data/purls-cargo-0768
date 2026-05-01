@@ -5,3 +5,4 @@
 - pkg:cargo/ionlang-cli@0.2.3
 - pkg:cargo/ionlang-cli@0.3.0
 - pkg:cargo/ionlang-cli@0.3.1
+- pkg:cargo/ionlang-cli@0.4.0
