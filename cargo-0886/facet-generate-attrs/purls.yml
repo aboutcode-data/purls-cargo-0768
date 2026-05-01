@@ -1,1 +1,2 @@
 - pkg:cargo/facet-generate-attrs@0.16.0
+- pkg:cargo/facet-generate-attrs@0.17.0

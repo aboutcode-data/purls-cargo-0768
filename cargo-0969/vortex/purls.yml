@@ -56,3 +56,4 @@
 - pkg:cargo/vortex@0.67.0
 - pkg:cargo/vortex@0.68.0
 - pkg:cargo/vortex@0.69.0
+- pkg:cargo/vortex@0.70.0
