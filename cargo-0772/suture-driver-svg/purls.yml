@@ -1,3 +1,4 @@
 - pkg:cargo/suture-driver-svg@1.2.0
 - pkg:cargo/suture-driver-svg@5.0.0
 - pkg:cargo/suture-driver-svg@5.0.1
+- pkg:cargo/suture-driver-svg@5.1.0

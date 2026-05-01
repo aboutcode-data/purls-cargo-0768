@@ -15,3 +15,4 @@
 - pkg:cargo/pg-ephemeral@0.2.3
 - pkg:cargo/pg-ephemeral@0.3.0
 - pkg:cargo/pg-ephemeral@0.3.2
+- pkg:cargo/pg-ephemeral@0.4.0
