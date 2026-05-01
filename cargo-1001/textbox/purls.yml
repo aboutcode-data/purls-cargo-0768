@@ -1,3 +1,5 @@
 - pkg:cargo/textbox@0.5.0
 - pkg:cargo/textbox@0.5.1
 - pkg:cargo/textbox@0.5.2
+- pkg:cargo/textbox@0.6.0
+- pkg:cargo/textbox@0.7.0
