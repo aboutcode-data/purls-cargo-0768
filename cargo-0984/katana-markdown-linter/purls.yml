@@ -38,6 +38,7 @@
 - pkg:cargo/katana-markdown-linter@0.17.4
 - pkg:cargo/katana-markdown-linter@0.17.5
 - pkg:cargo/katana-markdown-linter@0.17.6
+- pkg:cargo/katana-markdown-linter@0.17.7
 - pkg:cargo/katana-markdown-linter@0.18.7
 - pkg:cargo/katana-markdown-linter@0.2.0
 - pkg:cargo/katana-markdown-linter@0.3.0
