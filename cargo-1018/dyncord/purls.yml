@@ -15,6 +15,7 @@
 - pkg:cargo/dyncord@0.13.7
 - pkg:cargo/dyncord@0.13.8
 - pkg:cargo/dyncord@0.14.0
+- pkg:cargo/dyncord@0.15.0
 - pkg:cargo/dyncord@0.2.0
 - pkg:cargo/dyncord@0.2.1
 - pkg:cargo/dyncord@0.3.0
