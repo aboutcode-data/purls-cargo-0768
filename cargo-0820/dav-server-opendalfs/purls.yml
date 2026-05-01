@@ -21,3 +21,4 @@
 - pkg:cargo/dav-server-opendalfs@0.6.1
 - pkg:cargo/dav-server-opendalfs@0.6.2
 - pkg:cargo/dav-server-opendalfs@0.7.0
+- pkg:cargo/dav-server-opendalfs@0.7.1
