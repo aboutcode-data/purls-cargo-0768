@@ -1,1 +1,2 @@
 - pkg:cargo/cyclonedds-derive@0.1.0
+- pkg:cargo/cyclonedds-derive@1.0.0
