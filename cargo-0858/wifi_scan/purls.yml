@@ -4,3 +4,4 @@
 - pkg:cargo/wifi_scan@0.6.2
 - pkg:cargo/wifi_scan@0.6.3
 - pkg:cargo/wifi_scan@0.7.0
+- pkg:cargo/wifi_scan@0.7.1
