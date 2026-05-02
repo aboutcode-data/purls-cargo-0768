@@ -9,3 +9,5 @@
 - pkg:cargo/sqlitex_type_inference@0.1.7
 - pkg:cargo/sqlitex_type_inference@0.1.8
 - pkg:cargo/sqlitex_type_inference@0.1.9
+- pkg:cargo/sqlitex_type_inference@0.2.0
+- pkg:cargo/sqlitex_type_inference@0.2.1
