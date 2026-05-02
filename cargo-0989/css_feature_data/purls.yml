@@ -75,13 +75,16 @@
 - pkg:cargo/css_feature_data@0.0.21-canary.30d8c1d4df
 - pkg:cargo/css_feature_data@0.0.21-canary.3b8c076166
 - pkg:cargo/css_feature_data@0.0.21-canary.3cabb0514a
+- pkg:cargo/css_feature_data@0.0.21-canary.4d0e6d264a
 - pkg:cargo/css_feature_data@0.0.21-canary.51d1c12b0d
 - pkg:cargo/css_feature_data@0.0.21-canary.5634e9b638
 - pkg:cargo/css_feature_data@0.0.21-canary.5777007e82
 - pkg:cargo/css_feature_data@0.0.21-canary.64ed0c392c
+- pkg:cargo/css_feature_data@0.0.21-canary.6a41143955
 - pkg:cargo/css_feature_data@0.0.21-canary.76361588c5
 - pkg:cargo/css_feature_data@0.0.21-canary.88c7ee6d54
 - pkg:cargo/css_feature_data@0.0.21-canary.904b9aef93
+- pkg:cargo/css_feature_data@0.0.21-canary.a2719a0fd5
 - pkg:cargo/css_feature_data@0.0.21-canary.a606b4ee90
 - pkg:cargo/css_feature_data@0.0.21-canary.a69fe0f08c
 - pkg:cargo/css_feature_data@0.0.21-canary.a8210b9e28
