@@ -29,3 +29,4 @@
 - pkg:cargo/mujoco-rs@3.0.0%2Bmj-3.6.0
 - pkg:cargo/mujoco-rs@3.0.1%2Bmj-3.6.0
 - pkg:cargo/mujoco-rs@4.0.0%2Bmj-3.8.0
+- pkg:cargo/mujoco-rs@4.0.1%2Bmj-3.8.0

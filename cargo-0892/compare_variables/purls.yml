@@ -1,3 +1,4 @@
 - pkg:cargo/compare_variables@0.1.0
 - pkg:cargo/compare_variables@0.2.0
 - pkg:cargo/compare_variables@0.2.1
+- pkg:cargo/compare_variables@0.3.0
