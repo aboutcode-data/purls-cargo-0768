@@ -1,1 +1,2 @@
 - pkg:cargo/rstest-bdd-server@0.4.0
+- pkg:cargo/rstest-bdd-server@0.6.0-beta1
