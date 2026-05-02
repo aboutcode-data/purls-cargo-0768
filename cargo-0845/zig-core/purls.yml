@@ -1,5 +1,6 @@
 - pkg:cargo/zig-core@0.10.0
 - pkg:cargo/zig-core@0.10.1
+- pkg:cargo/zig-core@0.11.0
 - pkg:cargo/zig-core@0.4.3
 - pkg:cargo/zig-core@0.4.4
 - pkg:cargo/zig-core@0.5.6
