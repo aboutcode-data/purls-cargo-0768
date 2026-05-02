@@ -21,3 +21,4 @@
 - pkg:cargo/rmqtt@0.18.1
 - pkg:cargo/rmqtt@0.19.0
 - pkg:cargo/rmqtt@0.19.1
+- pkg:cargo/rmqtt@0.20.0
