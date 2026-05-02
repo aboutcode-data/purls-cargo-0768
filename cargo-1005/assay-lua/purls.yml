@@ -28,6 +28,7 @@
 - pkg:cargo/assay-lua@0.15.2
 - pkg:cargo/assay-lua@0.15.3
 - pkg:cargo/assay-lua@0.15.4
+- pkg:cargo/assay-lua@0.15.5
 - pkg:cargo/assay-lua@0.3.0
 - pkg:cargo/assay-lua@0.3.1
 - pkg:cargo/assay-lua@0.3.2
