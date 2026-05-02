@@ -38,6 +38,7 @@
 - pkg:cargo/alef-codegen@0.12.6
 - pkg:cargo/alef-codegen@0.13.0
 - pkg:cargo/alef-codegen@0.13.1
+- pkg:cargo/alef-codegen@0.13.10
 - pkg:cargo/alef-codegen@0.13.2
 - pkg:cargo/alef-codegen@0.13.3
 - pkg:cargo/alef-codegen@0.13.4
