@@ -25,3 +25,4 @@
 - pkg:cargo/cf-tenant-resolver-sdk@0.3.1
 - pkg:cargo/cf-tenant-resolver-sdk@0.3.2
 - pkg:cargo/cf-tenant-resolver-sdk@0.3.3
+- pkg:cargo/cf-tenant-resolver-sdk@0.3.4
