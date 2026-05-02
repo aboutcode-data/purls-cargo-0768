@@ -197,10 +197,12 @@
 - pkg:cargo/csskit_derives@0.0.20-canary.c397b8c3f7
 - pkg:cargo/csskit_derives@0.0.21-canary.00220d38a8
 - pkg:cargo/csskit_derives@0.0.21-canary.0f0790b12a
+- pkg:cargo/csskit_derives@0.0.21-canary.1983d74c02
 - pkg:cargo/csskit_derives@0.0.21-canary.235b3f1a5d
 - pkg:cargo/csskit_derives@0.0.21-canary.30d8c1d4df
 - pkg:cargo/csskit_derives@0.0.21-canary.3b8c076166
 - pkg:cargo/csskit_derives@0.0.21-canary.3cabb0514a
+- pkg:cargo/csskit_derives@0.0.21-canary.51d1c12b0d
 - pkg:cargo/csskit_derives@0.0.21-canary.5634e9b638
 - pkg:cargo/csskit_derives@0.0.21-canary.5777007e82
 - pkg:cargo/csskit_derives@0.0.21-canary.64ed0c392c
