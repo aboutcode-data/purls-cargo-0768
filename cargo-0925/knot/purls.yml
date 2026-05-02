@@ -2,3 +2,4 @@
 - pkg:cargo/knot@0.10.3
 - pkg:cargo/knot@0.11.0
 - pkg:cargo/knot@1.0.0
+- pkg:cargo/knot@1.1.0
