@@ -61,3 +61,4 @@
 - pkg:cargo/snarkos@4.5.4
 - pkg:cargo/snarkos@4.6.0
 - pkg:cargo/snarkos@4.6.2
+- pkg:cargo/snarkos@4.6.3

@@ -29,3 +29,4 @@
 - pkg:cargo/snarkos-node-bft@4.5.4
 - pkg:cargo/snarkos-node-bft@4.6.0
 - pkg:cargo/snarkos-node-bft@4.6.2
+- pkg:cargo/snarkos-node-bft@4.6.3
