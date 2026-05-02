@@ -13,3 +13,4 @@
 - pkg:cargo/albert-runtime@1.2.7
 - pkg:cargo/albert-runtime@1.2.8
 - pkg:cargo/albert-runtime@1.2.9
+- pkg:cargo/albert-runtime@1.3.0
