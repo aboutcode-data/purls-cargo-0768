@@ -4,3 +4,5 @@
 - pkg:cargo/ferrum-sampler@0.6.0
 - pkg:cargo/ferrum-sampler@0.7.0
 - pkg:cargo/ferrum-sampler@0.7.1
+- pkg:cargo/ferrum-sampler@0.7.2
+- pkg:cargo/ferrum-sampler@0.7.3
