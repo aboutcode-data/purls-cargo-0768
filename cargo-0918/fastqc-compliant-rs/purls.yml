@@ -1,1 +1,2 @@
 - pkg:cargo/fastqc-compliant-rs@0.4.0
+- pkg:cargo/fastqc-compliant-rs@0.4.1
