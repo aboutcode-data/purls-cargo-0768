@@ -2,3 +2,4 @@
 - pkg:cargo/encryption_service@1.10.7
 - pkg:cargo/encryption_service@1.7.10
 - pkg:cargo/encryption_service@10.10.10
+- pkg:cargo/encryption_service@7.7.7
