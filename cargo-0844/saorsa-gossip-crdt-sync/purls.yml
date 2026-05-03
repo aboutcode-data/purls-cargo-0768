@@ -47,6 +47,7 @@
 - pkg:cargo/saorsa-gossip-crdt-sync@0.5.23
 - pkg:cargo/saorsa-gossip-crdt-sync@0.5.24
 - pkg:cargo/saorsa-gossip-crdt-sync@0.5.25
+- pkg:cargo/saorsa-gossip-crdt-sync@0.5.26
 - pkg:cargo/saorsa-gossip-crdt-sync@0.5.3
 - pkg:cargo/saorsa-gossip-crdt-sync@0.5.4
 - pkg:cargo/saorsa-gossip-crdt-sync@0.5.5
