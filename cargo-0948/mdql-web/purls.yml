@@ -16,7 +16,9 @@
 - pkg:cargo/mdql-web@0.5.16
 - pkg:cargo/mdql-web@0.5.17
 - pkg:cargo/mdql-web@0.5.18
+- pkg:cargo/mdql-web@0.5.19
 - pkg:cargo/mdql-web@0.5.2
+- pkg:cargo/mdql-web@0.5.20
 - pkg:cargo/mdql-web@0.5.3
 - pkg:cargo/mdql-web@0.5.4
 - pkg:cargo/mdql-web@0.5.5
