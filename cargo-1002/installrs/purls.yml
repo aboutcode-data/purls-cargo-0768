@@ -1,9 +1,11 @@
+- pkg:cargo/installrs@0.1.0
 - pkg:cargo/installrs@0.1.0-rc1
 - pkg:cargo/installrs@0.1.0-rc10
 - pkg:cargo/installrs@0.1.0-rc11
 - pkg:cargo/installrs@0.1.0-rc12
 - pkg:cargo/installrs@0.1.0-rc13
 - pkg:cargo/installrs@0.1.0-rc14
+- pkg:cargo/installrs@0.1.0-rc15
 - pkg:cargo/installrs@0.1.0-rc3
 - pkg:cargo/installrs@0.1.0-rc4
 - pkg:cargo/installrs@0.1.0-rc5
