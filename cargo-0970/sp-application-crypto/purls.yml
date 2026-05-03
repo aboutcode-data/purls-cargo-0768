@@ -57,6 +57,7 @@
 - pkg:cargo/sp-application-crypto@43.0.0
 - pkg:cargo/sp-application-crypto@44.0.0
 - pkg:cargo/sp-application-crypto@45.0.0
+- pkg:cargo/sp-application-crypto@46.0.0
 - pkg:cargo/sp-application-crypto@5.0.0
 - pkg:cargo/sp-application-crypto@6.0.0
 - pkg:cargo/sp-application-crypto@7.0.0
