@@ -24,6 +24,8 @@
 - pkg:cargo/saorsa-gossip-runtime@0.5.21
 - pkg:cargo/saorsa-gossip-runtime@0.5.22
 - pkg:cargo/saorsa-gossip-runtime@0.5.23
+- pkg:cargo/saorsa-gossip-runtime@0.5.24
+- pkg:cargo/saorsa-gossip-runtime@0.5.25
 - pkg:cargo/saorsa-gossip-runtime@0.5.3
 - pkg:cargo/saorsa-gossip-runtime@0.5.4
 - pkg:cargo/saorsa-gossip-runtime@0.5.5
