@@ -13,6 +13,7 @@
 - pkg:cargo/vtcode-acp@0.105.2
 - pkg:cargo/vtcode-acp@0.105.4
 - pkg:cargo/vtcode-acp@0.105.5
+- pkg:cargo/vtcode-acp@0.105.6
 - pkg:cargo/vtcode-acp@0.88.0
 - pkg:cargo/vtcode-acp@0.88.1
 - pkg:cargo/vtcode-acp@0.88.2
