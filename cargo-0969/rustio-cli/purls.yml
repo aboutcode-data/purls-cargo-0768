@@ -13,3 +13,4 @@
 - pkg:cargo/rustio-cli@1.4.2
 - pkg:cargo/rustio-cli@1.5.0
 - pkg:cargo/rustio-cli@1.6.0
+- pkg:cargo/rustio-cli@1.7.1
