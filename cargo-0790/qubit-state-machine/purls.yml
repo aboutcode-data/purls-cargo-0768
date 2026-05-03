@@ -2,3 +2,5 @@
 - pkg:cargo/qubit-state-machine@0.1.1
 - pkg:cargo/qubit-state-machine@0.2.0
 - pkg:cargo/qubit-state-machine@0.2.1
+- pkg:cargo/qubit-state-machine@0.2.2
+- pkg:cargo/qubit-state-machine@0.2.3
