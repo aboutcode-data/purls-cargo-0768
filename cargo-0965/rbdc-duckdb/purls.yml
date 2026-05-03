@@ -2,6 +2,7 @@
 - pkg:cargo/rbdc-duckdb@4.9.1
 - pkg:cargo/rbdc-duckdb@4.9.10
 - pkg:cargo/rbdc-duckdb@4.9.11
+- pkg:cargo/rbdc-duckdb@4.9.12
 - pkg:cargo/rbdc-duckdb@4.9.2
 - pkg:cargo/rbdc-duckdb@4.9.3
 - pkg:cargo/rbdc-duckdb@4.9.4
