@@ -1,1 +1,2 @@
 - pkg:cargo/rakka-persistence-query-inmemory@0.2.0
+- pkg:cargo/rakka-persistence-query-inmemory@0.2.1
