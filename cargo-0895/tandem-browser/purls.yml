@@ -39,3 +39,4 @@
 - pkg:cargo/tandem-browser@0.4.7
 - pkg:cargo/tandem-browser@0.4.8
 - pkg:cargo/tandem-browser@0.4.9
+- pkg:cargo/tandem-browser@0.5.0
