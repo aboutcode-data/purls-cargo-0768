@@ -40,6 +40,7 @@
 - pkg:cargo/doh-proxy@0.9.13
 - pkg:cargo/doh-proxy@0.9.14
 - pkg:cargo/doh-proxy@0.9.15
+- pkg:cargo/doh-proxy@0.9.16
 - pkg:cargo/doh-proxy@0.9.2
 - pkg:cargo/doh-proxy@0.9.3
 - pkg:cargo/doh-proxy@0.9.4
