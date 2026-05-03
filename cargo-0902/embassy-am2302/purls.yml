@@ -6,3 +6,5 @@
 - pkg:cargo/embassy-am2302@0.5.0
 - pkg:cargo/embassy-am2302@0.5.1
 - pkg:cargo/embassy-am2302@0.5.2
+- pkg:cargo/embassy-am2302@0.6.0
+- pkg:cargo/embassy-am2302@0.6.1
