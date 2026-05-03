@@ -44,6 +44,7 @@
 - pkg:cargo/pallet-election-provider-multi-phase@43.0.0
 - pkg:cargo/pallet-election-provider-multi-phase@44.0.0
 - pkg:cargo/pallet-election-provider-multi-phase@45.0.0
+- pkg:cargo/pallet-election-provider-multi-phase@46.0.0
 - pkg:cargo/pallet-election-provider-multi-phase@5.0.0
 - pkg:cargo/pallet-election-provider-multi-phase@6.0.0
 - pkg:cargo/pallet-election-provider-multi-phase@7.0.0

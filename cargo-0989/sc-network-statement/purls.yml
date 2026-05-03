@@ -36,3 +36,4 @@
 - pkg:cargo/sc-network-statement@0.37.0
 - pkg:cargo/sc-network-statement@0.38.0
 - pkg:cargo/sc-network-statement@0.38.1
+- pkg:cargo/sc-network-statement@0.39.0

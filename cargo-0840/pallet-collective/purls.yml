@@ -56,6 +56,7 @@
 - pkg:cargo/pallet-collective@44.0.0
 - pkg:cargo/pallet-collective@45.0.0
 - pkg:cargo/pallet-collective@46.0.0
+- pkg:cargo/pallet-collective@47.0.0
 - pkg:cargo/pallet-collective@5.0.0
 - pkg:cargo/pallet-collective@6.0.0
 - pkg:cargo/pallet-collective@7.0.0

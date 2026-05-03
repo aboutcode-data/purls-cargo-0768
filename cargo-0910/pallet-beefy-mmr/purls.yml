@@ -44,6 +44,7 @@
 - pkg:cargo/pallet-beefy-mmr@45.0.1
 - pkg:cargo/pallet-beefy-mmr@46.0.0
 - pkg:cargo/pallet-beefy-mmr@47.0.0
+- pkg:cargo/pallet-beefy-mmr@48.0.0
 - pkg:cargo/pallet-beefy-mmr@5.0.0
 - pkg:cargo/pallet-beefy-mmr@6.0.0
 - pkg:cargo/pallet-beefy-mmr@7.0.0
