@@ -54,6 +54,7 @@
 - pkg:cargo/pallet-offences@43.0.0
 - pkg:cargo/pallet-offences@44.0.0
 - pkg:cargo/pallet-offences@45.0.0
+- pkg:cargo/pallet-offences@46.0.0
 - pkg:cargo/pallet-offences@5.0.0
 - pkg:cargo/pallet-offences@6.0.0
 - pkg:cargo/pallet-offences@7.0.0

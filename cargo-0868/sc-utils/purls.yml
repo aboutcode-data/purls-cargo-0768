@@ -13,6 +13,7 @@
 - pkg:cargo/sc-utils@19.0.0
 - pkg:cargo/sc-utils@20.0.0
 - pkg:cargo/sc-utils@20.1.0
+- pkg:cargo/sc-utils@21.0.0
 - pkg:cargo/sc-utils@4.0.0
 - pkg:cargo/sc-utils@5.0.0
 - pkg:cargo/sc-utils@6.0.0
