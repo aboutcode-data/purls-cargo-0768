@@ -15,3 +15,4 @@
 - pkg:cargo/strict-path@0.2.0
 - pkg:cargo/strict-path@0.2.1
 - pkg:cargo/strict-path@0.2.2
+- pkg:cargo/strict-path@0.2.3
