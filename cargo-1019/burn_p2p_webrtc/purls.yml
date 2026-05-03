@@ -33,3 +33,5 @@
 - pkg:cargo/burn_p2p_webrtc@0.21.0-pre.61
 - pkg:cargo/burn_p2p_webrtc@0.21.0-pre.62
 - pkg:cargo/burn_p2p_webrtc@0.21.0-pre.63
+- pkg:cargo/burn_p2p_webrtc@0.21.0-pre.64
+- pkg:cargo/burn_p2p_webrtc@0.21.0-pre.65
