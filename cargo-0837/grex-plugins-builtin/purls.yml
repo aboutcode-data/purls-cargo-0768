@@ -9,3 +9,4 @@
 - pkg:cargo/grex-plugins-builtin@1.2.5
 - pkg:cargo/grex-plugins-builtin@1.2.6
 - pkg:cargo/grex-plugins-builtin@1.3.0
+- pkg:cargo/grex-plugins-builtin@1.3.1
