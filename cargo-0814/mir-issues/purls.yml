@@ -6,6 +6,7 @@
 - pkg:cargo/mir-issues@0.15.0
 - pkg:cargo/mir-issues@0.16.0
 - pkg:cargo/mir-issues@0.16.1
+- pkg:cargo/mir-issues@0.17.0
 - pkg:cargo/mir-issues@0.2.0
 - pkg:cargo/mir-issues@0.2.1
 - pkg:cargo/mir-issues@0.3.0

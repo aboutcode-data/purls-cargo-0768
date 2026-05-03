@@ -3,3 +3,4 @@
 - pkg:cargo/perl-parser@0.13.0-rc1
 - pkg:cargo/perl-parser@0.13.1
 - pkg:cargo/perl-parser@0.13.2
+- pkg:cargo/perl-parser@0.13.3
