@@ -6,6 +6,7 @@
 - pkg:cargo/pulumi_gestalt_core@0.0.1
 - pkg:cargo/pulumi_gestalt_core@0.0.1-test32
 - pkg:cargo/pulumi_gestalt_core@0.0.1-test33
+- pkg:cargo/pulumi_gestalt_core@0.0.10
 - pkg:cargo/pulumi_gestalt_core@0.0.2
 - pkg:cargo/pulumi_gestalt_core@0.0.3
 - pkg:cargo/pulumi_gestalt_core@0.0.4
