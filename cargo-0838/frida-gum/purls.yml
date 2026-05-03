@@ -27,6 +27,7 @@
 - pkg:cargo/frida-gum@0.16.8
 - pkg:cargo/frida-gum@0.17.0
 - pkg:cargo/frida-gum@0.17.1
+- pkg:cargo/frida-gum@0.17.2
 - pkg:cargo/frida-gum@0.2.0
 - pkg:cargo/frida-gum@0.2.1
 - pkg:cargo/frida-gum@0.2.2
