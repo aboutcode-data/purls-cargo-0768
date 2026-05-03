@@ -1,6 +1,17 @@
 - pkg:cargo/codelens-tui@1.12.1
 - pkg:cargo/codelens-tui@1.12.2
 - pkg:cargo/codelens-tui@1.12.3
+- pkg:cargo/codelens-tui@1.13.0
+- pkg:cargo/codelens-tui@1.13.1
+- pkg:cargo/codelens-tui@1.13.10
+- pkg:cargo/codelens-tui@1.13.2
+- pkg:cargo/codelens-tui@1.13.3
+- pkg:cargo/codelens-tui@1.13.4
+- pkg:cargo/codelens-tui@1.13.5
+- pkg:cargo/codelens-tui@1.13.6
+- pkg:cargo/codelens-tui@1.13.7
+- pkg:cargo/codelens-tui@1.13.8
+- pkg:cargo/codelens-tui@1.13.9
 - pkg:cargo/codelens-tui@1.9.35
 - pkg:cargo/codelens-tui@1.9.36
 - pkg:cargo/codelens-tui@1.9.37
