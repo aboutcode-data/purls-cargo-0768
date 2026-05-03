@@ -29,3 +29,4 @@
 - pkg:cargo/vpxtool@0.27.1
 - pkg:cargo/vpxtool@0.27.2
 - pkg:cargo/vpxtool@0.28.0
+- pkg:cargo/vpxtool@0.28.1
