@@ -121,3 +121,4 @@
 - pkg:cargo/seq-lsp@6.2.0
 - pkg:cargo/seq-lsp@6.2.2
 - pkg:cargo/seq-lsp@6.3.0
+- pkg:cargo/seq-lsp@6.4.0
