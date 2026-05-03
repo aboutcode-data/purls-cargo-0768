@@ -12,3 +12,4 @@
 - pkg:cargo/camel-component-ws@0.7.4
 - pkg:cargo/camel-component-ws@0.7.5
 - pkg:cargo/camel-component-ws@0.7.6
+- pkg:cargo/camel-component-ws@0.7.7
