@@ -36,3 +36,5 @@
 - pkg:cargo/ag-forge@0.8.5
 - pkg:cargo/ag-forge@0.8.8
 - pkg:cargo/ag-forge@0.8.9
+- pkg:cargo/ag-forge@0.9.0
+- pkg:cargo/ag-forge@0.9.1
