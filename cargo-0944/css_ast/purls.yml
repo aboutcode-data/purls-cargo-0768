@@ -85,6 +85,7 @@
 - pkg:cargo/css_ast@0.0.21-canary.f31167cc60
 - pkg:cargo/css_ast@0.0.21-canary.fc80f623b7
 - pkg:cargo/css_ast@0.0.21-canary.fc907fde77
+- pkg:cargo/css_ast@0.0.21-canary.ff37755fc3
 - pkg:cargo/css_ast@0.0.5
 - pkg:cargo/css_ast@0.0.6
 - pkg:cargo/css_ast@0.0.6-canary.23726265a1

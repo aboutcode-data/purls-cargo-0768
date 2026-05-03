@@ -10,3 +10,4 @@
 - pkg:cargo/oxirs-shacl@0.2.1
 - pkg:cargo/oxirs-shacl@0.2.2
 - pkg:cargo/oxirs-shacl@0.2.4
+- pkg:cargo/oxirs-shacl@0.3.0
