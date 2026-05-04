@@ -3,6 +3,15 @@
 - pkg:cargo/endringer@0.11.0
 - pkg:cargo/endringer@0.12.0
 - pkg:cargo/endringer@0.13.0
+- pkg:cargo/endringer@0.14.0
+- pkg:cargo/endringer@0.15.0
+- pkg:cargo/endringer@0.16.0
+- pkg:cargo/endringer@0.17.0
+- pkg:cargo/endringer@0.18.0
+- pkg:cargo/endringer@0.18.1
+- pkg:cargo/endringer@0.19.0
+- pkg:cargo/endringer@0.19.1
+- pkg:cargo/endringer@0.19.2
 - pkg:cargo/endringer@0.2.0
 - pkg:cargo/endringer@0.2.1
 - pkg:cargo/endringer@0.3.0
