@@ -138,6 +138,7 @@
 - pkg:cargo/wry@0.54.3
 - pkg:cargo/wry@0.54.4
 - pkg:cargo/wry@0.55.0
+- pkg:cargo/wry@0.55.1
 - pkg:cargo/wry@0.6.0
 - pkg:cargo/wry@0.6.1
 - pkg:cargo/wry@0.6.2

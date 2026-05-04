@@ -15,3 +15,4 @@
 - pkg:cargo/sqlitex_type_inference@0.2.3
 - pkg:cargo/sqlitex_type_inference@0.2.4
 - pkg:cargo/sqlitex_type_inference@0.2.5
+- pkg:cargo/sqlitex_type_inference@0.3.0

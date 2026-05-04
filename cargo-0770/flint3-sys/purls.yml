@@ -4,3 +4,4 @@
 - pkg:cargo/flint3-sys@3.2.4
 - pkg:cargo/flint3-sys@3.3.1
 - pkg:cargo/flint3-sys@3.5.0
+- pkg:cargo/flint3-sys@3.5.1
