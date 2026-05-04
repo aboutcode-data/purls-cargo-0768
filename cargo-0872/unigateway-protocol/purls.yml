@@ -7,3 +7,4 @@
 - pkg:cargo/unigateway-protocol@1.8.0
 - pkg:cargo/unigateway-protocol@1.9.0
 - pkg:cargo/unigateway-protocol@1.9.1
+- pkg:cargo/unigateway-protocol@2.0.1

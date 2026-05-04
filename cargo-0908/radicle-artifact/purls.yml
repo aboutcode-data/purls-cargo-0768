@@ -2,6 +2,7 @@
 - pkg:cargo/radicle-artifact@0.10.0
 - pkg:cargo/radicle-artifact@0.11.0
 - pkg:cargo/radicle-artifact@0.12.0
+- pkg:cargo/radicle-artifact@0.12.1
 - pkg:cargo/radicle-artifact@0.2.0
 - pkg:cargo/radicle-artifact@0.3.0
 - pkg:cargo/radicle-artifact@0.4.0
