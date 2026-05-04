@@ -1,3 +1,4 @@
 - pkg:cargo/agend-terminal@0.3.0
 - pkg:cargo/agend-terminal@0.3.1
 - pkg:cargo/agend-terminal@0.4.1
+- pkg:cargo/agend-terminal@0.5.0
