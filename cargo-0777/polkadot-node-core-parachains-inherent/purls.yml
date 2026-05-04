@@ -22,6 +22,7 @@
 - pkg:cargo/polkadot-node-core-parachains-inherent@29.0.0
 - pkg:cargo/polkadot-node-core-parachains-inherent@3.0.0
 - pkg:cargo/polkadot-node-core-parachains-inherent@3.0.0-dev.1
+- pkg:cargo/polkadot-node-core-parachains-inherent@30.0.0
 - pkg:cargo/polkadot-node-core-parachains-inherent@4.0.0
 - pkg:cargo/polkadot-node-core-parachains-inherent@5.0.0
 - pkg:cargo/polkadot-node-core-parachains-inherent@6.0.0

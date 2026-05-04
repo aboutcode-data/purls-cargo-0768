@@ -23,6 +23,7 @@
 - pkg:cargo/polkadot-availability-bitfield-distribution@29.0.0
 - pkg:cargo/polkadot-availability-bitfield-distribution@3.0.0
 - pkg:cargo/polkadot-availability-bitfield-distribution@3.0.0-dev.1
+- pkg:cargo/polkadot-availability-bitfield-distribution@30.0.0
 - pkg:cargo/polkadot-availability-bitfield-distribution@4.0.0
 - pkg:cargo/polkadot-availability-bitfield-distribution@5.0.0
 - pkg:cargo/polkadot-availability-bitfield-distribution@6.0.0
