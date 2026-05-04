@@ -36,3 +36,4 @@
 - pkg:cargo/egui_glow@0.33.3
 - pkg:cargo/egui_glow@0.34.0
 - pkg:cargo/egui_glow@0.34.1
+- pkg:cargo/egui_glow@0.34.2
