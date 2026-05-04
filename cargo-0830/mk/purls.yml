@@ -31,4 +31,6 @@
 - pkg:cargo/mk@0.7.13
 - pkg:cargo/mk@0.7.15
 - pkg:cargo/mk@0.7.16
+- pkg:cargo/mk@0.7.17
+- pkg:cargo/mk@0.7.18
 - pkg:cargo/mk@0.7.3
