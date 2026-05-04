@@ -6,3 +6,4 @@
 - pkg:cargo/ristretto_gc@0.28.0
 - pkg:cargo/ristretto_gc@0.29.0
 - pkg:cargo/ristretto_gc@0.30.0
+- pkg:cargo/ristretto_gc@0.31.0
