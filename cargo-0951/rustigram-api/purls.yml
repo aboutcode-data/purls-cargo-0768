@@ -3,3 +3,4 @@
 - pkg:cargo/rustigram-api@0.9.2
 - pkg:cargo/rustigram-api@0.9.3
 - pkg:cargo/rustigram-api@0.9.5
+- pkg:cargo/rustigram-api@0.9.6
