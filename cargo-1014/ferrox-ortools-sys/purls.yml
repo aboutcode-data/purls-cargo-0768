@@ -1,1 +1,2 @@
 - pkg:cargo/ferrox-ortools-sys@0.3.12
+- pkg:cargo/ferrox-ortools-sys@0.4.1
