@@ -47,3 +47,4 @@
 - pkg:cargo/systemprompt-cli@0.4.0
 - pkg:cargo/systemprompt-cli@0.4.1
 - pkg:cargo/systemprompt-cli@0.4.2
+- pkg:cargo/systemprompt-cli@0.5.0

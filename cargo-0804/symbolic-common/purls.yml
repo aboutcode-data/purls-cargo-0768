@@ -65,6 +65,7 @@
 - pkg:cargo/symbolic-common@12.8.0
 - pkg:cargo/symbolic-common@12.9.1
 - pkg:cargo/symbolic-common@12.9.2
+- pkg:cargo/symbolic-common@13.0.0
 - pkg:cargo/symbolic-common@2.0.0
 - pkg:cargo/symbolic-common@2.0.1
 - pkg:cargo/symbolic-common@2.0.2
