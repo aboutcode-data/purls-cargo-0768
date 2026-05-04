@@ -14,3 +14,4 @@
 - pkg:cargo/podsync@0.1.9
 - pkg:cargo/podsync@1.0.0
 - pkg:cargo/podsync@1.0.1
+- pkg:cargo/podsync@1.0.2
