@@ -1,3 +1,4 @@
 - pkg:cargo/tempoch-ffi@0.1.0
 - pkg:cargo/tempoch-ffi@0.2.0
 - pkg:cargo/tempoch-ffi@0.4.2
+- pkg:cargo/tempoch-ffi@0.4.3
