@@ -1,6 +1,7 @@
 - pkg:cargo/dynoxide-rs@0.0.1
 - pkg:cargo/dynoxide-rs@0.9.10
 - pkg:cargo/dynoxide-rs@0.9.11
+- pkg:cargo/dynoxide-rs@0.9.12
 - pkg:cargo/dynoxide-rs@0.9.5
 - pkg:cargo/dynoxide-rs@0.9.6
 - pkg:cargo/dynoxide-rs@0.9.7
