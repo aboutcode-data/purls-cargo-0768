@@ -42,3 +42,4 @@
 - pkg:cargo/sentry-tower@0.46.2
 - pkg:cargo/sentry-tower@0.47.0
 - pkg:cargo/sentry-tower@0.48.0
+- pkg:cargo/sentry-tower@0.48.1
