@@ -1,3 +1,4 @@
 - pkg:cargo/ttf2woff2@0.10.3
 - pkg:cargo/ttf2woff2@0.10.4
 - pkg:cargo/ttf2woff2@0.11.0
+- pkg:cargo/ttf2woff2@0.11.1
