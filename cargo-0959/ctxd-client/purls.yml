@@ -1,3 +1,4 @@
 - pkg:cargo/ctxd-client@0.3.0
 - pkg:cargo/ctxd-client@0.3.2
 - pkg:cargo/ctxd-client@0.4.0
+- pkg:cargo/ctxd-client@0.4.1
