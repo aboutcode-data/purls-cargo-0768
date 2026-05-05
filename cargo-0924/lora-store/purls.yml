@@ -8,3 +8,4 @@
 - pkg:cargo/lora-store@0.5.5
 - pkg:cargo/lora-store@0.5.6
 - pkg:cargo/lora-store@0.6.0
+- pkg:cargo/lora-store@0.7.0
