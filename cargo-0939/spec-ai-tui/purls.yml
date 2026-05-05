@@ -12,3 +12,5 @@
 - pkg:cargo/spec-ai-tui@0.6.0-prerelease.9
 - pkg:cargo/spec-ai-tui@0.6.3-prerelease.12
 - pkg:cargo/spec-ai-tui@0.6.5-prerelease.12
+- pkg:cargo/spec-ai-tui@0.6.6-prerelease.12
+- pkg:cargo/spec-ai-tui@0.6.7-prerelease.12
