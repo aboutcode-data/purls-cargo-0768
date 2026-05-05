@@ -13,3 +13,4 @@
 - pkg:cargo/tishlang_lsp@1.5.0
 - pkg:cargo/tishlang_lsp@1.6.0
 - pkg:cargo/tishlang_lsp@1.7.0
+- pkg:cargo/tishlang_lsp@1.9.1
