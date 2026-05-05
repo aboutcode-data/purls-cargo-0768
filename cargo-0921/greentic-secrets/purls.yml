@@ -30,3 +30,4 @@
 - pkg:cargo/greentic-secrets@0.4.6
 - pkg:cargo/greentic-secrets@0.5.0
 - pkg:cargo/greentic-secrets@0.6.0-dev.25098179817
+- pkg:cargo/greentic-secrets@1.1.0-dev.25392427112

@@ -79,3 +79,4 @@
 - pkg:cargo/greentic-interfaces-wasmtime@0.6.0-dev.24993551895
 - pkg:cargo/greentic-interfaces-wasmtime@0.6.0-dev.24998767130
 - pkg:cargo/greentic-interfaces-wasmtime@0.6.0-dev.25305070131
+- pkg:cargo/greentic-interfaces-wasmtime@1.1.0-dev.25380112032
