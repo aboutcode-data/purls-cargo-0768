@@ -1,2 +1,4 @@
 - pkg:cargo/axum-governor@1.0.2
 - pkg:cargo/axum-governor@1.0.3
+- pkg:cargo/axum-governor@2.0.0
+- pkg:cargo/axum-governor@2.0.1

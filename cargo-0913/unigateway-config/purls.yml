@@ -8,3 +8,4 @@
 - pkg:cargo/unigateway-config@1.9.0
 - pkg:cargo/unigateway-config@1.9.1
 - pkg:cargo/unigateway-config@2.0.1
+- pkg:cargo/unigateway-config@2.0.2
