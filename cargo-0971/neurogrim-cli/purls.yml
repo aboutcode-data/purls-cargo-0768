@@ -3,3 +3,4 @@
 - pkg:cargo/neurogrim-cli@3.4.0
 - pkg:cargo/neurogrim-cli@3.5.0
 - pkg:cargo/neurogrim-cli@4.0.0
+- pkg:cargo/neurogrim-cli@5.0.0

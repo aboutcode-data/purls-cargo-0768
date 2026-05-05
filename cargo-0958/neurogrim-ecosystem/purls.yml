@@ -3,3 +3,4 @@
 - pkg:cargo/neurogrim-ecosystem@3.4.0
 - pkg:cargo/neurogrim-ecosystem@3.5.0
 - pkg:cargo/neurogrim-ecosystem@4.0.0
+- pkg:cargo/neurogrim-ecosystem@5.0.0
