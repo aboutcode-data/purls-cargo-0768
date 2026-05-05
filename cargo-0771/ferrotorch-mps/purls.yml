@@ -1,1 +1,2 @@
 - pkg:cargo/ferrotorch-mps@0.4.5
+- pkg:cargo/ferrotorch-mps@0.4.6

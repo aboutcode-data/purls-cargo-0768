@@ -40,3 +40,6 @@
 - pkg:cargo/panproto-grammars@0.42.2
 - pkg:cargo/panproto-grammars@0.43.0
 - pkg:cargo/panproto-grammars@0.43.1
+- pkg:cargo/panproto-grammars@0.43.2
+- pkg:cargo/panproto-grammars@0.43.3
+- pkg:cargo/panproto-grammars@0.44.0
