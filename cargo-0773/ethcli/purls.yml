@@ -19,3 +19,4 @@
 - pkg:cargo/ethcli@0.21.6
 - pkg:cargo/ethcli@0.21.7
 - pkg:cargo/ethcli@0.21.9
+- pkg:cargo/ethcli@0.22.0

@@ -57,3 +57,4 @@
 - pkg:cargo/utoipa@5.3.0
 - pkg:cargo/utoipa@5.3.1
 - pkg:cargo/utoipa@5.4.0
+- pkg:cargo/utoipa@5.5.0

@@ -34,3 +34,4 @@
 - pkg:cargo/runtool@0.4.7
 - pkg:cargo/runtool@0.5.0
 - pkg:cargo/runtool@0.5.1
+- pkg:cargo/runtool@0.5.2
