@@ -24,3 +24,4 @@
 - pkg:cargo/compare-dir@0.6.7
 - pkg:cargo/compare-dir@0.6.8
 - pkg:cargo/compare-dir@0.6.9
+- pkg:cargo/compare-dir@0.7.0
