@@ -2,6 +2,9 @@
 - pkg:cargo/hjkl@0.10.1
 - pkg:cargo/hjkl@0.11.0
 - pkg:cargo/hjkl@0.11.1
+- pkg:cargo/hjkl@0.11.2
+- pkg:cargo/hjkl@0.11.3
+- pkg:cargo/hjkl@0.11.4
 - pkg:cargo/hjkl@0.2.0
 - pkg:cargo/hjkl@0.3.0
 - pkg:cargo/hjkl@0.3.1

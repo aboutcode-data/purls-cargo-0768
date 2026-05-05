@@ -12,3 +12,4 @@
 - pkg:cargo/datasynth-audit-fsm@4.0.1
 - pkg:cargo/datasynth-audit-fsm@4.2.1
 - pkg:cargo/datasynth-audit-fsm@4.4.3
+- pkg:cargo/datasynth-audit-fsm@5.5.0

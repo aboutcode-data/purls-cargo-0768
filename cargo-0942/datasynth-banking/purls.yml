@@ -40,3 +40,4 @@
 - pkg:cargo/datasynth-banking@4.0.1
 - pkg:cargo/datasynth-banking@4.2.1
 - pkg:cargo/datasynth-banking@4.4.3
+- pkg:cargo/datasynth-banking@5.5.0
