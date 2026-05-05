@@ -2,3 +2,4 @@
 - pkg:cargo/weave-crdt@0.2.5
 - pkg:cargo/weave-crdt@0.2.6
 - pkg:cargo/weave-crdt@0.2.8
+- pkg:cargo/weave-crdt@0.3.2
