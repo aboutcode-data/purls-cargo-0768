@@ -74,6 +74,7 @@
 - pkg:cargo/cranelift-frontend@0.123.6
 - pkg:cargo/cranelift-frontend@0.123.7
 - pkg:cargo/cranelift-frontend@0.123.8
+- pkg:cargo/cranelift-frontend@0.123.9
 - pkg:cargo/cranelift-frontend@0.124.0
 - pkg:cargo/cranelift-frontend@0.124.1
 - pkg:cargo/cranelift-frontend@0.124.2
