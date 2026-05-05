@@ -1,4 +1,5 @@
 - pkg:cargo/wp-error@0.10.0
+- pkg:cargo/wp-error@0.10.1
 - pkg:cargo/wp-error@0.7.0
 - pkg:cargo/wp-error@0.7.5
 - pkg:cargo/wp-error@0.7.6
