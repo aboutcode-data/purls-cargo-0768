@@ -8,3 +8,4 @@
 - pkg:cargo/microresolve@0.1.8
 - pkg:cargo/microresolve@0.1.9
 - pkg:cargo/microresolve@0.2.0
+- pkg:cargo/microresolve@0.2.1
