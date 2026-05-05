@@ -20,3 +20,4 @@
 - pkg:cargo/libaeron-sys@1.48.9
 - pkg:cargo/libaeron-sys@1.49.1
 - pkg:cargo/libaeron-sys@1.50.4
+- pkg:cargo/libaeron-sys@1.51.0

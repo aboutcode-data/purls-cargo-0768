@@ -2,3 +2,4 @@
 - pkg:cargo/mesh-llm-client@0.65.0
 - pkg:cargo/mesh-llm-client@0.65.0-rc1
 - pkg:cargo/mesh-llm-client@0.65.0-rc2
+- pkg:cargo/mesh-llm-client@0.65.1
