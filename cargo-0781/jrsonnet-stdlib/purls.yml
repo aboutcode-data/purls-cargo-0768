@@ -15,4 +15,5 @@
 - pkg:cargo/jrsonnet-stdlib@0.5.0-pre94
 - pkg:cargo/jrsonnet-stdlib@0.5.0-pre95
 - pkg:cargo/jrsonnet-stdlib@0.5.0-pre97
+- pkg:cargo/jrsonnet-stdlib@0.5.0-pre98
 - pkg:cargo/jrsonnet-stdlib@1.0.0
