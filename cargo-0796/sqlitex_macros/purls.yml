@@ -18,3 +18,4 @@
 - pkg:cargo/sqlitex_macros@0.2.4
 - pkg:cargo/sqlitex_macros@0.2.5
 - pkg:cargo/sqlitex_macros@0.3.0
+- pkg:cargo/sqlitex_macros@0.3.1
