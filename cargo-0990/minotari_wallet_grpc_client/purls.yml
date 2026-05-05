@@ -11,3 +11,4 @@
 - pkg:cargo/minotari_wallet_grpc_client@5.3.0-pre.9
 - pkg:cargo/minotari_wallet_grpc_client@5.3.0-rc.0
 - pkg:cargo/minotari_wallet_grpc_client@5.3.1-pre.0
+- pkg:cargo/minotari_wallet_grpc_client@5.3.1-pre.1

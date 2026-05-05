@@ -2,3 +2,4 @@
 - pkg:cargo/aprender-cuda-edge@0.30.0
 - pkg:cargo/aprender-cuda-edge@0.31.1
 - pkg:cargo/aprender-cuda-edge@0.31.2
+- pkg:cargo/aprender-cuda-edge@0.32.0
