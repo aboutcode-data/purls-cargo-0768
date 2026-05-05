@@ -10,5 +10,7 @@
 - pkg:cargo/mxr-provider-smtp@0.4.5
 - pkg:cargo/mxr-provider-smtp@0.4.6
 - pkg:cargo/mxr-provider-smtp@0.4.61
+- pkg:cargo/mxr-provider-smtp@0.4.62
+- pkg:cargo/mxr-provider-smtp@0.4.63
 - pkg:cargo/mxr-provider-smtp@0.4.8
 - pkg:cargo/mxr-provider-smtp@0.4.9

@@ -12,5 +12,7 @@
 - pkg:cargo/mxr-store@0.4.6
 - pkg:cargo/mxr-store@0.4.60
 - pkg:cargo/mxr-store@0.4.61
+- pkg:cargo/mxr-store@0.4.62
+- pkg:cargo/mxr-store@0.4.63
 - pkg:cargo/mxr-store@0.4.8
 - pkg:cargo/mxr-store@0.4.9
