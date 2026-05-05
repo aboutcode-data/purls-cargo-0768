@@ -13,3 +13,4 @@
 - pkg:cargo/cqlsh-rs@0.5.4
 - pkg:cargo/cqlsh-rs@0.5.5
 - pkg:cargo/cqlsh-rs@0.5.6
+- pkg:cargo/cqlsh-rs@0.5.7
