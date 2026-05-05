@@ -16,4 +16,6 @@
 - pkg:cargo/affinidi-messaging-mediator-common@0.12.3
 - pkg:cargo/affinidi-messaging-mediator-common@0.12.4
 - pkg:cargo/affinidi-messaging-mediator-common@0.13.0
+- pkg:cargo/affinidi-messaging-mediator-common@0.14.0
+- pkg:cargo/affinidi-messaging-mediator-common@0.15.0
 - pkg:cargo/affinidi-messaging-mediator-common@0.9.7
