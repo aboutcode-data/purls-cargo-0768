@@ -26,5 +26,6 @@
 - pkg:cargo/debian-copyright@0.1.45
 - pkg:cargo/debian-copyright@0.1.46
 - pkg:cargo/debian-copyright@0.1.47
+- pkg:cargo/debian-copyright@0.1.48
 - pkg:cargo/debian-copyright@0.1.7
 - pkg:cargo/debian-copyright@0.1.8

@@ -28,3 +28,4 @@
 - pkg:cargo/trillium@0.2.9
 - pkg:cargo/trillium@1.0.0
 - pkg:cargo/trillium@1.0.0-rc.1
+- pkg:cargo/trillium@1.1.0
