@@ -1,1 +1,2 @@
 - pkg:cargo/agent-wire-transport-cloudflare@0.1.0
+- pkg:cargo/agent-wire-transport-cloudflare@1.0.0
