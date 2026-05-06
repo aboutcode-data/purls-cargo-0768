@@ -13,6 +13,7 @@
 - pkg:cargo/motor-rs@0.13.6
 - pkg:cargo/motor-rs@0.14.0
 - pkg:cargo/motor-rs@0.14.1
+- pkg:cargo/motor-rs@0.14.2
 - pkg:cargo/motor-rs@0.4.0
 - pkg:cargo/motor-rs@0.4.1
 - pkg:cargo/motor-rs@0.4.2
