@@ -6,3 +6,4 @@
 - pkg:cargo/converge-protocol@3.7.3
 - pkg:cargo/converge-protocol@3.7.4
 - pkg:cargo/converge-protocol@3.7.6
+- pkg:cargo/converge-protocol@3.8.1

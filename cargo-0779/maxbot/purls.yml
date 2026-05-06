@@ -27,3 +27,4 @@
 - pkg:cargo/maxbot@0.6.0
 - pkg:cargo/maxbot@0.7.0
 - pkg:cargo/maxbot@0.7.1
+- pkg:cargo/maxbot@0.7.2
