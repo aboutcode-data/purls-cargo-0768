@@ -1,1 +1,2 @@
 - pkg:cargo/php-wasm@0.9.6
+- pkg:cargo/php-wasm@0.9.7
