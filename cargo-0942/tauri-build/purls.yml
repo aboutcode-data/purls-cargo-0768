@@ -112,3 +112,4 @@
 - pkg:cargo/tauri-build@2.5.5
 - pkg:cargo/tauri-build@2.5.6
 - pkg:cargo/tauri-build@2.6.0
+- pkg:cargo/tauri-build@2.6.1
