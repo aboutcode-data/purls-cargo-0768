@@ -23,6 +23,7 @@
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.4e50762
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.52f1ac1
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.5626e12
+- pkg:cargo/monaco-grpc-sdk@0.6.3-develop.593e238
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.64584b2
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.699bf76
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.6a1e783
@@ -41,6 +42,7 @@
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.bf1b9a4
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.c145a9c
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.c179ae4
+- pkg:cargo/monaco-grpc-sdk@0.6.3-develop.c8fc5f9
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.d1065ca
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.d10cda1
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.d548b08
@@ -52,4 +54,5 @@
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.f08be23
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.f500df1
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.fcde00c
+- pkg:cargo/monaco-grpc-sdk@0.6.3-develop.fe18ff4
 - pkg:cargo/monaco-grpc-sdk@0.6.3-develop.fe66fd7
