@@ -1,4 +1,5 @@
 - pkg:cargo/ui-grid-wasm@0.1.0
 - pkg:cargo/ui-grid-wasm@0.1.1
+- pkg:cargo/ui-grid-wasm@0.1.10
 - pkg:cargo/ui-grid-wasm@0.1.7
 - pkg:cargo/ui-grid-wasm@0.1.9
