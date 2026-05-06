@@ -14,3 +14,4 @@
 - pkg:cargo/ssd-benchmark@1.2.1
 - pkg:cargo/ssd-benchmark@1.2.2
 - pkg:cargo/ssd-benchmark@1.2.3
+- pkg:cargo/ssd-benchmark@1.2.4-alpha.3
