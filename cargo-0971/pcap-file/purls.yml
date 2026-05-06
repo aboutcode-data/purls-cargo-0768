@@ -12,4 +12,5 @@
 - pkg:cargo/pcap-file@1.1.1
 - pkg:cargo/pcap-file@2.0.0
 - pkg:cargo/pcap-file@2.0.0-rc1
+- pkg:cargo/pcap-file@3.0.0-rc.2
 - pkg:cargo/pcap-file@3.0.0-rc1
