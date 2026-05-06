@@ -2,3 +2,4 @@
 - pkg:cargo/google-cloud-auditmanager-v1@0.1.0
 - pkg:cargo/google-cloud-auditmanager-v1@0.1.1
 - pkg:cargo/google-cloud-auditmanager-v1@1.0.0
+- pkg:cargo/google-cloud-auditmanager-v1@1.1.0
