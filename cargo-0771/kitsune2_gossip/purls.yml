@@ -68,6 +68,7 @@
 - pkg:cargo/kitsune2_gossip@0.4.0-dev.7
 - pkg:cargo/kitsune2_gossip@0.4.0-dev.8
 - pkg:cargo/kitsune2_gossip@0.4.0-dev.9
+- pkg:cargo/kitsune2_gossip@0.4.1
 - pkg:cargo/kitsune2_gossip@0.5.0-dev.0
 - pkg:cargo/kitsune2_gossip@0.5.0-dev.1
 - pkg:cargo/kitsune2_gossip@0.5.0-dev.2
