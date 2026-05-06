@@ -25,6 +25,7 @@
 - pkg:cargo/edgequake-llm@0.6.18
 - pkg:cargo/edgequake-llm@0.6.19
 - pkg:cargo/edgequake-llm@0.6.2
+- pkg:cargo/edgequake-llm@0.6.20
 - pkg:cargo/edgequake-llm@0.6.3
 - pkg:cargo/edgequake-llm@0.6.4
 - pkg:cargo/edgequake-llm@0.6.5
