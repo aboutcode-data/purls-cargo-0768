@@ -28,4 +28,6 @@
 - pkg:cargo/cranpose-ui-graphics@0.0.60
 - pkg:cargo/cranpose-ui-graphics@0.0.61
 - pkg:cargo/cranpose-ui-graphics@0.0.62
+- pkg:cargo/cranpose-ui-graphics@0.0.63
+- pkg:cargo/cranpose-ui-graphics@0.0.64
 - pkg:cargo/cranpose-ui-graphics@0.1.0
