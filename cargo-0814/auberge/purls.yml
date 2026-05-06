@@ -8,6 +8,7 @@
 - pkg:cargo/auberge@0.10.2
 - pkg:cargo/auberge@0.10.3
 - pkg:cargo/auberge@0.10.4
+- pkg:cargo/auberge@0.11.0
 - pkg:cargo/auberge@0.2.0
 - pkg:cargo/auberge@0.3.0
 - pkg:cargo/auberge@0.3.1
