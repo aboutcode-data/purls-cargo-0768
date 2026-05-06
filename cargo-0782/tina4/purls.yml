@@ -31,6 +31,8 @@
 - pkg:cargo/tina4@3.8.19
 - pkg:cargo/tina4@3.8.2
 - pkg:cargo/tina4@3.8.20
+- pkg:cargo/tina4@3.8.21
+- pkg:cargo/tina4@3.8.22
 - pkg:cargo/tina4@3.8.3
 - pkg:cargo/tina4@3.8.5
 - pkg:cargo/tina4@3.8.6

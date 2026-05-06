@@ -12,5 +12,6 @@
 - pkg:cargo/tinywasm@0.6.1
 - pkg:cargo/tinywasm@0.7.0
 - pkg:cargo/tinywasm@0.8.0
+- pkg:cargo/tinywasm@0.9.0
 - pkg:cargo/tinywasm@0.9.0-alpha.0
 - pkg:cargo/tinywasm@0.9.0-alpha.1
