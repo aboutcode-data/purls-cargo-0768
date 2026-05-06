@@ -4,3 +4,4 @@
 - pkg:cargo/repo_path_macro@1.2.3
 - pkg:cargo/repo_path_macro@1.2.4
 - pkg:cargo/repo_path_macro@1.3.0
+- pkg:cargo/repo_path_macro@1.3.1
