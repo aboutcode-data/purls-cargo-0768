@@ -12,3 +12,4 @@
 - pkg:cargo/kermit-iters@0.0.7-dev
 - pkg:cargo/kermit-iters@0.0.8
 - pkg:cargo/kermit-iters@0.0.8-dev
+- pkg:cargo/kermit-iters@0.0.9
