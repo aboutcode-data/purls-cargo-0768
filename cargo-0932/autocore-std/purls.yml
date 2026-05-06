@@ -32,6 +32,7 @@
 - pkg:cargo/autocore-std@3.3.41
 - pkg:cargo/autocore-std@3.3.42
 - pkg:cargo/autocore-std@3.3.43
+- pkg:cargo/autocore-std@3.3.44
 - pkg:cargo/autocore-std@3.3.5
 - pkg:cargo/autocore-std@3.3.6
 - pkg:cargo/autocore-std@3.3.7
