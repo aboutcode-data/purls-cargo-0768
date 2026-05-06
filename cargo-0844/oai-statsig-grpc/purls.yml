@@ -13,5 +13,6 @@
 - pkg:cargo/oai-statsig-grpc@0.19.5-beta.2605020304
 - pkg:cargo/oai-statsig-grpc@0.19.5-beta.2605030305
 - pkg:cargo/oai-statsig-grpc@0.19.5-beta.2605040306
+- pkg:cargo/oai-statsig-grpc@0.19.5-beta.2605060306
 - pkg:cargo/oai-statsig-grpc@0.19.5-rc.2604280214
 - pkg:cargo/oai-statsig-grpc@0.19.5-rc.2605012223
