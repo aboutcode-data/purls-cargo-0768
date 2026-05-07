@@ -22,3 +22,4 @@
 - pkg:cargo/libits-client@2.0.2
 - pkg:cargo/libits-client@2.2.0
 - pkg:cargo/libits-client@3.0.0
+- pkg:cargo/libits-client@3.1.0
