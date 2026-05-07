@@ -10,3 +10,4 @@
 - pkg:cargo/servo-fetch@0.7.0
 - pkg:cargo/servo-fetch@0.7.1
 - pkg:cargo/servo-fetch@0.8.0
+- pkg:cargo/servo-fetch@0.8.1
