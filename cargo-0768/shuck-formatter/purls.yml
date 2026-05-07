@@ -25,3 +25,5 @@
 - pkg:cargo/shuck-formatter@0.0.35
 - pkg:cargo/shuck-formatter@0.0.36
 - pkg:cargo/shuck-formatter@0.0.37
+- pkg:cargo/shuck-formatter@0.0.38
+- pkg:cargo/shuck-formatter@0.0.39
