@@ -1,4 +1,5 @@
 - pkg:cargo/sc-mesh-formats@0.0.1
+- pkg:cargo/sc-mesh-formats@0.0.10
 - pkg:cargo/sc-mesh-formats@0.0.2
 - pkg:cargo/sc-mesh-formats@0.0.3
 - pkg:cargo/sc-mesh-formats@0.0.4
