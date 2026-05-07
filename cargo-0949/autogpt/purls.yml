@@ -22,3 +22,4 @@
 - pkg:cargo/autogpt@0.2.4
 - pkg:cargo/autogpt@0.2.5
 - pkg:cargo/autogpt@0.3.0
+- pkg:cargo/autogpt@0.3.1
