@@ -12,6 +12,7 @@
 - pkg:cargo/tree-sitter-perl-sqry@13.0.1
 - pkg:cargo/tree-sitter-perl-sqry@13.0.3
 - pkg:cargo/tree-sitter-perl-sqry@13.0.5
+- pkg:cargo/tree-sitter-perl-sqry@13.0.7
 - pkg:cargo/tree-sitter-perl-sqry@4.10.0
 - pkg:cargo/tree-sitter-perl-sqry@4.10.1
 - pkg:cargo/tree-sitter-perl-sqry@4.10.13
