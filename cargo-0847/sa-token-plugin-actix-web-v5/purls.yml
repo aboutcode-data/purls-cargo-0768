@@ -1,1 +1,2 @@
 - pkg:cargo/sa-token-plugin-actix-web-v5@0.0.1
+- pkg:cargo/sa-token-plugin-actix-web-v5@0.1.15
