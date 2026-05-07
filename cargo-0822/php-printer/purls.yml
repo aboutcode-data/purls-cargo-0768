@@ -14,3 +14,4 @@
 - pkg:cargo/php-printer@0.9.5
 - pkg:cargo/php-printer@0.9.6
 - pkg:cargo/php-printer@0.9.7
+- pkg:cargo/php-printer@0.9.8

@@ -28,3 +28,4 @@
 - pkg:cargo/tor-geoip@0.39.0
 - pkg:cargo/tor-geoip@0.40.0
 - pkg:cargo/tor-geoip@0.41.0
+- pkg:cargo/tor-geoip@0.42.0
