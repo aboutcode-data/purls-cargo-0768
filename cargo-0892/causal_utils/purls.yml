@@ -11,3 +11,7 @@
 - pkg:cargo/causal_utils@0.2.2
 - pkg:cargo/causal_utils@0.3.0
 - pkg:cargo/causal_utils@0.3.1
+- pkg:cargo/causal_utils@0.3.3
+- pkg:cargo/causal_utils@0.3.4
+- pkg:cargo/causal_utils@0.3.5
+- pkg:cargo/causal_utils@0.3.6

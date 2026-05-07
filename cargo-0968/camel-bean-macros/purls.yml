@@ -19,3 +19,4 @@
 - pkg:cargo/camel-bean-macros@0.7.6
 - pkg:cargo/camel-bean-macros@0.7.7
 - pkg:cargo/camel-bean-macros@0.7.8
+- pkg:cargo/camel-bean-macros@0.8.0
