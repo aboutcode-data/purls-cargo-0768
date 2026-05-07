@@ -1,3 +1,4 @@
 - pkg:cargo/rediff@0.44.0
 - pkg:cargo/rediff@0.46.0
+- pkg:cargo/rediff@0.46.1
 - pkg:cargo/rediff@1.0.0

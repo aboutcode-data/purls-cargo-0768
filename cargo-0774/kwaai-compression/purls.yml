@@ -49,7 +49,10 @@
 - pkg:cargo/kwaai-compression@0.4.26
 - pkg:cargo/kwaai-compression@0.4.27
 - pkg:cargo/kwaai-compression@0.4.28
+- pkg:cargo/kwaai-compression@0.4.29
 - pkg:cargo/kwaai-compression@0.4.3
+- pkg:cargo/kwaai-compression@0.4.30
+- pkg:cargo/kwaai-compression@0.4.31
 - pkg:cargo/kwaai-compression@0.4.4
 - pkg:cargo/kwaai-compression@0.4.6
 - pkg:cargo/kwaai-compression@0.4.7
