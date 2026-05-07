@@ -13,3 +13,4 @@
 - pkg:cargo/dwbase-storage-sled@0.2.0-dev.25305037833
 - pkg:cargo/dwbase-storage-sled@0.2.0-dev.25368582651
 - pkg:cargo/dwbase-storage-sled@1.1.0-dev.25389067284
+- pkg:cargo/dwbase-storage-sled@1.1.0-dev.25480025422
