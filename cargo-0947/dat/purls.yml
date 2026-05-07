@@ -11,3 +11,5 @@
 - pkg:cargo/dat@1.2.0
 - pkg:cargo/dat@1.3.0
 - pkg:cargo/dat@1.4.0
+- pkg:cargo/dat@1.5.0
+- pkg:cargo/dat@1.5.1
