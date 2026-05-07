@@ -1,1 +1,4 @@
 - pkg:cargo/malnet-core@0.0.1
+- pkg:cargo/malnet-core@0.0.2
+- pkg:cargo/malnet-core@0.0.21
+- pkg:cargo/malnet-core@0.0.22
