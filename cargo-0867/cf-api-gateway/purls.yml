@@ -26,3 +26,4 @@
 - pkg:cargo/cf-api-gateway@0.2.3
 - pkg:cargo/cf-api-gateway@0.2.4
 - pkg:cargo/cf-api-gateway@0.2.5
+- pkg:cargo/cf-api-gateway@0.2.6
