@@ -17,3 +17,4 @@
 - pkg:cargo/polyglot-sql-function-catalogs@0.3.4
 - pkg:cargo/polyglot-sql-function-catalogs@0.3.5
 - pkg:cargo/polyglot-sql-function-catalogs@0.3.6
+- pkg:cargo/polyglot-sql-function-catalogs@0.3.7
