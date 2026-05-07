@@ -11,3 +11,4 @@
 - pkg:cargo/feature-manifest@0.7.4
 - pkg:cargo/feature-manifest@0.7.5
 - pkg:cargo/feature-manifest@0.7.6
+- pkg:cargo/feature-manifest@0.7.7

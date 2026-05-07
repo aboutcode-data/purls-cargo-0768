@@ -23,3 +23,5 @@
 - pkg:cargo/shuck-cache@0.0.33
 - pkg:cargo/shuck-cache@0.0.34
 - pkg:cargo/shuck-cache@0.0.35
+- pkg:cargo/shuck-cache@0.0.36
+- pkg:cargo/shuck-cache@0.0.37
