@@ -8,3 +8,4 @@
 - pkg:cargo/opentalk-roomserver-module-raise-hands@0.0.34
 - pkg:cargo/opentalk-roomserver-module-raise-hands@0.0.34-alpha
 - pkg:cargo/opentalk-roomserver-module-raise-hands@0.0.35
+- pkg:cargo/opentalk-roomserver-module-raise-hands@0.0.36
