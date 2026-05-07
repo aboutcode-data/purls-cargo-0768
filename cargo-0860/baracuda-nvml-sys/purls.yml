@@ -2,3 +2,4 @@
 - pkg:cargo/baracuda-nvml-sys@0.0.1-alpha.3
 - pkg:cargo/baracuda-nvml-sys@0.0.1-alpha.4
 - pkg:cargo/baracuda-nvml-sys@0.0.1-alpha.5
+- pkg:cargo/baracuda-nvml-sys@0.0.1-alpha.6
