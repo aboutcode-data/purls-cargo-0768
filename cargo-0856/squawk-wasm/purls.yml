@@ -24,3 +24,4 @@
 - pkg:cargo/squawk-wasm@2.48.0
 - pkg:cargo/squawk-wasm@2.49.0
 - pkg:cargo/squawk-wasm@2.50.0
+- pkg:cargo/squawk-wasm@2.51.0
