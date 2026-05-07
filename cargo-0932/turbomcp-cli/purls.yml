@@ -74,3 +74,4 @@
 - pkg:cargo/turbomcp-cli@3.1.0
 - pkg:cargo/turbomcp-cli@3.1.1
 - pkg:cargo/turbomcp-cli@3.1.2
+- pkg:cargo/turbomcp-cli@3.1.3

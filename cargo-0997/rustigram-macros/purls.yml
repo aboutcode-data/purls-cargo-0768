@@ -4,3 +4,4 @@
 - pkg:cargo/rustigram-macros@0.9.3
 - pkg:cargo/rustigram-macros@0.9.5
 - pkg:cargo/rustigram-macros@0.9.6
+- pkg:cargo/rustigram-macros@0.9.7

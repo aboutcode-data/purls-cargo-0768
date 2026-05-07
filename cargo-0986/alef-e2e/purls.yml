@@ -43,6 +43,9 @@
 - pkg:cargo/alef-e2e@0.13.4
 - pkg:cargo/alef-e2e@0.13.5
 - pkg:cargo/alef-e2e@0.13.6
+- pkg:cargo/alef-e2e@0.14.26
+- pkg:cargo/alef-e2e@0.14.27
+- pkg:cargo/alef-e2e@0.14.28
 - pkg:cargo/alef-e2e@0.2.0
 - pkg:cargo/alef-e2e@0.3.0
 - pkg:cargo/alef-e2e@0.3.1
