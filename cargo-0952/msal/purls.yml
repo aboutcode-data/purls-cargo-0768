@@ -32,3 +32,4 @@
 - pkg:cargo/msal@0.2.6
 - pkg:cargo/msal@0.2.7
 - pkg:cargo/msal@0.5.5
+- pkg:cargo/msal@0.8.19
