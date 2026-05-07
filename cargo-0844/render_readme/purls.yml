@@ -3,5 +3,6 @@
 - pkg:cargo/render_readme@0.13.0
 - pkg:cargo/render_readme@0.14.0
 - pkg:cargo/render_readme@0.15.0
+- pkg:cargo/render_readme@0.15.7
 - pkg:cargo/render_readme@0.7.4
 - pkg:cargo/render_readme@0.7.5
