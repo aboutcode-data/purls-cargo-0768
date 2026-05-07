@@ -1,2 +1,3 @@
 - pkg:cargo/canic-host@0.31.2
 - pkg:cargo/canic-host@0.32.0
+- pkg:cargo/canic-host@0.32.3
