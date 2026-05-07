@@ -1,0 +1,2 @@
+- pkg:cargo/ntex-httparse@1.10.1
+- pkg:cargo/ntex-httparse@1.10.2
