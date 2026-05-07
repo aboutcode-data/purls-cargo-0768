@@ -9,3 +9,4 @@
 - pkg:cargo/meerkat-runtime@0.5.1
 - pkg:cargo/meerkat-runtime@0.5.2
 - pkg:cargo/meerkat-runtime@0.6.0
+- pkg:cargo/meerkat-runtime@0.6.1
