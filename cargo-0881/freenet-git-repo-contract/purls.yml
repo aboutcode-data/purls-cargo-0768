@@ -2,4 +2,6 @@
 - pkg:cargo/freenet-git-repo-contract@0.1.11
 - pkg:cargo/freenet-git-repo-contract@0.1.12
 - pkg:cargo/freenet-git-repo-contract@0.1.13
+- pkg:cargo/freenet-git-repo-contract@0.1.14
+- pkg:cargo/freenet-git-repo-contract@0.1.15
 - pkg:cargo/freenet-git-repo-contract@0.1.9
