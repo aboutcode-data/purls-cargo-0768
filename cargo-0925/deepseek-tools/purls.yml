@@ -17,6 +17,7 @@
 - pkg:cargo/deepseek-tools@0.8.17
 - pkg:cargo/deepseek-tools@0.8.18
 - pkg:cargo/deepseek-tools@0.8.2
+- pkg:cargo/deepseek-tools@0.8.20
 - pkg:cargo/deepseek-tools@0.8.3
 - pkg:cargo/deepseek-tools@0.8.4
 - pkg:cargo/deepseek-tools@0.8.7
