@@ -1,3 +1,4 @@
 - pkg:cargo/openzl-sys@0.1.0%2Bopenzl.0.1.0
 - pkg:cargo/openzl-sys@0.1.1%2Bopenzl.0.1.0
 - pkg:cargo/openzl-sys@0.1.2%2Bopenzl.0.1.0
+- pkg:cargo/openzl-sys@0.2.0%2Bopenzl.0.2.0
