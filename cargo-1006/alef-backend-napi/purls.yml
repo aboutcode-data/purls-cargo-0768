@@ -54,6 +54,8 @@
 - pkg:cargo/alef-backend-napi@0.14.34
 - pkg:cargo/alef-backend-napi@0.14.35
 - pkg:cargo/alef-backend-napi@0.14.36
+- pkg:cargo/alef-backend-napi@0.15.0
+- pkg:cargo/alef-backend-napi@0.15.1
 - pkg:cargo/alef-backend-napi@0.2.0
 - pkg:cargo/alef-backend-napi@0.3.0
 - pkg:cargo/alef-backend-napi@0.3.1

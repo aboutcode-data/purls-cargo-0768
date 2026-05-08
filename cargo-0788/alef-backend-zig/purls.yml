@@ -47,3 +47,4 @@
 - pkg:cargo/alef-backend-zig@0.14.34
 - pkg:cargo/alef-backend-zig@0.14.35
 - pkg:cargo/alef-backend-zig@0.14.36
+- pkg:cargo/alef-backend-zig@0.15.1

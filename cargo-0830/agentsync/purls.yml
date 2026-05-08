@@ -49,6 +49,7 @@
 - pkg:cargo/agentsync@1.42.8
 - pkg:cargo/agentsync@1.42.9
 - pkg:cargo/agentsync@1.45.0
+- pkg:cargo/agentsync@1.45.1
 - pkg:cargo/agentsync@1.8.0
 - pkg:cargo/agentsync@1.8.1
 - pkg:cargo/agentsync@1.8.2
