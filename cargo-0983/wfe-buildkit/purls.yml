@@ -1,1 +1,2 @@
 - pkg:cargo/wfe-buildkit@1.9.1
+- pkg:cargo/wfe-buildkit@1.9.2
