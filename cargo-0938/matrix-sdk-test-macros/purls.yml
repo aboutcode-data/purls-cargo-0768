@@ -6,6 +6,7 @@
 - pkg:cargo/matrix-sdk-test-macros@0.14.0
 - pkg:cargo/matrix-sdk-test-macros@0.15.0
 - pkg:cargo/matrix-sdk-test-macros@0.16.0
+- pkg:cargo/matrix-sdk-test-macros@0.17.0
 - pkg:cargo/matrix-sdk-test-macros@0.2.0
 - pkg:cargo/matrix-sdk-test-macros@0.3.0
 - pkg:cargo/matrix-sdk-test-macros@0.7.0
