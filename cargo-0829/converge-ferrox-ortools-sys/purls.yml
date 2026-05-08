@@ -1,1 +1,2 @@
 - pkg:cargo/converge-ferrox-ortools-sys@0.4.1
+- pkg:cargo/converge-ferrox-ortools-sys@0.5.0
