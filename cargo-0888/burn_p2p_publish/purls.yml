@@ -1,3 +1,4 @@
+- pkg:cargo/burn_p2p_publish@0.21.0
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.10
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.11
 - pkg:cargo/burn_p2p_publish@0.21.0-pre.12
