@@ -20,3 +20,4 @@
 - pkg:cargo/camel-component-container@0.7.8
 - pkg:cargo/camel-component-container@0.8.0
 - pkg:cargo/camel-component-container@0.8.1
+- pkg:cargo/camel-component-container@0.8.2

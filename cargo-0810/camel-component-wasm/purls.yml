@@ -1,1 +1,2 @@
 - pkg:cargo/camel-component-wasm@0.8.1
+- pkg:cargo/camel-component-wasm@0.8.2
