@@ -10,3 +10,4 @@
 - pkg:cargo/nodedb-raft@0.0.5
 - pkg:cargo/nodedb-raft@0.0.6
 - pkg:cargo/nodedb-raft@0.1.0
+- pkg:cargo/nodedb-raft@0.1.1

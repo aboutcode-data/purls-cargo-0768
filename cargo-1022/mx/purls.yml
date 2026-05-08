@@ -44,7 +44,12 @@
 - pkg:cargo/mx@0.1.144
 - pkg:cargo/mx@0.1.146
 - pkg:cargo/mx@0.1.147
+- pkg:cargo/mx@0.1.148
+- pkg:cargo/mx@0.1.149
 - pkg:cargo/mx@0.1.15
+- pkg:cargo/mx@0.1.150
+- pkg:cargo/mx@0.1.151
+- pkg:cargo/mx@0.1.152
 - pkg:cargo/mx@0.1.16
 - pkg:cargo/mx@0.1.17
 - pkg:cargo/mx@0.1.18
