@@ -1,1 +1,2 @@
 - pkg:cargo/stormchaser-runner-k8s@0.1.0
+- pkg:cargo/stormchaser-runner-k8s@1.3.0

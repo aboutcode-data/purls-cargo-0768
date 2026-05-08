@@ -14,3 +14,4 @@
 - pkg:cargo/onerom-wasm@0.3.5
 - pkg:cargo/onerom-wasm@0.3.6
 - pkg:cargo/onerom-wasm@0.3.7
+- pkg:cargo/onerom-wasm@0.3.8
