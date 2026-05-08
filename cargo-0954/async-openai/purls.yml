@@ -96,6 +96,7 @@
 - pkg:cargo/async-openai@0.36.0
 - pkg:cargo/async-openai@0.36.1
 - pkg:cargo/async-openai@0.37.0
+- pkg:cargo/async-openai@0.38.0
 - pkg:cargo/async-openai@0.4.0
 - pkg:cargo/async-openai@0.5.0
 - pkg:cargo/async-openai@0.6.0
