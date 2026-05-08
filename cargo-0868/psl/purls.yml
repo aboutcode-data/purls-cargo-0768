@@ -244,6 +244,7 @@
 - pkg:cargo/psl@2.1.205
 - pkg:cargo/psl@2.1.206
 - pkg:cargo/psl@2.1.207
+- pkg:cargo/psl@2.1.208
 - pkg:cargo/psl@2.1.21
 - pkg:cargo/psl@2.1.22
 - pkg:cargo/psl@2.1.23
