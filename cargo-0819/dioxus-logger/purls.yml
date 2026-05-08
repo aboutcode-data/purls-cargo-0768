@@ -26,3 +26,5 @@
 - pkg:cargo/dioxus-logger@0.7.4
 - pkg:cargo/dioxus-logger@0.7.6
 - pkg:cargo/dioxus-logger@0.7.7
+- pkg:cargo/dioxus-logger@0.7.8
+- pkg:cargo/dioxus-logger@0.7.9
