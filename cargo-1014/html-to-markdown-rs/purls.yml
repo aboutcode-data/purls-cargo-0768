@@ -140,6 +140,8 @@
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.37
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.38
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.39
+- pkg:cargo/html-to-markdown-rs@3.4.0-rc.40
+- pkg:cargo/html-to-markdown-rs@3.4.0-rc.41
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.7
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.8
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.9
