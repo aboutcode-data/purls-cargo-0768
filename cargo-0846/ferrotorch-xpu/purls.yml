@@ -5,3 +5,4 @@
 - pkg:cargo/ferrotorch-xpu@0.4.5
 - pkg:cargo/ferrotorch-xpu@0.4.6
 - pkg:cargo/ferrotorch-xpu@0.4.7
+- pkg:cargo/ferrotorch-xpu@0.5.0
