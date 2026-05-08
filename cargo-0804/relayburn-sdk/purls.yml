@@ -5,3 +5,6 @@
 - pkg:cargo/relayburn-sdk@2.3.0
 - pkg:cargo/relayburn-sdk@2.4.0
 - pkg:cargo/relayburn-sdk@2.5.0
+- pkg:cargo/relayburn-sdk@2.5.1
+- pkg:cargo/relayburn-sdk@2.5.2
+- pkg:cargo/relayburn-sdk@2.6.0

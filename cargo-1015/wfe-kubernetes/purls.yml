@@ -1,2 +1,3 @@
 - pkg:cargo/wfe-kubernetes@1.9.1
 - pkg:cargo/wfe-kubernetes@1.9.2
+- pkg:cargo/wfe-kubernetes@1.9.3
