@@ -14,5 +14,6 @@
 - pkg:cargo/ktstr@0.4.14
 - pkg:cargo/ktstr@0.4.15
 - pkg:cargo/ktstr@0.4.16
+- pkg:cargo/ktstr@0.4.19
 - pkg:cargo/ktstr@0.4.2
 - pkg:cargo/ktstr@0.4.9
