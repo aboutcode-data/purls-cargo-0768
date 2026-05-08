@@ -1,3 +1,4 @@
+- pkg:cargo/rsigma-runtime@0.10.0
 - pkg:cargo/rsigma-runtime@0.7.0
 - pkg:cargo/rsigma-runtime@0.8.0
 - pkg:cargo/rsigma-runtime@0.8.1
