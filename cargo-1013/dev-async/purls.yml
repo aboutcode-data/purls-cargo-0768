@@ -1,1 +1,2 @@
 - pkg:cargo/dev-async@0.1.0
+- pkg:cargo/dev-async@0.9.0
