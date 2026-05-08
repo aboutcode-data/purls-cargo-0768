@@ -18,6 +18,7 @@
 - pkg:cargo/mq-lsp@0.5.26
 - pkg:cargo/mq-lsp@0.5.27
 - pkg:cargo/mq-lsp@0.5.28
+- pkg:cargo/mq-lsp@0.5.29
 - pkg:cargo/mq-lsp@0.5.3
 - pkg:cargo/mq-lsp@0.5.4
 - pkg:cargo/mq-lsp@0.5.5
