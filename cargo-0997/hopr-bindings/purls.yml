@@ -1,2 +1,3 @@
 - pkg:cargo/hopr-bindings@4.7.2
 - pkg:cargo/hopr-bindings@4.7.3
+- pkg:cargo/hopr-bindings@4.8.0
