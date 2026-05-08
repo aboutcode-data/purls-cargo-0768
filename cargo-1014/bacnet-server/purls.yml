@@ -12,3 +12,4 @@
 - pkg:cargo/bacnet-server@0.7.0
 - pkg:cargo/bacnet-server@0.7.1
 - pkg:cargo/bacnet-server@0.8.0
+- pkg:cargo/bacnet-server@0.8.1
