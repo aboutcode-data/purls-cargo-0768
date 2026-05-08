@@ -16,3 +16,4 @@
 - pkg:cargo/ferrotorch-gpu@0.4.5
 - pkg:cargo/ferrotorch-gpu@0.4.6
 - pkg:cargo/ferrotorch-gpu@0.4.7
+- pkg:cargo/ferrotorch-gpu@0.5.0
