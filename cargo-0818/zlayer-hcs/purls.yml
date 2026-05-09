@@ -7,6 +7,8 @@
 - pkg:cargo/zlayer-hcs@0.11.13
 - pkg:cargo/zlayer-hcs@0.11.14
 - pkg:cargo/zlayer-hcs@0.11.15
+- pkg:cargo/zlayer-hcs@0.11.16
+- pkg:cargo/zlayer-hcs@0.11.17
 - pkg:cargo/zlayer-hcs@0.11.2
 - pkg:cargo/zlayer-hcs@0.11.3
 - pkg:cargo/zlayer-hcs@0.11.4
