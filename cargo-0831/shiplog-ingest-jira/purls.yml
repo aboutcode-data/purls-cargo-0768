@@ -1,1 +1,2 @@
 - pkg:cargo/shiplog-ingest-jira@0.3.0
+- pkg:cargo/shiplog-ingest-jira@0.4.0
