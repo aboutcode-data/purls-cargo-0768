@@ -40,6 +40,7 @@
 - pkg:cargo/algocline@0.31.2
 - pkg:cargo/algocline@0.32.0
 - pkg:cargo/algocline@0.33.0
+- pkg:cargo/algocline@0.33.1
 - pkg:cargo/algocline@0.4.0
 - pkg:cargo/algocline@0.5.0
 - pkg:cargo/algocline@0.6.0
