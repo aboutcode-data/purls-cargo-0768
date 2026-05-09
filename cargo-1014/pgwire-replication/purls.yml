@@ -4,3 +4,4 @@
 - pkg:cargo/pgwire-replication@0.2.0
 - pkg:cargo/pgwire-replication@0.3.0
 - pkg:cargo/pgwire-replication@0.3.1
+- pkg:cargo/pgwire-replication@0.3.2
