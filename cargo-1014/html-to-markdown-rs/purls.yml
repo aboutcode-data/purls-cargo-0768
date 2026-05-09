@@ -113,6 +113,7 @@
 - pkg:cargo/html-to-markdown-rs@3.3.1
 - pkg:cargo/html-to-markdown-rs@3.3.2
 - pkg:cargo/html-to-markdown-rs@3.3.3
+- pkg:cargo/html-to-markdown-rs@3.4.0
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.1
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.11
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.12
@@ -145,6 +146,7 @@
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.42
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.43
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.44
+- pkg:cargo/html-to-markdown-rs@3.4.0-rc.45
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.7
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.8
 - pkg:cargo/html-to-markdown-rs@3.4.0-rc.9
