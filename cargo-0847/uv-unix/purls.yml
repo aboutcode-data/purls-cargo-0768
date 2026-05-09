@@ -28,3 +28,4 @@
 - pkg:cargo/uv-unix@0.0.42
 - pkg:cargo/uv-unix@0.0.43
 - pkg:cargo/uv-unix@0.0.44
+- pkg:cargo/uv-unix@0.0.45

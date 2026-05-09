@@ -1,1 +1,2 @@
 - pkg:cargo/golem-ai-embed-cohere@0.5.0
+- pkg:cargo/golem-ai-embed-cohere@0.5.1

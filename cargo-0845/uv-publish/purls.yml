@@ -35,6 +35,7 @@
 - pkg:cargo/uv-publish@0.0.40
 - pkg:cargo/uv-publish@0.0.41
 - pkg:cargo/uv-publish@0.0.44
+- pkg:cargo/uv-publish@0.0.45
 - pkg:cargo/uv-publish@0.0.5
 - pkg:cargo/uv-publish@0.0.6
 - pkg:cargo/uv-publish@0.0.7
