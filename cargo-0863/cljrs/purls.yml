@@ -14,4 +14,6 @@
 - pkg:cargo/cljrs@0.1.28
 - pkg:cargo/cljrs@0.1.29
 - pkg:cargo/cljrs@0.1.39
+- pkg:cargo/cljrs@0.1.40
+- pkg:cargo/cljrs@0.1.42
 - pkg:cargo/cljrs@0.1.7
