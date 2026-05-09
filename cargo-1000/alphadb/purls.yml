@@ -19,6 +19,10 @@
 - pkg:cargo/alphadb@1.0.0-beta.42
 - pkg:cargo/alphadb@1.0.0-beta.43
 - pkg:cargo/alphadb@1.0.0-beta.44
+- pkg:cargo/alphadb@1.0.0-beta.45
+- pkg:cargo/alphadb@1.0.0-beta.46
+- pkg:cargo/alphadb@1.0.0-beta.47
+- pkg:cargo/alphadb@1.0.0-beta.48
 - pkg:cargo/alphadb@1.0.0-dev.100
 - pkg:cargo/alphadb@1.0.0-dev.147
 - pkg:cargo/alphadb@1.0.0-dev.17
