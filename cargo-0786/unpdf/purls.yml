@@ -12,3 +12,6 @@
 - pkg:cargo/unpdf@0.4.4
 - pkg:cargo/unpdf@0.4.5
 - pkg:cargo/unpdf@0.4.6
+- pkg:cargo/unpdf@0.6.0
+- pkg:cargo/unpdf@0.6.1
+- pkg:cargo/unpdf@0.6.2
