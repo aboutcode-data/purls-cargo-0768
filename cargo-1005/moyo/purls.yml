@@ -44,3 +44,4 @@
 - pkg:cargo/moyo@0.7.8
 - pkg:cargo/moyo@0.7.9
 - pkg:cargo/moyo@0.8.0
+- pkg:cargo/moyo@0.9.0

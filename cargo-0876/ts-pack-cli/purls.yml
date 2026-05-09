@@ -36,6 +36,7 @@
 - pkg:cargo/ts-pack-cli@1.8.0-rc.40
 - pkg:cargo/ts-pack-cli@1.8.0-rc.41
 - pkg:cargo/ts-pack-cli@1.8.0-rc.42
+- pkg:cargo/ts-pack-cli@1.8.0-rc.43
 - pkg:cargo/ts-pack-cli@1.8.0-rc.5
 - pkg:cargo/ts-pack-cli@1.8.0-rc.6
 - pkg:cargo/ts-pack-cli@1.8.0-rc.7
