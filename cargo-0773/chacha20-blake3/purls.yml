@@ -1,1 +1,2 @@
 - pkg:cargo/chacha20-blake3@0.9.11
+- pkg:cargo/chacha20-blake3@0.9.12
