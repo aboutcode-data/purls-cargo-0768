@@ -4,6 +4,7 @@
 - pkg:cargo/dear-app@0.10.3
 - pkg:cargo/dear-app@0.10.4
 - pkg:cargo/dear-app@0.11.0
+- pkg:cargo/dear-app@0.12.0
 - pkg:cargo/dear-app@0.3.0
 - pkg:cargo/dear-app@0.4.0
 - pkg:cargo/dear-app@0.4.1

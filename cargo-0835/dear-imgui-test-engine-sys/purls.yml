@@ -3,3 +3,4 @@
 - pkg:cargo/dear-imgui-test-engine-sys@0.10.3
 - pkg:cargo/dear-imgui-test-engine-sys@0.10.4
 - pkg:cargo/dear-imgui-test-engine-sys@0.11.0
+- pkg:cargo/dear-imgui-test-engine-sys@0.12.0
