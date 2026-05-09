@@ -3,3 +3,6 @@
 - pkg:cargo/r_log@0.1.2
 - pkg:cargo/r_log@0.2.2
 - pkg:cargo/r_log@0.2.3
+- pkg:cargo/r_log@0.3.3
+- pkg:cargo/r_log@0.3.4
+- pkg:cargo/r_log@0.3.5
