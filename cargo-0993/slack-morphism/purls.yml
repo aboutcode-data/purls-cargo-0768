@@ -106,6 +106,7 @@
 - pkg:cargo/slack-morphism@2.19.0
 - pkg:cargo/slack-morphism@2.2.0
 - pkg:cargo/slack-morphism@2.20.0
+- pkg:cargo/slack-morphism@2.21.0
 - pkg:cargo/slack-morphism@2.3.0
 - pkg:cargo/slack-morphism@2.3.1
 - pkg:cargo/slack-morphism@2.3.2
