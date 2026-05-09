@@ -1,3 +1,4 @@
 - pkg:cargo/higher-graphen-runtime@0.2.1
 - pkg:cargo/higher-graphen-runtime@0.3.0
 - pkg:cargo/higher-graphen-runtime@0.4.0
+- pkg:cargo/higher-graphen-runtime@0.4.1
