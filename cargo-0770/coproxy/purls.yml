@@ -3,3 +3,4 @@
 - pkg:cargo/coproxy@0.1.2
 - pkg:cargo/coproxy@0.2.0
 - pkg:cargo/coproxy@0.4.0
+- pkg:cargo/coproxy@0.5.0

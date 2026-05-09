@@ -32,3 +32,4 @@
 - pkg:cargo/facet-jsonschema@0.23.8
 - pkg:cargo/facet-jsonschema@0.23.9
 - pkg:cargo/facet-jsonschema@0.28.0
+- pkg:cargo/facet-jsonschema@0.46.0
