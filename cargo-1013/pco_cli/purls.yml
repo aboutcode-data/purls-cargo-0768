@@ -8,3 +8,4 @@
 - pkg:cargo/pco_cli@0.4.2
 - pkg:cargo/pco_cli@0.4.3
 - pkg:cargo/pco_cli@1.0.0
+- pkg:cargo/pco_cli@1.0.1
