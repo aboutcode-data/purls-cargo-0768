@@ -9,3 +9,5 @@
 - pkg:cargo/canic-host@0.33.2
 - pkg:cargo/canic-host@0.33.3
 - pkg:cargo/canic-host@0.33.4
+- pkg:cargo/canic-host@0.33.5
+- pkg:cargo/canic-host@0.33.6
