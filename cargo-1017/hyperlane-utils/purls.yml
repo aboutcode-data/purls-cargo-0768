@@ -239,6 +239,9 @@
 - pkg:cargo/hyperlane-utils@30.2.0
 - pkg:cargo/hyperlane-utils@30.2.1
 - pkg:cargo/hyperlane-utils@30.2.2
+- pkg:cargo/hyperlane-utils@30.2.3
+- pkg:cargo/hyperlane-utils@30.2.4
+- pkg:cargo/hyperlane-utils@30.2.5
 - pkg:cargo/hyperlane-utils@4.0.0
 - pkg:cargo/hyperlane-utils@4.0.1
 - pkg:cargo/hyperlane-utils@4.0.2
