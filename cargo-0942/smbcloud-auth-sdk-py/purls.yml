@@ -1,2 +1,3 @@
 - pkg:cargo/smbcloud-auth-sdk-py@0.3.39
 - pkg:cargo/smbcloud-auth-sdk-py@0.3.41
+- pkg:cargo/smbcloud-auth-sdk-py@0.4.0
