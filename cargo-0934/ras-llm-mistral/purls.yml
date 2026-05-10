@@ -5,3 +5,4 @@
 - pkg:cargo/ras-llm-mistral@2.4.0
 - pkg:cargo/ras-llm-mistral@2.5.0
 - pkg:cargo/ras-llm-mistral@2.6.0
+- pkg:cargo/ras-llm-mistral@2.7.0
