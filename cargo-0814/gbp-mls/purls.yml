@@ -1,4 +1,8 @@
 - pkg:cargo/gbp-mls@0.2.0
 - pkg:cargo/gbp-mls@0.2.1
+- pkg:cargo/gbp-mls@1.0.0
 - pkg:cargo/gbp-mls@1.0.0-rc1
 - pkg:cargo/gbp-mls@1.0.0-rc3
+- pkg:cargo/gbp-mls@1.0.0-rc4
+- pkg:cargo/gbp-mls@1.0.1
+- pkg:cargo/gbp-mls@1.1.0

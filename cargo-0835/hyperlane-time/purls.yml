@@ -35,6 +35,7 @@
 - pkg:cargo/hyperlane-time@0.7.20
 - pkg:cargo/hyperlane-time@0.7.21
 - pkg:cargo/hyperlane-time@0.7.22
+- pkg:cargo/hyperlane-time@0.7.23
 - pkg:cargo/hyperlane-time@0.7.3
 - pkg:cargo/hyperlane-time@0.7.4
 - pkg:cargo/hyperlane-time@0.7.5
