@@ -14,3 +14,4 @@
 - pkg:cargo/esp-csi-rs@0.5.1
 - pkg:cargo/esp-csi-rs@0.5.11
 - pkg:cargo/esp-csi-rs@0.6.0
+- pkg:cargo/esp-csi-rs@0.6.1
