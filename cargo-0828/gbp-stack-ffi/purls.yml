@@ -1,0 +1,4 @@
+- pkg:cargo/gbp-stack-ffi@0.2.0
+- pkg:cargo/gbp-stack-ffi@0.2.1
+- pkg:cargo/gbp-stack-ffi@1.0.0-rc1
+- pkg:cargo/gbp-stack-ffi@1.0.0-rc3
