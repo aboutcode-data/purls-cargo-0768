@@ -205,3 +205,4 @@
 - pkg:cargo/tcplane@7.0.0
 - pkg:cargo/tcplane@8.0.0
 - pkg:cargo/tcplane@8.1.0
+- pkg:cargo/tcplane@8.1.1

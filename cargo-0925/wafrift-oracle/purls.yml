@@ -1,2 +1,4 @@
 - pkg:cargo/wafrift-oracle@0.2.0
 - pkg:cargo/wafrift-oracle@0.2.2
+- pkg:cargo/wafrift-oracle@0.2.3
+- pkg:cargo/wafrift-oracle@0.2.4
