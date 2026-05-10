@@ -1,0 +1,4 @@
+- pkg:cargo/wasm-smtp-wasi@0.12.0
+- pkg:cargo/wasm-smtp-wasi@0.13.0
+- pkg:cargo/wasm-smtp-wasi@0.14.0
+- pkg:cargo/wasm-smtp-wasi@0.15.0
