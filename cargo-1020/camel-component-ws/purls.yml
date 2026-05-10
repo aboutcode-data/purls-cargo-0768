@@ -16,3 +16,4 @@
 - pkg:cargo/camel-component-ws@0.7.8
 - pkg:cargo/camel-component-ws@0.8.1
 - pkg:cargo/camel-component-ws@0.8.2
+- pkg:cargo/camel-component-ws@0.9.0
