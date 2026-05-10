@@ -189,3 +189,4 @@
 - pkg:cargo/harn-lexer@0.8.2
 - pkg:cargo/harn-lexer@0.8.3
 - pkg:cargo/harn-lexer@0.8.4
+- pkg:cargo/harn-lexer@0.8.5

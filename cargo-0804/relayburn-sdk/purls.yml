@@ -13,3 +13,7 @@
 - pkg:cargo/relayburn-sdk@2.7.1
 - pkg:cargo/relayburn-sdk@2.7.2
 - pkg:cargo/relayburn-sdk@2.7.3
+- pkg:cargo/relayburn-sdk@2.7.4
+- pkg:cargo/relayburn-sdk@2.7.5
+- pkg:cargo/relayburn-sdk@2.7.6
+- pkg:cargo/relayburn-sdk@2.8.0
