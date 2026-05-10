@@ -16,6 +16,7 @@
 - pkg:cargo/sqry-daemon@13.0.3
 - pkg:cargo/sqry-daemon@13.0.5
 - pkg:cargo/sqry-daemon@13.0.7
+- pkg:cargo/sqry-daemon@14.0.3
 - pkg:cargo/sqry-daemon@9.0.11
 - pkg:cargo/sqry-daemon@9.0.12
 - pkg:cargo/sqry-daemon@9.0.16

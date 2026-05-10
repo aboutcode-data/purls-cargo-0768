@@ -16,6 +16,7 @@
 - pkg:cargo/sqry-db@13.0.3
 - pkg:cargo/sqry-db@13.0.5
 - pkg:cargo/sqry-db@13.0.7
+- pkg:cargo/sqry-db@14.0.3
 - pkg:cargo/sqry-db@9.0.1
 - pkg:cargo/sqry-db@9.0.11
 - pkg:cargo/sqry-db@9.0.12
