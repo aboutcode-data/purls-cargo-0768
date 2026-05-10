@@ -8,3 +8,4 @@
 - pkg:cargo/treegrep@1.2.0
 - pkg:cargo/treegrep@1.2.1
 - pkg:cargo/treegrep@1.3.0
+- pkg:cargo/treegrep@2.0.0
