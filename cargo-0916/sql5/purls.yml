@@ -3,3 +3,5 @@
 - pkg:cargo/sql5@3.4.0
 - pkg:cargo/sql5@3.5.0
 - pkg:cargo/sql5@3.6.0
+- pkg:cargo/sql5@3.7.0
+- pkg:cargo/sql5@3.7.1
