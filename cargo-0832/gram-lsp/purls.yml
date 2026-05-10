@@ -1,3 +1,4 @@
+- pkg:cargo/gram-lsp@0.3.10
 - pkg:cargo/gram-lsp@0.3.6
 - pkg:cargo/gram-lsp@0.3.7
 - pkg:cargo/gram-lsp@0.3.9
