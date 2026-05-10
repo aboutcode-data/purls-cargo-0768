@@ -42,6 +42,7 @@
 - pkg:cargo/tinymist-query@0.14.14-rc1
 - pkg:cargo/tinymist-query@0.14.16
 - pkg:cargo/tinymist-query@0.14.16-rc1
+- pkg:cargo/tinymist-query@0.14.18-rc1
 - pkg:cargo/tinymist-query@0.14.2
 - pkg:cargo/tinymist-query@0.14.2-rc1
 - pkg:cargo/tinymist-query@0.14.4
