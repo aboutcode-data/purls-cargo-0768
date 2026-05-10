@@ -4,3 +4,4 @@
 - pkg:cargo/packr-guest-macros@0.5.2
 - pkg:cargo/packr-guest-macros@0.5.3
 - pkg:cargo/packr-guest-macros@0.5.4
+- pkg:cargo/packr-guest-macros@0.5.5
