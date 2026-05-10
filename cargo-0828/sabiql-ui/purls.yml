@@ -1,3 +1,4 @@
 - pkg:cargo/sabiql-ui@1.11.1
 - pkg:cargo/sabiql-ui@1.12.0
 - pkg:cargo/sabiql-ui@1.12.1
+- pkg:cargo/sabiql-ui@1.12.2

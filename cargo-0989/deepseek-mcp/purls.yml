@@ -24,6 +24,7 @@
 - pkg:cargo/deepseek-mcp@0.8.24
 - pkg:cargo/deepseek-mcp@0.8.25
 - pkg:cargo/deepseek-mcp@0.8.26
+- pkg:cargo/deepseek-mcp@0.8.27
 - pkg:cargo/deepseek-mcp@0.8.3
 - pkg:cargo/deepseek-mcp@0.8.4
 - pkg:cargo/deepseek-mcp@0.8.7
