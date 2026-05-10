@@ -7,3 +7,7 @@
 - pkg:cargo/veles-grpc@0.2.1
 - pkg:cargo/veles-grpc@0.2.2
 - pkg:cargo/veles-grpc@0.2.3
+- pkg:cargo/veles-grpc@0.3.0
+- pkg:cargo/veles-grpc@0.3.1
+- pkg:cargo/veles-grpc@0.4.0
+- pkg:cargo/veles-grpc@0.4.1
