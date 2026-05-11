@@ -10,3 +10,4 @@
 - pkg:cargo/fsmon@0.2.3
 - pkg:cargo/fsmon@0.2.4
 - pkg:cargo/fsmon@0.2.5
+- pkg:cargo/fsmon@0.2.6
