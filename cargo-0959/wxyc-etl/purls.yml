@@ -2,3 +2,4 @@
 - pkg:cargo/wxyc-etl@0.2.0
 - pkg:cargo/wxyc-etl@0.2.1
 - pkg:cargo/wxyc-etl@0.3.0
+- pkg:cargo/wxyc-etl@0.4.0
