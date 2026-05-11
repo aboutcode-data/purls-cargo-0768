@@ -23,3 +23,4 @@
 - pkg:cargo/hive-router-query-planner@2.7.1
 - pkg:cargo/hive-router-query-planner@2.7.2
 - pkg:cargo/hive-router-query-planner@2.8.0
+- pkg:cargo/hive-router-query-planner@2.8.1
