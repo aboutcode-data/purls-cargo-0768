@@ -14,3 +14,4 @@
 - pkg:cargo/reifydb-sub-server-ws@0.4.7
 - pkg:cargo/reifydb-sub-server-ws@0.4.8
 - pkg:cargo/reifydb-sub-server-ws@0.4.9
+- pkg:cargo/reifydb-sub-server-ws@0.5.0
