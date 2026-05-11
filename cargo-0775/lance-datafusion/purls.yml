@@ -103,3 +103,4 @@
 - pkg:cargo/lance-datafusion@3.0.1
 - pkg:cargo/lance-datafusion@4.0.0
 - pkg:cargo/lance-datafusion@4.0.1
+- pkg:cargo/lance-datafusion@6.0.0
