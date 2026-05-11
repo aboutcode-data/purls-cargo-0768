@@ -3,3 +3,4 @@
 - pkg:cargo/atomr-infer-runtime@0.6.3
 - pkg:cargo/atomr-infer-runtime@0.6.4
 - pkg:cargo/atomr-infer-runtime@0.6.5
+- pkg:cargo/atomr-infer-runtime@0.8.0

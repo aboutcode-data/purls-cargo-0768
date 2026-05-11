@@ -2,3 +2,4 @@
 - pkg:cargo/atomr-agents-ingest@0.1.5
 - pkg:cargo/atomr-agents-ingest@0.2.1
 - pkg:cargo/atomr-agents-ingest@0.2.2
+- pkg:cargo/atomr-agents-ingest@0.8.0
