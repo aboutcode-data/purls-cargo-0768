@@ -42,3 +42,4 @@
 - pkg:cargo/cargo-afl@0.17.1
 - pkg:cargo/cargo-afl@0.18.0
 - pkg:cargo/cargo-afl@0.18.1
+- pkg:cargo/cargo-afl@0.18.2
