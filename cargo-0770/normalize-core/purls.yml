@@ -1,3 +1,4 @@
 - pkg:cargo/normalize-core@0.1.0
 - pkg:cargo/normalize-core@0.3.0
 - pkg:cargo/normalize-core@0.3.1
+- pkg:cargo/normalize-core@0.3.2

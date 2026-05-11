@@ -1,1 +1,2 @@
 - pkg:cargo/normalize-graph@0.3.1
+- pkg:cargo/normalize-graph@0.3.2
