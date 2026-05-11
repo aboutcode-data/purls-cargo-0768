@@ -1,1 +1,2 @@
 - pkg:cargo/nym-gateway-storage@1.20.4
+- pkg:cargo/nym-gateway-storage@1.21.0

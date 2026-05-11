@@ -1,1 +1,2 @@
 - pkg:cargo/nym-api-requests@1.20.4
+- pkg:cargo/nym-api-requests@1.21.0

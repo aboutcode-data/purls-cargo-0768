@@ -1,3 +1,4 @@
 - pkg:cargo/nym-sphinx-addressing@1.20.0
 - pkg:cargo/nym-sphinx-addressing@1.20.1
 - pkg:cargo/nym-sphinx-addressing@1.20.4
+- pkg:cargo/nym-sphinx-addressing@1.21.0
