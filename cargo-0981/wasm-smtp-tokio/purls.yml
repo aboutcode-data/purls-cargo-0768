@@ -4,6 +4,7 @@
 - pkg:cargo/wasm-smtp-tokio@0.13.0
 - pkg:cargo/wasm-smtp-tokio@0.14.0
 - pkg:cargo/wasm-smtp-tokio@0.15.0
+- pkg:cargo/wasm-smtp-tokio@0.15.1
 - pkg:cargo/wasm-smtp-tokio@0.7.0
 - pkg:cargo/wasm-smtp-tokio@0.7.1
 - pkg:cargo/wasm-smtp-tokio@0.8.0

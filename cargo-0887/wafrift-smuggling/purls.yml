@@ -1,4 +1,11 @@
 - pkg:cargo/wafrift-smuggling@0.2.0
+- pkg:cargo/wafrift-smuggling@0.2.10
+- pkg:cargo/wafrift-smuggling@0.2.11
+- pkg:cargo/wafrift-smuggling@0.2.12
 - pkg:cargo/wafrift-smuggling@0.2.2
 - pkg:cargo/wafrift-smuggling@0.2.3
 - pkg:cargo/wafrift-smuggling@0.2.4
+- pkg:cargo/wafrift-smuggling@0.2.5
+- pkg:cargo/wafrift-smuggling@0.2.6
+- pkg:cargo/wafrift-smuggling@0.2.8
+- pkg:cargo/wafrift-smuggling@0.2.9
