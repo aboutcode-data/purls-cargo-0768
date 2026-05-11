@@ -7,3 +7,4 @@
 - pkg:cargo/solo-storage@0.3.6
 - pkg:cargo/solo-storage@0.3.7
 - pkg:cargo/solo-storage@0.3.8
+- pkg:cargo/solo-storage@0.4.0
