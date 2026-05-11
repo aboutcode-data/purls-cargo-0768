@@ -84,3 +84,4 @@
 - pkg:cargo/dylint@4.1.0
 - pkg:cargo/dylint@4.1.2
 - pkg:cargo/dylint@5.0.0
+- pkg:cargo/dylint@6.0.0
