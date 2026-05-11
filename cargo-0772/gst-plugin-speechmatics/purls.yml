@@ -8,3 +8,4 @@
 - pkg:cargo/gst-plugin-speechmatics@0.15.0-alpha.1
 - pkg:cargo/gst-plugin-speechmatics@0.15.0-alpha.2
 - pkg:cargo/gst-plugin-speechmatics@0.15.1
+- pkg:cargo/gst-plugin-speechmatics@0.15.2
