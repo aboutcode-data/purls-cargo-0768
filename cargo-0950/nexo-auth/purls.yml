@@ -2,3 +2,4 @@
 - pkg:cargo/nexo-auth@0.1.1
 - pkg:cargo/nexo-auth@0.1.5
 - pkg:cargo/nexo-auth@0.1.6
+- pkg:cargo/nexo-auth@0.1.7

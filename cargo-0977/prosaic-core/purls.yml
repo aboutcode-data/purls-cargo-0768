@@ -1,1 +1,3 @@
 - pkg:cargo/prosaic-core@0.6.1
+- pkg:cargo/prosaic-core@0.6.2
+- pkg:cargo/prosaic-core@1.0.0

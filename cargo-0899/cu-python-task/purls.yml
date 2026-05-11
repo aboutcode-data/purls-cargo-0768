@@ -1,3 +1,4 @@
 - pkg:cargo/cu-python-task@0.14.0
 - pkg:cargo/cu-python-task@0.15.0
 - pkg:cargo/cu-python-task@1.0.0-rc1
+- pkg:cargo/cu-python-task@1.0.0-rc2

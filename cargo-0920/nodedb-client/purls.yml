@@ -11,3 +11,4 @@
 - pkg:cargo/nodedb-client@0.0.6
 - pkg:cargo/nodedb-client@0.1.0
 - pkg:cargo/nodedb-client@0.1.1
+- pkg:cargo/nodedb-client@0.2.0
