@@ -78,3 +78,4 @@
 - pkg:cargo/symforge@7.6.0
 - pkg:cargo/symforge@7.6.1
 - pkg:cargo/symforge@7.6.2
+- pkg:cargo/symforge@7.7.0
