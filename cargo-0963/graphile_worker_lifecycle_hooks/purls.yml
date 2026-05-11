@@ -6,3 +6,4 @@
 - pkg:cargo/graphile_worker_lifecycle_hooks@0.2.3
 - pkg:cargo/graphile_worker_lifecycle_hooks@0.2.4
 - pkg:cargo/graphile_worker_lifecycle_hooks@0.2.5
+- pkg:cargo/graphile_worker_lifecycle_hooks@0.3.0
