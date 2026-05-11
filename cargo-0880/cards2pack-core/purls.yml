@@ -1,3 +1,4 @@
+- pkg:cargo/cards2pack-core@0.5.10
 - pkg:cargo/cards2pack-core@0.5.5
 - pkg:cargo/cards2pack-core@0.5.6
 - pkg:cargo/cards2pack-core@0.5.7
@@ -18,3 +19,4 @@
 - pkg:cargo/cards2pack-core@1.2.0-dev.25556549912
 - pkg:cargo/cards2pack-core@1.2.0-dev.25558784613
 - pkg:cargo/cards2pack-core@1.2.0-dev.25564894302
+- pkg:cargo/cards2pack-core@1.2.0-dev.25660813678

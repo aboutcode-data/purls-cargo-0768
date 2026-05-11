@@ -41,3 +41,4 @@
 - pkg:cargo/canic-backup@0.33.5
 - pkg:cargo/canic-backup@0.33.6
 - pkg:cargo/canic-backup@0.34.2
+- pkg:cargo/canic-backup@0.34.3
