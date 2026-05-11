@@ -51,6 +51,7 @@
 - pkg:cargo/greentic-deployer@0.4.9
 - pkg:cargo/greentic-deployer@0.5.0
 - pkg:cargo/greentic-deployer@0.5.10
+- pkg:cargo/greentic-deployer@0.5.11
 - pkg:cargo/greentic-deployer@0.5.2
 - pkg:cargo/greentic-deployer@0.5.3
 - pkg:cargo/greentic-deployer@0.5.6
