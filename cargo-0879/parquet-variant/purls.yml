@@ -2,6 +2,8 @@
 - pkg:cargo/parquet-variant@0.2.0
 - pkg:cargo/parquet-variant@57.2.0
 - pkg:cargo/parquet-variant@57.3.0
+- pkg:cargo/parquet-variant@57.3.1
 - pkg:cargo/parquet-variant@58.0.0
 - pkg:cargo/parquet-variant@58.1.0
 - pkg:cargo/parquet-variant@58.2.0
+- pkg:cargo/parquet-variant@58.3.0
