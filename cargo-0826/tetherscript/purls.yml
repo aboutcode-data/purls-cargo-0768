@@ -4,6 +4,8 @@
 - pkg:cargo/tetherscript@0.0.1-alpha-0.4
 - pkg:cargo/tetherscript@0.0.1-alpha-0.5
 - pkg:cargo/tetherscript@0.1.0-alpha.10
+- pkg:cargo/tetherscript@0.1.0-alpha.11
+- pkg:cargo/tetherscript@0.1.0-alpha.12
 - pkg:cargo/tetherscript@0.1.0-alpha.5
 - pkg:cargo/tetherscript@0.1.0-alpha.6
 - pkg:cargo/tetherscript@0.1.0-alpha.7
