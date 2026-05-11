@@ -94,3 +94,4 @@
 - pkg:cargo/seq-repl@6.6.0
 - pkg:cargo/seq-repl@6.6.1
 - pkg:cargo/seq-repl@6.6.2
+- pkg:cargo/seq-repl@7.0.0
