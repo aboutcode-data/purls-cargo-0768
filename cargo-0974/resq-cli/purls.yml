@@ -6,3 +6,4 @@
 - pkg:cargo/resq-cli@0.2.4
 - pkg:cargo/resq-cli@0.2.5
 - pkg:cargo/resq-cli@0.2.6
+- pkg:cargo/resq-cli@0.3.0
