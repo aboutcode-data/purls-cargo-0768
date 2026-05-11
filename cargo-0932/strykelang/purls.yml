@@ -44,6 +44,7 @@
 - pkg:cargo/strykelang@0.13.1
 - pkg:cargo/strykelang@0.13.2
 - pkg:cargo/strykelang@0.13.3
+- pkg:cargo/strykelang@0.13.4
 - pkg:cargo/strykelang@0.6.4
 - pkg:cargo/strykelang@0.6.5
 - pkg:cargo/strykelang@0.6.6
