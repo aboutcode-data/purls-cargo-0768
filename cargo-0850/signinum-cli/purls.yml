@@ -1,3 +1,6 @@
 - pkg:cargo/signinum-cli@1.0.0
 - pkg:cargo/signinum-cli@1.0.1
 - pkg:cargo/signinum-cli@1.0.2
+- pkg:cargo/signinum-cli@1.0.3
+- pkg:cargo/signinum-cli@1.0.4
+- pkg:cargo/signinum-cli@1.0.5
