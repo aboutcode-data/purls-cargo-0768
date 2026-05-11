@@ -1,3 +1,4 @@
+- pkg:cargo/baracuda-nvrtc-sys@0.0.1-alpha.13
 - pkg:cargo/baracuda-nvrtc-sys@0.0.1-alpha.2
 - pkg:cargo/baracuda-nvrtc-sys@0.0.1-alpha.3
 - pkg:cargo/baracuda-nvrtc-sys@0.0.1-alpha.4
