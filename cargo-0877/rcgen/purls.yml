@@ -19,6 +19,7 @@
 - pkg:cargo/rcgen@0.14.5
 - pkg:cargo/rcgen@0.14.6
 - pkg:cargo/rcgen@0.14.7
+- pkg:cargo/rcgen@0.14.8
 - pkg:cargo/rcgen@0.2.0
 - pkg:cargo/rcgen@0.2.1
 - pkg:cargo/rcgen@0.3.0
