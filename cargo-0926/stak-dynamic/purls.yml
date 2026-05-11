@@ -63,6 +63,7 @@
 - pkg:cargo/stak-dynamic@0.12.10
 - pkg:cargo/stak-dynamic@0.12.11
 - pkg:cargo/stak-dynamic@0.12.12
+- pkg:cargo/stak-dynamic@0.12.13
 - pkg:cargo/stak-dynamic@0.12.2
 - pkg:cargo/stak-dynamic@0.12.3
 - pkg:cargo/stak-dynamic@0.12.4

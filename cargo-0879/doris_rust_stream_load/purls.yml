@@ -1,0 +1,2 @@
+- pkg:cargo/doris_rust_stream_load@0.1.0
+- pkg:cargo/doris_rust_stream_load@0.1.1

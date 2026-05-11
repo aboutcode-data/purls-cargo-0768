@@ -13,3 +13,4 @@
 - pkg:cargo/sentry-opentelemetry@0.47.0
 - pkg:cargo/sentry-opentelemetry@0.48.0
 - pkg:cargo/sentry-opentelemetry@0.48.1
+- pkg:cargo/sentry-opentelemetry@0.48.2
