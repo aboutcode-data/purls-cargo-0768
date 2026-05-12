@@ -4,6 +4,7 @@
 - pkg:cargo/undoredo@0.10.1
 - pkg:cargo/undoredo@0.10.10
 - pkg:cargo/undoredo@0.10.11
+- pkg:cargo/undoredo@0.10.12
 - pkg:cargo/undoredo@0.10.2
 - pkg:cargo/undoredo@0.10.3
 - pkg:cargo/undoredo@0.10.4
