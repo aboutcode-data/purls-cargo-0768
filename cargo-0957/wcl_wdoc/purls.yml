@@ -1,4 +1,5 @@
 - pkg:cargo/wcl_wdoc@0.10.0-alpha
+- pkg:cargo/wcl_wdoc@0.11.0-alpha
 - pkg:cargo/wcl_wdoc@0.6.1-alpha
 - pkg:cargo/wcl_wdoc@0.7.0-alpha
 - pkg:cargo/wcl_wdoc@0.8.0-alpha
