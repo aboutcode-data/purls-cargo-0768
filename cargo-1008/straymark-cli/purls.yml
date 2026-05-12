@@ -1,2 +1,3 @@
 - pkg:cargo/straymark-cli@3.11.0
 - pkg:cargo/straymark-cli@3.12.0
+- pkg:cargo/straymark-cli@3.12.1
