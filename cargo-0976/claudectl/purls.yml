@@ -36,5 +36,6 @@
 - pkg:cargo/claudectl@0.35.0
 - pkg:cargo/claudectl@0.41.0
 - pkg:cargo/claudectl@0.42.0
+- pkg:cargo/claudectl@0.47.0
 - pkg:cargo/claudectl@0.9.0
 - pkg:cargo/claudectl@0.9.1
