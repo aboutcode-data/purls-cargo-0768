@@ -1,1 +1,2 @@
 - pkg:cargo/atomr-agents-tts-runtime-openai-realtime@0.8.0
+- pkg:cargo/atomr-agents-tts-runtime-openai-realtime@0.9.0
