@@ -11,6 +11,7 @@
 - pkg:cargo/zentinel-agent-protocol@0.6.11
 - pkg:cargo/zentinel-agent-protocol@0.6.12
 - pkg:cargo/zentinel-agent-protocol@0.6.13
+- pkg:cargo/zentinel-agent-protocol@0.6.15
 - pkg:cargo/zentinel-agent-protocol@0.6.2
 - pkg:cargo/zentinel-agent-protocol@0.6.4
 - pkg:cargo/zentinel-agent-protocol@0.6.6
