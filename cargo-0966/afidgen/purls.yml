@@ -1,2 +1,3 @@
 - pkg:cargo/afidgen@1.0.0
 - pkg:cargo/afidgen@1.0.0-rc.0
+- pkg:cargo/afidgen@1.0.1
