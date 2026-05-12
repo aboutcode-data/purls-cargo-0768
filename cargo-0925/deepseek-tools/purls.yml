@@ -30,6 +30,7 @@
 - pkg:cargo/deepseek-tools@0.8.3
 - pkg:cargo/deepseek-tools@0.8.30
 - pkg:cargo/deepseek-tools@0.8.31
+- pkg:cargo/deepseek-tools@0.8.32
 - pkg:cargo/deepseek-tools@0.8.4
 - pkg:cargo/deepseek-tools@0.8.7
 - pkg:cargo/deepseek-tools@0.8.8
