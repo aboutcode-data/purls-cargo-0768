@@ -8,6 +8,7 @@
 - pkg:cargo/piano@0.14.1
 - pkg:cargo/piano@0.14.2
 - pkg:cargo/piano@0.15.0
+- pkg:cargo/piano@0.15.1
 - pkg:cargo/piano@0.2.0
 - pkg:cargo/piano@0.2.1
 - pkg:cargo/piano@0.3.0

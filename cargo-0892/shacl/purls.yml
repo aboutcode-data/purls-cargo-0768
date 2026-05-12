@@ -6,3 +6,4 @@
 - pkg:cargo/shacl@0.2.19
 - pkg:cargo/shacl@0.2.20
 - pkg:cargo/shacl@0.2.20-rc.1
+- pkg:cargo/shacl@0.3.1
