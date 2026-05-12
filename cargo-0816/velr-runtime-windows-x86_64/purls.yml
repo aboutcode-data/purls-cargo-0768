@@ -1,1 +1,2 @@
 - pkg:cargo/velr-runtime-windows-x86_64@0.2.11
+- pkg:cargo/velr-runtime-windows-x86_64@0.2.13
