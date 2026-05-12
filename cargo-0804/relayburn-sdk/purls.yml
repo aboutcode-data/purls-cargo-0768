@@ -20,3 +20,5 @@
 - pkg:cargo/relayburn-sdk@2.8.1
 - pkg:cargo/relayburn-sdk@2.8.2
 - pkg:cargo/relayburn-sdk@2.8.3
+- pkg:cargo/relayburn-sdk@2.8.4
+- pkg:cargo/relayburn-sdk@2.8.5
