@@ -8,5 +8,6 @@
 - pkg:cargo/buf-toolchain@1.41.0-rc.1
 - pkg:cargo/buf-toolchain@1.60.0
 - pkg:cargo/buf-toolchain@1.60.0-rc.1
+- pkg:cargo/buf-toolchain@1.69.0
 - pkg:cargo/buf-toolchain@1.69.0-dev.25644499279
 - pkg:cargo/buf-toolchain@1.69.0-rc.1

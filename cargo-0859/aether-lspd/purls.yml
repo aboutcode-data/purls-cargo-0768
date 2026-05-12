@@ -2,6 +2,7 @@
 - pkg:cargo/aether-lspd@0.1.10
 - pkg:cargo/aether-lspd@0.1.11
 - pkg:cargo/aether-lspd@0.1.12
+- pkg:cargo/aether-lspd@0.1.13
 - pkg:cargo/aether-lspd@0.1.2
 - pkg:cargo/aether-lspd@0.1.4
 - pkg:cargo/aether-lspd@0.1.5
