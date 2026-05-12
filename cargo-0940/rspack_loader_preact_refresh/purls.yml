@@ -8,6 +8,7 @@
 - pkg:cargo/rspack_loader_preact_refresh@0.100.0-rc.3
 - pkg:cargo/rspack_loader_preact_refresh@0.100.1
 - pkg:cargo/rspack_loader_preact_refresh@0.100.2
+- pkg:cargo/rspack_loader_preact_refresh@0.100.3
 - pkg:cargo/rspack_loader_preact_refresh@0.2.0
 - pkg:cargo/rspack_loader_preact_refresh@0.2.1-alpha.0
 - pkg:cargo/rspack_loader_preact_refresh@0.2.1-alpha.1
