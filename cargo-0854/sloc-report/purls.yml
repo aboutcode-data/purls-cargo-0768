@@ -4,3 +4,4 @@
 - pkg:cargo/sloc-report@1.3.7
 - pkg:cargo/sloc-report@1.4.0
 - pkg:cargo/sloc-report@1.4.3
+- pkg:cargo/sloc-report@1.5.0
