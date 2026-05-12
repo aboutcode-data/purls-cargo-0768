@@ -5,3 +5,4 @@
 - pkg:cargo/lora-snapshot@0.8.3
 - pkg:cargo/lora-snapshot@0.8.4
 - pkg:cargo/lora-snapshot@0.8.5
+- pkg:cargo/lora-snapshot@0.9.0
