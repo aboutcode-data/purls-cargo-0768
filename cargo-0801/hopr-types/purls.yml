@@ -3,3 +3,4 @@
 - pkg:cargo/hopr-types@1.5.3
 - pkg:cargo/hopr-types@1.5.4
 - pkg:cargo/hopr-types@1.6.0
+- pkg:cargo/hopr-types@1.8.0
