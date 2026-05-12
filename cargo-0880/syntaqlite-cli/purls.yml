@@ -52,3 +52,4 @@
 - pkg:cargo/syntaqlite-cli@0.5.5
 - pkg:cargo/syntaqlite-cli@0.5.6
 - pkg:cargo/syntaqlite-cli@0.5.7
+- pkg:cargo/syntaqlite-cli@0.5.8

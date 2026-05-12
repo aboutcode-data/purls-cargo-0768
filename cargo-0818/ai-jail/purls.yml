@@ -1,6 +1,7 @@
 - pkg:cargo/ai-jail@0.1.0
 - pkg:cargo/ai-jail@0.10.0
 - pkg:cargo/ai-jail@0.10.2
+- pkg:cargo/ai-jail@0.10.3
 - pkg:cargo/ai-jail@0.5.2
 - pkg:cargo/ai-jail@0.5.3
 - pkg:cargo/ai-jail@0.5.4
