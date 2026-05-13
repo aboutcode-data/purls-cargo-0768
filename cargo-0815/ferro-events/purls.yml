@@ -41,7 +41,9 @@
 - pkg:cargo/ferro-events@0.2.25
 - pkg:cargo/ferro-events@0.2.26
 - pkg:cargo/ferro-events@0.2.27
+- pkg:cargo/ferro-events@0.2.29
 - pkg:cargo/ferro-events@0.2.3
+- pkg:cargo/ferro-events@0.2.30
 - pkg:cargo/ferro-events@0.2.4
 - pkg:cargo/ferro-events@0.2.5
 - pkg:cargo/ferro-events@0.2.6

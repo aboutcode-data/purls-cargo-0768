@@ -18,3 +18,4 @@
 - pkg:cargo/ferrotorch-serialize@0.4.7
 - pkg:cargo/ferrotorch-serialize@0.5.0
 - pkg:cargo/ferrotorch-serialize@0.5.1
+- pkg:cargo/ferrotorch-serialize@0.5.5
