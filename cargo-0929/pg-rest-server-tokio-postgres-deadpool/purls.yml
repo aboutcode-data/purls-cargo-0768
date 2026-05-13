@@ -1,1 +1,2 @@
 - pkg:cargo/pg-rest-server-tokio-postgres-deadpool@0.1.0
+- pkg:cargo/pg-rest-server-tokio-postgres-deadpool@0.2.0
