@@ -9,6 +9,7 @@
 - pkg:cargo/bamboo-server@2026.5.10
 - pkg:cargo/bamboo-server@2026.5.11
 - pkg:cargo/bamboo-server@2026.5.12
+- pkg:cargo/bamboo-server@2026.5.13
 - pkg:cargo/bamboo-server@2026.5.2
 - pkg:cargo/bamboo-server@2026.5.3
 - pkg:cargo/bamboo-server@2026.5.4
