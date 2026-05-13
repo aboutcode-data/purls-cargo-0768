@@ -5,3 +5,4 @@
 - pkg:cargo/garudust-server@0.2.5
 - pkg:cargo/garudust-server@0.2.6
 - pkg:cargo/garudust-server@0.2.8
+- pkg:cargo/garudust-server@0.3.0

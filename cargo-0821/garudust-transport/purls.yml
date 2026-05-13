@@ -6,3 +6,4 @@
 - pkg:cargo/garudust-transport@0.2.5
 - pkg:cargo/garudust-transport@0.2.6
 - pkg:cargo/garudust-transport@0.2.8
+- pkg:cargo/garudust-transport@0.3.0
