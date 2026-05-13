@@ -14,3 +14,4 @@
 - pkg:cargo/sysd-manager-comcontroler@2.18.0
 - pkg:cargo/sysd-manager-comcontroler@2.19.0
 - pkg:cargo/sysd-manager-comcontroler@2.19.3
+- pkg:cargo/sysd-manager-comcontroler@2.19.4
