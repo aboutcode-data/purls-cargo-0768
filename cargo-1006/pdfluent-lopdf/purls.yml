@@ -1,2 +1,4 @@
 - pkg:cargo/pdfluent-lopdf@0.39.0
 - pkg:cargo/pdfluent-lopdf@0.39.1
+- pkg:cargo/pdfluent-lopdf@0.39.2
+- pkg:cargo/pdfluent-lopdf@0.39.3
