@@ -5,3 +5,4 @@
 - pkg:cargo/blvm-node@0.1.4
 - pkg:cargo/blvm-node@0.1.5
 - pkg:cargo/blvm-node@0.1.7
+- pkg:cargo/blvm-node@0.1.9
