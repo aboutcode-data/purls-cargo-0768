@@ -1,1 +1,2 @@
 - pkg:cargo/rustls-native-roots-cache@0.0.1
+- pkg:cargo/rustls-native-roots-cache@0.0.2
