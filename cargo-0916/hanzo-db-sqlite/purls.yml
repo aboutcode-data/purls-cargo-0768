@@ -1,2 +1,3 @@
 - pkg:cargo/hanzo-db-sqlite@1.1.11
 - pkg:cargo/hanzo-db-sqlite@1.1.12
+- pkg:cargo/hanzo-db-sqlite@1.1.13
