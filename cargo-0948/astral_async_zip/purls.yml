@@ -2,3 +2,4 @@
 - pkg:cargo/astral_async_zip@0.0.18-rc1
 - pkg:cargo/astral_async_zip@0.0.18-rc2
 - pkg:cargo/astral_async_zip@0.0.18-rc3
+- pkg:cargo/astral_async_zip@0.0.18-rc4
