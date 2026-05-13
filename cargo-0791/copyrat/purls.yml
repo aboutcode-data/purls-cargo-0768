@@ -11,3 +11,4 @@
 - pkg:cargo/copyrat@0.8.4
 - pkg:cargo/copyrat@0.8.5
 - pkg:cargo/copyrat@0.8.6
+- pkg:cargo/copyrat@0.9.0
