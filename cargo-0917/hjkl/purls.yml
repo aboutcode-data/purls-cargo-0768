@@ -10,11 +10,15 @@
 - pkg:cargo/hjkl@0.13.0
 - pkg:cargo/hjkl@0.14.0
 - pkg:cargo/hjkl@0.14.1
+- pkg:cargo/hjkl@0.14.10
+- pkg:cargo/hjkl@0.14.11
 - pkg:cargo/hjkl@0.14.2
 - pkg:cargo/hjkl@0.14.3
 - pkg:cargo/hjkl@0.14.4
 - pkg:cargo/hjkl@0.14.5
 - pkg:cargo/hjkl@0.14.6
+- pkg:cargo/hjkl@0.14.7
+- pkg:cargo/hjkl@0.14.9
 - pkg:cargo/hjkl@0.2.0
 - pkg:cargo/hjkl@0.3.0
 - pkg:cargo/hjkl@0.3.1
