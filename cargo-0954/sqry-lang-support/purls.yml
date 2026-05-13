@@ -20,6 +20,8 @@
 - pkg:cargo/sqry-lang-support@14.0.4
 - pkg:cargo/sqry-lang-support@15.0.1
 - pkg:cargo/sqry-lang-support@15.0.3
+- pkg:cargo/sqry-lang-support@15.0.4
+- pkg:cargo/sqry-lang-support@15.0.6
 - pkg:cargo/sqry-lang-support@4.10.0
 - pkg:cargo/sqry-lang-support@4.10.1
 - pkg:cargo/sqry-lang-support@4.10.13
