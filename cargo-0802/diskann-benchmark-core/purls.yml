@@ -7,3 +7,4 @@
 - pkg:cargo/diskann-benchmark-core@0.50.0
 - pkg:cargo/diskann-benchmark-core@0.50.1
 - pkg:cargo/diskann-benchmark-core@0.51.0
+- pkg:cargo/diskann-benchmark-core@0.52.0
