@@ -25,3 +25,5 @@
 - pkg:cargo/taudit-report-sarif@1.0.9
 - pkg:cargo/taudit-report-sarif@1.1.0-rc.3
 - pkg:cargo/taudit-report-sarif@1.1.0-rc.6
+- pkg:cargo/taudit-report-sarif@2.0.0
+- pkg:cargo/taudit-report-sarif@3.0.0

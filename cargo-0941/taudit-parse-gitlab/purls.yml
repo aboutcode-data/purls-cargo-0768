@@ -15,3 +15,5 @@
 - pkg:cargo/taudit-parse-gitlab@1.0.9
 - pkg:cargo/taudit-parse-gitlab@1.1.0-rc.3
 - pkg:cargo/taudit-parse-gitlab@1.1.0-rc.6
+- pkg:cargo/taudit-parse-gitlab@2.0.0
+- pkg:cargo/taudit-parse-gitlab@3.0.0
