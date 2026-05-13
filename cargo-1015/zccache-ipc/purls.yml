@@ -22,3 +22,5 @@
 - pkg:cargo/zccache-ipc@1.3.9
 - pkg:cargo/zccache-ipc@1.4.0
 - pkg:cargo/zccache-ipc@1.4.2
+- pkg:cargo/zccache-ipc@1.4.3
+- pkg:cargo/zccache-ipc@1.4.4
