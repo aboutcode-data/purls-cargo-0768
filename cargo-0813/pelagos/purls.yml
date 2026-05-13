@@ -7,3 +7,4 @@
 - pkg:cargo/pelagos@0.59.2
 - pkg:cargo/pelagos@0.60.11
 - pkg:cargo/pelagos@0.60.6
+- pkg:cargo/pelagos@0.61.0
