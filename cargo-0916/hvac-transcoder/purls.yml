@@ -1,3 +1,4 @@
 - pkg:cargo/hvac-transcoder@5.2.1
 - pkg:cargo/hvac-transcoder@5.2.2
 - pkg:cargo/hvac-transcoder@5.2.3
+- pkg:cargo/hvac-transcoder@5.2.5
