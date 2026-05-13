@@ -108,6 +108,7 @@
 - pkg:cargo/ntex-io@3.11.1
 - pkg:cargo/ntex-io@3.11.2
 - pkg:cargo/ntex-io@3.11.3
+- pkg:cargo/ntex-io@3.11.4
 - pkg:cargo/ntex-io@3.2.0
 - pkg:cargo/ntex-io@3.3.0
 - pkg:cargo/ntex-io@3.3.1
