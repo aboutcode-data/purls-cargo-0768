@@ -1,1 +1,2 @@
 - pkg:cargo/sp1-core-executor-runner-binary@6.1.0
+- pkg:cargo/sp1-core-executor-runner-binary@6.2.0

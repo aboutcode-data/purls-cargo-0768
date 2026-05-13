@@ -47,3 +47,4 @@
 - pkg:cargo/sp1-cuda@6.0.1
 - pkg:cargo/sp1-cuda@6.0.2
 - pkg:cargo/sp1-cuda@6.1.0
+- pkg:cargo/sp1-cuda@6.2.0
