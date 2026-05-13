@@ -29,3 +29,4 @@
 - pkg:cargo/squawk-github@2.50.0
 - pkg:cargo/squawk-github@2.51.0
 - pkg:cargo/squawk-github@2.52.0
+- pkg:cargo/squawk-github@2.52.1
