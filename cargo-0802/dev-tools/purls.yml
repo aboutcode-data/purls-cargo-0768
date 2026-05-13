@@ -7,3 +7,5 @@
 - pkg:cargo/dev-tools@0.9.5
 - pkg:cargo/dev-tools@0.9.6
 - pkg:cargo/dev-tools@0.9.7
+- pkg:cargo/dev-tools@0.9.8
+- pkg:cargo/dev-tools@0.9.9
