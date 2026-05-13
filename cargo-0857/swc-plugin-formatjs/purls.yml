@@ -1,1 +1,4 @@
 - pkg:cargo/swc-plugin-formatjs@10.5.41
+- pkg:cargo/swc-plugin-formatjs@10.5.421
+- pkg:cargo/swc-plugin-formatjs@10.5.422
+- pkg:cargo/swc-plugin-formatjs@10.5.423
