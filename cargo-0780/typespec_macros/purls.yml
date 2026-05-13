@@ -13,3 +13,4 @@
 - pkg:cargo/typespec_macros@0.8.1
 - pkg:cargo/typespec_macros@0.9.0
 - pkg:cargo/typespec_macros@0.9.1
+- pkg:cargo/typespec_macros@1.0.0

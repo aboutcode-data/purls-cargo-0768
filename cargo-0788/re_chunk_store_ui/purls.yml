@@ -131,5 +131,6 @@
 - pkg:cargo/re_chunk_store_ui@0.31.2
 - pkg:cargo/re_chunk_store_ui@0.31.3
 - pkg:cargo/re_chunk_store_ui@0.31.4
+- pkg:cargo/re_chunk_store_ui@0.32.0
 - pkg:cargo/re_chunk_store_ui@0.32.0-alpha.1
 - pkg:cargo/re_chunk_store_ui@0.32.0-rc.1
