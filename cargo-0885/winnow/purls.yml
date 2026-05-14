@@ -107,3 +107,4 @@
 - pkg:cargo/winnow@1.0.0
 - pkg:cargo/winnow@1.0.1
 - pkg:cargo/winnow@1.0.2
+- pkg:cargo/winnow@1.0.3
