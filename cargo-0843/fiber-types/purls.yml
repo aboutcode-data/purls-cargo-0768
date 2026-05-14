@@ -1,2 +1,3 @@
 - pkg:cargo/fiber-types@0.8.1
 - pkg:cargo/fiber-types@0.9.0-rc1
+- pkg:cargo/fiber-types@0.9.0-rc2
