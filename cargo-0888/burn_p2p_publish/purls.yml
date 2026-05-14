@@ -88,3 +88,4 @@
 - pkg:cargo/burn_p2p_publish@0.21.5
 - pkg:cargo/burn_p2p_publish@0.21.6
 - pkg:cargo/burn_p2p_publish@0.21.7
+- pkg:cargo/burn_p2p_publish@0.21.8
