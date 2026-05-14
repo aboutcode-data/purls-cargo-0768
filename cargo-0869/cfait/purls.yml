@@ -39,3 +39,4 @@
 - pkg:cargo/cfait@0.5.4
 - pkg:cargo/cfait@0.5.5
 - pkg:cargo/cfait@0.5.6
+- pkg:cargo/cfait@1.0.1

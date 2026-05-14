@@ -12,4 +12,5 @@
 - pkg:cargo/apm-cli@0.1.21
 - pkg:cargo/apm-cli@0.1.22
 - pkg:cargo/apm-cli@0.1.23
+- pkg:cargo/apm-cli@0.1.24
 - pkg:cargo/apm-cli@0.1.9
