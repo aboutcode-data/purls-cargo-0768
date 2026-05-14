@@ -4,3 +4,4 @@
 - pkg:cargo/socks5-client@0.4.0
 - pkg:cargo/socks5-client@0.4.1
 - pkg:cargo/socks5-client@0.4.2
+- pkg:cargo/socks5-client@0.4.3
