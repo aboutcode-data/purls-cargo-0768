@@ -141,3 +141,4 @@
 - pkg:cargo/seq-runtime@7.1.0
 - pkg:cargo/seq-runtime@7.2.1
 - pkg:cargo/seq-runtime@7.3.0
+- pkg:cargo/seq-runtime@7.4.0

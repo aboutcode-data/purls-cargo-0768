@@ -71,3 +71,4 @@
 - pkg:cargo/seq-core@7.1.0
 - pkg:cargo/seq-core@7.2.1
 - pkg:cargo/seq-core@7.3.0
+- pkg:cargo/seq-core@7.4.0
