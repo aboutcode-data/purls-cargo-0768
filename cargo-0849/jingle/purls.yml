@@ -53,6 +53,7 @@
 - pkg:cargo/jingle@0.6.25
 - pkg:cargo/jingle@0.6.26
 - pkg:cargo/jingle@0.6.27
+- pkg:cargo/jingle@0.6.28
 - pkg:cargo/jingle@0.6.3
 - pkg:cargo/jingle@0.6.4
 - pkg:cargo/jingle@0.6.5
