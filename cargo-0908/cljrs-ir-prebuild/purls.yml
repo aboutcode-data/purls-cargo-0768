@@ -25,3 +25,4 @@
 - pkg:cargo/cljrs-ir-prebuild@0.1.47
 - pkg:cargo/cljrs-ir-prebuild@0.1.48
 - pkg:cargo/cljrs-ir-prebuild@0.1.49
+- pkg:cargo/cljrs-ir-prebuild@0.1.50
