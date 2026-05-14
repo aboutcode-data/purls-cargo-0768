@@ -10,4 +10,5 @@
 - pkg:cargo/rialo-s-spl-transfer-hook-interface@0.4.0-alpha.0
 - pkg:cargo/rialo-s-spl-transfer-hook-interface@0.4.0-alpha.1
 - pkg:cargo/rialo-s-spl-transfer-hook-interface@0.4.1
+- pkg:cargo/rialo-s-spl-transfer-hook-interface@0.4.2
 - pkg:cargo/rialo-s-spl-transfer-hook-interface@0.5.0-alpha.0
