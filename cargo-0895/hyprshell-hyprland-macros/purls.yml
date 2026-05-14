@@ -1,5 +1,6 @@
 - pkg:cargo/hyprshell-hyprland-macros@4.10.0
 - pkg:cargo/hyprshell-hyprland-macros@4.10.2
+- pkg:cargo/hyprshell-hyprland-macros@4.10.3
 - pkg:cargo/hyprshell-hyprland-macros@4.6.0
 - pkg:cargo/hyprshell-hyprland-macros@4.6.1
 - pkg:cargo/hyprshell-hyprland-macros@4.6.2
