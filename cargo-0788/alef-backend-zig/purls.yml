@@ -85,5 +85,10 @@
 - pkg:cargo/alef-backend-zig@0.15.59
 - pkg:cargo/alef-backend-zig@0.15.60
 - pkg:cargo/alef-backend-zig@0.15.61
+- pkg:cargo/alef-backend-zig@0.15.62
+- pkg:cargo/alef-backend-zig@0.15.63
+- pkg:cargo/alef-backend-zig@0.15.64
+- pkg:cargo/alef-backend-zig@0.15.65
+- pkg:cargo/alef-backend-zig@0.15.66
 - pkg:cargo/alef-backend-zig@0.15.7
 - pkg:cargo/alef-backend-zig@0.15.8

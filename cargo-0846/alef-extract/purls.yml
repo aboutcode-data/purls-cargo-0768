@@ -103,6 +103,11 @@
 - pkg:cargo/alef-extract@0.15.6
 - pkg:cargo/alef-extract@0.15.60
 - pkg:cargo/alef-extract@0.15.61
+- pkg:cargo/alef-extract@0.15.62
+- pkg:cargo/alef-extract@0.15.63
+- pkg:cargo/alef-extract@0.15.64
+- pkg:cargo/alef-extract@0.15.65
+- pkg:cargo/alef-extract@0.15.66
 - pkg:cargo/alef-extract@0.15.7
 - pkg:cargo/alef-extract@0.15.8
 - pkg:cargo/alef-extract@0.2.0
