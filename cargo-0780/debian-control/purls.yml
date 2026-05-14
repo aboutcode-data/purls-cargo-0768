@@ -67,3 +67,4 @@
 - pkg:cargo/debian-control@0.3.6
 - pkg:cargo/debian-control@0.3.7
 - pkg:cargo/debian-control@0.3.8
+- pkg:cargo/debian-control@0.3.9

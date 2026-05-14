@@ -17,3 +17,4 @@
 - pkg:cargo/ccgo@3.4.3
 - pkg:cargo/ccgo@3.4.4
 - pkg:cargo/ccgo@3.6.0
+- pkg:cargo/ccgo@3.7.0

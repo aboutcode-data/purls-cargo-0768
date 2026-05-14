@@ -16,3 +16,5 @@
 - pkg:cargo/demostf-client@0.4.4
 - pkg:cargo/demostf-client@0.4.5
 - pkg:cargo/demostf-client@0.4.6
+- pkg:cargo/demostf-client@0.4.7
+- pkg:cargo/demostf-client@0.5.0
