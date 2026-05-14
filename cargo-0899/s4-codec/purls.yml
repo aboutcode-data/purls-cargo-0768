@@ -8,3 +8,6 @@
 - pkg:cargo/s4-codec@0.7.1
 - pkg:cargo/s4-codec@0.8.0
 - pkg:cargo/s4-codec@0.8.1
+- pkg:cargo/s4-codec@0.8.2
+- pkg:cargo/s4-codec@0.8.3
+- pkg:cargo/s4-codec@0.8.4
