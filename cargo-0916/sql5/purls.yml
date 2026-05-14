@@ -8,3 +8,4 @@
 - pkg:cargo/sql5@4.0.0
 - pkg:cargo/sql5@4.0.1
 - pkg:cargo/sql5@4.0.2
+- pkg:cargo/sql5@4.1.0
