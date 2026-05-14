@@ -23,3 +23,5 @@
 - pkg:cargo/zccache-daemon@1.4.4
 - pkg:cargo/zccache-daemon@1.4.5
 - pkg:cargo/zccache-daemon@1.4.6
+- pkg:cargo/zccache-daemon@1.4.7
+- pkg:cargo/zccache-daemon@1.4.8
