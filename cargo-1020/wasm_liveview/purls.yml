@@ -1,1 +1,2 @@
 - pkg:cargo/wasm_liveview@0.3.0
+- pkg:cargo/wasm_liveview@0.4.0
