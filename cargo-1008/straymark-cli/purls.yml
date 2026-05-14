@@ -3,3 +3,4 @@
 - pkg:cargo/straymark-cli@3.12.1
 - pkg:cargo/straymark-cli@3.12.2
 - pkg:cargo/straymark-cli@3.12.3
+- pkg:cargo/straymark-cli@3.13.0

@@ -38,6 +38,7 @@
 - pkg:cargo/mockforge-scenarios@0.3.130
 - pkg:cargo/mockforge-scenarios@0.3.131
 - pkg:cargo/mockforge-scenarios@0.3.132
+- pkg:cargo/mockforge-scenarios@0.3.133
 - pkg:cargo/mockforge-scenarios@0.3.14
 - pkg:cargo/mockforge-scenarios@0.3.15
 - pkg:cargo/mockforge-scenarios@0.3.16
