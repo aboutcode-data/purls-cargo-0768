@@ -1,2 +1,3 @@
 - pkg:cargo/hf-kernel-builder@0.1.0
 - pkg:cargo/hf-kernel-builder@0.14.0
+- pkg:cargo/hf-kernel-builder@0.14.1
