@@ -2,3 +2,5 @@
 - pkg:cargo/reddb-io-server@1.0.7
 - pkg:cargo/reddb-io-server@1.0.8
 - pkg:cargo/reddb-io-server@1.1.0
+- pkg:cargo/reddb-io-server@1.1.1
+- pkg:cargo/reddb-io-server@1.1.2
