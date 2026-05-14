@@ -11,3 +11,5 @@
 - pkg:cargo/s4-codec@0.8.2
 - pkg:cargo/s4-codec@0.8.3
 - pkg:cargo/s4-codec@0.8.4
+- pkg:cargo/s4-codec@0.8.5
+- pkg:cargo/s4-codec@0.8.6
