@@ -24,3 +24,4 @@
 - pkg:cargo/smooai-config@4.7.1
 - pkg:cargo/smooai-config@4.7.4
 - pkg:cargo/smooai-config@5.0.0
+- pkg:cargo/smooai-config@6.0.0
