@@ -4,3 +4,5 @@
 - pkg:cargo/sip-header@0.2.2
 - pkg:cargo/sip-header@0.2.3
 - pkg:cargo/sip-header@0.3.0
+- pkg:cargo/sip-header@0.3.1
+- pkg:cargo/sip-header@0.3.2

@@ -7,5 +7,6 @@
 - pkg:cargo/mzrs-sdk@0.1.15
 - pkg:cargo/mzrs-sdk@0.1.18
 - pkg:cargo/mzrs-sdk@0.1.20
+- pkg:cargo/mzrs-sdk@0.1.21
 - pkg:cargo/mzrs-sdk@0.1.8
 - pkg:cargo/mzrs-sdk@0.1.9
