@@ -1,0 +1,3 @@
+- pkg:cargo/rustbasic-jwt@0.0.1
+- pkg:cargo/rustbasic-jwt@0.0.2
+- pkg:cargo/rustbasic-jwt@0.0.3
