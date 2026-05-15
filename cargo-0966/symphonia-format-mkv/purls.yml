@@ -4,5 +4,6 @@
 - pkg:cargo/symphonia-format-mkv@0.5.3
 - pkg:cargo/symphonia-format-mkv@0.5.4
 - pkg:cargo/symphonia-format-mkv@0.5.5
+- pkg:cargo/symphonia-format-mkv@0.6.0
 - pkg:cargo/symphonia-format-mkv@0.6.0-alpha.1
 - pkg:cargo/symphonia-format-mkv@0.6.0-alpha.2
