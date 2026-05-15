@@ -38,3 +38,4 @@
 - pkg:cargo/snarkos-cli@4.6.0
 - pkg:cargo/snarkos-cli@4.6.2
 - pkg:cargo/snarkos-cli@4.6.3
+- pkg:cargo/snarkos-cli@4.6.4
