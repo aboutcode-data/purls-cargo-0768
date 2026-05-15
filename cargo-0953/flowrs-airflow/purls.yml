@@ -1,3 +1,4 @@
 - pkg:cargo/flowrs-airflow@0.10.1
 - pkg:cargo/flowrs-airflow@0.10.2
 - pkg:cargo/flowrs-airflow@0.10.3
+- pkg:cargo/flowrs-airflow@0.10.4

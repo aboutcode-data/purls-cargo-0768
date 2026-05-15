@@ -370,3 +370,4 @@
 - pkg:cargo/solana-frozen-abi@3.2.1
 - pkg:cargo/solana-frozen-abi@3.2.2
 - pkg:cargo/solana-frozen-abi@3.3.0
+- pkg:cargo/solana-frozen-abi@3.4.0
