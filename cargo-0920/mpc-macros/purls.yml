@@ -22,3 +22,4 @@
 - pkg:cargo/mpc-macros@0.4.1-rc.5
 - pkg:cargo/mpc-macros@0.4.2
 - pkg:cargo/mpc-macros@0.4.3
+- pkg:cargo/mpc-macros@0.4.4

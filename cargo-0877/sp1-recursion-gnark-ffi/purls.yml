@@ -55,3 +55,4 @@
 - pkg:cargo/sp1-recursion-gnark-ffi@6.0.2
 - pkg:cargo/sp1-recursion-gnark-ffi@6.1.0
 - pkg:cargo/sp1-recursion-gnark-ffi@6.2.0
+- pkg:cargo/sp1-recursion-gnark-ffi@6.2.1

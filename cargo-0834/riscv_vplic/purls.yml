@@ -7,3 +7,4 @@
 - pkg:cargo/riscv_vplic@0.4.6
 - pkg:cargo/riscv_vplic@0.4.7
 - pkg:cargo/riscv_vplic@0.4.8
+- pkg:cargo/riscv_vplic@0.4.9
