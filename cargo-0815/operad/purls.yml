@@ -1,3 +1,4 @@
 - pkg:cargo/operad@5.0.0
 - pkg:cargo/operad@6.0.0
 - pkg:cargo/operad@6.1.0
+- pkg:cargo/operad@7.0.0
