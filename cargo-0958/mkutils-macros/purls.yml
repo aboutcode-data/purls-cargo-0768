@@ -30,7 +30,14 @@
 - pkg:cargo/mkutils-macros@0.1.124
 - pkg:cargo/mkutils-macros@0.1.125
 - pkg:cargo/mkutils-macros@0.1.126
+- pkg:cargo/mkutils-macros@0.1.127
+- pkg:cargo/mkutils-macros@0.1.128
+- pkg:cargo/mkutils-macros@0.1.129
 - pkg:cargo/mkutils-macros@0.1.13
+- pkg:cargo/mkutils-macros@0.1.130
+- pkg:cargo/mkutils-macros@0.1.131
+- pkg:cargo/mkutils-macros@0.1.132
+- pkg:cargo/mkutils-macros@0.1.133
 - pkg:cargo/mkutils-macros@0.1.14
 - pkg:cargo/mkutils-macros@0.1.15
 - pkg:cargo/mkutils-macros@0.1.16
