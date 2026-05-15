@@ -10,3 +10,4 @@
 - pkg:cargo/opentalk-roomserver-module-timer@0.0.35
 - pkg:cargo/opentalk-roomserver-module-timer@0.0.36
 - pkg:cargo/opentalk-roomserver-module-timer@0.0.38
+- pkg:cargo/opentalk-roomserver-module-timer@0.0.39
