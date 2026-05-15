@@ -40,6 +40,7 @@
 - pkg:cargo/calimero-dag@0.10.1-rc.34
 - pkg:cargo/calimero-dag@0.10.1-rc.35
 - pkg:cargo/calimero-dag@0.10.1-rc.37
+- pkg:cargo/calimero-dag@0.10.1-rc.38
 - pkg:cargo/calimero-dag@0.10.1-rc.6
 - pkg:cargo/calimero-dag@0.10.1-rc.7
 - pkg:cargo/calimero-dag@0.10.1-rc.8
