@@ -1424,6 +1424,8 @@
 - pkg:cargo/swc_core@65.0.3
 - pkg:cargo/swc_core@65.0.4
 - pkg:cargo/swc_core@65.1.0
+- pkg:cargo/swc_core@66.0.0
+- pkg:cargo/swc_core@66.0.1
 - pkg:cargo/swc_core@7.0.0
 - pkg:cargo/swc_core@8.0.0
 - pkg:cargo/swc_core@8.0.1

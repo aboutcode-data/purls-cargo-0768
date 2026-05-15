@@ -1044,6 +1044,7 @@
 - pkg:cargo/swc_html_minifier@50.0.0
 - pkg:cargo/swc_html_minifier@51.0.0
 - pkg:cargo/swc_html_minifier@52.0.0
+- pkg:cargo/swc_html_minifier@53.0.0
 - pkg:cargo/swc_html_minifier@6.0.0
 - pkg:cargo/swc_html_minifier@7.0.0
 - pkg:cargo/swc_html_minifier@8.0.0
