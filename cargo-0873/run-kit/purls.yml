@@ -13,3 +13,4 @@
 - pkg:cargo/run-kit@0.7.0
 - pkg:cargo/run-kit@0.7.1
 - pkg:cargo/run-kit@0.8.0
+- pkg:cargo/run-kit@0.9.0
