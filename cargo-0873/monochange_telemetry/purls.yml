@@ -1,2 +1,3 @@
 - pkg:cargo/monochange_telemetry@0.0.0
 - pkg:cargo/monochange_telemetry@0.4.2
+- pkg:cargo/monochange_telemetry@0.5.1

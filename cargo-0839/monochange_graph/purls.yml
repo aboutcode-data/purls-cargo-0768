@@ -1,2 +1,3 @@
 - pkg:cargo/monochange_graph@0.1.0
 - pkg:cargo/monochange_graph@0.4.2
+- pkg:cargo/monochange_graph@0.5.1

@@ -44,3 +44,4 @@
 - pkg:cargo/ts-pack-cli@1.8.0-rc.7
 - pkg:cargo/ts-pack-cli@1.8.0-rc.8
 - pkg:cargo/ts-pack-cli@1.8.0-rc.9
+- pkg:cargo/ts-pack-cli@1.8.1

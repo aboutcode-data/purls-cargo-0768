@@ -12,3 +12,4 @@
 - pkg:cargo/sk-tracer@2.4.3
 - pkg:cargo/sk-tracer@2.4.4
 - pkg:cargo/sk-tracer@2.5.0
+- pkg:cargo/sk-tracer@2.6.0

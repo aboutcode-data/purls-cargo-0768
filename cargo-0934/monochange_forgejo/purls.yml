@@ -1,1 +1,2 @@
 - pkg:cargo/monochange_forgejo@0.0.0
+- pkg:cargo/monochange_forgejo@0.5.1
