@@ -1,3 +1,5 @@
 - pkg:cargo/dinoco_compiler@0.0.1
 - pkg:cargo/dinoco_compiler@0.0.2
 - pkg:cargo/dinoco_compiler@0.0.3
+- pkg:cargo/dinoco_compiler@0.0.5
+- pkg:cargo/dinoco_compiler@0.0.6
