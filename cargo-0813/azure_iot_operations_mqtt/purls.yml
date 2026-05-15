@@ -1,3 +1,4 @@
 - pkg:cargo/azure_iot_operations_mqtt@1.0.0
 - pkg:cargo/azure_iot_operations_mqtt@1.0.0-rc1
 - pkg:cargo/azure_iot_operations_mqtt@1.0.1
+- pkg:cargo/azure_iot_operations_mqtt@1.0.2
