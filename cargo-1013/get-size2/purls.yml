@@ -21,3 +21,4 @@
 - pkg:cargo/get-size2@0.7.3
 - pkg:cargo/get-size2@0.7.4
 - pkg:cargo/get-size2@0.8.0
+- pkg:cargo/get-size2@0.9.0
