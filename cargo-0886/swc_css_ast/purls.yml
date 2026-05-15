@@ -291,6 +291,7 @@
 - pkg:cargo/swc_css_ast@2.0.0
 - pkg:cargo/swc_css_ast@20.0.0
 - pkg:cargo/swc_css_ast@21.0.0
+- pkg:cargo/swc_css_ast@21.0.1
 - pkg:cargo/swc_css_ast@3.0.0
 - pkg:cargo/swc_css_ast@4.0.0
 - pkg:cargo/swc_css_ast@4.0.1
