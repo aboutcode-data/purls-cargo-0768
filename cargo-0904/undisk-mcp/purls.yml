@@ -35,3 +35,5 @@
 - pkg:cargo/undisk-mcp@0.51.2
 - pkg:cargo/undisk-mcp@0.51.3
 - pkg:cargo/undisk-mcp@0.51.4
+- pkg:cargo/undisk-mcp@0.52.0
+- pkg:cargo/undisk-mcp@0.53.0

@@ -6,3 +6,5 @@
 - pkg:cargo/unrager@0.16.1
 - pkg:cargo/unrager@0.17.0
 - pkg:cargo/unrager@0.17.1
+- pkg:cargo/unrager@0.17.2
+- pkg:cargo/unrager@0.17.3
