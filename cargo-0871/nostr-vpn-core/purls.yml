@@ -1,3 +1,6 @@
 - pkg:cargo/nostr-vpn-core@4.0.15
 - pkg:cargo/nostr-vpn-core@4.0.16
 - pkg:cargo/nostr-vpn-core@4.0.17
+- pkg:cargo/nostr-vpn-core@4.0.18
+- pkg:cargo/nostr-vpn-core@4.0.19
+- pkg:cargo/nostr-vpn-core@4.0.20
