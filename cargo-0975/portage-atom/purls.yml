@@ -10,3 +10,4 @@
 - pkg:cargo/portage-atom@0.5.2
 - pkg:cargo/portage-atom@0.6.0
 - pkg:cargo/portage-atom@0.7.0
+- pkg:cargo/portage-atom@0.8.0
