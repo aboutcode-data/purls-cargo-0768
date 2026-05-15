@@ -5,4 +5,5 @@
 - pkg:cargo/greentic-extension-sdk-state@0.4.4
 - pkg:cargo/greentic-extension-sdk-state@0.4.5
 - pkg:cargo/greentic-extension-sdk-state@0.4.6
+- pkg:cargo/greentic-extension-sdk-state@0.4.7
 - pkg:cargo/greentic-extension-sdk-state@1.2.0-research

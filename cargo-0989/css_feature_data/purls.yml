@@ -101,6 +101,7 @@
 - pkg:cargo/css_feature_data@0.0.21-canary.fc80f623b7
 - pkg:cargo/css_feature_data@0.0.21-canary.fc907fde77
 - pkg:cargo/css_feature_data@0.0.21-canary.ff37755fc3
+- pkg:cargo/css_feature_data@0.0.22
 - pkg:cargo/css_feature_data@0.0.22-canary.223ca0c918
 - pkg:cargo/css_feature_data@0.0.22-canary.4dd59b78bd
 - pkg:cargo/css_feature_data@0.0.22-canary.b78bf31894
