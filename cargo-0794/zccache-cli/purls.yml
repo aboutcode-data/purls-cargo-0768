@@ -25,3 +25,4 @@
 - pkg:cargo/zccache-cli@1.4.6
 - pkg:cargo/zccache-cli@1.4.7
 - pkg:cargo/zccache-cli@1.4.8
+- pkg:cargo/zccache-cli@1.5.0
