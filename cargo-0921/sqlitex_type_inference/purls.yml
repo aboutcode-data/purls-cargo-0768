@@ -19,3 +19,4 @@
 - pkg:cargo/sqlitex_type_inference@0.3.1
 - pkg:cargo/sqlitex_type_inference@0.4.0
 - pkg:cargo/sqlitex_type_inference@0.4.1
+- pkg:cargo/sqlitex_type_inference@0.4.2
