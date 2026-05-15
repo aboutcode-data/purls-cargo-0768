@@ -5,3 +5,5 @@
 - pkg:cargo/mdbook-termlink@0.0.5
 - pkg:cargo/mdbook-termlink@0.0.6
 - pkg:cargo/mdbook-termlink@0.0.7
+- pkg:cargo/mdbook-termlink@0.1.0
+- pkg:cargo/mdbook-termlink@0.1.1
