@@ -23,3 +23,5 @@
 - pkg:cargo/ktstr-macros@0.4.22
 - pkg:cargo/ktstr-macros@0.4.23
 - pkg:cargo/ktstr-macros@0.4.9
+- pkg:cargo/ktstr-macros@0.5.1
+- pkg:cargo/ktstr-macros@0.5.2
