@@ -32,6 +32,7 @@
 - pkg:cargo/cljrs-gc@0.1.49
 - pkg:cargo/cljrs-gc@0.1.50
 - pkg:cargo/cljrs-gc@0.1.51
+- pkg:cargo/cljrs-gc@0.1.52
 - pkg:cargo/cljrs-gc@0.1.6
 - pkg:cargo/cljrs-gc@0.1.7
 - pkg:cargo/cljrs-gc@0.1.8
