@@ -6,3 +6,4 @@
 - pkg:cargo/gaze-cli@0.7.2
 - pkg:cargo/gaze-cli@0.8.0
 - pkg:cargo/gaze-cli@0.8.0-rc.1
+- pkg:cargo/gaze-cli@0.8.1
