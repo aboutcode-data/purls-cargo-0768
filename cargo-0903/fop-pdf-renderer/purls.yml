@@ -1,2 +1,3 @@
 - pkg:cargo/fop-pdf-renderer@0.1.0
 - pkg:cargo/fop-pdf-renderer@0.1.1
+- pkg:cargo/fop-pdf-renderer@0.1.2
