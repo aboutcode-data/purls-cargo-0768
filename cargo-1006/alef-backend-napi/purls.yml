@@ -117,6 +117,9 @@
 - pkg:cargo/alef-backend-napi@0.16.10
 - pkg:cargo/alef-backend-napi@0.16.11
 - pkg:cargo/alef-backend-napi@0.16.12
+- pkg:cargo/alef-backend-napi@0.16.14
+- pkg:cargo/alef-backend-napi@0.16.15
+- pkg:cargo/alef-backend-napi@0.16.16
 - pkg:cargo/alef-backend-napi@0.16.2
 - pkg:cargo/alef-backend-napi@0.16.3
 - pkg:cargo/alef-backend-napi@0.16.4

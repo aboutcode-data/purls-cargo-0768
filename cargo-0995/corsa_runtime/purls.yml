@@ -4,3 +4,4 @@
 - pkg:cargo/corsa_runtime@0.3.2
 - pkg:cargo/corsa_runtime@0.4.0
 - pkg:cargo/corsa_runtime@0.7.0
+- pkg:cargo/corsa_runtime@0.7.1
