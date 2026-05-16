@@ -1,1 +1,2 @@
 - pkg:cargo/qemu-debugcon@0.1.0
+- pkg:cargo/qemu-debugcon@1.0.0
