@@ -6,3 +6,4 @@
 - pkg:cargo/tree-sitter-iter@1.24.1
 - pkg:cargo/tree-sitter-iter@1.25.0
 - pkg:cargo/tree-sitter-iter@1.25.1
+- pkg:cargo/tree-sitter-iter@1.25.2
