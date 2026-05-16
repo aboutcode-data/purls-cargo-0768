@@ -8,3 +8,5 @@
 - pkg:cargo/shiguredo_websocket@2026.1.0-canary.6
 - pkg:cargo/shiguredo_websocket@2026.2.0-canary.0
 - pkg:cargo/shiguredo_websocket@2026.2.0-canary.1
+- pkg:cargo/shiguredo_websocket@2026.2.0-canary.2
+- pkg:cargo/shiguredo_websocket@2026.2.0-canary.3
