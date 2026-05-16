@@ -18,3 +18,4 @@
 - pkg:cargo/saas-rs-cli@0.5.9
 - pkg:cargo/saas-rs-cli@0.6.0
 - pkg:cargo/saas-rs-cli@0.6.3
+- pkg:cargo/saas-rs-cli@0.6.4
