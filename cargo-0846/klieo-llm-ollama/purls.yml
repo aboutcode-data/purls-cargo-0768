@@ -1,1 +1,2 @@
 - pkg:cargo/klieo-llm-ollama@0.2.0
+- pkg:cargo/klieo-llm-ollama@0.3.0
