@@ -21,3 +21,5 @@
 - pkg:cargo/blazen-manager@0.1.160
 - pkg:cargo/blazen-manager@0.1.161
 - pkg:cargo/blazen-manager@0.5.0
+- pkg:cargo/blazen-manager@0.5.1
+- pkg:cargo/blazen-manager@0.5.2

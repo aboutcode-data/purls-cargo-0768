@@ -54,3 +54,5 @@
 - pkg:cargo/blazen-core@0.1.97
 - pkg:cargo/blazen-core@0.1.99
 - pkg:cargo/blazen-core@0.5.0
+- pkg:cargo/blazen-core@0.5.1
+- pkg:cargo/blazen-core@0.5.2
