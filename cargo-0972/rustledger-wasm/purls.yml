@@ -5,6 +5,7 @@
 - pkg:cargo/rustledger-wasm@0.13.0
 - pkg:cargo/rustledger-wasm@0.14.0
 - pkg:cargo/rustledger-wasm@0.14.1
+- pkg:cargo/rustledger-wasm@0.15.0
 - pkg:cargo/rustledger-wasm@0.6.0
 - pkg:cargo/rustledger-wasm@0.7.4
 - pkg:cargo/rustledger-wasm@0.7.5
