@@ -8,3 +8,4 @@
 - pkg:cargo/sloc-report@1.5.1
 - pkg:cargo/sloc-report@1.5.2
 - pkg:cargo/sloc-report@1.5.3
+- pkg:cargo/sloc-report@1.5.4
