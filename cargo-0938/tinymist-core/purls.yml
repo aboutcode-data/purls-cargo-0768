@@ -28,3 +28,5 @@
 - pkg:cargo/tinymist-core@0.13.41-rc1
 - pkg:cargo/tinymist-core@0.13.43
 - pkg:cargo/tinymist-core@0.13.43-rc1
+- pkg:cargo/tinymist-core@0.13.45
+- pkg:cargo/tinymist-core@0.13.45-rc1
