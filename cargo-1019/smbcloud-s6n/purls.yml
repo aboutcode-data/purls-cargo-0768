@@ -1,2 +1,3 @@
 - pkg:cargo/smbcloud-s6n@0.3.41
 - pkg:cargo/smbcloud-s6n@0.4.0
+- pkg:cargo/smbcloud-s6n@0.4.1

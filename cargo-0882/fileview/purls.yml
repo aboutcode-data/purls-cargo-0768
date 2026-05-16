@@ -66,3 +66,6 @@
 - pkg:cargo/fileview@2.5.0
 - pkg:cargo/fileview@2.6.0
 - pkg:cargo/fileview@2.7.0
+- pkg:cargo/fileview@2.7.1
+- pkg:cargo/fileview@2.7.2
+- pkg:cargo/fileview@2.7.3
