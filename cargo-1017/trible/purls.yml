@@ -12,3 +12,6 @@
 - pkg:cargo/trible@0.36.0
 - pkg:cargo/trible@0.37.0
 - pkg:cargo/trible@0.38.0
+- pkg:cargo/trible@0.40.0
+- pkg:cargo/trible@0.40.1
+- pkg:cargo/trible@0.40.2
