@@ -5,3 +5,4 @@
 - pkg:cargo/maat_bytecode@0.12.2
 - pkg:cargo/maat_bytecode@0.13.0
 - pkg:cargo/maat_bytecode@0.13.1
+- pkg:cargo/maat_bytecode@0.14.0
