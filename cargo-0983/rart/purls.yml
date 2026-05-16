@@ -9,3 +9,5 @@
 - pkg:cargo/rart@0.6.0
 - pkg:cargo/rart@0.6.1
 - pkg:cargo/rart@0.7.0
+- pkg:cargo/rart@0.8.0
+- pkg:cargo/rart@0.9.0

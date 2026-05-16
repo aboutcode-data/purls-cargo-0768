@@ -8,3 +8,4 @@
 - pkg:cargo/converge-pack@3.7.4
 - pkg:cargo/converge-pack@3.7.6
 - pkg:cargo/converge-pack@3.8.1
+- pkg:cargo/converge-pack@3.9.0
