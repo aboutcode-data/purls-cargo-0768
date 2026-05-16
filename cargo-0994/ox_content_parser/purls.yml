@@ -40,3 +40,5 @@
 - pkg:cargo/ox_content_parser@2.4.0
 - pkg:cargo/ox_content_parser@2.5.0
 - pkg:cargo/ox_content_parser@2.6.0
+- pkg:cargo/ox_content_parser@2.7.0
+- pkg:cargo/ox_content_parser@2.8.0
