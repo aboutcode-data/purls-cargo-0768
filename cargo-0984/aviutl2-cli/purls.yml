@@ -26,3 +26,4 @@
 - pkg:cargo/aviutl2-cli@0.8.1
 - pkg:cargo/aviutl2-cli@0.8.2
 - pkg:cargo/aviutl2-cli@0.8.3
+- pkg:cargo/aviutl2-cli@0.9.0-preview.0

@@ -22,6 +22,7 @@
 - pkg:cargo/stygian-graph@0.13.1
 - pkg:cargo/stygian-graph@0.13.2
 - pkg:cargo/stygian-graph@0.13.3
+- pkg:cargo/stygian-graph@0.13.4
 - pkg:cargo/stygian-graph@0.2.0
 - pkg:cargo/stygian-graph@0.2.1
 - pkg:cargo/stygian-graph@0.3.0
