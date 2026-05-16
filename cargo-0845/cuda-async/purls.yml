@@ -2,3 +2,4 @@
 - pkg:cargo/cuda-async@0.0.1
 - pkg:cargo/cuda-async@0.0.1-alpha
 - pkg:cargo/cuda-async@0.0.2
+- pkg:cargo/cuda-async@0.1.0
