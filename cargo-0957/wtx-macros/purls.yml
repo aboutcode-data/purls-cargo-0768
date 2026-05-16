@@ -11,3 +11,4 @@
 - pkg:cargo/wtx-macros@0.6.5
 - pkg:cargo/wtx-macros@0.6.6
 - pkg:cargo/wtx-macros@0.7.0
+- pkg:cargo/wtx-macros@0.8.0
