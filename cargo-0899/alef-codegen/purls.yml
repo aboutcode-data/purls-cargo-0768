@@ -122,7 +122,10 @@
 - pkg:cargo/alef-codegen@0.16.14
 - pkg:cargo/alef-codegen@0.16.15
 - pkg:cargo/alef-codegen@0.16.16
+- pkg:cargo/alef-codegen@0.16.17
 - pkg:cargo/alef-codegen@0.16.2
+- pkg:cargo/alef-codegen@0.16.20
+- pkg:cargo/alef-codegen@0.16.21
 - pkg:cargo/alef-codegen@0.16.3
 - pkg:cargo/alef-codegen@0.16.4
 - pkg:cargo/alef-codegen@0.16.5
