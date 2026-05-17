@@ -3,3 +3,4 @@
 - pkg:cargo/uselesskey-ssh@0.7.1
 - pkg:cargo/uselesskey-ssh@0.8.0
 - pkg:cargo/uselesskey-ssh@0.9.0
+- pkg:cargo/uselesskey-ssh@0.9.1
