@@ -18,3 +18,5 @@
 - pkg:cargo/vamq@0.0.5
 - pkg:cargo/vamq@0.0.8
 - pkg:cargo/vamq@0.0.9
+- pkg:cargo/vamq@0.3.1
+- pkg:cargo/vamq@0.3.2
