@@ -26,3 +26,4 @@
 - pkg:cargo/orengine-utils@2.1.0
 - pkg:cargo/orengine-utils@2.2.0
 - pkg:cargo/orengine-utils@2.3.0
+- pkg:cargo/orengine-utils@3.0.0
