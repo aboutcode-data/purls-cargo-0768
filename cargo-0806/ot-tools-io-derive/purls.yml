@@ -14,3 +14,4 @@
 - pkg:cargo/ot-tools-io-derive@0.6.0
 - pkg:cargo/ot-tools-io-derive@0.6.1
 - pkg:cargo/ot-tools-io-derive@0.6.2
+- pkg:cargo/ot-tools-io-derive@0.7.0
