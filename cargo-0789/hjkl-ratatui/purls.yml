@@ -30,3 +30,4 @@
 - pkg:cargo/hjkl-ratatui@0.3.6
 - pkg:cargo/hjkl-ratatui@0.3.7
 - pkg:cargo/hjkl-ratatui@0.4.0
+- pkg:cargo/hjkl-ratatui@0.5.0
