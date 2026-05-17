@@ -2,3 +2,4 @@
 - pkg:cargo/hn-randfile@0.1.1
 - pkg:cargo/hn-randfile@0.2.0
 - pkg:cargo/hn-randfile@0.2.2
+- pkg:cargo/hn-randfile@0.2.3
