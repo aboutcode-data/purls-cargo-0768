@@ -79,3 +79,6 @@
 - pkg:cargo/rust-key-paths@2.9.8
 - pkg:cargo/rust-key-paths@2.9.9
 - pkg:cargo/rust-key-paths@3.0.0
+- pkg:cargo/rust-key-paths@3.0.1
+- pkg:cargo/rust-key-paths@3.0.2
+- pkg:cargo/rust-key-paths@3.0.3

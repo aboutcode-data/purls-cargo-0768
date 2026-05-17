@@ -1,5 +1,6 @@
 - pkg:cargo/servo-fetch@0.1.0
 - pkg:cargo/servo-fetch@0.10.0
+- pkg:cargo/servo-fetch@0.10.1
 - pkg:cargo/servo-fetch@0.2.0
 - pkg:cargo/servo-fetch@0.2.1
 - pkg:cargo/servo-fetch@0.2.2
