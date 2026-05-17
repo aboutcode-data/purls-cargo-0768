@@ -4,3 +4,4 @@
 - pkg:cargo/hyperfuel-net-types@3.0.0
 - pkg:cargo/hyperfuel-net-types@4.0.0
 - pkg:cargo/hyperfuel-net-types@4.0.2
+- pkg:cargo/hyperfuel-net-types@4.1.0

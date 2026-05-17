@@ -5,3 +5,4 @@
 - pkg:cargo/hyperfuel-format@3.0.0
 - pkg:cargo/hyperfuel-format@4.0.0
 - pkg:cargo/hyperfuel-format@4.0.1
+- pkg:cargo/hyperfuel-format@4.1.0
