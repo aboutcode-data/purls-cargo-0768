@@ -1,5 +1,7 @@
+- pkg:cargo/ematix-parquet-crypto@0.10.0
 - pkg:cargo/ematix-parquet-crypto@0.6.0
 - pkg:cargo/ematix-parquet-crypto@0.7.0
 - pkg:cargo/ematix-parquet-crypto@0.8.0
 - pkg:cargo/ematix-parquet-crypto@0.9.0
 - pkg:cargo/ematix-parquet-crypto@0.9.1
+- pkg:cargo/ematix-parquet-crypto@0.9.2

@@ -1,3 +1,4 @@
+- pkg:cargo/t32-language-server@0.10.0
 - pkg:cargo/t32-language-server@0.6.0
 - pkg:cargo/t32-language-server@0.6.1
 - pkg:cargo/t32-language-server@0.7.0
