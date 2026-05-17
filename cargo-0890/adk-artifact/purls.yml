@@ -19,3 +19,4 @@
 - pkg:cargo/adk-artifact@0.7.0
 - pkg:cargo/adk-artifact@0.8.0
 - pkg:cargo/adk-artifact@0.8.1
+- pkg:cargo/adk-artifact@0.8.2
