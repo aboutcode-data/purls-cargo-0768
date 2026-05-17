@@ -33,6 +33,7 @@
 - pkg:cargo/yantrikdb@0.7.13
 - pkg:cargo/yantrikdb@0.7.14
 - pkg:cargo/yantrikdb@0.7.15
+- pkg:cargo/yantrikdb@0.7.16
 - pkg:cargo/yantrikdb@0.7.2
 - pkg:cargo/yantrikdb@0.7.3
 - pkg:cargo/yantrikdb@0.7.4
