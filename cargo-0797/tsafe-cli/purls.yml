@@ -4,3 +4,5 @@
 - pkg:cargo/tsafe-cli@1.0.23
 - pkg:cargo/tsafe-cli@1.0.24
 - pkg:cargo/tsafe-cli@1.0.25
+- pkg:cargo/tsafe-cli@1.0.26
+- pkg:cargo/tsafe-cli@1.0.27
