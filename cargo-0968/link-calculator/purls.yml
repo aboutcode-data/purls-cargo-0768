@@ -19,6 +19,8 @@
 - pkg:cargo/link-calculator@0.15.4
 - pkg:cargo/link-calculator@0.15.5
 - pkg:cargo/link-calculator@0.16.0
+- pkg:cargo/link-calculator@0.17.0
+- pkg:cargo/link-calculator@0.17.1
 - pkg:cargo/link-calculator@0.2.0
 - pkg:cargo/link-calculator@0.2.1
 - pkg:cargo/link-calculator@0.3.0
