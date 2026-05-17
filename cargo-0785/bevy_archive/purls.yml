@@ -7,3 +7,4 @@
 - pkg:cargo/bevy_archive@0.2.0
 - pkg:cargo/bevy_archive@0.2.1
 - pkg:cargo/bevy_archive@0.3.0
+- pkg:cargo/bevy_archive@0.4.0-rc.1
