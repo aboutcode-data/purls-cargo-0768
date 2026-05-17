@@ -1,1 +1,2 @@
 - pkg:cargo/vona-azure-speech@0.1.0
+- pkg:cargo/vona-azure-speech@0.1.1
