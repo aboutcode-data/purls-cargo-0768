@@ -65,6 +65,7 @@
 - pkg:cargo/symforge@7.1.0
 - pkg:cargo/symforge@7.10.0
 - pkg:cargo/symforge@7.11.0
+- pkg:cargo/symforge@7.11.1
 - pkg:cargo/symforge@7.2.0
 - pkg:cargo/symforge@7.3.0
 - pkg:cargo/symforge@7.4.0
