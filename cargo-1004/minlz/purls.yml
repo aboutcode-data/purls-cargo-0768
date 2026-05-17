@@ -6,3 +6,5 @@
 - pkg:cargo/minlz@0.1.5
 - pkg:cargo/minlz@0.1.6
 - pkg:cargo/minlz@1.0.0
+- pkg:cargo/minlz@1.0.1
+- pkg:cargo/minlz@1.0.2
