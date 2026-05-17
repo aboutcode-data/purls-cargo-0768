@@ -19,6 +19,8 @@
 - pkg:cargo/harn-stdlib@0.8.2
 - pkg:cargo/harn-stdlib@0.8.20
 - pkg:cargo/harn-stdlib@0.8.21
+- pkg:cargo/harn-stdlib@0.8.22
+- pkg:cargo/harn-stdlib@0.8.23
 - pkg:cargo/harn-stdlib@0.8.3
 - pkg:cargo/harn-stdlib@0.8.4
 - pkg:cargo/harn-stdlib@0.8.5
