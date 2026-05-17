@@ -5,3 +5,4 @@
 - pkg:cargo/cano-macros@0.11.0
 - pkg:cargo/cano-macros@0.11.1
 - pkg:cargo/cano-macros@0.12.0
+- pkg:cargo/cano-macros@0.13.0
