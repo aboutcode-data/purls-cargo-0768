@@ -22,3 +22,4 @@
 - pkg:cargo/cli_boilerplate_automation@0.0.8
 - pkg:cargo/cli_boilerplate_automation@0.0.9
 - pkg:cargo/cli_boilerplate_automation@0.1.0
+- pkg:cargo/cli_boilerplate_automation@0.1.1
