@@ -33,3 +33,4 @@
 - pkg:cargo/pkcore@0.0.56
 - pkg:cargo/pkcore@0.0.57
 - pkg:cargo/pkcore@0.1.0
+- pkg:cargo/pkcore@0.1.1

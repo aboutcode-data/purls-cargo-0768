@@ -34,3 +34,4 @@
 - pkg:cargo/nil-crypto@0.5.3
 - pkg:cargo/nil-crypto@0.5.4
 - pkg:cargo/nil-crypto@0.5.5
+- pkg:cargo/nil-crypto@0.5.6
