@@ -5,3 +5,4 @@
 - pkg:cargo/aetna-winit-wgpu@0.3.3
 - pkg:cargo/aetna-winit-wgpu@0.3.4
 - pkg:cargo/aetna-winit-wgpu@0.3.5
+- pkg:cargo/aetna-winit-wgpu@0.3.6
