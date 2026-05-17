@@ -6,3 +6,4 @@
 - pkg:cargo/triplets-hf-source@0.21.3-alpha
 - pkg:cargo/triplets-hf-source@0.21.4-alpha
 - pkg:cargo/triplets-hf-source@0.22.0-alpha
+- pkg:cargo/triplets-hf-source@0.23.0-alpha

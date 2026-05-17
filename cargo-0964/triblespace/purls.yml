@@ -45,6 +45,7 @@
 - pkg:cargo/triblespace@0.40.2
 - pkg:cargo/triblespace@0.41.0
 - pkg:cargo/triblespace@0.41.1
+- pkg:cargo/triblespace@0.41.2
 - pkg:cargo/triblespace@0.6.0
 - pkg:cargo/triblespace@0.7.0
 - pkg:cargo/triblespace@0.8.0
