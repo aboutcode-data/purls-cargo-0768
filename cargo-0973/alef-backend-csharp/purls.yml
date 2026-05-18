@@ -140,6 +140,7 @@
 - pkg:cargo/alef-backend-csharp@0.16.42
 - pkg:cargo/alef-backend-csharp@0.16.43
 - pkg:cargo/alef-backend-csharp@0.16.5
+- pkg:cargo/alef-backend-csharp@0.16.54
 - pkg:cargo/alef-backend-csharp@0.16.6
 - pkg:cargo/alef-backend-csharp@0.16.8
 - pkg:cargo/alef-backend-csharp@0.2.0
