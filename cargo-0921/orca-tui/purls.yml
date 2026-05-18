@@ -33,6 +33,7 @@
 - pkg:cargo/orca-tui@0.2.7-rc.1
 - pkg:cargo/orca-tui@0.2.7-rc.2
 - pkg:cargo/orca-tui@0.2.8
+- pkg:cargo/orca-tui@0.2.9
 - pkg:cargo/orca-tui@0.2.9-rc.1
 - pkg:cargo/orca-tui@0.2.9-rc.2
 - pkg:cargo/orca-tui@0.2.9-rc.3
