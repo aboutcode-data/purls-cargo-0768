@@ -1,1 +1,2 @@
 - pkg:cargo/harness-rs-daemon@0.0.3
+- pkg:cargo/harness-rs-daemon@0.0.4

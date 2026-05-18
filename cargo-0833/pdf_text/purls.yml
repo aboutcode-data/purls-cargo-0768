@@ -2,3 +2,5 @@
 - pkg:cargo/pdf_text@0.1.1
 - pkg:cargo/pdf_text@0.1.1-preview.7
 - pkg:cargo/pdf_text@0.1.1-preview.8
+- pkg:cargo/pdf_text@0.1.2
+- pkg:cargo/pdf_text@0.1.3
