@@ -40,6 +40,7 @@
 - pkg:cargo/sqlite-vec@0.1.10-alpha.1
 - pkg:cargo/sqlite-vec@0.1.10-alpha.2
 - pkg:cargo/sqlite-vec@0.1.10-alpha.3
+- pkg:cargo/sqlite-vec@0.1.10-alpha.4
 - pkg:cargo/sqlite-vec@0.1.2
 - pkg:cargo/sqlite-vec@0.1.2-alpha.1
 - pkg:cargo/sqlite-vec@0.1.2-alpha.10
