@@ -116,6 +116,7 @@
 - pkg:cargo/databend-driver@0.33.5
 - pkg:cargo/databend-driver@0.33.6
 - pkg:cargo/databend-driver@0.33.7
+- pkg:cargo/databend-driver@0.34.0
 - pkg:cargo/databend-driver@0.4.3
 - pkg:cargo/databend-driver@0.4.4
 - pkg:cargo/databend-driver@0.4.5
