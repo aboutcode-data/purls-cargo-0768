@@ -20,3 +20,4 @@
 - pkg:cargo/feignhttp@0.5.1
 - pkg:cargo/feignhttp@0.5.2
 - pkg:cargo/feignhttp@0.6.0-rc.1
+- pkg:cargo/feignhttp@0.6.0-rc.2

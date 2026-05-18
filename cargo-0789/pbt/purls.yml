@@ -23,6 +23,7 @@
 - pkg:cargo/pbt@0.4.2
 - pkg:cargo/pbt@0.4.20
 - pkg:cargo/pbt@0.4.21
+- pkg:cargo/pbt@0.4.22
 - pkg:cargo/pbt@0.4.4
 - pkg:cargo/pbt@0.4.5
 - pkg:cargo/pbt@0.4.6
