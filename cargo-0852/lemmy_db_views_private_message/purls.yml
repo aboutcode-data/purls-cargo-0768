@@ -1,1 +1,2 @@
 - pkg:cargo/lemmy_db_views_private_message@1.0.0-alpha.18
+- pkg:cargo/lemmy_db_views_private_message@1.0.0-alpha.19
