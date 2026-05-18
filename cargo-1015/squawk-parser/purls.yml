@@ -31,3 +31,4 @@
 - pkg:cargo/squawk-parser@2.51.0
 - pkg:cargo/squawk-parser@2.52.0
 - pkg:cargo/squawk-parser@2.52.1
+- pkg:cargo/squawk-parser@2.53.0
