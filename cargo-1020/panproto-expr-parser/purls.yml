@@ -54,3 +54,4 @@
 - pkg:cargo/panproto-expr-parser@0.47.1
 - pkg:cargo/panproto-expr-parser@0.47.2
 - pkg:cargo/panproto-expr-parser@0.47.3
+- pkg:cargo/panproto-expr-parser@0.48.0
