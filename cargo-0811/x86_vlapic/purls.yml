@@ -8,3 +8,4 @@
 - pkg:cargo/x86_vlapic@0.4.4
 - pkg:cargo/x86_vlapic@0.4.6
 - pkg:cargo/x86_vlapic@0.4.7
+- pkg:cargo/x86_vlapic@0.4.8
