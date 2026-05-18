@@ -30,6 +30,7 @@
 - pkg:cargo/oxc_compat@0.129.0
 - pkg:cargo/oxc_compat@0.130.0
 - pkg:cargo/oxc_compat@0.131.0
+- pkg:cargo/oxc_compat@0.132.0
 - pkg:cargo/oxc_compat@0.91.0
 - pkg:cargo/oxc_compat@0.92.0
 - pkg:cargo/oxc_compat@0.93.0
