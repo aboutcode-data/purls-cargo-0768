@@ -12,6 +12,7 @@
 - pkg:cargo/agdb_api@0.12.7
 - pkg:cargo/agdb_api@0.12.8
 - pkg:cargo/agdb_api@0.12.9
+- pkg:cargo/agdb_api@0.13.0
 - pkg:cargo/agdb_api@0.6.4
 - pkg:cargo/agdb_api@0.6.5
 - pkg:cargo/agdb_api@0.6.6
