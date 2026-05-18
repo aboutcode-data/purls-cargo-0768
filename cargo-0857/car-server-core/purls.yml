@@ -4,6 +4,7 @@
 - pkg:cargo/car-server-core@0.15.0
 - pkg:cargo/car-server-core@0.15.1
 - pkg:cargo/car-server-core@0.15.2
+- pkg:cargo/car-server-core@0.16.0
 - pkg:cargo/car-server-core@0.6.0
 - pkg:cargo/car-server-core@0.7.0
 - pkg:cargo/car-server-core@0.8.0

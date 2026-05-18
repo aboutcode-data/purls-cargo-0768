@@ -1,3 +1,5 @@
 - pkg:cargo/azumi-cli@47.20.29
 - pkg:cargo/azumi-cli@47.20.46
 - pkg:cargo/azumi-cli@47.46.1
+- pkg:cargo/azumi-cli@47.47.0
+- pkg:cargo/azumi-cli@47.48.0
