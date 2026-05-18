@@ -1,2 +1,3 @@
 - pkg:cargo/storekit-rs@0.2.0
 - pkg:cargo/storekit-rs@0.2.1
+- pkg:cargo/storekit-rs@0.3.1

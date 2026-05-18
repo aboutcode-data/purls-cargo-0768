@@ -37,3 +37,4 @@
 - pkg:cargo/nil-client@0.5.6
 - pkg:cargo/nil-client@0.5.7
 - pkg:cargo/nil-client@0.5.8
+- pkg:cargo/nil-client@0.5.9

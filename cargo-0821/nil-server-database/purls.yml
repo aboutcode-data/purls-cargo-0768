@@ -9,3 +9,4 @@
 - pkg:cargo/nil-server-database@0.5.6
 - pkg:cargo/nil-server-database@0.5.7
 - pkg:cargo/nil-server-database@0.5.8
+- pkg:cargo/nil-server-database@0.5.9
