@@ -7,3 +7,4 @@
 - pkg:cargo/zeph-commands@0.20.2
 - pkg:cargo/zeph-commands@0.21.0
 - pkg:cargo/zeph-commands@0.21.1
+- pkg:cargo/zeph-commands@0.21.2

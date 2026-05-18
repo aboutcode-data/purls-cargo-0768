@@ -1,7 +1,15 @@
 - pkg:cargo/lemon@0.1.0
 - pkg:cargo/lemon@0.2.0-alpha.0
 - pkg:cargo/lemon@0.2.0-alpha.1
+- pkg:cargo/lemon@0.2.0-alpha.10
+- pkg:cargo/lemon@0.2.0-alpha.11
+- pkg:cargo/lemon@0.2.0-alpha.12
+- pkg:cargo/lemon@0.2.0-alpha.13
+- pkg:cargo/lemon@0.2.0-alpha.14
 - pkg:cargo/lemon@0.2.0-alpha.2
 - pkg:cargo/lemon@0.2.0-alpha.3
 - pkg:cargo/lemon@0.2.0-alpha.4
+- pkg:cargo/lemon@0.2.0-alpha.5
+- pkg:cargo/lemon@0.2.0-alpha.7
+- pkg:cargo/lemon@0.2.0-alpha.9
 - pkg:cargo/lemon@0.3.0-alpha.0
