@@ -3,3 +3,4 @@
 - pkg:cargo/imageio@0.3.0
 - pkg:cargo/imageio@0.4.0
 - pkg:cargo/imageio@0.4.1
+- pkg:cargo/imageio@0.6.0
