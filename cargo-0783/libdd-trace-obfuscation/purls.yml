@@ -1,3 +1,4 @@
 - pkg:cargo/libdd-trace-obfuscation@1.0.0
 - pkg:cargo/libdd-trace-obfuscation@1.0.1
 - pkg:cargo/libdd-trace-obfuscation@2.0.0
+- pkg:cargo/libdd-trace-obfuscation@3.0.0
