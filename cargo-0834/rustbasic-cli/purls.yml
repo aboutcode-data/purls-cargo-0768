@@ -3,3 +3,5 @@
 - pkg:cargo/rustbasic-cli@0.0.3
 - pkg:cargo/rustbasic-cli@0.0.4
 - pkg:cargo/rustbasic-cli@0.0.5
+- pkg:cargo/rustbasic-cli@0.0.6
+- pkg:cargo/rustbasic-cli@0.0.7
