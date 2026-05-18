@@ -4,3 +4,5 @@
 - pkg:cargo/gbp-proto@1.4.2
 - pkg:cargo/gbp-proto@1.5.1
 - pkg:cargo/gbp-proto@1.5.2
+- pkg:cargo/gbp-proto@1.5.3
+- pkg:cargo/gbp-proto@1.5.4
