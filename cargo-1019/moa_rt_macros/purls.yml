@@ -1,3 +1,4 @@
 - pkg:cargo/moa_rt_macros@0.1.0
 - pkg:cargo/moa_rt_macros@0.1.1
 - pkg:cargo/moa_rt_macros@0.1.2
+- pkg:cargo/moa_rt_macros@0.1.3
