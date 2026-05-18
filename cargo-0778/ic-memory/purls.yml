@@ -1,0 +1,5 @@
+- pkg:cargo/ic-memory@0.39.10
+- pkg:cargo/ic-memory@0.39.11
+- pkg:cargo/ic-memory@0.39.12
+- pkg:cargo/ic-memory@0.39.8
+- pkg:cargo/ic-memory@0.39.9

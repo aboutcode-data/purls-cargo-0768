@@ -2,3 +2,6 @@
 - pkg:cargo/avcapture@0.2.0
 - pkg:cargo/avcapture@0.2.1
 - pkg:cargo/avcapture@0.4.0
+- pkg:cargo/avcapture@0.4.1
+- pkg:cargo/avcapture@0.4.2
+- pkg:cargo/avcapture@0.4.3
