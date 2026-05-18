@@ -79,6 +79,7 @@
 - pkg:cargo/dashmap@6.0.0-rc.1
 - pkg:cargo/dashmap@6.0.1
 - pkg:cargo/dashmap@6.1.0
+- pkg:cargo/dashmap@6.2.1
 - pkg:cargo/dashmap@7.0.0-rc0
 - pkg:cargo/dashmap@7.0.0-rc1
 - pkg:cargo/dashmap@7.0.0-rc2
