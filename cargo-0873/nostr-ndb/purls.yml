@@ -14,3 +14,4 @@
 - pkg:cargo/nostr-ndb@0.42.0
 - pkg:cargo/nostr-ndb@0.43.0
 - pkg:cargo/nostr-ndb@0.44.0
+- pkg:cargo/nostr-ndb@0.45.0-alpha.1
