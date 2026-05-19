@@ -9,3 +9,4 @@
 - pkg:cargo/cratestack@0.3.4
 - pkg:cargo/cratestack@0.3.5
 - pkg:cargo/cratestack@0.3.7
+- pkg:cargo/cratestack@0.4.3
