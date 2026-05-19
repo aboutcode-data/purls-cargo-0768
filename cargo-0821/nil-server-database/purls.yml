@@ -2,6 +2,7 @@
 - pkg:cargo/nil-server-database@0.4.23
 - pkg:cargo/nil-server-database@0.5.0
 - pkg:cargo/nil-server-database@0.5.1
+- pkg:cargo/nil-server-database@0.5.10
 - pkg:cargo/nil-server-database@0.5.2
 - pkg:cargo/nil-server-database@0.5.3
 - pkg:cargo/nil-server-database@0.5.4

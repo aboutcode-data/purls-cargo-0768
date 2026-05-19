@@ -1,1 +1,2 @@
 - pkg:cargo/openauth-tokio-postgres@0.0.4
+- pkg:cargo/openauth-tokio-postgres@0.0.5

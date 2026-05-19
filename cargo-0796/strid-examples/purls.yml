@@ -1,4 +1,5 @@
 - pkg:cargo/strid-examples@1.0.0
+- pkg:cargo/strid-examples@10.0.0
 - pkg:cargo/strid-examples@2.1.0
 - pkg:cargo/strid-examples@3.0.0
 - pkg:cargo/strid-examples@4.0.0
