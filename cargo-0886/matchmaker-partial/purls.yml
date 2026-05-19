@@ -6,6 +6,9 @@
 - pkg:cargo/matchmaker-partial@0.0.18
 - pkg:cargo/matchmaker-partial@0.0.19
 - pkg:cargo/matchmaker-partial@0.0.2
+- pkg:cargo/matchmaker-partial@0.0.20
+- pkg:cargo/matchmaker-partial@0.0.28
+- pkg:cargo/matchmaker-partial@0.0.29
 - pkg:cargo/matchmaker-partial@0.0.5
 - pkg:cargo/matchmaker-partial@0.0.7
 - pkg:cargo/matchmaker-partial@0.0.8
