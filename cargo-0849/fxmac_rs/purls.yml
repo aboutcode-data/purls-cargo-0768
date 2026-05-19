@@ -10,3 +10,4 @@
 - pkg:cargo/fxmac_rs@0.4.7
 - pkg:cargo/fxmac_rs@0.4.8
 - pkg:cargo/fxmac_rs@0.5.0
+- pkg:cargo/fxmac_rs@0.5.1
