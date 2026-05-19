@@ -50,6 +50,7 @@
 - pkg:cargo/clvm-utils@0.41.1
 - pkg:cargo/clvm-utils@0.42.0
 - pkg:cargo/clvm-utils@0.42.1
+- pkg:cargo/clvm-utils@0.43.0
 - pkg:cargo/clvm-utils@0.5.1
 - pkg:cargo/clvm-utils@0.6.0
 - pkg:cargo/clvm-utils@0.7.0
