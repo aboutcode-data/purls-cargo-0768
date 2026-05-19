@@ -1,2 +1,3 @@
 - pkg:cargo/yoa-billing-sdk@0.12.4
 - pkg:cargo/yoa-billing-sdk@0.12.5
+- pkg:cargo/yoa-billing-sdk@0.12.6
