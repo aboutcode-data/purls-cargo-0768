@@ -4,6 +4,7 @@
 - pkg:cargo/agglayer-interop-types@0.13.0
 - pkg:cargo/agglayer-interop-types@0.14.0
 - pkg:cargo/agglayer-interop-types@0.15.0
+- pkg:cargo/agglayer-interop-types@0.16.0
 - pkg:cargo/agglayer-interop-types@0.6.0
 - pkg:cargo/agglayer-interop-types@0.7.1
 - pkg:cargo/agglayer-interop-types@0.8.0

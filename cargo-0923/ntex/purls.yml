@@ -238,3 +238,4 @@
 - pkg:cargo/ntex@3.9.3
 - pkg:cargo/ntex@3.9.4
 - pkg:cargo/ntex@3.9.5
+- pkg:cargo/ntex@3.9.6
