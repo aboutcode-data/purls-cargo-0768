@@ -1,3 +1,5 @@
 - pkg:cargo/hjkl-holler-tui@0.1.0
 - pkg:cargo/hjkl-holler-tui@0.25.0
 - pkg:cargo/hjkl-holler-tui@0.25.1
+- pkg:cargo/hjkl-holler-tui@0.26.0
+- pkg:cargo/hjkl-holler-tui@0.27.0
