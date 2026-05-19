@@ -8,3 +8,6 @@
 - pkg:cargo/relay-core-script@0.3.3
 - pkg:cargo/relay-core-script@0.3.4
 - pkg:cargo/relay-core-script@0.3.5
+- pkg:cargo/relay-core-script@0.3.6
+- pkg:cargo/relay-core-script@0.3.7
+- pkg:cargo/relay-core-script@0.3.8

@@ -7,6 +7,7 @@
 - pkg:cargo/revm-state@10.0.0
 - pkg:cargo/revm-state@11.0.0
 - pkg:cargo/revm-state@11.0.1
+- pkg:cargo/revm-state@12.0.0
 - pkg:cargo/revm-state@2.0.0
 - pkg:cargo/revm-state@3.0.0
 - pkg:cargo/revm-state@3.0.1
