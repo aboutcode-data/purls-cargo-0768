@@ -3,3 +3,5 @@
 - pkg:cargo/storekit-rs@0.3.1
 - pkg:cargo/storekit-rs@0.3.2
 - pkg:cargo/storekit-rs@0.4.0
+- pkg:cargo/storekit-rs@0.4.1
+- pkg:cargo/storekit-rs@0.4.2
