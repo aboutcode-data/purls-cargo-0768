@@ -37,6 +37,7 @@
 - pkg:cargo/uv-distribution@0.0.44
 - pkg:cargo/uv-distribution@0.0.45
 - pkg:cargo/uv-distribution@0.0.47
+- pkg:cargo/uv-distribution@0.0.48
 - pkg:cargo/uv-distribution@0.0.5
 - pkg:cargo/uv-distribution@0.0.6
 - pkg:cargo/uv-distribution@0.0.7

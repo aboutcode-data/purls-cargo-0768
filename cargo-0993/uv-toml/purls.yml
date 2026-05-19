@@ -1,1 +1,2 @@
 - pkg:cargo/uv-toml@0.0.0
+- pkg:cargo/uv-toml@0.0.48
