@@ -1,3 +1,4 @@
+- pkg:cargo/sophia_iri@0.10.0
 - pkg:cargo/sophia_iri@0.6.0
 - pkg:cargo/sophia_iri@0.6.1
 - pkg:cargo/sophia_iri@0.6.2

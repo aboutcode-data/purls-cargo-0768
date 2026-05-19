@@ -1,3 +1,4 @@
+- pkg:cargo/sophia_isomorphism@0.10.0
 - pkg:cargo/sophia_isomorphism@0.8.0
 - pkg:cargo/sophia_isomorphism@0.8.0-alpha.0
 - pkg:cargo/sophia_isomorphism@0.8.0-alpha.1
