@@ -105,3 +105,4 @@
 - pkg:cargo/leptos_config@0.8.7
 - pkg:cargo/leptos_config@0.8.8
 - pkg:cargo/leptos_config@0.8.9
+- pkg:cargo/leptos_config@0.9.0-alpha
