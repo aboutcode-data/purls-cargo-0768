@@ -5,3 +5,4 @@
 - pkg:cargo/fakecloud-ecr@0.13.2
 - pkg:cargo/fakecloud-ecr@0.13.3
 - pkg:cargo/fakecloud-ecr@0.14.0
+- pkg:cargo/fakecloud-ecr@0.15.0

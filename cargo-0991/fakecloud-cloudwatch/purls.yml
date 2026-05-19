@@ -1,1 +1,2 @@
 - pkg:cargo/fakecloud-cloudwatch@0.14.0
+- pkg:cargo/fakecloud-cloudwatch@0.15.0

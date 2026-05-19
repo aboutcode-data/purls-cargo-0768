@@ -9,6 +9,7 @@
 - pkg:cargo/fakecloud-ssm@0.13.2
 - pkg:cargo/fakecloud-ssm@0.13.3
 - pkg:cargo/fakecloud-ssm@0.14.0
+- pkg:cargo/fakecloud-ssm@0.15.0
 - pkg:cargo/fakecloud-ssm@0.2.0
 - pkg:cargo/fakecloud-ssm@0.5.0
 - pkg:cargo/fakecloud-ssm@0.5.1
