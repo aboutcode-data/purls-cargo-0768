@@ -25,7 +25,10 @@
 - pkg:cargo/meerkat-mobkit@0.6.25
 - pkg:cargo/meerkat-mobkit@0.6.26
 - pkg:cargo/meerkat-mobkit@0.6.27
+- pkg:cargo/meerkat-mobkit@0.6.28
+- pkg:cargo/meerkat-mobkit@0.6.29
 - pkg:cargo/meerkat-mobkit@0.6.3
+- pkg:cargo/meerkat-mobkit@0.6.30
 - pkg:cargo/meerkat-mobkit@0.6.4
 - pkg:cargo/meerkat-mobkit@0.6.5
 - pkg:cargo/meerkat-mobkit@0.6.6

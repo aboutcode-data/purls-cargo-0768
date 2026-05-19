@@ -3,3 +3,4 @@
 - pkg:cargo/pxsolver-pipeline@1.4.0
 - pkg:cargo/pxsolver-pipeline@1.5.0
 - pkg:cargo/pxsolver-pipeline@1.6.0
+- pkg:cargo/pxsolver-pipeline@1.7.0
