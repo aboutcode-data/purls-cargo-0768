@@ -21,5 +21,6 @@
 - pkg:cargo/cartog-languages@0.16.0
 - pkg:cargo/cartog-languages@0.16.1
 - pkg:cargo/cartog-languages@0.16.2
+- pkg:cargo/cartog-languages@0.17.0
 - pkg:cargo/cartog-languages@0.9.3
 - pkg:cargo/cartog-languages@0.9.4
