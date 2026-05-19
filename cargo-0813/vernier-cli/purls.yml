@@ -3,3 +3,4 @@
 - pkg:cargo/vernier-cli@0.0.2
 - pkg:cargo/vernier-cli@0.0.3
 - pkg:cargo/vernier-cli@0.0.4
+- pkg:cargo/vernier-cli@0.1.0
