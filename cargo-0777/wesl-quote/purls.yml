@@ -1,3 +1,4 @@
 - pkg:cargo/wesl-quote@0.3.0
 - pkg:cargo/wesl-quote@0.3.1
 - pkg:cargo/wesl-quote@0.3.2
+- pkg:cargo/wesl-quote@0.4.0
