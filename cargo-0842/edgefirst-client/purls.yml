@@ -1,4 +1,5 @@
 - pkg:cargo/edgefirst-client@2.10.0
+- pkg:cargo/edgefirst-client@2.10.1
 - pkg:cargo/edgefirst-client@2.2.3
 - pkg:cargo/edgefirst-client@2.2.5
 - pkg:cargo/edgefirst-client@2.3.0

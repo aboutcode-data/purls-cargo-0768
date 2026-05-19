@@ -22,6 +22,7 @@
 - pkg:cargo/sqry-lang-css@15.0.3
 - pkg:cargo/sqry-lang-css@15.0.4
 - pkg:cargo/sqry-lang-css@15.0.6
+- pkg:cargo/sqry-lang-css@16.0.2
 - pkg:cargo/sqry-lang-css@4.10.0
 - pkg:cargo/sqry-lang-css@4.10.1
 - pkg:cargo/sqry-lang-css@4.10.13
