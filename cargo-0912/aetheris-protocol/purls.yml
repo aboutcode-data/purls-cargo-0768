@@ -15,6 +15,7 @@
 - pkg:cargo/aetheris-protocol@0.2.21
 - pkg:cargo/aetheris-protocol@0.2.22
 - pkg:cargo/aetheris-protocol@0.2.23
+- pkg:cargo/aetheris-protocol@0.2.24
 - pkg:cargo/aetheris-protocol@0.2.3
 - pkg:cargo/aetheris-protocol@0.2.4
 - pkg:cargo/aetheris-protocol@0.2.5
