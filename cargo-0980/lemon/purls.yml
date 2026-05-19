@@ -7,7 +7,9 @@
 - pkg:cargo/lemon@0.2.0-alpha.13
 - pkg:cargo/lemon@0.2.0-alpha.14
 - pkg:cargo/lemon@0.2.0-alpha.15
+- pkg:cargo/lemon@0.2.0-alpha.18
 - pkg:cargo/lemon@0.2.0-alpha.2
+- pkg:cargo/lemon@0.2.0-alpha.21
 - pkg:cargo/lemon@0.2.0-alpha.3
 - pkg:cargo/lemon@0.2.0-alpha.4
 - pkg:cargo/lemon@0.2.0-alpha.5

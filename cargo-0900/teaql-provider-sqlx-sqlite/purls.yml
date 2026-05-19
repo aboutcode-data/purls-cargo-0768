@@ -1,1 +1,2 @@
 - pkg:cargo/teaql-provider-sqlx-sqlite@0.7.5
+- pkg:cargo/teaql-provider-sqlx-sqlite@0.7.6
