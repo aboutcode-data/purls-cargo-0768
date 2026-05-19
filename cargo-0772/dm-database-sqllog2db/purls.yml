@@ -21,3 +21,4 @@
 - pkg:cargo/dm-database-sqllog2db@0.7.0
 - pkg:cargo/dm-database-sqllog2db@0.9.0
 - pkg:cargo/dm-database-sqllog2db@1.3.0
+- pkg:cargo/dm-database-sqllog2db@1.4.0
