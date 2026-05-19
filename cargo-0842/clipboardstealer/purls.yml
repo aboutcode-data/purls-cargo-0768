@@ -66,6 +66,8 @@
 - pkg:cargo/clipboardstealer@4.10.3
 - pkg:cargo/clipboardstealer@4.10.4
 - pkg:cargo/clipboardstealer@4.11.0
+- pkg:cargo/clipboardstealer@4.11.1
+- pkg:cargo/clipboardstealer@4.11.2
 - pkg:cargo/clipboardstealer@4.2.0
 - pkg:cargo/clipboardstealer@4.2.1
 - pkg:cargo/clipboardstealer@4.2.2
