@@ -21,3 +21,4 @@
 - pkg:cargo/tree-sitter-generate@0.26.6
 - pkg:cargo/tree-sitter-generate@0.26.7
 - pkg:cargo/tree-sitter-generate@0.26.8
+- pkg:cargo/tree-sitter-generate@0.26.9
