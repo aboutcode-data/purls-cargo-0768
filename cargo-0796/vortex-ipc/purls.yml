@@ -59,3 +59,4 @@
 - pkg:cargo/vortex-ipc@0.68.0
 - pkg:cargo/vortex-ipc@0.69.0
 - pkg:cargo/vortex-ipc@0.70.0
+- pkg:cargo/vortex-ipc@0.71.0
