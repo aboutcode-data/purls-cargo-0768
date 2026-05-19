@@ -1,1 +1,2 @@
 - pkg:cargo/hypersync-solana-net-types@0.0.1
+- pkg:cargo/hypersync-solana-net-types@0.0.2-rc.1

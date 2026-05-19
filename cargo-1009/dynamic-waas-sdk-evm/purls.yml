@@ -1,1 +1,2 @@
 - pkg:cargo/dynamic-waas-sdk-evm@0.0.2
+- pkg:cargo/dynamic-waas-sdk-evm@0.0.3
