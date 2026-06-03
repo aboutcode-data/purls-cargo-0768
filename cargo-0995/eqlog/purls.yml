@@ -19,3 +19,4 @@
 - pkg:cargo/eqlog@0.7.1
 - pkg:cargo/eqlog@0.7.2
 - pkg:cargo/eqlog@0.8.0
+- pkg:cargo/eqlog@0.9.0
