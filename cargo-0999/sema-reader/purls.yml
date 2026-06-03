@@ -8,6 +8,7 @@
 - pkg:cargo/sema-reader@1.14.2
 - pkg:cargo/sema-reader@1.14.3
 - pkg:cargo/sema-reader@1.15.0
+- pkg:cargo/sema-reader@1.16.0
 - pkg:cargo/sema-reader@1.6.1
 - pkg:cargo/sema-reader@1.6.2
 - pkg:cargo/sema-reader@1.7.0
