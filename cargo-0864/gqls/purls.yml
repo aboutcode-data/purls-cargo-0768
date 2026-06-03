@@ -1,5 +1,7 @@
 - pkg:cargo/gqls@0.1.0
 - pkg:cargo/gqls@0.1.1
+- pkg:cargo/gqls@0.10.0
+- pkg:cargo/gqls@0.10.1
 - pkg:cargo/gqls@0.8.0
 - pkg:cargo/gqls@0.8.1
 - pkg:cargo/gqls@0.8.2
