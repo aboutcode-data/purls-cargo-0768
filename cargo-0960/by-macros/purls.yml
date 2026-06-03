@@ -15,7 +15,12 @@
 - pkg:cargo/by-macros@0.6.13
 - pkg:cargo/by-macros@0.6.14
 - pkg:cargo/by-macros@0.6.15
+- pkg:cargo/by-macros@0.6.16
+- pkg:cargo/by-macros@0.6.17
+- pkg:cargo/by-macros@0.6.18
+- pkg:cargo/by-macros@0.6.19
 - pkg:cargo/by-macros@0.6.2
+- pkg:cargo/by-macros@0.6.20
 - pkg:cargo/by-macros@0.6.4
 - pkg:cargo/by-macros@0.6.6
 - pkg:cargo/by-macros@0.6.7
