@@ -1,3 +1,4 @@
 - pkg:cargo/gsettings-desktop-schemas-xinux@0.21.5
+- pkg:cargo/gsettings-desktop-schemas-xinux@0.22.0
 - pkg:cargo/gsettings-desktop-schemas-xinux@0.3.2
 - pkg:cargo/gsettings-desktop-schemas-xinux@0.4.4
