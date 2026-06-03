@@ -1,2 +1,9 @@
+- pkg:cargo/yoa-backtest-api-sdk@10.0.0
+- pkg:cargo/yoa-backtest-api-sdk@10.1.0
+- pkg:cargo/yoa-backtest-api-sdk@10.2.0
+- pkg:cargo/yoa-backtest-api-sdk@10.3.0
+- pkg:cargo/yoa-backtest-api-sdk@11.0.0
+- pkg:cargo/yoa-backtest-api-sdk@11.0.1
+- pkg:cargo/yoa-backtest-api-sdk@11.0.2
 - pkg:cargo/yoa-backtest-api-sdk@9.0.1
 - pkg:cargo/yoa-backtest-api-sdk@9.0.2
