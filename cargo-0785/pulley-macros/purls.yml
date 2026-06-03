@@ -4,6 +4,7 @@
 - pkg:cargo/pulley-macros@35.0.0
 - pkg:cargo/pulley-macros@36.0.0
 - pkg:cargo/pulley-macros@36.0.1
+- pkg:cargo/pulley-macros@36.0.10
 - pkg:cargo/pulley-macros@36.0.2
 - pkg:cargo/pulley-macros@36.0.3
 - pkg:cargo/pulley-macros@36.0.4
@@ -42,3 +43,5 @@
 - pkg:cargo/pulley-macros@43.0.2
 - pkg:cargo/pulley-macros@44.0.0
 - pkg:cargo/pulley-macros@44.0.1
+- pkg:cargo/pulley-macros@44.0.2
+- pkg:cargo/pulley-macros@45.0.0
