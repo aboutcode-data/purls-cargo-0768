@@ -16,6 +16,11 @@
 - pkg:cargo/iftoprs@2.22.0
 - pkg:cargo/iftoprs@2.22.1
 - pkg:cargo/iftoprs@2.22.2
+- pkg:cargo/iftoprs@2.22.4
+- pkg:cargo/iftoprs@2.22.5
+- pkg:cargo/iftoprs@2.22.6
+- pkg:cargo/iftoprs@2.22.7
+- pkg:cargo/iftoprs@2.22.8
 - pkg:cargo/iftoprs@2.3.0
 - pkg:cargo/iftoprs@2.4.0
 - pkg:cargo/iftoprs@2.5.0
