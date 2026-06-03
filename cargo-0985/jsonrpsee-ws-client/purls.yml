@@ -43,6 +43,7 @@
 - pkg:cargo/jsonrpsee-ws-client@0.24.0
 - pkg:cargo/jsonrpsee-ws-client@0.24.1
 - pkg:cargo/jsonrpsee-ws-client@0.24.10
+- pkg:cargo/jsonrpsee-ws-client@0.24.11
 - pkg:cargo/jsonrpsee-ws-client@0.24.2
 - pkg:cargo/jsonrpsee-ws-client@0.24.3
 - pkg:cargo/jsonrpsee-ws-client@0.24.4
