@@ -17,3 +17,4 @@
 - pkg:cargo/depinfo@0.7.7
 - pkg:cargo/depinfo@0.7.8
 - pkg:cargo/depinfo@0.7.9
+- pkg:cargo/depinfo@0.8.0-alpha.0
