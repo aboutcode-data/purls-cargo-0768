@@ -22,3 +22,4 @@
 - pkg:cargo/fsmon@0.4.2
 - pkg:cargo/fsmon@0.4.3
 - pkg:cargo/fsmon@0.4.4
+- pkg:cargo/fsmon@0.4.5
