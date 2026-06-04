@@ -12,3 +12,4 @@
 - pkg:cargo/convfmt@1.2.1
 - pkg:cargo/convfmt@2.0.0
 - pkg:cargo/convfmt@2.1.0
+- pkg:cargo/convfmt@2.1.1

@@ -1,1 +1,2 @@
 - pkg:cargo/converge-embassy-openalex@0.1.0
+- pkg:cargo/converge-embassy-openalex@1.3.1
