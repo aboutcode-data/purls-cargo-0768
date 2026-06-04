@@ -1,3 +1,4 @@
 - pkg:cargo/servo-storage-traits@0.1.0
 - pkg:cargo/servo-storage-traits@0.1.0-rc1
 - pkg:cargo/servo-storage-traits@0.1.0-rc2
+- pkg:cargo/servo-storage-traits@0.2.0
