@@ -6,3 +6,6 @@
 - pkg:cargo/shape-jit@0.1.6
 - pkg:cargo/shape-jit@0.1.7
 - pkg:cargo/shape-jit@0.1.8
+- pkg:cargo/shape-jit@0.3.0
+- pkg:cargo/shape-jit@0.3.1
+- pkg:cargo/shape-jit@0.3.2
