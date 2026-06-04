@@ -1,4 +1,6 @@
 - pkg:cargo/deno_npmrc@0.1.0
+- pkg:cargo/deno_npmrc@0.10.0
+- pkg:cargo/deno_npmrc@0.11.0
 - pkg:cargo/deno_npmrc@0.2.0
 - pkg:cargo/deno_npmrc@0.3.0
 - pkg:cargo/deno_npmrc@0.4.0
@@ -6,3 +8,4 @@
 - pkg:cargo/deno_npmrc@0.6.0
 - pkg:cargo/deno_npmrc@0.7.0
 - pkg:cargo/deno_npmrc@0.8.0
+- pkg:cargo/deno_npmrc@0.9.0
