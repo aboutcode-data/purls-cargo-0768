@@ -1,2 +1,3 @@
 - pkg:cargo/shipper-cargo-failure@0.3.0-rc.1
 - pkg:cargo/shipper-cargo-failure@0.3.0-rc.2
+- pkg:cargo/shipper-cargo-failure@0.4.0
