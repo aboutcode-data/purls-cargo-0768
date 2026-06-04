@@ -1,3 +1,4 @@
 - pkg:cargo/wesley-emit-typescript@0.0.2
 - pkg:cargo/wesley-emit-typescript@0.0.3
 - pkg:cargo/wesley-emit-typescript@0.0.4
+- pkg:cargo/wesley-emit-typescript@0.0.5
