@@ -5,6 +5,7 @@
 - pkg:cargo/sa-token-plugin-actix-web@0.1.12
 - pkg:cargo/sa-token-plugin-actix-web@0.1.14
 - pkg:cargo/sa-token-plugin-actix-web@0.1.15
+- pkg:cargo/sa-token-plugin-actix-web@0.1.16
 - pkg:cargo/sa-token-plugin-actix-web@0.1.2
 - pkg:cargo/sa-token-plugin-actix-web@0.1.3
 - pkg:cargo/sa-token-plugin-actix-web@0.1.4
