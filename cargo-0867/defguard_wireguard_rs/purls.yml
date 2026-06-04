@@ -1,3 +1,4 @@
+- pkg:cargo/defguard_wireguard_rs@0.10.0
 - pkg:cargo/defguard_wireguard_rs@0.2.0
 - pkg:cargo/defguard_wireguard_rs@0.2.1
 - pkg:cargo/defguard_wireguard_rs@0.2.2
@@ -24,3 +25,4 @@
 - pkg:cargo/defguard_wireguard_rs@0.9.4
 - pkg:cargo/defguard_wireguard_rs@0.9.5
 - pkg:cargo/defguard_wireguard_rs@0.9.6
+- pkg:cargo/defguard_wireguard_rs@0.9.7
