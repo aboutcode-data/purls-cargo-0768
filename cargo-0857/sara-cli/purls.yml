@@ -23,3 +23,4 @@
 - pkg:cargo/sara-cli@0.7.6
 - pkg:cargo/sara-cli@0.7.7
 - pkg:cargo/sara-cli@0.8.0
+- pkg:cargo/sara-cli@0.8.1
