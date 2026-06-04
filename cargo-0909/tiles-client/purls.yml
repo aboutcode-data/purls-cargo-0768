@@ -1,3 +1,6 @@
+- pkg:cargo/tiles-client@0.10.0
+- pkg:cargo/tiles-client@0.11.0
+- pkg:cargo/tiles-client@0.11.1
 - pkg:cargo/tiles-client@0.8.0
 - pkg:cargo/tiles-client@0.8.1
 - pkg:cargo/tiles-client@0.9.0
