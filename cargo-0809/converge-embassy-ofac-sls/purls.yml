@@ -1,1 +1,2 @@
 - pkg:cargo/converge-embassy-ofac-sls@0.1.0
+- pkg:cargo/converge-embassy-ofac-sls@1.3.1

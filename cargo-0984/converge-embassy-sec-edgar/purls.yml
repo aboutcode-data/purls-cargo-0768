@@ -1,1 +1,2 @@
 - pkg:cargo/converge-embassy-sec-edgar@0.1.0
+- pkg:cargo/converge-embassy-sec-edgar@1.3.1

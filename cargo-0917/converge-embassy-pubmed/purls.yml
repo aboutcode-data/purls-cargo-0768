@@ -1,1 +1,2 @@
 - pkg:cargo/converge-embassy-pubmed@0.1.0
+- pkg:cargo/converge-embassy-pubmed@1.3.1
