@@ -10,3 +10,4 @@
 - pkg:cargo/converge-kernel@3.8.1
 - pkg:cargo/converge-kernel@3.9.0
 - pkg:cargo/converge-kernel@3.9.1
+- pkg:cargo/converge-kernel@3.9.2

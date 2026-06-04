@@ -1,1 +1,2 @@
 - pkg:cargo/converge-embassy-commerce-csl@0.1.0
+- pkg:cargo/converge-embassy-commerce-csl@1.3.1
