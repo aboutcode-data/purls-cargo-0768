@@ -1,4 +1,6 @@
 - pkg:cargo/a2a-slimrpc@0.1.10
 - pkg:cargo/a2a-slimrpc@0.1.11
+- pkg:cargo/a2a-slimrpc@0.1.12
+- pkg:cargo/a2a-slimrpc@0.1.13
 - pkg:cargo/a2a-slimrpc@0.1.8
 - pkg:cargo/a2a-slimrpc@0.1.9
