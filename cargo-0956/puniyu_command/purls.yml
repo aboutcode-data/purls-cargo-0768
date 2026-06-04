@@ -17,6 +17,10 @@
 - pkg:cargo/puniyu_command@0.8.10
 - pkg:cargo/puniyu_command@0.8.11
 - pkg:cargo/puniyu_command@0.8.12
+- pkg:cargo/puniyu_command@0.8.13
+- pkg:cargo/puniyu_command@0.8.14
+- pkg:cargo/puniyu_command@0.8.15
+- pkg:cargo/puniyu_command@0.8.16
 - pkg:cargo/puniyu_command@0.8.2
 - pkg:cargo/puniyu_command@0.8.3
 - pkg:cargo/puniyu_command@0.8.4
