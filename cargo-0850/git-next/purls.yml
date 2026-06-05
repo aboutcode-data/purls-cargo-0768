@@ -31,3 +31,4 @@
 - pkg:cargo/git-next@2025.5.0
 - pkg:cargo/git-next@2025.5.1
 - pkg:cargo/git-next@2025.7.1
+- pkg:cargo/git-next@2026.5.4
