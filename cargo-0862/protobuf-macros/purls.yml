@@ -20,5 +20,7 @@
 - pkg:cargo/protobuf-macros@4.34.0-rc.2
 - pkg:cargo/protobuf-macros@4.34.0-release
 - pkg:cargo/protobuf-macros@4.34.1-release
+- pkg:cargo/protobuf-macros@4.34.2-release
 - pkg:cargo/protobuf-macros@4.35.0-rc.1
 - pkg:cargo/protobuf-macros@4.35.0-rc.2
+- pkg:cargo/protobuf-macros@4.35.0-release
