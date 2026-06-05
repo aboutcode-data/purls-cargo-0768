@@ -22,6 +22,9 @@
 - pkg:cargo/puniyu_adapter@0.7.8
 - pkg:cargo/puniyu_adapter@0.8.0
 - pkg:cargo/puniyu_adapter@0.8.1
+- pkg:cargo/puniyu_adapter@0.8.10
+- pkg:cargo/puniyu_adapter@0.8.11
+- pkg:cargo/puniyu_adapter@0.8.12
 - pkg:cargo/puniyu_adapter@0.8.2
 - pkg:cargo/puniyu_adapter@0.8.3
 - pkg:cargo/puniyu_adapter@0.8.4
@@ -30,3 +33,4 @@
 - pkg:cargo/puniyu_adapter@0.8.7
 - pkg:cargo/puniyu_adapter@0.8.8
 - pkg:cargo/puniyu_adapter@0.8.9
+- pkg:cargo/puniyu_adapter@0.9.0
