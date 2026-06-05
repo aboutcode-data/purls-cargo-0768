@@ -1,6 +1,7 @@
 - pkg:cargo/prop-check-rs@0.0.1
 - pkg:cargo/prop-check-rs@0.0.10
 - pkg:cargo/prop-check-rs@0.0.100
+- pkg:cargo/prop-check-rs@0.0.1000
 - pkg:cargo/prop-check-rs@0.0.101
 - pkg:cargo/prop-check-rs@0.0.102
 - pkg:cargo/prop-check-rs@0.0.103
@@ -964,3 +965,4 @@
 - pkg:cargo/prop-check-rs@0.0.996
 - pkg:cargo/prop-check-rs@0.0.997
 - pkg:cargo/prop-check-rs@0.0.998
+- pkg:cargo/prop-check-rs@0.0.999
