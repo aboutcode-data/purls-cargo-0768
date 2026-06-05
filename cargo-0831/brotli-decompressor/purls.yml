@@ -34,3 +34,4 @@
 - pkg:cargo/brotli-decompressor@4.0.2
 - pkg:cargo/brotli-decompressor@4.0.3
 - pkg:cargo/brotli-decompressor@5.0.0
+- pkg:cargo/brotli-decompressor@5.0.1
