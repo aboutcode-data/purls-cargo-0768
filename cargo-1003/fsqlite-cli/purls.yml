@@ -2,3 +2,4 @@
 - pkg:cargo/fsqlite-cli@0.1.1
 - pkg:cargo/fsqlite-cli@0.1.4
 - pkg:cargo/fsqlite-cli@0.1.5
+- pkg:cargo/fsqlite-cli@0.1.7
