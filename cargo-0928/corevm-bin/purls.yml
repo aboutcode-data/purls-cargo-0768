@@ -2,3 +2,4 @@
 - pkg:cargo/corevm-bin@0.1.22-rc.3
 - pkg:cargo/corevm-bin@0.1.22-rc.5
 - pkg:cargo/corevm-bin@0.1.22-rc.6
+- pkg:cargo/corevm-bin@0.1.28

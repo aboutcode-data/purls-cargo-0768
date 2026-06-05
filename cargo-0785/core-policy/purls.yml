@@ -1,2 +1,6 @@
 - pkg:cargo/core-policy@0.10.0
 - pkg:cargo/core-policy@0.10.1
+- pkg:cargo/core-policy@0.10.2
+- pkg:cargo/core-policy@0.10.3
+- pkg:cargo/core-policy@0.11.0
+- pkg:cargo/core-policy@0.11.1
