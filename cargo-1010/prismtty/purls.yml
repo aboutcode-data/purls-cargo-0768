@@ -7,6 +7,7 @@
 - pkg:cargo/prismtty@0.2.7
 - pkg:cargo/prismtty@1.0.0
 - pkg:cargo/prismtty@1.0.1
+- pkg:cargo/prismtty@1.0.10
 - pkg:cargo/prismtty@1.0.2
 - pkg:cargo/prismtty@1.0.3
 - pkg:cargo/prismtty@1.0.4
