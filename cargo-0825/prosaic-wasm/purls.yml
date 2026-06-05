@@ -1,3 +1,4 @@
 - pkg:cargo/prosaic-wasm@0.6.1
 - pkg:cargo/prosaic-wasm@0.6.2
 - pkg:cargo/prosaic-wasm@1.0.0
+- pkg:cargo/prosaic-wasm@1.0.1
