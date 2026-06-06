@@ -110,6 +110,9 @@
 - pkg:cargo/derive_atom_set@0.0.24-canary.db76beb685
 - pkg:cargo/derive_atom_set@0.0.24-canary.e4ebbd3fc7
 - pkg:cargo/derive_atom_set@0.0.24-canary.edfcaf7f90
+- pkg:cargo/derive_atom_set@0.0.25-canary.6e0cae824e
+- pkg:cargo/derive_atom_set@0.0.25-canary.7aa2833f86
+- pkg:cargo/derive_atom_set@0.0.25-canary.b8c3cbfff0
 - pkg:cargo/derive_atom_set@0.0.3
 - pkg:cargo/derive_atom_set@0.0.3-canary.2b9ff762ce0a482b5dd39eb212ef34f687a0bd5a
 - pkg:cargo/derive_atom_set@0.0.3-canary.5648c010d7f9d040fc2f6b2e6f93205256865583
