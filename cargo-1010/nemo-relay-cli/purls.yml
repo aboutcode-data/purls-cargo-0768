@@ -1,0 +1,4 @@
+- pkg:cargo/nemo-relay-cli@0.0.0
+- pkg:cargo/nemo-relay-cli@0.3.0
+- pkg:cargo/nemo-relay-cli@0.3.0-beta.2
+- pkg:cargo/nemo-relay-cli@0.3.0-rc.1
