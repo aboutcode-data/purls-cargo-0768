@@ -49,6 +49,7 @@
 - pkg:cargo/vtcode-file-search@0.121.0
 - pkg:cargo/vtcode-file-search@0.121.1
 - pkg:cargo/vtcode-file-search@0.122.0
+- pkg:cargo/vtcode-file-search@0.123.0
 - pkg:cargo/vtcode-file-search@0.56.0
 - pkg:cargo/vtcode-file-search@0.57.0
 - pkg:cargo/vtcode-file-search@0.58.0
