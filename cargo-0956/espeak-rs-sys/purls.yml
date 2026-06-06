@@ -5,3 +5,4 @@
 - pkg:cargo/espeak-rs-sys@0.1.6
 - pkg:cargo/espeak-rs-sys@0.1.8
 - pkg:cargo/espeak-rs-sys@0.1.9
+- pkg:cargo/espeak-rs-sys@0.2.0
