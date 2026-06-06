@@ -12,3 +12,8 @@
 - pkg:cargo/netbox-openapi@0.3.2
 - pkg:cargo/netbox-openapi@0.3.3
 - pkg:cargo/netbox-openapi@0.4.0
+- pkg:cargo/netbox-openapi@0.5.0
+- pkg:cargo/netbox-openapi@0.5.1
+- pkg:cargo/netbox-openapi@0.5.2
+- pkg:cargo/netbox-openapi@0.5.3
+- pkg:cargo/netbox-openapi@0.5.4
