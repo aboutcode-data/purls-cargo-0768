@@ -50,6 +50,11 @@
 - pkg:cargo/vtcode-config@0.121.1
 - pkg:cargo/vtcode-config@0.122.0
 - pkg:cargo/vtcode-config@0.123.0
+- pkg:cargo/vtcode-config@0.123.1
+- pkg:cargo/vtcode-config@0.123.2
+- pkg:cargo/vtcode-config@0.123.3
+- pkg:cargo/vtcode-config@0.123.4
+- pkg:cargo/vtcode-config@0.123.5
 - pkg:cargo/vtcode-config@0.30.7
 - pkg:cargo/vtcode-config@0.31.0
 - pkg:cargo/vtcode-config@0.33.0
