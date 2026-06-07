@@ -1,3 +1,4 @@
 - pkg:cargo/vmdk-forensic@0.1.0
 - pkg:cargo/vmdk-forensic@0.2.0
 - pkg:cargo/vmdk-forensic@0.5.1
+- pkg:cargo/vmdk-forensic@0.6.0
