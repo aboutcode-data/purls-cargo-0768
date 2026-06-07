@@ -3,6 +3,7 @@
 - pkg:cargo/denokv_proto@0.11.0
 - pkg:cargo/denokv_proto@0.12.0
 - pkg:cargo/denokv_proto@0.13.0
+- pkg:cargo/denokv_proto@0.14.0
 - pkg:cargo/denokv_proto@0.2.0
 - pkg:cargo/denokv_proto@0.2.1
 - pkg:cargo/denokv_proto@0.3.0
