@@ -18,6 +18,7 @@
 - pkg:cargo/gilt@0.9.1
 - pkg:cargo/gilt@1.0.0
 - pkg:cargo/gilt@1.1.0
+- pkg:cargo/gilt@1.10.0
 - pkg:cargo/gilt@1.2.0
 - pkg:cargo/gilt@1.3.0
 - pkg:cargo/gilt@1.3.1
@@ -29,3 +30,5 @@
 - pkg:cargo/gilt@1.6.0
 - pkg:cargo/gilt@1.7.0
 - pkg:cargo/gilt@1.7.1
+- pkg:cargo/gilt@1.8.0
+- pkg:cargo/gilt@1.9.0
