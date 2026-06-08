@@ -30,3 +30,4 @@
 - pkg:cargo/vaas@6.1.2
 - pkg:cargo/vaas@7.0.0
 - pkg:cargo/vaas@7.1.0
+- pkg:cargo/vaas@7.1.1
