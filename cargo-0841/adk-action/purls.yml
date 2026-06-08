@@ -8,3 +8,4 @@
 - pkg:cargo/adk-action@0.8.4
 - pkg:cargo/adk-action@0.9.0
 - pkg:cargo/adk-action@0.9.1
+- pkg:cargo/adk-action@1.0.0

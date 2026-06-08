@@ -24,3 +24,4 @@
 - pkg:cargo/adk-core@0.8.4
 - pkg:cargo/adk-core@0.9.0
 - pkg:cargo/adk-core@0.9.1
+- pkg:cargo/adk-core@1.0.0
