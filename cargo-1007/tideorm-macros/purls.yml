@@ -28,6 +28,8 @@
 - pkg:cargo/tideorm-macros@0.9.14
 - pkg:cargo/tideorm-macros@0.9.15
 - pkg:cargo/tideorm-macros@0.9.16
+- pkg:cargo/tideorm-macros@0.9.17
+- pkg:cargo/tideorm-macros@0.9.18
 - pkg:cargo/tideorm-macros@0.9.2
 - pkg:cargo/tideorm-macros@0.9.3
 - pkg:cargo/tideorm-macros@0.9.4
