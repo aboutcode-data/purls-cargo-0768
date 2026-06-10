@@ -7,3 +7,4 @@
 - pkg:cargo/vmette-provider-oci@0.6.0
 - pkg:cargo/vmette-provider-oci@0.7.0
 - pkg:cargo/vmette-provider-oci@0.8.0
+- pkg:cargo/vmette-provider-oci@0.9.0
