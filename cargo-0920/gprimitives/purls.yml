@@ -1,4 +1,5 @@
 - pkg:cargo/gprimitives@1.10.0
+- pkg:cargo/gprimitives@1.10.0-600576ccacommit
 - pkg:cargo/gprimitives@1.4.2
 - pkg:cargo/gprimitives@1.5.0
 - pkg:cargo/gprimitives@1.5.1
