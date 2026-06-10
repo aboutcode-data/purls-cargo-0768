@@ -1,6 +1,9 @@
 - pkg:cargo/dsc-rs@0.10.0
 - pkg:cargo/dsc-rs@0.10.1
 - pkg:cargo/dsc-rs@0.10.10
+- pkg:cargo/dsc-rs@0.10.11
+- pkg:cargo/dsc-rs@0.10.12
+- pkg:cargo/dsc-rs@0.10.13
 - pkg:cargo/dsc-rs@0.10.2
 - pkg:cargo/dsc-rs@0.10.3
 - pkg:cargo/dsc-rs@0.10.9
