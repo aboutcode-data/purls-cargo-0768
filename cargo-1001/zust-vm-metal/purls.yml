@@ -6,3 +6,4 @@
 - pkg:cargo/zust-vm-metal@0.9.6
 - pkg:cargo/zust-vm-metal@0.9.7
 - pkg:cargo/zust-vm-metal@0.9.8
+- pkg:cargo/zust-vm-metal@0.9.9
