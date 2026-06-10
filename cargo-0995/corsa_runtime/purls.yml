@@ -33,6 +33,8 @@
 - pkg:cargo/corsa_runtime@0.40.1
 - pkg:cargo/corsa_runtime@0.41.0
 - pkg:cargo/corsa_runtime@0.41.1
+- pkg:cargo/corsa_runtime@0.42.0
+- pkg:cargo/corsa_runtime@0.43.0
 - pkg:cargo/corsa_runtime@0.7.0
 - pkg:cargo/corsa_runtime@0.7.1
 - pkg:cargo/corsa_runtime@0.8.0
