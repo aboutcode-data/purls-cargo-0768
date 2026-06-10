@@ -89,6 +89,7 @@
 - pkg:cargo/saorsa-gossip-membership@0.5.60
 - pkg:cargo/saorsa-gossip-membership@0.5.61
 - pkg:cargo/saorsa-gossip-membership@0.5.62
+- pkg:cargo/saorsa-gossip-membership@0.5.63
 - pkg:cargo/saorsa-gossip-membership@0.5.7
 - pkg:cargo/saorsa-gossip-membership@0.5.8
 - pkg:cargo/saorsa-gossip-membership@0.5.9
