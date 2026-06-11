@@ -1,3 +1,10 @@
+- pkg:cargo/camel-bean-macros@0.10.0
+- pkg:cargo/camel-bean-macros@0.11.0
+- pkg:cargo/camel-bean-macros@0.11.1
+- pkg:cargo/camel-bean-macros@0.12.0
+- pkg:cargo/camel-bean-macros@0.13.0
+- pkg:cargo/camel-bean-macros@0.14.0
+- pkg:cargo/camel-bean-macros@0.15.0
 - pkg:cargo/camel-bean-macros@0.3.0
 - pkg:cargo/camel-bean-macros@0.3.5
 - pkg:cargo/camel-bean-macros@0.4.0
