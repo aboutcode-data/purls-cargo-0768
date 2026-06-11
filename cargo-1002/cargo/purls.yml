@@ -110,3 +110,5 @@
 - pkg:cargo/cargo@0.94.0
 - pkg:cargo/cargo@0.95.0
 - pkg:cargo/cargo@0.96.0
+- pkg:cargo/cargo@0.97.0
+- pkg:cargo/cargo@0.97.1
