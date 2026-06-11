@@ -27,6 +27,10 @@
 - pkg:cargo/cargo-near@0.2.0
 - pkg:cargo/cargo-near@0.20.0
 - pkg:cargo/cargo-near@0.20.1
+- pkg:cargo/cargo-near@0.20.2
+- pkg:cargo/cargo-near@0.20.3
+- pkg:cargo/cargo-near@0.21.0
+- pkg:cargo/cargo-near@0.21.1
 - pkg:cargo/cargo-near@0.3.0
 - pkg:cargo/cargo-near@0.3.1
 - pkg:cargo/cargo-near@0.4.0
