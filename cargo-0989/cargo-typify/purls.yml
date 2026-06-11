@@ -15,3 +15,4 @@
 - pkg:cargo/cargo-typify@0.6.0
 - pkg:cargo/cargo-typify@0.6.1
 - pkg:cargo/cargo-typify@0.6.2
+- pkg:cargo/cargo-typify@0.7.0
