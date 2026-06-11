@@ -10,6 +10,7 @@
 - pkg:cargo/dom_smoothie@0.15.0
 - pkg:cargo/dom_smoothie@0.16.0
 - pkg:cargo/dom_smoothie@0.17.0
+- pkg:cargo/dom_smoothie@0.18.0
 - pkg:cargo/dom_smoothie@0.2.0
 - pkg:cargo/dom_smoothie@0.3.0
 - pkg:cargo/dom_smoothie@0.4.0
