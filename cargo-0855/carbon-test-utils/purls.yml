@@ -9,3 +9,4 @@
 - pkg:cargo/carbon-test-utils@0.8.1
 - pkg:cargo/carbon-test-utils@0.9.0
 - pkg:cargo/carbon-test-utils@0.9.1
+- pkg:cargo/carbon-test-utils@1.0.0
