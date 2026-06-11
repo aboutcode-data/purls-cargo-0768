@@ -7,3 +7,4 @@
 - pkg:cargo/tufa-rs@0.4.8
 - pkg:cargo/tufa-rs@0.4.9
 - pkg:cargo/tufa-rs@0.5.10
+- pkg:cargo/tufa-rs@0.6.12
