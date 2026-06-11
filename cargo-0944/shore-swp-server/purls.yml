@@ -1,5 +1,6 @@
 - pkg:cargo/shore-swp-server@0.1.0
 - pkg:cargo/shore-swp-server@0.1.1
+- pkg:cargo/shore-swp-server@0.1.2
 - pkg:cargo/shore-swp-server@1.8.10
 - pkg:cargo/shore-swp-server@1.8.11
 - pkg:cargo/shore-swp-server@1.8.12
