@@ -8,3 +8,4 @@
 - pkg:cargo/bcheck@0.3.3
 - pkg:cargo/bcheck@0.3.4
 - pkg:cargo/bcheck@0.4.0
+- pkg:cargo/bcheck@0.4.1
