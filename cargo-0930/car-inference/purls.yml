@@ -7,6 +7,15 @@
 - pkg:cargo/car-inference@0.15.1
 - pkg:cargo/car-inference@0.15.2
 - pkg:cargo/car-inference@0.16.0
+- pkg:cargo/car-inference@0.16.1
+- pkg:cargo/car-inference@0.17.0
+- pkg:cargo/car-inference@0.18.0
+- pkg:cargo/car-inference@0.19.0
+- pkg:cargo/car-inference@0.20.0
+- pkg:cargo/car-inference@0.21.0
+- pkg:cargo/car-inference@0.22.0
+- pkg:cargo/car-inference@0.22.1
+- pkg:cargo/car-inference@0.23.0
 - pkg:cargo/car-inference@0.6.0
 - pkg:cargo/car-inference@0.7.0
 - pkg:cargo/car-inference@0.8.0
