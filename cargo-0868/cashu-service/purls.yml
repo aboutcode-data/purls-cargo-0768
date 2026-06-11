@@ -24,3 +24,6 @@
 - pkg:cargo/cashu-service@0.2.47
 - pkg:cargo/cashu-service@0.2.49
 - pkg:cargo/cashu-service@0.2.51
+- pkg:cargo/cashu-service@0.2.54
+- pkg:cargo/cashu-service@0.2.55
+- pkg:cargo/cashu-service@0.2.56
