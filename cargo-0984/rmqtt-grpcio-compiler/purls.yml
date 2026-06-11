@@ -1,0 +1,4 @@
+- pkg:cargo/rmqtt-grpcio-compiler@0.14.0
+- pkg:cargo/rmqtt-grpcio-compiler@0.14.1
+- pkg:cargo/rmqtt-grpcio-compiler@0.14.2
+- pkg:cargo/rmqtt-grpcio-compiler@0.15.0
