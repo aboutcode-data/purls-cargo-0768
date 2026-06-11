@@ -1,0 +1,4 @@
+- pkg:cargo/docolint-client@0.1.0
+- pkg:cargo/docolint-client@0.1.3
+- pkg:cargo/docolint-client@0.1.4
+- pkg:cargo/docolint-client@0.1.5
