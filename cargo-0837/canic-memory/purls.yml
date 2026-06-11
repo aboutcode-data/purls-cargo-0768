@@ -228,6 +228,7 @@
 - pkg:cargo/canic-memory@0.39.0
 - pkg:cargo/canic-memory@0.39.1
 - pkg:cargo/canic-memory@0.39.10
+- pkg:cargo/canic-memory@0.39.11
 - pkg:cargo/canic-memory@0.39.3
 - pkg:cargo/canic-memory@0.39.4
 - pkg:cargo/canic-memory@0.39.5
