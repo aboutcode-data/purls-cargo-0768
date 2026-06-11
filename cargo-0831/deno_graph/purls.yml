@@ -19,6 +19,7 @@
 - pkg:cargo/deno_graph@0.108.2
 - pkg:cargo/deno_graph@0.108.3
 - pkg:cargo/deno_graph@0.108.4
+- pkg:cargo/deno_graph@0.109.0
 - pkg:cargo/deno_graph@0.11.0
 - pkg:cargo/deno_graph@0.11.1
 - pkg:cargo/deno_graph@0.12.0
