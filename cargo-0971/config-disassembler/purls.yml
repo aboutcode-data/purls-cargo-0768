@@ -13,3 +13,4 @@
 - pkg:cargo/config-disassembler@0.5.2
 - pkg:cargo/config-disassembler@0.5.3
 - pkg:cargo/config-disassembler@0.5.4
+- pkg:cargo/config-disassembler@0.6.0
