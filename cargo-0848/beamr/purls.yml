@@ -24,3 +24,5 @@
 - pkg:cargo/beamr@0.4.5
 - pkg:cargo/beamr@0.4.6
 - pkg:cargo/beamr@0.4.7
+- pkg:cargo/beamr@0.4.8
+- pkg:cargo/beamr@0.4.9
