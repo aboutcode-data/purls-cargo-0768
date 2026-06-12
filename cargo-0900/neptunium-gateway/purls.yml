@@ -21,3 +21,4 @@
 - pkg:cargo/neptunium-gateway@0.6.1
 - pkg:cargo/neptunium-gateway@0.6.2
 - pkg:cargo/neptunium-gateway@0.6.3
+- pkg:cargo/neptunium-gateway@0.7.0
