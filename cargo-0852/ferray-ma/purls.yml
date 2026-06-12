@@ -15,3 +15,6 @@
 - pkg:cargo/ferray-ma@0.3.7
 - pkg:cargo/ferray-ma@0.3.8
 - pkg:cargo/ferray-ma@0.4.0
+- pkg:cargo/ferray-ma@0.4.1
+- pkg:cargo/ferray-ma@0.4.9
+- pkg:cargo/ferray-ma@0.5.0
