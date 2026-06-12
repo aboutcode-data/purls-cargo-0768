@@ -57,3 +57,5 @@
 - pkg:cargo/vespertide-query@0.1.7
 - pkg:cargo/vespertide-query@0.1.8
 - pkg:cargo/vespertide-query@0.1.9
+- pkg:cargo/vespertide-query@0.2.0
+- pkg:cargo/vespertide-query@0.2.1
