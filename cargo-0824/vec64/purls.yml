@@ -6,3 +6,6 @@
 - pkg:cargo/vec64@0.4.1
 - pkg:cargo/vec64@0.4.2
 - pkg:cargo/vec64@0.4.3
+- pkg:cargo/vec64@0.4.4
+- pkg:cargo/vec64@0.4.5
+- pkg:cargo/vec64@0.4.6
