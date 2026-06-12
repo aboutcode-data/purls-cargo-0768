@@ -7,4 +7,5 @@
 - pkg:cargo/wry-bindgen-macro@0.2.122-alpha.6
 - pkg:cargo/wry-bindgen-macro@0.2.122-alpha.7
 - pkg:cargo/wry-bindgen-macro@0.2.122-alpha.8
+- pkg:cargo/wry-bindgen-macro@0.2.123-alpha.10
 - pkg:cargo/wry-bindgen-macro@0.2.123-alpha.9
