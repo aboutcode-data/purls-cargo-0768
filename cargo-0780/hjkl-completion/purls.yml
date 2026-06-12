@@ -2,3 +2,9 @@
 - pkg:cargo/hjkl-completion@0.25.1
 - pkg:cargo/hjkl-completion@0.26.0
 - pkg:cargo/hjkl-completion@0.27.0
+- pkg:cargo/hjkl-completion@0.28.0
+- pkg:cargo/hjkl-completion@0.28.1
+- pkg:cargo/hjkl-completion@0.29.0
+- pkg:cargo/hjkl-completion@0.30.0
+- pkg:cargo/hjkl-completion@0.31.0
+- pkg:cargo/hjkl-completion@0.32.0
