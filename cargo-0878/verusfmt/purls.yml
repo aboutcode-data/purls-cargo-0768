@@ -41,3 +41,5 @@
 - pkg:cargo/verusfmt@0.6.3
 - pkg:cargo/verusfmt@0.6.4
 - pkg:cargo/verusfmt@0.7.0
+- pkg:cargo/verusfmt@0.7.1
+- pkg:cargo/verusfmt@0.7.2
