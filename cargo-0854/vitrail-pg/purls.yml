@@ -1,5 +1,7 @@
 - pkg:cargo/vitrail-pg@0.0.1
 - pkg:cargo/vitrail-pg@0.0.10
+- pkg:cargo/vitrail-pg@0.0.11
+- pkg:cargo/vitrail-pg@0.0.12
 - pkg:cargo/vitrail-pg@0.0.2
 - pkg:cargo/vitrail-pg@0.0.3
 - pkg:cargo/vitrail-pg@0.0.4
