@@ -1,2 +1,3 @@
 - pkg:cargo/quantumapi@0.1.0-beta.1
 - pkg:cargo/quantumapi@0.1.1-beta.1
+- pkg:cargo/quantumapi@0.20.0
