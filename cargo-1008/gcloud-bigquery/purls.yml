@@ -7,3 +7,4 @@
 - pkg:cargo/gcloud-bigquery@1.4.2
 - pkg:cargo/gcloud-bigquery@1.5.0
 - pkg:cargo/gcloud-bigquery@1.6.0
+- pkg:cargo/gcloud-bigquery@1.7.0
