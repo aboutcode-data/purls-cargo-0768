@@ -15,3 +15,5 @@
 - pkg:cargo/quantwave@0.1.9
 - pkg:cargo/quantwave@0.3.0
 - pkg:cargo/quantwave@0.4.0
+- pkg:cargo/quantwave@0.5.1
+- pkg:cargo/quantwave@0.5.2
