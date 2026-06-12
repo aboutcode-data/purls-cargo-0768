@@ -1,4 +1,15 @@
+- pkg:cargo/quicknode-sdk@0.1.0
 - pkg:cargo/quicknode-sdk@0.1.0-alpha.11
 - pkg:cargo/quicknode-sdk@0.1.0-alpha.14
 - pkg:cargo/quicknode-sdk@0.1.0-alpha.15
+- pkg:cargo/quicknode-sdk@0.1.0-alpha.16
+- pkg:cargo/quicknode-sdk@0.1.0-alpha.17
+- pkg:cargo/quicknode-sdk@0.1.0-alpha.24
+- pkg:cargo/quicknode-sdk@0.1.0-alpha.25
+- pkg:cargo/quicknode-sdk@0.1.0-alpha.26
+- pkg:cargo/quicknode-sdk@0.1.0-alpha.29
+- pkg:cargo/quicknode-sdk@0.1.0-alpha.30
 - pkg:cargo/quicknode-sdk@0.1.0-alpha.4
+- pkg:cargo/quicknode-sdk@0.1.1
+- pkg:cargo/quicknode-sdk@0.2.0
+- pkg:cargo/quicknode-sdk@0.2.1
