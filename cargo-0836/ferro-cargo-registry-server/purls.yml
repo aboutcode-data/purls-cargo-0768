@@ -1,1 +1,2 @@
 - pkg:cargo/ferro-cargo-registry-server@0.0.1
+- pkg:cargo/ferro-cargo-registry-server@1.0.0
