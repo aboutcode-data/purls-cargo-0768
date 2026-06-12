@@ -1,4 +1,19 @@
 - pkg:cargo/surtgis-core@0.1.0
+- pkg:cargo/surtgis-core@0.10.0
+- pkg:cargo/surtgis-core@0.10.1
+- pkg:cargo/surtgis-core@0.10.2
+- pkg:cargo/surtgis-core@0.10.3
+- pkg:cargo/surtgis-core@0.10.4
+- pkg:cargo/surtgis-core@0.11.0
+- pkg:cargo/surtgis-core@0.13.0
+- pkg:cargo/surtgis-core@0.13.1
+- pkg:cargo/surtgis-core@0.14.0
+- pkg:cargo/surtgis-core@0.14.8
+- pkg:cargo/surtgis-core@0.15.0
+- pkg:cargo/surtgis-core@0.15.1
+- pkg:cargo/surtgis-core@0.15.2
+- pkg:cargo/surtgis-core@0.15.3
+- pkg:cargo/surtgis-core@0.15.4
 - pkg:cargo/surtgis-core@0.6.0
 - pkg:cargo/surtgis-core@0.6.1
 - pkg:cargo/surtgis-core@0.6.10
@@ -28,3 +43,4 @@
 - pkg:cargo/surtgis-core@0.6.8
 - pkg:cargo/surtgis-core@0.6.9
 - pkg:cargo/surtgis-core@0.7.0
+- pkg:cargo/surtgis-core@0.9.0
