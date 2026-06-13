@@ -113,3 +113,4 @@
 - pkg:cargo/feldera-observability@0.307.0
 - pkg:cargo/feldera-observability@0.308.0
 - pkg:cargo/feldera-observability@0.309.0
+- pkg:cargo/feldera-observability@0.310.0
