@@ -12,3 +12,4 @@
 - pkg:cargo/cacti_weaver_protos_rs@2.2.0
 - pkg:cargo/cacti_weaver_protos_rs@3.0.0-alpha.4
 - pkg:cargo/cacti_weaver_protos_rs@3.0.0-alpha.5
+- pkg:cargo/cacti_weaver_protos_rs@3.0.0-alpha.6
