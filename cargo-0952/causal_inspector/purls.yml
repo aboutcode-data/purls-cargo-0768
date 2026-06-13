@@ -4,6 +4,7 @@
 - pkg:cargo/causal_inspector@0.1.5
 - pkg:cargo/causal_inspector@0.1.6
 - pkg:cargo/causal_inspector@0.1.7
+- pkg:cargo/causal_inspector@0.10.0
 - pkg:cargo/causal_inspector@0.2.0
 - pkg:cargo/causal_inspector@0.2.1
 - pkg:cargo/causal_inspector@0.2.2
