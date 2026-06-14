@@ -61,3 +61,4 @@
 - pkg:cargo/soroban-env-guest@26.0.1
 - pkg:cargo/soroban-env-guest@26.1.2
 - pkg:cargo/soroban-env-guest@26.1.3
+- pkg:cargo/soroban-env-guest@27.0.0
