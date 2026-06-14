@@ -1,1 +1,2 @@
 - pkg:cargo/sochdb-memory@2.0.4
+- pkg:cargo/sochdb-memory@2.0.5
