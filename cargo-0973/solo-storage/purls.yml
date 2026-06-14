@@ -1,5 +1,11 @@
 - pkg:cargo/solo-storage@0.10.0
 - pkg:cargo/solo-storage@0.10.1
+- pkg:cargo/solo-storage@0.10.2
+- pkg:cargo/solo-storage@0.11.0
+- pkg:cargo/solo-storage@0.11.1
+- pkg:cargo/solo-storage@0.11.3
+- pkg:cargo/solo-storage@0.11.4
+- pkg:cargo/solo-storage@0.11.5
 - pkg:cargo/solo-storage@0.3.0
 - pkg:cargo/solo-storage@0.3.1
 - pkg:cargo/solo-storage@0.3.2
