@@ -120,6 +120,7 @@
 - pkg:cargo/solana-unified-scheduler-logic@3.1.7
 - pkg:cargo/solana-unified-scheduler-logic@3.1.8
 - pkg:cargo/solana-unified-scheduler-logic@3.1.9
+- pkg:cargo/solana-unified-scheduler-logic@4.0.0
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-alpha.0
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-beta.0
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-beta.1
@@ -130,3 +131,7 @@
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-beta.6
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-beta.7
 - pkg:cargo/solana-unified-scheduler-logic@4.0.0-rc.0
+- pkg:cargo/solana-unified-scheduler-logic@4.1.0-beta.1
+- pkg:cargo/solana-unified-scheduler-logic@4.1.0-beta.2
+- pkg:cargo/solana-unified-scheduler-logic@4.1.0-beta.3
+- pkg:cargo/solana-unified-scheduler-logic@4.1.0-rc.0
