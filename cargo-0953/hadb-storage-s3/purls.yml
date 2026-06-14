@@ -1,1 +1,2 @@
 - pkg:cargo/hadb-storage-s3@0.4.0
+- pkg:cargo/hadb-storage-s3@0.4.1
