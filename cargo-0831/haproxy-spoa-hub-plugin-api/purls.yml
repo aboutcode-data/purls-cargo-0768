@@ -3,3 +3,5 @@
 - pkg:cargo/haproxy-spoa-hub-plugin-api@0.3.0
 - pkg:cargo/haproxy-spoa-hub-plugin-api@0.5.0
 - pkg:cargo/haproxy-spoa-hub-plugin-api@0.6.0
+- pkg:cargo/haproxy-spoa-hub-plugin-api@0.6.1
+- pkg:cargo/haproxy-spoa-hub-plugin-api@0.7.0
