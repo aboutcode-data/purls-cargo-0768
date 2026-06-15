@@ -10,3 +10,5 @@
 - pkg:cargo/wolfram-library-link-macros@0.2.7
 - pkg:cargo/wolfram-library-link-macros@0.2.8
 - pkg:cargo/wolfram-library-link-macros@0.2.9
+- pkg:cargo/wolfram-library-link-macros@0.5.0
+- pkg:cargo/wolfram-library-link-macros@0.5.0-alpha.1
