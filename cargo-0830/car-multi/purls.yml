@@ -16,6 +16,7 @@
 - pkg:cargo/car-multi@0.22.0
 - pkg:cargo/car-multi@0.22.1
 - pkg:cargo/car-multi@0.23.0
+- pkg:cargo/car-multi@0.24.0
 - pkg:cargo/car-multi@0.6.0
 - pkg:cargo/car-multi@0.7.0
 - pkg:cargo/car-multi@0.8.0
