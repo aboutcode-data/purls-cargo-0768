@@ -1,1 +1,2 @@
 - pkg:cargo/wrpc-wasi-keyvalue-mem@0.1.0
+- pkg:cargo/wrpc-wasi-keyvalue-mem@0.2.0
