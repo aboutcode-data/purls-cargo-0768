@@ -38,3 +38,5 @@
 - pkg:cargo/tui-prompts@0.6.2
 - pkg:cargo/tui-prompts@0.6.3
 - pkg:cargo/tui-prompts@0.6.4
+- pkg:cargo/tui-prompts@0.6.5
+- pkg:cargo/tui-prompts@0.6.6
