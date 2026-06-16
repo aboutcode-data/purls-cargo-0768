@@ -8,6 +8,7 @@
 - pkg:cargo/netwatch@0.16.0
 - pkg:cargo/netwatch@0.17.0
 - pkg:cargo/netwatch@0.18.0
+- pkg:cargo/netwatch@0.19.0
 - pkg:cargo/netwatch@0.2.0
 - pkg:cargo/netwatch@0.3.0
 - pkg:cargo/netwatch@0.4.0
