@@ -15,4 +15,6 @@
 - pkg:cargo/fenestra-looks@0.25.0
 - pkg:cargo/fenestra-looks@0.26.0
 - pkg:cargo/fenestra-looks@0.27.0
+- pkg:cargo/fenestra-looks@0.27.1
+- pkg:cargo/fenestra-looks@0.28.0
 - pkg:cargo/fenestra-looks@0.9.0
