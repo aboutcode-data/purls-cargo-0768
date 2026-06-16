@@ -1,3 +1,4 @@
 - pkg:cargo/lutra-compiler@0.5.0
 - pkg:cargo/lutra-compiler@0.5.1
 - pkg:cargo/lutra-compiler@0.6.0
+- pkg:cargo/lutra-compiler@0.6.2
