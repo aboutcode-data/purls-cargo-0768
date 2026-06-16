@@ -26,6 +26,7 @@
 - pkg:cargo/github-languages@1.0.21
 - pkg:cargo/github-languages@1.0.22
 - pkg:cargo/github-languages@1.0.23
+- pkg:cargo/github-languages@1.0.24
 - pkg:cargo/github-languages@1.0.3
 - pkg:cargo/github-languages@1.0.4
 - pkg:cargo/github-languages@1.0.5
