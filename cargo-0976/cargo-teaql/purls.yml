@@ -14,3 +14,4 @@
 - pkg:cargo/cargo-teaql@0.2.3
 - pkg:cargo/cargo-teaql@1.0.0
 - pkg:cargo/cargo-teaql@1.1.0
+- pkg:cargo/cargo-teaql@2.0.0
