@@ -260,3 +260,6 @@
 - pkg:cargo/canic-host@0.67.7
 - pkg:cargo/canic-host@0.67.8
 - pkg:cargo/canic-host@0.67.9
+- pkg:cargo/canic-host@0.68.0
+- pkg:cargo/canic-host@0.68.2
+- pkg:cargo/canic-host@0.68.3
