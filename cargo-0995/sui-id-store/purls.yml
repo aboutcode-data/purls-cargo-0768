@@ -80,6 +80,17 @@
 - pkg:cargo/sui-id-store@0.59.0
 - pkg:cargo/sui-id-store@0.6.0
 - pkg:cargo/sui-id-store@0.6.1
+- pkg:cargo/sui-id-store@0.60.0
+- pkg:cargo/sui-id-store@0.60.1
+- pkg:cargo/sui-id-store@0.61.0
+- pkg:cargo/sui-id-store@0.62.0
+- pkg:cargo/sui-id-store@0.62.1
+- pkg:cargo/sui-id-store@0.62.2
+- pkg:cargo/sui-id-store@0.62.3
+- pkg:cargo/sui-id-store@0.62.4
+- pkg:cargo/sui-id-store@0.63.0
+- pkg:cargo/sui-id-store@0.63.1
+- pkg:cargo/sui-id-store@0.63.2
 - pkg:cargo/sui-id-store@0.7.0
 - pkg:cargo/sui-id-store@0.8.0
 - pkg:cargo/sui-id-store@0.9.0
