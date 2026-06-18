@@ -204,6 +204,10 @@
 - pkg:cargo/vize_atelier_vapor@0.229.0
 - pkg:cargo/vize_atelier_vapor@0.23.0
 - pkg:cargo/vize_atelier_vapor@0.230.0
+- pkg:cargo/vize_atelier_vapor@0.232.0
+- pkg:cargo/vize_atelier_vapor@0.233.0
+- pkg:cargo/vize_atelier_vapor@0.234.0
+- pkg:cargo/vize_atelier_vapor@0.235.0
 - pkg:cargo/vize_atelier_vapor@0.24.0
 - pkg:cargo/vize_atelier_vapor@0.25.0
 - pkg:cargo/vize_atelier_vapor@0.26.0
