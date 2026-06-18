@@ -3,3 +3,4 @@
 - pkg:cargo/solvela-client-cli-args@0.2.4
 - pkg:cargo/solvela-client-cli-args@0.2.5
 - pkg:cargo/solvela-client-cli-args@0.3.0
+- pkg:cargo/solvela-client-cli-args@0.4.0
