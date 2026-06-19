@@ -3,3 +3,4 @@
 - pkg:cargo/newton-chain-watcher@0.4.14
 - pkg:cargo/newton-chain-watcher@0.4.15
 - pkg:cargo/newton-chain-watcher@0.4.16
+- pkg:cargo/newton-chain-watcher@0.4.17
