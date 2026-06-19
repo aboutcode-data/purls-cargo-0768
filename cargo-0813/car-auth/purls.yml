@@ -16,3 +16,4 @@
 - pkg:cargo/car-auth@0.24.1
 - pkg:cargo/car-auth@0.25.0
 - pkg:cargo/car-auth@0.26.0
+- pkg:cargo/car-auth@0.27.0
