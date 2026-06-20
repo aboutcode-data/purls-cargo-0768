@@ -1,3 +1,5 @@
 - pkg:cargo/substrait-antlr@0.0.0
 - pkg:cargo/substrait-antlr@0.87.0-alpha
 - pkg:cargo/substrait-antlr@0.87.0-alpha.1
+- pkg:cargo/substrait-antlr@0.87.0-alpha.2
+- pkg:cargo/substrait-antlr@0.87.0-alpha.3
