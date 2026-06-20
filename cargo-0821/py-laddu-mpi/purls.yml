@@ -13,6 +13,10 @@
 - pkg:cargo/py-laddu-mpi@0.19.0
 - pkg:cargo/py-laddu-mpi@0.19.1
 - pkg:cargo/py-laddu-mpi@0.19.2
+- pkg:cargo/py-laddu-mpi@0.19.3
+- pkg:cargo/py-laddu-mpi@0.19.4
+- pkg:cargo/py-laddu-mpi@0.19.5
+- pkg:cargo/py-laddu-mpi@0.19.6
 - pkg:cargo/py-laddu-mpi@0.4.0
 - pkg:cargo/py-laddu-mpi@0.4.1
 - pkg:cargo/py-laddu-mpi@0.5.0
