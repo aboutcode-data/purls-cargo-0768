@@ -4,6 +4,7 @@
 - pkg:cargo/xmlserde@0.11.0
 - pkg:cargo/xmlserde@0.12.0
 - pkg:cargo/xmlserde@0.13.0
+- pkg:cargo/xmlserde@0.13.1
 - pkg:cargo/xmlserde@0.3.0
 - pkg:cargo/xmlserde@0.4.0
 - pkg:cargo/xmlserde@0.4.1
