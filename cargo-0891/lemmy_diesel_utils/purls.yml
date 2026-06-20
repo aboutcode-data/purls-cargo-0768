@@ -1,3 +1,6 @@
 - pkg:cargo/lemmy_diesel_utils@1.0.0-alpha.18
 - pkg:cargo/lemmy_diesel_utils@1.0.0-alpha.19
 - pkg:cargo/lemmy_diesel_utils@1.0.0-beta.0
+- pkg:cargo/lemmy_diesel_utils@1.0.0-test-fix-publish-1
+- pkg:cargo/lemmy_diesel_utils@1.0.0-test-fix-publish-2
+- pkg:cargo/lemmy_diesel_utils@1.0.0-test-fix-publish-3

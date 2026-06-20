@@ -1,1 +1,4 @@
 - pkg:cargo/lemma@0.1.0
+- pkg:cargo/lemma@0.8.16
+- pkg:cargo/lemma@0.8.18
+- pkg:cargo/lemma@0.8.19
