@@ -53,6 +53,8 @@
 - pkg:cargo/qrusty_client@0.20.9
 - pkg:cargo/qrusty_client@0.21.0
 - pkg:cargo/qrusty_client@0.21.1
+- pkg:cargo/qrusty_client@0.21.2
+- pkg:cargo/qrusty_client@0.21.3
 - pkg:cargo/qrusty_client@0.3.0
 - pkg:cargo/qrusty_client@0.4.0
 - pkg:cargo/qrusty_client@0.5.0
