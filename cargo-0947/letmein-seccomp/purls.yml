@@ -12,6 +12,8 @@
 - pkg:cargo/letmein-seccomp@12.1.1
 - pkg:cargo/letmein-seccomp@12.2.0
 - pkg:cargo/letmein-seccomp@12.2.1
+- pkg:cargo/letmein-seccomp@12.3.0
+- pkg:cargo/letmein-seccomp@12.4.0
 - pkg:cargo/letmein-seccomp@3.0.0
 - pkg:cargo/letmein-seccomp@4.0.0
 - pkg:cargo/letmein-seccomp@5.0.0
