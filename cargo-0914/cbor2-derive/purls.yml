@@ -1,0 +1,6 @@
+- pkg:cargo/cbor2-derive@0.5.0
+- pkg:cargo/cbor2-derive@1.0.0
+- pkg:cargo/cbor2-derive@1.0.2
+- pkg:cargo/cbor2-derive@1.0.3
+- pkg:cargo/cbor2-derive@1.0.4
+- pkg:cargo/cbor2-derive@1.0.5
