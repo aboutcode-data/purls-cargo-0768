@@ -17,3 +17,4 @@
 - pkg:cargo/s3s-test@0.13.0-alpha.1
 - pkg:cargo/s3s-test@0.13.0-alpha.2
 - pkg:cargo/s3s-test@0.13.0-alpha.3
+- pkg:cargo/s3s-test@0.14.0-alpha.1
