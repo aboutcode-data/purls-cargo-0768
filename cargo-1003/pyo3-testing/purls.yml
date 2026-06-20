@@ -1,6 +1,7 @@
 - pkg:cargo/pyo3-testing@0.1.0
 - pkg:cargo/pyo3-testing@0.2.0
 - pkg:cargo/pyo3-testing@0.28.0
+- pkg:cargo/pyo3-testing@0.29.0
 - pkg:cargo/pyo3-testing@0.3.0
 - pkg:cargo/pyo3-testing@0.3.1
 - pkg:cargo/pyo3-testing@0.3.2
