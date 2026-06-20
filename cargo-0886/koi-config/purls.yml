@@ -8,3 +8,6 @@
 - pkg:cargo/koi-config@0.2.202602280206
 - pkg:cargo/koi-config@0.2.202603181223
 - pkg:cargo/koi-config@0.2.202603241449
+- pkg:cargo/koi-config@0.3.0
+- pkg:cargo/koi-config@0.4.0
+- pkg:cargo/koi-config@0.4.1
