@@ -1,3 +1,5 @@
 - pkg:cargo/substrait-extensions@0.0.0
 - pkg:cargo/substrait-extensions@0.87.0-alpha
 - pkg:cargo/substrait-extensions@0.87.0-alpha.1
+- pkg:cargo/substrait-extensions@0.87.0-alpha.2
+- pkg:cargo/substrait-extensions@0.87.0-alpha.3
