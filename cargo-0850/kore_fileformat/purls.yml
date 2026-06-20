@@ -5,3 +5,8 @@
 - pkg:cargo/kore_fileformat@1.1.3
 - pkg:cargo/kore_fileformat@1.1.4
 - pkg:cargo/kore_fileformat@1.1.6
+- pkg:cargo/kore_fileformat@1.2.0
+- pkg:cargo/kore_fileformat@1.2.1
+- pkg:cargo/kore_fileformat@1.2.9
+- pkg:cargo/kore_fileformat@1.3.1
+- pkg:cargo/kore_fileformat@1.3.3
