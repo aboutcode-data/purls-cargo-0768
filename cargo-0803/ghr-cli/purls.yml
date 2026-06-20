@@ -18,3 +18,4 @@
 - pkg:cargo/ghr-cli@0.7.8
 - pkg:cargo/ghr-cli@0.8.0
 - pkg:cargo/ghr-cli@0.8.1
+- pkg:cargo/ghr-cli@0.8.2
