@@ -1,1 +1,2 @@
 - pkg:cargo/gpt-partition-forensic@0.4.1
+- pkg:cargo/gpt-partition-forensic@0.5.0
