@@ -1,5 +1,10 @@
 - pkg:cargo/lexe-sha256@0.1.1
 - pkg:cargo/lexe-sha256@0.1.10
+- pkg:cargo/lexe-sha256@0.1.11
+- pkg:cargo/lexe-sha256@0.1.12
+- pkg:cargo/lexe-sha256@0.1.13
+- pkg:cargo/lexe-sha256@0.1.14
+- pkg:cargo/lexe-sha256@0.1.15
 - pkg:cargo/lexe-sha256@0.1.2
 - pkg:cargo/lexe-sha256@0.1.3
 - pkg:cargo/lexe-sha256@0.1.4
