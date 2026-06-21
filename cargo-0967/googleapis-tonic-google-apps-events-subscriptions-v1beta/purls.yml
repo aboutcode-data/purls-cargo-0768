@@ -2,6 +2,7 @@
 - pkg:cargo/googleapis-tonic-google-apps-events-subscriptions-v1beta@0.10.0
 - pkg:cargo/googleapis-tonic-google-apps-events-subscriptions-v1beta@0.11.0
 - pkg:cargo/googleapis-tonic-google-apps-events-subscriptions-v1beta@0.13.0
+- pkg:cargo/googleapis-tonic-google-apps-events-subscriptions-v1beta@0.14.0
 - pkg:cargo/googleapis-tonic-google-apps-events-subscriptions-v1beta@0.3.0
 - pkg:cargo/googleapis-tonic-google-apps-events-subscriptions-v1beta@0.6.0
 - pkg:cargo/googleapis-tonic-google-apps-events-subscriptions-v1beta@0.7.0
