@@ -39,6 +39,7 @@
 - pkg:cargo/lurq@0.15.5
 - pkg:cargo/lurq@0.15.6
 - pkg:cargo/lurq@0.15.7
+- pkg:cargo/lurq@0.15.8
 - pkg:cargo/lurq@0.2.0
 - pkg:cargo/lurq@0.2.1
 - pkg:cargo/lurq@0.2.2
