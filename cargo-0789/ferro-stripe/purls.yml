@@ -6,3 +6,4 @@
 - pkg:cargo/ferro-stripe@0.7.0
 - pkg:cargo/ferro-stripe@0.8.0
 - pkg:cargo/ferro-stripe@0.9.0
+- pkg:cargo/ferro-stripe@0.9.1
