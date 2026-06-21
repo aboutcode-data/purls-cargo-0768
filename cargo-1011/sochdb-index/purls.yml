@@ -11,6 +11,8 @@
 - pkg:cargo/sochdb-index@0.5.0
 - pkg:cargo/sochdb-index@2.0.0
 - pkg:cargo/sochdb-index@2.0.1
+- pkg:cargo/sochdb-index@2.0.10
+- pkg:cargo/sochdb-index@2.0.11
 - pkg:cargo/sochdb-index@2.0.2
 - pkg:cargo/sochdb-index@2.0.3
 - pkg:cargo/sochdb-index@2.0.4
