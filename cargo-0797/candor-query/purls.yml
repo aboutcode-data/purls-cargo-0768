@@ -8,3 +8,4 @@
 - pkg:cargo/candor-query@0.5.4
 - pkg:cargo/candor-query@0.5.5
 - pkg:cargo/candor-query@0.7.0
+- pkg:cargo/candor-query@0.7.1
