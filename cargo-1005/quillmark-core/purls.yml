@@ -198,3 +198,4 @@
 - pkg:cargo/quillmark-core@0.90.0
 - pkg:cargo/quillmark-core@0.91.0
 - pkg:cargo/quillmark-core@0.92.0
+- pkg:cargo/quillmark-core@0.92.1
