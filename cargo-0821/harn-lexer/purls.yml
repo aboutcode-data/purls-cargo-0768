@@ -221,6 +221,7 @@
 - pkg:cargo/harn-lexer@0.8.129
 - pkg:cargo/harn-lexer@0.8.13
 - pkg:cargo/harn-lexer@0.8.130
+- pkg:cargo/harn-lexer@0.8.131
 - pkg:cargo/harn-lexer@0.8.14
 - pkg:cargo/harn-lexer@0.8.15
 - pkg:cargo/harn-lexer@0.8.16
