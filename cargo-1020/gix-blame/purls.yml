@@ -5,6 +5,7 @@
 - pkg:cargo/gix-blame@0.12.0
 - pkg:cargo/gix-blame@0.13.0
 - pkg:cargo/gix-blame@0.14.0
+- pkg:cargo/gix-blame@0.15.0
 - pkg:cargo/gix-blame@0.2.0
 - pkg:cargo/gix-blame@0.2.1
 - pkg:cargo/gix-blame@0.3.0
