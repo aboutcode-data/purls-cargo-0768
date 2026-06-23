@@ -31,3 +31,4 @@
 - pkg:cargo/hegeltest-c@0.21.0
 - pkg:cargo/hegeltest-c@0.21.1
 - pkg:cargo/hegeltest-c@0.21.2
+- pkg:cargo/hegeltest-c@0.22.0
