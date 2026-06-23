@@ -85,5 +85,6 @@
 - pkg:cargo/ferro-macros@0.2.73
 - pkg:cargo/ferro-macros@0.2.74
 - pkg:cargo/ferro-macros@0.2.75
+- pkg:cargo/ferro-macros@0.2.76
 - pkg:cargo/ferro-macros@0.2.8
 - pkg:cargo/ferro-macros@0.2.9
