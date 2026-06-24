@@ -1,2 +1,3 @@
 - pkg:cargo/worldant-cli@0.1.1
 - pkg:cargo/worldant-cli@0.4.0
+- pkg:cargo/worldant-cli@0.5.0
