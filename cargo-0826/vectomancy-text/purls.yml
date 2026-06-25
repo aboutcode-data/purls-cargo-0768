@@ -2,3 +2,5 @@
 - pkg:cargo/vectomancy-text@5.0.12
 - pkg:cargo/vectomancy-text@5.0.13
 - pkg:cargo/vectomancy-text@5.0.14
+- pkg:cargo/vectomancy-text@6.1.0
+- pkg:cargo/vectomancy-text@6.1.1
