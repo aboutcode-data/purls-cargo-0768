@@ -29,4 +29,5 @@
 - pkg:cargo/vercel_runtime@2.2.0
 - pkg:cargo/vercel_runtime@2.3.0
 - pkg:cargo/vercel_runtime@2.3.1
+- pkg:cargo/vercel_runtime@2.4.0
 - pkg:cargo/vercel_runtime@5.0.0-alpha.1
