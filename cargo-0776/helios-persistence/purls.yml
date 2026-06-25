@@ -12,3 +12,4 @@
 - pkg:cargo/helios-persistence@0.1.46
 - pkg:cargo/helios-persistence@0.1.47
 - pkg:cargo/helios-persistence@0.2.0
+- pkg:cargo/helios-persistence@0.2.1
