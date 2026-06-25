@@ -10,6 +10,7 @@
 - pkg:cargo/netring@0.24.0
 - pkg:cargo/netring@0.25.0
 - pkg:cargo/netring@0.26.0
+- pkg:cargo/netring@0.27.0
 - pkg:cargo/netring@0.4.0
 - pkg:cargo/netring@0.5.0
 - pkg:cargo/netring@0.6.0
