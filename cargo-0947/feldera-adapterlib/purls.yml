@@ -62,3 +62,4 @@
 - pkg:cargo/feldera-adapterlib@0.311.0
 - pkg:cargo/feldera-adapterlib@0.312.0
 - pkg:cargo/feldera-adapterlib@0.313.0
+- pkg:cargo/feldera-adapterlib@0.314.0
