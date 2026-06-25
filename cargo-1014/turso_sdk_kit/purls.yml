@@ -66,6 +66,7 @@
 - pkg:cargo/turso_sdk_kit@0.7.0-mikael
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.1
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.10
+- pkg:cargo/turso_sdk_kit@0.7.0-pre.11
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.2
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.3
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.4
