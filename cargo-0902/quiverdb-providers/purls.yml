@@ -1,3 +1,4 @@
 - pkg:cargo/quiverdb-providers@0.22.0
 - pkg:cargo/quiverdb-providers@0.23.0
 - pkg:cargo/quiverdb-providers@0.24.0
+- pkg:cargo/quiverdb-providers@0.25.0
