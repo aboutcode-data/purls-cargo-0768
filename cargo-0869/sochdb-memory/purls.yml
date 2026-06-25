@@ -1,5 +1,6 @@
 - pkg:cargo/sochdb-memory@2.0.10
 - pkg:cargo/sochdb-memory@2.0.11
+- pkg:cargo/sochdb-memory@2.0.12
 - pkg:cargo/sochdb-memory@2.0.4
 - pkg:cargo/sochdb-memory@2.0.5
 - pkg:cargo/sochdb-memory@2.0.6
