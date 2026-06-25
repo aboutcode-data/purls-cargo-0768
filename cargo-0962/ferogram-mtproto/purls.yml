@@ -16,3 +16,4 @@
 - pkg:cargo/ferogram-mtproto@0.5.1
 - pkg:cargo/ferogram-mtproto@0.5.2
 - pkg:cargo/ferogram-mtproto@0.6.0
+- pkg:cargo/ferogram-mtproto@0.6.2
