@@ -1,1 +1,2 @@
 - pkg:cargo/worklane-sqlite@0.1.0
+- pkg:cargo/worklane-sqlite@0.2.0
