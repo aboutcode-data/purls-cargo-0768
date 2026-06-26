@@ -14,6 +14,7 @@
 - pkg:cargo/vergen-gitcl@10.0.0-beta.6
 - pkg:cargo/vergen-gitcl@10.0.0-beta.7
 - pkg:cargo/vergen-gitcl@10.0.0-beta.8
+- pkg:cargo/vergen-gitcl@10.0.1
 - pkg:cargo/vergen-gitcl@2.0.0-beta.1
 - pkg:cargo/vergen-gitcl@2.1.0-beta.1
 - pkg:cargo/vergen-gitcl@2.1.0-beta.2
