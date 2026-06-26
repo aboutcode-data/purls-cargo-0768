@@ -33,3 +33,4 @@
 - pkg:cargo/surrealdb-types-derive@3.1.4
 - pkg:cargo/surrealdb-types-derive@3.1.5
 - pkg:cargo/surrealdb-types-derive@3.2.0-beta.1
+- pkg:cargo/surrealdb-types-derive@3.2.0-beta.2
