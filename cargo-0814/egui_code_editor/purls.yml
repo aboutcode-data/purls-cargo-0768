@@ -40,3 +40,4 @@
 - pkg:cargo/egui_code_editor@0.3.4
 - pkg:cargo/egui_code_editor@0.3.5
 - pkg:cargo/egui_code_editor@0.3.6
+- pkg:cargo/egui_code_editor@0.3.7
