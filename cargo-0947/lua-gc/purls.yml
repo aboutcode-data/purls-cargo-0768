@@ -36,3 +36,4 @@
 - pkg:cargo/lua-gc@0.3.4
 - pkg:cargo/lua-gc@0.3.5
 - pkg:cargo/lua-gc@0.3.6
+- pkg:cargo/lua-gc@0.3.7
