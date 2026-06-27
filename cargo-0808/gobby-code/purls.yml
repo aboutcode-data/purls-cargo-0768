@@ -43,3 +43,5 @@
 - pkg:cargo/gobby-code@0.9.8
 - pkg:cargo/gobby-code@0.9.9
 - pkg:cargo/gobby-code@1.0.0
+- pkg:cargo/gobby-code@1.3.2
+- pkg:cargo/gobby-code@1.3.3
