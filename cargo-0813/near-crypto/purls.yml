@@ -67,4 +67,5 @@
 - pkg:cargo/near-crypto@0.36.0-rc.1
 - pkg:cargo/near-crypto@0.36.0-rc.2
 - pkg:cargo/near-crypto@0.37.0-rc.1
+- pkg:cargo/near-crypto@0.37.0-rc.2
 - pkg:cargo/near-crypto@0.5.0
