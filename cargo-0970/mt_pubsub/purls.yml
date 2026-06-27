@@ -1,1 +1,2 @@
 - pkg:cargo/mt_pubsub@0.7.0
+- pkg:cargo/mt_pubsub@0.8.0
