@@ -489,6 +489,7 @@
 - pkg:cargo/solana-notifier@4.0.1
 - pkg:cargo/solana-notifier@4.0.2
 - pkg:cargo/solana-notifier@4.0.3
+- pkg:cargo/solana-notifier@4.1.0
 - pkg:cargo/solana-notifier@4.1.0-beta.1
 - pkg:cargo/solana-notifier@4.1.0-beta.2
 - pkg:cargo/solana-notifier@4.1.0-beta.3
