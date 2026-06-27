@@ -88,6 +88,7 @@
 - pkg:cargo/netidx-tools@0.31.8
 - pkg:cargo/netidx-tools@0.31.9
 - pkg:cargo/netidx-tools@0.32.0
+- pkg:cargo/netidx-tools@0.32.1
 - pkg:cargo/netidx-tools@0.4.0
 - pkg:cargo/netidx-tools@0.4.1
 - pkg:cargo/netidx-tools@0.4.2
