@@ -305,3 +305,4 @@
 - pkg:cargo/canic-host@0.74.7
 - pkg:cargo/canic-host@0.74.8
 - pkg:cargo/canic-host@0.75.0
+- pkg:cargo/canic-host@0.75.1
