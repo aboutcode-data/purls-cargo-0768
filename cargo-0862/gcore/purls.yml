@@ -37,3 +37,4 @@
 - pkg:cargo/gcore@1.9.0
 - pkg:cargo/gcore@1.9.1
 - pkg:cargo/gcore@1.9.2
+- pkg:cargo/gcore@2.0.0-pre.1
