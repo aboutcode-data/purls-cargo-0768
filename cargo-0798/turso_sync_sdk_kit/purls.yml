@@ -69,6 +69,7 @@
 - pkg:cargo/turso_sync_sdk_kit@0.7.0-pre.11
 - pkg:cargo/turso_sync_sdk_kit@0.7.0-pre.12
 - pkg:cargo/turso_sync_sdk_kit@0.7.0-pre.13
+- pkg:cargo/turso_sync_sdk_kit@0.7.0-pre.14
 - pkg:cargo/turso_sync_sdk_kit@0.7.0-pre.2
 - pkg:cargo/turso_sync_sdk_kit@0.7.0-pre.3
 - pkg:cargo/turso_sync_sdk_kit@0.7.0-pre.4
