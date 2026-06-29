@@ -17,6 +17,7 @@
 - pkg:cargo/surtgis-core@0.15.5
 - pkg:cargo/surtgis-core@0.16.0
 - pkg:cargo/surtgis-core@0.16.1
+- pkg:cargo/surtgis-core@0.16.2
 - pkg:cargo/surtgis-core@0.6.0
 - pkg:cargo/surtgis-core@0.6.1
 - pkg:cargo/surtgis-core@0.6.10
