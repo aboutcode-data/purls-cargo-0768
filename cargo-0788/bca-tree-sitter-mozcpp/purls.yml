@@ -1,2 +1,3 @@
 - pkg:cargo/bca-tree-sitter-mozcpp@1.0.0
 - pkg:cargo/bca-tree-sitter-mozcpp@1.1.0
+- pkg:cargo/bca-tree-sitter-mozcpp@2.0.0
