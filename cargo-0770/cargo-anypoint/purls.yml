@@ -5,6 +5,7 @@
 - pkg:cargo/cargo-anypoint@0.0.0-alpha.5
 - pkg:cargo/cargo-anypoint@0.0.0-alpha.6
 - pkg:cargo/cargo-anypoint@0.0.0-alpha.7
+- pkg:cargo/cargo-anypoint@1.3.0-alpha.0
 - pkg:cargo/cargo-anypoint@1.6.0
 - pkg:cargo/cargo-anypoint@1.6.0-rc.0
 - pkg:cargo/cargo-anypoint@1.6.0-rc.1
