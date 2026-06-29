@@ -5,6 +5,9 @@
 - pkg:cargo/vicinity@0.1.5
 - pkg:cargo/vicinity@0.10.0
 - pkg:cargo/vicinity@0.10.1
+- pkg:cargo/vicinity@0.10.2
+- pkg:cargo/vicinity@0.10.3
+- pkg:cargo/vicinity@0.10.4
 - pkg:cargo/vicinity@0.2.0
 - pkg:cargo/vicinity@0.3.0
 - pkg:cargo/vicinity@0.3.1
