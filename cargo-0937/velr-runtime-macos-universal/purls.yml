@@ -13,3 +13,5 @@
 - pkg:cargo/velr-runtime-macos-universal@0.2.25
 - pkg:cargo/velr-runtime-macos-universal@0.2.26
 - pkg:cargo/velr-runtime-macos-universal@0.2.27
+- pkg:cargo/velr-runtime-macos-universal@0.2.28
+- pkg:cargo/velr-runtime-macos-universal@0.2.29
