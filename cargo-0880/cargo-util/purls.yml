@@ -27,6 +27,7 @@
 - pkg:cargo/cargo-util@0.2.28
 - pkg:cargo/cargo-util@0.2.29
 - pkg:cargo/cargo-util@0.2.3
+- pkg:cargo/cargo-util@0.2.30
 - pkg:cargo/cargo-util@0.2.4
 - pkg:cargo/cargo-util@0.2.5
 - pkg:cargo/cargo-util@0.2.6
