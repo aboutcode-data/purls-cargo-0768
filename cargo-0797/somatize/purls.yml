@@ -23,3 +23,4 @@
 - pkg:cargo/somatize@0.2.45
 - pkg:cargo/somatize@0.2.46
 - pkg:cargo/somatize@0.3.0
+- pkg:cargo/somatize@0.3.1
