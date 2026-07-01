@@ -4,3 +4,5 @@
 - pkg:cargo/luna-jit-llvm@2.4.0
 - pkg:cargo/luna-jit-llvm@2.5.0
 - pkg:cargo/luna-jit-llvm@2.6.0
+- pkg:cargo/luna-jit-llvm@2.7.0
+- pkg:cargo/luna-jit-llvm@2.8.0
