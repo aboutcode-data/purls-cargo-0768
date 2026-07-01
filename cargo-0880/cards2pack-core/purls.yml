@@ -22,6 +22,7 @@
 - pkg:cargo/cards2pack-core@1.1.0-dev.28323234687
 - pkg:cargo/cards2pack-core@1.1.0-dev.28371729721
 - pkg:cargo/cards2pack-core@1.1.0-dev.28458325446
+- pkg:cargo/cards2pack-core@1.1.1-dev.28502771666
 - pkg:cargo/cards2pack-core@1.2.0
 - pkg:cargo/cards2pack-core@1.2.0-dev.25512130996
 - pkg:cargo/cards2pack-core@1.2.0-dev.25533623137
@@ -49,3 +50,4 @@
 - pkg:cargo/cards2pack-core@1.2.0-dev.27526177406
 - pkg:cargo/cards2pack-core@1.2.0-dev.27806299889
 - pkg:cargo/cards2pack-core@1.2.0-dev.28459539894
+- pkg:cargo/cards2pack-core@1.2.0-dev.28492085705
