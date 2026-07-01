@@ -1,1 +1,2 @@
 - pkg:cargo/osproxy-kafka@1.0.0
+- pkg:cargo/osproxy-kafka@1.0.1
