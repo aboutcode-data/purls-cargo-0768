@@ -71,6 +71,7 @@
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.13
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.14
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.15
+- pkg:cargo/turso_sdk_kit@0.7.0-pre.17
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.2
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.3
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.4
