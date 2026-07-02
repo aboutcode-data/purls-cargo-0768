@@ -12,3 +12,4 @@
 - pkg:cargo/carch-cli@5.4.4
 - pkg:cargo/carch-cli@5.4.6
 - pkg:cargo/carch-cli@5.4.7
+- pkg:cargo/carch-cli@6.0.0
