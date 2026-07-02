@@ -1,6 +1,9 @@
 - pkg:cargo/luna-jit@1.1.0
 - pkg:cargo/luna-jit@1.3.0
 - pkg:cargo/luna-jit@2.1.0
+- pkg:cargo/luna-jit@2.10.0
+- pkg:cargo/luna-jit@2.11.0
+- pkg:cargo/luna-jit@2.12.0
 - pkg:cargo/luna-jit@2.2.0
 - pkg:cargo/luna-jit@2.3.0
 - pkg:cargo/luna-jit@2.4.0
