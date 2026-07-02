@@ -8,3 +8,4 @@
 - pkg:cargo/heapster@0.6.0
 - pkg:cargo/heapster@0.7.0
 - pkg:cargo/heapster@0.8.0
+- pkg:cargo/heapster@0.9.0
