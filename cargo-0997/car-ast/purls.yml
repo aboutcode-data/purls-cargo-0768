@@ -25,6 +25,7 @@
 - pkg:cargo/car-ast@0.29.0
 - pkg:cargo/car-ast@0.30.0
 - pkg:cargo/car-ast@0.31.0
+- pkg:cargo/car-ast@0.32.0
 - pkg:cargo/car-ast@0.6.0
 - pkg:cargo/car-ast@0.7.0
 - pkg:cargo/car-ast@0.8.0
