@@ -28,3 +28,4 @@
 - pkg:cargo/hearth-sdk@1.3.2
 - pkg:cargo/hearth-sdk@1.4.0
 - pkg:cargo/hearth-sdk@1.5.0
+- pkg:cargo/hearth-sdk@1.5.1
