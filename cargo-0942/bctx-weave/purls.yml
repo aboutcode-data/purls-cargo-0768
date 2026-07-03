@@ -14,6 +14,7 @@
 - pkg:cargo/bctx-weave@0.1.27
 - pkg:cargo/bctx-weave@0.1.28
 - pkg:cargo/bctx-weave@0.1.29
+- pkg:cargo/bctx-weave@0.1.30
 - pkg:cargo/bctx-weave@0.1.4
 - pkg:cargo/bctx-weave@0.1.5
 - pkg:cargo/bctx-weave@0.1.6

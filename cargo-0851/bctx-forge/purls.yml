@@ -15,6 +15,7 @@
 - pkg:cargo/bctx-forge@0.1.28
 - pkg:cargo/bctx-forge@0.1.29
 - pkg:cargo/bctx-forge@0.1.3
+- pkg:cargo/bctx-forge@0.1.30
 - pkg:cargo/bctx-forge@0.1.4
 - pkg:cargo/bctx-forge@0.1.5
 - pkg:cargo/bctx-forge@0.1.6
