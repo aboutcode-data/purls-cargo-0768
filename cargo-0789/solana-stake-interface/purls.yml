@@ -11,3 +11,4 @@
 - pkg:cargo/solana-stake-interface@4.1.0
 - pkg:cargo/solana-stake-interface@4.2.0
 - pkg:cargo/solana-stake-interface@4.3.0
+- pkg:cargo/solana-stake-interface@4.3.1
