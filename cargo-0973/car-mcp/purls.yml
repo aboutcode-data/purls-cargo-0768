@@ -25,5 +25,6 @@
 - pkg:cargo/car-mcp@0.31.0
 - pkg:cargo/car-mcp@0.32.0
 - pkg:cargo/car-mcp@0.32.1
+- pkg:cargo/car-mcp@0.33.0
 - pkg:cargo/car-mcp@0.8.0
 - pkg:cargo/car-mcp@0.9.0

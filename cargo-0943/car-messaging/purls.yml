@@ -1,3 +1,4 @@
 - pkg:cargo/car-messaging@0.31.0
 - pkg:cargo/car-messaging@0.32.0
 - pkg:cargo/car-messaging@0.32.1
+- pkg:cargo/car-messaging@0.33.0
