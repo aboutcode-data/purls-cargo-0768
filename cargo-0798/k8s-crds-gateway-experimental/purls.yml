@@ -1,2 +1,3 @@
 - pkg:cargo/k8s-crds-gateway-experimental@0.0.1
 - pkg:cargo/k8s-crds-gateway-experimental@1.5.1
+- pkg:cargo/k8s-crds-gateway-experimental@1.6.0
