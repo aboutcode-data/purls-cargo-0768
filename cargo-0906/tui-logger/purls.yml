@@ -38,6 +38,7 @@
 - pkg:cargo/tui-logger@0.18.0
 - pkg:cargo/tui-logger@0.18.1
 - pkg:cargo/tui-logger@0.18.2
+- pkg:cargo/tui-logger@0.18.3
 - pkg:cargo/tui-logger@0.2.0
 - pkg:cargo/tui-logger@0.3.0
 - pkg:cargo/tui-logger@0.3.1
