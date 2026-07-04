@@ -13,3 +13,4 @@
 - pkg:cargo/hjkl-statusline-tui@0.31.0
 - pkg:cargo/hjkl-statusline-tui@0.32.0
 - pkg:cargo/hjkl-statusline-tui@0.33.2
+- pkg:cargo/hjkl-statusline-tui@0.33.3
