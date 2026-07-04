@@ -531,3 +531,4 @@
 - pkg:cargo/solana-perf@4.1.0-beta.3
 - pkg:cargo/solana-perf@4.1.0-rc.0
 - pkg:cargo/solana-perf@4.1.0-rc.1
+- pkg:cargo/solana-perf@4.1.1
