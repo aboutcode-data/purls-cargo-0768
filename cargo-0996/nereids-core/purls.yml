@@ -9,3 +9,4 @@
 - pkg:cargo/nereids-core@0.1.8
 - pkg:cargo/nereids-core@0.2.0
 - pkg:cargo/nereids-core@0.2.1
+- pkg:cargo/nereids-core@0.2.2
