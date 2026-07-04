@@ -21,3 +21,4 @@
 - pkg:cargo/quorum-crypto-core@0.7.0-rc.7
 - pkg:cargo/quorum-crypto-core@0.7.0-rc.8
 - pkg:cargo/quorum-crypto-core@0.7.0-rc.9
+- pkg:cargo/quorum-crypto-core@0.7.1
