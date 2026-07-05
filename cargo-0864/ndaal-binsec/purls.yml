@@ -1,1 +1,5 @@
 - pkg:cargo/ndaal-binsec@3.2.0
+- pkg:cargo/ndaal-binsec@3.2.1
+- pkg:cargo/ndaal-binsec@3.2.3
+- pkg:cargo/ndaal-binsec@3.2.4
+- pkg:cargo/ndaal-binsec@3.2.5
