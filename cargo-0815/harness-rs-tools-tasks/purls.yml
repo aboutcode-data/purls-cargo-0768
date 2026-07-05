@@ -3,6 +3,15 @@
 - pkg:cargo/harness-rs-tools-tasks@0.0.12
 - pkg:cargo/harness-rs-tools-tasks@0.0.13
 - pkg:cargo/harness-rs-tools-tasks@0.0.14
+- pkg:cargo/harness-rs-tools-tasks@0.0.15
+- pkg:cargo/harness-rs-tools-tasks@0.0.16
+- pkg:cargo/harness-rs-tools-tasks@0.0.17
+- pkg:cargo/harness-rs-tools-tasks@0.0.18
+- pkg:cargo/harness-rs-tools-tasks@0.0.19
+- pkg:cargo/harness-rs-tools-tasks@0.0.20
+- pkg:cargo/harness-rs-tools-tasks@0.0.21
+- pkg:cargo/harness-rs-tools-tasks@0.0.22
+- pkg:cargo/harness-rs-tools-tasks@0.0.23
 - pkg:cargo/harness-rs-tools-tasks@0.0.5
 - pkg:cargo/harness-rs-tools-tasks@0.0.6
 - pkg:cargo/harness-rs-tools-tasks@0.0.7
