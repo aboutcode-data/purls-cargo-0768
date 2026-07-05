@@ -12,3 +12,4 @@
 - pkg:cargo/hermesmqd@0.6.3
 - pkg:cargo/hermesmqd@0.6.4
 - pkg:cargo/hermesmqd@0.6.5
+- pkg:cargo/hermesmqd@0.8.0
