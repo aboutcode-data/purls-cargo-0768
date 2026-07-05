@@ -32,3 +32,5 @@
 - pkg:cargo/karbon-framework@0.2.7
 - pkg:cargo/karbon-framework@0.2.8
 - pkg:cargo/karbon-framework@0.2.9
+- pkg:cargo/karbon-framework@0.3.0
+- pkg:cargo/karbon-framework@0.3.1
