@@ -1,2 +1,5 @@
 - pkg:cargo/sui-daemon-client@0.1.10
 - pkg:cargo/sui-daemon-client@0.1.12
+- pkg:cargo/sui-daemon-client@0.1.13
+- pkg:cargo/sui-daemon-client@0.1.14
+- pkg:cargo/sui-daemon-client@0.1.15
