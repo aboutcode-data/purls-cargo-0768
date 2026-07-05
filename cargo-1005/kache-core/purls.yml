@@ -8,4 +8,5 @@
 - pkg:cargo/kache-core@0.7.0
 - pkg:cargo/kache-core@0.7.0-rc.2
 - pkg:cargo/kache-core@0.7.0-rc.3
+- pkg:cargo/kache-core@0.8.0
 - pkg:cargo/kache-core@0.8.0-rc.1
