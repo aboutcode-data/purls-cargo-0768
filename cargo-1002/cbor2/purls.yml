@@ -6,3 +6,7 @@
 - pkg:cargo/cbor2@1.0.4
 - pkg:cargo/cbor2@1.0.5
 - pkg:cargo/cbor2@1.0.6
+- pkg:cargo/cbor2@1.1.0
+- pkg:cargo/cbor2@1.1.1
+- pkg:cargo/cbor2@1.1.2
+- pkg:cargo/cbor2@1.1.3
