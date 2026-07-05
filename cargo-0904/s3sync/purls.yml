@@ -89,6 +89,8 @@
 - pkg:cargo/s3sync@1.58.6
 - pkg:cargo/s3sync@1.58.7
 - pkg:cargo/s3sync@1.58.8
+- pkg:cargo/s3sync@1.58.9
+- pkg:cargo/s3sync@1.59.0
 - pkg:cargo/s3sync@1.6.0
 - pkg:cargo/s3sync@1.6.1
 - pkg:cargo/s3sync@1.6.2
