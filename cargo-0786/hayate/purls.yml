@@ -2,3 +2,7 @@
 - pkg:cargo/hayate@2.1.0
 - pkg:cargo/hayate@2.1.1
 - pkg:cargo/hayate@3.0.0
+- pkg:cargo/hayate@4.0.0
+- pkg:cargo/hayate@5.0.0
+- pkg:cargo/hayate@5.1.0
+- pkg:cargo/hayate@5.1.1
