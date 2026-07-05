@@ -8,3 +8,4 @@
 - pkg:cargo/githttp-fs@1.0.7
 - pkg:cargo/githttp-fs@1.1.0
 - pkg:cargo/githttp-fs@1.1.1
+- pkg:cargo/githttp-fs@1.2.0
