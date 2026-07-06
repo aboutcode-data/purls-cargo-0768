@@ -2,3 +2,4 @@
 - pkg:cargo/car-server-types@0.32.0
 - pkg:cargo/car-server-types@0.32.1
 - pkg:cargo/car-server-types@0.33.0
+- pkg:cargo/car-server-types@0.34.0
