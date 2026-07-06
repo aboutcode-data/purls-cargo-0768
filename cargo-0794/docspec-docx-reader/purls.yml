@@ -16,6 +16,7 @@
 - pkg:cargo/docspec-docx-reader@1.18.3
 - pkg:cargo/docspec-docx-reader@1.19.0
 - pkg:cargo/docspec-docx-reader@1.20.0
+- pkg:cargo/docspec-docx-reader@1.20.1
 - pkg:cargo/docspec-docx-reader@1.5.0
 - pkg:cargo/docspec-docx-reader@1.5.1
 - pkg:cargo/docspec-docx-reader@1.6.0
