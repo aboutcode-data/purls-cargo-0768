@@ -1,1 +1,4 @@
 - pkg:cargo/nexaloid-sys-darwin-x64@0.1.11
+- pkg:cargo/nexaloid-sys-darwin-x64@0.1.12
+- pkg:cargo/nexaloid-sys-darwin-x64@0.1.13
+- pkg:cargo/nexaloid-sys-darwin-x64@0.1.14
