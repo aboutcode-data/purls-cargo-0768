@@ -423,6 +423,7 @@
 - pkg:cargo/canic-backup@0.82.24
 - pkg:cargo/canic-backup@0.82.25
 - pkg:cargo/canic-backup@0.82.26
+- pkg:cargo/canic-backup@0.82.27
 - pkg:cargo/canic-backup@0.82.3
 - pkg:cargo/canic-backup@0.82.4
 - pkg:cargo/canic-backup@0.82.5
