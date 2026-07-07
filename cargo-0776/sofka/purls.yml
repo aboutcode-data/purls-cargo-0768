@@ -11,3 +11,6 @@
 - pkg:cargo/sofka@0.4.1
 - pkg:cargo/sofka@0.4.2
 - pkg:cargo/sofka@0.4.3
+- pkg:cargo/sofka@0.4.4
+- pkg:cargo/sofka@0.5.0
+- pkg:cargo/sofka@0.5.1
