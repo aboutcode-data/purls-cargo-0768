@@ -5,3 +5,5 @@
 - pkg:cargo/gize-templates@0.4.1
 - pkg:cargo/gize-templates@0.5.0
 - pkg:cargo/gize-templates@0.5.1
+- pkg:cargo/gize-templates@0.6.1
+- pkg:cargo/gize-templates@0.6.2

@@ -5,3 +5,5 @@
 - pkg:cargo/gize-generator@0.4.1
 - pkg:cargo/gize-generator@0.5.0
 - pkg:cargo/gize-generator@0.5.1
+- pkg:cargo/gize-generator@0.6.1
+- pkg:cargo/gize-generator@0.6.2
