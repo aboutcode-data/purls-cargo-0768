@@ -1,2 +1,5 @@
 - pkg:cargo/callwire@2.0.0
 - pkg:cargo/callwire@2.0.1
+- pkg:cargo/callwire@2.0.3
+- pkg:cargo/callwire@2.0.4
+- pkg:cargo/callwire@2.2.0
