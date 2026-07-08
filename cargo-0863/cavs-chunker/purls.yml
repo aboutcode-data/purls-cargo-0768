@@ -8,3 +8,4 @@
 - pkg:cargo/cavs-chunker@0.7.0
 - pkg:cargo/cavs-chunker@0.8.0
 - pkg:cargo/cavs-chunker@0.9.0
+- pkg:cargo/cavs-chunker@1.0.0
