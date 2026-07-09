@@ -5,3 +5,7 @@
 - pkg:cargo/nexaloid-sys-darwin-x64@0.1.16
 - pkg:cargo/nexaloid-sys-darwin-x64@0.1.17
 - pkg:cargo/nexaloid-sys-darwin-x64@0.1.18
+- pkg:cargo/nexaloid-sys-darwin-x64@0.1.20
+- pkg:cargo/nexaloid-sys-darwin-x64@0.1.21
+- pkg:cargo/nexaloid-sys-darwin-x64@0.1.22
+- pkg:cargo/nexaloid-sys-darwin-x64@0.1.23
