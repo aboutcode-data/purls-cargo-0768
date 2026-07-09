@@ -10,3 +10,5 @@
 - pkg:cargo/sui-cache@0.1.20
 - pkg:cargo/sui-cache@0.1.21
 - pkg:cargo/sui-cache@0.1.22
+- pkg:cargo/sui-cache@0.1.23
+- pkg:cargo/sui-cache@0.1.24
