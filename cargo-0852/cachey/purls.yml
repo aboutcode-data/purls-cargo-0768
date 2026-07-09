@@ -3,6 +3,7 @@
 - pkg:cargo/cachey@0.10.10
 - pkg:cargo/cachey@0.10.11
 - pkg:cargo/cachey@0.10.12
+- pkg:cargo/cachey@0.10.13
 - pkg:cargo/cachey@0.10.2
 - pkg:cargo/cachey@0.10.3
 - pkg:cargo/cachey@0.10.4
