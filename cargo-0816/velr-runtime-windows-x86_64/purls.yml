@@ -17,3 +17,4 @@
 - pkg:cargo/velr-runtime-windows-x86_64@0.2.29
 - pkg:cargo/velr-runtime-windows-x86_64@0.2.32
 - pkg:cargo/velr-runtime-windows-x86_64@0.2.36
+- pkg:cargo/velr-runtime-windows-x86_64@0.2.38
