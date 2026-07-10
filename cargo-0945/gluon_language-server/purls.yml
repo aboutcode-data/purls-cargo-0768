@@ -7,6 +7,7 @@
 - pkg:cargo/gluon_language-server@0.15.0
 - pkg:cargo/gluon_language-server@0.17.0
 - pkg:cargo/gluon_language-server@0.18.0
+- pkg:cargo/gluon_language-server@0.18.1
 - pkg:cargo/gluon_language-server@0.2.0
 - pkg:cargo/gluon_language-server@0.3.0
 - pkg:cargo/gluon_language-server@0.4.0

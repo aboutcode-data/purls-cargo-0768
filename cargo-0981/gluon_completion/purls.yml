@@ -16,6 +16,7 @@
 - pkg:cargo/gluon_completion@0.17.2
 - pkg:cargo/gluon_completion@0.18.0
 - pkg:cargo/gluon_completion@0.18.2
+- pkg:cargo/gluon_completion@0.18.3
 - pkg:cargo/gluon_completion@0.6.0
 - pkg:cargo/gluon_completion@0.6.1
 - pkg:cargo/gluon_completion@0.6.2

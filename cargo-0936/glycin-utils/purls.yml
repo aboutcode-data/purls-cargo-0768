@@ -49,3 +49,4 @@
 - pkg:cargo/glycin-utils@4.1.0-beta
 - pkg:cargo/glycin-utils@4.1.0-rc
 - pkg:cargo/glycin-utils@5.0.0-alpha
+- pkg:cargo/glycin-utils@5.0.0-alpha.1
