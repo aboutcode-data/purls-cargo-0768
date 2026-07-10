@@ -10,3 +10,4 @@
 - pkg:cargo/hjkl-completion@0.32.0
 - pkg:cargo/hjkl-completion@0.33.2
 - pkg:cargo/hjkl-completion@0.33.3
+- pkg:cargo/hjkl-completion@0.33.4
