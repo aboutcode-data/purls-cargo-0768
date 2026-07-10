@@ -10,3 +10,4 @@
 - pkg:cargo/camel-component-seda@0.20.0
 - pkg:cargo/camel-component-seda@0.21.0
 - pkg:cargo/camel-component-seda@0.22.0
+- pkg:cargo/camel-component-seda@0.23.0
