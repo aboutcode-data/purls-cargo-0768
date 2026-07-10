@@ -20,5 +20,7 @@
 - pkg:cargo/cascii@0.28.1
 - pkg:cargo/cascii@0.29.0
 - pkg:cargo/cascii@0.3.0
+- pkg:cargo/cascii@0.30.0
+- pkg:cargo/cascii@0.31.0
 - pkg:cargo/cascii@0.5.0
 - pkg:cargo/cascii@0.6.0
