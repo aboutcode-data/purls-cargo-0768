@@ -1,3 +1,4 @@
 - pkg:cargo/luxc@0.10.0
+- pkg:cargo/luxc@0.10.1
 - pkg:cargo/luxc@0.8.2
 - pkg:cargo/luxc@0.8.3
