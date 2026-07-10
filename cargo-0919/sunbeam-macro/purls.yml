@@ -13,6 +13,7 @@
 - pkg:cargo/sunbeam-macro@0.0.20-alpha
 - pkg:cargo/sunbeam-macro@0.0.21-alpha
 - pkg:cargo/sunbeam-macro@0.0.22-alpha
+- pkg:cargo/sunbeam-macro@0.0.23-alpha
 - pkg:cargo/sunbeam-macro@0.0.3-alpha
 - pkg:cargo/sunbeam-macro@0.0.4-alpha
 - pkg:cargo/sunbeam-macro@0.0.5-alpha
