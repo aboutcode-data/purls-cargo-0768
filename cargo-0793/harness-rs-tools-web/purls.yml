@@ -13,6 +13,7 @@
 - pkg:cargo/harness-rs-tools-web@0.0.22
 - pkg:cargo/harness-rs-tools-web@0.0.23
 - pkg:cargo/harness-rs-tools-web@0.0.24
+- pkg:cargo/harness-rs-tools-web@0.0.25
 - pkg:cargo/harness-rs-tools-web@0.0.5
 - pkg:cargo/harness-rs-tools-web@0.0.6
 - pkg:cargo/harness-rs-tools-web@0.0.7
