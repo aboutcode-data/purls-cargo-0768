@@ -10,3 +10,5 @@
 - pkg:cargo/gigastt-ffi@2.4.0
 - pkg:cargo/gigastt-ffi@2.5.0
 - pkg:cargo/gigastt-ffi@2.6.0
+- pkg:cargo/gigastt-ffi@2.7.0
+- pkg:cargo/gigastt-ffi@2.8.0

@@ -38,3 +38,5 @@
 - pkg:cargo/gigastt@2.4.0
 - pkg:cargo/gigastt@2.5.0
 - pkg:cargo/gigastt@2.6.0
+- pkg:cargo/gigastt@2.7.0
+- pkg:cargo/gigastt@2.8.0
