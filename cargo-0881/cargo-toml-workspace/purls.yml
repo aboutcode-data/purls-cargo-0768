@@ -10,6 +10,7 @@
 - pkg:cargo/cargo-toml-workspace@6.0.3
 - pkg:cargo/cargo-toml-workspace@7.0.0
 - pkg:cargo/cargo-toml-workspace@7.0.1
+- pkg:cargo/cargo-toml-workspace@7.0.10
 - pkg:cargo/cargo-toml-workspace@7.0.2
 - pkg:cargo/cargo-toml-workspace@7.0.3
 - pkg:cargo/cargo-toml-workspace@7.0.4
