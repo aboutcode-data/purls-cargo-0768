@@ -23,6 +23,7 @@
 - pkg:cargo/calepin@0.0.3
 - pkg:cargo/calepin@0.0.30
 - pkg:cargo/calepin@0.0.31
+- pkg:cargo/calepin@0.0.32
 - pkg:cargo/calepin@0.0.4
 - pkg:cargo/calepin@0.0.5
 - pkg:cargo/calepin@0.0.6
