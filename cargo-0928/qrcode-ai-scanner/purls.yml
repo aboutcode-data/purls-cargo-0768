@@ -3,3 +3,6 @@
 - pkg:cargo/qrcode-ai-scanner@0.6.0
 - pkg:cargo/qrcode-ai-scanner@0.7.0
 - pkg:cargo/qrcode-ai-scanner@0.7.1
+- pkg:cargo/qrcode-ai-scanner@0.7.2
+- pkg:cargo/qrcode-ai-scanner@0.8.0
+- pkg:cargo/qrcode-ai-scanner@0.8.1
