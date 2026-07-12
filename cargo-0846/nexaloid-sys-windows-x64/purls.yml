@@ -9,3 +9,5 @@
 - pkg:cargo/nexaloid-sys-windows-x64@0.1.21
 - pkg:cargo/nexaloid-sys-windows-x64@0.1.22
 - pkg:cargo/nexaloid-sys-windows-x64@0.1.23
+- pkg:cargo/nexaloid-sys-windows-x64@0.1.24
+- pkg:cargo/nexaloid-sys-windows-x64@0.1.25
