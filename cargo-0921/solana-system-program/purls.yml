@@ -199,4 +199,6 @@
 - pkg:cargo/solana-system-program@4.1.0-rc.0
 - pkg:cargo/solana-system-program@4.1.0-rc.1
 - pkg:cargo/solana-system-program@4.1.1
+- pkg:cargo/solana-system-program@4.1.2
 - pkg:cargo/solana-system-program@4.2.0-beta.0
+- pkg:cargo/solana-system-program@4.2.0-beta.1
