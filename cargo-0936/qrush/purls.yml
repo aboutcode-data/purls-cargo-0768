@@ -17,3 +17,5 @@
 - pkg:cargo/qrush@0.6.1
 - pkg:cargo/qrush@1.0.0
 - pkg:cargo/qrush@1.0.1
+- pkg:cargo/qrush@2.0.0
+- pkg:cargo/qrush@2.0.1
