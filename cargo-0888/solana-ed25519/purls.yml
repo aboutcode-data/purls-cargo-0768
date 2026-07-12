@@ -2,3 +2,4 @@
 - pkg:cargo/solana-ed25519@0.1.0
 - pkg:cargo/solana-ed25519@0.2.0
 - pkg:cargo/solana-ed25519@0.2.1
+- pkg:cargo/solana-ed25519@0.2.2
