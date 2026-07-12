@@ -11,5 +11,6 @@
 - pkg:cargo/surtgis-wasm@0.16.3
 - pkg:cargo/surtgis-wasm@0.16.4
 - pkg:cargo/surtgis-wasm@0.17.0
+- pkg:cargo/surtgis-wasm@0.18.0
 - pkg:cargo/surtgis-wasm@0.6.0
 - pkg:cargo/surtgis-wasm@0.6.1
