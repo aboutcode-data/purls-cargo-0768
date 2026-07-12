@@ -1,3 +1,4 @@
 - pkg:cargo/supermachine-kernel-x86-64@0.7.67
 - pkg:cargo/supermachine-kernel-x86-64@0.7.68
 - pkg:cargo/supermachine-kernel-x86-64@0.7.69
+- pkg:cargo/supermachine-kernel-x86-64@0.7.70
