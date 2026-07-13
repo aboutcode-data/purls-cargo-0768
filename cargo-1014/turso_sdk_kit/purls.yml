@@ -63,6 +63,7 @@
 - pkg:cargo/turso_sdk_kit@0.6.0-pre.9
 - pkg:cargo/turso_sdk_kit@0.6.1
 - pkg:cargo/turso_sdk_kit@0.6.1-pre.1
+- pkg:cargo/turso_sdk_kit@0.7.0
 - pkg:cargo/turso_sdk_kit@0.7.0-mikael
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.1
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.10
@@ -77,6 +78,7 @@
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.2
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.20
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.21
+- pkg:cargo/turso_sdk_kit@0.7.0-pre.22
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.3
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.4
 - pkg:cargo/turso_sdk_kit@0.7.0-pre.5
