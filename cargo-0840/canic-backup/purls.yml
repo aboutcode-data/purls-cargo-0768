@@ -503,3 +503,5 @@
 - pkg:cargo/canic-backup@0.86.6
 - pkg:cargo/canic-backup@0.86.7
 - pkg:cargo/canic-backup@0.86.8
+- pkg:cargo/canic-backup@0.87.0
+- pkg:cargo/canic-backup@0.87.1
