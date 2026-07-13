@@ -32,3 +32,4 @@
 - pkg:cargo/dodot@5.0.1-rc.2
 - pkg:cargo/dodot@5.1.0
 - pkg:cargo/dodot@5.2.0
+- pkg:cargo/dodot@5.2.2-rc.1
