@@ -1,5 +1,6 @@
 - pkg:cargo/candor-query@0.10.0
 - pkg:cargo/candor-query@0.11.0
+- pkg:cargo/candor-query@0.12.0
 - pkg:cargo/candor-query@0.4.1
 - pkg:cargo/candor-query@0.4.2
 - pkg:cargo/candor-query@0.4.3
