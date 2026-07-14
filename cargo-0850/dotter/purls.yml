@@ -30,6 +30,7 @@
 - pkg:cargo/dotter@0.13.2
 - pkg:cargo/dotter@0.13.3
 - pkg:cargo/dotter@0.13.4
+- pkg:cargo/dotter@0.13.5
 - pkg:cargo/dotter@0.2.1
 - pkg:cargo/dotter@0.2.2
 - pkg:cargo/dotter@0.2.3
