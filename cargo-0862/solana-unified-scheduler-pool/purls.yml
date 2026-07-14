@@ -140,3 +140,4 @@
 - pkg:cargo/solana-unified-scheduler-pool@4.1.2
 - pkg:cargo/solana-unified-scheduler-pool@4.2.0-beta.0
 - pkg:cargo/solana-unified-scheduler-pool@4.2.0-beta.1
+- pkg:cargo/solana-unified-scheduler-pool@4.3.0-alpha.1
