@@ -2,3 +2,4 @@
 - pkg:cargo/google-cloud-aiplatform-v1-schema-predict-instance@1.1.0
 - pkg:cargo/google-cloud-aiplatform-v1-schema-predict-instance@1.2.0
 - pkg:cargo/google-cloud-aiplatform-v1-schema-predict-instance@1.3.0
+- pkg:cargo/google-cloud-aiplatform-v1-schema-predict-instance@1.4.0
