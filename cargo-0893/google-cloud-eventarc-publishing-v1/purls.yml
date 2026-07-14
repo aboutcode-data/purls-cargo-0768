@@ -6,3 +6,4 @@
 - pkg:cargo/google-cloud-eventarc-publishing-v1@1.5.0
 - pkg:cargo/google-cloud-eventarc-publishing-v1@1.6.0
 - pkg:cargo/google-cloud-eventarc-publishing-v1@1.7.0
+- pkg:cargo/google-cloud-eventarc-publishing-v1@1.8.0
