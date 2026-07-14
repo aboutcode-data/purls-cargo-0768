@@ -1,3 +1,5 @@
 - pkg:cargo/harn-terminal@0.10.12
 - pkg:cargo/harn-terminal@0.10.13
 - pkg:cargo/harn-terminal@0.10.14
+- pkg:cargo/harn-terminal@0.10.15
+- pkg:cargo/harn-terminal@0.10.16
