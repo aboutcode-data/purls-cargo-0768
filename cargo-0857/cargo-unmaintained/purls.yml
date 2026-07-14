@@ -32,3 +32,4 @@
 - pkg:cargo/cargo-unmaintained@1.9.0
 - pkg:cargo/cargo-unmaintained@1.9.1
 - pkg:cargo/cargo-unmaintained@2.0.0
+- pkg:cargo/cargo-unmaintained@2.0.1
