@@ -57,3 +57,4 @@
 - pkg:cargo/sozu-command-lib@2.0.1
 - pkg:cargo/sozu-command-lib@2.0.2
 - pkg:cargo/sozu-command-lib@2.1.0
+- pkg:cargo/sozu-command-lib@2.1.1
