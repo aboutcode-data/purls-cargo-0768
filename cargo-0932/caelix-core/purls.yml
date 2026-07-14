@@ -3,6 +3,7 @@
 - pkg:cargo/caelix-core@0.0.11
 - pkg:cargo/caelix-core@0.0.12
 - pkg:cargo/caelix-core@0.0.13
+- pkg:cargo/caelix-core@0.0.14
 - pkg:cargo/caelix-core@0.0.2
 - pkg:cargo/caelix-core@0.0.3
 - pkg:cargo/caelix-core@0.0.4
