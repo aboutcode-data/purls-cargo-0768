@@ -56,3 +56,4 @@
 - pkg:cargo/socket2@0.6.2
 - pkg:cargo/socket2@0.6.3
 - pkg:cargo/socket2@0.6.4
+- pkg:cargo/socket2@0.6.5
