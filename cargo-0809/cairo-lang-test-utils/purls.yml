@@ -79,6 +79,7 @@
 - pkg:cargo/cairo-lang-test-utils@2.19.0-rc.2
 - pkg:cargo/cairo-lang-test-utils@2.19.0-rc.3
 - pkg:cargo/cairo-lang-test-utils@2.19.2
+- pkg:cargo/cairo-lang-test-utils@2.19.3
 - pkg:cargo/cairo-lang-test-utils@2.2.0
 - pkg:cargo/cairo-lang-test-utils@2.20.0-rc.0
 - pkg:cargo/cairo-lang-test-utils@2.3.0
