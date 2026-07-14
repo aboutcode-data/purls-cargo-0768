@@ -7,3 +7,4 @@
 - pkg:cargo/qubit-datatype@0.2.5
 - pkg:cargo/qubit-datatype@0.2.6
 - pkg:cargo/qubit-datatype@0.5.0
+- pkg:cargo/qubit-datatype@0.6.0
