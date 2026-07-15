@@ -5,3 +5,5 @@
 - pkg:cargo/openusd@0.1.4
 - pkg:cargo/openusd@0.2.0
 - pkg:cargo/openusd@0.3.0
+- pkg:cargo/openusd@0.4.0
+- pkg:cargo/openusd@0.5.0
