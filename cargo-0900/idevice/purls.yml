@@ -55,6 +55,9 @@
 - pkg:cargo/idevice@0.1.6
 - pkg:cargo/idevice@0.1.60
 - pkg:cargo/idevice@0.1.61
+- pkg:cargo/idevice@0.1.63
+- pkg:cargo/idevice@0.1.64
+- pkg:cargo/idevice@0.1.65
 - pkg:cargo/idevice@0.1.7
 - pkg:cargo/idevice@0.1.8
 - pkg:cargo/idevice@0.1.9
