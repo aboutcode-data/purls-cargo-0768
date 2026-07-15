@@ -186,7 +186,15 @@
 - pkg:cargo/janus_client@0.7.120
 - pkg:cargo/janus_client@0.7.121
 - pkg:cargo/janus_client@0.7.122
+- pkg:cargo/janus_client@0.7.123
+- pkg:cargo/janus_client@0.7.124
+- pkg:cargo/janus_client@0.7.125
+- pkg:cargo/janus_client@0.7.126
+- pkg:cargo/janus_client@0.7.127
+- pkg:cargo/janus_client@0.7.128
+- pkg:cargo/janus_client@0.7.129
 - pkg:cargo/janus_client@0.7.13
+- pkg:cargo/janus_client@0.7.130
 - pkg:cargo/janus_client@0.7.14
 - pkg:cargo/janus_client@0.7.15
 - pkg:cargo/janus_client@0.7.16
