@@ -33,3 +33,4 @@
 - pkg:cargo/openh264-sys2@0.9.3
 - pkg:cargo/openh264-sys2@0.9.5
 - pkg:cargo/openh264-sys2@0.9.6
+- pkg:cargo/openh264-sys2@0.9.7
