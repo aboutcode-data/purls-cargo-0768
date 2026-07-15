@@ -1,3 +1,4 @@
 - pkg:cargo/nexus-protocol@1.14.0
 - pkg:cargo/nexus-protocol@2.0.0
 - pkg:cargo/nexus-protocol@2.1.0
+- pkg:cargo/nexus-protocol@2.5.0
