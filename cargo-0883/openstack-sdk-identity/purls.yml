@@ -1,0 +1,2 @@
+- pkg:cargo/openstack-sdk-identity@0.1.0
+- pkg:cargo/openstack-sdk-identity@0.22.7
