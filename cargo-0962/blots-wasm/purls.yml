@@ -33,6 +33,8 @@
 - pkg:cargo/blots-wasm@0.12.0
 - pkg:cargo/blots-wasm@0.13.0
 - pkg:cargo/blots-wasm@0.13.1
+- pkg:cargo/blots-wasm@0.14.1
+- pkg:cargo/blots-wasm@0.15.0
 - pkg:cargo/blots-wasm@0.4.10
 - pkg:cargo/blots-wasm@0.4.11
 - pkg:cargo/blots-wasm@0.4.13
