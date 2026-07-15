@@ -12,6 +12,8 @@
 - pkg:cargo/fusionamm-tx-sender@1.0.21
 - pkg:cargo/fusionamm-tx-sender@1.0.22
 - pkg:cargo/fusionamm-tx-sender@1.0.23
+- pkg:cargo/fusionamm-tx-sender@1.0.24
+- pkg:cargo/fusionamm-tx-sender@1.0.25
 - pkg:cargo/fusionamm-tx-sender@1.0.3
 - pkg:cargo/fusionamm-tx-sender@1.0.4
 - pkg:cargo/fusionamm-tx-sender@1.0.5
