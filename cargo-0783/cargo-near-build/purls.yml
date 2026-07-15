@@ -6,6 +6,7 @@
 - pkg:cargo/cargo-near-build@0.11.2
 - pkg:cargo/cargo-near-build@0.11.3
 - pkg:cargo/cargo-near-build@0.11.4
+- pkg:cargo/cargo-near-build@0.11.5
 - pkg:cargo/cargo-near-build@0.2.0
 - pkg:cargo/cargo-near-build@0.3.0
 - pkg:cargo/cargo-near-build@0.3.1
