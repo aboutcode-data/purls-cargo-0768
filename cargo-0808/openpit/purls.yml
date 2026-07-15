@@ -7,3 +7,6 @@
 - pkg:cargo/openpit@0.2.4
 - pkg:cargo/openpit@0.2.5
 - pkg:cargo/openpit@0.3.0
+- pkg:cargo/openpit@0.4.0
+- pkg:cargo/openpit@0.5.0
+- pkg:cargo/openpit@0.6.0
