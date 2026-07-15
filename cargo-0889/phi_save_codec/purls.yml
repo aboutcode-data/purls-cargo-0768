@@ -5,3 +5,5 @@
 - pkg:cargo/phi_save_codec@0.2.1
 - pkg:cargo/phi_save_codec@0.2.2
 - pkg:cargo/phi_save_codec@0.2.3
+- pkg:cargo/phi_save_codec@0.3.0
+- pkg:cargo/phi_save_codec@0.4.0
