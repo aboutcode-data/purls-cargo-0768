@@ -52,6 +52,7 @@
 - pkg:cargo/syntaqlite-syntax@0.4.2
 - pkg:cargo/syntaqlite-syntax@0.5.0
 - pkg:cargo/syntaqlite-syntax@0.5.1
+- pkg:cargo/syntaqlite-syntax@0.5.10
 - pkg:cargo/syntaqlite-syntax@0.5.2
 - pkg:cargo/syntaqlite-syntax@0.5.3
 - pkg:cargo/syntaqlite-syntax@0.5.4
@@ -60,3 +61,6 @@
 - pkg:cargo/syntaqlite-syntax@0.5.7
 - pkg:cargo/syntaqlite-syntax@0.5.8
 - pkg:cargo/syntaqlite-syntax@0.5.9
+- pkg:cargo/syntaqlite-syntax@0.6.0
+- pkg:cargo/syntaqlite-syntax@0.7.0
+- pkg:cargo/syntaqlite-syntax@0.7.1
