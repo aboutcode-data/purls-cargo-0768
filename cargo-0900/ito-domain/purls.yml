@@ -24,6 +24,8 @@
 - pkg:cargo/ito-domain@0.1.3
 - pkg:cargo/ito-domain@0.1.30
 - pkg:cargo/ito-domain@0.1.31
+- pkg:cargo/ito-domain@0.1.32
+- pkg:cargo/ito-domain@0.1.33
 - pkg:cargo/ito-domain@0.1.4
 - pkg:cargo/ito-domain@0.1.4-local.202602131733
 - pkg:cargo/ito-domain@0.1.5
