@@ -6,3 +6,4 @@
 - pkg:cargo/typewriter-kotlin@0.4.2
 - pkg:cargo/typewriter-kotlin@0.5.0
 - pkg:cargo/typewriter-kotlin@0.5.2
+- pkg:cargo/typewriter-kotlin@1.0.0
