@@ -19,6 +19,7 @@
 - pkg:cargo/jam-bootstrap-service@0.1.22-rc.5
 - pkg:cargo/jam-bootstrap-service@0.1.22-rc.6
 - pkg:cargo/jam-bootstrap-service@0.1.26
+- pkg:cargo/jam-bootstrap-service@0.1.28
 - pkg:cargo/jam-bootstrap-service@0.1.3
 - pkg:cargo/jam-bootstrap-service@0.1.4
 - pkg:cargo/jam-bootstrap-service@0.1.5

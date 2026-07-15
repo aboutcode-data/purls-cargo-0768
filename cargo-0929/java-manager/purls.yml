@@ -1,2 +1,6 @@
 - pkg:cargo/java-manager@0.1.0
 - pkg:cargo/java-manager@0.2.0
+- pkg:cargo/java-manager@0.3.0
+- pkg:cargo/java-manager@0.4.0-1b
+- pkg:cargo/java-manager@0.4.0-2b
+- pkg:cargo/java-manager@0.4.0-3b
