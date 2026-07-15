@@ -1,3 +1,4 @@
 - pkg:cargo/typed-i18n-derive@0.6.0
 - pkg:cargo/typed-i18n-derive@0.7.1
 - pkg:cargo/typed-i18n-derive@0.7.2
+- pkg:cargo/typed-i18n-derive@1.0.0
