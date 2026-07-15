@@ -1,1 +1,2 @@
 - pkg:cargo/hardy-cbor@1.0.0
+- pkg:cargo/hardy-cbor@2.0.0
