@@ -1,1 +1,3 @@
 - pkg:cargo/opendal-service-memcached@0.56.0
+- pkg:cargo/opendal-service-memcached@0.57.0
+- pkg:cargo/opendal-service-memcached@0.58.0
