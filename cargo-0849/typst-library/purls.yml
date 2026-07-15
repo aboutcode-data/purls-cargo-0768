@@ -7,3 +7,5 @@
 - pkg:cargo/typst-library@0.14.0-rc.2
 - pkg:cargo/typst-library@0.14.1
 - pkg:cargo/typst-library@0.14.2
+- pkg:cargo/typst-library@0.15.0
+- pkg:cargo/typst-library@0.15.0-rc.1
