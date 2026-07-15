@@ -6,3 +6,5 @@
 - pkg:cargo/nican@0.2.0-alpha2
 - pkg:cargo/nican@0.2.0-alpha5
 - pkg:cargo/nican@0.3.2
+- pkg:cargo/nican@0.4.0
+- pkg:cargo/nican@0.4.1

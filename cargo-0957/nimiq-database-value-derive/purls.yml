@@ -4,3 +4,8 @@
 - pkg:cargo/nimiq-database-value-derive@1.3.0
 - pkg:cargo/nimiq-database-value-derive@1.4.0
 - pkg:cargo/nimiq-database-value-derive@1.5.0
+- pkg:cargo/nimiq-database-value-derive@1.5.1
+- pkg:cargo/nimiq-database-value-derive@1.6.0
+- pkg:cargo/nimiq-database-value-derive@1.6.1
+- pkg:cargo/nimiq-database-value-derive@1.7.0
+- pkg:cargo/nimiq-database-value-derive@1.7.1
