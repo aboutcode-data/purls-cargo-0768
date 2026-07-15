@@ -11,3 +11,5 @@
 - pkg:cargo/adrs-core@0.7.4
 - pkg:cargo/adrs-core@0.7.5
 - pkg:cargo/adrs-core@0.7.6
+- pkg:cargo/adrs-core@0.8.0
+- pkg:cargo/adrs-core@0.9.0

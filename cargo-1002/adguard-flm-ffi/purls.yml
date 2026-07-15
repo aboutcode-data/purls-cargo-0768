@@ -37,4 +37,5 @@
 - pkg:cargo/adguard-flm-ffi@2.4.1
 - pkg:cargo/adguard-flm-ffi@2.5.0
 - pkg:cargo/adguard-flm-ffi@2.6.0
+- pkg:cargo/adguard-flm-ffi@2.6.10
 - pkg:cargo/adguard-flm-ffi@2.6.9
