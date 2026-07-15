@@ -59,3 +59,10 @@
 - pkg:cargo/ra-ap-rustc_next_trait_solver@0.165.0
 - pkg:cargo/ra-ap-rustc_next_trait_solver@0.166.0
 - pkg:cargo/ra-ap-rustc_next_trait_solver@0.167.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.168.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.169.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.170.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.171.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.172.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.173.0
+- pkg:cargo/ra-ap-rustc_next_trait_solver@0.174.0
