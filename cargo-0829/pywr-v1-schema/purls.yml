@@ -15,3 +15,4 @@
 - pkg:cargo/pywr-v1-schema@0.21.2
 - pkg:cargo/pywr-v1-schema@0.22.0
 - pkg:cargo/pywr-v1-schema@0.22.1
+- pkg:cargo/pywr-v1-schema@0.23.0
