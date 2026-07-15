@@ -5,3 +5,4 @@
 - pkg:cargo/objdiff-core@2.2.2
 - pkg:cargo/objdiff-core@2.3.3
 - pkg:cargo/objdiff-core@2.5.0
+- pkg:cargo/objdiff-core@3.7.3
