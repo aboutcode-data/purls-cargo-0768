@@ -1,4 +1,5 @@
 - pkg:cargo/feos@0.0.0
+- pkg:cargo/feos@0.10.0
 - pkg:cargo/feos@0.3.0
 - pkg:cargo/feos@0.4.0
 - pkg:cargo/feos@0.4.1
