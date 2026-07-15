@@ -11,6 +11,12 @@
 - pkg:cargo/adler-server@0.12.1
 - pkg:cargo/adler-server@0.12.2
 - pkg:cargo/adler-server@0.12.3
+- pkg:cargo/adler-server@0.13.0
+- pkg:cargo/adler-server@0.14.0
+- pkg:cargo/adler-server@0.14.1
+- pkg:cargo/adler-server@0.15.0
+- pkg:cargo/adler-server@0.15.1
+- pkg:cargo/adler-server@0.16.0
 - pkg:cargo/adler-server@0.8.1
 - pkg:cargo/adler-server@0.8.2
 - pkg:cargo/adler-server@0.8.3
