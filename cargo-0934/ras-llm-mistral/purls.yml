@@ -8,3 +8,7 @@
 - pkg:cargo/ras-llm-mistral@2.7.0
 - pkg:cargo/ras-llm-mistral@2.8.0
 - pkg:cargo/ras-llm-mistral@3.0.0
+- pkg:cargo/ras-llm-mistral@3.1.0
+- pkg:cargo/ras-llm-mistral@4.0.0
+- pkg:cargo/ras-llm-mistral@4.1.0
+- pkg:cargo/ras-llm-mistral@4.2.0

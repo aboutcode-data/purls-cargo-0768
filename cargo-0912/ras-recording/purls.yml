@@ -8,3 +8,7 @@
 - pkg:cargo/ras-recording@2.7.0
 - pkg:cargo/ras-recording@2.8.0
 - pkg:cargo/ras-recording@3.0.0
+- pkg:cargo/ras-recording@3.1.0
+- pkg:cargo/ras-recording@4.0.0
+- pkg:cargo/ras-recording@4.1.0
+- pkg:cargo/ras-recording@4.2.0

@@ -8,3 +8,7 @@
 - pkg:cargo/ras-telemetry@2.7.0
 - pkg:cargo/ras-telemetry@2.8.0
 - pkg:cargo/ras-telemetry@3.0.0
+- pkg:cargo/ras-telemetry@3.1.0
+- pkg:cargo/ras-telemetry@4.0.0
+- pkg:cargo/ras-telemetry@4.1.0
+- pkg:cargo/ras-telemetry@4.2.0
