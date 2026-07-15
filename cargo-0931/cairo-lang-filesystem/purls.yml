@@ -82,6 +82,7 @@
 - pkg:cargo/cairo-lang-filesystem@2.19.3
 - pkg:cargo/cairo-lang-filesystem@2.2.0
 - pkg:cargo/cairo-lang-filesystem@2.20.0-rc.0
+- pkg:cargo/cairo-lang-filesystem@2.20.0-rc.1
 - pkg:cargo/cairo-lang-filesystem@2.3.0
 - pkg:cargo/cairo-lang-filesystem@2.3.0-rc0
 - pkg:cargo/cairo-lang-filesystem@2.3.1
