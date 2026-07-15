@@ -33,6 +33,7 @@
 - pkg:cargo/bloom-server@1.38.0
 - pkg:cargo/bloom-server@1.39.0
 - pkg:cargo/bloom-server@1.39.1
+- pkg:cargo/bloom-server@1.39.2
 - pkg:cargo/bloom-server@1.5.0
 - pkg:cargo/bloom-server@1.6.0
 - pkg:cargo/bloom-server@1.7.0
