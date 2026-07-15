@@ -2,3 +2,4 @@
 - pkg:cargo/opty-tui-agent-bridge@0.9.0
 - pkg:cargo/opty-tui-agent-bridge@0.9.0-alpha.1
 - pkg:cargo/opty-tui-agent-bridge@0.9.1
+- pkg:cargo/opty-tui-agent-bridge@1.0.0
