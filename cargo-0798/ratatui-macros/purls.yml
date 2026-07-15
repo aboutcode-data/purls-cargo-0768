@@ -23,3 +23,5 @@
 - pkg:cargo/ratatui-macros@0.7.0-alpha.4
 - pkg:cargo/ratatui-macros@0.7.0-beta.0
 - pkg:cargo/ratatui-macros@0.7.0-beta.1
+- pkg:cargo/ratatui-macros@0.7.1
+- pkg:cargo/ratatui-macros@0.7.2
