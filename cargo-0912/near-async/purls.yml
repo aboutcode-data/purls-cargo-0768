@@ -51,3 +51,4 @@
 - pkg:cargo/near-async@0.37.0
 - pkg:cargo/near-async@0.37.0-rc.1
 - pkg:cargo/near-async@0.37.0-rc.2
+- pkg:cargo/near-async@0.37.0-rc.3
