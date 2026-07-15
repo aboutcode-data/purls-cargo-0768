@@ -64,6 +64,13 @@
 - pkg:cargo/qsv-stats@0.5.2
 - pkg:cargo/qsv-stats@0.5.3
 - pkg:cargo/qsv-stats@0.50.0
+- pkg:cargo/qsv-stats@0.51.0
+- pkg:cargo/qsv-stats@0.52.0
+- pkg:cargo/qsv-stats@0.53.0
+- pkg:cargo/qsv-stats@0.54.0
+- pkg:cargo/qsv-stats@0.54.1
+- pkg:cargo/qsv-stats@0.54.2
+- pkg:cargo/qsv-stats@0.54.3
 - pkg:cargo/qsv-stats@0.6.0
 - pkg:cargo/qsv-stats@0.7.0
 - pkg:cargo/qsv-stats@0.8.0
