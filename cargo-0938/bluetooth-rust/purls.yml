@@ -14,3 +14,6 @@
 - pkg:cargo/bluetooth-rust@0.3.7
 - pkg:cargo/bluetooth-rust@0.3.8
 - pkg:cargo/bluetooth-rust@0.3.9
+- pkg:cargo/bluetooth-rust@0.4.0
+- pkg:cargo/bluetooth-rust@0.4.1
+- pkg:cargo/bluetooth-rust@0.4.2
