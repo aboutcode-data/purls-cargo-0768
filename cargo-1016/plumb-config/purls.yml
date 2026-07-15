@@ -1,6 +1,7 @@
 - pkg:cargo/plumb-config@0.0.10
 - pkg:cargo/plumb-config@0.0.11
 - pkg:cargo/plumb-config@0.0.12
+- pkg:cargo/plumb-config@0.0.13
 - pkg:cargo/plumb-config@0.0.5
 - pkg:cargo/plumb-config@0.0.6
 - pkg:cargo/plumb-config@0.0.7
