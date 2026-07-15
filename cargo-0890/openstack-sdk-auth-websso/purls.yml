@@ -1,0 +1,2 @@
+- pkg:cargo/openstack-sdk-auth-websso@0.22.5
+- pkg:cargo/openstack-sdk-auth-websso@0.22.6
