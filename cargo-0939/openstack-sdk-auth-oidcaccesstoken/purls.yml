@@ -1,0 +1,2 @@
+- pkg:cargo/openstack-sdk-auth-oidcaccesstoken@0.22.5
+- pkg:cargo/openstack-sdk-auth-oidcaccesstoken@0.22.6
