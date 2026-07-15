@@ -31,6 +31,7 @@
 - pkg:cargo/throttlecrab-server@0.4.34
 - pkg:cargo/throttlecrab-server@0.4.35
 - pkg:cargo/throttlecrab-server@0.4.37
+- pkg:cargo/throttlecrab-server@0.4.38
 - pkg:cargo/throttlecrab-server@0.4.4
 - pkg:cargo/throttlecrab-server@0.4.6
 - pkg:cargo/throttlecrab-server@0.4.7
