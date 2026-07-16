@@ -22,6 +22,7 @@
 - pkg:cargo/nenjo-models@0.27.0
 - pkg:cargo/nenjo-models@0.27.1
 - pkg:cargo/nenjo-models@0.27.2
+- pkg:cargo/nenjo-models@0.28.0
 - pkg:cargo/nenjo-models@0.3.0
 - pkg:cargo/nenjo-models@0.3.2
 - pkg:cargo/nenjo-models@0.4.0
