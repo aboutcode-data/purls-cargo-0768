@@ -9,3 +9,5 @@
 - pkg:cargo/obj-pool@0.4.4
 - pkg:cargo/obj-pool@0.5.0
 - pkg:cargo/obj-pool@0.5.1
+- pkg:cargo/obj-pool@0.6.0
+- pkg:cargo/obj-pool@0.7.0
