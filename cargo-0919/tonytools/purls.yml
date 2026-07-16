@@ -21,3 +21,4 @@
 - pkg:cargo/tonytools@0.6.0
 - pkg:cargo/tonytools@0.7.0
 - pkg:cargo/tonytools@0.7.1
+- pkg:cargo/tonytools@1.0.0
