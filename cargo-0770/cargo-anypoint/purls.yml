@@ -16,4 +16,5 @@
 - pkg:cargo/cargo-anypoint@1.9.0-alpha.0
 - pkg:cargo/cargo-anypoint@1.9.0-alpha.1
 - pkg:cargo/cargo-anypoint@1.9.0-alpha.3
+- pkg:cargo/cargo-anypoint@1.9.1
 - pkg:cargo/cargo-anypoint@1.9.1-alpha.2
