@@ -1,6 +1,8 @@
 - pkg:cargo/sui-spec@0.1.10
 - pkg:cargo/sui-spec@0.1.100
 - pkg:cargo/sui-spec@0.1.101
+- pkg:cargo/sui-spec@0.1.102
+- pkg:cargo/sui-spec@0.1.103
 - pkg:cargo/sui-spec@0.1.12
 - pkg:cargo/sui-spec@0.1.13
 - pkg:cargo/sui-spec@0.1.14
