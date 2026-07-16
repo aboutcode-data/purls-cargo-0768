@@ -11,3 +11,4 @@
 - pkg:cargo/typecast-rust@0.3.6
 - pkg:cargo/typecast-rust@0.3.7
 - pkg:cargo/typecast-rust@0.3.8
+- pkg:cargo/typecast-rust@0.3.9
