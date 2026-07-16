@@ -3,3 +3,4 @@
 - pkg:cargo/bsv-wallet@0.3.0
 - pkg:cargo/bsv-wallet@0.3.2
 - pkg:cargo/bsv-wallet@0.4.0
+- pkg:cargo/bsv-wallet@0.5.0
