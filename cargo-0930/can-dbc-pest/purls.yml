@@ -14,3 +14,4 @@
 - pkg:cargo/can-dbc-pest@0.7.1
 - pkg:cargo/can-dbc-pest@0.7.2
 - pkg:cargo/can-dbc-pest@0.8.0
+- pkg:cargo/can-dbc-pest@0.8.1
