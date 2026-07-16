@@ -1,3 +1,4 @@
 - pkg:cargo/sea-schema-sync@0.17.0-rc.15
 - pkg:cargo/sea-schema-sync@0.17.0-rc.16
 - pkg:cargo/sea-schema-sync@0.18.0
+- pkg:cargo/sea-schema-sync@0.18.1
