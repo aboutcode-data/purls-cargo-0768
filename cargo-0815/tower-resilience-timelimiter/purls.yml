@@ -1,5 +1,6 @@
 - pkg:cargo/tower-resilience-timelimiter@0.1.0
 - pkg:cargo/tower-resilience-timelimiter@0.1.1
+- pkg:cargo/tower-resilience-timelimiter@0.10.0
 - pkg:cargo/tower-resilience-timelimiter@0.2.0
 - pkg:cargo/tower-resilience-timelimiter@0.3.0
 - pkg:cargo/tower-resilience-timelimiter@0.3.1
@@ -20,3 +21,4 @@
 - pkg:cargo/tower-resilience-timelimiter@0.9.1
 - pkg:cargo/tower-resilience-timelimiter@0.9.2
 - pkg:cargo/tower-resilience-timelimiter@0.9.3
+- pkg:cargo/tower-resilience-timelimiter@0.9.4
