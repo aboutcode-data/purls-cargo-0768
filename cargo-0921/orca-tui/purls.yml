@@ -8,6 +8,14 @@
 - pkg:cargo/orca-tui@0.2.0-rc.1
 - pkg:cargo/orca-tui@0.2.0-rc.2
 - pkg:cargo/orca-tui@0.2.1-rc.1
+- pkg:cargo/orca-tui@0.2.10-rc.1
+- pkg:cargo/orca-tui@0.2.11
+- pkg:cargo/orca-tui@0.2.11-rc.1
+- pkg:cargo/orca-tui@0.2.11-rc.2
+- pkg:cargo/orca-tui@0.2.11-rc.3
+- pkg:cargo/orca-tui@0.2.11-rc.4
+- pkg:cargo/orca-tui@0.2.11-rc.5
+- pkg:cargo/orca-tui@0.2.11-rc.6
 - pkg:cargo/orca-tui@0.2.2
 - pkg:cargo/orca-tui@0.2.3
 - pkg:cargo/orca-tui@0.2.3-rc.1
