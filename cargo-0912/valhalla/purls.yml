@@ -61,7 +61,10 @@
 - pkg:cargo/valhalla@0.6.36
 - pkg:cargo/valhalla@0.6.37
 - pkg:cargo/valhalla@0.6.38
+- pkg:cargo/valhalla@0.6.39
 - pkg:cargo/valhalla@0.6.4
+- pkg:cargo/valhalla@0.6.40
+- pkg:cargo/valhalla@0.6.41
 - pkg:cargo/valhalla@0.6.5
 - pkg:cargo/valhalla@0.6.6
 - pkg:cargo/valhalla@0.6.7
