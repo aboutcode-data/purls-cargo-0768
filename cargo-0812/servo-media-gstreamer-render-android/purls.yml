@@ -1,4 +1,6 @@
 - pkg:cargo/servo-media-gstreamer-render-android@0.1.0
 - pkg:cargo/servo-media-gstreamer-render-android@0.1.0-rc1
 - pkg:cargo/servo-media-gstreamer-render-android@0.1.0-rc2
+- pkg:cargo/servo-media-gstreamer-render-android@0.1.2
 - pkg:cargo/servo-media-gstreamer-render-android@0.2.0
+- pkg:cargo/servo-media-gstreamer-render-android@0.3.0
