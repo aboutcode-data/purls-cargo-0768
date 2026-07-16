@@ -27,5 +27,7 @@
 - pkg:cargo/tor-hsrproxy@0.40.0
 - pkg:cargo/tor-hsrproxy@0.41.0
 - pkg:cargo/tor-hsrproxy@0.42.0
+- pkg:cargo/tor-hsrproxy@0.43.0
+- pkg:cargo/tor-hsrproxy@0.44.0
 - pkg:cargo/tor-hsrproxy@0.5.0
 - pkg:cargo/tor-hsrproxy@0.6.0
