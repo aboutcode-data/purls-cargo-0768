@@ -14,3 +14,4 @@
 - pkg:cargo/synta-python@0.2.4
 - pkg:cargo/synta-python@0.2.5
 - pkg:cargo/synta-python@0.2.6
+- pkg:cargo/synta-python@0.3.0
