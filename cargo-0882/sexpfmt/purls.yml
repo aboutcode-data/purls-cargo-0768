@@ -5,3 +5,4 @@
 - pkg:cargo/sexpfmt@0.2.3
 - pkg:cargo/sexpfmt@1.0.0
 - pkg:cargo/sexpfmt@1.0.1
+- pkg:cargo/sexpfmt@2.0.0
