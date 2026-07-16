@@ -2,6 +2,7 @@
 - pkg:cargo/nidus-openapi@1.0.1
 - pkg:cargo/nidus-openapi@1.0.10
 - pkg:cargo/nidus-openapi@1.0.11
+- pkg:cargo/nidus-openapi@1.0.12
 - pkg:cargo/nidus-openapi@1.0.2
 - pkg:cargo/nidus-openapi@1.0.3
 - pkg:cargo/nidus-openapi@1.0.4
