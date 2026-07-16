@@ -5,3 +5,10 @@
 - pkg:cargo/totalreclaw-core@2.2.0-rc.1
 - pkg:cargo/totalreclaw-core@2.4.0
 - pkg:cargo/totalreclaw-core@2.4.0-rc.1
+- pkg:cargo/totalreclaw-core@2.5.0
+- pkg:cargo/totalreclaw-core@2.5.0-pre-rc.2
+- pkg:cargo/totalreclaw-core@2.5.1
+- pkg:cargo/totalreclaw-core@2.5.2
+- pkg:cargo/totalreclaw-core@2.5.3
+- pkg:cargo/totalreclaw-core@2.5.4
+- pkg:cargo/totalreclaw-core@2.5.5
