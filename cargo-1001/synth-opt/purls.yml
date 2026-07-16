@@ -93,6 +93,8 @@
 - pkg:cargo/synth-opt@0.42.0
 - pkg:cargo/synth-opt@0.43.0
 - pkg:cargo/synth-opt@0.43.1
+- pkg:cargo/synth-opt@0.44.0
+- pkg:cargo/synth-opt@0.45.0
 - pkg:cargo/synth-opt@0.6.0
 - pkg:cargo/synth-opt@0.7.0
 - pkg:cargo/synth-opt@0.8.0
