@@ -4,6 +4,8 @@
 - pkg:cargo/pcs-external@0.4.0
 - pkg:cargo/pcs-external@0.5.0
 - pkg:cargo/pcs-external@0.5.1
+- pkg:cargo/pcs-external@0.5.2
+- pkg:cargo/pcs-external@0.5.3
 - pkg:cargo/pcs-external@1.0.0
 - pkg:cargo/pcs-external@1.0.1
 - pkg:cargo/pcs-external@2.0.0
