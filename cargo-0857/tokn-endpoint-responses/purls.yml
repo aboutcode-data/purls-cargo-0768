@@ -1,1 +1,6 @@
 - pkg:cargo/tokn-endpoint-responses@0.1.0-rc.0
+- pkg:cargo/tokn-endpoint-responses@0.1.1-rc.0
+- pkg:cargo/tokn-endpoint-responses@0.2.0-rc.0
+- pkg:cargo/tokn-endpoint-responses@0.2.0-rc.1
+- pkg:cargo/tokn-endpoint-responses@0.2.0-rc.2
+- pkg:cargo/tokn-endpoint-responses@0.2.0-rc.3
