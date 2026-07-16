@@ -5,3 +5,4 @@
 - pkg:cargo/solana-nonce-account@3.0.0
 - pkg:cargo/solana-nonce-account@4.0.0
 - pkg:cargo/solana-nonce-account@4.1.0
+- pkg:cargo/solana-nonce-account@4.1.1
