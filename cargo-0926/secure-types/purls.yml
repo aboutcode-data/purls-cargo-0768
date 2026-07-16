@@ -12,3 +12,6 @@
 - pkg:cargo/secure-types@0.2.40
 - pkg:cargo/secure-types@0.2.50
 - pkg:cargo/secure-types@0.2.61
+- pkg:cargo/secure-types@0.2.62
+- pkg:cargo/secure-types@0.2.63
+- pkg:cargo/secure-types@0.3.0
