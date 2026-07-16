@@ -54,6 +54,8 @@
 - pkg:cargo/hjkl@0.33.3
 - pkg:cargo/hjkl@0.33.4
 - pkg:cargo/hjkl@0.33.5
+- pkg:cargo/hjkl@0.33.6
+- pkg:cargo/hjkl@0.34.1
 - pkg:cargo/hjkl@0.4.0
 - pkg:cargo/hjkl@0.4.1
 - pkg:cargo/hjkl@0.4.2
