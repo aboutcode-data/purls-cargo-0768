@@ -12,3 +12,4 @@
 - pkg:cargo/torchbearer@0.5.3
 - pkg:cargo/torchbearer@0.6.0
 - pkg:cargo/torchbearer@0.6.1
+- pkg:cargo/torchbearer@0.7.0
