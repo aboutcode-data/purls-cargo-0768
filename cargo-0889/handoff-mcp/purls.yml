@@ -16,3 +16,6 @@
 - pkg:cargo/handoff-mcp@0.23.0
 - pkg:cargo/handoff-mcp@0.24.0
 - pkg:cargo/handoff-mcp@0.24.1
+- pkg:cargo/handoff-mcp@0.24.2
+- pkg:cargo/handoff-mcp@0.24.3
+- pkg:cargo/handoff-mcp@0.24.4
