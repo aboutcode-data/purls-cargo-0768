@@ -2,3 +2,4 @@
 - pkg:cargo/egui_commonmark_backend_extended@0.22.2
 - pkg:cargo/egui_commonmark_backend_extended@0.23.0
 - pkg:cargo/egui_commonmark_backend_extended@0.24.0
+- pkg:cargo/egui_commonmark_backend_extended@0.25.0
