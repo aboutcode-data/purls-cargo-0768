@@ -21,3 +21,4 @@
 - pkg:cargo/neopdf_capi@0.3.2
 - pkg:cargo/neopdf_capi@0.3.3
 - pkg:cargo/neopdf_capi@0.3.3-alpha1
+- pkg:cargo/neopdf_capi@0.4.0
