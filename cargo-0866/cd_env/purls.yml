@@ -5,3 +5,5 @@
 - pkg:cargo/cd_env@0.2.0
 - pkg:cargo/cd_env@0.3.0
 - pkg:cargo/cd_env@0.3.1
+- pkg:cargo/cd_env@0.4.0
+- pkg:cargo/cd_env@0.4.1
