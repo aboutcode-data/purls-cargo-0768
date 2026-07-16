@@ -1,3 +1,6 @@
+- pkg:cargo/solwatch@0.1.10
+- pkg:cargo/solwatch@0.1.11
 - pkg:cargo/solwatch@0.1.5
 - pkg:cargo/solwatch@0.1.6
 - pkg:cargo/solwatch@0.1.7
+- pkg:cargo/solwatch@0.1.9
