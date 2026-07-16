@@ -10,3 +10,5 @@
 - pkg:cargo/drova_sdk@2.0.0
 - pkg:cargo/drova_sdk@3.0.0
 - pkg:cargo/drova_sdk@3.0.1
+- pkg:cargo/drova_sdk@3.1.0
+- pkg:cargo/drova_sdk@3.3.0
