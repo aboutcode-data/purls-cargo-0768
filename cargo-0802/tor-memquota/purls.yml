@@ -22,3 +22,5 @@
 - pkg:cargo/tor-memquota@0.40.0
 - pkg:cargo/tor-memquota@0.41.0
 - pkg:cargo/tor-memquota@0.42.0
+- pkg:cargo/tor-memquota@0.43.0
+- pkg:cargo/tor-memquota@0.44.0

@@ -75,6 +75,12 @@
 - pkg:cargo/topgrade@17.3.0
 - pkg:cargo/topgrade@17.4.0
 - pkg:cargo/topgrade@17.5.0
+- pkg:cargo/topgrade@17.5.1
+- pkg:cargo/topgrade@17.6.0
+- pkg:cargo/topgrade@17.6.1
+- pkg:cargo/topgrade@17.6.2
+- pkg:cargo/topgrade@17.7.0
+- pkg:cargo/topgrade@17.8.0
 - pkg:cargo/topgrade@2.0.0
 - pkg:cargo/topgrade@2.1.0
 - pkg:cargo/topgrade@2.2.1
