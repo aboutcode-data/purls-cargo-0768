@@ -1,0 +1,9 @@
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.1.0
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.0
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.1
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.2
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.3
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.4
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.5
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.6
+- pkg:cargo/pglite-rs-lib-aarch64-unknown-linux-gnu@0.2.7
