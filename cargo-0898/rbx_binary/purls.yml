@@ -27,3 +27,4 @@
 - pkg:cargo/rbx_binary@1.0.0
 - pkg:cargo/rbx_binary@2.0.0
 - pkg:cargo/rbx_binary@2.0.1
+- pkg:cargo/rbx_binary@3.0.0

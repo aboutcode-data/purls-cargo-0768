@@ -1,4 +1,5 @@
 - pkg:cargo/rbfrt@0.1.10
+- pkg:cargo/rbfrt@0.1.11
 - pkg:cargo/rbfrt@0.1.8
 - pkg:cargo/rbfrt@0.1.8-alpha
 - pkg:cargo/rbfrt@0.1.9
