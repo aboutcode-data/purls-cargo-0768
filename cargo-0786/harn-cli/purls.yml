@@ -11,6 +11,8 @@
 - pkg:cargo/harn-cli@0.10.18
 - pkg:cargo/harn-cli@0.10.19
 - pkg:cargo/harn-cli@0.10.2
+- pkg:cargo/harn-cli@0.10.20
+- pkg:cargo/harn-cli@0.10.21
 - pkg:cargo/harn-cli@0.10.3
 - pkg:cargo/harn-cli@0.10.4
 - pkg:cargo/harn-cli@0.10.5
