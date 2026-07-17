@@ -25,6 +25,7 @@
 - pkg:cargo/tenuo@0.1.0-beta.21
 - pkg:cargo/tenuo@0.1.0-beta.22
 - pkg:cargo/tenuo@0.1.0-beta.23
+- pkg:cargo/tenuo@0.1.0-beta.24
 - pkg:cargo/tenuo@0.1.0-beta.3
 - pkg:cargo/tenuo@0.1.0-beta.4
 - pkg:cargo/tenuo@0.1.0-beta.5
@@ -32,3 +33,5 @@
 - pkg:cargo/tenuo@0.1.0-beta.7
 - pkg:cargo/tenuo@0.1.0-beta.8
 - pkg:cargo/tenuo@0.1.0-beta.9
+- pkg:cargo/tenuo@0.2.0
+- pkg:cargo/tenuo@0.2.3
