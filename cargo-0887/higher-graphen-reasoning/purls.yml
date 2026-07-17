@@ -1,3 +1,7 @@
 - pkg:cargo/higher-graphen-reasoning@0.3.0
 - pkg:cargo/higher-graphen-reasoning@0.4.0
 - pkg:cargo/higher-graphen-reasoning@0.4.1
+- pkg:cargo/higher-graphen-reasoning@0.5.0
+- pkg:cargo/higher-graphen-reasoning@0.6.0
+- pkg:cargo/higher-graphen-reasoning@0.7.0
+- pkg:cargo/higher-graphen-reasoning@0.7.1
