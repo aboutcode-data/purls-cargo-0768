@@ -1,6 +1,8 @@
 - pkg:cargo/pg2any_lib@0.1.0
 - pkg:cargo/pg2any_lib@0.1.1
 - pkg:cargo/pg2any_lib@0.10.0
+- pkg:cargo/pg2any_lib@0.11.0
+- pkg:cargo/pg2any_lib@0.11.1
 - pkg:cargo/pg2any_lib@0.2.0
 - pkg:cargo/pg2any_lib@0.3.0
 - pkg:cargo/pg2any_lib@0.3.1

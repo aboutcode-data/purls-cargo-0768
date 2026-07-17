@@ -7,3 +7,4 @@
 - pkg:cargo/pg-client@0.3.0
 - pkg:cargo/pg-client@0.4.0
 - pkg:cargo/pg-client@0.5.0
+- pkg:cargo/pg-client@0.6.0
