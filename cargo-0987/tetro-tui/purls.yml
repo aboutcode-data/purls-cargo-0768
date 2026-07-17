@@ -13,3 +13,6 @@
 - pkg:cargo/tetro-tui@3.4.0
 - pkg:cargo/tetro-tui@3.5.0
 - pkg:cargo/tetro-tui@3.5.1
+- pkg:cargo/tetro-tui@3.5.2
+- pkg:cargo/tetro-tui@3.6.0
+- pkg:cargo/tetro-tui@3.6.1
