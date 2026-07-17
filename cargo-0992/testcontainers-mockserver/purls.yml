@@ -1,0 +1,4 @@
+- pkg:cargo/testcontainers-mockserver@7.1.0
+- pkg:cargo/testcontainers-mockserver@7.2.0
+- pkg:cargo/testcontainers-mockserver@7.3.0
+- pkg:cargo/testcontainers-mockserver@7.4.0
