@@ -15,6 +15,9 @@
 - pkg:cargo/sui-intern@0.1.112
 - pkg:cargo/sui-intern@0.1.114
 - pkg:cargo/sui-intern@0.1.115
+- pkg:cargo/sui-intern@0.1.116
+- pkg:cargo/sui-intern@0.1.117
+- pkg:cargo/sui-intern@0.1.118
 - pkg:cargo/sui-intern@0.1.12
 - pkg:cargo/sui-intern@0.1.13
 - pkg:cargo/sui-intern@0.1.14
