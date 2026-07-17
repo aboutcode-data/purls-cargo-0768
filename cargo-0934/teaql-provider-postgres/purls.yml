@@ -1,0 +1,13 @@
+- pkg:cargo/teaql-provider-postgres@4.0.0
+- pkg:cargo/teaql-provider-postgres@4.0.1
+- pkg:cargo/teaql-provider-postgres@4.0.10
+- pkg:cargo/teaql-provider-postgres@4.0.2
+- pkg:cargo/teaql-provider-postgres@4.0.3
+- pkg:cargo/teaql-provider-postgres@4.0.4
+- pkg:cargo/teaql-provider-postgres@4.0.5
+- pkg:cargo/teaql-provider-postgres@4.0.6
+- pkg:cargo/teaql-provider-postgres@4.0.7
+- pkg:cargo/teaql-provider-postgres@4.0.8
+- pkg:cargo/teaql-provider-postgres@4.0.9
+- pkg:cargo/teaql-provider-postgres@4.1.0
+- pkg:cargo/teaql-provider-postgres@4.1.1
