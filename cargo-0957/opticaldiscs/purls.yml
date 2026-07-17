@@ -1,4 +1,5 @@
 - pkg:cargo/opticaldiscs@0.10.0
+- pkg:cargo/opticaldiscs@0.11.0
 - pkg:cargo/opticaldiscs@0.4.2
 - pkg:cargo/opticaldiscs@0.4.3
 - pkg:cargo/opticaldiscs@0.4.4
