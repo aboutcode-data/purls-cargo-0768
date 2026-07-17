@@ -4,3 +4,4 @@
 - pkg:cargo/servo-jstraceable-derive@0.1.2
 - pkg:cargo/servo-jstraceable-derive@0.2.0
 - pkg:cargo/servo-jstraceable-derive@0.3.0
+- pkg:cargo/servo-jstraceable-derive@0.4.0
