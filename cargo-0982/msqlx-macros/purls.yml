@@ -1,1 +1,2 @@
 - pkg:cargo/msqlx-macros@0.9.0-msqlx.1
+- pkg:cargo/msqlx-macros@0.9.0-msqlx.2
