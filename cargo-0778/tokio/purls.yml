@@ -175,6 +175,7 @@
 - pkg:cargo/tokio@1.52.2
 - pkg:cargo/tokio@1.52.3
 - pkg:cargo/tokio@1.52.4
+- pkg:cargo/tokio@1.53.0
 - pkg:cargo/tokio@1.6.0
 - pkg:cargo/tokio@1.6.1
 - pkg:cargo/tokio@1.6.2
