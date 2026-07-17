@@ -1,3 +1,4 @@
 - pkg:cargo/togl@0.2.2
 - pkg:cargo/togl@0.2.3
 - pkg:cargo/togl@0.5.1
+- pkg:cargo/togl@0.5.2
