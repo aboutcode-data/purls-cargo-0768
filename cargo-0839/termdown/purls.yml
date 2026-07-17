@@ -1,1 +1,4 @@
 - pkg:cargo/termdown@0.4.0
+- pkg:cargo/termdown@0.5.1
+- pkg:cargo/termdown@0.6.0
+- pkg:cargo/termdown@0.6.1
