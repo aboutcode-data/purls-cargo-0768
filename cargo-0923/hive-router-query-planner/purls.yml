@@ -11,6 +11,16 @@
 - pkg:cargo/hive-router-query-planner@2.1.5
 - pkg:cargo/hive-router-query-planner@2.1.6
 - pkg:cargo/hive-router-query-planner@2.1.7
+- pkg:cargo/hive-router-query-planner@2.10.0
+- pkg:cargo/hive-router-query-planner@2.10.1
+- pkg:cargo/hive-router-query-planner@2.10.2
+- pkg:cargo/hive-router-query-planner@2.10.3
+- pkg:cargo/hive-router-query-planner@2.10.4
+- pkg:cargo/hive-router-query-planner@2.10.5
+- pkg:cargo/hive-router-query-planner@2.10.6
+- pkg:cargo/hive-router-query-planner@2.10.7
+- pkg:cargo/hive-router-query-planner@2.10.8
+- pkg:cargo/hive-router-query-planner@2.10.9
 - pkg:cargo/hive-router-query-planner@2.2.0
 - pkg:cargo/hive-router-query-planner@2.2.1
 - pkg:cargo/hive-router-query-planner@2.3.0
@@ -25,3 +35,8 @@
 - pkg:cargo/hive-router-query-planner@2.8.0
 - pkg:cargo/hive-router-query-planner@2.8.1
 - pkg:cargo/hive-router-query-planner@2.8.2
+- pkg:cargo/hive-router-query-planner@2.8.3
+- pkg:cargo/hive-router-query-planner@2.8.4
+- pkg:cargo/hive-router-query-planner@2.8.5
+- pkg:cargo/hive-router-query-planner@2.9.0
+- pkg:cargo/hive-router-query-planner@2.9.1
