@@ -1,0 +1,2 @@
+- pkg:cargo/pg-query-mapper-derive@0.1.0
+- pkg:cargo/pg-query-mapper-derive@0.1.1
