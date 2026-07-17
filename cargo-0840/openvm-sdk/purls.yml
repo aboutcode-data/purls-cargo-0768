@@ -1,1 +1,2 @@
 - pkg:cargo/openvm-sdk@0.0.0-reserved
+- pkg:cargo/openvm-sdk@2.0.1
