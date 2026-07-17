@@ -169,10 +169,12 @@
 - pkg:cargo/tokio@1.51.1
 - pkg:cargo/tokio@1.51.2
 - pkg:cargo/tokio@1.51.3
+- pkg:cargo/tokio@1.51.4
 - pkg:cargo/tokio@1.52.0
 - pkg:cargo/tokio@1.52.1
 - pkg:cargo/tokio@1.52.2
 - pkg:cargo/tokio@1.52.3
+- pkg:cargo/tokio@1.52.4
 - pkg:cargo/tokio@1.6.0
 - pkg:cargo/tokio@1.6.1
 - pkg:cargo/tokio@1.6.2
