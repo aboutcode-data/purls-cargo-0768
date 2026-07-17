@@ -68,6 +68,9 @@
 - pkg:cargo/nightshade@0.51.0
 - pkg:cargo/nightshade@0.52.0
 - pkg:cargo/nightshade@0.53.0
+- pkg:cargo/nightshade@0.54.0
+- pkg:cargo/nightshade@0.55.0
+- pkg:cargo/nightshade@0.56.0
 - pkg:cargo/nightshade@0.6.0
 - pkg:cargo/nightshade@0.6.10
 - pkg:cargo/nightshade@0.6.11
