@@ -8,6 +8,8 @@
 - pkg:cargo/harn-session-store@0.10.17
 - pkg:cargo/harn-session-store@0.10.18
 - pkg:cargo/harn-session-store@0.10.19
+- pkg:cargo/harn-session-store@0.10.20
+- pkg:cargo/harn-session-store@0.10.21
 - pkg:cargo/harn-session-store@0.10.3
 - pkg:cargo/harn-session-store@0.10.4
 - pkg:cargo/harn-session-store@0.10.5
