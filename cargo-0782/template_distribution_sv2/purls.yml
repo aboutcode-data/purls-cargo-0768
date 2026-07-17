@@ -13,3 +13,5 @@
 - pkg:cargo/template_distribution_sv2@4.0.1
 - pkg:cargo/template_distribution_sv2@4.0.2
 - pkg:cargo/template_distribution_sv2@5.0.0
+- pkg:cargo/template_distribution_sv2@5.1.0
+- pkg:cargo/template_distribution_sv2@6.0.0
