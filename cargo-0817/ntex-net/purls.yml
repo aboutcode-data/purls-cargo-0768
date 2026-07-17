@@ -52,6 +52,7 @@
 - pkg:cargo/ntex-net@3.11.3
 - pkg:cargo/ntex-net@3.12.0
 - pkg:cargo/ntex-net@3.13.0
+- pkg:cargo/ntex-net@3.13.1
 - pkg:cargo/ntex-net@3.2.0
 - pkg:cargo/ntex-net@3.3.0
 - pkg:cargo/ntex-net@3.3.1
