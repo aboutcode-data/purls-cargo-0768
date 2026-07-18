@@ -1,0 +1,7 @@
+- pkg:cargo/klieo-memory-pgvector@2.2.0
+- pkg:cargo/klieo-memory-pgvector@2.3.0
+- pkg:cargo/klieo-memory-pgvector@3.0.0
+- pkg:cargo/klieo-memory-pgvector@3.1.0
+- pkg:cargo/klieo-memory-pgvector@3.2.0
+- pkg:cargo/klieo-memory-pgvector@3.2.1
+- pkg:cargo/klieo-memory-pgvector@3.3.0
