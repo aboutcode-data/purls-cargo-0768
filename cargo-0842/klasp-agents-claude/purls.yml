@@ -4,3 +4,4 @@
 - pkg:cargo/klasp-agents-claude@0.2.5
 - pkg:cargo/klasp-agents-claude@0.3.1
 - pkg:cargo/klasp-agents-claude@0.4.0
+- pkg:cargo/klasp-agents-claude@0.5.0
