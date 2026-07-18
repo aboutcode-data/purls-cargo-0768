@@ -1,6 +1,9 @@
 - pkg:cargo/nzb-core@0.2.10
 - pkg:cargo/nzb-core@0.2.11
 - pkg:cargo/nzb-core@0.2.12
+- pkg:cargo/nzb-core@0.2.14
+- pkg:cargo/nzb-core@0.2.15
+- pkg:cargo/nzb-core@0.2.16
 - pkg:cargo/nzb-core@0.2.2
 - pkg:cargo/nzb-core@0.2.3
 - pkg:cargo/nzb-core@0.2.4
