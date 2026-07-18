@@ -1,1 +1,2 @@
 - pkg:cargo/bsql-postgres-sync@1.0.0-alpha.1
+- pkg:cargo/bsql-postgres-sync@1.0.0-alpha.2
