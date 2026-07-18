@@ -25,3 +25,4 @@
 - pkg:cargo/semifold-resolver@0.3.4
 - pkg:cargo/semifold-resolver@0.3.5
 - pkg:cargo/semifold-resolver@0.4.0-alpha.0
+- pkg:cargo/semifold-resolver@0.4.0-alpha.1
