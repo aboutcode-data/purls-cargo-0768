@@ -25,6 +25,8 @@
 - pkg:cargo/narrow-derive@0.14.2
 - pkg:cargo/narrow-derive@0.15.0
 - pkg:cargo/narrow-derive@0.15.1
+- pkg:cargo/narrow-derive@0.15.2
+- pkg:cargo/narrow-derive@0.16.0
 - pkg:cargo/narrow-derive@0.2.0
 - pkg:cargo/narrow-derive@0.2.1
 - pkg:cargo/narrow-derive@0.2.2

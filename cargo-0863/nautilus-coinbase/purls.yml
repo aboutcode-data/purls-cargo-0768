@@ -1,2 +1,5 @@
 - pkg:cargo/nautilus-coinbase@0.56.0
 - pkg:cargo/nautilus-coinbase@0.57.0
+- pkg:cargo/nautilus-coinbase@0.58.0
+- pkg:cargo/nautilus-coinbase@0.59.0
+- pkg:cargo/nautilus-coinbase@0.60.0

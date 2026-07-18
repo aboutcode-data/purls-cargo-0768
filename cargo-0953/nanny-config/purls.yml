@@ -8,3 +8,5 @@
 - pkg:cargo/nanny-config@0.1.7
 - pkg:cargo/nanny-config@0.1.8
 - pkg:cargo/nanny-config@0.2.0
+- pkg:cargo/nanny-config@0.3.0
+- pkg:cargo/nanny-config@0.4.0
