@@ -1,1 +1,2 @@
 - pkg:cargo/varpulis-connector-splunk@0.10.0
+- pkg:cargo/varpulis-connector-splunk@0.11.0

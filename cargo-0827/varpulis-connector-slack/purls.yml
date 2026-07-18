@@ -1,1 +1,2 @@
 - pkg:cargo/varpulis-connector-slack@0.10.0
+- pkg:cargo/varpulis-connector-slack@0.11.0
