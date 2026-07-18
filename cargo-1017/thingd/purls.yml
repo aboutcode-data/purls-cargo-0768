@@ -85,3 +85,6 @@
 - pkg:cargo/thingd@0.59.0
 - pkg:cargo/thingd@0.60.0
 - pkg:cargo/thingd@0.61.0
+- pkg:cargo/thingd@0.62.0
+- pkg:cargo/thingd@0.63.0
+- pkg:cargo/thingd@0.64.0
