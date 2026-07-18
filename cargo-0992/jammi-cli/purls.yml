@@ -52,6 +52,7 @@
 - pkg:cargo/jammi-cli@0.44.0
 - pkg:cargo/jammi-cli@0.45.0
 - pkg:cargo/jammi-cli@0.46.0
+- pkg:cargo/jammi-cli@0.47.0
 - pkg:cargo/jammi-cli@0.5.0
 - pkg:cargo/jammi-cli@0.5.4
 - pkg:cargo/jammi-cli@0.5.5
