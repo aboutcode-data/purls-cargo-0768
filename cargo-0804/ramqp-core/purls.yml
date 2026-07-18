@@ -1,1 +1,2 @@
 - pkg:cargo/ramqp-core@0.2.4
+- pkg:cargo/ramqp-core@0.2.5
