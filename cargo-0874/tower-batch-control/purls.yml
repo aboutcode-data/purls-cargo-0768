@@ -22,3 +22,4 @@
 - pkg:cargo/tower-batch-control@1.0.0
 - pkg:cargo/tower-batch-control@1.0.1
 - pkg:cargo/tower-batch-control@1.1.0
+- pkg:cargo/tower-batch-control@1.1.1
