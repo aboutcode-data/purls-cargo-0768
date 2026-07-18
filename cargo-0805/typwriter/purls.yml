@@ -8,3 +8,4 @@
 - pkg:cargo/typwriter@0.14.28
 - pkg:cargo/typwriter@0.15.0
 - pkg:cargo/typwriter@0.15.1
+- pkg:cargo/typwriter@0.15.2
