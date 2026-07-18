@@ -29,6 +29,7 @@
 - pkg:cargo/futures-executor@0.3.30
 - pkg:cargo/futures-executor@0.3.31
 - pkg:cargo/futures-executor@0.3.32
+- pkg:cargo/futures-executor@0.3.33
 - pkg:cargo/futures-executor@0.3.4
 - pkg:cargo/futures-executor@0.3.5
 - pkg:cargo/futures-executor@0.3.6
