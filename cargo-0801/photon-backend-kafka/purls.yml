@@ -1,1 +1,2 @@
 - pkg:cargo/photon-backend-kafka@0.1.0
+- pkg:cargo/photon-backend-kafka@0.1.1
