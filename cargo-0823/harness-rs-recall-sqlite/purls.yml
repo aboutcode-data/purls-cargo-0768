@@ -15,6 +15,8 @@
 - pkg:cargo/harness-rs-recall-sqlite@0.0.24
 - pkg:cargo/harness-rs-recall-sqlite@0.0.25
 - pkg:cargo/harness-rs-recall-sqlite@0.0.26
+- pkg:cargo/harness-rs-recall-sqlite@0.0.27
+- pkg:cargo/harness-rs-recall-sqlite@0.0.28
 - pkg:cargo/harness-rs-recall-sqlite@0.0.5
 - pkg:cargo/harness-rs-recall-sqlite@0.0.6
 - pkg:cargo/harness-rs-recall-sqlite@0.0.7
