@@ -12,3 +12,4 @@
 - pkg:cargo/hadris-common@1.2.0
 - pkg:cargo/hadris-common@1.2.1
 - pkg:cargo/hadris-common@2.0.0-rc.1
+- pkg:cargo/hadris-common@2.0.0-rc.2
