@@ -23,3 +23,4 @@
 - pkg:cargo/text-document-test-harness@1.5.6
 - pkg:cargo/text-document-test-harness@1.6.3
 - pkg:cargo/text-document-test-harness@1.7.0
+- pkg:cargo/text-document-test-harness@1.8.0
