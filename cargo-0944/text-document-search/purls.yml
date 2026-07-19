@@ -24,3 +24,4 @@
 - pkg:cargo/text-document-search@1.5.6
 - pkg:cargo/text-document-search@1.6.3
 - pkg:cargo/text-document-search@1.7.0
+- pkg:cargo/text-document-search@1.8.0
