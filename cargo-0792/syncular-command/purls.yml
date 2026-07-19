@@ -22,6 +22,8 @@
 - pkg:cargo/syncular-command@0.15.23
 - pkg:cargo/syncular-command@0.15.24
 - pkg:cargo/syncular-command@0.15.25
+- pkg:cargo/syncular-command@0.15.26
+- pkg:cargo/syncular-command@0.15.27
 - pkg:cargo/syncular-command@0.15.3
 - pkg:cargo/syncular-command@0.15.4
 - pkg:cargo/syncular-command@0.15.5
