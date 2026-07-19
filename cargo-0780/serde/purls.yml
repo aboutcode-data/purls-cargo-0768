@@ -229,6 +229,7 @@
 - pkg:cargo/serde@1.0.226
 - pkg:cargo/serde@1.0.227
 - pkg:cargo/serde@1.0.228
+- pkg:cargo/serde@1.0.229
 - pkg:cargo/serde@1.0.23
 - pkg:cargo/serde@1.0.24
 - pkg:cargo/serde@1.0.25
