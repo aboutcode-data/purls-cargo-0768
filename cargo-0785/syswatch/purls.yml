@@ -16,3 +16,5 @@
 - pkg:cargo/syswatch@0.7.1
 - pkg:cargo/syswatch@0.7.2
 - pkg:cargo/syswatch@0.7.3
+- pkg:cargo/syswatch@0.7.4
+- pkg:cargo/syswatch@0.7.5
