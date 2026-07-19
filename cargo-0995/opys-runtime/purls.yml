@@ -14,6 +14,7 @@
 - pkg:cargo/opys-runtime@0.1.23
 - pkg:cargo/opys-runtime@0.1.24
 - pkg:cargo/opys-runtime@0.1.25
+- pkg:cargo/opys-runtime@0.1.27
 - pkg:cargo/opys-runtime@0.1.5
 - pkg:cargo/opys-runtime@0.1.6
 - pkg:cargo/opys-runtime@0.1.7
