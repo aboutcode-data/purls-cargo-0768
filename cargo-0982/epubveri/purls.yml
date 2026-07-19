@@ -17,6 +17,7 @@
 - pkg:cargo/epubveri@0.5.15
 - pkg:cargo/epubveri@0.5.16
 - pkg:cargo/epubveri@0.5.17
+- pkg:cargo/epubveri@0.5.18
 - pkg:cargo/epubveri@0.5.2
 - pkg:cargo/epubveri@0.5.3
 - pkg:cargo/epubveri@0.5.4
