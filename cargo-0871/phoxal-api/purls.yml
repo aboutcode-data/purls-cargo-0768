@@ -13,3 +13,4 @@
 - pkg:cargo/phoxal-api@0.21.1
 - pkg:cargo/phoxal-api@0.21.2
 - pkg:cargo/phoxal-api@0.21.3
+- pkg:cargo/phoxal-api@0.22.0
