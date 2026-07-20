@@ -6,3 +6,4 @@
 - pkg:cargo/vcs-gitea@0.5.1
 - pkg:cargo/vcs-gitea@0.5.2
 - pkg:cargo/vcs-gitea@0.6.0
+- pkg:cargo/vcs-gitea@0.7.0
