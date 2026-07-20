@@ -65,4 +65,5 @@
 - pkg:cargo/hive-router@0.0.8
 - pkg:cargo/hive-router@0.0.81
 - pkg:cargo/hive-router@0.0.83
+- pkg:cargo/hive-router@0.0.84
 - pkg:cargo/hive-router@0.0.9
