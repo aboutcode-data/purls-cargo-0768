@@ -2,6 +2,9 @@
 - pkg:cargo/seiza-cli@0.1.1
 - pkg:cargo/seiza-cli@0.1.2
 - pkg:cargo/seiza-cli@0.1.3
+- pkg:cargo/seiza-cli@0.10.0
+- pkg:cargo/seiza-cli@0.11.0
+- pkg:cargo/seiza-cli@0.11.1
 - pkg:cargo/seiza-cli@0.2.0
 - pkg:cargo/seiza-cli@0.2.1
 - pkg:cargo/seiza-cli@0.2.2
