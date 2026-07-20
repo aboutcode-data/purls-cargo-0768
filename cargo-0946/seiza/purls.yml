@@ -18,3 +18,4 @@
 - pkg:cargo/seiza@0.7.3
 - pkg:cargo/seiza@0.8.0
 - pkg:cargo/seiza@0.8.1
+- pkg:cargo/seiza@0.9.0
