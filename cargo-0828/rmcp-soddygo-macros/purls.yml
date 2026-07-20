@@ -3,3 +3,4 @@
 - pkg:cargo/rmcp-soddygo-macros@1.5.0
 - pkg:cargo/rmcp-soddygo-macros@1.7.0
 - pkg:cargo/rmcp-soddygo-macros@1.8.0
+- pkg:cargo/rmcp-soddygo-macros@2.2.0
