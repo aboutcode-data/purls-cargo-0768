@@ -1,1 +1,2 @@
 - pkg:cargo/toml_ext@0.1.0
+- pkg:cargo/toml_ext@0.2.0
