@@ -15,5 +15,6 @@
 - pkg:cargo/ratel-ai-core@0.3.0-rc.1
 - pkg:cargo/ratel-ai-core@0.3.0-rc.2
 - pkg:cargo/ratel-ai-core@0.4.0
+- pkg:cargo/ratel-ai-core@0.5.0
 - pkg:cargo/ratel-ai-core@0.5.0-rc.1
 - pkg:cargo/ratel-ai-core@0.5.0-rc.2
