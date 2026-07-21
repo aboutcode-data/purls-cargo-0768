@@ -29,3 +29,4 @@
 - pkg:cargo/hpx-cli@2.5.3
 - pkg:cargo/hpx-cli@2.5.4
 - pkg:cargo/hpx-cli@2.5.5
+- pkg:cargo/hpx-cli@2.5.6
