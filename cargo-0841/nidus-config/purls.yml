@@ -5,6 +5,7 @@
 - pkg:cargo/nidus-config@1.0.12
 - pkg:cargo/nidus-config@1.0.13
 - pkg:cargo/nidus-config@1.0.14
+- pkg:cargo/nidus-config@1.0.15
 - pkg:cargo/nidus-config@1.0.2
 - pkg:cargo/nidus-config@1.0.3
 - pkg:cargo/nidus-config@1.0.4
