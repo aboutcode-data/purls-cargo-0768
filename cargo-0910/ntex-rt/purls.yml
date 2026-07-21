@@ -62,6 +62,8 @@
 - pkg:cargo/ntex-rt@3.15.3
 - pkg:cargo/ntex-rt@3.15.4
 - pkg:cargo/ntex-rt@3.15.5
+- pkg:cargo/ntex-rt@3.15.6
+- pkg:cargo/ntex-rt@3.15.7
 - pkg:cargo/ntex-rt@3.2.0
 - pkg:cargo/ntex-rt@3.3.0
 - pkg:cargo/ntex-rt@3.4.0
