@@ -25,3 +25,5 @@
 - pkg:cargo/klieo-llm-ollama@3.2.0
 - pkg:cargo/klieo-llm-ollama@3.2.1
 - pkg:cargo/klieo-llm-ollama@3.3.0
+- pkg:cargo/klieo-llm-ollama@3.4.0
+- pkg:cargo/klieo-llm-ollama@3.5.0

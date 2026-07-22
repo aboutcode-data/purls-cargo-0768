@@ -23,3 +23,5 @@
 - pkg:cargo/klieo-ops-redispatcher@3.2.0
 - pkg:cargo/klieo-ops-redispatcher@3.2.1
 - pkg:cargo/klieo-ops-redispatcher@3.3.0
+- pkg:cargo/klieo-ops-redispatcher@3.4.0
+- pkg:cargo/klieo-ops-redispatcher@3.5.0
