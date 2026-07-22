@@ -16,9 +16,12 @@
 - pkg:cargo/orca-control@0.2.11-rc.4
 - pkg:cargo/orca-control@0.2.11-rc.5
 - pkg:cargo/orca-control@0.2.11-rc.6
+- pkg:cargo/orca-control@0.2.12
 - pkg:cargo/orca-control@0.2.12-rc.1
 - pkg:cargo/orca-control@0.2.12-rc.2
 - pkg:cargo/orca-control@0.2.12-rc.3
+- pkg:cargo/orca-control@0.2.12-rc.4
+- pkg:cargo/orca-control@0.2.12-rc.5
 - pkg:cargo/orca-control@0.2.2
 - pkg:cargo/orca-control@0.2.3
 - pkg:cargo/orca-control@0.2.3-rc.1
