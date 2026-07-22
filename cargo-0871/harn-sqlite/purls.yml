@@ -3,3 +3,4 @@
 - pkg:cargo/harn-sqlite@0.10.27
 - pkg:cargo/harn-sqlite@0.10.28
 - pkg:cargo/harn-sqlite@0.10.29
+- pkg:cargo/harn-sqlite@0.10.30
