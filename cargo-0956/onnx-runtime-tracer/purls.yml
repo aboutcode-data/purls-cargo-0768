@@ -1,1 +1,2 @@
 - pkg:cargo/onnx-runtime-tracer@0.1.0-dev.2
+- pkg:cargo/onnx-runtime-tracer@0.1.0-dev.3
