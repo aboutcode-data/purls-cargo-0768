@@ -1,2 +1,5 @@
 - pkg:cargo/onde-mistralrs-macros@0.7.1-alpha.1
 - pkg:cargo/onde-mistralrs-macros@0.8.2
+- pkg:cargo/onde-mistralrs-macros@0.9.0
+- pkg:cargo/onde-mistralrs-macros@0.9.1
+- pkg:cargo/onde-mistralrs-macros@0.9.2

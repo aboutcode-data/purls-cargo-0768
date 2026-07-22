@@ -1,3 +1,4 @@
 - pkg:cargo/onshape-client-io@0.2.0
 - pkg:cargo/onshape-client-io@0.3.0
 - pkg:cargo/onshape-client-io@0.4.0
+- pkg:cargo/onshape-client-io@0.5.0
