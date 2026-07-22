@@ -10,3 +10,4 @@
 - pkg:cargo/nanny-config@0.2.0
 - pkg:cargo/nanny-config@0.3.0
 - pkg:cargo/nanny-config@0.4.0
+- pkg:cargo/nanny-config@0.4.1
