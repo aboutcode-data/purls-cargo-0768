@@ -5,3 +5,5 @@
 - pkg:cargo/tempmail-sdk@1.2.4
 - pkg:cargo/tempmail-sdk@1.2.5
 - pkg:cargo/tempmail-sdk@1.2.9
+- pkg:cargo/tempmail-sdk@1.3.0
+- pkg:cargo/tempmail-sdk@1.3.1
