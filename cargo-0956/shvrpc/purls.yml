@@ -23,6 +23,11 @@
 - pkg:cargo/shvrpc@16.0.0
 - pkg:cargo/shvrpc@16.1.0
 - pkg:cargo/shvrpc@16.1.1
+- pkg:cargo/shvrpc@16.1.2
+- pkg:cargo/shvrpc@17.0.0
+- pkg:cargo/shvrpc@17.0.1
+- pkg:cargo/shvrpc@18.0.0
+- pkg:cargo/shvrpc@19.0.0
 - pkg:cargo/shvrpc@7.1.10
 - pkg:cargo/shvrpc@7.1.5
 - pkg:cargo/shvrpc@7.1.6
