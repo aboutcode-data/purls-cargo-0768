@@ -12,3 +12,4 @@
 - pkg:cargo/hocon-parser@1.7.0
 - pkg:cargo/hocon-parser@1.7.1
 - pkg:cargo/hocon-parser@1.8.0
+- pkg:cargo/hocon-parser@1.9.0
