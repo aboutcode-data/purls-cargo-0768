@@ -1,5 +1,7 @@
 - pkg:cargo/mine_data_structs@1.0.0
 - pkg:cargo/mine_data_structs@1.0.1
+- pkg:cargo/mine_data_structs@1.0.10
+- pkg:cargo/mine_data_structs@1.0.11
 - pkg:cargo/mine_data_structs@1.0.2
 - pkg:cargo/mine_data_structs@1.0.3
 - pkg:cargo/mine_data_structs@1.0.4
