@@ -4,6 +4,15 @@
 - pkg:cargo/candor-query@0.13.0
 - pkg:cargo/candor-query@0.14.0
 - pkg:cargo/candor-query@0.15.0
+- pkg:cargo/candor-query@0.16.0
+- pkg:cargo/candor-query@0.17.0
+- pkg:cargo/candor-query@0.18.0
+- pkg:cargo/candor-query@0.19.0
+- pkg:cargo/candor-query@0.20.0
+- pkg:cargo/candor-query@0.20.1
+- pkg:cargo/candor-query@0.21.0
+- pkg:cargo/candor-query@0.23.0
+- pkg:cargo/candor-query@0.23.1
 - pkg:cargo/candor-query@0.4.1
 - pkg:cargo/candor-query@0.4.2
 - pkg:cargo/candor-query@0.4.3
