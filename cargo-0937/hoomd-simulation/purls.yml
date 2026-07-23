@@ -1,3 +1,4 @@
 - pkg:cargo/hoomd-simulation@1.0.0
 - pkg:cargo/hoomd-simulation@1.0.2
 - pkg:cargo/hoomd-simulation@1.1.0
+- pkg:cargo/hoomd-simulation@1.2.0
