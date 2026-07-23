@@ -10,6 +10,10 @@
 - pkg:cargo/hotpath@0.15.1
 - pkg:cargo/hotpath@0.16.0
 - pkg:cargo/hotpath@0.16.1
+- pkg:cargo/hotpath@0.17.0
+- pkg:cargo/hotpath@0.18.0
+- pkg:cargo/hotpath@0.19.0
+- pkg:cargo/hotpath@0.19.1
 - pkg:cargo/hotpath@0.2.0
 - pkg:cargo/hotpath@0.2.1
 - pkg:cargo/hotpath@0.2.10
@@ -20,6 +24,13 @@
 - pkg:cargo/hotpath@0.2.6
 - pkg:cargo/hotpath@0.2.8
 - pkg:cargo/hotpath@0.2.9
+- pkg:cargo/hotpath@0.20.0
+- pkg:cargo/hotpath@0.21.0
+- pkg:cargo/hotpath@0.21.1
+- pkg:cargo/hotpath@0.21.2
+- pkg:cargo/hotpath@0.21.3
+- pkg:cargo/hotpath@0.21.4
+- pkg:cargo/hotpath@0.21.5
 - pkg:cargo/hotpath@0.3.0
 - pkg:cargo/hotpath@0.3.1
 - pkg:cargo/hotpath@0.4.0
