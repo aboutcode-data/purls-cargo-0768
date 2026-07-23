@@ -14,6 +14,12 @@
 - pkg:cargo/mockgres@0.0.21
 - pkg:cargo/mockgres@0.0.22
 - pkg:cargo/mockgres@0.0.23
+- pkg:cargo/mockgres@0.0.24
+- pkg:cargo/mockgres@0.0.25
+- pkg:cargo/mockgres@0.0.26
+- pkg:cargo/mockgres@0.0.27
+- pkg:cargo/mockgres@0.0.28
+- pkg:cargo/mockgres@0.0.29
 - pkg:cargo/mockgres@0.0.3
 - pkg:cargo/mockgres@0.0.4
 - pkg:cargo/mockgres@0.0.5
