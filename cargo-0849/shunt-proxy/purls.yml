@@ -37,6 +37,10 @@
 - pkg:cargo/shunt-proxy@0.1.141
 - pkg:cargo/shunt-proxy@0.1.142
 - pkg:cargo/shunt-proxy@0.1.143
+- pkg:cargo/shunt-proxy@0.1.144
+- pkg:cargo/shunt-proxy@0.1.145
+- pkg:cargo/shunt-proxy@0.1.146
+- pkg:cargo/shunt-proxy@0.1.147
 - pkg:cargo/shunt-proxy@0.1.24
 - pkg:cargo/shunt-proxy@0.1.25
 - pkg:cargo/shunt-proxy@0.1.26
