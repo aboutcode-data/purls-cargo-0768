@@ -11,3 +11,6 @@
 - pkg:cargo/nostr-lmdb@0.44.0
 - pkg:cargo/nostr-lmdb@0.44.1
 - pkg:cargo/nostr-lmdb@0.45.0-alpha.1
+- pkg:cargo/nostr-lmdb@0.45.0-alpha.2
+- pkg:cargo/nostr-lmdb@0.45.0-alpha.3
+- pkg:cargo/nostr-lmdb@0.45.0-alpha.4

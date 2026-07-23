@@ -1,3 +1,5 @@
+- pkg:cargo/nostr-bbs-forum-client@1.0.0-beta.1
+- pkg:cargo/nostr-bbs-forum-client@1.0.0-beta.2
 - pkg:cargo/nostr-bbs-forum-client@3.0.0-rc4
 - pkg:cargo/nostr-bbs-forum-client@3.0.0-rc6
 - pkg:cargo/nostr-bbs-forum-client@3.0.0-rc7

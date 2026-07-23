@@ -5,3 +5,5 @@
 - pkg:cargo/nostr-double-ratchet-runtime@0.0.141
 - pkg:cargo/nostr-double-ratchet-runtime@0.0.142
 - pkg:cargo/nostr-double-ratchet-runtime@0.0.143
+- pkg:cargo/nostr-double-ratchet-runtime@0.0.146
+- pkg:cargo/nostr-double-ratchet-runtime@0.0.147
