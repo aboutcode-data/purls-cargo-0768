@@ -3,3 +3,5 @@
 - pkg:cargo/horned-bin@1.1.0
 - pkg:cargo/horned-bin@1.2.0
 - pkg:cargo/horned-bin@1.4.0
+- pkg:cargo/horned-bin@2.0.0
+- pkg:cargo/horned-bin@2.1.0
