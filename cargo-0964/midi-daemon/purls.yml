@@ -1,2 +1,5 @@
 - pkg:cargo/midi-daemon@0.1.0
 - pkg:cargo/midi-daemon@0.3.3
+- pkg:cargo/midi-daemon@0.4.0
+- pkg:cargo/midi-daemon@0.4.9
+- pkg:cargo/midi-daemon@0.5.0
