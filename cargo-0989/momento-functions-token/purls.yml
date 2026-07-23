@@ -10,3 +10,5 @@
 - pkg:cargo/momento-functions-token@0.23.2
 - pkg:cargo/momento-functions-token@0.24.0
 - pkg:cargo/momento-functions-token@0.25.0
+- pkg:cargo/momento-functions-token@0.25.1
+- pkg:cargo/momento-functions-token@0.26.0

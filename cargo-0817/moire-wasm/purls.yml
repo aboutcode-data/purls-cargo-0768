@@ -1,3 +1,4 @@
 - pkg:cargo/moire-wasm@0.0.0
 - pkg:cargo/moire-wasm@1.0.0
 - pkg:cargo/moire-wasm@1.0.1
+- pkg:cargo/moire-wasm@2.0.0-rc.0
