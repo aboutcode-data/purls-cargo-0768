@@ -5,3 +5,4 @@
 - pkg:cargo/capsula@0.11.5
 - pkg:cargo/capsula@0.12.0
 - pkg:cargo/capsula@0.12.1
+- pkg:cargo/capsula@0.13.0
