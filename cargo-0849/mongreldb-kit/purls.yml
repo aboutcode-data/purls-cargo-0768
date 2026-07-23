@@ -58,6 +58,7 @@
 - pkg:cargo/mongreldb-kit@0.64.0
 - pkg:cargo/mongreldb-kit@0.64.2
 - pkg:cargo/mongreldb-kit@0.64.3
+- pkg:cargo/mongreldb-kit@0.64.4
 - pkg:cargo/mongreldb-kit@0.7.2
 - pkg:cargo/mongreldb-kit@0.7.3
 - pkg:cargo/mongreldb-kit@0.8.0
