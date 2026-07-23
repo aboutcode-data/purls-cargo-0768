@@ -2,3 +2,4 @@
 - pkg:cargo/cargo_unilang@0.2.0
 - pkg:cargo/cargo_unilang@0.3.0
 - pkg:cargo/cargo_unilang@0.4.0
+- pkg:cargo/cargo_unilang@0.5.1
