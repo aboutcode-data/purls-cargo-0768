@@ -81,4 +81,5 @@
 - pkg:cargo/vhdl_ls@0.84.0
 - pkg:cargo/vhdl_ls@0.85.0
 - pkg:cargo/vhdl_ls@0.86.0
+- pkg:cargo/vhdl_ls@0.87.1
 - pkg:cargo/vhdl_ls@0.9.0
