@@ -11,6 +11,12 @@
 - pkg:cargo/moyo@0.1.7
 - pkg:cargo/moyo@0.1.8
 - pkg:cargo/moyo@0.1.9
+- pkg:cargo/moyo@0.10.0
+- pkg:cargo/moyo@0.11.0
+- pkg:cargo/moyo@0.12.0
+- pkg:cargo/moyo@0.13.0
+- pkg:cargo/moyo@0.14.0
+- pkg:cargo/moyo@0.15.0
 - pkg:cargo/moyo@0.2.0
 - pkg:cargo/moyo@0.2.1
 - pkg:cargo/moyo@0.2.2

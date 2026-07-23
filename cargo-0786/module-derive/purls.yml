@@ -1,2 +1,3 @@
 - pkg:cargo/module-derive@0.0.0
 - pkg:cargo/module-derive@0.1.0
+- pkg:cargo/module-derive@0.4.0
