@@ -6,6 +6,7 @@
 - pkg:cargo/mirage-analyzer@1.0.4
 - pkg:cargo/mirage-analyzer@1.0.6
 - pkg:cargo/mirage-analyzer@1.1.0
+- pkg:cargo/mirage-analyzer@1.10.0
 - pkg:cargo/mirage-analyzer@1.2.1
 - pkg:cargo/mirage-analyzer@1.2.3
 - pkg:cargo/mirage-analyzer@1.2.4
@@ -18,3 +19,11 @@
 - pkg:cargo/mirage-analyzer@1.4.3
 - pkg:cargo/mirage-analyzer@1.4.4
 - pkg:cargo/mirage-analyzer@1.4.5
+- pkg:cargo/mirage-analyzer@1.4.6
+- pkg:cargo/mirage-analyzer@1.5.1
+- pkg:cargo/mirage-analyzer@1.6.0
+- pkg:cargo/mirage-analyzer@1.7.0
+- pkg:cargo/mirage-analyzer@1.8.0
+- pkg:cargo/mirage-analyzer@1.8.2
+- pkg:cargo/mirage-analyzer@1.9.0
+- pkg:cargo/mirage-analyzer@1.9.1
