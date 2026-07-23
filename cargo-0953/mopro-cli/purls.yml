@@ -13,3 +13,6 @@
 - pkg:cargo/mopro-cli@0.3.4-alpha.1
 - pkg:cargo/mopro-cli@0.3.5
 - pkg:cargo/mopro-cli@0.3.5-alpha.0
+- pkg:cargo/mopro-cli@0.3.6
+- pkg:cargo/mopro-cli@0.3.7
+- pkg:cargo/mopro-cli@0.3.7-alpha.1
