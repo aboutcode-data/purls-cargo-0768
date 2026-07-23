@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-check-updates@0.3.0
+- pkg:cargo/cargo-check-updates@0.4.0
