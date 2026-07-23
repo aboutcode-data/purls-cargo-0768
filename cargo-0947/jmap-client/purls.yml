@@ -6,3 +6,4 @@
 - pkg:cargo/jmap-client@0.3.3
 - pkg:cargo/jmap-client@0.4.0
 - pkg:cargo/jmap-client@0.4.1
+- pkg:cargo/jmap-client@0.4.2
