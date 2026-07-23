@@ -1,2 +1,17 @@
 - pkg:cargo/monochange_forgejo@0.0.0
 - pkg:cargo/monochange_forgejo@0.5.1
+- pkg:cargo/monochange_forgejo@0.6.0
+- pkg:cargo/monochange_forgejo@0.6.1
+- pkg:cargo/monochange_forgejo@0.6.2
+- pkg:cargo/monochange_forgejo@0.6.3
+- pkg:cargo/monochange_forgejo@0.6.4
+- pkg:cargo/monochange_forgejo@0.6.5
+- pkg:cargo/monochange_forgejo@0.6.6
+- pkg:cargo/monochange_forgejo@0.6.7
+- pkg:cargo/monochange_forgejo@0.6.8
+- pkg:cargo/monochange_forgejo@0.7.0
+- pkg:cargo/monochange_forgejo@0.8.0
+- pkg:cargo/monochange_forgejo@0.8.1
+- pkg:cargo/monochange_forgejo@0.8.2
+- pkg:cargo/monochange_forgejo@0.8.3
+- pkg:cargo/monochange_forgejo@0.8.4
