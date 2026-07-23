@@ -4,3 +4,9 @@
 - pkg:cargo/mini-sansio-dbus@1.2.1
 - pkg:cargo/mini-sansio-dbus@2.0.0
 - pkg:cargo/mini-sansio-dbus@2.0.1
+- pkg:cargo/mini-sansio-dbus@3.0.0
+- pkg:cargo/mini-sansio-dbus@4.0.0
+- pkg:cargo/mini-sansio-dbus@5.0.0
+- pkg:cargo/mini-sansio-dbus@5.0.1
+- pkg:cargo/mini-sansio-dbus@5.0.2
+- pkg:cargo/mini-sansio-dbus@5.0.3
