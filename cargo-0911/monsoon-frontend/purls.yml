@@ -10,3 +10,5 @@
 - pkg:cargo/monsoon-frontend@0.2.2
 - pkg:cargo/monsoon-frontend@0.2.3
 - pkg:cargo/monsoon-frontend@0.2.5
+- pkg:cargo/monsoon-frontend@0.2.6
+- pkg:cargo/monsoon-frontend@0.2.8

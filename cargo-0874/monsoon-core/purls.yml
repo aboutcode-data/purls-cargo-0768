@@ -11,3 +11,5 @@
 - pkg:cargo/monsoon-core@0.2.3
 - pkg:cargo/monsoon-core@0.2.4
 - pkg:cargo/monsoon-core@0.2.5
+- pkg:cargo/monsoon-core@0.2.6
+- pkg:cargo/monsoon-core@0.2.8
