@@ -18,7 +18,16 @@
 - pkg:cargo/shvcall@3.11.20
 - pkg:cargo/shvcall@3.11.23
 - pkg:cargo/shvcall@3.11.24
+- pkg:cargo/shvcall@3.11.25
+- pkg:cargo/shvcall@3.11.26
+- pkg:cargo/shvcall@3.11.27
+- pkg:cargo/shvcall@3.11.28
+- pkg:cargo/shvcall@3.11.29
 - pkg:cargo/shvcall@3.11.3
+- pkg:cargo/shvcall@3.11.30
+- pkg:cargo/shvcall@3.11.31
+- pkg:cargo/shvcall@3.11.32
+- pkg:cargo/shvcall@3.11.33
 - pkg:cargo/shvcall@3.11.4
 - pkg:cargo/shvcall@3.11.5
 - pkg:cargo/shvcall@3.11.6
