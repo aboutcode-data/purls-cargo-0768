@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-openvm@0.0.0-reserved
+- pkg:cargo/cargo-openvm@2.0.1
