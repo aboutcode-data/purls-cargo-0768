@@ -1,2 +1,5 @@
 - pkg:cargo/milrouter@0.3.0
 - pkg:cargo/milrouter@0.3.1
+- pkg:cargo/milrouter@1.0.1
+- pkg:cargo/milrouter@1.0.2
+- pkg:cargo/milrouter@1.1.0

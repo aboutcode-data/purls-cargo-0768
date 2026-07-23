@@ -1,0 +1,5 @@
+- pkg:cargo/mixedradix_macros@1.0.0-pre%2B3
+- pkg:cargo/mixedradix_macros@1.0.0-prerelease%2B2
+- pkg:cargo/mixedradix_macros@1.0.0-rc%2B1
+- pkg:cargo/mixedradix_macros@1.0.1
+- pkg:cargo/mixedradix_macros@1.0.2
