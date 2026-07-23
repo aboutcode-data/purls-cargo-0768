@@ -2,3 +2,4 @@
 - pkg:cargo/noise_search_deps_rocksdb@0.1.1
 - pkg:cargo/noise_search_deps_rocksdb@0.1.2
 - pkg:cargo/noise_search_deps_rocksdb@0.2.0
+- pkg:cargo/noise_search_deps_rocksdb@0.2.1
