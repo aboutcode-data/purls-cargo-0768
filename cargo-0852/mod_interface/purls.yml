@@ -68,6 +68,10 @@
 - pkg:cargo/mod_interface@0.6.0
 - pkg:cargo/mod_interface@0.60.0
 - pkg:cargo/mod_interface@0.61.0
+- pkg:cargo/mod_interface@0.62.0
+- pkg:cargo/mod_interface@0.63.0
+- pkg:cargo/mod_interface@0.64.0
+- pkg:cargo/mod_interface@0.65.1
 - pkg:cargo/mod_interface@0.7.0
 - pkg:cargo/mod_interface@0.8.0
 - pkg:cargo/mod_interface@0.9.0
