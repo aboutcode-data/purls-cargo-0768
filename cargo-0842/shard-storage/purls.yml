@@ -5,3 +5,4 @@
 - pkg:cargo/shard-storage@2.1.0
 - pkg:cargo/shard-storage@2.2.0
 - pkg:cargo/shard-storage@2.2.1
+- pkg:cargo/shard-storage@2.3.0
