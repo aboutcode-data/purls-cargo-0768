@@ -8,7 +8,14 @@
 - pkg:cargo/moq-relay-ietf@0.7.15
 - pkg:cargo/moq-relay-ietf@0.7.16
 - pkg:cargo/moq-relay-ietf@0.7.17
+- pkg:cargo/moq-relay-ietf@0.7.18
+- pkg:cargo/moq-relay-ietf@0.7.19
 - pkg:cargo/moq-relay-ietf@0.7.2
+- pkg:cargo/moq-relay-ietf@0.7.20
+- pkg:cargo/moq-relay-ietf@0.7.21
+- pkg:cargo/moq-relay-ietf@0.7.22
+- pkg:cargo/moq-relay-ietf@0.7.23
+- pkg:cargo/moq-relay-ietf@0.7.24
 - pkg:cargo/moq-relay-ietf@0.7.3
 - pkg:cargo/moq-relay-ietf@0.7.4
 - pkg:cargo/moq-relay-ietf@0.7.5
