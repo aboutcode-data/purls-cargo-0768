@@ -11,3 +11,6 @@
 - pkg:cargo/noncrypto-digests@0.3.5
 - pkg:cargo/noncrypto-digests@0.3.6
 - pkg:cargo/noncrypto-digests@0.3.7
+- pkg:cargo/noncrypto-digests@0.3.8
+- pkg:cargo/noncrypto-digests@0.3.9
+- pkg:cargo/noncrypto-digests@0.4.0
