@@ -10,6 +10,7 @@
 - pkg:cargo/miden-node-db@0.14.0-alpha.9
 - pkg:cargo/miden-node-db@0.14.1
 - pkg:cargo/miden-node-db@0.14.10
+- pkg:cargo/miden-node-db@0.14.11
 - pkg:cargo/miden-node-db@0.14.2
 - pkg:cargo/miden-node-db@0.14.3
 - pkg:cargo/miden-node-db@0.14.4
@@ -18,3 +19,12 @@
 - pkg:cargo/miden-node-db@0.14.7
 - pkg:cargo/miden-node-db@0.14.8
 - pkg:cargo/miden-node-db@0.14.9
+- pkg:cargo/miden-node-db@0.15.0
+- pkg:cargo/miden-node-db@0.15.0-rc.0
+- pkg:cargo/miden-node-db@0.15.0-rc.1
+- pkg:cargo/miden-node-db@0.15.0-rc.2
+- pkg:cargo/miden-node-db@0.15.0-rc.3
+- pkg:cargo/miden-node-db@0.15.0-rc.4
+- pkg:cargo/miden-node-db@0.15.1
+- pkg:cargo/miden-node-db@0.16.0-alpha.1
+- pkg:cargo/miden-node-db@0.16.0-alpha.2
