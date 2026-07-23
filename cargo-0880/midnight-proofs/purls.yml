@@ -1,4 +1,6 @@
 - pkg:cargo/midnight-proofs@0.0.0
 - pkg:cargo/midnight-proofs@0.7.0
 - pkg:cargo/midnight-proofs@0.7.1
+- pkg:cargo/midnight-proofs@0.7.2
 - pkg:cargo/midnight-proofs@0.8.0
+- pkg:cargo/midnight-proofs@0.8.1
