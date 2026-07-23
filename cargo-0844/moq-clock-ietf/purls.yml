@@ -4,6 +4,12 @@
 - pkg:cargo/moq-clock-ietf@0.6.11
 - pkg:cargo/moq-clock-ietf@0.6.12
 - pkg:cargo/moq-clock-ietf@0.6.13
+- pkg:cargo/moq-clock-ietf@0.6.14
+- pkg:cargo/moq-clock-ietf@0.6.15
+- pkg:cargo/moq-clock-ietf@0.6.16
+- pkg:cargo/moq-clock-ietf@0.6.17
+- pkg:cargo/moq-clock-ietf@0.6.18
+- pkg:cargo/moq-clock-ietf@0.6.19
 - pkg:cargo/moq-clock-ietf@0.6.2
 - pkg:cargo/moq-clock-ietf@0.6.3
 - pkg:cargo/moq-clock-ietf@0.6.4
