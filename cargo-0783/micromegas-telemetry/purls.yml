@@ -27,6 +27,9 @@
 - pkg:cargo/micromegas-telemetry@0.22.0
 - pkg:cargo/micromegas-telemetry@0.23.0
 - pkg:cargo/micromegas-telemetry@0.24.0
+- pkg:cargo/micromegas-telemetry@0.25.0
+- pkg:cargo/micromegas-telemetry@0.26.0
+- pkg:cargo/micromegas-telemetry@0.27.0
 - pkg:cargo/micromegas-telemetry@0.3.0
 - pkg:cargo/micromegas-telemetry@0.3.2
 - pkg:cargo/micromegas-telemetry@0.3.3
