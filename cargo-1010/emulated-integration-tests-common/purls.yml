@@ -33,6 +33,11 @@
 - pkg:cargo/emulated-integration-tests-common@29.0.0
 - pkg:cargo/emulated-integration-tests-common@3.0.0
 - pkg:cargo/emulated-integration-tests-common@30.0.0
+- pkg:cargo/emulated-integration-tests-common@31.0.0
+- pkg:cargo/emulated-integration-tests-common@32.0.0
+- pkg:cargo/emulated-integration-tests-common@33.0.0
+- pkg:cargo/emulated-integration-tests-common@34.0.0
+- pkg:cargo/emulated-integration-tests-common@35.0.0
 - pkg:cargo/emulated-integration-tests-common@4.0.0
 - pkg:cargo/emulated-integration-tests-common@5.0.0
 - pkg:cargo/emulated-integration-tests-common@6.0.0
