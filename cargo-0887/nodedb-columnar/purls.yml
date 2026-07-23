@@ -11,3 +11,6 @@
 - pkg:cargo/nodedb-columnar@0.1.1
 - pkg:cargo/nodedb-columnar@0.2.0
 - pkg:cargo/nodedb-columnar@0.2.1
+- pkg:cargo/nodedb-columnar@0.3.0
+- pkg:cargo/nodedb-columnar@0.3.0-beta.1
+- pkg:cargo/nodedb-columnar@0.4.0
