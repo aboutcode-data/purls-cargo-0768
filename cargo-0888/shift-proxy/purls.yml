@@ -1,6 +1,9 @@
+- pkg:cargo/shift-proxy@0.10.1
+- pkg:cargo/shift-proxy@0.10.2
 - pkg:cargo/shift-proxy@0.9.3
 - pkg:cargo/shift-proxy@0.9.4
 - pkg:cargo/shift-proxy@0.9.5
 - pkg:cargo/shift-proxy@0.9.6
 - pkg:cargo/shift-proxy@0.9.7
 - pkg:cargo/shift-proxy@0.9.8
+- pkg:cargo/shift-proxy@0.9.9

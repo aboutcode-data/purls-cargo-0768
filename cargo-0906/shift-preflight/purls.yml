@@ -3,6 +3,8 @@
 - pkg:cargo/shift-preflight@0.1.2
 - pkg:cargo/shift-preflight@0.1.3
 - pkg:cargo/shift-preflight@0.1.4
+- pkg:cargo/shift-preflight@0.10.1
+- pkg:cargo/shift-preflight@0.10.2
 - pkg:cargo/shift-preflight@0.2.0
 - pkg:cargo/shift-preflight@0.3.0
 - pkg:cargo/shift-preflight@0.4.0
@@ -23,3 +25,4 @@
 - pkg:cargo/shift-preflight@0.9.6
 - pkg:cargo/shift-preflight@0.9.7
 - pkg:cargo/shift-preflight@0.9.8
+- pkg:cargo/shift-preflight@0.9.9
