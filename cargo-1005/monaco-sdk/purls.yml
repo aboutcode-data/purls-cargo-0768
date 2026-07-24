@@ -25,5 +25,6 @@
 - pkg:cargo/monaco-sdk@1.0.16
 - pkg:cargo/monaco-sdk@1.0.2
 - pkg:cargo/monaco-sdk@1.0.21
+- pkg:cargo/monaco-sdk@1.0.24
 - pkg:cargo/monaco-sdk@1.0.3
 - pkg:cargo/monaco-sdk@1.0.7
