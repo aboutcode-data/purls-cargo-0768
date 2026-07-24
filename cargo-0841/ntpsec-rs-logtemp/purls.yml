@@ -31,3 +31,5 @@
 - pkg:cargo/ntpsec-rs-logtemp@0.3.2
 - pkg:cargo/ntpsec-rs-logtemp@0.3.3
 - pkg:cargo/ntpsec-rs-logtemp@0.3.4
+- pkg:cargo/ntpsec-rs-logtemp@0.3.7
+- pkg:cargo/ntpsec-rs-logtemp@0.3.8
