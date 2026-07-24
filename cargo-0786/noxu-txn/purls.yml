@@ -25,3 +25,4 @@
 - pkg:cargo/noxu-txn@7.5.3
 - pkg:cargo/noxu-txn@7.5.4
 - pkg:cargo/noxu-txn@7.5.5
+- pkg:cargo/noxu-txn@7.5.6
