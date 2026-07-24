@@ -40,3 +40,4 @@
 - pkg:cargo/moq-ffi@0.2.8
 - pkg:cargo/moq-ffi@0.2.9
 - pkg:cargo/moq-ffi@0.3.0
+- pkg:cargo/moq-ffi@0.3.1

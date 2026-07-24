@@ -30,3 +30,4 @@
 - pkg:cargo/moq-mux@0.7.5
 - pkg:cargo/moq-mux@0.7.6
 - pkg:cargo/moq-mux@0.8.0
+- pkg:cargo/moq-mux@0.8.1
