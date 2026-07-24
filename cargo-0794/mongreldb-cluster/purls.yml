@@ -12,3 +12,4 @@
 - pkg:cargo/mongreldb-cluster@0.64.2
 - pkg:cargo/mongreldb-cluster@0.64.3
 - pkg:cargo/mongreldb-cluster@0.64.4
+- pkg:cargo/mongreldb-cluster@0.64.5
