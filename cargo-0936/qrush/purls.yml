@@ -23,3 +23,4 @@
 - pkg:cargo/qrush@2.0.3
 - pkg:cargo/qrush@2.1.0
 - pkg:cargo/qrush@2.1.1
+- pkg:cargo/qrush@3.0.0
