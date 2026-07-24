@@ -79,6 +79,7 @@
 - pkg:cargo/symbolic-ppdb@13.9.0
 - pkg:cargo/symbolic-ppdb@14.0.0-alpha.1
 - pkg:cargo/symbolic-ppdb@14.0.0-alpha.2
+- pkg:cargo/symbolic-ppdb@14.0.0-alpha.3
 - pkg:cargo/symbolic-ppdb@9.1.0
 - pkg:cargo/symbolic-ppdb@9.1.1
 - pkg:cargo/symbolic-ppdb@9.1.2

@@ -79,6 +79,7 @@
 - pkg:cargo/symbolic-il2cpp@13.9.0
 - pkg:cargo/symbolic-il2cpp@14.0.0-alpha.1
 - pkg:cargo/symbolic-il2cpp@14.0.0-alpha.2
+- pkg:cargo/symbolic-il2cpp@14.0.0-alpha.3
 - pkg:cargo/symbolic-il2cpp@8.7.1
 - pkg:cargo/symbolic-il2cpp@8.7.2
 - pkg:cargo/symbolic-il2cpp@8.7.3
