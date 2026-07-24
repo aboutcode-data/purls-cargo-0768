@@ -1,3 +1,4 @@
 - pkg:cargo/monty-fs@0.0.0
+- pkg:cargo/monty-fs@0.0.19
 - pkg:cargo/monty-fs@0.0.19-beta.5
 - pkg:cargo/monty-fs@0.0.19-beta.6
