@@ -20,6 +20,7 @@
 - pkg:cargo/openpgp-card-tools@0.11.10
 - pkg:cargo/openpgp-card-tools@0.11.11
 - pkg:cargo/openpgp-card-tools@0.11.12
+- pkg:cargo/openpgp-card-tools@0.11.13
 - pkg:cargo/openpgp-card-tools@0.11.3
 - pkg:cargo/openpgp-card-tools@0.11.5
 - pkg:cargo/openpgp-card-tools@0.11.6
