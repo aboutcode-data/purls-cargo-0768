@@ -9,3 +9,15 @@
 - pkg:cargo/boltffi_ffi_rules@0.24.0
 - pkg:cargo/boltffi_ffi_rules@0.24.1
 - pkg:cargo/boltffi_ffi_rules@0.25.0
+- pkg:cargo/boltffi_ffi_rules@0.25.1
+- pkg:cargo/boltffi_ffi_rules@0.25.2
+- pkg:cargo/boltffi_ffi_rules@0.25.3
+- pkg:cargo/boltffi_ffi_rules@0.26.0
+- pkg:cargo/boltffi_ffi_rules@0.26.1
+- pkg:cargo/boltffi_ffi_rules@0.27.0
+- pkg:cargo/boltffi_ffi_rules@0.27.1
+- pkg:cargo/boltffi_ffi_rules@0.27.2
+- pkg:cargo/boltffi_ffi_rules@0.27.3
+- pkg:cargo/boltffi_ffi_rules@0.27.4
+- pkg:cargo/boltffi_ffi_rules@0.27.5
+- pkg:cargo/boltffi_ffi_rules@0.28.0
