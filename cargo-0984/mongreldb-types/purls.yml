@@ -16,3 +16,4 @@
 - pkg:cargo/mongreldb-types@0.64.6
 - pkg:cargo/mongreldb-types@0.64.7
 - pkg:cargo/mongreldb-types@0.64.8
+- pkg:cargo/mongreldb-types@0.64.9
