@@ -1,1 +1,4 @@
 - pkg:cargo/bookforge-cli@1.1.0
+- pkg:cargo/bookforge-cli@1.5.0
+- pkg:cargo/bookforge-cli@1.8.0
+- pkg:cargo/bookforge-cli@1.8.1
