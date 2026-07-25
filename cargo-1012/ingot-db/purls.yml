@@ -1,0 +1,4 @@
+- pkg:cargo/ingot-db@1.0.1
+- pkg:cargo/ingot-db@1.0.3
+- pkg:cargo/ingot-db@1.1.0
+- pkg:cargo/ingot-db@1.2.0
