@@ -1,0 +1,12 @@
+- pkg:cargo/fakecloud-codepipeline@0.38.0
+- pkg:cargo/fakecloud-codepipeline@0.39.0
+- pkg:cargo/fakecloud-codepipeline@0.40.0
+- pkg:cargo/fakecloud-codepipeline@0.40.1
+- pkg:cargo/fakecloud-codepipeline@0.41.0
+- pkg:cargo/fakecloud-codepipeline@0.41.1
+- pkg:cargo/fakecloud-codepipeline@0.42.0
+- pkg:cargo/fakecloud-codepipeline@0.43.0
+- pkg:cargo/fakecloud-codepipeline@0.44.0
+- pkg:cargo/fakecloud-codepipeline@0.44.1
+- pkg:cargo/fakecloud-codepipeline@0.44.2
+- pkg:cargo/fakecloud-codepipeline@0.44.3
