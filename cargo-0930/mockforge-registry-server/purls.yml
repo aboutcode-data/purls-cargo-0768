@@ -89,6 +89,7 @@
 - pkg:cargo/mockforge-registry-server@0.3.207
 - pkg:cargo/mockforge-registry-server@0.3.208
 - pkg:cargo/mockforge-registry-server@0.3.209
+- pkg:cargo/mockforge-registry-server@0.3.210
 - pkg:cargo/mockforge-registry-server@0.3.31
 - pkg:cargo/mockforge-registry-server@0.3.69
 - pkg:cargo/mockforge-registry-server@0.3.70
