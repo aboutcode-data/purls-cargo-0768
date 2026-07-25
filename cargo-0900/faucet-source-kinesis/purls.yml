@@ -1,0 +1,2 @@
+- pkg:cargo/faucet-source-kinesis@1.0.0
+- pkg:cargo/faucet-source-kinesis@1.0.1
