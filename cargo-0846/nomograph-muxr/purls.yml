@@ -37,3 +37,5 @@
 - pkg:cargo/nomograph-muxr@3.6.2
 - pkg:cargo/nomograph-muxr@3.6.3
 - pkg:cargo/nomograph-muxr@3.7.0
+- pkg:cargo/nomograph-muxr@4.0.0
+- pkg:cargo/nomograph-muxr@4.1.0
