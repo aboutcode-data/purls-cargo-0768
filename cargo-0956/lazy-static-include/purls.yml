@@ -31,3 +31,4 @@
 - pkg:cargo/lazy-static-include@3.1.4
 - pkg:cargo/lazy-static-include@3.2.0
 - pkg:cargo/lazy-static-include@3.2.1
+- pkg:cargo/lazy-static-include@4.0.0
