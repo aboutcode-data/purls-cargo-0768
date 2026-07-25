@@ -26,6 +26,8 @@
 - pkg:cargo/boyer-moore-magiclen@0.2.20
 - pkg:cargo/boyer-moore-magiclen@0.2.21
 - pkg:cargo/boyer-moore-magiclen@0.2.22
+- pkg:cargo/boyer-moore-magiclen@0.2.23
+- pkg:cargo/boyer-moore-magiclen@0.2.24
 - pkg:cargo/boyer-moore-magiclen@0.2.3
 - pkg:cargo/boyer-moore-magiclen@0.2.4
 - pkg:cargo/boyer-moore-magiclen@0.2.5
