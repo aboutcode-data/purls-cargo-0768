@@ -10,6 +10,8 @@
 - pkg:cargo/vrc-get-vpm@0.0.14-rc.0
 - pkg:cargo/vrc-get-vpm@0.0.15
 - pkg:cargo/vrc-get-vpm@0.0.15-beta.1
+- pkg:cargo/vrc-get-vpm@0.0.16
+- pkg:cargo/vrc-get-vpm@0.0.16-rc.0
 - pkg:cargo/vrc-get-vpm@0.0.2
 - pkg:cargo/vrc-get-vpm@0.0.2-beta.1
 - pkg:cargo/vrc-get-vpm@0.0.2-beta.2
