@@ -3,3 +3,9 @@
 - pkg:cargo/facet-dom@0.43.1
 - pkg:cargo/facet-dom@0.44.0
 - pkg:cargo/facet-dom@0.46.0
+- pkg:cargo/facet-dom@0.50.0-rc.0
+- pkg:cargo/facet-dom@0.50.0-rc.1
+- pkg:cargo/facet-dom@0.50.0-rc.2
+- pkg:cargo/facet-dom@0.50.0-rc.3
+- pkg:cargo/facet-dom@0.50.0-rc.4
+- pkg:cargo/facet-dom@0.50.0-rc.5

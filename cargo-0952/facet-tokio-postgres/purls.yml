@@ -2,3 +2,10 @@
 - pkg:cargo/facet-tokio-postgres@0.42.0
 - pkg:cargo/facet-tokio-postgres@0.43.0
 - pkg:cargo/facet-tokio-postgres@0.43.1
+- pkg:cargo/facet-tokio-postgres@0.44.0
+- pkg:cargo/facet-tokio-postgres@0.50.0-rc.0
+- pkg:cargo/facet-tokio-postgres@0.50.0-rc.1
+- pkg:cargo/facet-tokio-postgres@0.50.0-rc.2
+- pkg:cargo/facet-tokio-postgres@0.50.0-rc.3
+- pkg:cargo/facet-tokio-postgres@0.50.0-rc.4
+- pkg:cargo/facet-tokio-postgres@0.50.0-rc.5
