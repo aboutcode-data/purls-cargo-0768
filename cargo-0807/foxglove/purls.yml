@@ -34,6 +34,11 @@
 - pkg:cargo/foxglove@0.23.1
 - pkg:cargo/foxglove@0.23.2
 - pkg:cargo/foxglove@0.24.0
+- pkg:cargo/foxglove@0.25.0
+- pkg:cargo/foxglove@0.25.1
+- pkg:cargo/foxglove@0.25.2
+- pkg:cargo/foxglove@0.25.3
+- pkg:cargo/foxglove@0.26.0
 - pkg:cargo/foxglove@0.3.0
 - pkg:cargo/foxglove@0.4.0
 - pkg:cargo/foxglove@0.4.1
