@@ -37,3 +37,5 @@
 - pkg:cargo/intiface-engine@4.0.0
 - pkg:cargo/intiface-engine@4.0.1
 - pkg:cargo/intiface-engine@4.0.2
+- pkg:cargo/intiface-engine@4.0.3
+- pkg:cargo/intiface-engine@4.0.4
