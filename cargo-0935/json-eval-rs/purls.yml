@@ -1,3 +1,15 @@
+- pkg:cargo/json-eval-rs@0.0.100
+- pkg:cargo/json-eval-rs@0.0.101
+- pkg:cargo/json-eval-rs@0.0.102
+- pkg:cargo/json-eval-rs@0.0.103
+- pkg:cargo/json-eval-rs@0.0.104
+- pkg:cargo/json-eval-rs@0.0.105
+- pkg:cargo/json-eval-rs@0.0.106
+- pkg:cargo/json-eval-rs@0.0.107
+- pkg:cargo/json-eval-rs@0.0.108
+- pkg:cargo/json-eval-rs@0.0.109
+- pkg:cargo/json-eval-rs@0.0.110
+- pkg:cargo/json-eval-rs@0.0.111
 - pkg:cargo/json-eval-rs@0.0.28
 - pkg:cargo/json-eval-rs@0.0.29
 - pkg:cargo/json-eval-rs@0.0.30
@@ -65,3 +77,6 @@
 - pkg:cargo/json-eval-rs@0.0.94
 - pkg:cargo/json-eval-rs@0.0.95
 - pkg:cargo/json-eval-rs@0.0.96
+- pkg:cargo/json-eval-rs@0.0.97
+- pkg:cargo/json-eval-rs@0.0.98
+- pkg:cargo/json-eval-rs@0.0.99
