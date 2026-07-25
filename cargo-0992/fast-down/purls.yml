@@ -53,3 +53,5 @@
 - pkg:cargo/fast-down@4.0.5
 - pkg:cargo/fast-down@4.0.6
 - pkg:cargo/fast-down@5.0.0
+- pkg:cargo/fast-down@5.0.1
+- pkg:cargo/fast-down@5.0.2
