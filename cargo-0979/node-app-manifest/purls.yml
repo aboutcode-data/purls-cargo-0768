@@ -6,3 +6,4 @@
 - pkg:cargo/node-app-manifest@6.4.0
 - pkg:cargo/node-app-manifest@6.4.1
 - pkg:cargo/node-app-manifest@6.4.3
+- pkg:cargo/node-app-manifest@6.5.0
