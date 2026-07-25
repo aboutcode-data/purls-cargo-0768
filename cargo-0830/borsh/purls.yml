@@ -56,3 +56,5 @@
 - pkg:cargo/borsh@1.5.7
 - pkg:cargo/borsh@1.6.0
 - pkg:cargo/borsh@1.6.1
+- pkg:cargo/borsh@1.7.0
+- pkg:cargo/borsh@1.8.0
