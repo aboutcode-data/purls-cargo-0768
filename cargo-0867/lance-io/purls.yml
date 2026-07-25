@@ -90,3 +90,7 @@
 - pkg:cargo/lance-io@4.0.0
 - pkg:cargo/lance-io@4.0.1
 - pkg:cargo/lance-io@6.0.0
+- pkg:cargo/lance-io@6.0.1
+- pkg:cargo/lance-io@7.0.0
+- pkg:cargo/lance-io@8.0.0
+- pkg:cargo/lance-io@9.0.0

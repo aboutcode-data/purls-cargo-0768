@@ -24,3 +24,7 @@
 - pkg:cargo/lance-examples@4.0.0
 - pkg:cargo/lance-examples@4.0.1
 - pkg:cargo/lance-examples@6.0.0
+- pkg:cargo/lance-examples@6.0.1
+- pkg:cargo/lance-examples@7.0.0
+- pkg:cargo/lance-examples@8.0.0
+- pkg:cargo/lance-examples@9.0.0

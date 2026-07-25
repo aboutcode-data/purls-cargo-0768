@@ -18,3 +18,7 @@
 - pkg:cargo/lance-tools@4.0.0
 - pkg:cargo/lance-tools@4.0.1
 - pkg:cargo/lance-tools@6.0.0
+- pkg:cargo/lance-tools@6.0.1
+- pkg:cargo/lance-tools@7.0.0
+- pkg:cargo/lance-tools@8.0.0
+- pkg:cargo/lance-tools@9.0.0
