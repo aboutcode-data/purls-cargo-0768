@@ -601,6 +601,10 @@
 - pkg:cargo/canic-host@0.99.23
 - pkg:cargo/canic-host@0.99.24
 - pkg:cargo/canic-host@0.99.25
+- pkg:cargo/canic-host@0.99.26
+- pkg:cargo/canic-host@0.99.27
+- pkg:cargo/canic-host@0.99.28
+- pkg:cargo/canic-host@0.99.29
 - pkg:cargo/canic-host@0.99.3
 - pkg:cargo/canic-host@0.99.4
 - pkg:cargo/canic-host@0.99.5
