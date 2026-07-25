@@ -77,6 +77,12 @@
 - pkg:cargo/facet-yaml@0.44.7
 - pkg:cargo/facet-yaml@0.46.0
 - pkg:cargo/facet-yaml@0.46.1
+- pkg:cargo/facet-yaml@0.50.0-rc.0
+- pkg:cargo/facet-yaml@0.50.0-rc.1
+- pkg:cargo/facet-yaml@0.50.0-rc.2
+- pkg:cargo/facet-yaml@0.50.0-rc.3
+- pkg:cargo/facet-yaml@0.50.0-rc.4
+- pkg:cargo/facet-yaml@0.50.0-rc.5
 - pkg:cargo/facet-yaml@0.7.0
 - pkg:cargo/facet-yaml@0.8.0
 - pkg:cargo/facet-yaml@0.8.1
