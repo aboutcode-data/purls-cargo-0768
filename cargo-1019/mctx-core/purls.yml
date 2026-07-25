@@ -5,3 +5,5 @@
 - pkg:cargo/mctx-core@0.2.2
 - pkg:cargo/mctx-core@0.2.3
 - pkg:cargo/mctx-core@0.2.4
+- pkg:cargo/mctx-core@0.2.5
+- pkg:cargo/mctx-core@0.3.0
