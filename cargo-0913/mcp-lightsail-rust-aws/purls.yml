@@ -1,1 +1,2 @@
+- pkg:cargo/mcp-lightsail-rust-aws@0.1.0
 - pkg:cargo/mcp-lightsail-rust-aws@1.0.0
