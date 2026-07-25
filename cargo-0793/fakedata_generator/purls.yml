@@ -11,3 +11,4 @@
 - pkg:cargo/fakedata_generator@0.6.0
 - pkg:cargo/fakedata_generator@0.7.0
 - pkg:cargo/fakedata_generator@0.7.1
+- pkg:cargo/fakedata_generator@0.8.0
