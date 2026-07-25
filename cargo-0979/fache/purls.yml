@@ -136,6 +136,8 @@
 - pkg:cargo/fache@0.1.349
 - pkg:cargo/fache@0.1.350
 - pkg:cargo/fache@0.1.351
+- pkg:cargo/fache@0.1.352
 - pkg:cargo/fache@0.1.5
 - pkg:cargo/fache@0.1.6
 - pkg:cargo/fache@0.1.7
+- pkg:cargo/fache@0.2.0
