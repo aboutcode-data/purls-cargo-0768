@@ -11,3 +11,4 @@
 - pkg:cargo/molar_gromacs@1.3.2
 - pkg:cargo/molar_gromacs@1.5.0
 - pkg:cargo/molar_gromacs@2.0.0
+- pkg:cargo/molar_gromacs@2.1.0
