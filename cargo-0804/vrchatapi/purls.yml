@@ -69,6 +69,7 @@
 - pkg:cargo/vrchatapi@1.20.8-nightly.17.1
 - pkg:cargo/vrchatapi@1.20.8-nightly.17.2
 - pkg:cargo/vrchatapi@1.20.8-nightly.18
+- pkg:cargo/vrchatapi@1.20.8-nightly.19
 - pkg:cargo/vrchatapi@1.20.8-nightly.2
 - pkg:cargo/vrchatapi@1.20.8-nightly.3
 - pkg:cargo/vrchatapi@1.20.8-nightly.4
