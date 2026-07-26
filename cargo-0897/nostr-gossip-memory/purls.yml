@@ -4,3 +4,4 @@
 - pkg:cargo/nostr-gossip-memory@0.45.0-alpha.2
 - pkg:cargo/nostr-gossip-memory@0.45.0-alpha.3
 - pkg:cargo/nostr-gossip-memory@0.45.0-alpha.4
+- pkg:cargo/nostr-gossip-memory@0.45.0-alpha.5
