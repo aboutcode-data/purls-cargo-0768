@@ -13,3 +13,4 @@
 - pkg:cargo/factorio-codegen@0.3.0
 - pkg:cargo/factorio-codegen@0.3.2
 - pkg:cargo/factorio-codegen@0.4.0
+- pkg:cargo/factorio-codegen@0.5.0
