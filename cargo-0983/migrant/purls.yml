@@ -39,3 +39,4 @@
 - pkg:cargo/migrant@0.9.8
 - pkg:cargo/migrant@0.9.9
 - pkg:cargo/migrant@1.0.0-rc.1
+- pkg:cargo/migrant@1.0.0-rc.2
