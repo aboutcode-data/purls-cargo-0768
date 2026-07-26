@@ -3,3 +3,4 @@
 - pkg:cargo/micronfig_macros@1.0.1
 - pkg:cargo/micronfig_macros@2.0.1
 - pkg:cargo/micronfig_macros@2.0.2
+- pkg:cargo/micronfig_macros@3.0.0
