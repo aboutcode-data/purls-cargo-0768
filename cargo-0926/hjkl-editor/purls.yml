@@ -45,6 +45,8 @@
 - pkg:cargo/hjkl-editor@0.34.1
 - pkg:cargo/hjkl-editor@0.34.2
 - pkg:cargo/hjkl-editor@0.35.0
+- pkg:cargo/hjkl-editor@0.36.0
+- pkg:cargo/hjkl-editor@0.37.0
 - pkg:cargo/hjkl-editor@0.4.0
 - pkg:cargo/hjkl-editor@0.4.1
 - pkg:cargo/hjkl-editor@0.4.2
