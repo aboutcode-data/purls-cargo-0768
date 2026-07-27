@@ -2,6 +2,8 @@
 - pkg:cargo/nostr-bbs-core@1.0.0-beta.2
 - pkg:cargo/nostr-bbs-core@1.0.0-beta.3
 - pkg:cargo/nostr-bbs-core@1.0.0-beta.6
+- pkg:cargo/nostr-bbs-core@1.0.0-beta.7
+- pkg:cargo/nostr-bbs-core@1.0.0-beta.8
 - pkg:cargo/nostr-bbs-core@3.0.0-rc3
 - pkg:cargo/nostr-bbs-core@3.0.0-rc4
 - pkg:cargo/nostr-bbs-core@3.0.0-rc6
