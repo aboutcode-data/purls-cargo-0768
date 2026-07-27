@@ -39,3 +39,4 @@
 - pkg:cargo/fakecloud-ec2@0.44.1
 - pkg:cargo/fakecloud-ec2@0.44.2
 - pkg:cargo/fakecloud-ec2@0.44.3
+- pkg:cargo/fakecloud-ec2@0.44.4
