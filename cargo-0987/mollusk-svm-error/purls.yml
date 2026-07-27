@@ -35,6 +35,8 @@
 - pkg:cargo/mollusk-svm-error@0.13.4
 - pkg:cargo/mollusk-svm-error@0.14.0
 - pkg:cargo/mollusk-svm-error@0.14.0-agave-4.2.0-beta.0
+- pkg:cargo/mollusk-svm-error@0.14.0-agave-4.2.0-beta.1
+- pkg:cargo/mollusk-svm-error@0.14.0-agave-4.2.0-beta.2
 - pkg:cargo/mollusk-svm-error@0.2.0
 - pkg:cargo/mollusk-svm-error@0.2.1
 - pkg:cargo/mollusk-svm-error@0.3.0
