@@ -48,3 +48,4 @@
 - pkg:cargo/fakecloud-bedrock-agent-runtime@0.44.2
 - pkg:cargo/fakecloud-bedrock-agent-runtime@0.44.3
 - pkg:cargo/fakecloud-bedrock-agent-runtime@0.44.4
+- pkg:cargo/fakecloud-bedrock-agent-runtime@0.44.5
