@@ -19,3 +19,5 @@
 - pkg:cargo/hjkl-buffer-tui@0.36.0
 - pkg:cargo/hjkl-buffer-tui@0.37.0
 - pkg:cargo/hjkl-buffer-tui@0.37.1
+- pkg:cargo/hjkl-buffer-tui@0.38.0
+- pkg:cargo/hjkl-buffer-tui@0.39.0
