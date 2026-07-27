@@ -13,6 +13,7 @@
 - pkg:cargo/bootloader-x86_64-bios-boot-sector@0.11.14
 - pkg:cargo/bootloader-x86_64-bios-boot-sector@0.11.15
 - pkg:cargo/bootloader-x86_64-bios-boot-sector@0.11.16
+- pkg:cargo/bootloader-x86_64-bios-boot-sector@0.11.17
 - pkg:cargo/bootloader-x86_64-bios-boot-sector@0.11.2
 - pkg:cargo/bootloader-x86_64-bios-boot-sector@0.11.3
 - pkg:cargo/bootloader-x86_64-bios-boot-sector@0.11.4
