@@ -2,6 +2,11 @@
 - pkg:cargo/mcpmesh-node@0.10.1
 - pkg:cargo/mcpmesh-node@0.10.2
 - pkg:cargo/mcpmesh-node@0.11.0
+- pkg:cargo/mcpmesh-node@0.12.0
+- pkg:cargo/mcpmesh-node@0.13.0
+- pkg:cargo/mcpmesh-node@0.13.1
+- pkg:cargo/mcpmesh-node@0.13.2
+- pkg:cargo/mcpmesh-node@0.13.3
 - pkg:cargo/mcpmesh-node@0.7.0
 - pkg:cargo/mcpmesh-node@0.7.1
 - pkg:cargo/mcpmesh-node@0.7.2
