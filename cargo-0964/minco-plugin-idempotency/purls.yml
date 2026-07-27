@@ -2,3 +2,4 @@
 - pkg:cargo/minco-plugin-idempotency@0.1.1
 - pkg:cargo/minco-plugin-idempotency@0.2.0
 - pkg:cargo/minco-plugin-idempotency@0.3.0
+- pkg:cargo/minco-plugin-idempotency@0.3.1
