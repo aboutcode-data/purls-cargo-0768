@@ -115,6 +115,8 @@
 - pkg:cargo/hongdown@0.5.0-dev.197%2Bb4fdcb0c
 - pkg:cargo/hongdown@0.5.1
 - pkg:cargo/hongdown@0.5.2
+- pkg:cargo/hongdown@0.5.3
 - pkg:cargo/hongdown@0.6.0-dev.202%2B51350d85
 - pkg:cargo/hongdown@0.6.0-dev.203%2B1c567f2b
 - pkg:cargo/hongdown@0.6.0-dev.235%2B70de4bfb
+- pkg:cargo/hongdown@0.6.0-dev.240%2B0a539030
