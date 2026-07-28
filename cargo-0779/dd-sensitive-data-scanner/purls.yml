@@ -9,3 +9,4 @@
 - pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260713-90c144ee7013
 - pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260715-fcd8f9716b61
 - pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260723-ee17bf7226df
+- pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260727-409c21e348b8
