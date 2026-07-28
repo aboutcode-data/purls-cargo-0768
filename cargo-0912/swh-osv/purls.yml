@@ -1,0 +1,9 @@
+- pkg:cargo/swh-osv@0.4.1
+- pkg:cargo/swh-osv@0.5.0
+- pkg:cargo/swh-osv@0.6.0
+- pkg:cargo/swh-osv@0.6.1
+- pkg:cargo/swh-osv@0.7.0
+- pkg:cargo/swh-osv@0.7.1
+- pkg:cargo/swh-osv@0.7.2
+- pkg:cargo/swh-osv@0.7.3
+- pkg:cargo/swh-osv@0.8.0
