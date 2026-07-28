@@ -16,7 +16,14 @@
 - pkg:cargo/gpui-web-gpui-unofficial@1.1.6
 - pkg:cargo/gpui-web-gpui-unofficial@1.1.7
 - pkg:cargo/gpui-web-gpui-unofficial@1.1.8
+- pkg:cargo/gpui-web-gpui-unofficial@1.10.0
+- pkg:cargo/gpui-web-gpui-unofficial@1.10.1
+- pkg:cargo/gpui-web-gpui-unofficial@1.10.2
+- pkg:cargo/gpui-web-gpui-unofficial@1.10.3
+- pkg:cargo/gpui-web-gpui-unofficial@1.11.3
 - pkg:cargo/gpui-web-gpui-unofficial@1.2.3
 - pkg:cargo/gpui-web-gpui-unofficial@1.2.6
 - pkg:cargo/gpui-web-gpui-unofficial@1.2.7
 - pkg:cargo/gpui-web-gpui-unofficial@1.7.2
+- pkg:cargo/gpui-web-gpui-unofficial@1.8.2
+- pkg:cargo/gpui-web-gpui-unofficial@1.9.0
