@@ -11,3 +11,6 @@
 - pkg:cargo/fontspector-profile-universal@1.6.0
 - pkg:cargo/fontspector-profile-universal@1.7.0
 - pkg:cargo/fontspector-profile-universal@1.8.0
+- pkg:cargo/fontspector-profile-universal@1.8.1
+- pkg:cargo/fontspector-profile-universal@1.8.2
+- pkg:cargo/fontspector-profile-universal@1.8.3
