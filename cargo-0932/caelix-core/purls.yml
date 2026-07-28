@@ -20,6 +20,9 @@
 - pkg:cargo/caelix-core@0.0.31
 - pkg:cargo/caelix-core@0.0.32
 - pkg:cargo/caelix-core@0.0.33
+- pkg:cargo/caelix-core@0.0.34
+- pkg:cargo/caelix-core@0.0.35
+- pkg:cargo/caelix-core@0.0.36
 - pkg:cargo/caelix-core@0.0.4
 - pkg:cargo/caelix-core@0.0.5
 - pkg:cargo/caelix-core@0.0.6
