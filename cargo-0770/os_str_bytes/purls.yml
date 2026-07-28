@@ -42,3 +42,4 @@
 - pkg:cargo/os_str_bytes@7.1.0
 - pkg:cargo/os_str_bytes@7.1.1
 - pkg:cargo/os_str_bytes@7.2.0
+- pkg:cargo/os_str_bytes@7.2.1
