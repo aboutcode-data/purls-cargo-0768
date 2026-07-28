@@ -53,3 +53,4 @@
 - pkg:cargo/nil-core@0.6.8
 - pkg:cargo/nil-core@0.6.9
 - pkg:cargo/nil-core@0.7.0
+- pkg:cargo/nil-core@0.7.1
