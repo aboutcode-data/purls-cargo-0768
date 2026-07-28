@@ -64,6 +64,7 @@
 - pkg:cargo/mongreldb-server@0.64.11
 - pkg:cargo/mongreldb-server@0.64.12
 - pkg:cargo/mongreldb-server@0.64.13
+- pkg:cargo/mongreldb-server@0.64.14
 - pkg:cargo/mongreldb-server@0.64.2
 - pkg:cargo/mongreldb-server@0.64.3
 - pkg:cargo/mongreldb-server@0.64.4
