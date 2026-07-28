@@ -2,7 +2,14 @@
 - pkg:cargo/canic-host@0.100.1
 - pkg:cargo/canic-host@0.100.11
 - pkg:cargo/canic-host@0.100.12
+- pkg:cargo/canic-host@0.100.13
+- pkg:cargo/canic-host@0.100.14
+- pkg:cargo/canic-host@0.100.15
+- pkg:cargo/canic-host@0.100.16
+- pkg:cargo/canic-host@0.100.17
+- pkg:cargo/canic-host@0.100.19
 - pkg:cargo/canic-host@0.100.2
+- pkg:cargo/canic-host@0.100.21
 - pkg:cargo/canic-host@0.100.3
 - pkg:cargo/canic-host@0.100.4
 - pkg:cargo/canic-host@0.100.5
