@@ -3,6 +3,7 @@
 - pkg:cargo/shacl-cli@0.1.6
 - pkg:cargo/shacl-cli@0.1.7
 - pkg:cargo/shacl-cli@0.2.1
+- pkg:cargo/shacl-cli@0.2.10
 - pkg:cargo/shacl-cli@0.2.2
 - pkg:cargo/shacl-cli@0.2.3
 - pkg:cargo/shacl-cli@0.2.4
