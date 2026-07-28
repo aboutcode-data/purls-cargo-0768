@@ -19,3 +19,4 @@
 - pkg:cargo/shvproto@6.2.3
 - pkg:cargo/shvproto@6.2.4
 - pkg:cargo/shvproto@6.2.5
+- pkg:cargo/shvproto@6.3.0
