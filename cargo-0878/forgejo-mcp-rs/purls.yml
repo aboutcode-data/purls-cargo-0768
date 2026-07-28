@@ -1,0 +1,6 @@
+- pkg:cargo/forgejo-mcp-rs@0.10.1
+- pkg:cargo/forgejo-mcp-rs@0.11.0
+- pkg:cargo/forgejo-mcp-rs@0.12.0
+- pkg:cargo/forgejo-mcp-rs@0.13.0
+- pkg:cargo/forgejo-mcp-rs@0.14.0
+- pkg:cargo/forgejo-mcp-rs@0.7.0
