@@ -49,3 +49,4 @@
 - pkg:cargo/miden-mast-package@0.25.5
 - pkg:cargo/miden-mast-package@0.25.6
 - pkg:cargo/miden-mast-package@0.25.7
+- pkg:cargo/miden-mast-package@0.25.8
