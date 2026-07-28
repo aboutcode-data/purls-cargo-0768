@@ -3,3 +3,4 @@
 - pkg:cargo/cf-gears-credstore-sdk@0.1.26
 - pkg:cargo/cf-gears-credstore-sdk@0.1.27
 - pkg:cargo/cf-gears-credstore-sdk@0.1.28
+- pkg:cargo/cf-gears-credstore-sdk@0.2.0
