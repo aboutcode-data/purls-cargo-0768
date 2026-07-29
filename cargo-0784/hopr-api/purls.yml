@@ -4,6 +4,7 @@
 - pkg:cargo/hopr-api@1.13.0
 - pkg:cargo/hopr-api@1.14.0
 - pkg:cargo/hopr-api@1.15.0
+- pkg:cargo/hopr-api@1.16.0
 - pkg:cargo/hopr-api@1.5.0
 - pkg:cargo/hopr-api@1.5.1
 - pkg:cargo/hopr-api@1.5.2
