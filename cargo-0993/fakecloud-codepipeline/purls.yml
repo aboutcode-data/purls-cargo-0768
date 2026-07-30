@@ -13,3 +13,6 @@
 - pkg:cargo/fakecloud-codepipeline@0.44.4
 - pkg:cargo/fakecloud-codepipeline@0.44.5
 - pkg:cargo/fakecloud-codepipeline@0.44.6
+- pkg:cargo/fakecloud-codepipeline@0.44.7
+- pkg:cargo/fakecloud-codepipeline@0.44.8
+- pkg:cargo/fakecloud-codepipeline@0.44.9
