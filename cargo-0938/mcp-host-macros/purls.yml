@@ -34,4 +34,6 @@
 - pkg:cargo/mcp-host-macros@0.1.70
 - pkg:cargo/mcp-host-macros@0.1.8
 - pkg:cargo/mcp-host-macros@0.1.80
+- pkg:cargo/mcp-host-macros@0.1.81
 - pkg:cargo/mcp-host-macros@0.1.9
+- pkg:cargo/mcp-host-macros@0.1.90
