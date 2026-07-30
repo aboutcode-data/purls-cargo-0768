@@ -34,3 +34,6 @@
 - pkg:cargo/catenary-mcp@1.6.1
 - pkg:cargo/catenary-mcp@2.0.1
 - pkg:cargo/catenary-mcp@2.0.2
+- pkg:cargo/catenary-mcp@2.0.3
+- pkg:cargo/catenary-mcp@3.0.0
+- pkg:cargo/catenary-mcp@3.0.1
