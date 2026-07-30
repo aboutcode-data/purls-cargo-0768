@@ -99,6 +99,7 @@
 - pkg:cargo/calimero-primitives@0.11.0-rc.16
 - pkg:cargo/calimero-primitives@0.11.0-rc.17
 - pkg:cargo/calimero-primitives@0.11.0-rc.18
+- pkg:cargo/calimero-primitives@0.11.0-rc.19
 - pkg:cargo/calimero-primitives@0.11.0-rc.2
 - pkg:cargo/calimero-primitives@0.11.0-rc.3
 - pkg:cargo/calimero-primitives@0.11.0-rc.4
