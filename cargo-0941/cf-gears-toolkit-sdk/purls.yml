@@ -2,3 +2,4 @@
 - pkg:cargo/cf-gears-toolkit-sdk@0.6.6
 - pkg:cargo/cf-gears-toolkit-sdk@0.7.0
 - pkg:cargo/cf-gears-toolkit-sdk@0.7.1
+- pkg:cargo/cf-gears-toolkit-sdk@0.7.2
