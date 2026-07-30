@@ -10,3 +10,4 @@
 - pkg:cargo/cfs-synapse-codegen-cfs@0.2.3
 - pkg:cargo/cfs-synapse-codegen-cfs@0.2.5
 - pkg:cargo/cfs-synapse-codegen-cfs@0.2.9
+- pkg:cargo/cfs-synapse-codegen-cfs@0.3.0
