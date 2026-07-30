@@ -51,6 +51,8 @@
 - pkg:cargo/bobcat-storage@0.7.42
 - pkg:cargo/bobcat-storage@0.7.43
 - pkg:cargo/bobcat-storage@0.7.44
+- pkg:cargo/bobcat-storage@0.7.45
+- pkg:cargo/bobcat-storage@0.7.47
 - pkg:cargo/bobcat-storage@0.7.5
 - pkg:cargo/bobcat-storage@0.7.6
 - pkg:cargo/bobcat-storage@0.7.7
