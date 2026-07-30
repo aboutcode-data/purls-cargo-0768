@@ -62,3 +62,4 @@
 - pkg:cargo/emit_otlp@1.8.1
 - pkg:cargo/emit_otlp@1.9.0
 - pkg:cargo/emit_otlp@2.21.0
+- pkg:cargo/emit_otlp@2.22.1

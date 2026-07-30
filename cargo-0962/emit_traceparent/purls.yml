@@ -45,3 +45,4 @@
 - pkg:cargo/emit_traceparent@1.8.1
 - pkg:cargo/emit_traceparent@1.9.0
 - pkg:cargo/emit_traceparent@2.21.0
+- pkg:cargo/emit_traceparent@2.22.1
