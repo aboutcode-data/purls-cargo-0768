@@ -53,7 +53,17 @@
 - pkg:cargo/canic-host@0.100.59
 - pkg:cargo/canic-host@0.100.60
 - pkg:cargo/canic-host@0.100.61
+- pkg:cargo/canic-host@0.100.62
+- pkg:cargo/canic-host@0.100.63
+- pkg:cargo/canic-host@0.100.64
+- pkg:cargo/canic-host@0.100.65
+- pkg:cargo/canic-host@0.100.66
+- pkg:cargo/canic-host@0.100.67
+- pkg:cargo/canic-host@0.100.68
+- pkg:cargo/canic-host@0.100.69
 - pkg:cargo/canic-host@0.100.7
+- pkg:cargo/canic-host@0.100.70
+- pkg:cargo/canic-host@0.100.71
 - pkg:cargo/canic-host@0.100.8
 - pkg:cargo/canic-host@0.100.9
 - pkg:cargo/canic-host@0.31.2
