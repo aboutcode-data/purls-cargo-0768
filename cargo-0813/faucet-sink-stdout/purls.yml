@@ -6,3 +6,4 @@
 - pkg:cargo/faucet-sink-stdout@1.1.3
 - pkg:cargo/faucet-sink-stdout@1.1.4
 - pkg:cargo/faucet-sink-stdout@1.1.5
+- pkg:cargo/faucet-sink-stdout@1.2.0
