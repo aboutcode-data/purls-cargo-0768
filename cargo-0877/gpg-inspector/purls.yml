@@ -1,1 +1,2 @@
 - pkg:cargo/gpg-inspector@0.8.0
+- pkg:cargo/gpg-inspector@0.8.1
