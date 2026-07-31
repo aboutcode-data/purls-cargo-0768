@@ -29,3 +29,4 @@
 - pkg:cargo/miden-node-db@0.15.2
 - pkg:cargo/miden-node-db@0.16.0-alpha.1
 - pkg:cargo/miden-node-db@0.16.0-alpha.2
+- pkg:cargo/miden-node-db@0.16.0-alpha.3
