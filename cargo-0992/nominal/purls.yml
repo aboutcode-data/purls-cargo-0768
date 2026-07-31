@@ -12,3 +12,4 @@
 - pkg:cargo/nominal@0.5.1
 - pkg:cargo/nominal@0.5.2
 - pkg:cargo/nominal@0.5.3
+- pkg:cargo/nominal@0.6.0
