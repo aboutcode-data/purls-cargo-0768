@@ -153,6 +153,7 @@
 - pkg:cargo/swc_graph_analyzer@13.0.0
 - pkg:cargo/swc_graph_analyzer@14.0.0
 - pkg:cargo/swc_graph_analyzer@14.0.1
+- pkg:cargo/swc_graph_analyzer@14.0.2
 - pkg:cargo/swc_graph_analyzer@2.0.0
 - pkg:cargo/swc_graph_analyzer@3.0.0
 - pkg:cargo/swc_graph_analyzer@4.0.0
