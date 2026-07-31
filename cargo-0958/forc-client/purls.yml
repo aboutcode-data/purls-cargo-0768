@@ -128,3 +128,4 @@
 - pkg:cargo/forc-client@0.71.1
 - pkg:cargo/forc-client@0.71.2
 - pkg:cargo/forc-client@0.71.3
+- pkg:cargo/forc-client@0.71.5
