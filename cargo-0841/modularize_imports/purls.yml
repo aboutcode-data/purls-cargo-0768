@@ -188,6 +188,7 @@
 - pkg:cargo/modularize_imports@12.0.0
 - pkg:cargo/modularize_imports@13.0.0
 - pkg:cargo/modularize_imports@14.0.0
+- pkg:cargo/modularize_imports@15.0.0
 - pkg:cargo/modularize_imports@2.0.0
 - pkg:cargo/modularize_imports@3.0.0
 - pkg:cargo/modularize_imports@4.0.0
