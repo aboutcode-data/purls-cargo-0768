@@ -40,6 +40,11 @@
 - pkg:cargo/tun@0.7.9
 - pkg:cargo/tun@0.8.0
 - pkg:cargo/tun@0.8.1
+- pkg:cargo/tun@0.8.10
+- pkg:cargo/tun@0.8.11
+- pkg:cargo/tun@0.8.12
+- pkg:cargo/tun@0.8.13
+- pkg:cargo/tun@0.8.14
 - pkg:cargo/tun@0.8.2
 - pkg:cargo/tun@0.8.3
 - pkg:cargo/tun@0.8.4
