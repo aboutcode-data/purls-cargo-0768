@@ -11,6 +11,12 @@
 - pkg:cargo/enk@0.3.18
 - pkg:cargo/enk@0.3.19
 - pkg:cargo/enk@0.3.2
+- pkg:cargo/enk@0.3.20
+- pkg:cargo/enk@0.3.21
+- pkg:cargo/enk@0.3.22
+- pkg:cargo/enk@0.3.23
+- pkg:cargo/enk@0.3.24
+- pkg:cargo/enk@0.3.25
 - pkg:cargo/enk@0.3.3
 - pkg:cargo/enk@0.3.4
 - pkg:cargo/enk@0.3.5
