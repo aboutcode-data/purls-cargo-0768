@@ -22,6 +22,10 @@
 - pkg:cargo/uxc@0.15.3
 - pkg:cargo/uxc@0.15.4
 - pkg:cargo/uxc@0.15.5
+- pkg:cargo/uxc@0.15.6
+- pkg:cargo/uxc@0.15.7
+- pkg:cargo/uxc@0.15.8
+- pkg:cargo/uxc@0.16.0
 - pkg:cargo/uxc@0.2.0
 - pkg:cargo/uxc@0.3.0
 - pkg:cargo/uxc@0.4.1
