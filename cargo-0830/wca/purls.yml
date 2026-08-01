@@ -38,6 +38,13 @@
 - pkg:cargo/wca@0.44.0
 - pkg:cargo/wca@0.45.0
 - pkg:cargo/wca@0.46.0
+- pkg:cargo/wca@0.47.0
+- pkg:cargo/wca@0.48.0
+- pkg:cargo/wca@0.49.0
 - pkg:cargo/wca@0.5.0
+- pkg:cargo/wca@0.50.0
+- pkg:cargo/wca@0.51.1
+- pkg:cargo/wca@0.52.1
+- pkg:cargo/wca@0.53.1
 - pkg:cargo/wca@0.6.0
 - pkg:cargo/wca@0.9.0
