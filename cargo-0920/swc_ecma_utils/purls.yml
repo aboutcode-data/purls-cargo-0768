@@ -494,6 +494,12 @@
 - pkg:cargo/swc_ecma_utils@29.1.0
 - pkg:cargo/swc_ecma_utils@29.1.1
 - pkg:cargo/swc_ecma_utils@3.0.0
+- pkg:cargo/swc_ecma_utils@30.0.0
+- pkg:cargo/swc_ecma_utils@31.0.0
+- pkg:cargo/swc_ecma_utils@31.0.1
+- pkg:cargo/swc_ecma_utils@31.0.2
+- pkg:cargo/swc_ecma_utils@32.0.0
+- pkg:cargo/swc_ecma_utils@33.0.0
 - pkg:cargo/swc_ecma_utils@4.0.0
 - pkg:cargo/swc_ecma_utils@5.0.0
 - pkg:cargo/swc_ecma_utils@5.0.1

@@ -770,7 +770,13 @@
 - pkg:cargo/swc_ecma_transforms_react@46.0.0
 - pkg:cargo/swc_ecma_transforms_react@46.0.1
 - pkg:cargo/swc_ecma_transforms_react@47.0.0
+- pkg:cargo/swc_ecma_transforms_react@48.0.0
+- pkg:cargo/swc_ecma_transforms_react@49.0.0
 - pkg:cargo/swc_ecma_transforms_react@5.0.0
+- pkg:cargo/swc_ecma_transforms_react@50.0.0
+- pkg:cargo/swc_ecma_transforms_react@51.0.0
+- pkg:cargo/swc_ecma_transforms_react@52.0.0
+- pkg:cargo/swc_ecma_transforms_react@53.0.0
 - pkg:cargo/swc_ecma_transforms_react@6.0.0
 - pkg:cargo/swc_ecma_transforms_react@7.0.0
 - pkg:cargo/swc_ecma_transforms_react@8.0.0
