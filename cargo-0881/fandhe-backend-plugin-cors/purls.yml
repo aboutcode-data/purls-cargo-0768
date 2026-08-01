@@ -1,1 +1,2 @@
 - pkg:cargo/fandhe-backend-plugin-cors@0.1.0
+- pkg:cargo/fandhe-backend-plugin-cors@0.2.0
