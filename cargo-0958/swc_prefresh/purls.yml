@@ -58,6 +58,16 @@
 - pkg:cargo/swc_prefresh@0.8.0
 - pkg:cargo/swc_prefresh@0.9.0
 - pkg:cargo/swc_prefresh@1.0.0
+- pkg:cargo/swc_prefresh@10.0.0
+- pkg:cargo/swc_prefresh@11.0.0
+- pkg:cargo/swc_prefresh@12.0.0
+- pkg:cargo/swc_prefresh@13.0.0
+- pkg:cargo/swc_prefresh@14.0.0
+- pkg:cargo/swc_prefresh@15.0.0
 - pkg:cargo/swc_prefresh@2.0.0
 - pkg:cargo/swc_prefresh@3.0.0
 - pkg:cargo/swc_prefresh@4.0.0
+- pkg:cargo/swc_prefresh@6.0.0
+- pkg:cargo/swc_prefresh@7.0.0
+- pkg:cargo/swc_prefresh@8.0.0
+- pkg:cargo/swc_prefresh@9.0.0

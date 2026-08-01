@@ -726,6 +726,17 @@
 - pkg:cargo/swc_ecma_transforms_base@41.0.1
 - pkg:cargo/swc_ecma_transforms_base@42.0.0
 - pkg:cargo/swc_ecma_transforms_base@42.0.1
+- pkg:cargo/swc_ecma_transforms_base@43.0.0
+- pkg:cargo/swc_ecma_transforms_base@43.0.1
+- pkg:cargo/swc_ecma_transforms_base@44.0.0
+- pkg:cargo/swc_ecma_transforms_base@44.0.1
+- pkg:cargo/swc_ecma_transforms_base@44.0.2
+- pkg:cargo/swc_ecma_transforms_base@44.0.3
+- pkg:cargo/swc_ecma_transforms_base@44.0.4
+- pkg:cargo/swc_ecma_transforms_base@45.0.0
+- pkg:cargo/swc_ecma_transforms_base@46.0.0
+- pkg:cargo/swc_ecma_transforms_base@46.0.1
+- pkg:cargo/swc_ecma_transforms_base@47.0.0
 - pkg:cargo/swc_ecma_transforms_base@5.0.0
 - pkg:cargo/swc_ecma_transforms_base@5.0.1
 - pkg:cargo/swc_ecma_transforms_base@6.0.0

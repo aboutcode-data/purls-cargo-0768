@@ -221,6 +221,9 @@
 - pkg:cargo/swc_html_codegen@20.0.0
 - pkg:cargo/swc_html_codegen@21.0.0
 - pkg:cargo/swc_html_codegen@22.0.0
+- pkg:cargo/swc_html_codegen@23.0.0
+- pkg:cargo/swc_html_codegen@24.0.0
+- pkg:cargo/swc_html_codegen@25.0.0
 - pkg:cargo/swc_html_codegen@3.0.0
 - pkg:cargo/swc_html_codegen@4.0.0
 - pkg:cargo/swc_html_codegen@5.0.0

@@ -284,6 +284,9 @@
 - pkg:cargo/swc_css_utils@2.0.0
 - pkg:cargo/swc_css_utils@20.0.0
 - pkg:cargo/swc_css_utils@21.0.0
+- pkg:cargo/swc_css_utils@22.0.0
+- pkg:cargo/swc_css_utils@23.0.0
+- pkg:cargo/swc_css_utils@24.0.0
 - pkg:cargo/swc_css_utils@3.0.0
 - pkg:cargo/swc_css_utils@4.0.0
 - pkg:cargo/swc_css_utils@5.0.0
