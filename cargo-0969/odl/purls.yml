@@ -22,3 +22,7 @@
 - pkg:cargo/odl@0.5.2
 - pkg:cargo/odl@0.6.0
 - pkg:cargo/odl@0.7.0
+- pkg:cargo/odl@1.0.0
+- pkg:cargo/odl@1.1.0
+- pkg:cargo/odl@1.2.0
+- pkg:cargo/odl@1.3.0
