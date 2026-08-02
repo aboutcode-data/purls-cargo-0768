@@ -2,3 +2,4 @@
 - pkg:cargo/cairn-lang-wasm@2026.7.1
 - pkg:cargo/cairn-lang-wasm@2026.7.2
 - pkg:cargo/cairn-lang-wasm@2026.8.0
+- pkg:cargo/cairn-lang-wasm@2026.8.2
