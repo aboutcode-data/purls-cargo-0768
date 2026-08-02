@@ -79,7 +79,15 @@
 - pkg:cargo/canic-backup@0.100.81
 - pkg:cargo/canic-backup@0.100.82
 - pkg:cargo/canic-backup@0.100.83
+- pkg:cargo/canic-backup@0.100.84
+- pkg:cargo/canic-backup@0.100.85
+- pkg:cargo/canic-backup@0.100.86
+- pkg:cargo/canic-backup@0.100.87
+- pkg:cargo/canic-backup@0.100.88
+- pkg:cargo/canic-backup@0.100.89
 - pkg:cargo/canic-backup@0.100.9
+- pkg:cargo/canic-backup@0.100.90
+- pkg:cargo/canic-backup@0.100.91
 - pkg:cargo/canic-backup@0.30.0
 - pkg:cargo/canic-backup@0.30.12
 - pkg:cargo/canic-backup@0.30.14
