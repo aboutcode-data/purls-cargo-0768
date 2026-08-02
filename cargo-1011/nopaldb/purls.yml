@@ -7,3 +7,4 @@
 - pkg:cargo/nopaldb@0.4.34
 - pkg:cargo/nopaldb@0.4.35
 - pkg:cargo/nopaldb@0.4.36
+- pkg:cargo/nopaldb@0.5.0
