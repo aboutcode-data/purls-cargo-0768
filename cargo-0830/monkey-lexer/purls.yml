@@ -18,3 +18,4 @@
 - pkg:cargo/monkey-lexer@0.9.1
 - pkg:cargo/monkey-lexer@1.0.0
 - pkg:cargo/monkey-lexer@1.1.0
+- pkg:cargo/monkey-lexer@1.2.0
