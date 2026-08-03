@@ -51,7 +51,12 @@
 - pkg:cargo/mcpmesh@0.27.1
 - pkg:cargo/mcpmesh@0.27.2
 - pkg:cargo/mcpmesh@0.27.3
+- pkg:cargo/mcpmesh@0.28.0
+- pkg:cargo/mcpmesh@0.29.0
 - pkg:cargo/mcpmesh@0.3.0
+- pkg:cargo/mcpmesh@0.30.0
+- pkg:cargo/mcpmesh@0.31.0
+- pkg:cargo/mcpmesh@0.32.0
 - pkg:cargo/mcpmesh@0.4.0
 - pkg:cargo/mcpmesh@0.5.0
 - pkg:cargo/mcpmesh@0.5.1
