@@ -9,3 +9,4 @@
 - pkg:cargo/boltffi_scan@0.27.5
 - pkg:cargo/boltffi_scan@0.28.0
 - pkg:cargo/boltffi_scan@0.29.0
+- pkg:cargo/boltffi_scan@0.29.1
