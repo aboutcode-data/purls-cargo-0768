@@ -26,4 +26,5 @@
 - pkg:cargo/fathomdb-schema@0.7.1
 - pkg:cargo/fathomdb-schema@0.7.2
 - pkg:cargo/fathomdb-schema@0.8.0
+- pkg:cargo/fathomdb-schema@0.8.20
 - pkg:cargo/fathomdb-schema@0.8.9
