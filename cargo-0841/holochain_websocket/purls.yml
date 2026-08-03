@@ -281,3 +281,4 @@
 - pkg:cargo/holochain_websocket@0.7.0-rc.2
 - pkg:cargo/holochain_websocket@0.7.0-rc.3
 - pkg:cargo/holochain_websocket@0.7.0-rc.4
+- pkg:cargo/holochain_websocket@0.8.0-dev.0
