@@ -10,3 +10,4 @@
 - pkg:cargo/miden-format@0.25.6
 - pkg:cargo/miden-format@0.25.7
 - pkg:cargo/miden-format@0.25.8
+- pkg:cargo/miden-format@0.28.0
