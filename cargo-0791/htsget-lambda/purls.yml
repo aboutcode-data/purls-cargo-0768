@@ -40,3 +40,4 @@
 - pkg:cargo/htsget-lambda@0.7.9
 - pkg:cargo/htsget-lambda@0.8.0
 - pkg:cargo/htsget-lambda@0.8.1
+- pkg:cargo/htsget-lambda@0.8.2
