@@ -1,3 +1,4 @@
 - pkg:cargo/laserstream-core-client@10.0.0
+- pkg:cargo/laserstream-core-client@11.0.0
 - pkg:cargo/laserstream-core-client@9.0.1
 - pkg:cargo/laserstream-core-client@9.0.2
