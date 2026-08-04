@@ -86,3 +86,4 @@
 - pkg:cargo/emit@2.21.0
 - pkg:cargo/emit@2.22.0
 - pkg:cargo/emit@2.22.1
+- pkg:cargo/emit@2.22.2
