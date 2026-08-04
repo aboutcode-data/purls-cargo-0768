@@ -22,3 +22,4 @@
 - pkg:cargo/boltffi_bindgen@0.28.0
 - pkg:cargo/boltffi_bindgen@0.29.0
 - pkg:cargo/boltffi_bindgen@0.29.1
+- pkg:cargo/boltffi_bindgen@0.29.2
