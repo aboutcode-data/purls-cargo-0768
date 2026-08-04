@@ -30,3 +30,4 @@
 - pkg:cargo/blit-ssh@0.33.5
 - pkg:cargo/blit-ssh@0.33.6
 - pkg:cargo/blit-ssh@0.43.0
+- pkg:cargo/blit-ssh@0.44.0
