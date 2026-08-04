@@ -12,3 +12,4 @@
 - pkg:cargo/miden-confidential-contracts@0.15.0
 - pkg:cargo/miden-confidential-contracts@0.15.0-rc.0
 - pkg:cargo/miden-confidential-contracts@0.16.0
+- pkg:cargo/miden-confidential-contracts@0.16.1
