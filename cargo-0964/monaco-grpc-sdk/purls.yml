@@ -89,5 +89,7 @@
 - pkg:cargo/monaco-grpc-sdk@1.0.25
 - pkg:cargo/monaco-grpc-sdk@1.0.25-develop.1fab96c
 - pkg:cargo/monaco-grpc-sdk@1.0.26
+- pkg:cargo/monaco-grpc-sdk@1.0.26-develop.aeb6d5b
+- pkg:cargo/monaco-grpc-sdk@1.0.28
 - pkg:cargo/monaco-grpc-sdk@1.0.3
 - pkg:cargo/monaco-grpc-sdk@1.0.7
