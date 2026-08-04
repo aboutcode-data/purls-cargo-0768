@@ -23,3 +23,4 @@
 - pkg:cargo/boltffi_ffi_rules@0.28.0
 - pkg:cargo/boltffi_ffi_rules@0.29.0
 - pkg:cargo/boltffi_ffi_rules@0.29.1
+- pkg:cargo/boltffi_ffi_rules@0.29.2
