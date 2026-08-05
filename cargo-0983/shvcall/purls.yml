@@ -30,6 +30,7 @@
 - pkg:cargo/shvcall@3.11.33
 - pkg:cargo/shvcall@3.11.34
 - pkg:cargo/shvcall@3.11.35
+- pkg:cargo/shvcall@3.11.36
 - pkg:cargo/shvcall@3.11.4
 - pkg:cargo/shvcall@3.11.5
 - pkg:cargo/shvcall@3.11.6
