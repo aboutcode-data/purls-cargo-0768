@@ -32,6 +32,7 @@
 - pkg:cargo/tga@2.1.0
 - pkg:cargo/tga@2.1.1
 - pkg:cargo/tga@2.1.2
+- pkg:cargo/tga@2.11.0
 - pkg:cargo/tga@2.2.0
 - pkg:cargo/tga@2.2.1
 - pkg:cargo/tga@2.2.2
