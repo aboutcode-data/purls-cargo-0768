@@ -66,6 +66,7 @@
 - pkg:cargo/cartog@0.31.1
 - pkg:cargo/cartog@0.32.0
 - pkg:cargo/cartog@0.32.1
+- pkg:cargo/cartog@0.32.2
 - pkg:cargo/cartog@0.4.3
 - pkg:cargo/cartog@0.4.4
 - pkg:cargo/cartog@0.4.5
