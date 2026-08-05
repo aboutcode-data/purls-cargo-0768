@@ -33,3 +33,4 @@
 - pkg:cargo/miden-core-lib@0.25.7
 - pkg:cargo/miden-core-lib@0.25.8
 - pkg:cargo/miden-core-lib@0.28.0
+- pkg:cargo/miden-core-lib@0.29.0
