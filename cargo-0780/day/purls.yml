@@ -1,5 +1,8 @@
 - pkg:cargo/day@0.1.1-beta.1
 - pkg:cargo/day@0.1.2-beta.1
+- pkg:cargo/day@0.10.0-beta.1
+- pkg:cargo/day@0.10.0-beta.2
+- pkg:cargo/day@0.11.0-beta.2
 - pkg:cargo/day@0.2.0-beta.1
 - pkg:cargo/day@0.3.0-beta.1
 - pkg:cargo/day@0.4.0-beta.1
@@ -9,3 +12,4 @@
 - pkg:cargo/day@0.7.0-beta.2
 - pkg:cargo/day@0.7.0-beta.3
 - pkg:cargo/day@0.8.0-beta.1
+- pkg:cargo/day@0.9.0-beta.1
