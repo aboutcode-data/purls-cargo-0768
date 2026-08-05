@@ -31,5 +31,6 @@
 - pkg:cargo/monaco-sdk@1.0.26
 - pkg:cargo/monaco-sdk@1.0.26-develop.aeb6d5b
 - pkg:cargo/monaco-sdk@1.0.28
+- pkg:cargo/monaco-sdk@1.0.29
 - pkg:cargo/monaco-sdk@1.0.3
 - pkg:cargo/monaco-sdk@1.0.7
