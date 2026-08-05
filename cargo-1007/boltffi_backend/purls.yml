@@ -8,3 +8,4 @@
 - pkg:cargo/boltffi_backend@0.29.0
 - pkg:cargo/boltffi_backend@0.29.1
 - pkg:cargo/boltffi_backend@0.29.2
+- pkg:cargo/boltffi_backend@0.29.3
