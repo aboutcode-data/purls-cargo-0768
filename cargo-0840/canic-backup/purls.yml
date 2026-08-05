@@ -3,6 +3,7 @@
 - pkg:cargo/canic-backup@0.100.10
 - pkg:cargo/canic-backup@0.100.100
 - pkg:cargo/canic-backup@0.100.101
+- pkg:cargo/canic-backup@0.100.102
 - pkg:cargo/canic-backup@0.100.11
 - pkg:cargo/canic-backup@0.100.12
 - pkg:cargo/canic-backup@0.100.13
