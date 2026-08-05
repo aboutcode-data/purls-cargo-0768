@@ -1,1 +1,5 @@
 - pkg:cargo/xlb@0.1.0
+- pkg:cargo/xlb@0.8.13
+- pkg:cargo/xlb@0.8.18
+- pkg:cargo/xlb@0.8.20
+- pkg:cargo/xlb@0.8.21
