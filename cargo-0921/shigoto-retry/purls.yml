@@ -4,6 +4,7 @@
 - pkg:cargo/shigoto-retry@0.1.11
 - pkg:cargo/shigoto-retry@0.1.12
 - pkg:cargo/shigoto-retry@0.1.13
+- pkg:cargo/shigoto-retry@0.1.14
 - pkg:cargo/shigoto-retry@0.1.2
 - pkg:cargo/shigoto-retry@0.1.4
 - pkg:cargo/shigoto-retry@0.1.5
