@@ -20,6 +20,7 @@
 - pkg:cargo/inkbox@0.5.10
 - pkg:cargo/inkbox@0.5.11
 - pkg:cargo/inkbox@0.5.12
+- pkg:cargo/inkbox@0.5.13
 - pkg:cargo/inkbox@0.5.2
 - pkg:cargo/inkbox@0.5.4
 - pkg:cargo/inkbox@0.5.5
