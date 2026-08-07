@@ -22,3 +22,4 @@
 - pkg:cargo/sea-orm-sync@2.0.0-rc.41
 - pkg:cargo/sea-orm-sync@2.0.0-rc.42
 - pkg:cargo/sea-orm-sync@2.0.0-rc.43
+- pkg:cargo/sea-orm-sync@2.0.1
