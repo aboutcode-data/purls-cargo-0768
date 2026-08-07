@@ -1,0 +1,2 @@
+- pkg:cargo/axum-security-oidc@0.0.1
+- pkg:cargo/axum-security-oidc@0.0.2
