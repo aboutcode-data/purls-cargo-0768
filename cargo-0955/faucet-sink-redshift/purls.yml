@@ -1,1 +1,2 @@
 - pkg:cargo/faucet-sink-redshift@1.0.0
+- pkg:cargo/faucet-sink-redshift@1.0.1

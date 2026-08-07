@@ -1,1 +1,2 @@
 - pkg:cargo/faucet-sink-pubsub@1.0.0
+- pkg:cargo/faucet-sink-pubsub@1.0.1
