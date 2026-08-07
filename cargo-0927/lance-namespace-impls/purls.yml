@@ -9,10 +9,16 @@
 - pkg:cargo/lance-namespace-impls@2.0.1
 - pkg:cargo/lance-namespace-impls@3.0.0
 - pkg:cargo/lance-namespace-impls@3.0.1
+- pkg:cargo/lance-namespace-impls@3.0.2
 - pkg:cargo/lance-namespace-impls@4.0.0
 - pkg:cargo/lance-namespace-impls@4.0.1
+- pkg:cargo/lance-namespace-impls@4.0.2
 - pkg:cargo/lance-namespace-impls@6.0.0
 - pkg:cargo/lance-namespace-impls@6.0.1
+- pkg:cargo/lance-namespace-impls@6.1.0
 - pkg:cargo/lance-namespace-impls@7.0.0
+- pkg:cargo/lance-namespace-impls@7.1.0
 - pkg:cargo/lance-namespace-impls@8.0.0
+- pkg:cargo/lance-namespace-impls@8.0.1
 - pkg:cargo/lance-namespace-impls@9.0.0
+- pkg:cargo/lance-namespace-impls@9.0.1

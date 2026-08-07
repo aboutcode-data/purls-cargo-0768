@@ -1,2 +1,5 @@
+- pkg:cargo/lance-select@7.1.0
 - pkg:cargo/lance-select@8.0.0
+- pkg:cargo/lance-select@8.0.1
 - pkg:cargo/lance-select@9.0.0
+- pkg:cargo/lance-select@9.0.1

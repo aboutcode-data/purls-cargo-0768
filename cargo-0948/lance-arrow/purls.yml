@@ -119,10 +119,16 @@
 - pkg:cargo/lance-arrow@2.0.1
 - pkg:cargo/lance-arrow@3.0.0
 - pkg:cargo/lance-arrow@3.0.1
+- pkg:cargo/lance-arrow@3.0.2
 - pkg:cargo/lance-arrow@4.0.0
 - pkg:cargo/lance-arrow@4.0.1
+- pkg:cargo/lance-arrow@4.0.2
 - pkg:cargo/lance-arrow@6.0.0
 - pkg:cargo/lance-arrow@6.0.1
+- pkg:cargo/lance-arrow@6.1.0
 - pkg:cargo/lance-arrow@7.0.0
+- pkg:cargo/lance-arrow@7.1.0
 - pkg:cargo/lance-arrow@8.0.0
+- pkg:cargo/lance-arrow@8.0.1
 - pkg:cargo/lance-arrow@9.0.0
+- pkg:cargo/lance-arrow@9.0.1
