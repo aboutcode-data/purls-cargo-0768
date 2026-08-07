@@ -1,0 +1,2 @@
+- pkg:cargo/azure-jwt-simple-jwks@0.3.2
+- pkg:cargo/azure-jwt-simple-jwks@0.4.0
