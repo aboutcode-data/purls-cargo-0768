@@ -5,3 +5,4 @@
 - pkg:cargo/faucet-common-gcs@1.0.4
 - pkg:cargo/faucet-common-gcs@1.0.5
 - pkg:cargo/faucet-common-gcs@1.0.6
+- pkg:cargo/faucet-common-gcs@1.0.7
