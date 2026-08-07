@@ -1,3 +1,5 @@
 - pkg:cargo/plskit@0.1.0
 - pkg:cargo/plskit@0.2.0
 - pkg:cargo/plskit@0.2.1
+- pkg:cargo/plskit@0.3.0
+- pkg:cargo/plskit@0.4.0
