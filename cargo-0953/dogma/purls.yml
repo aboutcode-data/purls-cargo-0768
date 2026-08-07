@@ -12,3 +12,5 @@
 - pkg:cargo/dogma@0.1.7
 - pkg:cargo/dogma@0.1.8
 - pkg:cargo/dogma@0.1.9
+- pkg:cargo/dogma@0.2.0
+- pkg:cargo/dogma@0.2.1
