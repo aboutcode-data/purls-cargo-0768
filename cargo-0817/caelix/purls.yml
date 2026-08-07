@@ -32,6 +32,7 @@
 - pkg:cargo/caelix@0.0.39
 - pkg:cargo/caelix@0.0.4
 - pkg:cargo/caelix@0.0.40
+- pkg:cargo/caelix@0.0.41
 - pkg:cargo/caelix@0.0.5
 - pkg:cargo/caelix@0.0.6
 - pkg:cargo/caelix@0.0.7
