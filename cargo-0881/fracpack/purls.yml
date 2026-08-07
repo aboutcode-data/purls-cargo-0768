@@ -19,6 +19,8 @@
 - pkg:cargo/fracpack@0.21.0
 - pkg:cargo/fracpack@0.22.0
 - pkg:cargo/fracpack@0.23.0
+- pkg:cargo/fracpack@0.24.0
+- pkg:cargo/fracpack@0.25.0
 - pkg:cargo/fracpack@0.3.0
 - pkg:cargo/fracpack@0.6.0
 - pkg:cargo/fracpack@0.8.0
