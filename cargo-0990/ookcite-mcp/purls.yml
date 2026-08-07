@@ -6,8 +6,10 @@
 - pkg:cargo/ookcite-mcp@0.3.1
 - pkg:cargo/ookcite-mcp@0.4.0
 - pkg:cargo/ookcite-mcp@0.4.1
+- pkg:cargo/ookcite-mcp@0.4.10
 - pkg:cargo/ookcite-mcp@0.4.2
 - pkg:cargo/ookcite-mcp@0.4.3
 - pkg:cargo/ookcite-mcp@0.4.4
 - pkg:cargo/ookcite-mcp@0.4.5
 - pkg:cargo/ookcite-mcp@0.4.8
+- pkg:cargo/ookcite-mcp@0.4.9
