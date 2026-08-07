@@ -75,6 +75,8 @@
 - pkg:cargo/enum-map@2.7.1
 - pkg:cargo/enum-map@2.7.2
 - pkg:cargo/enum-map@2.7.3
+- pkg:cargo/enum-map@3.0.0
 - pkg:cargo/enum-map@3.0.0-0.gat.0
 - pkg:cargo/enum-map@3.0.0-beta.1
 - pkg:cargo/enum-map@3.0.0-beta.2
+- pkg:cargo/enum-map@3.1.0
