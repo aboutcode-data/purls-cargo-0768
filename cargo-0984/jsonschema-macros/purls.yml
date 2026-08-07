@@ -10,3 +10,4 @@
 - pkg:cargo/jsonschema-macros@0.49.3
 - pkg:cargo/jsonschema-macros@0.49.4
 - pkg:cargo/jsonschema-macros@0.49.5
+- pkg:cargo/jsonschema-macros@0.49.6
