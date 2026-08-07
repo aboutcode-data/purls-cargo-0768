@@ -9,3 +9,5 @@
 - pkg:cargo/huginn-net-tls@1.7.3
 - pkg:cargo/huginn-net-tls@1.7.4
 - pkg:cargo/huginn-net-tls@1.7.5
+- pkg:cargo/huginn-net-tls@2.0.0
+- pkg:cargo/huginn-net-tls@2.0.0-rc
