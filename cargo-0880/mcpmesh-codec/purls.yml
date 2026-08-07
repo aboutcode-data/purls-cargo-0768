@@ -91,6 +91,7 @@
 - pkg:cargo/mcpmesh-codec@0.52.2
 - pkg:cargo/mcpmesh-codec@0.52.3
 - pkg:cargo/mcpmesh-codec@0.52.4
+- pkg:cargo/mcpmesh-codec@0.52.5
 - pkg:cargo/mcpmesh-codec@0.6.0
 - pkg:cargo/mcpmesh-codec@0.6.1
 - pkg:cargo/mcpmesh-codec@0.7.0

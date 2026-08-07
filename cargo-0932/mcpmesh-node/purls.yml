@@ -82,6 +82,7 @@
 - pkg:cargo/mcpmesh-node@0.52.2
 - pkg:cargo/mcpmesh-node@0.52.3
 - pkg:cargo/mcpmesh-node@0.52.4
+- pkg:cargo/mcpmesh-node@0.52.5
 - pkg:cargo/mcpmesh-node@0.7.0
 - pkg:cargo/mcpmesh-node@0.7.1
 - pkg:cargo/mcpmesh-node@0.7.2
