@@ -20,3 +20,4 @@
 - pkg:cargo/inlyne@0.5.1
 - pkg:cargo/inlyne@0.5.1-beta
 - pkg:cargo/inlyne@0.5.2
+- pkg:cargo/inlyne@0.5.3
