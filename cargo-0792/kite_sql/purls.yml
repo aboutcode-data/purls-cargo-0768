@@ -9,3 +9,7 @@
 - pkg:cargo/kite_sql@0.1.8
 - pkg:cargo/kite_sql@0.2.0
 - pkg:cargo/kite_sql@0.2.1
+- pkg:cargo/kite_sql@0.3.0
+- pkg:cargo/kite_sql@0.3.1
+- pkg:cargo/kite_sql@0.3.2
+- pkg:cargo/kite_sql@0.3.3
