@@ -1,0 +1,11 @@
+- pkg:cargo/hydra-engine-uds@2.2.1
+- pkg:cargo/hydra-engine-uds@2.3.0
+- pkg:cargo/hydra-engine-uds@3.0.0
+- pkg:cargo/hydra-engine-uds@4.0.0
+- pkg:cargo/hydra-engine-uds@4.0.1
+- pkg:cargo/hydra-engine-uds@5.0.0
+- pkg:cargo/hydra-engine-uds@5.1.0
+- pkg:cargo/hydra-engine-uds@6.0.0
+- pkg:cargo/hydra-engine-uds@7.0.0
+- pkg:cargo/hydra-engine-uds@7.0.1
+- pkg:cargo/hydra-engine-uds@8.0.0
