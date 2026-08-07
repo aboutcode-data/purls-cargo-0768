@@ -1,7 +1,12 @@
 - pkg:cargo/geonetworking@0.1.0
 - pkg:cargo/geonetworking@0.2.0
 - pkg:cargo/geonetworking@0.2.1
+- pkg:cargo/geonetworking@0.3.0
 - pkg:cargo/geonetworking@0.3.0-rc.1
 - pkg:cargo/geonetworking@0.3.0-rc.2
 - pkg:cargo/geonetworking@0.3.0-rc.3
 - pkg:cargo/geonetworking@0.3.0-rc.4
+- pkg:cargo/geonetworking@0.3.0-rc.5
+- pkg:cargo/geonetworking@0.3.0-rc.6
+- pkg:cargo/geonetworking@0.4.0
+- pkg:cargo/geonetworking@0.4.1
