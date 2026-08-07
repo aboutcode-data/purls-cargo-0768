@@ -3,3 +3,5 @@
 - pkg:cargo/bitalino_rs@0.1.13
 - pkg:cargo/bitalino_rs@0.2.1
 - pkg:cargo/bitalino_rs@0.3.1
+- pkg:cargo/bitalino_rs@0.3.2
+- pkg:cargo/bitalino_rs@0.3.3
