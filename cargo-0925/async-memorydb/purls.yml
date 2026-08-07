@@ -6,3 +6,7 @@
 - pkg:cargo/async-memorydb@0.3.0
 - pkg:cargo/async-memorydb@0.3.2
 - pkg:cargo/async-memorydb@0.4.0
+- pkg:cargo/async-memorydb@0.4.2
+- pkg:cargo/async-memorydb@0.4.3
+- pkg:cargo/async-memorydb@0.4.4
+- pkg:cargo/async-memorydb@0.4.5
