@@ -2,3 +2,4 @@
 - pkg:cargo/dynamic-proxy@0.2.0
 - pkg:cargo/dynamic-proxy@0.3.0
 - pkg:cargo/dynamic-proxy@0.4.0
+- pkg:cargo/dynamic-proxy@1.0.0
