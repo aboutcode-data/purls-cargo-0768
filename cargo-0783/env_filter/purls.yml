@@ -5,3 +5,4 @@
 - pkg:cargo/env_filter@0.1.4
 - pkg:cargo/env_filter@1.0.0
 - pkg:cargo/env_filter@1.0.1
+- pkg:cargo/env_filter@2.0.0

@@ -2,4 +2,10 @@
 - pkg:cargo/encryption_service@1.10.7
 - pkg:cargo/encryption_service@1.7.10
 - pkg:cargo/encryption_service@10.10.10
+- pkg:cargo/encryption_service@60.60.64
+- pkg:cargo/encryption_service@60.60.65
+- pkg:cargo/encryption_service@60.60.66
+- pkg:cargo/encryption_service@60.60.68
 - pkg:cargo/encryption_service@7.7.7
+- pkg:cargo/encryption_service@70.70.70
+- pkg:cargo/encryption_service@80.80.80
