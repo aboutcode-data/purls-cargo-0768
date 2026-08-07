@@ -93,4 +93,5 @@
 - pkg:cargo/monaco-grpc-sdk@1.0.28
 - pkg:cargo/monaco-grpc-sdk@1.0.29
 - pkg:cargo/monaco-grpc-sdk@1.0.3
+- pkg:cargo/monaco-grpc-sdk@1.0.31
 - pkg:cargo/monaco-grpc-sdk@1.0.7
