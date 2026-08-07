@@ -48,3 +48,4 @@
 - pkg:cargo/totp-rs@5.7.0
 - pkg:cargo/totp-rs@5.7.1
 - pkg:cargo/totp-rs@5.7.2
+- pkg:cargo/totp-rs@6.0.0
