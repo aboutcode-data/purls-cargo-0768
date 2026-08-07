@@ -6,3 +6,4 @@
 - pkg:cargo/skia-rs-ffi@0.2.4
 - pkg:cargo/skia-rs-ffi@0.2.6
 - pkg:cargo/skia-rs-ffi@0.2.7
+- pkg:cargo/skia-rs-ffi@0.3.0
