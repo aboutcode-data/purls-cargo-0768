@@ -20,3 +20,4 @@
 - pkg:cargo/enum-table@2.1.1
 - pkg:cargo/enum-table@2.1.2
 - pkg:cargo/enum-table@3.0.0
+- pkg:cargo/enum-table@3.0.1
