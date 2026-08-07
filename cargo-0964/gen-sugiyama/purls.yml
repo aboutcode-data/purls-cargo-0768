@@ -2,3 +2,5 @@
 - pkg:cargo/gen-sugiyama@0.1.23
 - pkg:cargo/gen-sugiyama@0.1.30
 - pkg:cargo/gen-sugiyama@0.1.31
+- pkg:cargo/gen-sugiyama@0.2.0
+- pkg:cargo/gen-sugiyama@0.2.1
