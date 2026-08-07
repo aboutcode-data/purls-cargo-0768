@@ -19,3 +19,5 @@
 - pkg:cargo/skabelon@0.1.9
 - pkg:cargo/skabelon@0.2.0
 - pkg:cargo/skabelon@0.2.1
+- pkg:cargo/skabelon@0.2.2
+- pkg:cargo/skabelon@0.2.3
