@@ -1,0 +1,3 @@
+- pkg:cargo/kowitodb-server@0.40.0
+- pkg:cargo/kowitodb-server@0.40.4
+- pkg:cargo/kowitodb-server@0.40.5
