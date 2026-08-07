@@ -47,6 +47,7 @@
 - pkg:cargo/gear-common-codegen@1.1.1
 - pkg:cargo/gear-common-codegen@1.1.1-rc.0
 - pkg:cargo/gear-common-codegen@1.10.0
+- pkg:cargo/gear-common-codegen@1.10.0-600576ccacommit
 - pkg:cargo/gear-common-codegen@1.2.0
 - pkg:cargo/gear-common-codegen@1.2.0-pre.2
 - pkg:cargo/gear-common-codegen@1.2.0-pre.3
@@ -73,3 +74,5 @@
 - pkg:cargo/gear-common-codegen@1.9.0
 - pkg:cargo/gear-common-codegen@1.9.1
 - pkg:cargo/gear-common-codegen@1.9.2
+- pkg:cargo/gear-common-codegen@2.0.0
+- pkg:cargo/gear-common-codegen@2.0.0-pre.1
