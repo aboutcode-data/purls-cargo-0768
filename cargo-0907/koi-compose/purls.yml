@@ -5,3 +5,4 @@
 - pkg:cargo/koi-compose@0.6.0
 - pkg:cargo/koi-compose@0.7.0
 - pkg:cargo/koi-compose@0.9.0
+- pkg:cargo/koi-compose@1.0.0-rc.1
