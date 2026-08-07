@@ -7,3 +7,4 @@
 - pkg:cargo/hypersync-schema@0.3.0
 - pkg:cargo/hypersync-schema@0.3.1
 - pkg:cargo/hypersync-schema@0.4.0
+- pkg:cargo/hypersync-schema@0.5.0-arbitrum-test.0
