@@ -9,4 +9,5 @@
 - pkg:cargo/cargo-rustango@0.45.0
 - pkg:cargo/cargo-rustango@0.46.0
 - pkg:cargo/cargo-rustango@0.48.0
+- pkg:cargo/cargo-rustango@0.51.0
 - pkg:cargo/cargo-rustango@0.8.0
