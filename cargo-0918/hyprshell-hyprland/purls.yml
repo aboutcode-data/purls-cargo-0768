@@ -2,6 +2,12 @@
 - pkg:cargo/hyprshell-hyprland@4.10.2
 - pkg:cargo/hyprshell-hyprland@4.10.3
 - pkg:cargo/hyprshell-hyprland@4.10.4
+- pkg:cargo/hyprshell-hyprland@4.10.5
+- pkg:cargo/hyprshell-hyprland@4.10.6
+- pkg:cargo/hyprshell-hyprland@4.10.7
+- pkg:cargo/hyprshell-hyprland@4.10.8
+- pkg:cargo/hyprshell-hyprland@4.11.0-alpha
+- pkg:cargo/hyprshell-hyprland@4.11.0-alpha.1
 - pkg:cargo/hyprshell-hyprland@4.6.0
 - pkg:cargo/hyprshell-hyprland@4.6.1
 - pkg:cargo/hyprshell-hyprland@4.6.2

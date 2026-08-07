@@ -22,7 +22,12 @@
 - pkg:cargo/hyprwhspr-rs@0.3.25
 - pkg:cargo/hyprwhspr-rs@0.3.26
 - pkg:cargo/hyprwhspr-rs@0.3.27
+- pkg:cargo/hyprwhspr-rs@0.3.28
+- pkg:cargo/hyprwhspr-rs@0.3.29
 - pkg:cargo/hyprwhspr-rs@0.3.3
+- pkg:cargo/hyprwhspr-rs@0.3.30
+- pkg:cargo/hyprwhspr-rs@0.3.31
+- pkg:cargo/hyprwhspr-rs@0.3.32
 - pkg:cargo/hyprwhspr-rs@0.3.4
 - pkg:cargo/hyprwhspr-rs@0.3.5
 - pkg:cargo/hyprwhspr-rs@0.3.6
