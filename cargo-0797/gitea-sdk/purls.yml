@@ -7,3 +7,5 @@
 - pkg:cargo/gitea-sdk@0.5.1
 - pkg:cargo/gitea-sdk@0.6.0
 - pkg:cargo/gitea-sdk@0.6.1
+- pkg:cargo/gitea-sdk@0.6.2
+- pkg:cargo/gitea-sdk@0.6.3
