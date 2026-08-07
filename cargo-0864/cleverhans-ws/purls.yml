@@ -1,0 +1,4 @@
+- pkg:cargo/cleverhans-ws@0.1.2
+- pkg:cargo/cleverhans-ws@0.1.4
+- pkg:cargo/cleverhans-ws@0.1.5
+- pkg:cargo/cleverhans-ws@0.1.6
