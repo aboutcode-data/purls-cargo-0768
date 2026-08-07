@@ -5,6 +5,18 @@
 - pkg:cargo/tmp-rialo-timing@0.1.6
 - pkg:cargo/tmp-rialo-timing@0.1.7
 - pkg:cargo/tmp-rialo-timing@0.1.8
+- pkg:cargo/tmp-rialo-timing@0.10.1
+- pkg:cargo/tmp-rialo-timing@0.10.2
+- pkg:cargo/tmp-rialo-timing@0.11.0
+- pkg:cargo/tmp-rialo-timing@0.11.0-alpha.0
+- pkg:cargo/tmp-rialo-timing@0.11.1
+- pkg:cargo/tmp-rialo-timing@0.11.2
+- pkg:cargo/tmp-rialo-timing@0.12.0
+- pkg:cargo/tmp-rialo-timing@0.12.1
+- pkg:cargo/tmp-rialo-timing@0.12.2
+- pkg:cargo/tmp-rialo-timing@0.15.0-alpha.0
+- pkg:cargo/tmp-rialo-timing@0.16.0-alpha.0
+- pkg:cargo/tmp-rialo-timing@0.17.0-alpha.0
 - pkg:cargo/tmp-rialo-timing@0.2.0
 - pkg:cargo/tmp-rialo-timing@0.2.0-alpha.0
 - pkg:cargo/tmp-rialo-timing@0.2.0-alpha.1
@@ -16,3 +28,5 @@
 - pkg:cargo/tmp-rialo-timing@0.4.1
 - pkg:cargo/tmp-rialo-timing@0.4.2
 - pkg:cargo/tmp-rialo-timing@0.5.0-alpha.0
+- pkg:cargo/tmp-rialo-timing@0.8.0-alpha.0
+- pkg:cargo/tmp-rialo-timing@0.9.0
