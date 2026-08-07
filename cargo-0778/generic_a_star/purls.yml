@@ -42,3 +42,8 @@
 - pkg:cargo/generic_a_star@2.0.5
 - pkg:cargo/generic_a_star@2.1.0
 - pkg:cargo/generic_a_star@2.1.1
+- pkg:cargo/generic_a_star@2.1.2
+- pkg:cargo/generic_a_star@3.0.0
+- pkg:cargo/generic_a_star@4.0.0
+- pkg:cargo/generic_a_star@4.0.1
+- pkg:cargo/generic_a_star@4.1.0
