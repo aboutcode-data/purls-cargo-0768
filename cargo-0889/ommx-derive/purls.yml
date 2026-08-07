@@ -1,1 +1,4 @@
 - pkg:cargo/ommx-derive@3.0.0-alpha.1
+- pkg:cargo/ommx-derive@3.0.0-alpha.2
+- pkg:cargo/ommx-derive@3.0.0-beta.1
+- pkg:cargo/ommx-derive@3.0.0-beta.2
