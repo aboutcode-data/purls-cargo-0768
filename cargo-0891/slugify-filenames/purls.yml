@@ -1,0 +1,4 @@
+- pkg:cargo/slugify-filenames@0.5.1
+- pkg:cargo/slugify-filenames@0.5.3
+- pkg:cargo/slugify-filenames@0.6.0
+- pkg:cargo/slugify-filenames@0.7.1

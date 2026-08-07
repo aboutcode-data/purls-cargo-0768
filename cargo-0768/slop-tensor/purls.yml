@@ -6,3 +6,8 @@
 - pkg:cargo/slop-tensor@6.1.0
 - pkg:cargo/slop-tensor@6.2.0
 - pkg:cargo/slop-tensor@6.2.1
+- pkg:cargo/slop-tensor@6.2.2
+- pkg:cargo/slop-tensor@6.2.3
+- pkg:cargo/slop-tensor@6.2.4
+- pkg:cargo/slop-tensor@6.3.0
+- pkg:cargo/slop-tensor@6.3.1
