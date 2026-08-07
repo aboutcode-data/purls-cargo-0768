@@ -14,3 +14,4 @@
 - pkg:cargo/publish-crates@0.0.26
 - pkg:cargo/publish-crates@0.0.28
 - pkg:cargo/publish-crates@0.0.29
+- pkg:cargo/publish-crates@0.1.0
