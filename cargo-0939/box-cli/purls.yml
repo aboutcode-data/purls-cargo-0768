@@ -91,3 +91,4 @@
 - pkg:cargo/box-cli@0.3.0
 - pkg:cargo/box-cli@0.5.0
 - pkg:cargo/box-cli@0.5.1
+- pkg:cargo/box-cli@0.5.2
