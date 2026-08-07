@@ -8,3 +8,6 @@
 - pkg:cargo/frodo-kem-rs@0.5.0-rc0
 - pkg:cargo/frodo-kem-rs@0.5.0-rc1
 - pkg:cargo/frodo-kem-rs@0.6.0
+- pkg:cargo/frodo-kem-rs@0.7.0
+- pkg:cargo/frodo-kem-rs@0.8.0
+- pkg:cargo/frodo-kem-rs@0.9.0
