@@ -37,6 +37,7 @@
 - pkg:cargo/tor-hscrypto@0.42.0
 - pkg:cargo/tor-hscrypto@0.43.0
 - pkg:cargo/tor-hscrypto@0.44.0
+- pkg:cargo/tor-hscrypto@0.45.0
 - pkg:cargo/tor-hscrypto@0.5.0
 - pkg:cargo/tor-hscrypto@0.6.0
 - pkg:cargo/tor-hscrypto@0.6.1
