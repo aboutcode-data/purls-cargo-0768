@@ -33,6 +33,8 @@
 - pkg:cargo/frame-benchmarking-pallet-pov@35.0.0
 - pkg:cargo/frame-benchmarking-pallet-pov@36.0.0
 - pkg:cargo/frame-benchmarking-pallet-pov@37.0.0
+- pkg:cargo/frame-benchmarking-pallet-pov@38.0.0
+- pkg:cargo/frame-benchmarking-pallet-pov@39.0.0
 - pkg:cargo/frame-benchmarking-pallet-pov@4.0.0
 - pkg:cargo/frame-benchmarking-pallet-pov@5.0.0
 - pkg:cargo/frame-benchmarking-pallet-pov@6.0.0
