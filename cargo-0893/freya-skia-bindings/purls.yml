@@ -9,3 +9,9 @@
 - pkg:cargo/freya-skia-bindings@0.95.0
 - pkg:cargo/freya-skia-bindings@0.96.0
 - pkg:cargo/freya-skia-bindings@0.96.1
+- pkg:cargo/freya-skia-bindings@0.97.2
+- pkg:cargo/freya-skia-bindings@0.97.3
+- pkg:cargo/freya-skia-bindings@0.97.5
+- pkg:cargo/freya-skia-bindings@0.97.6
+- pkg:cargo/freya-skia-bindings@0.98.0
+- pkg:cargo/freya-skia-bindings@0.98.1

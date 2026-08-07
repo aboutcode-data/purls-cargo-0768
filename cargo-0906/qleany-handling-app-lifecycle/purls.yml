@@ -1,4 +1,8 @@
+- pkg:cargo/qleany-handling-app-lifecycle@1.10.0
 - pkg:cargo/qleany-handling-app-lifecycle@1.6.1
 - pkg:cargo/qleany-handling-app-lifecycle@1.7.1
 - pkg:cargo/qleany-handling-app-lifecycle@1.7.2
 - pkg:cargo/qleany-handling-app-lifecycle@1.7.3
+- pkg:cargo/qleany-handling-app-lifecycle@1.7.8
+- pkg:cargo/qleany-handling-app-lifecycle@1.8.0
+- pkg:cargo/qleany-handling-app-lifecycle@1.9.0
