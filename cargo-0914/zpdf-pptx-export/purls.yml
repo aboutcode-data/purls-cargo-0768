@@ -1,1 +1,3 @@
 - pkg:cargo/zpdf-pptx-export@0.11.0
+- pkg:cargo/zpdf-pptx-export@0.12.0
+- pkg:cargo/zpdf-pptx-export@0.12.1
