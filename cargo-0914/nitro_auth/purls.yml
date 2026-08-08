@@ -3,3 +3,4 @@
 - pkg:cargo/nitro_auth@0.28.0
 - pkg:cargo/nitro_auth@0.29.0
 - pkg:cargo/nitro_auth@0.30.0
+- pkg:cargo/nitro_auth@0.31.0

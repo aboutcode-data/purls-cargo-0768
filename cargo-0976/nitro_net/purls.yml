@@ -3,3 +3,4 @@
 - pkg:cargo/nitro_net@0.28.0
 - pkg:cargo/nitro_net@0.29.0
 - pkg:cargo/nitro_net@0.30.0
+- pkg:cargo/nitro_net@0.31.0
