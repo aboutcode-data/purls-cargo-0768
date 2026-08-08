@@ -5,4 +5,5 @@
 - pkg:cargo/dhara_storage@0.8.0
 - pkg:cargo/dhara_storage@0.9.0
 - pkg:cargo/dhara_storage@0.9.22
+- pkg:cargo/dhara_storage@0.9.23
 - pkg:cargo/dhara_storage@0.9.6
