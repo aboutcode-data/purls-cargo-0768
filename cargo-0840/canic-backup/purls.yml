@@ -111,6 +111,7 @@
 - pkg:cargo/canic-backup@0.101.18
 - pkg:cargo/canic-backup@0.101.19
 - pkg:cargo/canic-backup@0.101.20
+- pkg:cargo/canic-backup@0.101.21
 - pkg:cargo/canic-backup@0.101.8
 - pkg:cargo/canic-backup@0.101.9
 - pkg:cargo/canic-backup@0.30.0
