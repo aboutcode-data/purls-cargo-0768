@@ -120,6 +120,7 @@
 - pkg:cargo/canic-control-plane@0.101.29
 - pkg:cargo/canic-control-plane@0.101.30
 - pkg:cargo/canic-control-plane@0.101.32
+- pkg:cargo/canic-control-plane@0.101.33
 - pkg:cargo/canic-control-plane@0.101.8
 - pkg:cargo/canic-control-plane@0.101.9
 - pkg:cargo/canic-control-plane@0.19.1
