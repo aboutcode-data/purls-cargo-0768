@@ -22,3 +22,5 @@
 - pkg:cargo/horus@0.6.8
 - pkg:cargo/horus@0.6.9
 - pkg:cargo/horus@0.7.0
+- pkg:cargo/horus@0.7.1
+- pkg:cargo/horus@0.7.2
