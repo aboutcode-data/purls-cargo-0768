@@ -5,3 +5,5 @@
 - pkg:cargo/monty@0.0.19-beta.4
 - pkg:cargo/monty@0.0.19-beta.5
 - pkg:cargo/monty@0.0.19-beta.6
+- pkg:cargo/monty@0.0.20
+- pkg:cargo/monty@0.0.21

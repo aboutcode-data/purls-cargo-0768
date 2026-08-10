@@ -5,3 +5,4 @@
 - pkg:cargo/monty-proto@0.0.19-beta.4
 - pkg:cargo/monty-proto@0.0.19-beta.5
 - pkg:cargo/monty-proto@0.0.19-beta.6
+- pkg:cargo/monty-proto@0.0.21
