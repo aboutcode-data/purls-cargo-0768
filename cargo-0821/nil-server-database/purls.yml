@@ -38,6 +38,7 @@
 - pkg:cargo/nil-server-database@0.7.19
 - pkg:cargo/nil-server-database@0.7.2
 - pkg:cargo/nil-server-database@0.7.20
+- pkg:cargo/nil-server-database@0.7.21
 - pkg:cargo/nil-server-database@0.7.3
 - pkg:cargo/nil-server-database@0.7.4
 - pkg:cargo/nil-server-database@0.7.5
