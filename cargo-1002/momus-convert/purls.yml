@@ -48,6 +48,9 @@
 - pkg:cargo/momus-convert@0.7.43
 - pkg:cargo/momus-convert@0.7.44
 - pkg:cargo/momus-convert@0.7.45
+- pkg:cargo/momus-convert@0.7.46
+- pkg:cargo/momus-convert@0.7.47
+- pkg:cargo/momus-convert@0.7.48
 - pkg:cargo/momus-convert@0.7.5
 - pkg:cargo/momus-convert@0.7.6
 - pkg:cargo/momus-convert@0.7.7
