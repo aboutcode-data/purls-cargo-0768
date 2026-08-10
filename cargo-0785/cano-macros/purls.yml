@@ -9,3 +9,5 @@
 - pkg:cargo/cano-macros@0.13.1
 - pkg:cargo/cano-macros@0.13.2
 - pkg:cargo/cano-macros@0.14.0
+- pkg:cargo/cano-macros@0.15.0
+- pkg:cargo/cano-macros@0.15.1
