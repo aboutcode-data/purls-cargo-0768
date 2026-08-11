@@ -10,3 +10,4 @@
 - pkg:cargo/microsoft-webui-dev-server@0.0.20
 - pkg:cargo/microsoft-webui-dev-server@0.0.21
 - pkg:cargo/microsoft-webui-dev-server@0.0.22
+- pkg:cargo/microsoft-webui-dev-server@0.0.23
