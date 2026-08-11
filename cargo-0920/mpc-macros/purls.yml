@@ -35,3 +35,4 @@
 - pkg:cargo/mpc-macros@0.8.0
 - pkg:cargo/mpc-macros@0.8.0-rc.0
 - pkg:cargo/mpc-macros@0.8.1
+- pkg:cargo/mpc-macros@0.8.2
