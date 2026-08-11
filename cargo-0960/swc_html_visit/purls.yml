@@ -178,6 +178,7 @@
 - pkg:cargo/swc_html_visit@22.0.0
 - pkg:cargo/swc_html_visit@23.0.0
 - pkg:cargo/swc_html_visit@24.0.0
+- pkg:cargo/swc_html_visit@25.0.0
 - pkg:cargo/swc_html_visit@3.0.0
 - pkg:cargo/swc_html_visit@4.0.0
 - pkg:cargo/swc_html_visit@4.0.1

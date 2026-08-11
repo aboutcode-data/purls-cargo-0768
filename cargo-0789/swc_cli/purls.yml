@@ -44,6 +44,7 @@
 - pkg:cargo/swc_cli@0.119.4
 - pkg:cargo/swc_cli@0.12.0
 - pkg:cargo/swc_cli@0.120.0
+- pkg:cargo/swc_cli@0.121.0
 - pkg:cargo/swc_cli@0.13.0
 - pkg:cargo/swc_cli@0.14.0
 - pkg:cargo/swc_cli@0.14.1
