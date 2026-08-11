@@ -28,6 +28,7 @@
 - pkg:cargo/swc_icu_messageformat_parser@32.0.0
 - pkg:cargo/swc_icu_messageformat_parser@33.0.0
 - pkg:cargo/swc_icu_messageformat_parser@34.0.0
+- pkg:cargo/swc_icu_messageformat_parser@35.0.0
 - pkg:cargo/swc_icu_messageformat_parser@4.0.0
 - pkg:cargo/swc_icu_messageformat_parser@5.0.0
 - pkg:cargo/swc_icu_messageformat_parser@6.0.0

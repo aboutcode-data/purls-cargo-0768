@@ -115,6 +115,7 @@
 - pkg:cargo/swc_ecma_testing@24.0.0
 - pkg:cargo/swc_ecma_testing@24.0.1
 - pkg:cargo/swc_ecma_testing@25.0.0
+- pkg:cargo/swc_ecma_testing@26.0.0
 - pkg:cargo/swc_ecma_testing@3.0.0
 - pkg:cargo/swc_ecma_testing@4.0.0
 - pkg:cargo/swc_ecma_testing@5.0.0
