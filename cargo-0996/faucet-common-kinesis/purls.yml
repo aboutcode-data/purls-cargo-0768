@@ -1,3 +1,4 @@
 - pkg:cargo/faucet-common-kinesis@1.0.0
 - pkg:cargo/faucet-common-kinesis@1.0.1
 - pkg:cargo/faucet-common-kinesis@1.0.2
+- pkg:cargo/faucet-common-kinesis@1.0.3

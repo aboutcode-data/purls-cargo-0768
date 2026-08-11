@@ -8,3 +8,4 @@
 - pkg:cargo/faucet-sink-stdout@1.1.5
 - pkg:cargo/faucet-sink-stdout@1.2.0
 - pkg:cargo/faucet-sink-stdout@1.2.1
+- pkg:cargo/faucet-sink-stdout@1.2.2
