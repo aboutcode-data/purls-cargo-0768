@@ -8,3 +8,4 @@
 - pkg:cargo/sdl3-image-sys@0.6.1%2BSDL-image-3.4.0
 - pkg:cargo/sdl3-image-sys@0.6.2%2BSDL-image-3.4.2
 - pkg:cargo/sdl3-image-sys@0.6.3%2BSDL-image-3.4.4
+- pkg:cargo/sdl3-image-sys@0.6.4%2BSDL-image-3.4.4

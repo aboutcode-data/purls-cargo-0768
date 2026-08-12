@@ -23,6 +23,9 @@
 - pkg:cargo/sdl3-src@3.3.4-prerelease
 - pkg:cargo/sdl3-src@3.3.6-prerelease
 - pkg:cargo/sdl3-src@3.4.0
+- pkg:cargo/sdl3-src@3.4.10
+- pkg:cargo/sdl3-src@3.4.12
+- pkg:cargo/sdl3-src@3.4.14
 - pkg:cargo/sdl3-src@3.4.2
 - pkg:cargo/sdl3-src@3.4.4
 - pkg:cargo/sdl3-src@3.4.6
