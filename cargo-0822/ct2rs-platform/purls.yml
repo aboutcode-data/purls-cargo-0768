@@ -1,3 +1,4 @@
+- pkg:cargo/ct2rs-platform@0.10.0
 - pkg:cargo/ct2rs-platform@0.9.10
 - pkg:cargo/ct2rs-platform@0.9.11
 - pkg:cargo/ct2rs-platform@0.9.12
@@ -7,5 +8,8 @@
 - pkg:cargo/ct2rs-platform@0.9.16
 - pkg:cargo/ct2rs-platform@0.9.17
 - pkg:cargo/ct2rs-platform@0.9.18
+- pkg:cargo/ct2rs-platform@0.9.19
+- pkg:cargo/ct2rs-platform@0.9.21
+- pkg:cargo/ct2rs-platform@0.9.22
 - pkg:cargo/ct2rs-platform@0.9.8
 - pkg:cargo/ct2rs-platform@0.9.9
