@@ -16,6 +16,7 @@
 - pkg:cargo/apistos-shuttle@0.5.1
 - pkg:cargo/apistos-shuttle@0.5.2
 - pkg:cargo/apistos-shuttle@0.6.0
+- pkg:cargo/apistos-shuttle@0.6.1
 - pkg:cargo/apistos-shuttle@1.0.0-pre-release.1
 - pkg:cargo/apistos-shuttle@1.0.0-pre-release.10
 - pkg:cargo/apistos-shuttle@1.0.0-pre-release.11
