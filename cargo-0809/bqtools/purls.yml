@@ -37,6 +37,8 @@
 - pkg:cargo/bqtools@0.4.9
 - pkg:cargo/bqtools@0.5.0
 - pkg:cargo/bqtools@0.5.1
+- pkg:cargo/bqtools@0.5.11
+- pkg:cargo/bqtools@0.5.12
 - pkg:cargo/bqtools@0.5.2
 - pkg:cargo/bqtools@0.5.3
 - pkg:cargo/bqtools@0.5.4
