@@ -27,6 +27,7 @@
 - pkg:cargo/apistos-gen@0.5.1
 - pkg:cargo/apistos-gen@0.5.2
 - pkg:cargo/apistos-gen@0.6.0
+- pkg:cargo/apistos-gen@0.6.1
 - pkg:cargo/apistos-gen@1.0.0-pre-release.1
 - pkg:cargo/apistos-gen@1.0.0-pre-release.10
 - pkg:cargo/apistos-gen@1.0.0-pre-release.11
