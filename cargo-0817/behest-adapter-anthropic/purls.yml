@@ -1,0 +1,3 @@
+- pkg:cargo/behest-adapter-anthropic@0.5.7
+- pkg:cargo/behest-adapter-anthropic@0.5.8
+- pkg:cargo/behest-adapter-anthropic@0.5.9
