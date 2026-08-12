@@ -1,0 +1,3 @@
+- pkg:cargo/sdkt-storage@0.6.0-alpha
+- pkg:cargo/sdkt-storage@2.0.0
+- pkg:cargo/sdkt-storage@2.4.0

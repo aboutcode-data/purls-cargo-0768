@@ -1,0 +1,3 @@
+- pkg:cargo/sdkt-cli@0.6.0-alpha
+- pkg:cargo/sdkt-cli@2.0.0
+- pkg:cargo/sdkt-cli@2.4.0
