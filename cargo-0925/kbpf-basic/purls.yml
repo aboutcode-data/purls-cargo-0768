@@ -2,3 +2,6 @@
 - pkg:cargo/kbpf-basic@0.4.0
 - pkg:cargo/kbpf-basic@0.5.0
 - pkg:cargo/kbpf-basic@0.5.5
+- pkg:cargo/kbpf-basic@0.5.6
+- pkg:cargo/kbpf-basic@0.5.7
+- pkg:cargo/kbpf-basic@0.6.0
