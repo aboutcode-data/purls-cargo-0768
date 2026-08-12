@@ -29,3 +29,7 @@
 - pkg:cargo/num-bigint@0.4.4
 - pkg:cargo/num-bigint@0.4.5
 - pkg:cargo/num-bigint@0.4.6
+- pkg:cargo/num-bigint@0.4.7
+- pkg:cargo/num-bigint@0.4.8
+- pkg:cargo/num-bigint@0.5.0
+- pkg:cargo/num-bigint@0.5.1
