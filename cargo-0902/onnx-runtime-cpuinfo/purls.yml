@@ -1,2 +1,4 @@
 - pkg:cargo/onnx-runtime-cpuinfo@0.1.0-dev.2
 - pkg:cargo/onnx-runtime-cpuinfo@0.1.0-dev.3
+- pkg:cargo/onnx-runtime-cpuinfo@0.1.0-dev.4
+- pkg:cargo/onnx-runtime-cpuinfo@0.1.0-dev.5
