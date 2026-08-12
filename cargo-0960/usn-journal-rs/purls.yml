@@ -5,3 +5,4 @@
 - pkg:cargo/usn-journal-rs@0.2.2
 - pkg:cargo/usn-journal-rs@0.3.0
 - pkg:cargo/usn-journal-rs@0.4.0
+- pkg:cargo/usn-journal-rs@0.4.1
