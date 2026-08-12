@@ -28,3 +28,4 @@
 - pkg:cargo/expo_push_notification_client@1.0.8
 - pkg:cargo/expo_push_notification_client@2.0.0
 - pkg:cargo/expo_push_notification_client@2.0.1
+- pkg:cargo/expo_push_notification_client@2.0.2
