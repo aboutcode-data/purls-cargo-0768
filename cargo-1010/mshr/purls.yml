@@ -1,2 +1,4 @@
 - pkg:cargo/mshr@0.8.18
 - pkg:cargo/mshr@0.8.20
+- pkg:cargo/mshr@0.8.21
+- pkg:cargo/mshr@0.8.22
