@@ -40,3 +40,7 @@
 - pkg:cargo/rrtk@0.7.0-alpha.7
 - pkg:cargo/rrtk@0.7.0-alpha.8
 - pkg:cargo/rrtk@0.7.0-alpha.9
+- pkg:cargo/rrtk@0.7.0-beta.0
+- pkg:cargo/rrtk@0.7.0-beta.1
+- pkg:cargo/rrtk@0.7.0-beta.2
+- pkg:cargo/rrtk@0.7.0-beta.3
