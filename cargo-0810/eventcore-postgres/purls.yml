@@ -12,3 +12,12 @@
 - pkg:cargo/eventcore-postgres@0.7.0
 - pkg:cargo/eventcore-postgres@0.7.1
 - pkg:cargo/eventcore-postgres@0.8.0
+- pkg:cargo/eventcore-postgres@0.8.1
+- pkg:cargo/eventcore-postgres@0.9.0
+- pkg:cargo/eventcore-postgres@1.0.0
+- pkg:cargo/eventcore-postgres@1.0.1
+- pkg:cargo/eventcore-postgres@1.0.2
+- pkg:cargo/eventcore-postgres@1.1.0
+- pkg:cargo/eventcore-postgres@1.1.0-alpha.1
+- pkg:cargo/eventcore-postgres@1.1.1
+- pkg:cargo/eventcore-postgres@2.0.0
