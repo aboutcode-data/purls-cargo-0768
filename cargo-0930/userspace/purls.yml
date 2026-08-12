@@ -9,3 +9,4 @@
 - pkg:cargo/userspace@0.1.124
 - pkg:cargo/userspace@0.1.127
 - pkg:cargo/userspace@0.1.128
+- pkg:cargo/userspace@0.2.0
