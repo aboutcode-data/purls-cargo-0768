@@ -7,3 +7,4 @@
 - pkg:cargo/api_clients_core@0.1.1
 - pkg:cargo/api_clients_core@0.2.0
 - pkg:cargo/api_clients_core@0.2.1
+- pkg:cargo/api_clients_core@0.3.0
