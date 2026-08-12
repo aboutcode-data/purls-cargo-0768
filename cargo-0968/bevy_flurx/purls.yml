@@ -9,6 +9,8 @@
 - pkg:cargo/bevy_flurx@0.13.0
 - pkg:cargo/bevy_flurx@0.14.0
 - pkg:cargo/bevy_flurx@0.14.1
+- pkg:cargo/bevy_flurx@0.14.2
+- pkg:cargo/bevy_flurx@0.15.0
 - pkg:cargo/bevy_flurx@0.3.0
 - pkg:cargo/bevy_flurx@0.3.1
 - pkg:cargo/bevy_flurx@0.3.2
