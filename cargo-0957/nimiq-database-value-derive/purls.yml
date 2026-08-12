@@ -10,3 +10,4 @@
 - pkg:cargo/nimiq-database-value-derive@1.7.0
 - pkg:cargo/nimiq-database-value-derive@1.7.1
 - pkg:cargo/nimiq-database-value-derive@1.7.2
+- pkg:cargo/nimiq-database-value-derive@2.0.0
