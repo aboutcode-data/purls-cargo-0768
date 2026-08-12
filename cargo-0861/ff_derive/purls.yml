@@ -6,7 +6,9 @@
 - pkg:cargo/ff_derive@0.12.1
 - pkg:cargo/ff_derive@0.13.0
 - pkg:cargo/ff_derive@0.13.1
+- pkg:cargo/ff_derive@0.14.0
 - pkg:cargo/ff_derive@0.14.0-pre.0
+- pkg:cargo/ff_derive@0.14.0-pre.1
 - pkg:cargo/ff_derive@0.2.0
 - pkg:cargo/ff_derive@0.3.0
 - pkg:cargo/ff_derive@0.4.0
