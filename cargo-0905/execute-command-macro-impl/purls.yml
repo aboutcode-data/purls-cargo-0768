@@ -11,3 +11,5 @@
 - pkg:cargo/execute-command-macro-impl@0.1.7
 - pkg:cargo/execute-command-macro-impl@0.1.8
 - pkg:cargo/execute-command-macro-impl@0.1.9
+- pkg:cargo/execute-command-macro-impl@0.3.0
+- pkg:cargo/execute-command-macro-impl@0.3.1
