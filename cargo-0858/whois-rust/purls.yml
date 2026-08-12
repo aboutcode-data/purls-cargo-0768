@@ -28,3 +28,7 @@
 - pkg:cargo/whois-rust@1.5.1
 - pkg:cargo/whois-rust@1.5.2
 - pkg:cargo/whois-rust@1.6.0
+- pkg:cargo/whois-rust@2.0.0
+- pkg:cargo/whois-rust@2.1.0
+- pkg:cargo/whois-rust@3.0.0
+- pkg:cargo/whois-rust@3.1.0
