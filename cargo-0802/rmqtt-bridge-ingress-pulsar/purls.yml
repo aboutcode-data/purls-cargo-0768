@@ -13,3 +13,4 @@
 - pkg:cargo/rmqtt-bridge-ingress-pulsar@0.20.0
 - pkg:cargo/rmqtt-bridge-ingress-pulsar@0.21.0
 - pkg:cargo/rmqtt-bridge-ingress-pulsar@0.22.0
+- pkg:cargo/rmqtt-bridge-ingress-pulsar@0.23.1
