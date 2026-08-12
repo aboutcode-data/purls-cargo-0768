@@ -54,3 +54,8 @@
 - pkg:cargo/byte-unit@5.1.5
 - pkg:cargo/byte-unit@5.1.6
 - pkg:cargo/byte-unit@5.2.0
+- pkg:cargo/byte-unit@5.2.1
+- pkg:cargo/byte-unit@5.2.2
+- pkg:cargo/byte-unit@5.2.3
+- pkg:cargo/byte-unit@5.2.4
+- pkg:cargo/byte-unit@5.2.5
