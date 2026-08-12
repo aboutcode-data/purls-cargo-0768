@@ -19,3 +19,4 @@
 - pkg:cargo/formualizer-eval@0.7.1
 - pkg:cargo/formualizer-eval@0.8.0
 - pkg:cargo/formualizer-eval@0.8.1
+- pkg:cargo/formualizer-eval@0.8.2
