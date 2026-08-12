@@ -1,5 +1,6 @@
 - pkg:cargo/hotl-retrieval@0.11.0
 - pkg:cargo/hotl-retrieval@0.12.0
+- pkg:cargo/hotl-retrieval@0.13.0
 - pkg:cargo/hotl-retrieval@0.6.2
 - pkg:cargo/hotl-retrieval@0.7.0
 - pkg:cargo/hotl-retrieval@0.7.1
