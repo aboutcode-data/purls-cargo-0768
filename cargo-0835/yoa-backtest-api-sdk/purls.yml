@@ -5,5 +5,13 @@
 - pkg:cargo/yoa-backtest-api-sdk@11.0.0
 - pkg:cargo/yoa-backtest-api-sdk@11.0.1
 - pkg:cargo/yoa-backtest-api-sdk@11.0.2
+- pkg:cargo/yoa-backtest-api-sdk@11.1.0
+- pkg:cargo/yoa-backtest-api-sdk@11.2.0
+- pkg:cargo/yoa-backtest-api-sdk@12.0.0
+- pkg:cargo/yoa-backtest-api-sdk@13.0.0
+- pkg:cargo/yoa-backtest-api-sdk@14.0.0
+- pkg:cargo/yoa-backtest-api-sdk@15.0.0
+- pkg:cargo/yoa-backtest-api-sdk@15.1.0
+- pkg:cargo/yoa-backtest-api-sdk@16.0.0
 - pkg:cargo/yoa-backtest-api-sdk@9.0.1
 - pkg:cargo/yoa-backtest-api-sdk@9.0.2
