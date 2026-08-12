@@ -1,2 +1,4 @@
 - pkg:cargo/qtbridge@0.1.0
 - pkg:cargo/qtbridge@0.1.4
+- pkg:cargo/qtbridge@0.1.9
+- pkg:cargo/qtbridge@0.2.0
