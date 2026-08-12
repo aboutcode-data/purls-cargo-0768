@@ -31,3 +31,6 @@
 - pkg:cargo/dwbase-swarm-nats@1.2.0-dev.28928943770
 - pkg:cargo/dwbase-swarm-nats@1.2.0-dev.29557917836
 - pkg:cargo/dwbase-swarm-nats@1.2.0-dev.29634952950
+- pkg:cargo/dwbase-swarm-nats@1.2.0-dev.30555604139
+- pkg:cargo/dwbase-swarm-nats@1.2.0-dev.30609667272
+- pkg:cargo/dwbase-swarm-nats@1.2.0-dev.31083191222
