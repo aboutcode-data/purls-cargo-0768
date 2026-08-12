@@ -1,2 +1,4 @@
 - pkg:cargo/hfx-validator@0.1.25
 - pkg:cargo/hfx-validator@0.1.26
+- pkg:cargo/hfx-validator@0.3.0
+- pkg:cargo/hfx-validator@0.4.0
