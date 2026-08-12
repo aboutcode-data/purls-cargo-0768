@@ -1,2 +1,6 @@
 - pkg:cargo/hygg-server@0.1.14
 - pkg:cargo/hygg-server@0.1.15
+- pkg:cargo/hygg-server@0.1.23
+- pkg:cargo/hygg-server@0.1.24
+- pkg:cargo/hygg-server@0.1.25
+- pkg:cargo/hygg-server@0.1.26
