@@ -23,3 +23,4 @@
 - pkg:cargo/miden-project@0.25.8
 - pkg:cargo/miden-project@0.28.0
 - pkg:cargo/miden-project@0.29.0
+- pkg:cargo/miden-project@0.29.1
