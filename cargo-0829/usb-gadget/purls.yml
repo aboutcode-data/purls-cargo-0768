@@ -17,3 +17,4 @@
 - pkg:cargo/usb-gadget@1.0.0
 - pkg:cargo/usb-gadget@1.1.0
 - pkg:cargo/usb-gadget@1.1.1
+- pkg:cargo/usb-gadget@1.2.0
