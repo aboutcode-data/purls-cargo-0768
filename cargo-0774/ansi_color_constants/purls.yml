@@ -3,3 +3,4 @@
 - pkg:cargo/ansi_color_constants@1.0.2
 - pkg:cargo/ansi_color_constants@2.0.2
 - pkg:cargo/ansi_color_constants@3.0.0
+- pkg:cargo/ansi_color_constants@4.0.0
