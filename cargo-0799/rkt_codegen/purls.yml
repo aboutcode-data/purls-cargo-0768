@@ -1,3 +1,5 @@
 - pkg:cargo/rkt_codegen@0.6.0
 - pkg:cargo/rkt_codegen@1.0.0
 - pkg:cargo/rkt_codegen@1.0.1
+- pkg:cargo/rkt_codegen@1.1.0
+- pkg:cargo/rkt_codegen@1.2.0
