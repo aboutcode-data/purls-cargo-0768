@@ -34,3 +34,5 @@
 - pkg:cargo/gstd@1.9.0
 - pkg:cargo/gstd@1.9.1
 - pkg:cargo/gstd@1.9.2
+- pkg:cargo/gstd@2.0.0
+- pkg:cargo/gstd@2.0.0-pre.1
