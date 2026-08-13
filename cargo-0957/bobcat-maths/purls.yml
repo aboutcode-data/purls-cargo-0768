@@ -59,3 +59,5 @@
 - pkg:cargo/bobcat-maths@0.7.7
 - pkg:cargo/bobcat-maths@0.7.8
 - pkg:cargo/bobcat-maths@0.7.9
+- pkg:cargo/bobcat-maths@0.8.1
+- pkg:cargo/bobcat-maths@0.8.2
