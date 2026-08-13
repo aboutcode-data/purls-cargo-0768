@@ -4,3 +4,4 @@
 - pkg:cargo/lx-cli@0.1.4
 - pkg:cargo/lx-cli@0.1.5
 - pkg:cargo/lx-cli@0.1.6
+- pkg:cargo/lx-cli@0.2.0
