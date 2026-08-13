@@ -45,3 +45,4 @@
 - pkg:cargo/knot@1.5.6
 - pkg:cargo/knot@1.5.7
 - pkg:cargo/knot@1.6.0
+- pkg:cargo/knot@1.6.1
