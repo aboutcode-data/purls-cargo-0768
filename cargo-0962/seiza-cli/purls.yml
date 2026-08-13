@@ -13,6 +13,9 @@
 - pkg:cargo/seiza-cli@0.14.0
 - pkg:cargo/seiza-cli@0.15.0
 - pkg:cargo/seiza-cli@0.15.1
+- pkg:cargo/seiza-cli@0.15.2
+- pkg:cargo/seiza-cli@0.15.4
+- pkg:cargo/seiza-cli@0.15.5
 - pkg:cargo/seiza-cli@0.2.0
 - pkg:cargo/seiza-cli@0.2.1
 - pkg:cargo/seiza-cli@0.2.2
