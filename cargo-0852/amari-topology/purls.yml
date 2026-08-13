@@ -7,3 +7,6 @@
 - pkg:cargo/amari-topology@0.20.0
 - pkg:cargo/amari-topology@0.21.0
 - pkg:cargo/amari-topology@0.22.0
+- pkg:cargo/amari-topology@0.23.0
+- pkg:cargo/amari-topology@0.24.0
+- pkg:cargo/amari-topology@0.24.1
