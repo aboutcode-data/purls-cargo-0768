@@ -2,6 +2,8 @@
 - pkg:cargo/cf-gears-toolkit-db@0.10.1
 - pkg:cargo/cf-gears-toolkit-db@0.11.0
 - pkg:cargo/cf-gears-toolkit-db@0.11.1
+- pkg:cargo/cf-gears-toolkit-db@0.11.2
+- pkg:cargo/cf-gears-toolkit-db@0.11.3
 - pkg:cargo/cf-gears-toolkit-db@0.8.2
 - pkg:cargo/cf-gears-toolkit-db@0.8.3
 - pkg:cargo/cf-gears-toolkit-db@0.8.4

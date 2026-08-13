@@ -8,3 +8,4 @@
 - pkg:cargo/cf-gears-authn-resolver-sdk@0.3.23
 - pkg:cargo/cf-gears-authn-resolver-sdk@0.3.24
 - pkg:cargo/cf-gears-authn-resolver-sdk@0.3.25
+- pkg:cargo/cf-gears-authn-resolver-sdk@0.3.26
