@@ -8,3 +8,4 @@
 - pkg:cargo/anari_sys@0.1.7%2Banari.0.14.0
 - pkg:cargo/anari_sys@0.1.8%2Banari.0.14.1
 - pkg:cargo/anari_sys@0.2.0%2Banari.0.15.0
+- pkg:cargo/anari_sys@0.3.0%2Banari.0.16.0
