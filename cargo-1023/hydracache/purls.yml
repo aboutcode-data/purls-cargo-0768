@@ -68,6 +68,7 @@
 - pkg:cargo/hydracache@0.65.0
 - pkg:cargo/hydracache@0.66.0
 - pkg:cargo/hydracache@0.67.0
+- pkg:cargo/hydracache@0.68.0
 - pkg:cargo/hydracache@0.7.0
 - pkg:cargo/hydracache@0.8.0
 - pkg:cargo/hydracache@0.9.0
