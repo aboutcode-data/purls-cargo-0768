@@ -19,3 +19,4 @@
 - pkg:cargo/hydra-cli@3.2.1
 - pkg:cargo/hydra-cli@3.2.2
 - pkg:cargo/hydra-cli@3.3.0
+- pkg:cargo/hydra-cli@3.3.1
