@@ -11,6 +11,7 @@
 - pkg:cargo/iicp-client@0.7.100
 - pkg:cargo/iicp-client@0.7.101
 - pkg:cargo/iicp-client@0.7.102
+- pkg:cargo/iicp-client@0.7.103
 - pkg:cargo/iicp-client@0.7.12
 - pkg:cargo/iicp-client@0.7.13
 - pkg:cargo/iicp-client@0.7.14
