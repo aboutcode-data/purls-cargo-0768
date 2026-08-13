@@ -50,5 +50,12 @@
 - pkg:cargo/caixa-operator@0.1.60
 - pkg:cargo/caixa-operator@0.1.61
 - pkg:cargo/caixa-operator@0.1.62
+- pkg:cargo/caixa-operator@0.1.65
+- pkg:cargo/caixa-operator@0.1.66
 - pkg:cargo/caixa-operator@0.1.7
+- pkg:cargo/caixa-operator@0.1.71
+- pkg:cargo/caixa-operator@0.1.72
+- pkg:cargo/caixa-operator@0.1.73
+- pkg:cargo/caixa-operator@0.1.74
 - pkg:cargo/caixa-operator@0.1.8
+- pkg:cargo/caixa-operator@0.1.80
