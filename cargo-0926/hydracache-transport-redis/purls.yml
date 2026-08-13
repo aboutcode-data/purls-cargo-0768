@@ -13,3 +13,4 @@
 - pkg:cargo/hydracache-transport-redis@0.65.0
 - pkg:cargo/hydracache-transport-redis@0.66.0
 - pkg:cargo/hydracache-transport-redis@0.67.0
+- pkg:cargo/hydracache-transport-redis@0.68.0
