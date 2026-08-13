@@ -1,9 +1,15 @@
 - pkg:cargo/amqp-bridge@0.2.1
 - pkg:cargo/amqp-bridge@0.2.10
 - pkg:cargo/amqp-bridge@0.2.12
+- pkg:cargo/amqp-bridge@0.2.13
+- pkg:cargo/amqp-bridge@0.2.15
+- pkg:cargo/amqp-bridge@0.2.16
+- pkg:cargo/amqp-bridge@0.2.17
 - pkg:cargo/amqp-bridge@0.2.4
 - pkg:cargo/amqp-bridge@0.2.5
 - pkg:cargo/amqp-bridge@0.2.6
 - pkg:cargo/amqp-bridge@0.2.7
 - pkg:cargo/amqp-bridge@0.2.8
 - pkg:cargo/amqp-bridge@0.2.9
+- pkg:cargo/amqp-bridge@0.3.0
+- pkg:cargo/amqp-bridge@0.3.1
