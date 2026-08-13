@@ -14,3 +14,4 @@
 - pkg:cargo/btree-range-map@0.7.0
 - pkg:cargo/btree-range-map@0.7.1
 - pkg:cargo/btree-range-map@0.7.2
+- pkg:cargo/btree-range-map@0.8.0
