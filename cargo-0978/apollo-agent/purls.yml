@@ -6,3 +6,5 @@
 - pkg:cargo/apollo-agent@0.4.2
 - pkg:cargo/apollo-agent@0.5.0
 - pkg:cargo/apollo-agent@0.6.0
+- pkg:cargo/apollo-agent@0.6.1
+- pkg:cargo/apollo-agent@0.6.2
