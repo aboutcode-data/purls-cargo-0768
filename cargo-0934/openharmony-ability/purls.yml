@@ -12,3 +12,5 @@
 - pkg:cargo/openharmony-ability@0.2.1
 - pkg:cargo/openharmony-ability@0.2.2
 - pkg:cargo/openharmony-ability@0.3.0
+- pkg:cargo/openharmony-ability@1.0.0-beta.0
+- pkg:cargo/openharmony-ability@1.0.0-beta.1
