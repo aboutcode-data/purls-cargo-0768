@@ -1,1 +1,5 @@
+- pkg:cargo/lampshade@0.10.0
+- pkg:cargo/lampshade@0.10.1
+- pkg:cargo/lampshade@0.11.0
 - pkg:cargo/lampshade@0.8.0
+- pkg:cargo/lampshade@0.9.0

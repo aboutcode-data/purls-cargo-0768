@@ -1,1 +1,2 @@
 - pkg:cargo/lava-runtime@0.1.8
+- pkg:cargo/lava-runtime@0.2.1
