@@ -1,4 +1,6 @@
 - pkg:cargo/anda_db_tfs@0.1.0
+- pkg:cargo/anda_db_tfs@0.10.0
+- pkg:cargo/anda_db_tfs@0.11.0
 - pkg:cargo/anda_db_tfs@0.2.0
 - pkg:cargo/anda_db_tfs@0.2.1
 - pkg:cargo/anda_db_tfs@0.4.0
@@ -18,6 +20,8 @@
 - pkg:cargo/anda_db_tfs@0.5.12
 - pkg:cargo/anda_db_tfs@0.5.13
 - pkg:cargo/anda_db_tfs@0.5.14
+- pkg:cargo/anda_db_tfs@0.5.15
+- pkg:cargo/anda_db_tfs@0.5.16
 - pkg:cargo/anda_db_tfs@0.5.2
 - pkg:cargo/anda_db_tfs@0.5.4
 - pkg:cargo/anda_db_tfs@0.5.5
@@ -25,3 +29,8 @@
 - pkg:cargo/anda_db_tfs@0.5.7
 - pkg:cargo/anda_db_tfs@0.5.8
 - pkg:cargo/anda_db_tfs@0.5.9
+- pkg:cargo/anda_db_tfs@0.8.0
+- pkg:cargo/anda_db_tfs@0.8.2
+- pkg:cargo/anda_db_tfs@0.8.4
+- pkg:cargo/anda_db_tfs@0.9.0
+- pkg:cargo/anda_db_tfs@0.9.1

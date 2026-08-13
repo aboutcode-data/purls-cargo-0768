@@ -1,5 +1,8 @@
 - pkg:cargo/anda_kip@0.0.1
 - pkg:cargo/anda_kip@0.1.0
+- pkg:cargo/anda_kip@0.10.0
+- pkg:cargo/anda_kip@0.10.1
+- pkg:cargo/anda_kip@0.11.0
 - pkg:cargo/anda_kip@0.2.0
 - pkg:cargo/anda_kip@0.3.0
 - pkg:cargo/anda_kip@0.4.0
@@ -33,6 +36,8 @@
 - pkg:cargo/anda_kip@0.7.10
 - pkg:cargo/anda_kip@0.7.11
 - pkg:cargo/anda_kip@0.7.12
+- pkg:cargo/anda_kip@0.7.13
+- pkg:cargo/anda_kip@0.7.14
 - pkg:cargo/anda_kip@0.7.2
 - pkg:cargo/anda_kip@0.7.3
 - pkg:cargo/anda_kip@0.7.4
@@ -41,3 +46,8 @@
 - pkg:cargo/anda_kip@0.7.7
 - pkg:cargo/anda_kip@0.7.8
 - pkg:cargo/anda_kip@0.7.9
+- pkg:cargo/anda_kip@0.8.0
+- pkg:cargo/anda_kip@0.8.1
+- pkg:cargo/anda_kip@0.8.2
+- pkg:cargo/anda_kip@0.8.4
+- pkg:cargo/anda_kip@0.9.0
