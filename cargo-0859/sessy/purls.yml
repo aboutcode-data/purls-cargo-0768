@@ -20,3 +20,5 @@
 - pkg:cargo/sessy@0.5.1
 - pkg:cargo/sessy@1.0.0
 - pkg:cargo/sessy@1.0.1
+- pkg:cargo/sessy@1.1.0
+- pkg:cargo/sessy@1.2.0
