@@ -1,2 +1,3 @@
 - pkg:cargo/up-transport-vsomeip@0.4.0
 - pkg:cargo/up-transport-vsomeip@0.4.1
+- pkg:cargo/up-transport-vsomeip@0.6.0
