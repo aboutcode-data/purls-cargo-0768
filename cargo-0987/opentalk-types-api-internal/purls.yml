@@ -6,3 +6,6 @@
 - pkg:cargo/opentalk-types-api-internal@0.2.3
 - pkg:cargo/opentalk-types-api-internal@0.2.4
 - pkg:cargo/opentalk-types-api-internal@0.3.0
+- pkg:cargo/opentalk-types-api-internal@0.4.0
+- pkg:cargo/opentalk-types-api-internal@0.5.0
+- pkg:cargo/opentalk-types-api-internal@0.6.0
