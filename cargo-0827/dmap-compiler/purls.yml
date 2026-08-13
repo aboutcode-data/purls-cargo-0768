@@ -5,3 +5,4 @@
 - pkg:cargo/dmap-compiler@0.2.5
 - pkg:cargo/dmap-compiler@0.2.6
 - pkg:cargo/dmap-compiler@0.2.7
+- pkg:cargo/dmap-compiler@0.2.8
