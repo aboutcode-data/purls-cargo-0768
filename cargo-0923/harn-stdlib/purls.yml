@@ -84,6 +84,8 @@
 - pkg:cargo/harn-stdlib@0.10.85
 - pkg:cargo/harn-stdlib@0.10.86
 - pkg:cargo/harn-stdlib@0.10.87
+- pkg:cargo/harn-stdlib@0.10.88
+- pkg:cargo/harn-stdlib@0.10.89
 - pkg:cargo/harn-stdlib@0.10.9
 - pkg:cargo/harn-stdlib@0.7.57
 - pkg:cargo/harn-stdlib@0.7.58
