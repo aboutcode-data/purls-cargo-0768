@@ -99,6 +99,7 @@
 - pkg:cargo/rkat@0.8.2
 - pkg:cargo/rkat@0.8.20
 - pkg:cargo/rkat@0.8.21
+- pkg:cargo/rkat@0.8.22
 - pkg:cargo/rkat@0.8.3
 - pkg:cargo/rkat@0.8.4
 - pkg:cargo/rkat@0.8.5
