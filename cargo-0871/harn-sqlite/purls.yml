@@ -69,3 +69,5 @@
 - pkg:cargo/harn-sqlite@0.10.94
 - pkg:cargo/harn-sqlite@0.10.95
 - pkg:cargo/harn-sqlite@0.10.96
+- pkg:cargo/harn-sqlite@0.10.97
+- pkg:cargo/harn-sqlite@0.10.98

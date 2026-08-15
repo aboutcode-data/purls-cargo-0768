@@ -94,6 +94,8 @@
 - pkg:cargo/harn-lexer@0.10.94
 - pkg:cargo/harn-lexer@0.10.95
 - pkg:cargo/harn-lexer@0.10.96
+- pkg:cargo/harn-lexer@0.10.97
+- pkg:cargo/harn-lexer@0.10.98
 - pkg:cargo/harn-lexer@0.2.1
 - pkg:cargo/harn-lexer@0.2.10
 - pkg:cargo/harn-lexer@0.2.5

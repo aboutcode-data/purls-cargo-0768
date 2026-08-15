@@ -94,6 +94,8 @@
 - pkg:cargo/harn-cli@0.10.94
 - pkg:cargo/harn-cli@0.10.95
 - pkg:cargo/harn-cli@0.10.96
+- pkg:cargo/harn-cli@0.10.97
+- pkg:cargo/harn-cli@0.10.98
 - pkg:cargo/harn-cli@0.2.10
 - pkg:cargo/harn-cli@0.2.3
 - pkg:cargo/harn-cli@0.2.4
