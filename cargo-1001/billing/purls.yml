@@ -1,6 +1,8 @@
 - pkg:cargo/billing@0.1.0
 - pkg:cargo/billing@0.10.0
 - pkg:cargo/billing@0.11.0
+- pkg:cargo/billing@0.12.0
+- pkg:cargo/billing@0.13.0
 - pkg:cargo/billing@0.2.0
 - pkg:cargo/billing@0.3.0
 - pkg:cargo/billing@0.4.0
