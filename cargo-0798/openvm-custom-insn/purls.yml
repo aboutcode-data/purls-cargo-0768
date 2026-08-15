@@ -1,1 +1,2 @@
 - pkg:cargo/openvm-custom-insn@2.0.1
+- pkg:cargo/openvm-custom-insn@2.0.2
