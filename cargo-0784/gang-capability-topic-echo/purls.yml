@@ -1,1 +1,5 @@
 - pkg:cargo/gang-capability-topic-echo@1.0.0
+- pkg:cargo/gang-capability-topic-echo@2.0.0
+- pkg:cargo/gang-capability-topic-echo@2.1.0
+- pkg:cargo/gang-capability-topic-echo@2.2.0
+- pkg:cargo/gang-capability-topic-echo@2.3.0
