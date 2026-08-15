@@ -1,2 +1,7 @@
 - pkg:cargo/copc-writer@0.1.0
 - pkg:cargo/copc-writer@0.2.0
+- pkg:cargo/copc-writer@0.3.0
+- pkg:cargo/copc-writer@0.4.0
+- pkg:cargo/copc-writer@0.4.1
+- pkg:cargo/copc-writer@0.4.2
+- pkg:cargo/copc-writer@0.9.0
