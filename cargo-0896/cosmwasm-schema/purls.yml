@@ -166,11 +166,13 @@
 - pkg:cargo/cosmwasm-schema@2.2.7-rc.0
 - pkg:cargo/cosmwasm-schema@2.2.7-rc.1
 - pkg:cargo/cosmwasm-schema@2.2.8
+- pkg:cargo/cosmwasm-schema@2.2.9
 - pkg:cargo/cosmwasm-schema@2.3.0
 - pkg:cargo/cosmwasm-schema@2.3.1
 - pkg:cargo/cosmwasm-schema@2.3.2
 - pkg:cargo/cosmwasm-schema@2.3.2-rc.0
 - pkg:cargo/cosmwasm-schema@2.3.3
+- pkg:cargo/cosmwasm-schema@2.3.4
 - pkg:cargo/cosmwasm-schema@3.0.0
 - pkg:cargo/cosmwasm-schema@3.0.0-ibc2.0
 - pkg:cargo/cosmwasm-schema@3.0.0-rc.0
@@ -184,4 +186,6 @@
 - pkg:cargo/cosmwasm-schema@3.0.5-rc.0
 - pkg:cargo/cosmwasm-schema@3.0.6
 - pkg:cargo/cosmwasm-schema@3.0.7
+- pkg:cargo/cosmwasm-schema@3.0.8
+- pkg:cargo/cosmwasm-schema@3.0.9
 - pkg:cargo/cosmwasm-schema@3.1.0-rc.0
