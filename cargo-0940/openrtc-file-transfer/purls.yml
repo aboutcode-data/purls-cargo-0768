@@ -14,6 +14,7 @@
 - pkg:cargo/openrtc-file-transfer@2.0.0-rc.18
 - pkg:cargo/openrtc-file-transfer@2.0.0-rc.19
 - pkg:cargo/openrtc-file-transfer@2.0.0-rc.2
+- pkg:cargo/openrtc-file-transfer@2.0.0-rc.20
 - pkg:cargo/openrtc-file-transfer@2.0.0-rc.3
 - pkg:cargo/openrtc-file-transfer@2.0.0-rc.4
 - pkg:cargo/openrtc-file-transfer@2.0.0-rc.5
