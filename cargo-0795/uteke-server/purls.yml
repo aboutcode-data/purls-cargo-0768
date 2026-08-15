@@ -12,6 +12,7 @@
 - pkg:cargo/uteke-server@0.13.2
 - pkg:cargo/uteke-server@0.14.1
 - pkg:cargo/uteke-server@0.14.2
+- pkg:cargo/uteke-server@0.14.3
 - pkg:cargo/uteke-server@0.2.0
 - pkg:cargo/uteke-server@0.2.1
 - pkg:cargo/uteke-server@0.3.0
