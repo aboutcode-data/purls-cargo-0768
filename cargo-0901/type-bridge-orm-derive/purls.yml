@@ -16,3 +16,4 @@
 - pkg:cargo/type-bridge-orm-derive@1.5.7
 - pkg:cargo/type-bridge-orm-derive@1.5.8
 - pkg:cargo/type-bridge-orm-derive@1.5.9
+- pkg:cargo/type-bridge-orm-derive@2.0.1
