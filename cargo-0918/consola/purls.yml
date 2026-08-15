@@ -1,1 +1,4 @@
 - pkg:cargo/consola@0.0.0-alpha.0
+- pkg:cargo/consola@0.1.0
+- pkg:cargo/consola@0.2.0
+- pkg:cargo/consola@0.3.0
