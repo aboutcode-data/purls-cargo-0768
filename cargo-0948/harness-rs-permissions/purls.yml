@@ -31,6 +31,7 @@
 - pkg:cargo/harness-rs-permissions@0.0.40
 - pkg:cargo/harness-rs-permissions@0.0.41
 - pkg:cargo/harness-rs-permissions@0.0.42
+- pkg:cargo/harness-rs-permissions@0.0.43
 - pkg:cargo/harness-rs-permissions@0.0.5
 - pkg:cargo/harness-rs-permissions@0.0.6
 - pkg:cargo/harness-rs-permissions@0.0.7
