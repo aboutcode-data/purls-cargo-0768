@@ -14,3 +14,4 @@
 - pkg:cargo/harness-rs-serve@0.0.40
 - pkg:cargo/harness-rs-serve@0.0.41
 - pkg:cargo/harness-rs-serve@0.0.42
+- pkg:cargo/harness-rs-serve@0.0.43
