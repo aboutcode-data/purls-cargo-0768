@@ -18,3 +18,4 @@
 - pkg:cargo/openraft-multi@0.10.0-alpha.31
 - pkg:cargo/openraft-multi@0.10.0-alpha.32
 - pkg:cargo/openraft-multi@0.10.0-alpha.33
+- pkg:cargo/openraft-multi@0.10.0-alpha.34
