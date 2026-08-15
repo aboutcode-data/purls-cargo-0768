@@ -33,3 +33,4 @@
 - pkg:cargo/commonware-resolver@2026.3.0
 - pkg:cargo/commonware-resolver@2026.4.0
 - pkg:cargo/commonware-resolver@2026.5.0
+- pkg:cargo/commonware-resolver@2026.7.0
