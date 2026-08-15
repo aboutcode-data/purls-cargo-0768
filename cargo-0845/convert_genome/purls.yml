@@ -8,3 +8,6 @@
 - pkg:cargo/convert_genome@0.1.6
 - pkg:cargo/convert_genome@0.1.8
 - pkg:cargo/convert_genome@0.1.9
+- pkg:cargo/convert_genome@0.3.0
+- pkg:cargo/convert_genome@0.3.1
+- pkg:cargo/convert_genome@0.3.2
