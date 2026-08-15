@@ -1,6 +1,7 @@
 - pkg:cargo/yscv-video@0.1.0
 - pkg:cargo/yscv-video@0.1.1
 - pkg:cargo/yscv-video@0.1.10
+- pkg:cargo/yscv-video@0.1.11
 - pkg:cargo/yscv-video@0.1.2
 - pkg:cargo/yscv-video@0.1.5
 - pkg:cargo/yscv-video@0.1.6
