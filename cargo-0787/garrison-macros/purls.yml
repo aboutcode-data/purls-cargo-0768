@@ -1,0 +1,4 @@
+- pkg:cargo/garrison-macros@0.5.1
+- pkg:cargo/garrison-macros@0.7.3
+- pkg:cargo/garrison-macros@0.8.0
+- pkg:cargo/garrison-macros@0.8.1
