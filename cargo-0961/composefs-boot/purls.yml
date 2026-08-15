@@ -1,1 +1,2 @@
 - pkg:cargo/composefs-boot@0.3.0
+- pkg:cargo/composefs-boot@0.7.0

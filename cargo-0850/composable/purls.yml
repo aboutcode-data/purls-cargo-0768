@@ -1,1 +1,3 @@
 - pkg:cargo/composable@0.9.0
+- pkg:cargo/composable@0.9.1-SNAPSHOT
+- pkg:cargo/composable@1.0.0
