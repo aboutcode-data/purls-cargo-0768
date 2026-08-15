@@ -1,3 +1,4 @@
 - pkg:cargo/container-pid@0.1.0
 - pkg:cargo/container-pid@0.2.0
 - pkg:cargo/container-pid@1.0.0
+- pkg:cargo/container-pid@2.0.0
