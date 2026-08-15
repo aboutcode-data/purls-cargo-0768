@@ -9,6 +9,9 @@
 - pkg:cargo/doido-cable@0.0.18
 - pkg:cargo/doido-cable@0.0.19
 - pkg:cargo/doido-cable@0.0.20
+- pkg:cargo/doido-cable@0.0.22
+- pkg:cargo/doido-cable@0.0.23
+- pkg:cargo/doido-cable@0.0.24
 - pkg:cargo/doido-cable@0.0.4
 - pkg:cargo/doido-cable@0.0.5
 - pkg:cargo/doido-cable@0.0.6
