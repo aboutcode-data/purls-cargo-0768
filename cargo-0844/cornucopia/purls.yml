@@ -25,3 +25,4 @@
 - pkg:cargo/cornucopia@0.8.2
 - pkg:cargo/cornucopia@0.9.0
 - pkg:cargo/cornucopia@1.0.0
+- pkg:cargo/cornucopia@1.0.1

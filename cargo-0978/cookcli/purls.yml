@@ -17,3 +17,7 @@
 - pkg:cargo/cookcli@0.29.1
 - pkg:cargo/cookcli@0.30.0
 - pkg:cargo/cookcli@0.31.0
+- pkg:cargo/cookcli@0.32.0
+- pkg:cargo/cookcli@0.32.1
+- pkg:cargo/cookcli@0.33.0
+- pkg:cargo/cookcli@0.33.1
