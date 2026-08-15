@@ -7,3 +7,4 @@
 - pkg:cargo/faucet-source-webhook@1.1.5
 - pkg:cargo/faucet-source-webhook@1.1.6
 - pkg:cargo/faucet-source-webhook@1.1.7
+- pkg:cargo/faucet-source-webhook@1.1.8
