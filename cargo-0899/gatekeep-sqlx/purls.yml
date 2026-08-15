@@ -1,0 +1,6 @@
+- pkg:cargo/gatekeep-sqlx@0.1.0
+- pkg:cargo/gatekeep-sqlx@0.2.0
+- pkg:cargo/gatekeep-sqlx@0.3.0
+- pkg:cargo/gatekeep-sqlx@0.4.0
+- pkg:cargo/gatekeep-sqlx@1.0.0
+- pkg:cargo/gatekeep-sqlx@1.0.1
