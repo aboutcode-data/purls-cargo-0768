@@ -70,6 +70,8 @@
 - pkg:cargo/omnizip-snappy@0.16.42
 - pkg:cargo/omnizip-snappy@0.16.43
 - pkg:cargo/omnizip-snappy@0.16.44
+- pkg:cargo/omnizip-snappy@0.16.47
+- pkg:cargo/omnizip-snappy@0.16.48
 - pkg:cargo/omnizip-snappy@0.16.5
 - pkg:cargo/omnizip-snappy@0.16.6
 - pkg:cargo/omnizip-snappy@0.16.7
