@@ -34,6 +34,8 @@
 - pkg:cargo/harness-rs-tools-web@0.0.43
 - pkg:cargo/harness-rs-tools-web@0.0.44
 - pkg:cargo/harness-rs-tools-web@0.0.45
+- pkg:cargo/harness-rs-tools-web@0.0.46
+- pkg:cargo/harness-rs-tools-web@0.0.47
 - pkg:cargo/harness-rs-tools-web@0.0.5
 - pkg:cargo/harness-rs-tools-web@0.0.6
 - pkg:cargo/harness-rs-tools-web@0.0.7
