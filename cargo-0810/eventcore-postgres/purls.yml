@@ -21,3 +21,4 @@
 - pkg:cargo/eventcore-postgres@1.1.0-alpha.1
 - pkg:cargo/eventcore-postgres@1.1.1
 - pkg:cargo/eventcore-postgres@2.0.0
+- pkg:cargo/eventcore-postgres@2.0.1
