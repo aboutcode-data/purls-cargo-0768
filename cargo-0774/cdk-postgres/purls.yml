@@ -37,3 +37,4 @@
 - pkg:cargo/cdk-postgres@0.17.3-rc.0
 - pkg:cargo/cdk-postgres@0.17.4
 - pkg:cargo/cdk-postgres@0.17.5
+- pkg:cargo/cdk-postgres@0.18.0-rc.0
