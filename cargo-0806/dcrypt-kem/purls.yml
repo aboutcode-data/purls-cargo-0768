@@ -24,3 +24,4 @@
 - pkg:cargo/dcrypt-kem@1.2.3
 - pkg:cargo/dcrypt-kem@2.0.0
 - pkg:cargo/dcrypt-kem@3.0.0
+- pkg:cargo/dcrypt-kem@4.0.0
