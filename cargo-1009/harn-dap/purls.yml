@@ -1,6 +1,8 @@
 - pkg:cargo/harn-dap@0.10.0
 - pkg:cargo/harn-dap@0.10.1
 - pkg:cargo/harn-dap@0.10.10
+- pkg:cargo/harn-dap@0.10.100
+- pkg:cargo/harn-dap@0.10.101
 - pkg:cargo/harn-dap@0.10.11
 - pkg:cargo/harn-dap@0.10.12
 - pkg:cargo/harn-dap@0.10.13
@@ -96,6 +98,7 @@
 - pkg:cargo/harn-dap@0.10.96
 - pkg:cargo/harn-dap@0.10.97
 - pkg:cargo/harn-dap@0.10.98
+- pkg:cargo/harn-dap@0.10.99
 - pkg:cargo/harn-dap@0.2.10
 - pkg:cargo/harn-dap@0.2.2
 - pkg:cargo/harn-dap@0.2.5
