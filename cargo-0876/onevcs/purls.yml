@@ -14,3 +14,6 @@
 - pkg:cargo/onevcs@0.2.8
 - pkg:cargo/onevcs@0.2.9
 - pkg:cargo/onevcs@0.3.0
+- pkg:cargo/onevcs@0.3.1
+- pkg:cargo/onevcs@0.4.0
+- pkg:cargo/onevcs@0.4.1
