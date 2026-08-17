@@ -32,3 +32,4 @@
 - pkg:cargo/codewhale-secrets@0.9.5
 - pkg:cargo/codewhale-secrets@0.9.6
 - pkg:cargo/codewhale-secrets@0.9.7
+- pkg:cargo/codewhale-secrets@0.9.8
