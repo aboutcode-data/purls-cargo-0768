@@ -1,1 +1,2 @@
 - pkg:cargo/confium-tc-bls@0.3.0
+- pkg:cargo/confium-tc-bls@0.4.7
