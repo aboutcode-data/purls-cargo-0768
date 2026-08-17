@@ -6,3 +6,4 @@
 - pkg:cargo/ctddump@0.28.0
 - pkg:cargo/ctddump@0.29.0
 - pkg:cargo/ctddump@0.30.0
+- pkg:cargo/ctddump@0.30.1
