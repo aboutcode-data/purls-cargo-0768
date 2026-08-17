@@ -1,1 +1,2 @@
 - pkg:cargo/confium-tc-elgamal-p256@0.3.0
+- pkg:cargo/confium-tc-elgamal-p256@0.4.7
