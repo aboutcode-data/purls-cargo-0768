@@ -7,3 +7,4 @@
 - pkg:cargo/faucet-source-mongodb-cdc@1.2.3
 - pkg:cargo/faucet-source-mongodb-cdc@1.2.4
 - pkg:cargo/faucet-source-mongodb-cdc@1.2.5
+- pkg:cargo/faucet-source-mongodb-cdc@1.2.6
