@@ -1,1 +1,3 @@
+- pkg:cargo/bed-terminal-session@0.4.0
 - pkg:cargo/bed-terminal-session@0.4.0-beta.1
+- pkg:cargo/bed-terminal-session@0.4.1

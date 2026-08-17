@@ -2,4 +2,6 @@
 - pkg:cargo/bed-tui@0.2.0
 - pkg:cargo/bed-tui@0.2.1
 - pkg:cargo/bed-tui@0.3.0
+- pkg:cargo/bed-tui@0.4.0
 - pkg:cargo/bed-tui@0.4.0-beta.1
+- pkg:cargo/bed-tui@0.4.1
