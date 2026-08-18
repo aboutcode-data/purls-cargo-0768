@@ -13,3 +13,5 @@
 - pkg:cargo/unicode_names2@1.2.2
 - pkg:cargo/unicode_names2@1.3.0
 - pkg:cargo/unicode_names2@2.0.0
+- pkg:cargo/unicode_names2@3.0.0
+- pkg:cargo/unicode_names2@3.1.0
