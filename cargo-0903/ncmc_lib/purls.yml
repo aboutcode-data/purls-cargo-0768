@@ -24,3 +24,4 @@
 - pkg:cargo/ncmc_lib@0.2.7
 - pkg:cargo/ncmc_lib@0.3.0
 - pkg:cargo/ncmc_lib@0.3.1
+- pkg:cargo/ncmc_lib@0.4.0
