@@ -6,3 +6,4 @@
 - pkg:cargo/omake@0.1.4
 - pkg:cargo/omake@0.1.5
 - pkg:cargo/omake@0.1.6
+- pkg:cargo/omake@0.2.0
