@@ -1,3 +1,4 @@
 - pkg:cargo/uptrakit-openapi-client@0.0.1
 - pkg:cargo/uptrakit-openapi-client@0.0.2
 - pkg:cargo/uptrakit-openapi-client@0.0.3
+- pkg:cargo/uptrakit-openapi-client@0.0.4
