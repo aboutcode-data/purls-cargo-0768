@@ -98,3 +98,4 @@
 - pkg:cargo/cortiq-engine@0.5.88
 - pkg:cargo/cortiq-engine@0.5.89
 - pkg:cargo/cortiq-engine@0.5.9
+- pkg:cargo/cortiq-engine@0.5.90
