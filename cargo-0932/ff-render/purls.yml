@@ -5,3 +5,4 @@
 - pkg:cargo/ff-render@0.14.4
 - pkg:cargo/ff-render@0.15.0
 - pkg:cargo/ff-render@0.15.1
+- pkg:cargo/ff-render@0.16.0
