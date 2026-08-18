@@ -7,6 +7,7 @@
 - pkg:cargo/unwinding@0.1.7
 - pkg:cargo/unwinding@0.2.0
 - pkg:cargo/unwinding@0.2.1
+- pkg:cargo/unwinding@0.2.10
 - pkg:cargo/unwinding@0.2.2
 - pkg:cargo/unwinding@0.2.3
 - pkg:cargo/unwinding@0.2.4
@@ -14,3 +15,4 @@
 - pkg:cargo/unwinding@0.2.6
 - pkg:cargo/unwinding@0.2.7
 - pkg:cargo/unwinding@0.2.8
+- pkg:cargo/unwinding@0.2.9
