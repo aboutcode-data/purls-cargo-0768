@@ -3,3 +3,4 @@
 - pkg:cargo/sge_graph_networks@1.0.3
 - pkg:cargo/sge_graph_networks@1.0.4
 - pkg:cargo/sge_graph_networks@1.1.0
+- pkg:cargo/sge_graph_networks@1.2.0
