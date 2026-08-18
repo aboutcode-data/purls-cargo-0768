@@ -22,6 +22,7 @@
 - pkg:cargo/beamr@0.18.2
 - pkg:cargo/beamr@0.19.0
 - pkg:cargo/beamr@0.19.1
+- pkg:cargo/beamr@0.19.2
 - pkg:cargo/beamr@0.2.0
 - pkg:cargo/beamr@0.3.0
 - pkg:cargo/beamr@0.3.1
