@@ -3,3 +3,5 @@
 - pkg:cargo/unified-agent-api@0.2.3
 - pkg:cargo/unified-agent-api@0.3.4
 - pkg:cargo/unified-agent-api@0.3.5
+- pkg:cargo/unified-agent-api@0.3.6
+- pkg:cargo/unified-agent-api@0.3.7
