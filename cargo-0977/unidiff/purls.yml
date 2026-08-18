@@ -11,3 +11,4 @@
 - pkg:cargo/unidiff@0.3.3
 - pkg:cargo/unidiff@0.3.4
 - pkg:cargo/unidiff@0.4.0
+- pkg:cargo/unidiff@0.4.1
