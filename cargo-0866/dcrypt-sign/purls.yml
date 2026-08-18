@@ -25,3 +25,4 @@
 - pkg:cargo/dcrypt-sign@2.0.0
 - pkg:cargo/dcrypt-sign@3.0.0
 - pkg:cargo/dcrypt-sign@4.0.0
+- pkg:cargo/dcrypt-sign@4.0.1

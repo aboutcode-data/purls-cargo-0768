@@ -25,3 +25,4 @@
 - pkg:cargo/dcrypt-hybrid@2.0.0
 - pkg:cargo/dcrypt-hybrid@3.0.0
 - pkg:cargo/dcrypt-hybrid@4.0.0
+- pkg:cargo/dcrypt-hybrid@4.0.1
