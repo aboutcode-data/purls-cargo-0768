@@ -19,6 +19,9 @@
 - pkg:cargo/kaniop-crdgen@0.10.0
 - pkg:cargo/kaniop-crdgen@0.10.1
 - pkg:cargo/kaniop-crdgen@0.10.2
+- pkg:cargo/kaniop-crdgen@0.10.3
+- pkg:cargo/kaniop-crdgen@0.11.1
+- pkg:cargo/kaniop-crdgen@0.11.2
 - pkg:cargo/kaniop-crdgen@0.3.2
 - pkg:cargo/kaniop-crdgen@0.4.0
 - pkg:cargo/kaniop-crdgen@0.4.1
