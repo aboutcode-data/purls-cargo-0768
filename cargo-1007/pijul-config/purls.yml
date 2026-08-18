@@ -1,2 +1,5 @@
 - pkg:cargo/pijul-config@0.0.1
 - pkg:cargo/pijul-config@1.0.0-beta.10
+- pkg:cargo/pijul-config@1.0.0-beta.12
+- pkg:cargo/pijul-config@1.0.0-beta.15
+- pkg:cargo/pijul-config@1.0.0-beta.17
