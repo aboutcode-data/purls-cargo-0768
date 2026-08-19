@@ -9,4 +9,6 @@
 - pkg:cargo/optipy@0.1.4-rc.4
 - pkg:cargo/optipy@0.2.0
 - pkg:cargo/optipy@0.2.1
+- pkg:cargo/optipy@0.2.2-pr.0
+- pkg:cargo/optipy@0.2.2-pr97.0
 - pkg:cargo/optipy@0.2.2-rc.0
