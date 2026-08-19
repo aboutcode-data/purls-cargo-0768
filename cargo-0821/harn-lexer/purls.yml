@@ -5,6 +5,8 @@
 - pkg:cargo/harn-lexer@0.10.101
 - pkg:cargo/harn-lexer@0.10.102
 - pkg:cargo/harn-lexer@0.10.103
+- pkg:cargo/harn-lexer@0.10.104
+- pkg:cargo/harn-lexer@0.10.105
 - pkg:cargo/harn-lexer@0.10.11
 - pkg:cargo/harn-lexer@0.10.12
 - pkg:cargo/harn-lexer@0.10.13

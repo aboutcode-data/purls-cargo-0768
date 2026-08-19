@@ -39,6 +39,7 @@
 - pkg:cargo/harness-rs-daemon@0.0.46
 - pkg:cargo/harness-rs-daemon@0.0.47
 - pkg:cargo/harness-rs-daemon@0.0.48
+- pkg:cargo/harness-rs-daemon@0.0.49
 - pkg:cargo/harness-rs-daemon@0.0.5
 - pkg:cargo/harness-rs-daemon@0.0.6
 - pkg:cargo/harness-rs-daemon@0.0.7
