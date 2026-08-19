@@ -1,2 +1,3 @@
+- pkg:cargo/pdk-serde-fixint@1.10.0
 - pkg:cargo/pdk-serde-fixint@1.9.1
 - pkg:cargo/pdk-serde-fixint@1.9.2
