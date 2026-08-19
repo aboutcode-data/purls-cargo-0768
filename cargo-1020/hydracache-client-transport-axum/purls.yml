@@ -20,3 +20,4 @@
 - pkg:cargo/hydracache-client-transport-axum@0.67.0
 - pkg:cargo/hydracache-client-transport-axum@0.68.0
 - pkg:cargo/hydracache-client-transport-axum@0.69.0
+- pkg:cargo/hydracache-client-transport-axum@0.70.0
