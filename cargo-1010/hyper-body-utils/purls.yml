@@ -5,6 +5,8 @@
 - pkg:cargo/hyper-body-utils@0.1.12
 - pkg:cargo/hyper-body-utils@0.1.13
 - pkg:cargo/hyper-body-utils@0.1.14
+- pkg:cargo/hyper-body-utils@0.1.15
+- pkg:cargo/hyper-body-utils@0.1.16
 - pkg:cargo/hyper-body-utils@0.1.2
 - pkg:cargo/hyper-body-utils@0.1.4
 - pkg:cargo/hyper-body-utils@0.1.5
