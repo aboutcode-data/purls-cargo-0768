@@ -19,3 +19,4 @@
 - pkg:cargo/amont-runtime@1.7.1
 - pkg:cargo/amont-runtime@1.7.2
 - pkg:cargo/amont-runtime@1.7.4
+- pkg:cargo/amont-runtime@1.8.0
