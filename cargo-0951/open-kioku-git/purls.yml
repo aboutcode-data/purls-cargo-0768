@@ -12,3 +12,5 @@
 - pkg:cargo/open-kioku-git@2.3.0
 - pkg:cargo/open-kioku-git@2.4.0
 - pkg:cargo/open-kioku-git@3.0.0
+- pkg:cargo/open-kioku-git@3.0.1
+- pkg:cargo/open-kioku-git@3.0.2
