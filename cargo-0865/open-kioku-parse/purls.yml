@@ -12,3 +12,5 @@
 - pkg:cargo/open-kioku-parse@2.3.0
 - pkg:cargo/open-kioku-parse@2.4.0
 - pkg:cargo/open-kioku-parse@3.0.0
+- pkg:cargo/open-kioku-parse@3.0.1
+- pkg:cargo/open-kioku-parse@3.0.2
