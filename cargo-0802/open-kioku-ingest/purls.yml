@@ -10,3 +10,4 @@
 - pkg:cargo/open-kioku-ingest@2.2.3
 - pkg:cargo/open-kioku-ingest@2.3.0
 - pkg:cargo/open-kioku-ingest@2.4.0
+- pkg:cargo/open-kioku-ingest@3.0.1
