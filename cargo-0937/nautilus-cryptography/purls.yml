@@ -15,3 +15,4 @@
 - pkg:cargo/nautilus-cryptography@0.59.0
 - pkg:cargo/nautilus-cryptography@0.60.0
 - pkg:cargo/nautilus-cryptography@0.61.0
+- pkg:cargo/nautilus-cryptography@0.62.0
