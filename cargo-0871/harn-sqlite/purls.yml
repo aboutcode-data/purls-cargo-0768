@@ -4,6 +4,9 @@
 - pkg:cargo/harn-sqlite@0.10.103
 - pkg:cargo/harn-sqlite@0.10.104
 - pkg:cargo/harn-sqlite@0.10.105
+- pkg:cargo/harn-sqlite@0.10.106
+- pkg:cargo/harn-sqlite@0.10.107
+- pkg:cargo/harn-sqlite@0.10.108
 - pkg:cargo/harn-sqlite@0.10.25
 - pkg:cargo/harn-sqlite@0.10.26
 - pkg:cargo/harn-sqlite@0.10.27
