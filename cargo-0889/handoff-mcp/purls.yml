@@ -32,3 +32,4 @@
 - pkg:cargo/handoff-mcp@0.31.2
 - pkg:cargo/handoff-mcp@0.32.0
 - pkg:cargo/handoff-mcp@0.33.0
+- pkg:cargo/handoff-mcp@0.34.0
