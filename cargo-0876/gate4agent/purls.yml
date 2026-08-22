@@ -51,3 +51,4 @@
 - pkg:cargo/gate4agent@0.2.7
 - pkg:cargo/gate4agent@0.2.8
 - pkg:cargo/gate4agent@0.2.9
+- pkg:cargo/gate4agent@0.3.0
