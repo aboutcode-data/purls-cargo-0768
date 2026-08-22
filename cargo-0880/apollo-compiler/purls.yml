@@ -52,3 +52,4 @@
 - pkg:cargo/apollo-compiler@1.31.0
 - pkg:cargo/apollo-compiler@1.31.1
 - pkg:cargo/apollo-compiler@1.32.0
+- pkg:cargo/apollo-compiler@2.0.0-beta.0
