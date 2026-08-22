@@ -23,6 +23,8 @@
 - pkg:cargo/seiza-cli@0.18.0
 - pkg:cargo/seiza-cli@0.18.1
 - pkg:cargo/seiza-cli@0.18.2
+- pkg:cargo/seiza-cli@0.18.3
+- pkg:cargo/seiza-cli@0.18.4
 - pkg:cargo/seiza-cli@0.2.0
 - pkg:cargo/seiza-cli@0.2.1
 - pkg:cargo/seiza-cli@0.2.2
