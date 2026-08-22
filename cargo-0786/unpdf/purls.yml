@@ -6,6 +6,9 @@
 - pkg:cargo/unpdf@0.10.0
 - pkg:cargo/unpdf@0.11.0
 - pkg:cargo/unpdf@0.12.0
+- pkg:cargo/unpdf@0.12.1
+- pkg:cargo/unpdf@0.12.2
+- pkg:cargo/unpdf@0.13.0
 - pkg:cargo/unpdf@0.2.3
 - pkg:cargo/unpdf@0.2.4
 - pkg:cargo/unpdf@0.4.0
