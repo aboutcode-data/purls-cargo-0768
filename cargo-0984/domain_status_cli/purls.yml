@@ -11,3 +11,4 @@
 - pkg:cargo/domain_status_cli@0.1.25
 - pkg:cargo/domain_status_cli@0.1.26
 - pkg:cargo/domain_status_cli@0.1.27
+- pkg:cargo/domain_status_cli@0.1.28
