@@ -31,6 +31,7 @@
 - pkg:cargo/cosmol_viewer_core@0.2.22
 - pkg:cargo/cosmol_viewer_core@0.2.23
 - pkg:cargo/cosmol_viewer_core@0.2.24
+- pkg:cargo/cosmol_viewer_core@0.2.25
 - pkg:cargo/cosmol_viewer_core@0.2.5
 - pkg:cargo/cosmol_viewer_core@0.2.7
 - pkg:cargo/cosmol_viewer_core@0.2.8
