@@ -1,3 +1,5 @@
 - pkg:cargo/mzdata-meta@0.66.0
 - pkg:cargo/mzdata-meta@0.66.1
 - pkg:cargo/mzdata-meta@0.66.2
+- pkg:cargo/mzdata-meta@0.66.3
+- pkg:cargo/mzdata-meta@0.66.4
