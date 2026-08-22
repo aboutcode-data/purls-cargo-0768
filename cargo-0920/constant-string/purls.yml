@@ -5,3 +5,4 @@
 - pkg:cargo/constant-string@0.0.5
 - pkg:cargo/constant-string@1.0.0
 - pkg:cargo/constant-string@1.0.1
+- pkg:cargo/constant-string@1.0.2
