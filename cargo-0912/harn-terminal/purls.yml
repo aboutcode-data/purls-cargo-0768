@@ -7,6 +7,8 @@
 - pkg:cargo/harn-terminal@0.10.106
 - pkg:cargo/harn-terminal@0.10.107
 - pkg:cargo/harn-terminal@0.10.108
+- pkg:cargo/harn-terminal@0.10.109
+- pkg:cargo/harn-terminal@0.10.110
 - pkg:cargo/harn-terminal@0.10.12
 - pkg:cargo/harn-terminal@0.10.13
 - pkg:cargo/harn-terminal@0.10.14
