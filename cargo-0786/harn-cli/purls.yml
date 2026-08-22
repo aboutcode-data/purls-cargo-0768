@@ -13,6 +13,7 @@
 - pkg:cargo/harn-cli@0.10.109
 - pkg:cargo/harn-cli@0.10.11
 - pkg:cargo/harn-cli@0.10.110
+- pkg:cargo/harn-cli@0.10.111
 - pkg:cargo/harn-cli@0.10.12
 - pkg:cargo/harn-cli@0.10.13
 - pkg:cargo/harn-cli@0.10.14
