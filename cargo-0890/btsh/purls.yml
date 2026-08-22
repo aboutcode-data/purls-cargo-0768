@@ -5,3 +5,6 @@
 - pkg:cargo/btsh@0.1.6
 - pkg:cargo/btsh@0.1.7
 - pkg:cargo/btsh@0.2.1
+- pkg:cargo/btsh@0.2.2
+- pkg:cargo/btsh@0.2.3
+- pkg:cargo/btsh@0.2.4
