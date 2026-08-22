@@ -9,6 +9,7 @@
 - pkg:cargo/harn-kernel@0.10.108
 - pkg:cargo/harn-kernel@0.10.109
 - pkg:cargo/harn-kernel@0.10.110
+- pkg:cargo/harn-kernel@0.10.111
 - pkg:cargo/harn-kernel@0.10.52
 - pkg:cargo/harn-kernel@0.10.53
 - pkg:cargo/harn-kernel@0.10.54
