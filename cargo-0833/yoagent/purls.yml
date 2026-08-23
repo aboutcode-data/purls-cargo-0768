@@ -19,6 +19,7 @@
 - pkg:cargo/yoagent@0.16.6
 - pkg:cargo/yoagent@0.17.0
 - pkg:cargo/yoagent@0.18.0
+- pkg:cargo/yoagent@0.18.1
 - pkg:cargo/yoagent@0.2.0
 - pkg:cargo/yoagent@0.3.0
 - pkg:cargo/yoagent@0.4.0
