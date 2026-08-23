@@ -7,3 +7,4 @@
 - pkg:cargo/rpmrepo_metadata@0.5.3
 - pkg:cargo/rpmrepo_metadata@0.6.0
 - pkg:cargo/rpmrepo_metadata@0.6.1
+- pkg:cargo/rpmrepo_metadata@0.7.0
