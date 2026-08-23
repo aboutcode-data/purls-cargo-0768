@@ -9,3 +9,4 @@
 - pkg:cargo/antecedent-graph@0.6.0
 - pkg:cargo/antecedent-graph@0.6.1
 - pkg:cargo/antecedent-graph@0.7.0
+- pkg:cargo/antecedent-graph@0.9.0
