@@ -1,3 +1,4 @@
+- pkg:cargo/mnemossh@0.1.12
 - pkg:cargo/mnemossh@0.1.2
 - pkg:cargo/mnemossh@0.1.7
 - pkg:cargo/mnemossh@0.1.9
