@@ -22,6 +22,7 @@
 - pkg:cargo/nu-term-grid@0.114.0
 - pkg:cargo/nu-term-grid@0.114.1
 - pkg:cargo/nu-term-grid@0.115.0
+- pkg:cargo/nu-term-grid@0.115.1
 - pkg:cargo/nu-term-grid@0.60.0
 - pkg:cargo/nu-term-grid@0.61.0
 - pkg:cargo/nu-term-grid@0.62.0
