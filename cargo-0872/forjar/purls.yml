@@ -15,6 +15,7 @@
 - pkg:cargo/forjar@1.13.0
 - pkg:cargo/forjar@1.13.1
 - pkg:cargo/forjar@1.15.0
+- pkg:cargo/forjar@1.17.0
 - pkg:cargo/forjar@1.2.0
 - pkg:cargo/forjar@1.2.1
 - pkg:cargo/forjar@1.3.0
