@@ -130,3 +130,4 @@
 - pkg:cargo/ntex-io@3.9.0
 - pkg:cargo/ntex-io@3.9.1
 - pkg:cargo/ntex-io@3.9.2
+- pkg:cargo/ntex-io@4.0.0-beta.0
