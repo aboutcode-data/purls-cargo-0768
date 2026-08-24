@@ -7,6 +7,8 @@
 - pkg:cargo/hydra-common@12.1.0
 - pkg:cargo/hydra-common@13.0.0
 - pkg:cargo/hydra-common@13.0.1
+- pkg:cargo/hydra-common@13.1.0
+- pkg:cargo/hydra-common@14.0.0
 - pkg:cargo/hydra-common@2.2.0
 - pkg:cargo/hydra-common@2.2.1
 - pkg:cargo/hydra-common@2.3.0
