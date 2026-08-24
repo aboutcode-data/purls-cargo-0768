@@ -1,3 +1,5 @@
 - pkg:cargo/uffs-text@0.5.120
 - pkg:cargo/uffs-text@0.6.24
 - pkg:cargo/uffs-text@0.6.25
+- pkg:cargo/uffs-text@0.6.36
+- pkg:cargo/uffs-text@0.6.37
