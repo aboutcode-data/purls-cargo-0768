@@ -18,3 +18,4 @@
 - pkg:cargo/aprender-cuda-edge@0.60.0
 - pkg:cargo/aprender-cuda-edge@0.61.0
 - pkg:cargo/aprender-cuda-edge@0.63.0
+- pkg:cargo/aprender-cuda-edge@0.64.0

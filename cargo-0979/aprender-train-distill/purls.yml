@@ -17,3 +17,4 @@
 - pkg:cargo/aprender-train-distill@0.60.0
 - pkg:cargo/aprender-train-distill@0.61.0
 - pkg:cargo/aprender-train-distill@0.63.0
+- pkg:cargo/aprender-train-distill@0.64.0
