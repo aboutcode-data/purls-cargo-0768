@@ -9,3 +9,4 @@
 - pkg:cargo/faucet-source-postgres-cdc@1.3.4
 - pkg:cargo/faucet-source-postgres-cdc@1.3.5
 - pkg:cargo/faucet-source-postgres-cdc@1.3.6
+- pkg:cargo/faucet-source-postgres-cdc@1.3.7
