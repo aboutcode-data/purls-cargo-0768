@@ -7,3 +7,4 @@
 - pkg:cargo/fastmcp-server@0.5.0
 - pkg:cargo/fastmcp-server@0.6.0
 - pkg:cargo/fastmcp-server@0.7.0
+- pkg:cargo/fastmcp-server@0.7.1
