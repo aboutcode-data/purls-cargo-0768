@@ -16,6 +16,10 @@
 - pkg:cargo/typedown-server@0.11.3
 - pkg:cargo/typedown-server@0.11.4
 - pkg:cargo/typedown-server@0.11.5
+- pkg:cargo/typedown-server@0.12.0
+- pkg:cargo/typedown-server@0.12.1
+- pkg:cargo/typedown-server@0.12.2
+- pkg:cargo/typedown-server@0.13.0
 - pkg:cargo/typedown-server@0.2.0
 - pkg:cargo/typedown-server@0.2.1
 - pkg:cargo/typedown-server@0.2.2
