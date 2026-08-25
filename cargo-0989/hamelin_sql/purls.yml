@@ -37,6 +37,7 @@
 - pkg:cargo/hamelin_sql@0.18.0
 - pkg:cargo/hamelin_sql@0.19.0
 - pkg:cargo/hamelin_sql@0.20.0
+- pkg:cargo/hamelin_sql@0.20.1
 - pkg:cargo/hamelin_sql@0.3.10
 - pkg:cargo/hamelin_sql@0.3.8
 - pkg:cargo/hamelin_sql@0.3.9
