@@ -3,3 +3,6 @@
 - pkg:cargo/bytehound-opc-da-client@0.2.2
 - pkg:cargo/bytehound-opc-da-client@0.2.3
 - pkg:cargo/bytehound-opc-da-client@0.2.4
+- pkg:cargo/bytehound-opc-da-client@0.2.5
+- pkg:cargo/bytehound-opc-da-client@0.2.6
+- pkg:cargo/bytehound-opc-da-client@0.2.7
