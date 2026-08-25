@@ -4,6 +4,7 @@
 - pkg:cargo/codama-cli@0.12.0
 - pkg:cargo/codama-cli@0.13.0
 - pkg:cargo/codama-cli@0.13.1
+- pkg:cargo/codama-cli@0.13.2
 - pkg:cargo/codama-cli@0.6.5
 - pkg:cargo/codama-cli@0.6.6
 - pkg:cargo/codama-cli@0.7.0
