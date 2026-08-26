@@ -87,3 +87,4 @@
 - pkg:cargo/openssl-src@300.6.0%2B3.6.2
 - pkg:cargo/openssl-src@300.6.1%2B3.6.3
 - pkg:cargo/openssl-src@400.0.0%2B4.0.1
+- pkg:cargo/openssl-src@400.0.1%2B4.0.2
