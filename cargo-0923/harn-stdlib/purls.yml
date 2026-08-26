@@ -19,6 +19,7 @@
 - pkg:cargo/harn-stdlib@0.10.114
 - pkg:cargo/harn-stdlib@0.10.115
 - pkg:cargo/harn-stdlib@0.10.116
+- pkg:cargo/harn-stdlib@0.10.117
 - pkg:cargo/harn-stdlib@0.10.12
 - pkg:cargo/harn-stdlib@0.10.13
 - pkg:cargo/harn-stdlib@0.10.14
