@@ -22,3 +22,4 @@
 - pkg:cargo/openlogi-inject@0.7.5
 - pkg:cargo/openlogi-inject@0.7.6
 - pkg:cargo/openlogi-inject@0.7.7
+- pkg:cargo/openlogi-inject@0.8.0
