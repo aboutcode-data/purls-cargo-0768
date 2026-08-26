@@ -11,6 +11,7 @@
 - pkg:cargo/fallow-engine@3.16.0
 - pkg:cargo/fallow-engine@3.17.0
 - pkg:cargo/fallow-engine@3.18.0
+- pkg:cargo/fallow-engine@3.19.0
 - pkg:cargo/fallow-engine@3.2.0
 - pkg:cargo/fallow-engine@3.3.0
 - pkg:cargo/fallow-engine@3.4.2
