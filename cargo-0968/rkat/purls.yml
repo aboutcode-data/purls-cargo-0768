@@ -105,6 +105,8 @@
 - pkg:cargo/rkat@0.8.25
 - pkg:cargo/rkat@0.8.26
 - pkg:cargo/rkat@0.8.27
+- pkg:cargo/rkat@0.8.28
+- pkg:cargo/rkat@0.8.29
 - pkg:cargo/rkat@0.8.3
 - pkg:cargo/rkat@0.8.4
 - pkg:cargo/rkat@0.8.5
