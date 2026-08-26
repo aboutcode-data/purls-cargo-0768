@@ -106,6 +106,7 @@
 - pkg:cargo/apimock@4.7.1
 - pkg:cargo/apimock@4.7.2
 - pkg:cargo/apimock@4.8.0
+- pkg:cargo/apimock@4.8.1
 - pkg:cargo/apimock@5.0.0
 - pkg:cargo/apimock@5.0.1
 - pkg:cargo/apimock@5.1.1
@@ -121,6 +122,7 @@
 - pkg:cargo/apimock@5.17.0
 - pkg:cargo/apimock@5.18.0
 - pkg:cargo/apimock@5.19.0
+- pkg:cargo/apimock@5.19.1
 - pkg:cargo/apimock@5.2.0
 - pkg:cargo/apimock@5.3.0
 - pkg:cargo/apimock@5.4.0
