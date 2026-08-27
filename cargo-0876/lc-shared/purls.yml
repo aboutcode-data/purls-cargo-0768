@@ -5,5 +5,6 @@
 - pkg:cargo/lc-shared@0.15.0
 - pkg:cargo/lc-shared@0.16.0
 - pkg:cargo/lc-shared@0.17.0
+- pkg:cargo/lc-shared@0.18.0
 - pkg:cargo/lc-shared@0.8.0
 - pkg:cargo/lc-shared@0.9.0
