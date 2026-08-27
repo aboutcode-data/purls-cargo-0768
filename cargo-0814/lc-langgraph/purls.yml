@@ -5,5 +5,7 @@
 - pkg:cargo/lc-langgraph@0.15.0
 - pkg:cargo/lc-langgraph@0.16.0
 - pkg:cargo/lc-langgraph@0.17.0
+- pkg:cargo/lc-langgraph@0.18.0
+- pkg:cargo/lc-langgraph@0.18.1
 - pkg:cargo/lc-langgraph@0.8.0
 - pkg:cargo/lc-langgraph@0.9.0
