@@ -16,6 +16,7 @@
 - pkg:cargo/harn-sqlite@0.10.115
 - pkg:cargo/harn-sqlite@0.10.116
 - pkg:cargo/harn-sqlite@0.10.117
+- pkg:cargo/harn-sqlite@0.10.118
 - pkg:cargo/harn-sqlite@0.10.25
 - pkg:cargo/harn-sqlite@0.10.26
 - pkg:cargo/harn-sqlite@0.10.27
