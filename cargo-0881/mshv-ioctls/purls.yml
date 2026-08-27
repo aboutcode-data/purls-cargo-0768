@@ -21,3 +21,4 @@
 - pkg:cargo/mshv-ioctls@0.6.8
 - pkg:cargo/mshv-ioctls@0.6.9
 - pkg:cargo/mshv-ioctls@0.7.0
+- pkg:cargo/mshv-ioctls@0.7.1
