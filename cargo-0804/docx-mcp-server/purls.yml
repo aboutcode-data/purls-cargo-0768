@@ -2,3 +2,4 @@
 - pkg:cargo/docx-mcp-server@1.1.0
 - pkg:cargo/docx-mcp-server@2.1.0
 - pkg:cargo/docx-mcp-server@2.2.0
+- pkg:cargo/docx-mcp-server@2.2.1
