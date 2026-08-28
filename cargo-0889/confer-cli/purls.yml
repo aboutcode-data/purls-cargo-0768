@@ -38,6 +38,7 @@
 - pkg:cargo/confer-cli@0.8.24
 - pkg:cargo/confer-cli@0.8.25
 - pkg:cargo/confer-cli@0.8.26
+- pkg:cargo/confer-cli@0.8.27
 - pkg:cargo/confer-cli@0.8.3
 - pkg:cargo/confer-cli@0.8.4
 - pkg:cargo/confer-cli@0.8.5
