@@ -41,6 +41,7 @@
 - pkg:cargo/harness-rs-tools-tasks@0.0.5
 - pkg:cargo/harness-rs-tools-tasks@0.0.50
 - pkg:cargo/harness-rs-tools-tasks@0.0.51
+- pkg:cargo/harness-rs-tools-tasks@0.0.52
 - pkg:cargo/harness-rs-tools-tasks@0.0.6
 - pkg:cargo/harness-rs-tools-tasks@0.0.7
 - pkg:cargo/harness-rs-tools-tasks@0.0.8
