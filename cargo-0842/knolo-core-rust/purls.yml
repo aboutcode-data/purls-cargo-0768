@@ -1,1 +1,2 @@
 - pkg:cargo/knolo-core-rust@4.0.0
+- pkg:cargo/knolo-core-rust@5.0.0
