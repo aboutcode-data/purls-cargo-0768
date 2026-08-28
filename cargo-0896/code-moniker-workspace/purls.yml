@@ -7,3 +7,4 @@
 - pkg:cargo/code-moniker-workspace@0.8.0
 - pkg:cargo/code-moniker-workspace@0.9.0
 - pkg:cargo/code-moniker-workspace@0.9.1
+- pkg:cargo/code-moniker-workspace@0.9.2
