@@ -1,3 +1,4 @@
 - pkg:cargo/hyperlight-libc@0.0.0
 - pkg:cargo/hyperlight-libc@0.15.0
 - pkg:cargo/hyperlight-libc@0.16.0
+- pkg:cargo/hyperlight-libc@0.17.0
