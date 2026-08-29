@@ -2,3 +2,4 @@
 - pkg:cargo/bitcache-heap@0.0.1
 - pkg:cargo/bitcache-heap@0.0.2
 - pkg:cargo/bitcache-heap@0.0.3
+- pkg:cargo/bitcache-heap@0.0.4
