@@ -23,6 +23,7 @@
 - pkg:cargo/harn-dap@0.10.118
 - pkg:cargo/harn-dap@0.10.119
 - pkg:cargo/harn-dap@0.10.12
+- pkg:cargo/harn-dap@0.10.120
 - pkg:cargo/harn-dap@0.10.13
 - pkg:cargo/harn-dap@0.10.14
 - pkg:cargo/harn-dap@0.10.15
