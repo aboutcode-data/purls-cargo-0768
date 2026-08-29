@@ -130,6 +130,9 @@
 - pkg:cargo/omnizip-snappy@0.21.11
 - pkg:cargo/omnizip-snappy@0.21.12
 - pkg:cargo/omnizip-snappy@0.21.13
+- pkg:cargo/omnizip-snappy@0.21.14
+- pkg:cargo/omnizip-snappy@0.21.15
+- pkg:cargo/omnizip-snappy@0.21.16
 - pkg:cargo/omnizip-snappy@0.21.7
 - pkg:cargo/omnizip-snappy@0.21.8
 - pkg:cargo/omnizip-snappy@0.21.9
