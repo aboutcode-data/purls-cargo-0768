@@ -1,3 +1,4 @@
+- pkg:cargo/apiplant-oauth@0.10.0
 - pkg:cargo/apiplant-oauth@0.5.0
 - pkg:cargo/apiplant-oauth@0.6.0
 - pkg:cargo/apiplant-oauth@0.6.1
