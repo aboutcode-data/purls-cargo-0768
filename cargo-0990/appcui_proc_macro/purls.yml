@@ -20,3 +20,4 @@
 - pkg:cargo/appcui_proc_macro@0.2.9
 - pkg:cargo/appcui_proc_macro@0.3.0
 - pkg:cargo/appcui_proc_macro@0.3.1
+- pkg:cargo/appcui_proc_macro@0.3.2
