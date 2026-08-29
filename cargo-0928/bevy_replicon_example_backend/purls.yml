@@ -19,3 +19,4 @@
 - pkg:cargo/bevy_replicon_example_backend@0.41.0
 - pkg:cargo/bevy_replicon_example_backend@0.41.0-rc.1
 - pkg:cargo/bevy_replicon_example_backend@0.42.0
+- pkg:cargo/bevy_replicon_example_backend@0.43.0
