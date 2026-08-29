@@ -113,6 +113,7 @@
 - pkg:cargo/fynd-rpc@0.99.19
 - pkg:cargo/fynd-rpc@0.99.2
 - pkg:cargo/fynd-rpc@0.99.20
+- pkg:cargo/fynd-rpc@0.99.21
 - pkg:cargo/fynd-rpc@0.99.3
 - pkg:cargo/fynd-rpc@0.99.4
 - pkg:cargo/fynd-rpc@0.99.5
