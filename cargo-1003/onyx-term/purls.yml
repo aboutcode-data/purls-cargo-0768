@@ -1,1 +1,3 @@
 - pkg:cargo/onyx-term@0.6.0
+- pkg:cargo/onyx-term@0.6.1
+- pkg:cargo/onyx-term@0.7.0
