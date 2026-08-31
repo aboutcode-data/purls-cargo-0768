@@ -25,6 +25,7 @@
 - pkg:cargo/harn-session-store@0.10.121
 - pkg:cargo/harn-session-store@0.10.122
 - pkg:cargo/harn-session-store@0.10.123
+- pkg:cargo/harn-session-store@0.10.124
 - pkg:cargo/harn-session-store@0.10.13
 - pkg:cargo/harn-session-store@0.10.14
 - pkg:cargo/harn-session-store@0.10.15
