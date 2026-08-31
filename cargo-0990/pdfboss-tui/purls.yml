@@ -28,3 +28,4 @@
 - pkg:cargo/pdfboss-tui@0.8.0
 - pkg:cargo/pdfboss-tui@0.9.0
 - pkg:cargo/pdfboss-tui@1.0.0
+- pkg:cargo/pdfboss-tui@1.1.0
