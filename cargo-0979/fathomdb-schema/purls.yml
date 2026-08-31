@@ -30,4 +30,5 @@
 - pkg:cargo/fathomdb-schema@0.8.21
 - pkg:cargo/fathomdb-schema@0.8.22
 - pkg:cargo/fathomdb-schema@0.8.23
+- pkg:cargo/fathomdb-schema@0.8.24
 - pkg:cargo/fathomdb-schema@0.8.9
