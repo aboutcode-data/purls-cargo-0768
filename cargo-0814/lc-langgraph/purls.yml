@@ -8,5 +8,7 @@
 - pkg:cargo/lc-langgraph@0.18.0
 - pkg:cargo/lc-langgraph@0.18.1
 - pkg:cargo/lc-langgraph@0.19.0
+- pkg:cargo/lc-langgraph@0.20.0
+- pkg:cargo/lc-langgraph@0.20.1
 - pkg:cargo/lc-langgraph@0.8.0
 - pkg:cargo/lc-langgraph@0.9.0
