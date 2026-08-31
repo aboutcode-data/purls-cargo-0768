@@ -28,3 +28,4 @@
 - pkg:cargo/hydra-cli@3.6.0
 - pkg:cargo/hydra-cli@4.0.0
 - pkg:cargo/hydra-cli@4.0.1
+- pkg:cargo/hydra-cli@4.1.0
