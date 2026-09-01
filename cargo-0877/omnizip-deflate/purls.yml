@@ -153,6 +153,8 @@
 - pkg:cargo/omnizip-deflate@0.21.34
 - pkg:cargo/omnizip-deflate@0.21.35
 - pkg:cargo/omnizip-deflate@0.21.36
+- pkg:cargo/omnizip-deflate@0.21.37
+- pkg:cargo/omnizip-deflate@0.21.38
 - pkg:cargo/omnizip-deflate@0.21.7
 - pkg:cargo/omnizip-deflate@0.21.8
 - pkg:cargo/omnizip-deflate@0.21.9
