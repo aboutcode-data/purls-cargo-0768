@@ -21,3 +21,4 @@
 - pkg:cargo/appmesh@1.0.7
 - pkg:cargo/appmesh@1.0.8
 - pkg:cargo/appmesh@3.0.0
+- pkg:cargo/appmesh@3.0.1
