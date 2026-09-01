@@ -76,6 +76,7 @@
 - pkg:cargo/iii-helpers@0.22.1-alpha.9
 - pkg:cargo/iii-helpers@0.22.1-rc.1
 - pkg:cargo/iii-helpers@0.22.1-rc.2
+- pkg:cargo/iii-helpers@0.23.0
 - pkg:cargo/iii-helpers@0.23.0-rc.1
 - pkg:cargo/iii-helpers@0.23.0-rc.10
 - pkg:cargo/iii-helpers@0.23.0-rc.2
