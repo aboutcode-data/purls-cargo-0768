@@ -23,6 +23,7 @@
 - pkg:cargo/harn-kernel@0.10.122
 - pkg:cargo/harn-kernel@0.10.123
 - pkg:cargo/harn-kernel@0.10.124
+- pkg:cargo/harn-kernel@0.10.125
 - pkg:cargo/harn-kernel@0.10.52
 - pkg:cargo/harn-kernel@0.10.53
 - pkg:cargo/harn-kernel@0.10.54
