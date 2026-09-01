@@ -139,3 +139,4 @@
 - pkg:cargo/usage-lib@6.4.1
 - pkg:cargo/usage-lib@6.5.0
 - pkg:cargo/usage-lib@6.6.0
+- pkg:cargo/usage-lib@6.6.1
