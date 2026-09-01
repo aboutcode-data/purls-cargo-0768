@@ -169,6 +169,7 @@
 - pkg:cargo/usearch@2.25.3
 - pkg:cargo/usearch@2.26.0
 - pkg:cargo/usearch@2.26.1
+- pkg:cargo/usearch@2.26.2
 - pkg:cargo/usearch@2.3.0
 - pkg:cargo/usearch@2.3.1
 - pkg:cargo/usearch@2.3.2
