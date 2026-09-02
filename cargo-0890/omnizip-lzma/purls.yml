@@ -169,6 +169,9 @@
 - pkg:cargo/omnizip-lzma@0.21.40
 - pkg:cargo/omnizip-lzma@0.21.41
 - pkg:cargo/omnizip-lzma@0.21.42
+- pkg:cargo/omnizip-lzma@0.21.43
+- pkg:cargo/omnizip-lzma@0.21.44
+- pkg:cargo/omnizip-lzma@0.21.45
 - pkg:cargo/omnizip-lzma@0.21.5
 - pkg:cargo/omnizip-lzma@0.21.6
 - pkg:cargo/omnizip-lzma@0.21.7
