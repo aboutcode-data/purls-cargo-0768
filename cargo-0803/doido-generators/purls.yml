@@ -16,7 +16,13 @@
 - pkg:cargo/doido-generators@0.0.26
 - pkg:cargo/doido-generators@0.0.27
 - pkg:cargo/doido-generators@0.0.28
+- pkg:cargo/doido-generators@0.0.29
+- pkg:cargo/doido-generators@0.0.29-rc3
+- pkg:cargo/doido-generators@0.0.29-rc4
+- pkg:cargo/doido-generators@0.0.29-rc5
+- pkg:cargo/doido-generators@0.0.29-rc6
 - pkg:cargo/doido-generators@0.0.29-test.1
+- pkg:cargo/doido-generators@0.0.29-test.2
 - pkg:cargo/doido-generators@0.0.6
 - pkg:cargo/doido-generators@0.0.7
 - pkg:cargo/doido-generators@0.0.9

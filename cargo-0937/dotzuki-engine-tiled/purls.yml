@@ -1,2 +1,6 @@
 - pkg:cargo/dotzuki-engine-tiled@0.1.0
 - pkg:cargo/dotzuki-engine-tiled@0.1.1
+- pkg:cargo/dotzuki-engine-tiled@0.5.4
+- pkg:cargo/dotzuki-engine-tiled@0.5.5
+- pkg:cargo/dotzuki-engine-tiled@0.5.6
+- pkg:cargo/dotzuki-engine-tiled@0.6.0
