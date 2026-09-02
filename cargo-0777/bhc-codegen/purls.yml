@@ -10,6 +10,7 @@
 - pkg:cargo/bhc-codegen@0.2.19
 - pkg:cargo/bhc-codegen@0.2.20
 - pkg:cargo/bhc-codegen@0.2.21
+- pkg:cargo/bhc-codegen@0.2.22
 - pkg:cargo/bhc-codegen@0.2.4
 - pkg:cargo/bhc-codegen@0.2.5
 - pkg:cargo/bhc-codegen@0.2.6
