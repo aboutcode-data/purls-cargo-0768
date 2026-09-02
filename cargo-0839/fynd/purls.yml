@@ -1,4 +1,6 @@
 - pkg:cargo/fynd@0.0.1
+- pkg:cargo/fynd@0.100.0
+- pkg:cargo/fynd@0.100.1
 - pkg:cargo/fynd@0.35.0
 - pkg:cargo/fynd@0.36.0
 - pkg:cargo/fynd@0.37.1
