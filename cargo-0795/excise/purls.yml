@@ -6,3 +6,5 @@
 - pkg:cargo/excise@1.0.1
 - pkg:cargo/excise@1.0.2
 - pkg:cargo/excise@1.1.1
+- pkg:cargo/excise@1.2.0
+- pkg:cargo/excise@1.2.1
