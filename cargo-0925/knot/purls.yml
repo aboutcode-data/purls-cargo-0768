@@ -49,3 +49,4 @@
 - pkg:cargo/knot@1.6.2
 - pkg:cargo/knot@1.7.2
 - pkg:cargo/knot@1.8.0
+- pkg:cargo/knot@1.8.1
