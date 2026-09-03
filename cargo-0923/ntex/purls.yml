@@ -251,3 +251,4 @@
 - pkg:cargo/ntex@4.0.0-beta.0
 - pkg:cargo/ntex@4.0.0-beta.1
 - pkg:cargo/ntex@4.0.0-beta.2
+- pkg:cargo/ntex@4.0.0-beta.3
