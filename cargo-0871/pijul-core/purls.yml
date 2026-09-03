@@ -6,3 +6,5 @@
 - pkg:cargo/pijul-core@1.0.0-beta.17
 - pkg:cargo/pijul-core@1.0.0-beta.18
 - pkg:cargo/pijul-core@1.0.0-beta.20
+- pkg:cargo/pijul-core@1.0.0-beta.21
+- pkg:cargo/pijul-core@1.0.0-beta.22
