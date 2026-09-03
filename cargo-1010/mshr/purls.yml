@@ -5,3 +5,4 @@
 - pkg:cargo/mshr@0.8.26
 - pkg:cargo/mshr@0.8.27
 - pkg:cargo/mshr@0.8.29
+- pkg:cargo/mshr@0.8.30
