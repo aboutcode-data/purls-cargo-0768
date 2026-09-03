@@ -54,6 +54,7 @@
 - pkg:cargo/harness-rs-loop@0.0.59
 - pkg:cargo/harness-rs-loop@0.0.6
 - pkg:cargo/harness-rs-loop@0.0.61
+- pkg:cargo/harness-rs-loop@0.0.62
 - pkg:cargo/harness-rs-loop@0.0.7
 - pkg:cargo/harness-rs-loop@0.0.8
 - pkg:cargo/harness-rs-loop@0.0.9
