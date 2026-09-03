@@ -6,8 +6,12 @@
 - pkg:cargo/codeswarm-adapters@0.7.5
 - pkg:cargo/codeswarm-adapters@0.8.0
 - pkg:cargo/codeswarm-adapters@0.8.1
+- pkg:cargo/codeswarm-adapters@0.8.10
 - pkg:cargo/codeswarm-adapters@0.8.2
 - pkg:cargo/codeswarm-adapters@0.8.3
 - pkg:cargo/codeswarm-adapters@0.8.4
 - pkg:cargo/codeswarm-adapters@0.8.5
 - pkg:cargo/codeswarm-adapters@0.8.6
+- pkg:cargo/codeswarm-adapters@0.8.7
+- pkg:cargo/codeswarm-adapters@0.8.8
+- pkg:cargo/codeswarm-adapters@0.8.9
