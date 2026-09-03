@@ -4,6 +4,7 @@
 - pkg:cargo/beam-cli@0.10.2
 - pkg:cargo/beam-cli@0.11.0
 - pkg:cargo/beam-cli@0.11.1
+- pkg:cargo/beam-cli@0.11.2
 - pkg:cargo/beam-cli@0.2.0
 - pkg:cargo/beam-cli@0.2.3
 - pkg:cargo/beam-cli@0.3.0
