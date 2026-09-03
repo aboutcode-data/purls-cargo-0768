@@ -32,6 +32,7 @@
 - pkg:cargo/hearth-sdk@1.6.0
 - pkg:cargo/hearth-sdk@1.6.1
 - pkg:cargo/hearth-sdk@1.6.10
+- pkg:cargo/hearth-sdk@1.6.11
 - pkg:cargo/hearth-sdk@1.6.2
 - pkg:cargo/hearth-sdk@1.6.3
 - pkg:cargo/hearth-sdk@1.6.4
