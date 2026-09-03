@@ -25,3 +25,5 @@
 - pkg:cargo/lcax_calculation@3.4.2
 - pkg:cargo/lcax_calculation@3.4.3
 - pkg:cargo/lcax_calculation@3.5.0
+- pkg:cargo/lcax_calculation@3.5.1
+- pkg:cargo/lcax_calculation@3.6.0
