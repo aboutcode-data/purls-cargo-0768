@@ -8,6 +8,12 @@
 - pkg:cargo/klieo-provenance-mirror@3.13.0
 - pkg:cargo/klieo-provenance-mirror@3.14.0
 - pkg:cargo/klieo-provenance-mirror@3.15.0
+- pkg:cargo/klieo-provenance-mirror@3.16.0
+- pkg:cargo/klieo-provenance-mirror@3.17.0
+- pkg:cargo/klieo-provenance-mirror@3.17.1
+- pkg:cargo/klieo-provenance-mirror@3.18.0
+- pkg:cargo/klieo-provenance-mirror@3.18.1
+- pkg:cargo/klieo-provenance-mirror@3.19.0
 - pkg:cargo/klieo-provenance-mirror@3.2.0
 - pkg:cargo/klieo-provenance-mirror@3.2.1
 - pkg:cargo/klieo-provenance-mirror@3.3.0
