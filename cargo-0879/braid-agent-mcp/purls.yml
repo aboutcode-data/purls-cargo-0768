@@ -1,0 +1,4 @@
+- pkg:cargo/braid-agent-mcp@0.0.1
+- pkg:cargo/braid-agent-mcp@0.0.3
+- pkg:cargo/braid-agent-mcp@0.0.4
+- pkg:cargo/braid-agent-mcp@0.0.5
