@@ -8,3 +8,5 @@
 - pkg:cargo/tungsten-cli@2.1.1
 - pkg:cargo/tungsten-cli@3.0.0
 - pkg:cargo/tungsten-cli@3.0.0-rc.2
+- pkg:cargo/tungsten-cli@3.1.0
+- pkg:cargo/tungsten-cli@3.1.1
