@@ -1,2 +1,6 @@
 - pkg:cargo/ts_dataplane@0.0.0-alpha0
 - pkg:cargo/ts_dataplane@0.2.0
+- pkg:cargo/ts_dataplane@0.3.2
+- pkg:cargo/ts_dataplane@0.3.3
+- pkg:cargo/ts_dataplane@0.4.0
+- pkg:cargo/ts_dataplane@0.5.0
