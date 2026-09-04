@@ -6,3 +6,5 @@
 - pkg:cargo/rassa-core@0.5.0
 - pkg:cargo/rassa-core@0.5.1
 - pkg:cargo/rassa-core@0.6.0
+- pkg:cargo/rassa-core@0.7.0
+- pkg:cargo/rassa-core@0.7.1
