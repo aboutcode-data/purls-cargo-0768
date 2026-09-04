@@ -7,3 +7,15 @@
 - pkg:cargo/tsafe-cli@1.0.26
 - pkg:cargo/tsafe-cli@1.0.27
 - pkg:cargo/tsafe-cli@1.0.28
+- pkg:cargo/tsafe-cli@1.1.0
+- pkg:cargo/tsafe-cli@1.2.0
+- pkg:cargo/tsafe-cli@1.2.1
+- pkg:cargo/tsafe-cli@2.0.0
+- pkg:cargo/tsafe-cli@2.0.1
+- pkg:cargo/tsafe-cli@3.0.0
+- pkg:cargo/tsafe-cli@3.0.1
+- pkg:cargo/tsafe-cli@3.1.0
+- pkg:cargo/tsafe-cli@3.1.1
+- pkg:cargo/tsafe-cli@3.2.0
+- pkg:cargo/tsafe-cli@3.3.0
+- pkg:cargo/tsafe-cli@4.0.0
