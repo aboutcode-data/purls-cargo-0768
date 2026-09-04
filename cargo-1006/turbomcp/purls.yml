@@ -77,3 +77,6 @@
 - pkg:cargo/turbomcp@3.1.3
 - pkg:cargo/turbomcp@3.1.4
 - pkg:cargo/turbomcp@3.1.5
+- pkg:cargo/turbomcp@3.2.0
+- pkg:cargo/turbomcp@4.0.0-alpha.1
+- pkg:cargo/turbomcp@4.0.0-alpha.2
