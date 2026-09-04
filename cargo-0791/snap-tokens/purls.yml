@@ -3,3 +3,6 @@
 - pkg:cargo/snap-tokens@0.3.0
 - pkg:cargo/snap-tokens@0.4.0
 - pkg:cargo/snap-tokens@0.5.2
+- pkg:cargo/snap-tokens@0.6.0
+- pkg:cargo/snap-tokens@0.6.1
+- pkg:cargo/snap-tokens@0.7.0
