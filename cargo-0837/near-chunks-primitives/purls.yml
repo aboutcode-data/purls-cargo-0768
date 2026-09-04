@@ -68,4 +68,7 @@
 - pkg:cargo/near-chunks-primitives@0.37.0-rc.2
 - pkg:cargo/near-chunks-primitives@0.37.0-rc.3
 - pkg:cargo/near-chunks-primitives@0.37.1
+- pkg:cargo/near-chunks-primitives@0.37.2
+- pkg:cargo/near-chunks-primitives@0.37.3
+- pkg:cargo/near-chunks-primitives@0.37.4
 - pkg:cargo/near-chunks-primitives@0.5.0

@@ -65,3 +65,6 @@
 - pkg:cargo/near-stdx@0.37.0-rc.2
 - pkg:cargo/near-stdx@0.37.0-rc.3
 - pkg:cargo/near-stdx@0.37.1
+- pkg:cargo/near-stdx@0.37.2
+- pkg:cargo/near-stdx@0.37.3
+- pkg:cargo/near-stdx@0.37.4
