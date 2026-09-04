@@ -11,3 +11,5 @@
 - pkg:cargo/netcdf-reader@0.6.1
 - pkg:cargo/netcdf-reader@0.7.0
 - pkg:cargo/netcdf-reader@0.8.0
+- pkg:cargo/netcdf-reader@0.9.0
+- pkg:cargo/netcdf-reader@0.9.1
