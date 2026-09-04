@@ -11,3 +11,5 @@
 - pkg:cargo/tsify-macros@0.4.5
 - pkg:cargo/tsify-macros@0.5.5
 - pkg:cargo/tsify-macros@0.5.6
+- pkg:cargo/tsify-macros@0.5.7
+- pkg:cargo/tsify-macros@0.5.8
