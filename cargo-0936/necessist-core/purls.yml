@@ -49,3 +49,7 @@
 - pkg:cargo/necessist-core@2.2.0
 - pkg:cargo/necessist-core@3.0.0
 - pkg:cargo/necessist-core@3.1.0
+- pkg:cargo/necessist-core@3.2.0
+- pkg:cargo/necessist-core@3.3.0
+- pkg:cargo/necessist-core@3.3.1
+- pkg:cargo/necessist-core@4.0.0

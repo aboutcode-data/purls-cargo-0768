@@ -18,3 +18,7 @@
 - pkg:cargo/necessist-backends@2.2.0
 - pkg:cargo/necessist-backends@3.0.0
 - pkg:cargo/necessist-backends@3.1.0
+- pkg:cargo/necessist-backends@3.2.0
+- pkg:cargo/necessist-backends@3.3.0
+- pkg:cargo/necessist-backends@3.3.1
+- pkg:cargo/necessist-backends@4.0.0
