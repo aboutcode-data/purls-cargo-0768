@@ -18,3 +18,5 @@
 - pkg:cargo/netbox@0.5.3
 - pkg:cargo/netbox@0.5.4
 - pkg:cargo/netbox@0.6.0
+- pkg:cargo/netbox@0.7.0
+- pkg:cargo/netbox@0.8.0
