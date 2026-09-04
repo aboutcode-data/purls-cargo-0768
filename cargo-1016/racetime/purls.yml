@@ -63,6 +63,9 @@
 - pkg:cargo/racetime@0.33.0
 - pkg:cargo/racetime@0.34.0
 - pkg:cargo/racetime@0.35.0
+- pkg:cargo/racetime@0.35.1
+- pkg:cargo/racetime@0.35.2
+- pkg:cargo/racetime@0.35.3
 - pkg:cargo/racetime@0.4.0
 - pkg:cargo/racetime@0.4.1
 - pkg:cargo/racetime@0.4.2
