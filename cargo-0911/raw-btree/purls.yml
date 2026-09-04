@@ -8,3 +8,4 @@
 - pkg:cargo/raw-btree@0.3.1
 - pkg:cargo/raw-btree@0.3.2
 - pkg:cargo/raw-btree@0.3.3
+- pkg:cargo/raw-btree@0.4.0
