@@ -116,3 +116,4 @@
 - pkg:cargo/rdf-types@0.8.8
 - pkg:cargo/rdf-types@0.8.9
 - pkg:cargo/rdf-types@0.9.0
+- pkg:cargo/rdf-types@1.0.0
