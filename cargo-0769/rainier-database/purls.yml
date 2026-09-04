@@ -1,0 +1,4 @@
+- pkg:cargo/rainier-database@1.0.0
+- pkg:cargo/rainier-database@1.0.1
+- pkg:cargo/rainier-database@1.1.0
+- pkg:cargo/rainier-database@2.0.0
