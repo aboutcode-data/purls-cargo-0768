@@ -22,3 +22,4 @@
 - pkg:cargo/ddk-manager@1.1.1
 - pkg:cargo/ddk-manager@1.1.2
 - pkg:cargo/ddk-manager@2.0.0-rc.1
+- pkg:cargo/ddk-manager@2.0.0-rc.2
