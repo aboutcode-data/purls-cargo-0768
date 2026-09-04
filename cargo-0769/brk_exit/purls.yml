@@ -78,3 +78,5 @@
 - pkg:cargo/brk_exit@0.0.82
 - pkg:cargo/brk_exit@0.0.83
 - pkg:cargo/brk_exit@0.0.9
+- pkg:cargo/brk_exit@0.12.1
+- pkg:cargo/brk_exit@0.12.2
