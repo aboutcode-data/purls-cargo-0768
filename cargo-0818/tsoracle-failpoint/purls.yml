@@ -1,0 +1,3 @@
+- pkg:cargo/tsoracle-failpoint@0.1.0
+- pkg:cargo/tsoracle-failpoint@0.1.1
+- pkg:cargo/tsoracle-failpoint@1.0.0
