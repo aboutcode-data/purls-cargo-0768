@@ -2,8 +2,12 @@
 - pkg:cargo/rattler_build_script@0.1.1
 - pkg:cargo/rattler_build_script@0.2.0
 - pkg:cargo/rattler_build_script@0.2.1
+- pkg:cargo/rattler_build_script@0.2.10
 - pkg:cargo/rattler_build_script@0.2.2
 - pkg:cargo/rattler_build_script@0.2.3
 - pkg:cargo/rattler_build_script@0.2.4
 - pkg:cargo/rattler_build_script@0.2.5
 - pkg:cargo/rattler_build_script@0.2.6
+- pkg:cargo/rattler_build_script@0.2.7
+- pkg:cargo/rattler_build_script@0.2.8
+- pkg:cargo/rattler_build_script@0.2.9
