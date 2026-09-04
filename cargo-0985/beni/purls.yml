@@ -1,6 +1,7 @@
 - pkg:cargo/beni@0.0.0
 - pkg:cargo/beni@0.1.0
 - pkg:cargo/beni@0.10.0
+- pkg:cargo/beni@0.11.0
 - pkg:cargo/beni@0.2.0
 - pkg:cargo/beni@0.3.0
 - pkg:cargo/beni@0.4.0
