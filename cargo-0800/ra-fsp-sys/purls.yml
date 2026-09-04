@@ -11,3 +11,4 @@
 - pkg:cargo/ra-fsp-sys@0.1.8
 - pkg:cargo/ra-fsp-sys@0.1.9
 - pkg:cargo/ra-fsp-sys@0.2.0
+- pkg:cargo/ra-fsp-sys@0.2.1
