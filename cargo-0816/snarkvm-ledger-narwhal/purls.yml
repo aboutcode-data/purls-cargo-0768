@@ -47,3 +47,8 @@
 - pkg:cargo/snarkvm-ledger-narwhal@4.6.2
 - pkg:cargo/snarkvm-ledger-narwhal@4.6.3
 - pkg:cargo/snarkvm-ledger-narwhal@4.6.4
+- pkg:cargo/snarkvm-ledger-narwhal@4.7.1
+- pkg:cargo/snarkvm-ledger-narwhal@4.7.3
+- pkg:cargo/snarkvm-ledger-narwhal@4.8.1
+- pkg:cargo/snarkvm-ledger-narwhal@4.9.0
+- pkg:cargo/snarkvm-ledger-narwhal@4.9.1
