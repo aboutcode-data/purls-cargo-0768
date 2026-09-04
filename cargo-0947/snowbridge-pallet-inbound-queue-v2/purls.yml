@@ -1,5 +1,12 @@
 - pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.0.0
 - pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.10.0
+- pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.11.0
+- pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.12.0
+- pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.13.0
+- pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.14.0
+- pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.15.0
+- pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.16.0
+- pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.17.0
 - pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.2.0
 - pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.2.1
 - pkg:cargo/snowbridge-pallet-inbound-queue-v2@0.2.2
