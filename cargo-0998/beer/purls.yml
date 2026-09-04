@@ -2,6 +2,7 @@
 - pkg:cargo/beer@0.0.1
 - pkg:cargo/beer@0.0.2
 - pkg:cargo/beer@0.10.0
+- pkg:cargo/beer@0.11.0
 - pkg:cargo/beer@0.3.0
 - pkg:cargo/beer@0.4.0
 - pkg:cargo/beer@0.5.0
