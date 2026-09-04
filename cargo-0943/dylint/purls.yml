@@ -88,3 +88,4 @@
 - pkg:cargo/dylint@6.0.1
 - pkg:cargo/dylint@6.0.2
 - pkg:cargo/dylint@6.0.3
+- pkg:cargo/dylint@6.0.4
