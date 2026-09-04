@@ -7,3 +7,4 @@
 - pkg:cargo/rtc-hal@0.2.4
 - pkg:cargo/rtc-hal@0.3.0
 - pkg:cargo/rtc-hal@0.3.1
+- pkg:cargo/rtc-hal@0.4.0
