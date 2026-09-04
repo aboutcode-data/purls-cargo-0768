@@ -4,6 +4,7 @@
 - pkg:cargo/tvrank@0.10.2
 - pkg:cargo/tvrank@0.10.3
 - pkg:cargo/tvrank@0.10.4
+- pkg:cargo/tvrank@0.10.6
 - pkg:cargo/tvrank@0.2.0
 - pkg:cargo/tvrank@0.3.0
 - pkg:cargo/tvrank@0.4.1
