@@ -2,3 +2,6 @@
 - pkg:cargo/rdb-pagination-derive@0.2.0
 - pkg:cargo/rdb-pagination-derive@0.3.0
 - pkg:cargo/rdb-pagination-derive@0.3.2
+- pkg:cargo/rdb-pagination-derive@0.3.3
+- pkg:cargo/rdb-pagination-derive@0.3.4
+- pkg:cargo/rdb-pagination-derive@0.3.5
