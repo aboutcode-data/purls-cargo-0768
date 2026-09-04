@@ -6,3 +6,4 @@
 - pkg:cargo/jumpcut@0.7.5
 - pkg:cargo/jumpcut@0.8.0
 - pkg:cargo/jumpcut@0.8.1
+- pkg:cargo/jumpcut@1.0.0
