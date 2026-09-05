@@ -1,1 +1,4 @@
 - pkg:cargo/goose-provider-types@0.1.0-alpha.1
+- pkg:cargo/goose-provider-types@0.1.0-alpha.6
+- pkg:cargo/goose-provider-types@0.1.0-alpha.7
+- pkg:cargo/goose-provider-types@0.1.0-alpha.8
