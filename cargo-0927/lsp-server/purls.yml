@@ -1,4 +1,5 @@
 - pkg:cargo/lsp-server@0.1.0
+- pkg:cargo/lsp-server@0.10.0
 - pkg:cargo/lsp-server@0.2.0
 - pkg:cargo/lsp-server@0.3.0
 - pkg:cargo/lsp-server@0.3.1
@@ -21,3 +22,5 @@
 - pkg:cargo/lsp-server@0.7.7
 - pkg:cargo/lsp-server@0.7.8
 - pkg:cargo/lsp-server@0.7.9
+- pkg:cargo/lsp-server@0.8.0
+- pkg:cargo/lsp-server@0.9.0
