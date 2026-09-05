@@ -1,1 +1,3 @@
 - pkg:cargo/rs-matter-stack@0.0.0
+- pkg:cargo/rs-matter-stack@0.1.0
+- pkg:cargo/rs-matter-stack@0.2.0

@@ -9,3 +9,8 @@
 - pkg:cargo/rsfitsio@0.462.7
 - pkg:cargo/rsfitsio@0.462.8
 - pkg:cargo/rsfitsio@0.462.9
+- pkg:cargo/rsfitsio@0.463.0
+- pkg:cargo/rsfitsio@0.464.0
+- pkg:cargo/rsfitsio@0.470.0
+- pkg:cargo/rsfitsio@0.470.1
+- pkg:cargo/rsfitsio@0.470.2
