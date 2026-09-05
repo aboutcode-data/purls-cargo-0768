@@ -12,6 +12,7 @@
 - pkg:cargo/akd_core@0.12.0-pre.7
 - pkg:cargo/akd_core@0.12.0-pre.8
 - pkg:cargo/akd_core@0.12.0-pre.9
+- pkg:cargo/akd_core@0.13.0
 - pkg:cargo/akd_core@0.8.0
 - pkg:cargo/akd_core@0.8.2
 - pkg:cargo/akd_core@0.8.3
