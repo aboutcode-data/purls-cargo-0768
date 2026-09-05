@@ -1,0 +1,4 @@
+- pkg:cargo/memrust@0.5.3
+- pkg:cargo/memrust@0.5.4
+- pkg:cargo/memrust@0.6.0
+- pkg:cargo/memrust@0.6.1
