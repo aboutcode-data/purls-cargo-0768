@@ -54,3 +54,6 @@
 - pkg:cargo/arti@2.2.0
 - pkg:cargo/arti@2.3.0
 - pkg:cargo/arti@2.4.0
+- pkg:cargo/arti@2.5.0
+- pkg:cargo/arti@2.5.1
+- pkg:cargo/arti@2.6.0
