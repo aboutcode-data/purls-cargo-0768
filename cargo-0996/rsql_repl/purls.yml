@@ -5,3 +5,4 @@
 - pkg:cargo/rsql_repl@0.19.2
 - pkg:cargo/rsql_repl@0.19.3
 - pkg:cargo/rsql_repl@0.19.4
+- pkg:cargo/rsql_repl@0.20.0
