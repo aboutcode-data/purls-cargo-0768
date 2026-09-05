@@ -3,3 +3,4 @@
 - pkg:cargo/argparser@0.1.2
 - pkg:cargo/argparser@0.1.21
 - pkg:cargo/argparser@0.1.22
+- pkg:cargo/argparser@0.2.1
