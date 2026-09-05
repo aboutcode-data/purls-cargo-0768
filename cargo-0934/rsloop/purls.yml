@@ -1,2 +1,6 @@
 - pkg:cargo/rsloop@0.1.14
 - pkg:cargo/rsloop@0.1.15
+- pkg:cargo/rsloop@0.1.21
+- pkg:cargo/rsloop@0.1.32
+- pkg:cargo/rsloop@0.1.33
+- pkg:cargo/rsloop@0.1.44
