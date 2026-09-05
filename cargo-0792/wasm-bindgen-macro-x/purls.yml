@@ -1,2 +1,11 @@
 - pkg:cargo/wasm-bindgen-macro-x@0.2.106-alpha.0
 - pkg:cargo/wasm-bindgen-macro-x@0.2.106-alpha.1
+- pkg:cargo/wasm-bindgen-macro-x@0.2.122-alpha.2
+- pkg:cargo/wasm-bindgen-macro-x@0.2.122-alpha.3
+- pkg:cargo/wasm-bindgen-macro-x@0.2.122-alpha.4
+- pkg:cargo/wasm-bindgen-macro-x@0.2.122-alpha.5
+- pkg:cargo/wasm-bindgen-macro-x@0.2.122-alpha.6
+- pkg:cargo/wasm-bindgen-macro-x@0.2.122-alpha.7
+- pkg:cargo/wasm-bindgen-macro-x@0.2.122-alpha.8
+- pkg:cargo/wasm-bindgen-macro-x@0.2.123-alpha.10
+- pkg:cargo/wasm-bindgen-macro-x@0.2.123-alpha.9

@@ -132,6 +132,16 @@
 - pkg:cargo/wasm-smith@0.247.0
 - pkg:cargo/wasm-smith@0.248.0
 - pkg:cargo/wasm-smith@0.249.0
+- pkg:cargo/wasm-smith@0.250.0
+- pkg:cargo/wasm-smith@0.251.0
+- pkg:cargo/wasm-smith@0.252.0
+- pkg:cargo/wasm-smith@0.253.0
+- pkg:cargo/wasm-smith@0.254.0
+- pkg:cargo/wasm-smith@0.255.0
+- pkg:cargo/wasm-smith@0.256.0
+- pkg:cargo/wasm-smith@0.257.0
+- pkg:cargo/wasm-smith@0.257.1
+- pkg:cargo/wasm-smith@0.258.0
 - pkg:cargo/wasm-smith@0.3.0
 - pkg:cargo/wasm-smith@0.3.1
 - pkg:cargo/wasm-smith@0.3.2
