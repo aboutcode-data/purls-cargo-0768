@@ -30,6 +30,8 @@
 - pkg:cargo/arborium-perl@2.16.0
 - pkg:cargo/arborium-perl@2.17.0
 - pkg:cargo/arborium-perl@2.18.0
+- pkg:cargo/arborium-perl@2.18.1
+- pkg:cargo/arborium-perl@2.18.2
 - pkg:cargo/arborium-perl@2.2.0
 - pkg:cargo/arborium-perl@2.3.0
 - pkg:cargo/arborium-perl@2.3.1
