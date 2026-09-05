@@ -1,4 +1,7 @@
+- pkg:cargo/mecha10-nodes-diagnostics@0.1.0
 - pkg:cargo/mecha10-nodes-diagnostics@0.1.1
 - pkg:cargo/mecha10-nodes-diagnostics@0.1.22
 - pkg:cargo/mecha10-nodes-diagnostics@0.1.23
 - pkg:cargo/mecha10-nodes-diagnostics@0.1.25
+- pkg:cargo/mecha10-nodes-diagnostics@0.6.2
+- pkg:cargo/mecha10-nodes-diagnostics@0.6.3
