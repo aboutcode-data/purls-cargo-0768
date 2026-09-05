@@ -1,3 +1,9 @@
+- pkg:cargo/arvalez-ir@1.10.0
+- pkg:cargo/arvalez-ir@1.11.0
+- pkg:cargo/arvalez-ir@1.12.0
+- pkg:cargo/arvalez-ir@1.12.1
+- pkg:cargo/arvalez-ir@1.13.0
+- pkg:cargo/arvalez-ir@1.13.1
 - pkg:cargo/arvalez-ir@1.4.1
 - pkg:cargo/arvalez-ir@1.5.0
 - pkg:cargo/arvalez-ir@1.6.0
