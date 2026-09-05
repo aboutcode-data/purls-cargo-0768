@@ -1,2 +1,6 @@
+- pkg:cargo/mt_coord@0.10.0
+- pkg:cargo/mt_coord@0.10.1
+- pkg:cargo/mt_coord@0.10.2
 - pkg:cargo/mt_coord@0.7.0
 - pkg:cargo/mt_coord@0.8.0
+- pkg:cargo/mt_coord@0.9.0
