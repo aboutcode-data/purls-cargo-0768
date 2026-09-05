@@ -1,1 +1,3 @@
 - pkg:cargo/luau-derive@0.0.0
+- pkg:cargo/luau-derive@0.732.0
+- pkg:cargo/luau-derive@0.733.0
