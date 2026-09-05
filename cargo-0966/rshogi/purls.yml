@@ -1,4 +1,8 @@
 - pkg:cargo/rshogi@0.10.0
+- pkg:cargo/rshogi@0.10.1
+- pkg:cargo/rshogi@0.10.2
+- pkg:cargo/rshogi@0.10.3
+- pkg:cargo/rshogi@0.11.0
 - pkg:cargo/rshogi@0.2.0
 - pkg:cargo/rshogi@0.3.0
 - pkg:cargo/rshogi@0.4.0
