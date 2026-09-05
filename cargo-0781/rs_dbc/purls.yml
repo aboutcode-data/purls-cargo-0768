@@ -1,3 +1,4 @@
 - pkg:cargo/rs_dbc@0.10.0
 - pkg:cargo/rs_dbc@0.10.1
 - pkg:cargo/rs_dbc@0.10.2
+- pkg:cargo/rs_dbc@0.10.3
