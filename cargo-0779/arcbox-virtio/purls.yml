@@ -2,3 +2,10 @@
 - pkg:cargo/arcbox-virtio@0.1.4
 - pkg:cargo/arcbox-virtio@0.1.5
 - pkg:cargo/arcbox-virtio@0.1.6
+- pkg:cargo/arcbox-virtio@0.4.10
+- pkg:cargo/arcbox-virtio@0.4.9
+- pkg:cargo/arcbox-virtio@0.6.3
+- pkg:cargo/arcbox-virtio@0.6.7
+- pkg:cargo/arcbox-virtio@0.6.8
+- pkg:cargo/arcbox-virtio@0.6.9
+- pkg:cargo/arcbox-virtio@0.7.0

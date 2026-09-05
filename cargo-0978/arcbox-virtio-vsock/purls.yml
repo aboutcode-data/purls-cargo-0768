@@ -1,0 +1,8 @@
+- pkg:cargo/arcbox-virtio-vsock@0.4.10
+- pkg:cargo/arcbox-virtio-vsock@0.4.9
+- pkg:cargo/arcbox-virtio-vsock@0.6.3
+- pkg:cargo/arcbox-virtio-vsock@0.6.4
+- pkg:cargo/arcbox-virtio-vsock@0.6.7
+- pkg:cargo/arcbox-virtio-vsock@0.6.8
+- pkg:cargo/arcbox-virtio-vsock@0.6.9
+- pkg:cargo/arcbox-virtio-vsock@0.7.0
