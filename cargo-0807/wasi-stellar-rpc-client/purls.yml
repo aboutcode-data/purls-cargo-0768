@@ -1,1 +1,2 @@
+- pkg:cargo/wasi-stellar-rpc-client@26.0.0
 - pkg:cargo/wasi-stellar-rpc-client@26.0.0-rc.3
