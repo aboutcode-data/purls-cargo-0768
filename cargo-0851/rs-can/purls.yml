@@ -18,3 +18,5 @@
 - pkg:cargo/rs-can@0.3.0-b0
 - pkg:cargo/rs-can@0.3.1
 - pkg:cargo/rs-can@0.3.2
+- pkg:cargo/rs-can@0.4.0
+- pkg:cargo/rs-can@0.4.1
