@@ -70,6 +70,8 @@
 - pkg:cargo/geiserx_ts_peercapability@0.47.1
 - pkg:cargo/geiserx_ts_peercapability@0.47.2
 - pkg:cargo/geiserx_ts_peercapability@0.47.3
+- pkg:cargo/geiserx_ts_peercapability@0.47.4
+- pkg:cargo/geiserx_ts_peercapability@0.47.5
 - pkg:cargo/geiserx_ts_peercapability@0.6.10
 - pkg:cargo/geiserx_ts_peercapability@0.6.5
 - pkg:cargo/geiserx_ts_peercapability@0.6.7
