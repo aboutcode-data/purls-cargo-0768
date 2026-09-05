@@ -1,2 +1,5 @@
 - pkg:cargo/yubaba@0.0.0
 - pkg:cargo/yubaba@0.8.22
+- pkg:cargo/yubaba@0.8.29
+- pkg:cargo/yubaba@0.8.30
+- pkg:cargo/yubaba@0.8.32
