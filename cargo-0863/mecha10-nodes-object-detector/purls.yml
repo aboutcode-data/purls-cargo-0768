@@ -1,3 +1,4 @@
+- pkg:cargo/mecha10-nodes-object-detector@0.1.0
 - pkg:cargo/mecha10-nodes-object-detector@0.1.1
 - pkg:cargo/mecha10-nodes-object-detector@0.1.22
 - pkg:cargo/mecha10-nodes-object-detector@0.1.23
@@ -5,3 +6,4 @@
 - pkg:cargo/mecha10-nodes-object-detector@0.1.39
 - pkg:cargo/mecha10-nodes-object-detector@0.1.41
 - pkg:cargo/mecha10-nodes-object-detector@0.1.46
+- pkg:cargo/mecha10-nodes-object-detector@0.6.3

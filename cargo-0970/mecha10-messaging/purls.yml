@@ -6,3 +6,5 @@
 - pkg:cargo/mecha10-messaging@0.1.23
 - pkg:cargo/mecha10-messaging@0.1.25
 - pkg:cargo/mecha10-messaging@0.1.46
+- pkg:cargo/mecha10-messaging@0.6.2
+- pkg:cargo/mecha10-messaging@0.6.3
