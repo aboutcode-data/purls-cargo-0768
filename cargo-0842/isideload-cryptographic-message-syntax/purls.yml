@@ -2,3 +2,4 @@
 - pkg:cargo/isideload-cryptographic-message-syntax@0.29.0
 - pkg:cargo/isideload-cryptographic-message-syntax@0.30.0
 - pkg:cargo/isideload-cryptographic-message-syntax@0.31.0
+- pkg:cargo/isideload-cryptographic-message-syntax@0.31.1
