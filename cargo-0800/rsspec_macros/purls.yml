@@ -1,1 +1,2 @@
 - pkg:cargo/rsspec_macros@0.1.0
+- pkg:cargo/rsspec_macros@0.7.0
