@@ -8,3 +8,15 @@
 - pkg:cargo/fhir@1.0.0
 - pkg:cargo/fhir@1.1.0
 - pkg:cargo/fhir@1.2.0
+- pkg:cargo/fhir@1.2.1
+- pkg:cargo/fhir@2.0.0
+- pkg:cargo/fhir@2.1.0
+- pkg:cargo/fhir@3.0.0
+- pkg:cargo/fhir@3.1.0
+- pkg:cargo/fhir@4.0.0
+- pkg:cargo/fhir@4.1.0
+- pkg:cargo/fhir@4.1.1
+- pkg:cargo/fhir@4.1.2
+- pkg:cargo/fhir@4.2.0
+- pkg:cargo/fhir@4.2.1
+- pkg:cargo/fhir@4.2.2
