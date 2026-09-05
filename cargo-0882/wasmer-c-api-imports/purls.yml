@@ -1,0 +1,5 @@
+- pkg:cargo/wasmer-c-api-imports@7.2.0
+- pkg:cargo/wasmer-c-api-imports@7.2.1
+- pkg:cargo/wasmer-c-api-imports@7.3.0
+- pkg:cargo/wasmer-c-api-imports@7.3.0-rc.1
+- pkg:cargo/wasmer-c-api-imports@7.4.0
