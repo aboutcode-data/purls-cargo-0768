@@ -2,3 +2,4 @@
 - pkg:cargo/wmctl@0.0.45
 - pkg:cargo/wmctl@0.0.50
 - pkg:cargo/wmctl@0.0.51
+- pkg:cargo/wmctl@0.0.52
