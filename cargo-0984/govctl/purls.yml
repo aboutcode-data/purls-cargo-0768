@@ -3,6 +3,17 @@
 - pkg:cargo/govctl@0.10.1
 - pkg:cargo/govctl@0.10.2
 - pkg:cargo/govctl@0.11.0
+- pkg:cargo/govctl@0.12.0
+- pkg:cargo/govctl@0.13.0
+- pkg:cargo/govctl@0.14.0
+- pkg:cargo/govctl@0.14.1
+- pkg:cargo/govctl@0.14.2
+- pkg:cargo/govctl@0.15.0
+- pkg:cargo/govctl@0.16.0
+- pkg:cargo/govctl@0.17.0
+- pkg:cargo/govctl@0.18.0
+- pkg:cargo/govctl@0.19.0
+- pkg:cargo/govctl@0.19.1
 - pkg:cargo/govctl@0.2.0
 - pkg:cargo/govctl@0.2.1
 - pkg:cargo/govctl@0.2.2
