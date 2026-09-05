@@ -9,3 +9,4 @@
 - pkg:cargo/rsa-magic-public-key@0.7.0
 - pkg:cargo/rsa-magic-public-key@0.8.0
 - pkg:cargo/rsa-magic-public-key@0.8.1
+- pkg:cargo/rsa-magic-public-key@0.9.0-rc.1
