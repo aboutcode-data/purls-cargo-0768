@@ -15,3 +15,5 @@
 - pkg:cargo/mevy_ecs_syntax@0.2.2
 - pkg:cargo/mevy_ecs_syntax@0.2.3
 - pkg:cargo/mevy_ecs_syntax@0.2.4
+- pkg:cargo/mevy_ecs_syntax@0.2.5
+- pkg:cargo/mevy_ecs_syntax@0.3.0
