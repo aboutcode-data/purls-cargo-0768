@@ -3,3 +3,4 @@
 - pkg:cargo/wasmtime-rwasm@41.0.2-rwasm.1
 - pkg:cargo/wasmtime-rwasm@41.0.2-rwasm.2
 - pkg:cargo/wasmtime-rwasm@41.0.2-rwasm.3
+- pkg:cargo/wasmtime-rwasm@45.0.0-rwasm.1
