@@ -2,3 +2,5 @@
 - pkg:cargo/warpin-http@0.2.0
 - pkg:cargo/warpin-http@0.2.1
 - pkg:cargo/warpin-http@0.2.2
+- pkg:cargo/warpin-http@0.2.5
+- pkg:cargo/warpin-http@0.2.6
