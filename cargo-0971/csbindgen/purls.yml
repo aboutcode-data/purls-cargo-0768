@@ -26,3 +26,4 @@
 - pkg:cargo/csbindgen@1.9.5
 - pkg:cargo/csbindgen@1.9.6
 - pkg:cargo/csbindgen@1.9.7
+- pkg:cargo/csbindgen@1.9.8
