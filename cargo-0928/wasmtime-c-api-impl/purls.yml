@@ -117,3 +117,4 @@
 - pkg:cargo/wasmtime-c-api-impl@47.0.4
 - pkg:cargo/wasmtime-c-api-impl@48.0.0
 - pkg:cargo/wasmtime-c-api-impl@48.0.1
+- pkg:cargo/wasmtime-c-api-impl@49.0.0-rc.1
