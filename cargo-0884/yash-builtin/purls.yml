@@ -17,6 +17,7 @@
 - pkg:cargo/yash-builtin@0.21.1
 - pkg:cargo/yash-builtin@0.22.0
 - pkg:cargo/yash-builtin@0.23.0
+- pkg:cargo/yash-builtin@0.24.0
 - pkg:cargo/yash-builtin@0.3.0
 - pkg:cargo/yash-builtin@0.4.0
 - pkg:cargo/yash-builtin@0.4.1
