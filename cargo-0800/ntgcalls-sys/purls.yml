@@ -11,3 +11,4 @@
 - pkg:cargo/ntgcalls-sys@3.0.0-beta19
 - pkg:cargo/ntgcalls-sys@3.0.0-beta20
 - pkg:cargo/ntgcalls-sys@3.0.0-rc01
+- pkg:cargo/ntgcalls-sys@3.0.0-rc02
