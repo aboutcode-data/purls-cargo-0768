@@ -58,6 +58,7 @@
 - pkg:cargo/snora@0.43.0
 - pkg:cargo/snora@0.44.0
 - pkg:cargo/snora@0.45.0
+- pkg:cargo/snora@0.46.0
 - pkg:cargo/snora@0.5.0
 - pkg:cargo/snora@0.6.0
 - pkg:cargo/snora@0.7.0
