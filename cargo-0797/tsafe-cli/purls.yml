@@ -19,3 +19,4 @@
 - pkg:cargo/tsafe-cli@3.2.0
 - pkg:cargo/tsafe-cli@3.3.0
 - pkg:cargo/tsafe-cli@4.0.0
+- pkg:cargo/tsafe-cli@4.1.0
