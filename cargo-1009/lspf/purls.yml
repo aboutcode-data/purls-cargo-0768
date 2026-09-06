@@ -21,3 +21,4 @@
 - pkg:cargo/lspf@0.9.1
 - pkg:cargo/lspf@0.9.2
 - pkg:cargo/lspf@1.0.0
+- pkg:cargo/lspf@1.0.1
