@@ -33,6 +33,8 @@
 - pkg:cargo/memra-engine@0.127.0
 - pkg:cargo/memra-engine@0.128.0
 - pkg:cargo/memra-engine@0.129.0
+- pkg:cargo/memra-engine@0.130.0
+- pkg:cargo/memra-engine@0.131.0
 - pkg:cargo/memra-engine@0.69.0
 - pkg:cargo/memra-engine@0.70.0
 - pkg:cargo/memra-engine@0.71.0
