@@ -25,3 +25,4 @@
 - pkg:cargo/lua-src@550.1.1
 - pkg:cargo/lua-src@551.0.0
 - pkg:cargo/lua-src@551.0.1
+- pkg:cargo/lua-src@551.0.2
