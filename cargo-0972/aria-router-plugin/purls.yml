@@ -13,3 +13,5 @@
 - pkg:cargo/aria-router-plugin@0.9.1
 - pkg:cargo/aria-router-plugin@1.0.0-rc1
 - pkg:cargo/aria-router-plugin@1.0.0-rc2
+- pkg:cargo/aria-router-plugin@1.0.0-rc3
+- pkg:cargo/aria-router-plugin@1.0.0-rc4
