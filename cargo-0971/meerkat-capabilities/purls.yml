@@ -86,6 +86,7 @@
 - pkg:cargo/meerkat-capabilities@0.8.31
 - pkg:cargo/meerkat-capabilities@0.8.32
 - pkg:cargo/meerkat-capabilities@0.8.33
+- pkg:cargo/meerkat-capabilities@0.8.34
 - pkg:cargo/meerkat-capabilities@0.8.4
 - pkg:cargo/meerkat-capabilities@0.8.5
 - pkg:cargo/meerkat-capabilities@0.8.6
