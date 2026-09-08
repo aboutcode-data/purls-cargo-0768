@@ -69,6 +69,7 @@
 - pkg:cargo/geiserx_ts_control@0.47.0
 - pkg:cargo/geiserx_ts_control@0.47.1
 - pkg:cargo/geiserx_ts_control@0.47.10
+- pkg:cargo/geiserx_ts_control@0.47.11
 - pkg:cargo/geiserx_ts_control@0.47.2
 - pkg:cargo/geiserx_ts_control@0.47.3
 - pkg:cargo/geiserx_ts_control@0.47.4
