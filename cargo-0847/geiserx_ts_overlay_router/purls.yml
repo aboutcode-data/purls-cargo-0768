@@ -68,6 +68,7 @@
 - pkg:cargo/geiserx_ts_overlay_router@0.46.1
 - pkg:cargo/geiserx_ts_overlay_router@0.47.0
 - pkg:cargo/geiserx_ts_overlay_router@0.47.1
+- pkg:cargo/geiserx_ts_overlay_router@0.47.10
 - pkg:cargo/geiserx_ts_overlay_router@0.47.2
 - pkg:cargo/geiserx_ts_overlay_router@0.47.3
 - pkg:cargo/geiserx_ts_overlay_router@0.47.4
@@ -75,6 +76,7 @@
 - pkg:cargo/geiserx_ts_overlay_router@0.47.6
 - pkg:cargo/geiserx_ts_overlay_router@0.47.7
 - pkg:cargo/geiserx_ts_overlay_router@0.47.8
+- pkg:cargo/geiserx_ts_overlay_router@0.47.9
 - pkg:cargo/geiserx_ts_overlay_router@0.6.10
 - pkg:cargo/geiserx_ts_overlay_router@0.6.5
 - pkg:cargo/geiserx_ts_overlay_router@0.6.7
