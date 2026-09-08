@@ -9,3 +9,4 @@
 - pkg:cargo/encode@0.2.4
 - pkg:cargo/encode@1.0.0
 - pkg:cargo/encode@1.0.1
+- pkg:cargo/encode@2.0.0
