@@ -78,6 +78,7 @@
 - pkg:cargo/geiserx_ts_dynbitset@0.47.7
 - pkg:cargo/geiserx_ts_dynbitset@0.47.8
 - pkg:cargo/geiserx_ts_dynbitset@0.47.9
+- pkg:cargo/geiserx_ts_dynbitset@0.48.0
 - pkg:cargo/geiserx_ts_dynbitset@0.6.10
 - pkg:cargo/geiserx_ts_dynbitset@0.6.5
 - pkg:cargo/geiserx_ts_dynbitset@0.6.7
