@@ -2,3 +2,4 @@
 - pkg:cargo/genotype_visitor_macro@0.16.0
 - pkg:cargo/genotype_visitor_macro@0.16.1
 - pkg:cargo/genotype_visitor_macro@0.16.2
+- pkg:cargo/genotype_visitor_macro@0.17.0
