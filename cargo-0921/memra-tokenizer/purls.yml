@@ -39,6 +39,9 @@
 - pkg:cargo/memra-tokenizer@0.132.0
 - pkg:cargo/memra-tokenizer@0.133.0
 - pkg:cargo/memra-tokenizer@0.134.0
+- pkg:cargo/memra-tokenizer@0.135.0
+- pkg:cargo/memra-tokenizer@0.136.0
+- pkg:cargo/memra-tokenizer@0.137.0
 - pkg:cargo/memra-tokenizer@0.69.0
 - pkg:cargo/memra-tokenizer@0.70.0
 - pkg:cargo/memra-tokenizer@0.71.0
