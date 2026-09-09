@@ -20,6 +20,7 @@
 - pkg:cargo/govctl@0.2.2
 - pkg:cargo/govctl@0.2.3
 - pkg:cargo/govctl@0.2.4
+- pkg:cargo/govctl@0.20.0
 - pkg:cargo/govctl@0.3.0
 - pkg:cargo/govctl@0.3.1
 - pkg:cargo/govctl@0.4.0
