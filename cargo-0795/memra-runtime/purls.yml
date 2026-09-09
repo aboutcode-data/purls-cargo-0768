@@ -39,6 +39,9 @@
 - pkg:cargo/memra-runtime@0.132.0
 - pkg:cargo/memra-runtime@0.133.0
 - pkg:cargo/memra-runtime@0.134.0
+- pkg:cargo/memra-runtime@0.135.0
+- pkg:cargo/memra-runtime@0.136.0
+- pkg:cargo/memra-runtime@0.137.0
 - pkg:cargo/memra-runtime@0.69.0
 - pkg:cargo/memra-runtime@0.70.0
 - pkg:cargo/memra-runtime@0.71.0
