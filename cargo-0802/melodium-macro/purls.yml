@@ -1,6 +1,7 @@
 - pkg:cargo/melodium-macro@0.10.0
 - pkg:cargo/melodium-macro@0.10.1
 - pkg:cargo/melodium-macro@0.10.2
+- pkg:cargo/melodium-macro@0.10.3
 - pkg:cargo/melodium-macro@0.6.0
 - pkg:cargo/melodium-macro@0.7.0
 - pkg:cargo/melodium-macro@0.7.0-rc1
