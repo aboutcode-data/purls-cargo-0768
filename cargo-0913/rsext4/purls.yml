@@ -21,3 +21,4 @@
 - pkg:cargo/rsext4@0.7.8
 - pkg:cargo/rsext4@0.8.0
 - pkg:cargo/rsext4@0.8.1
+- pkg:cargo/rsext4@0.9.0
