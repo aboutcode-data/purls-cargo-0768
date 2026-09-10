@@ -13,3 +13,4 @@
 - pkg:cargo/nvpn-fips-core@0.4.77
 - pkg:cargo/nvpn-fips-core@0.4.78
 - pkg:cargo/nvpn-fips-core@0.4.79
+- pkg:cargo/nvpn-fips-core@0.4.81
