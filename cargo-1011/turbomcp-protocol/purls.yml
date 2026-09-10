@@ -81,3 +81,4 @@
 - pkg:cargo/turbomcp-protocol@3.3.0
 - pkg:cargo/turbomcp-protocol@4.0.0-alpha.1
 - pkg:cargo/turbomcp-protocol@4.0.0-alpha.2
+- pkg:cargo/turbomcp-protocol@4.0.0-alpha.4
