@@ -84,6 +84,8 @@
 - pkg:cargo/geiserx_ts_hexdump@0.50.0
 - pkg:cargo/geiserx_ts_hexdump@0.50.1
 - pkg:cargo/geiserx_ts_hexdump@0.51.0
+- pkg:cargo/geiserx_ts_hexdump@0.51.1
+- pkg:cargo/geiserx_ts_hexdump@0.52.0
 - pkg:cargo/geiserx_ts_hexdump@0.6.10
 - pkg:cargo/geiserx_ts_hexdump@0.6.5
 - pkg:cargo/geiserx_ts_hexdump@0.6.7
