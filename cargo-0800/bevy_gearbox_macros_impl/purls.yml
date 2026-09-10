@@ -1,1 +1,2 @@
 - pkg:cargo/bevy_gearbox_macros_impl@0.8.1
+- pkg:cargo/bevy_gearbox_macros_impl@0.9.0
