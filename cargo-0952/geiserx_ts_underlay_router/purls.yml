@@ -89,6 +89,7 @@
 - pkg:cargo/geiserx_ts_underlay_router@0.52.1
 - pkg:cargo/geiserx_ts_underlay_router@0.52.2
 - pkg:cargo/geiserx_ts_underlay_router@0.52.3
+- pkg:cargo/geiserx_ts_underlay_router@0.52.4
 - pkg:cargo/geiserx_ts_underlay_router@0.6.10
 - pkg:cargo/geiserx_ts_underlay_router@0.6.5
 - pkg:cargo/geiserx_ts_underlay_router@0.6.7
