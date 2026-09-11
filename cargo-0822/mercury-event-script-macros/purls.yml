@@ -3,3 +3,4 @@
 - pkg:cargo/mercury-event-script-macros@4.12.3
 - pkg:cargo/mercury-event-script-macros@4.12.4
 - pkg:cargo/mercury-event-script-macros@4.12.5
+- pkg:cargo/mercury-event-script-macros@4.12.6
