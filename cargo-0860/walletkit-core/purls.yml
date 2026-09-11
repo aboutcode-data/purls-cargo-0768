@@ -50,6 +50,7 @@
 - pkg:cargo/walletkit-core@0.21.2
 - pkg:cargo/walletkit-core@0.21.3
 - pkg:cargo/walletkit-core@0.21.4
+- pkg:cargo/walletkit-core@0.21.5
 - pkg:cargo/walletkit-core@0.22.0
 - pkg:cargo/walletkit-core@0.3.1
 - pkg:cargo/walletkit-core@0.3.10
