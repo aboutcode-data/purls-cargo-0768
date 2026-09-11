@@ -28,3 +28,4 @@
 - pkg:cargo/nemo-relay-cli@0.8.2
 - pkg:cargo/nemo-relay-cli@0.8.3
 - pkg:cargo/nemo-relay-cli@0.8.4
+- pkg:cargo/nemo-relay-cli@0.9.0-rc.1
