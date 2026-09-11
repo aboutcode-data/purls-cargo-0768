@@ -3,4 +3,5 @@
 - pkg:cargo/snapfire_compiler@0.10.2
 - pkg:cargo/snapfire_compiler@0.10.3
 - pkg:cargo/snapfire_compiler@0.11.0
+- pkg:cargo/snapfire_compiler@0.11.1
 - pkg:cargo/snapfire_compiler@0.9.0
