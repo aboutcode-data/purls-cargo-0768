@@ -12,3 +12,4 @@
 - pkg:cargo/newton-aggregator@0.5.0
 - pkg:cargo/newton-aggregator@0.5.1
 - pkg:cargo/newton-aggregator@0.5.2
+- pkg:cargo/newton-aggregator@0.5.4
