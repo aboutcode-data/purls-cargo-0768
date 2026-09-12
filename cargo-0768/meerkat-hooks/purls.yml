@@ -117,6 +117,7 @@
 - pkg:cargo/meerkat-hooks@0.8.34
 - pkg:cargo/meerkat-hooks@0.8.35
 - pkg:cargo/meerkat-hooks@0.8.36
+- pkg:cargo/meerkat-hooks@0.8.37
 - pkg:cargo/meerkat-hooks@0.8.4
 - pkg:cargo/meerkat-hooks@0.8.5
 - pkg:cargo/meerkat-hooks@0.8.6
