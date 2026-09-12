@@ -9,6 +9,7 @@
 - pkg:cargo/mediaframe@0.1.8
 - pkg:cargo/mediaframe@0.1.9
 - pkg:cargo/mediaframe@0.10.0
+- pkg:cargo/mediaframe@0.11.0
 - pkg:cargo/mediaframe@0.2.0
 - pkg:cargo/mediaframe@0.3.0
 - pkg:cargo/mediaframe@0.4.0
