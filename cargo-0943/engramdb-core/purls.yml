@@ -13,3 +13,4 @@
 - pkg:cargo/engramdb-core@0.2.6
 - pkg:cargo/engramdb-core@0.2.8
 - pkg:cargo/engramdb-core@0.2.9
+- pkg:cargo/engramdb-core@0.3.0
