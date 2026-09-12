@@ -40,3 +40,4 @@
 - pkg:cargo/dynamo-parsers-v2@0.5.1
 - pkg:cargo/dynamo-parsers-v2@0.5.2
 - pkg:cargo/dynamo-parsers-v2@0.5.3
+- pkg:cargo/dynamo-parsers-v2@0.6.0
