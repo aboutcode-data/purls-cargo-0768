@@ -1,3 +1,5 @@
 - pkg:cargo/wm-governance@9.0.0
 - pkg:cargo/wm-governance@9.1.0
 - pkg:cargo/wm-governance@9.1.1
+- pkg:cargo/wm-governance@9.1.2
+- pkg:cargo/wm-governance@9.1.3
