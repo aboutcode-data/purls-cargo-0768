@@ -1,4 +1,5 @@
 - pkg:cargo/vnfs@0.0.1
+- pkg:cargo/vnfs@0.0.10
 - pkg:cargo/vnfs@0.0.2
 - pkg:cargo/vnfs@0.0.3
 - pkg:cargo/vnfs@0.0.4
@@ -6,4 +7,5 @@
 - pkg:cargo/vnfs@0.0.6
 - pkg:cargo/vnfs@0.0.7
 - pkg:cargo/vnfs@0.0.8
+- pkg:cargo/vnfs@0.0.9
 - pkg:cargo/vnfs@0.1.0
