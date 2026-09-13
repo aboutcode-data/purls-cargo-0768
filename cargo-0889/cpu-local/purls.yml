@@ -5,3 +5,4 @@
 - pkg:cargo/cpu-local@0.2.1
 - pkg:cargo/cpu-local@0.3.0
 - pkg:cargo/cpu-local@0.4.0
+- pkg:cargo/cpu-local@0.4.1
