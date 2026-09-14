@@ -1,2 +1,4 @@
 - pkg:cargo/aicx-parser@0.1.0
+- pkg:cargo/aicx-parser@0.10.0
 - pkg:cargo/aicx-parser@0.2.0
+- pkg:cargo/aicx-parser@0.9.2
