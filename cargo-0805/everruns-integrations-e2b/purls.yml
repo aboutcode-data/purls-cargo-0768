@@ -36,3 +36,5 @@
 - pkg:cargo/everruns-integrations-e2b@0.18.0
 - pkg:cargo/everruns-integrations-e2b@0.18.1
 - pkg:cargo/everruns-integrations-e2b@0.18.2
+- pkg:cargo/everruns-integrations-e2b@0.18.3
+- pkg:cargo/everruns-integrations-e2b@0.18.4
