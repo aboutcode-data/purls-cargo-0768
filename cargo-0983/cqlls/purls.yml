@@ -2,3 +2,4 @@
 - pkg:cargo/cqlls@1.0.1
 - pkg:cargo/cqlls@4.0.0
 - pkg:cargo/cqlls@4.0.1
+- pkg:cargo/cqlls@4.1.0
