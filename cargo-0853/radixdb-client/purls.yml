@@ -1,3 +1,4 @@
 - pkg:cargo/radixdb-client@1.1.0
 - pkg:cargo/radixdb-client@1.2.19
 - pkg:cargo/radixdb-client@1.2.21
+- pkg:cargo/radixdb-client@1.2.25
