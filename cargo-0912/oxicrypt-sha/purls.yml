@@ -1,0 +1,5 @@
+- pkg:cargo/oxicrypt-sha@0.22.0
+- pkg:cargo/oxicrypt-sha@0.23.0
+- pkg:cargo/oxicrypt-sha@0.23.1
+- pkg:cargo/oxicrypt-sha@0.23.2
+- pkg:cargo/oxicrypt-sha@0.24.0
