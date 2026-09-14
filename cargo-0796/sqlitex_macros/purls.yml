@@ -23,3 +23,7 @@
 - pkg:cargo/sqlitex_macros@0.4.1
 - pkg:cargo/sqlitex_macros@0.4.2
 - pkg:cargo/sqlitex_macros@0.4.3
+- pkg:cargo/sqlitex_macros@0.5.0
+- pkg:cargo/sqlitex_macros@0.5.1
+- pkg:cargo/sqlitex_macros@0.5.2
+- pkg:cargo/sqlitex_macros@0.5.3
