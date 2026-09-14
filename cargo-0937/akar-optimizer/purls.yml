@@ -12,3 +12,5 @@
 - pkg:cargo/akar-optimizer@0.1.21
 - pkg:cargo/akar-optimizer@0.1.3
 - pkg:cargo/akar-optimizer@0.1.4
+- pkg:cargo/akar-optimizer@0.2.0
+- pkg:cargo/akar-optimizer@0.2.1
