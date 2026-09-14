@@ -1,1 +1,2 @@
 - pkg:cargo/mesh-llm-embedded-runtime@0.76.1
+- pkg:cargo/mesh-llm-embedded-runtime@0.76.2
