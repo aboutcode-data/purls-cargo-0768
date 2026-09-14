@@ -76,3 +76,5 @@
 - pkg:cargo/sqruff-lib-dialects@0.37.2
 - pkg:cargo/sqruff-lib-dialects@0.37.3
 - pkg:cargo/sqruff-lib-dialects@0.38.0
+- pkg:cargo/sqruff-lib-dialects@0.39.0
+- pkg:cargo/sqruff-lib-dialects@0.40.0
