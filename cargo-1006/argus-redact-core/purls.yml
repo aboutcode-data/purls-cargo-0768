@@ -26,6 +26,9 @@
 - pkg:cargo/argus-redact-core@0.8.14
 - pkg:cargo/argus-redact-core@0.8.15
 - pkg:cargo/argus-redact-core@0.8.16
+- pkg:cargo/argus-redact-core@0.8.17
+- pkg:cargo/argus-redact-core@0.8.18
+- pkg:cargo/argus-redact-core@0.8.19
 - pkg:cargo/argus-redact-core@0.8.2
 - pkg:cargo/argus-redact-core@0.8.3
 - pkg:cargo/argus-redact-core@0.8.4
