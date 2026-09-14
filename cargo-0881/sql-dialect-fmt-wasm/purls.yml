@@ -1,0 +1,15 @@
+- pkg:cargo/sql-dialect-fmt-wasm@0.1.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.0.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.12.1
+- pkg:cargo/sql-dialect-fmt-wasm@1.13.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.14.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.15.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.17.1
+- pkg:cargo/sql-dialect-fmt-wasm@1.17.2
+- pkg:cargo/sql-dialect-fmt-wasm@1.18.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.19.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.20.1
+- pkg:cargo/sql-dialect-fmt-wasm@1.21.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.22.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.22.1
+- pkg:cargo/sql-dialect-fmt-wasm@1.22.2
