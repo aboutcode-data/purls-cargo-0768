@@ -12,3 +12,5 @@
 - pkg:cargo/luciole@4.0.1
 - pkg:cargo/luciole@4.0.2
 - pkg:cargo/luciole@4.1.0
+- pkg:cargo/luciole@4.2.0
+- pkg:cargo/luciole@4.3.0
