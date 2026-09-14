@@ -1,3 +1,5 @@
 - pkg:cargo/otel-arrow-dfe-channel@0.53.0
 - pkg:cargo/otel-arrow-dfe-channel@0.54.0
 - pkg:cargo/otel-arrow-dfe-channel@0.54.1
+- pkg:cargo/otel-arrow-dfe-channel@0.55.0
+- pkg:cargo/otel-arrow-dfe-channel@0.56.0
