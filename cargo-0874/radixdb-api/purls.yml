@@ -1,1 +1,3 @@
 - pkg:cargo/radixdb-api@1.1.0
+- pkg:cargo/radixdb-api@1.2.19
+- pkg:cargo/radixdb-api@1.2.21
