@@ -1,3 +1,11 @@
+- pkg:cargo/oxibrowser-webapi@0.11.0
+- pkg:cargo/oxibrowser-webapi@0.12.0
+- pkg:cargo/oxibrowser-webapi@0.13.0
+- pkg:cargo/oxibrowser-webapi@0.14.0
+- pkg:cargo/oxibrowser-webapi@0.14.1
+- pkg:cargo/oxibrowser-webapi@0.15.0
+- pkg:cargo/oxibrowser-webapi@0.16.0
+- pkg:cargo/oxibrowser-webapi@0.17.0
 - pkg:cargo/oxibrowser-webapi@0.2.0
 - pkg:cargo/oxibrowser-webapi@0.6.0
 - pkg:cargo/oxibrowser-webapi@0.7.0
