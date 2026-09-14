@@ -37,6 +37,8 @@
 - pkg:cargo/everruns-integrations-duckduckgo@0.18.0
 - pkg:cargo/everruns-integrations-duckduckgo@0.18.1
 - pkg:cargo/everruns-integrations-duckduckgo@0.18.2
+- pkg:cargo/everruns-integrations-duckduckgo@0.18.3
+- pkg:cargo/everruns-integrations-duckduckgo@0.18.4
 - pkg:cargo/everruns-integrations-duckduckgo@0.8.33
 - pkg:cargo/everruns-integrations-duckduckgo@0.8.34
 - pkg:cargo/everruns-integrations-duckduckgo@0.8.35
