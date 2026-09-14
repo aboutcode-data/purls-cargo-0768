@@ -12,3 +12,5 @@
 - pkg:cargo/dynomite-search@1.5.0
 - pkg:cargo/dynomite-search@1.6.0
 - pkg:cargo/dynomite-search@1.7.0
+- pkg:cargo/dynomite-search@1.8.0
+- pkg:cargo/dynomite-search@2.0.0
