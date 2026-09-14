@@ -15,6 +15,7 @@
 - pkg:cargo/sqlx_migrator@0.16.2
 - pkg:cargo/sqlx_migrator@0.17.0
 - pkg:cargo/sqlx_migrator@0.18.0
+- pkg:cargo/sqlx_migrator@0.19.0
 - pkg:cargo/sqlx_migrator@0.2.0
 - pkg:cargo/sqlx_migrator@0.2.1
 - pkg:cargo/sqlx_migrator@0.3.0
