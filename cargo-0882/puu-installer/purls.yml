@@ -57,7 +57,10 @@
 - pkg:cargo/puu-installer@1.0.4
 - pkg:cargo/puu-installer@1.0.41
 - pkg:cargo/puu-installer@1.0.42
+- pkg:cargo/puu-installer@1.0.43
+- pkg:cargo/puu-installer@1.0.44
 - pkg:cargo/puu-installer@1.0.5
+- pkg:cargo/puu-installer@1.0.50
 - pkg:cargo/puu-installer@1.0.6
 - pkg:cargo/puu-installer@1.0.7
 - pkg:cargo/puu-installer@1.0.8
