@@ -12,5 +12,6 @@
 - pkg:cargo/warmplane@0.27.0
 - pkg:cargo/warmplane@0.28.0
 - pkg:cargo/warmplane@0.29.0
+- pkg:cargo/warmplane@0.30.0
 - pkg:cargo/warmplane@0.7.0
 - pkg:cargo/warmplane@0.7.1
