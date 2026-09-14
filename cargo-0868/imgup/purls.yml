@@ -4,3 +4,5 @@
 - pkg:cargo/imgup@4.0.0-alpha.6
 - pkg:cargo/imgup@4.0.1
 - pkg:cargo/imgup@4.0.2
+- pkg:cargo/imgup@4.0.3
+- pkg:cargo/imgup@4.1.0
