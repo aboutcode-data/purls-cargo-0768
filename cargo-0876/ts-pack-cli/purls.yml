@@ -36,6 +36,7 @@
 - pkg:cargo/ts-pack-cli@1.18.0
 - pkg:cargo/ts-pack-cli@1.19.0
 - pkg:cargo/ts-pack-cli@1.19.1
+- pkg:cargo/ts-pack-cli@1.20.0
 - pkg:cargo/ts-pack-cli@1.4.1
 - pkg:cargo/ts-pack-cli@1.4.2
 - pkg:cargo/ts-pack-cli@1.6.0
