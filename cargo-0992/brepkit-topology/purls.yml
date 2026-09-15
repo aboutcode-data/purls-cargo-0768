@@ -41,3 +41,6 @@
 - pkg:cargo/brepkit-topology@3.3.8
 - pkg:cargo/brepkit-topology@3.3.9
 - pkg:cargo/brepkit-topology@3.4.0
+- pkg:cargo/brepkit-topology@3.4.1
+- pkg:cargo/brepkit-topology@3.4.2
+- pkg:cargo/brepkit-topology@3.4.3
