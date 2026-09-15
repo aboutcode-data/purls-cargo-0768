@@ -79,6 +79,7 @@
 - pkg:cargo/snarkvm-console-types@3.8.0
 - pkg:cargo/snarkvm-console-types@4.0.0
 - pkg:cargo/snarkvm-console-types@4.1.0
+- pkg:cargo/snarkvm-console-types@4.10.0
 - pkg:cargo/snarkvm-console-types@4.2.0
 - pkg:cargo/snarkvm-console-types@4.2.1
 - pkg:cargo/snarkvm-console-types@4.3.0
