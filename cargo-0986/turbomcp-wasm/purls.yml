@@ -29,3 +29,4 @@
 - pkg:cargo/turbomcp-wasm@3.1.5
 - pkg:cargo/turbomcp-wasm@3.2.0
 - pkg:cargo/turbomcp-wasm@3.3.0
+- pkg:cargo/turbomcp-wasm@3.4.0
