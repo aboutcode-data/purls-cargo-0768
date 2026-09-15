@@ -49,6 +49,7 @@
 - pkg:cargo/lucide-slint@1.43.0
 - pkg:cargo/lucide-slint@1.44.0
 - pkg:cargo/lucide-slint@1.45.0
+- pkg:cargo/lucide-slint@1.46.0
 - pkg:cargo/lucide-slint@1.6.0
 - pkg:cargo/lucide-slint@1.7.0
 - pkg:cargo/lucide-slint@1.8.0
