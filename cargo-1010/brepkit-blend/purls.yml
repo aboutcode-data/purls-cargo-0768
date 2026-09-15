@@ -42,6 +42,11 @@
 - pkg:cargo/brepkit-blend@3.3.9
 - pkg:cargo/brepkit-blend@3.4.0
 - pkg:cargo/brepkit-blend@3.4.1
+- pkg:cargo/brepkit-blend@3.4.10
+- pkg:cargo/brepkit-blend@3.4.11
+- pkg:cargo/brepkit-blend@3.4.12
+- pkg:cargo/brepkit-blend@3.4.13
+- pkg:cargo/brepkit-blend@3.4.14
 - pkg:cargo/brepkit-blend@3.4.2
 - pkg:cargo/brepkit-blend@3.4.3
 - pkg:cargo/brepkit-blend@3.4.4
@@ -49,3 +54,4 @@
 - pkg:cargo/brepkit-blend@3.4.6
 - pkg:cargo/brepkit-blend@3.4.7
 - pkg:cargo/brepkit-blend@3.4.8
+- pkg:cargo/brepkit-blend@3.4.9
