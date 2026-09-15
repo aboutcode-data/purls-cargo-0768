@@ -79,6 +79,7 @@
 - pkg:cargo/snarkvm-circuit-algorithms@3.8.0
 - pkg:cargo/snarkvm-circuit-algorithms@4.0.0
 - pkg:cargo/snarkvm-circuit-algorithms@4.1.0
+- pkg:cargo/snarkvm-circuit-algorithms@4.10.0
 - pkg:cargo/snarkvm-circuit-algorithms@4.2.0
 - pkg:cargo/snarkvm-circuit-algorithms@4.2.1
 - pkg:cargo/snarkvm-circuit-algorithms@4.3.0
