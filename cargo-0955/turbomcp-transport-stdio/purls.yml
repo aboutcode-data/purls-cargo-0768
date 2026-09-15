@@ -1,3 +1,4 @@
 - pkg:cargo/turbomcp-transport-stdio@4.0.0-alpha.1
 - pkg:cargo/turbomcp-transport-stdio@4.0.0-alpha.2
 - pkg:cargo/turbomcp-transport-stdio@4.0.0-alpha.4
+- pkg:cargo/turbomcp-transport-stdio@4.0.0-alpha.5
