@@ -38,6 +38,10 @@
 - pkg:cargo/otelite-storage@0.1.131
 - pkg:cargo/otelite-storage@0.1.132
 - pkg:cargo/otelite-storage@0.1.133
+- pkg:cargo/otelite-storage@0.1.134
+- pkg:cargo/otelite-storage@0.1.135
+- pkg:cargo/otelite-storage@0.1.136
+- pkg:cargo/otelite-storage@0.1.137
 - pkg:cargo/otelite-storage@0.1.14
 - pkg:cargo/otelite-storage@0.1.15
 - pkg:cargo/otelite-storage@0.1.16
