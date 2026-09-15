@@ -77,4 +77,5 @@
 - pkg:cargo/uv-platform-tags@0.0.79
 - pkg:cargo/uv-platform-tags@0.0.8
 - pkg:cargo/uv-platform-tags@0.0.80
+- pkg:cargo/uv-platform-tags@0.0.81
 - pkg:cargo/uv-platform-tags@0.0.9
