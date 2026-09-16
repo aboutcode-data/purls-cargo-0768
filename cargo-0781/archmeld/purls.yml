@@ -8,3 +8,5 @@
 - pkg:cargo/archmeld@1.3.8
 - pkg:cargo/archmeld@1.4.10
 - pkg:cargo/archmeld@1.4.12
+- pkg:cargo/archmeld@1.4.13
+- pkg:cargo/archmeld@1.4.14
