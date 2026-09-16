@@ -1,5 +1,7 @@
 - pkg:cargo/iroh-blobs@0.100.0
 - pkg:cargo/iroh-blobs@0.101.0
+- pkg:cargo/iroh-blobs@0.102.0
+- pkg:cargo/iroh-blobs@0.103.0
 - pkg:cargo/iroh-blobs@0.16.0
 - pkg:cargo/iroh-blobs@0.16.2
 - pkg:cargo/iroh-blobs@0.17.0
