@@ -15,6 +15,7 @@
 - pkg:cargo/oxo-flow-core@0.17.2
 - pkg:cargo/oxo-flow-core@0.18.0
 - pkg:cargo/oxo-flow-core@0.18.1
+- pkg:cargo/oxo-flow-core@0.18.2
 - pkg:cargo/oxo-flow-core@0.2.0
 - pkg:cargo/oxo-flow-core@0.3.0
 - pkg:cargo/oxo-flow-core@0.3.1
