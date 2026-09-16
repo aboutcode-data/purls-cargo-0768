@@ -29,3 +29,5 @@
 - pkg:cargo/wasmer-backend-api@0.703.0
 - pkg:cargo/wasmer-backend-api@0.703.0-rc.1
 - pkg:cargo/wasmer-backend-api@0.704.0
+- pkg:cargo/wasmer-backend-api@0.704.1
+- pkg:cargo/wasmer-backend-api@0.704.2
