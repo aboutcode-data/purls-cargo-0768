@@ -26,3 +26,6 @@
 - pkg:cargo/purrdf-iri@0.9.0
 - pkg:cargo/purrdf-iri@1.0.0
 - pkg:cargo/purrdf-iri@1.1.0
+- pkg:cargo/purrdf-iri@2.0.0
+- pkg:cargo/purrdf-iri@2.0.1
+- pkg:cargo/purrdf-iri@2.0.2
