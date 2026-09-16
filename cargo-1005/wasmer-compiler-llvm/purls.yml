@@ -105,3 +105,5 @@
 - pkg:cargo/wasmer-compiler-llvm@7.3.0
 - pkg:cargo/wasmer-compiler-llvm@7.3.0-rc.1
 - pkg:cargo/wasmer-compiler-llvm@7.4.0
+- pkg:cargo/wasmer-compiler-llvm@7.4.1
+- pkg:cargo/wasmer-compiler-llvm@7.4.2
