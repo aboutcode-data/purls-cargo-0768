@@ -17,3 +17,5 @@
 - pkg:cargo/mtorrent-core@0.5.3
 - pkg:cargo/mtorrent-core@0.5.4
 - pkg:cargo/mtorrent-core@0.5.5
+- pkg:cargo/mtorrent-core@0.5.6
+- pkg:cargo/mtorrent-core@0.6.0
