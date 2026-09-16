@@ -1,1 +1,2 @@
 - pkg:cargo/bevy_extract_macros@0.0.1
+- pkg:cargo/bevy_extract_macros@0.20.0-rc.1
