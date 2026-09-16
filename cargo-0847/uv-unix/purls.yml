@@ -65,3 +65,4 @@
 - pkg:cargo/uv-unix@0.0.79
 - pkg:cargo/uv-unix@0.0.80
 - pkg:cargo/uv-unix@0.0.81
+- pkg:cargo/uv-unix@0.0.82
