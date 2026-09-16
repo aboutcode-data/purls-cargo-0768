@@ -14,6 +14,7 @@
 - pkg:cargo/meo-skia-canvas@0.16.0
 - pkg:cargo/meo-skia-canvas@0.16.1
 - pkg:cargo/meo-skia-canvas@0.16.2
+- pkg:cargo/meo-skia-canvas@0.16.3
 - pkg:cargo/meo-skia-canvas@0.2.0
 - pkg:cargo/meo-skia-canvas@0.3.0
 - pkg:cargo/meo-skia-canvas@0.3.1
