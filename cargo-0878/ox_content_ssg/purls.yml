@@ -164,3 +164,5 @@
 - pkg:cargo/ox_content_ssg@3.2.4
 - pkg:cargo/ox_content_ssg@3.2.5
 - pkg:cargo/ox_content_ssg@3.2.6
+- pkg:cargo/ox_content_ssg@3.2.7
+- pkg:cargo/ox_content_ssg@3.2.8
