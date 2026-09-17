@@ -51,3 +51,4 @@
 - pkg:cargo/generic_a_star@5.0.1
 - pkg:cargo/generic_a_star@6.0.0
 - pkg:cargo/generic_a_star@6.0.1
+- pkg:cargo/generic_a_star@7.0.0
