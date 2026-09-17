@@ -15,5 +15,6 @@
 - pkg:cargo/lc-core@0.22.1
 - pkg:cargo/lc-core@0.22.4
 - pkg:cargo/lc-core@0.23.0
+- pkg:cargo/lc-core@0.24.0
 - pkg:cargo/lc-core@0.8.0
 - pkg:cargo/lc-core@0.9.0
