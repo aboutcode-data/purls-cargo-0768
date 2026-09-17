@@ -1,1 +1,2 @@
 - pkg:cargo/arm-sysregs-aarch32@0.4.0
+- pkg:cargo/arm-sysregs-aarch32@0.5.1
