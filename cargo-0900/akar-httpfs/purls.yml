@@ -13,3 +13,4 @@
 - pkg:cargo/akar-httpfs@0.1.21
 - pkg:cargo/akar-httpfs@0.2.0
 - pkg:cargo/akar-httpfs@0.2.1
+- pkg:cargo/akar-httpfs@0.2.2
