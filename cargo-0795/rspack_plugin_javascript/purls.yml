@@ -34,6 +34,7 @@
 - pkg:cargo/rspack_plugin_javascript@0.102.2
 - pkg:cargo/rspack_plugin_javascript@0.102.3
 - pkg:cargo/rspack_plugin_javascript@0.102.4
+- pkg:cargo/rspack_plugin_javascript@0.102.5
 - pkg:cargo/rspack_plugin_javascript@0.2.0
 - pkg:cargo/rspack_plugin_javascript@0.2.1-alpha.0
 - pkg:cargo/rspack_plugin_javascript@0.2.1-alpha.1
