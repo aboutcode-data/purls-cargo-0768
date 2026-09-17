@@ -4,5 +4,6 @@
 - pkg:cargo/pulpit@0.0.14
 - pkg:cargo/pulpit@0.0.15
 - pkg:cargo/pulpit@0.0.16
+- pkg:cargo/pulpit@0.0.17
 - pkg:cargo/pulpit@0.0.5
 - pkg:cargo/pulpit@0.0.9
