@@ -59,3 +59,4 @@
 - pkg:cargo/aws-runtime@1.9.1
 - pkg:cargo/aws-runtime@1.9.2
 - pkg:cargo/aws-runtime@1.9.3
+- pkg:cargo/aws-runtime@1.9.4
