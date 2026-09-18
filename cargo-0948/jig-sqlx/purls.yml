@@ -1,3 +1,4 @@
 - pkg:cargo/jig-sqlx@0.2.0
 - pkg:cargo/jig-sqlx@0.2.0-beta.1
 - pkg:cargo/jig-sqlx@0.3.0
+- pkg:cargo/jig-sqlx@0.4.0
