@@ -10,6 +10,7 @@
 - pkg:cargo/brokk-mj-controller@2.11.0
 - pkg:cargo/brokk-mj-controller@2.12.0
 - pkg:cargo/brokk-mj-controller@2.13.0
+- pkg:cargo/brokk-mj-controller@2.14.0
 - pkg:cargo/brokk-mj-controller@2.2.0
 - pkg:cargo/brokk-mj-controller@2.3.0
 - pkg:cargo/brokk-mj-controller@2.3.1
