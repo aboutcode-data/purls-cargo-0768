@@ -17,3 +17,4 @@
 - pkg:cargo/nestrs-prisma@0.5.1
 - pkg:cargo/nestrs-prisma@0.5.2
 - pkg:cargo/nestrs-prisma@1.0.0
+- pkg:cargo/nestrs-prisma@1.2.0
