@@ -25,6 +25,9 @@
 - pkg:cargo/brokk-mj-tui@2.1.3
 - pkg:cargo/brokk-mj-tui@2.1.4
 - pkg:cargo/brokk-mj-tui@2.10.0
+- pkg:cargo/brokk-mj-tui@2.11.0
+- pkg:cargo/brokk-mj-tui@2.12.0
+- pkg:cargo/brokk-mj-tui@2.13.0
 - pkg:cargo/brokk-mj-tui@2.2.0
 - pkg:cargo/brokk-mj-tui@2.3.0
 - pkg:cargo/brokk-mj-tui@2.3.1
