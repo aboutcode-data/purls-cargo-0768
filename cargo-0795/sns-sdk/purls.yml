@@ -11,3 +11,4 @@
 - pkg:cargo/sns-sdk@2.0.0
 - pkg:cargo/sns-sdk@2.1.0-beta.0
 - pkg:cargo/sns-sdk@3.0.0-beta.0
+- pkg:cargo/sns-sdk@3.0.0-beta.1
