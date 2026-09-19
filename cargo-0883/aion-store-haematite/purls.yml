@@ -29,6 +29,7 @@
 - pkg:cargo/aion-store-haematite@0.27.1
 - pkg:cargo/aion-store-haematite@0.29.0
 - pkg:cargo/aion-store-haematite@0.30.0
+- pkg:cargo/aion-store-haematite@0.31.0
 - pkg:cargo/aion-store-haematite@0.8.0
 - pkg:cargo/aion-store-haematite@0.9.0
 - pkg:cargo/aion-store-haematite@0.9.1
