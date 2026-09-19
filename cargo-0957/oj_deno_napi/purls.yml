@@ -1,2 +1,4 @@
 - pkg:cargo/oj_deno_napi@0.190.0
 - pkg:cargo/oj_deno_napi@0.2.0
+- pkg:cargo/oj_deno_napi@0.2.1
+- pkg:cargo/oj_deno_napi@0.2.2
