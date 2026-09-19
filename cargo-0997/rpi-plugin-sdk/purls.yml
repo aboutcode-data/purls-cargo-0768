@@ -10,6 +10,7 @@
 - pkg:cargo/rpi-plugin-sdk@0.1.19
 - pkg:cargo/rpi-plugin-sdk@0.1.20
 - pkg:cargo/rpi-plugin-sdk@0.1.21
+- pkg:cargo/rpi-plugin-sdk@0.1.22
 - pkg:cargo/rpi-plugin-sdk@0.1.4
 - pkg:cargo/rpi-plugin-sdk@0.1.5
 - pkg:cargo/rpi-plugin-sdk@0.1.6
