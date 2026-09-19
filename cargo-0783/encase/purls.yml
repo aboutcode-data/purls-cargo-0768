@@ -9,6 +9,7 @@
 - pkg:cargo/encase@0.12.0
 - pkg:cargo/encase@0.12.1
 - pkg:cargo/encase@0.12.2
+- pkg:cargo/encase@0.13.0
 - pkg:cargo/encase@0.2.0
 - pkg:cargo/encase@0.2.1
 - pkg:cargo/encase@0.3.0
