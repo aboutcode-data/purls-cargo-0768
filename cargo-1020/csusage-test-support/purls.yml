@@ -1,5 +1,6 @@
 - pkg:cargo/csusage-test-support@0.0.0
 - pkg:cargo/csusage-test-support@0.0.1
+- pkg:cargo/csusage-test-support@0.0.10
 - pkg:cargo/csusage-test-support@0.0.2
 - pkg:cargo/csusage-test-support@0.0.3
 - pkg:cargo/csusage-test-support@0.0.4
@@ -7,3 +8,4 @@
 - pkg:cargo/csusage-test-support@0.0.6
 - pkg:cargo/csusage-test-support@0.0.7
 - pkg:cargo/csusage-test-support@0.0.8
+- pkg:cargo/csusage-test-support@0.0.9
