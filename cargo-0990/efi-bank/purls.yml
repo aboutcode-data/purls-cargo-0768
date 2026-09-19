@@ -25,3 +25,5 @@
 - pkg:cargo/efi-bank@0.1.7
 - pkg:cargo/efi-bank@0.1.8
 - pkg:cargo/efi-bank@0.1.9
+- pkg:cargo/efi-bank@0.2.0
+- pkg:cargo/efi-bank@0.2.1
