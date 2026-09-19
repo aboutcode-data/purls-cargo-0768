@@ -9,3 +9,4 @@
 - pkg:cargo/srcgraph-core@0.8.34
 - pkg:cargo/srcgraph-core@0.8.36
 - pkg:cargo/srcgraph-core@0.8.37
+- pkg:cargo/srcgraph-core@0.8.40
