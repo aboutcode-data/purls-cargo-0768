@@ -1,2 +1,3 @@
 - pkg:cargo/aimdb-persistence-sqlite@0.1.0
 - pkg:cargo/aimdb-persistence-sqlite@0.1.1
+- pkg:cargo/aimdb-persistence-sqlite@0.2.0
