@@ -53,3 +53,5 @@
 - pkg:cargo/vpxtool@0.34.1
 - pkg:cargo/vpxtool@0.34.2
 - pkg:cargo/vpxtool@0.34.3
+- pkg:cargo/vpxtool@0.34.4
+- pkg:cargo/vpxtool@0.34.5
