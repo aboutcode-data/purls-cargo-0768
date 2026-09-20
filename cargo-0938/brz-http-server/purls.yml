@@ -5,6 +5,7 @@
 - pkg:cargo/brz-http-server@0.0.14
 - pkg:cargo/brz-http-server@0.0.15
 - pkg:cargo/brz-http-server@0.0.16
+- pkg:cargo/brz-http-server@0.0.17
 - pkg:cargo/brz-http-server@0.0.7
 - pkg:cargo/brz-http-server@0.0.8
 - pkg:cargo/brz-http-server@0.0.9
