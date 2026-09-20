@@ -1,2 +1,3 @@
 - pkg:cargo/beni-macros@0.0.0
 - pkg:cargo/beni-macros@0.17.0
+- pkg:cargo/beni-macros@0.18.0
