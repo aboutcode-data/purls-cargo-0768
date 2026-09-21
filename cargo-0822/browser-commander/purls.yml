@@ -13,5 +13,6 @@
 - pkg:cargo/browser-commander@0.10.9
 - pkg:cargo/browser-commander@0.11.0
 - pkg:cargo/browser-commander@0.12.0
+- pkg:cargo/browser-commander@0.12.1
 - pkg:cargo/browser-commander@0.4.0
 - pkg:cargo/browser-commander@0.9.1
