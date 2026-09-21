@@ -38,6 +38,7 @@
 - pkg:cargo/amont-runtime@1.36.0
 - pkg:cargo/amont-runtime@1.36.1
 - pkg:cargo/amont-runtime@1.36.2
+- pkg:cargo/amont-runtime@1.37.0
 - pkg:cargo/amont-runtime@1.4.0
 - pkg:cargo/amont-runtime@1.4.1
 - pkg:cargo/amont-runtime@1.5.0
