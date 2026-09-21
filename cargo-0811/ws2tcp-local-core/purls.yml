@@ -9,3 +9,5 @@
 - pkg:cargo/ws2tcp-local-core@0.1.8
 - pkg:cargo/ws2tcp-local-core@0.1.9
 - pkg:cargo/ws2tcp-local-core@0.2.0
+- pkg:cargo/ws2tcp-local-core@0.3.0
+- pkg:cargo/ws2tcp-local-core@0.3.1
