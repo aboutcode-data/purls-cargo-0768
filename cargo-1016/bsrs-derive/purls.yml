@@ -10,3 +10,4 @@
 - pkg:cargo/bsrs-derive@0.5.4
 - pkg:cargo/bsrs-derive@0.5.5
 - pkg:cargo/bsrs-derive@0.5.6
+- pkg:cargo/bsrs-derive@0.5.7
