@@ -16,3 +16,4 @@
 - pkg:cargo/arg-derive@0.4.6
 - pkg:cargo/arg-derive@0.4.7
 - pkg:cargo/arg-derive@0.4.8
+- pkg:cargo/arg-derive@0.4.9
