@@ -1,1 +1,3 @@
 - pkg:cargo/mesmo@0.0.0-bootstrap.0
+- pkg:cargo/mesmo@0.1.0-pre7
+- pkg:cargo/mesmo@0.1.0-pre8
