@@ -5,3 +5,5 @@
 - pkg:cargo/gen-capnp-schemas@0.2.0
 - pkg:cargo/gen-capnp-schemas@0.2.1
 - pkg:cargo/gen-capnp-schemas@0.2.2
+- pkg:cargo/gen-capnp-schemas@0.3.0
+- pkg:cargo/gen-capnp-schemas@0.3.1
