@@ -4,6 +4,7 @@
 - pkg:cargo/brokk-mj-checkpoint@2.13.0
 - pkg:cargo/brokk-mj-checkpoint@2.14.0
 - pkg:cargo/brokk-mj-checkpoint@2.15.0
+- pkg:cargo/brokk-mj-checkpoint@2.16.0
 - pkg:cargo/brokk-mj-checkpoint@2.7.0
 - pkg:cargo/brokk-mj-checkpoint@2.7.1
 - pkg:cargo/brokk-mj-checkpoint@2.7.2
