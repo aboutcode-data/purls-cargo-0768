@@ -34,3 +34,4 @@
 - pkg:cargo/oxc_jsdoc@0.148.0
 - pkg:cargo/oxc_jsdoc@0.149.0
 - pkg:cargo/oxc_jsdoc@0.150.0
+- pkg:cargo/oxc_jsdoc@0.151.0
