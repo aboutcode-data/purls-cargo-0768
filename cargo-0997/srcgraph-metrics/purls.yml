@@ -10,3 +10,4 @@
 - pkg:cargo/srcgraph-metrics@0.8.36
 - pkg:cargo/srcgraph-metrics@0.8.37
 - pkg:cargo/srcgraph-metrics@0.8.40
+- pkg:cargo/srcgraph-metrics@0.8.41
