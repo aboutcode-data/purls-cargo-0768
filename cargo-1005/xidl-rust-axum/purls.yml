@@ -110,3 +110,4 @@
 - pkg:cargo/xidl-rust-axum@0.92.1
 - pkg:cargo/xidl-rust-axum@0.93.0
 - pkg:cargo/xidl-rust-axum@0.93.1
+- pkg:cargo/xidl-rust-axum@0.94.0

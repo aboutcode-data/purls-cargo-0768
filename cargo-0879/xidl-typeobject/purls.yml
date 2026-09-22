@@ -111,3 +111,4 @@
 - pkg:cargo/xidl-typeobject@0.92.1
 - pkg:cargo/xidl-typeobject@0.93.0
 - pkg:cargo/xidl-typeobject@0.93.1
+- pkg:cargo/xidl-typeobject@0.94.0
