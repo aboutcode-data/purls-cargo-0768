@@ -13,3 +13,11 @@
 - pkg:cargo/doido-auth-route-dsl@0.0.29-rc6
 - pkg:cargo/doido-auth-route-dsl@0.0.29-test.1
 - pkg:cargo/doido-auth-route-dsl@0.0.29-test.2
+- pkg:cargo/doido-auth-route-dsl@0.0.30
+- pkg:cargo/doido-auth-route-dsl@0.0.30-test1
+- pkg:cargo/doido-auth-route-dsl@0.0.30-test2
+- pkg:cargo/doido-auth-route-dsl@0.0.30-test3
+- pkg:cargo/doido-auth-route-dsl@0.0.30-test4
+- pkg:cargo/doido-auth-route-dsl@0.0.30-test5
+- pkg:cargo/doido-auth-route-dsl@0.0.30-test6
+- pkg:cargo/doido-auth-route-dsl@0.0.30-test7
