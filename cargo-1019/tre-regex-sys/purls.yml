@@ -7,3 +7,9 @@
 - pkg:cargo/tre-regex-sys@0.3.1
 - pkg:cargo/tre-regex-sys@0.4.0
 - pkg:cargo/tre-regex-sys@0.4.1
+- pkg:cargo/tre-regex-sys@0.5.0
+- pkg:cargo/tre-regex-sys@0.5.1
+- pkg:cargo/tre-regex-sys@0.5.2
+- pkg:cargo/tre-regex-sys@0.5.3
+- pkg:cargo/tre-regex-sys@0.5.4
+- pkg:cargo/tre-regex-sys@0.5.5
