@@ -1,3 +1,6 @@
 - pkg:cargo/librqbit-clone-to-owned@2.2.1
 - pkg:cargo/librqbit-clone-to-owned@3.0.0
 - pkg:cargo/librqbit-clone-to-owned@3.0.1
+- pkg:cargo/librqbit-clone-to-owned@9.0.0
+- pkg:cargo/librqbit-clone-to-owned@9.0.0-rc.0
+- pkg:cargo/librqbit-clone-to-owned@9.0.1
