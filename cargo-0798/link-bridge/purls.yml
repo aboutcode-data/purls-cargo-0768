@@ -5,3 +5,5 @@
 - pkg:cargo/link-bridge@0.2.3
 - pkg:cargo/link-bridge@0.2.4
 - pkg:cargo/link-bridge@0.2.5
+- pkg:cargo/link-bridge@0.2.6
+- pkg:cargo/link-bridge@0.2.7
