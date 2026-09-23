@@ -6,3 +6,5 @@
 - pkg:cargo/smb-rpc@0.11.0
 - pkg:cargo/smb-rpc@0.11.1
 - pkg:cargo/smb-rpc@0.11.2
+- pkg:cargo/smb-rpc@0.12.0
+- pkg:cargo/smb-rpc@0.12.1
