@@ -21,3 +21,7 @@
 - pkg:cargo/sheets-diff@2.2.1
 - pkg:cargo/sheets-diff@2.2.2
 - pkg:cargo/sheets-diff@2.2.3
+- pkg:cargo/sheets-diff@2.3.0
+- pkg:cargo/sheets-diff@2.4.0
+- pkg:cargo/sheets-diff@2.4.1
+- pkg:cargo/sheets-diff@2.5.0
