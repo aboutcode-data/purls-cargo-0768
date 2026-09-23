@@ -2,3 +2,8 @@
 - pkg:cargo/elliptic-curve-tools@0.1.1
 - pkg:cargo/elliptic-curve-tools@0.1.2
 - pkg:cargo/elliptic-curve-tools@0.2.0
+- pkg:cargo/elliptic-curve-tools@0.3.0
+- pkg:cargo/elliptic-curve-tools@0.3.0-rc0
+- pkg:cargo/elliptic-curve-tools@0.3.0-rc1
+- pkg:cargo/elliptic-curve-tools@0.3.0-rc2
+- pkg:cargo/elliptic-curve-tools@0.3.0-rc3
