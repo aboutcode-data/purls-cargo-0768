@@ -45,3 +45,4 @@
 - pkg:cargo/minijinja-embed@2.8.0
 - pkg:cargo/minijinja-embed@2.9.0
 - pkg:cargo/minijinja-embed@3.0.0-alpha.0
+- pkg:cargo/minijinja-embed@3.0.0-alpha.1
