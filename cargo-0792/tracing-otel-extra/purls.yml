@@ -20,3 +20,6 @@
 - pkg:cargo/tracing-otel-extra@0.31.6
 - pkg:cargo/tracing-otel-extra@0.31.7
 - pkg:cargo/tracing-otel-extra@0.31.8
+- pkg:cargo/tracing-otel-extra@0.32.0
+- pkg:cargo/tracing-otel-extra@0.32.1
+- pkg:cargo/tracing-otel-extra@0.33.0

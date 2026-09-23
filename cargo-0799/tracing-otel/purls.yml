@@ -1,0 +1,2 @@
+- pkg:cargo/tracing-otel@0.33.1
+- pkg:cargo/tracing-otel@0.33.2

@@ -1,3 +1,5 @@
 - pkg:cargo/tracing-ecs-formatter@0.1.0
 - pkg:cargo/tracing-ecs-formatter@1.0.1
 - pkg:cargo/tracing-ecs-formatter@1.0.2
+- pkg:cargo/tracing-ecs-formatter@2.0.0
+- pkg:cargo/tracing-ecs-formatter@3.0.0
