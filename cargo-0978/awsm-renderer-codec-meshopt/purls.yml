@@ -11,3 +11,6 @@
 - pkg:cargo/awsm-renderer-codec-meshopt@0.32.0
 - pkg:cargo/awsm-renderer-codec-meshopt@0.33.0
 - pkg:cargo/awsm-renderer-codec-meshopt@0.35.0
+- pkg:cargo/awsm-renderer-codec-meshopt@0.36.0
+- pkg:cargo/awsm-renderer-codec-meshopt@0.37.0
+- pkg:cargo/awsm-renderer-codec-meshopt@0.38.0
