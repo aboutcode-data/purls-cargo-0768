@@ -50,3 +50,8 @@
 - pkg:cargo/aws-smithy-http-server-python@0.66.9
 - pkg:cargo/aws-smithy-http-server-python@0.67.0
 - pkg:cargo/aws-smithy-http-server-python@0.67.1
+- pkg:cargo/aws-smithy-http-server-python@0.67.2
+- pkg:cargo/aws-smithy-http-server-python@0.68.0
+- pkg:cargo/aws-smithy-http-server-python@0.68.1
+- pkg:cargo/aws-smithy-http-server-python@0.68.2
+- pkg:cargo/aws-smithy-http-server-python@0.68.3
