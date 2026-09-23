@@ -5,3 +5,4 @@
 - pkg:cargo/csi-webclient@0.1.4
 - pkg:cargo/csi-webclient@0.2.0
 - pkg:cargo/csi-webclient@0.2.1
+- pkg:cargo/csi-webclient@0.3.0
