@@ -2,3 +2,5 @@
 - pkg:cargo/ud-arch-aarch64@0.1.2
 - pkg:cargo/ud-arch-aarch64@0.1.3
 - pkg:cargo/ud-arch-aarch64@0.1.4
+- pkg:cargo/ud-arch-aarch64@0.1.5
+- pkg:cargo/ud-arch-aarch64@0.2.0
