@@ -1,0 +1,5 @@
+- pkg:cargo/zincio-hyper@0.0.0%2Bplaceholder
+- pkg:cargo/zincio-hyper@0.2.22
+- pkg:cargo/zincio-hyper@0.2.23
+- pkg:cargo/zincio-hyper@0.2.24
+- pkg:cargo/zincio-hyper@0.2.25
