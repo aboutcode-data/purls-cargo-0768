@@ -78,3 +78,4 @@
 - pkg:cargo/dora-tracing@1.0.0-rc.4
 - pkg:cargo/dora-tracing@1.0.0-rc.5
 - pkg:cargo/dora-tracing@1.0.0-rc1
+- pkg:cargo/dora-tracing@1.0.1
