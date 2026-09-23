@@ -1,6 +1,8 @@
 - pkg:cargo/barbacane@0.1.0
 - pkg:cargo/barbacane@0.1.1
 - pkg:cargo/barbacane@0.1.2
+- pkg:cargo/barbacane@0.10.0
+- pkg:cargo/barbacane@0.11.0
 - pkg:cargo/barbacane@0.2.0
 - pkg:cargo/barbacane@0.2.1
 - pkg:cargo/barbacane@0.3.0
@@ -15,3 +17,5 @@
 - pkg:cargo/barbacane@0.6.2
 - pkg:cargo/barbacane@0.6.3
 - pkg:cargo/barbacane@0.7.0
+- pkg:cargo/barbacane@0.8.0
+- pkg:cargo/barbacane@0.8.1
