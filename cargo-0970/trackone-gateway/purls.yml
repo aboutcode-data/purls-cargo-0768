@@ -16,3 +16,5 @@
 - pkg:cargo/trackone-gateway@0.1.0-alpha.8
 - pkg:cargo/trackone-gateway@0.1.0-alpha.9
 - pkg:cargo/trackone-gateway@0.1.0-beta.1
+- pkg:cargo/trackone-gateway@0.1.0-beta.2
+- pkg:cargo/trackone-gateway@0.1.0-beta.3
