@@ -16,3 +16,4 @@
 - pkg:cargo/dotscope@0.8.4
 - pkg:cargo/dotscope@0.8.5
 - pkg:cargo/dotscope@0.9.0
+- pkg:cargo/dotscope@0.9.1
