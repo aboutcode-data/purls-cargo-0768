@@ -20,5 +20,7 @@
 - pkg:cargo/linux-boot-params@0.17.0
 - pkg:cargo/linux-boot-params@0.17.1
 - pkg:cargo/linux-boot-params@0.17.2
+- pkg:cargo/linux-boot-params@0.18.0
+- pkg:cargo/linux-boot-params@0.18.1
 - pkg:cargo/linux-boot-params@0.9.3
 - pkg:cargo/linux-boot-params@0.9.4
