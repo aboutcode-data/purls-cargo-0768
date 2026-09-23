@@ -1,1 +1,2 @@
 - pkg:cargo/ab-blake3@0.1.0
+- pkg:cargo/ab-blake3@0.2.0
