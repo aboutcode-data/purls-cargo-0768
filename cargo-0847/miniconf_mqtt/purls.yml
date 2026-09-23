@@ -15,3 +15,4 @@
 - pkg:cargo/miniconf_mqtt@0.20.0
 - pkg:cargo/miniconf_mqtt@0.21.0
 - pkg:cargo/miniconf_mqtt@0.22.0
+- pkg:cargo/miniconf_mqtt@0.22.1
