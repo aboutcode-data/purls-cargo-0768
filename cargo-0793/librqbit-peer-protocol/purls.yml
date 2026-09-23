@@ -13,3 +13,6 @@
 - pkg:cargo/librqbit-peer-protocol@4.1.0
 - pkg:cargo/librqbit-peer-protocol@4.2.0
 - pkg:cargo/librqbit-peer-protocol@4.3.0
+- pkg:cargo/librqbit-peer-protocol@9.0.0
+- pkg:cargo/librqbit-peer-protocol@9.0.0-rc.0
+- pkg:cargo/librqbit-peer-protocol@9.0.1
