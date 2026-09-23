@@ -1,3 +1,6 @@
 - pkg:cargo/librqbit-upnp@0.1.0
 - pkg:cargo/librqbit-upnp@0.1.1
 - pkg:cargo/librqbit-upnp@1.0.0
+- pkg:cargo/librqbit-upnp@9.0.0
+- pkg:cargo/librqbit-upnp@9.0.0-rc.0
+- pkg:cargo/librqbit-upnp@9.0.1
