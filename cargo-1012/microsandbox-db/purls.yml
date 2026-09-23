@@ -31,6 +31,15 @@
 - pkg:cargo/microsandbox-db@0.5.8
 - pkg:cargo/microsandbox-db@0.6.0
 - pkg:cargo/microsandbox-db@0.6.1
+- pkg:cargo/microsandbox-db@0.6.10
+- pkg:cargo/microsandbox-db@0.6.11
+- pkg:cargo/microsandbox-db@0.6.12
+- pkg:cargo/microsandbox-db@0.6.13
+- pkg:cargo/microsandbox-db@0.6.14
+- pkg:cargo/microsandbox-db@0.6.15
+- pkg:cargo/microsandbox-db@0.6.16
+- pkg:cargo/microsandbox-db@0.6.17
+- pkg:cargo/microsandbox-db@0.6.18
 - pkg:cargo/microsandbox-db@0.6.2
 - pkg:cargo/microsandbox-db@0.6.3
 - pkg:cargo/microsandbox-db@0.6.4
@@ -38,3 +47,7 @@
 - pkg:cargo/microsandbox-db@0.6.6
 - pkg:cargo/microsandbox-db@0.6.7
 - pkg:cargo/microsandbox-db@0.6.8
+- pkg:cargo/microsandbox-db@0.6.9
+- pkg:cargo/microsandbox-db@0.7.0
+- pkg:cargo/microsandbox-db@0.7.1
+- pkg:cargo/microsandbox-db@0.7.2
