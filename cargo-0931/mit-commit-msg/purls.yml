@@ -379,3 +379,8 @@
 - pkg:cargo/mit-commit-msg@6.5.1
 - pkg:cargo/mit-commit-msg@6.5.2
 - pkg:cargo/mit-commit-msg@6.5.3
+- pkg:cargo/mit-commit-msg@6.5.4
+- pkg:cargo/mit-commit-msg@6.5.5
+- pkg:cargo/mit-commit-msg@6.5.6
+- pkg:cargo/mit-commit-msg@6.5.7
+- pkg:cargo/mit-commit-msg@6.6.0
