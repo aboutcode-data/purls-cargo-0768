@@ -1,1 +1,4 @@
 - pkg:cargo/zkboo-ecc@0.1.0
+- pkg:cargo/zkboo-ecc@1.0.0
+- pkg:cargo/zkboo-ecc@1.0.1
+- pkg:cargo/zkboo-ecc@2.0.0
