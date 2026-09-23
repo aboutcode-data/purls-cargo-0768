@@ -8,6 +8,7 @@
 - pkg:cargo/mdmodels@0.1.8
 - pkg:cargo/mdmodels@0.2.0
 - pkg:cargo/mdmodels@0.2.1
+- pkg:cargo/mdmodels@0.2.10
 - pkg:cargo/mdmodels@0.2.2
 - pkg:cargo/mdmodels@0.2.3
 - pkg:cargo/mdmodels@0.2.4
