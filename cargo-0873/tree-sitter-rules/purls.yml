@@ -3,3 +3,4 @@
 - pkg:cargo/tree-sitter-rules@0.0.3
 - pkg:cargo/tree-sitter-rules@0.0.4
 - pkg:cargo/tree-sitter-rules@0.0.5
+- pkg:cargo/tree-sitter-rules@0.0.6

@@ -50,6 +50,10 @@
 - pkg:cargo/tree-sitter@0.25.7
 - pkg:cargo/tree-sitter@0.25.8
 - pkg:cargo/tree-sitter@0.25.9
+- pkg:cargo/tree-sitter@0.26.10
+- pkg:cargo/tree-sitter@0.26.11
+- pkg:cargo/tree-sitter@0.26.12
+- pkg:cargo/tree-sitter@0.26.13
 - pkg:cargo/tree-sitter@0.26.2
 - pkg:cargo/tree-sitter@0.26.3
 - pkg:cargo/tree-sitter@0.26.5
@@ -57,6 +61,7 @@
 - pkg:cargo/tree-sitter@0.26.7
 - pkg:cargo/tree-sitter@0.26.8
 - pkg:cargo/tree-sitter@0.26.9
+- pkg:cargo/tree-sitter@0.27.0
 - pkg:cargo/tree-sitter@0.3.0
 - pkg:cargo/tree-sitter@0.3.1
 - pkg:cargo/tree-sitter@0.3.10

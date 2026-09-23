@@ -7,3 +7,12 @@
 - pkg:cargo/tree-sitter-iter@1.25.0
 - pkg:cargo/tree-sitter-iter@1.25.1
 - pkg:cargo/tree-sitter-iter@1.25.2
+- pkg:cargo/tree-sitter-iter@1.26.0
+- pkg:cargo/tree-sitter-iter@1.26.1
+- pkg:cargo/tree-sitter-iter@1.27.0
+- pkg:cargo/tree-sitter-iter@1.28.0
+- pkg:cargo/tree-sitter-iter@1.29.0
+- pkg:cargo/tree-sitter-iter@1.30.0
+- pkg:cargo/tree-sitter-iter@1.30.0-rc1
+- pkg:cargo/tree-sitter-iter@1.30.0-rc2
+- pkg:cargo/tree-sitter-iter@1.30.1
