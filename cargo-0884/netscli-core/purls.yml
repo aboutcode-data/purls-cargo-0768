@@ -9,3 +9,4 @@
 - pkg:cargo/netscli-core@0.2.6
 - pkg:cargo/netscli-core@0.3.1
 - pkg:cargo/netscli-core@0.3.2
+- pkg:cargo/netscli-core@0.3.3
