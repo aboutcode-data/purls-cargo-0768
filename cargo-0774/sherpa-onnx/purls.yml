@@ -26,3 +26,6 @@
 - pkg:cargo/sherpa-onnx@1.13.3
 - pkg:cargo/sherpa-onnx@1.13.4
 - pkg:cargo/sherpa-onnx@1.13.5
+- pkg:cargo/sherpa-onnx@1.13.6
+- pkg:cargo/sherpa-onnx@1.13.7
+- pkg:cargo/sherpa-onnx@1.13.8
