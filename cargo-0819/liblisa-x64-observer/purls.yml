@@ -1,1 +1,3 @@
 - pkg:cargo/liblisa-x64-observer@0.1.0
+- pkg:cargo/liblisa-x64-observer@0.3.0
+- pkg:cargo/liblisa-x64-observer@0.3.1
