@@ -44,4 +44,16 @@
 - pkg:cargo/s2-common@0.34.0
 - pkg:cargo/s2-common@0.35.0
 - pkg:cargo/s2-common@0.36.0
+- pkg:cargo/s2-common@0.36.1
+- pkg:cargo/s2-common@0.36.2
+- pkg:cargo/s2-common@0.37.0
+- pkg:cargo/s2-common@0.38.0
+- pkg:cargo/s2-common@0.39.0
+- pkg:cargo/s2-common@0.39.1
 - pkg:cargo/s2-common@0.4.0
+- pkg:cargo/s2-common@0.40.0
+- pkg:cargo/s2-common@0.40.1
+- pkg:cargo/s2-common@0.41.0
+- pkg:cargo/s2-common@0.41.1
+- pkg:cargo/s2-common@0.41.2
+- pkg:cargo/s2-common@0.41.3
