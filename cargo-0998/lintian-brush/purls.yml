@@ -5,3 +5,9 @@
 - pkg:cargo/lintian-brush@0.158.19
 - pkg:cargo/lintian-brush@0.174.0
 - pkg:cargo/lintian-brush@0.176.0
+- pkg:cargo/lintian-brush@0.179.0
+- pkg:cargo/lintian-brush@0.180.0
+- pkg:cargo/lintian-brush@0.181.1
+- pkg:cargo/lintian-brush@0.182.0
+- pkg:cargo/lintian-brush@0.184.0
+- pkg:cargo/lintian-brush@0.185.0
