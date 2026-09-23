@@ -107,3 +107,12 @@
 - pkg:cargo/lindera-dictionary@3.0.5
 - pkg:cargo/lindera-dictionary@3.0.6
 - pkg:cargo/lindera-dictionary@3.0.7
+- pkg:cargo/lindera-dictionary@4.0.0
+- pkg:cargo/lindera-dictionary@4.0.1
+- pkg:cargo/lindera-dictionary@5.0.0
+- pkg:cargo/lindera-dictionary@5.0.1
+- pkg:cargo/lindera-dictionary@5.0.2
+- pkg:cargo/lindera-dictionary@5.1.0
+- pkg:cargo/lindera-dictionary@5.2.0
+- pkg:cargo/lindera-dictionary@5.3.0
+- pkg:cargo/lindera-dictionary@6.0.0

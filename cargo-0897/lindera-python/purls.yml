@@ -24,3 +24,11 @@
 - pkg:cargo/lindera-python@3.0.5
 - pkg:cargo/lindera-python@3.0.6
 - pkg:cargo/lindera-python@3.0.7
+- pkg:cargo/lindera-python@4.0.0
+- pkg:cargo/lindera-python@4.0.1
+- pkg:cargo/lindera-python@5.0.0
+- pkg:cargo/lindera-python@5.0.1
+- pkg:cargo/lindera-python@5.0.2
+- pkg:cargo/lindera-python@5.1.0
+- pkg:cargo/lindera-python@5.2.0
+- pkg:cargo/lindera-python@5.3.0
