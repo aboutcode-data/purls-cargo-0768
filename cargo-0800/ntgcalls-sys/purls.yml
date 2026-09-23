@@ -14,3 +14,5 @@
 - pkg:cargo/ntgcalls-sys@3.0.0-rc02
 - pkg:cargo/ntgcalls-sys@3.0.0-rc03
 - pkg:cargo/ntgcalls-sys@3.0.0-rc04
+- pkg:cargo/ntgcalls-sys@3.0.0-rc05
+- pkg:cargo/ntgcalls-sys@3.0.0-rc06
