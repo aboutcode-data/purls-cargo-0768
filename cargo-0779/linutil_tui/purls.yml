@@ -18,3 +18,5 @@
 - pkg:cargo/linutil_tui@25.9.9
 - pkg:cargo/linutil_tui@26.1.22
 - pkg:cargo/linutil_tui@26.3.5
+- pkg:cargo/linutil_tui@26.5.21
+- pkg:cargo/linutil_tui@26.7.17
