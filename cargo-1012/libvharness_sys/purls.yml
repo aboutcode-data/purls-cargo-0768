@@ -1,1 +1,3 @@
 - pkg:cargo/libvharness_sys@0.15.4
+- pkg:cargo/libvharness_sys@0.16.0
+- pkg:cargo/libvharness_sys@0.16.1
