@@ -5,6 +5,8 @@
 - pkg:cargo/triple_arena@0.12.1
 - pkg:cargo/triple_arena@0.13.0
 - pkg:cargo/triple_arena@0.14.0
+- pkg:cargo/triple_arena@0.15.0
+- pkg:cargo/triple_arena@0.15.1
 - pkg:cargo/triple_arena@0.2.0
 - pkg:cargo/triple_arena@0.3.0
 - pkg:cargo/triple_arena@0.3.1
