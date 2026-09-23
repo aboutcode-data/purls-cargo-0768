@@ -1,3 +1,5 @@
 - pkg:cargo/libgnome-games-support@0.1.0
 - pkg:cargo/libgnome-games-support@0.1.0-alpha
 - pkg:cargo/libgnome-games-support@0.1.0-beta
+- pkg:cargo/libgnome-games-support@0.2.0
+- pkg:cargo/libgnome-games-support@0.2.0-beta
