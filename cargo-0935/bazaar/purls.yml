@@ -1,3 +1,7 @@
 - pkg:cargo/bazaar@3.3.3
 - pkg:cargo/bazaar@3.3.4
 - pkg:cargo/bazaar@3.4.3
+- pkg:cargo/bazaar@3.4.4
+- pkg:cargo/bazaar@3.5.0
+- pkg:cargo/bazaar@3.5.1
+- pkg:cargo/bazaar@3.5.2
