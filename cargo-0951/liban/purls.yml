@@ -1,3 +1,6 @@
+- pkg:cargo/liban@0.11.0
+- pkg:cargo/liban@0.12.0
+- pkg:cargo/liban@0.12.1
 - pkg:cargo/liban@0.3.0
 - pkg:cargo/liban@0.3.1
 - pkg:cargo/liban@0.4.0
@@ -5,3 +8,4 @@
 - pkg:cargo/liban@0.6.0
 - pkg:cargo/liban@0.7.0
 - pkg:cargo/liban@0.8.0
+- pkg:cargo/liban@0.9.0
