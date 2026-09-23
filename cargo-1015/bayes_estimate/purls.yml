@@ -9,6 +9,7 @@
 - pkg:cargo/bayes_estimate@0.18.0
 - pkg:cargo/bayes_estimate@0.18.1
 - pkg:cargo/bayes_estimate@0.19.0
+- pkg:cargo/bayes_estimate@0.20.0
 - pkg:cargo/bayes_estimate@0.5.0
 - pkg:cargo/bayes_estimate@0.5.1
 - pkg:cargo/bayes_estimate@0.5.2
