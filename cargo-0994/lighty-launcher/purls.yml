@@ -8,6 +8,8 @@
 - pkg:cargo/lighty-launcher@0.8.5
 - pkg:cargo/lighty-launcher@0.8.6
 - pkg:cargo/lighty-launcher@26.5.10
+- pkg:cargo/lighty-launcher@26.5.11
+- pkg:cargo/lighty-launcher@26.5.12
 - pkg:cargo/lighty-launcher@26.5.3
 - pkg:cargo/lighty-launcher@26.5.4
 - pkg:cargo/lighty-launcher@26.5.5
@@ -15,3 +17,6 @@
 - pkg:cargo/lighty-launcher@26.5.7
 - pkg:cargo/lighty-launcher@26.5.8
 - pkg:cargo/lighty-launcher@26.5.9
+- pkg:cargo/lighty-launcher@26.9.1
+- pkg:cargo/lighty-launcher@26.9.2
+- pkg:cargo/lighty-launcher@26.9.3
