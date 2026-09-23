@@ -17,3 +17,6 @@
 - pkg:cargo/ballista-scheduler@50.0.0
 - pkg:cargo/ballista-scheduler@51.0.0
 - pkg:cargo/ballista-scheduler@52.0.0
+- pkg:cargo/ballista-scheduler@53.0.0
+- pkg:cargo/ballista-scheduler@54.0.0
+- pkg:cargo/ballista-scheduler@54.1.0

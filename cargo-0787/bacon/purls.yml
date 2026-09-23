@@ -95,6 +95,8 @@
 - pkg:cargo/bacon@3.21.0
 - pkg:cargo/bacon@3.22.0
 - pkg:cargo/bacon@3.23.0
+- pkg:cargo/bacon@3.24.0
+- pkg:cargo/bacon@3.25.0
 - pkg:cargo/bacon@3.3.0
 - pkg:cargo/bacon@3.4.0
 - pkg:cargo/bacon@3.5.0
