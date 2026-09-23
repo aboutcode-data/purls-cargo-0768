@@ -1,2 +1,4 @@
 - pkg:cargo/sheathe-mkv@0.3.0
 - pkg:cargo/sheathe-mkv@0.5.0
+- pkg:cargo/sheathe-mkv@0.6.0
+- pkg:cargo/sheathe-mkv@0.6.1

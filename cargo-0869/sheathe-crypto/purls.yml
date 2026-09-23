@@ -5,3 +5,5 @@
 - pkg:cargo/sheathe-crypto@0.2.0
 - pkg:cargo/sheathe-crypto@0.3.0
 - pkg:cargo/sheathe-crypto@0.5.0
+- pkg:cargo/sheathe-crypto@0.6.0
+- pkg:cargo/sheathe-crypto@0.6.1
