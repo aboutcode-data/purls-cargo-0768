@@ -22,6 +22,9 @@
 - pkg:cargo/awsm-renderer-lod-bake@0.32.0
 - pkg:cargo/awsm-renderer-lod-bake@0.33.0
 - pkg:cargo/awsm-renderer-lod-bake@0.35.0
+- pkg:cargo/awsm-renderer-lod-bake@0.36.0
+- pkg:cargo/awsm-renderer-lod-bake@0.37.0
+- pkg:cargo/awsm-renderer-lod-bake@0.38.0
 - pkg:cargo/awsm-renderer-lod-bake@0.4.1
 - pkg:cargo/awsm-renderer-lod-bake@0.4.2
 - pkg:cargo/awsm-renderer-lod-bake@0.4.3

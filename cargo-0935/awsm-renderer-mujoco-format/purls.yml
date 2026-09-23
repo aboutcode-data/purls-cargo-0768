@@ -1,3 +1,6 @@
 - pkg:cargo/awsm-renderer-mujoco-format@0.32.0
 - pkg:cargo/awsm-renderer-mujoco-format@0.33.0
 - pkg:cargo/awsm-renderer-mujoco-format@0.35.0
+- pkg:cargo/awsm-renderer-mujoco-format@0.36.0
+- pkg:cargo/awsm-renderer-mujoco-format@0.37.0
+- pkg:cargo/awsm-renderer-mujoco-format@0.38.0
