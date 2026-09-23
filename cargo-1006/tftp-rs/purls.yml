@@ -1,2 +1,4 @@
 - pkg:cargo/tftp-rs@0.3.0
 - pkg:cargo/tftp-rs@0.3.2
+- pkg:cargo/tftp-rs@0.4.0
+- pkg:cargo/tftp-rs@0.4.1
