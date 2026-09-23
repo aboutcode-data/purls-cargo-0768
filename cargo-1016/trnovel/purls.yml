@@ -1,5 +1,22 @@
 - pkg:cargo/trnovel@0.1.0
 - pkg:cargo/trnovel@0.1.1
+- pkg:cargo/trnovel@0.10.0
+- pkg:cargo/trnovel@0.10.1
+- pkg:cargo/trnovel@0.10.2
+- pkg:cargo/trnovel@0.10.3
+- pkg:cargo/trnovel@0.10.4
+- pkg:cargo/trnovel@0.11.0
+- pkg:cargo/trnovel@0.12.0
+- pkg:cargo/trnovel@0.13.0
+- pkg:cargo/trnovel@0.13.1
+- pkg:cargo/trnovel@0.13.2
+- pkg:cargo/trnovel@0.14.0
+- pkg:cargo/trnovel@0.14.1
+- pkg:cargo/trnovel@0.14.2
+- pkg:cargo/trnovel@0.14.3
+- pkg:cargo/trnovel@0.15.0
+- pkg:cargo/trnovel@0.16.0
+- pkg:cargo/trnovel@0.17.0
 - pkg:cargo/trnovel@0.2.0
 - pkg:cargo/trnovel@0.2.1
 - pkg:cargo/trnovel@0.2.2
@@ -44,3 +61,4 @@
 - pkg:cargo/trnovel@0.8.2
 - pkg:cargo/trnovel@0.8.3
 - pkg:cargo/trnovel@0.8.4
+- pkg:cargo/trnovel@0.9.0

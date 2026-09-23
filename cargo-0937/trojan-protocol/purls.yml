@@ -1,5 +1,8 @@
 - pkg:cargo/trojan-protocol@0.10.0
 - pkg:cargo/trojan-protocol@0.10.1
+- pkg:cargo/trojan-protocol@0.11.0
+- pkg:cargo/trojan-protocol@0.12.0
+- pkg:cargo/trojan-protocol@0.13.0
 - pkg:cargo/trojan-protocol@0.5.0
 - pkg:cargo/trojan-protocol@0.5.1
 - pkg:cargo/trojan-protocol@0.5.2
