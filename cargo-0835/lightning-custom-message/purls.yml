@@ -22,7 +22,12 @@
 - pkg:cargo/lightning-custom-message@0.0.125
 - pkg:cargo/lightning-custom-message@0.1.0
 - pkg:cargo/lightning-custom-message@0.1.0-beta1
+- pkg:cargo/lightning-custom-message@0.1.10
 - pkg:cargo/lightning-custom-message@0.2.0
 - pkg:cargo/lightning-custom-message@0.2.0-beta1
 - pkg:cargo/lightning-custom-message@0.2.0-rc1
 - pkg:cargo/lightning-custom-message@0.2.0-rc2
+- pkg:cargo/lightning-custom-message@0.2.3
+- pkg:cargo/lightning-custom-message@0.3.0-beta1
+- pkg:cargo/lightning-custom-message@0.3.0-rc1
+- pkg:cargo/lightning-custom-message@0.3.0-rc2
