@@ -7,3 +7,5 @@
 - pkg:cargo/libnv-sys@0.2.0
 - pkg:cargo/libnv-sys@0.2.1
 - pkg:cargo/libnv-sys@0.2.2
+- pkg:cargo/libnv-sys@0.3.0
+- pkg:cargo/libnv-sys@0.3.1
