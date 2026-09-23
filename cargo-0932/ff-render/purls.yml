@@ -7,3 +7,5 @@
 - pkg:cargo/ff-render@0.15.1
 - pkg:cargo/ff-render@0.16.0
 - pkg:cargo/ff-render@0.17.0
+- pkg:cargo/ff-render@0.18.0
+- pkg:cargo/ff-render@0.18.1
