@@ -4,3 +4,4 @@
 - pkg:cargo/minotp@1.1.0
 - pkg:cargo/minotp@1.2.0
 - pkg:cargo/minotp@1.2.1
+- pkg:cargo/minotp@2.0.0
