@@ -35,3 +35,7 @@
 - pkg:cargo/i_float@1.8.0
 - pkg:cargo/i_float@1.9.0
 - pkg:cargo/i_float@2.0.0
+- pkg:cargo/i_float@3.0.0
+- pkg:cargo/i_float@4.0.0
+- pkg:cargo/i_float@4.1.0
+- pkg:cargo/i_float@5.0.0
