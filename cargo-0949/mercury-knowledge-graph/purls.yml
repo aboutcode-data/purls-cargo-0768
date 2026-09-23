@@ -1,5 +1,6 @@
 - pkg:cargo/mercury-knowledge-graph@4.12.1
 - pkg:cargo/mercury-knowledge-graph@4.12.14
+- pkg:cargo/mercury-knowledge-graph@4.12.15
 - pkg:cargo/mercury-knowledge-graph@4.12.2
 - pkg:cargo/mercury-knowledge-graph@4.12.3
 - pkg:cargo/mercury-knowledge-graph@4.12.4

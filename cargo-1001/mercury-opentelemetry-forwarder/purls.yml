@@ -1,1 +1,2 @@
 - pkg:cargo/mercury-opentelemetry-forwarder@4.12.14
+- pkg:cargo/mercury-opentelemetry-forwarder@4.12.15

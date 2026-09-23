@@ -1,1 +1,2 @@
 - pkg:cargo/mercury-sync-over-async@4.12.14
+- pkg:cargo/mercury-sync-over-async@4.12.15
