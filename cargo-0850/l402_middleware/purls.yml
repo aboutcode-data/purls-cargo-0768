@@ -15,3 +15,8 @@
 - pkg:cargo/l402_middleware@2.2.1
 - pkg:cargo/l402_middleware@2.2.2
 - pkg:cargo/l402_middleware@2.2.3
+- pkg:cargo/l402_middleware@2.3.0
+- pkg:cargo/l402_middleware@2.3.1
+- pkg:cargo/l402_middleware@2.3.2
+- pkg:cargo/l402_middleware@2.3.3
+- pkg:cargo/l402_middleware@2.3.4
