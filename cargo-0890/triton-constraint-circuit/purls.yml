@@ -12,3 +12,8 @@
 - pkg:cargo/triton-constraint-circuit@1.0.0
 - pkg:cargo/triton-constraint-circuit@2.0.0
 - pkg:cargo/triton-constraint-circuit@3.0.0
+- pkg:cargo/triton-constraint-circuit@4.0.0
+- pkg:cargo/triton-constraint-circuit@5.0.0
+- pkg:cargo/triton-constraint-circuit@6.0.0
+- pkg:cargo/triton-constraint-circuit@7.0.0
+- pkg:cargo/triton-constraint-circuit@8.0.0

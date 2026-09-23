@@ -7,3 +7,6 @@
 - pkg:cargo/tradestation@0.0.7
 - pkg:cargo/tradestation@0.0.8
 - pkg:cargo/tradestation@0.0.9
+- pkg:cargo/tradestation@1.0.0
+- pkg:cargo/tradestation@1.0.1
+- pkg:cargo/tradestation@1.0.2
