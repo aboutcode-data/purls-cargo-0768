@@ -1,0 +1,4 @@
+- pkg:cargo/miden-protobuf@0.0.0
+- pkg:cargo/miden-protobuf@0.17.0-rc.4
+- pkg:cargo/miden-protobuf@0.17.0-rc.5
+- pkg:cargo/miden-protobuf@0.17.0-rc.6
