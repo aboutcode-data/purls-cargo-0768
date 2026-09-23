@@ -31,3 +31,5 @@
 - pkg:cargo/libdeflater@1.25.0
 - pkg:cargo/libdeflater@1.25.1
 - pkg:cargo/libdeflater@1.25.2
+- pkg:cargo/libdeflater@1.26.0
+- pkg:cargo/libdeflater@1.26.1

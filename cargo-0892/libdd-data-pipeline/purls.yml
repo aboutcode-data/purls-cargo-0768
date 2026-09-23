@@ -1,6 +1,12 @@
 - pkg:cargo/libdd-data-pipeline@1.0.0
+- pkg:cargo/libdd-data-pipeline@10.0.0
 - pkg:cargo/libdd-data-pipeline@2.0.0
 - pkg:cargo/libdd-data-pipeline@2.0.1
 - pkg:cargo/libdd-data-pipeline@3.0.0
 - pkg:cargo/libdd-data-pipeline@3.0.1
 - pkg:cargo/libdd-data-pipeline@4.0.0
+- pkg:cargo/libdd-data-pipeline@5.0.0
+- pkg:cargo/libdd-data-pipeline@6.0.0
+- pkg:cargo/libdd-data-pipeline@7.0.0
+- pkg:cargo/libdd-data-pipeline@8.0.0
+- pkg:cargo/libdd-data-pipeline@9.0.0
