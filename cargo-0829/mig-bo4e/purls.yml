@@ -67,3 +67,5 @@
 - pkg:cargo/mig-bo4e@0.5.0
 - pkg:cargo/mig-bo4e@0.6.0
 - pkg:cargo/mig-bo4e@0.7.0
+- pkg:cargo/mig-bo4e@0.8.0
+- pkg:cargo/mig-bo4e@0.8.1
