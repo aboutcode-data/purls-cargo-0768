@@ -7,3 +7,4 @@
 - pkg:cargo/mlx-internal-macros@0.25.1
 - pkg:cargo/mlx-internal-macros@0.25.2
 - pkg:cargo/mlx-internal-macros@0.25.3
+- pkg:cargo/mlx-internal-macros@0.32.0
