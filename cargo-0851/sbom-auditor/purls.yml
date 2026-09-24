@@ -16,3 +16,4 @@
 - pkg:cargo/sbom-auditor@1.5.22
 - pkg:cargo/sbom-auditor@1.6.23
 - pkg:cargo/sbom-auditor@1.6.24
+- pkg:cargo/sbom-auditor@1.6.26
