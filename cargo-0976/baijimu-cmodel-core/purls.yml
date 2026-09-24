@@ -32,3 +32,4 @@
 - pkg:cargo/baijimu-cmodel-core@5.8.0
 - pkg:cargo/baijimu-cmodel-core@6.0.0
 - pkg:cargo/baijimu-cmodel-core@7.0.0
+- pkg:cargo/baijimu-cmodel-core@8.0.0
