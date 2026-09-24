@@ -26,3 +26,4 @@
 - pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260908-f66e36663854
 - pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260922-47b1b828bb82
 - pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260922-db308dabd45f
+- pkg:cargo/dd-sensitive-data-scanner@0.1.0-20260923-61be95fcb2a0
