@@ -88,3 +88,12 @@
 - pkg:cargo/aws-smithy-types@1.4.5
 - pkg:cargo/aws-smithy-types@1.4.6
 - pkg:cargo/aws-smithy-types@1.4.7
+- pkg:cargo/aws-smithy-types@1.4.8
+- pkg:cargo/aws-smithy-types@1.4.9
+- pkg:cargo/aws-smithy-types@1.5.0
+- pkg:cargo/aws-smithy-types@1.6.1
+- pkg:cargo/aws-smithy-types@1.6.2
+- pkg:cargo/aws-smithy-types@1.6.3
+- pkg:cargo/aws-smithy-types@1.6.4
+- pkg:cargo/aws-smithy-types@1.7.0
+- pkg:cargo/aws-smithy-types@1.8.0
