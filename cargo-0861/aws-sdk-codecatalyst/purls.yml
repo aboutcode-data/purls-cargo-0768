@@ -20,7 +20,21 @@
 - pkg:cargo/aws-sdk-codecatalyst@0.9.1
 - pkg:cargo/aws-sdk-codecatalyst@1.1.0
 - pkg:cargo/aws-sdk-codecatalyst@1.10.0
+- pkg:cargo/aws-sdk-codecatalyst@1.100.0
+- pkg:cargo/aws-sdk-codecatalyst@1.101.0
+- pkg:cargo/aws-sdk-codecatalyst@1.102.0
+- pkg:cargo/aws-sdk-codecatalyst@1.103.0
+- pkg:cargo/aws-sdk-codecatalyst@1.104.0
+- pkg:cargo/aws-sdk-codecatalyst@1.105.0
+- pkg:cargo/aws-sdk-codecatalyst@1.106.0
+- pkg:cargo/aws-sdk-codecatalyst@1.107.0
+- pkg:cargo/aws-sdk-codecatalyst@1.108.0
+- pkg:cargo/aws-sdk-codecatalyst@1.109.0
 - pkg:cargo/aws-sdk-codecatalyst@1.11.0
+- pkg:cargo/aws-sdk-codecatalyst@1.110.0
+- pkg:cargo/aws-sdk-codecatalyst@1.111.0
+- pkg:cargo/aws-sdk-codecatalyst@1.112.0
+- pkg:cargo/aws-sdk-codecatalyst@1.113.0
 - pkg:cargo/aws-sdk-codecatalyst@1.12.0
 - pkg:cargo/aws-sdk-codecatalyst@1.13.0
 - pkg:cargo/aws-sdk-codecatalyst@1.14.0
@@ -116,3 +130,4 @@
 - pkg:cargo/aws-sdk-codecatalyst@1.96.0
 - pkg:cargo/aws-sdk-codecatalyst@1.97.0
 - pkg:cargo/aws-sdk-codecatalyst@1.98.0
+- pkg:cargo/aws-sdk-codecatalyst@1.99.0
