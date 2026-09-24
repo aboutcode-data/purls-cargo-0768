@@ -1,3 +1,4 @@
+- pkg:cargo/rlmesh-grpc@0.1.0
 - pkg:cargo/rlmesh-grpc@0.1.0-beta.1
 - pkg:cargo/rlmesh-grpc@0.1.0-beta.2
 - pkg:cargo/rlmesh-grpc@0.1.0-beta.3
@@ -5,6 +6,9 @@
 - pkg:cargo/rlmesh-grpc@0.1.0-rc.10
 - pkg:cargo/rlmesh-grpc@0.1.0-rc.11
 - pkg:cargo/rlmesh-grpc@0.1.0-rc.12
+- pkg:cargo/rlmesh-grpc@0.1.0-rc.13
+- pkg:cargo/rlmesh-grpc@0.1.0-rc.14
+- pkg:cargo/rlmesh-grpc@0.1.0-rc.15
 - pkg:cargo/rlmesh-grpc@0.1.0-rc.2
 - pkg:cargo/rlmesh-grpc@0.1.0-rc.3
 - pkg:cargo/rlmesh-grpc@0.1.0-rc.4
