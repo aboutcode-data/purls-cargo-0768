@@ -11,3 +11,5 @@
 - pkg:cargo/showrunner@0.26.0
 - pkg:cargo/showrunner@0.27.0
 - pkg:cargo/showrunner@0.27.1
+- pkg:cargo/showrunner@0.27.2
+- pkg:cargo/showrunner@0.27.3
