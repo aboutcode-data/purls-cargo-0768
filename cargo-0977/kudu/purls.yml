@@ -2,3 +2,13 @@
 - pkg:cargo/kudu@0.1.0-alpha
 - pkg:cargo/kudu@0.1.0-rc1
 - pkg:cargo/kudu@0.1.0-rc2
+- pkg:cargo/kudu@0.2.0
+- pkg:cargo/kudu@0.2.10
+- pkg:cargo/kudu@0.2.11
+- pkg:cargo/kudu@0.2.12
+- pkg:cargo/kudu@0.2.18
+- pkg:cargo/kudu@0.2.19
+- pkg:cargo/kudu@0.2.20
+- pkg:cargo/kudu@0.2.21
+- pkg:cargo/kudu@0.2.4
+- pkg:cargo/kudu@0.2.8
