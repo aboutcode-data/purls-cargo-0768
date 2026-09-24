@@ -10,6 +10,8 @@
 - pkg:cargo/ev_lib@0.16.2
 - pkg:cargo/ev_lib@0.17.0
 - pkg:cargo/ev_lib@0.17.1
+- pkg:cargo/ev_lib@0.18.0
+- pkg:cargo/ev_lib@0.19.0
 - pkg:cargo/ev_lib@0.2.0
 - pkg:cargo/ev_lib@0.2.1
 - pkg:cargo/ev_lib@0.3.1
