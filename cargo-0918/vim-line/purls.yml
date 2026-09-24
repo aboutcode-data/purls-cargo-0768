@@ -99,3 +99,6 @@
 - pkg:cargo/vim-line@7.6.1
 - pkg:cargo/vim-line@7.7.0
 - pkg:cargo/vim-line@7.7.1
+- pkg:cargo/vim-line@7.7.2
+- pkg:cargo/vim-line@7.7.3
+- pkg:cargo/vim-line@7.7.4
