@@ -1,5 +1,11 @@
 - pkg:cargo/ic_auth_types@0.1.0
 - pkg:cargo/ic_auth_types@0.1.1
+- pkg:cargo/ic_auth_types@0.10.0
+- pkg:cargo/ic_auth_types@0.10.1
+- pkg:cargo/ic_auth_types@0.10.2
+- pkg:cargo/ic_auth_types@0.10.3
+- pkg:cargo/ic_auth_types@0.10.4
+- pkg:cargo/ic_auth_types@0.10.5
 - pkg:cargo/ic_auth_types@0.2.0
 - pkg:cargo/ic_auth_types@0.2.1
 - pkg:cargo/ic_auth_types@0.2.2
@@ -33,3 +39,7 @@
 - pkg:cargo/ic_auth_types@0.8.1
 - pkg:cargo/ic_auth_types@0.8.2
 - pkg:cargo/ic_auth_types@0.8.3
+- pkg:cargo/ic_auth_types@0.8.4
+- pkg:cargo/ic_auth_types@0.8.5
+- pkg:cargo/ic_auth_types@0.9.0
+- pkg:cargo/ic_auth_types@0.9.1
