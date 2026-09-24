@@ -13,3 +13,4 @@
 - pkg:cargo/sql-dialect-fmt-wasm@1.22.0
 - pkg:cargo/sql-dialect-fmt-wasm@1.22.1
 - pkg:cargo/sql-dialect-fmt-wasm@1.22.2
+- pkg:cargo/sql-dialect-fmt-wasm@1.22.3
