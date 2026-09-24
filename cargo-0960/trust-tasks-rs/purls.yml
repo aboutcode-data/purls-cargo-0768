@@ -157,6 +157,8 @@
 - pkg:cargo/trust-tasks-rs@0.22.1
 - pkg:cargo/trust-tasks-rs@0.22.2
 - pkg:cargo/trust-tasks-rs@0.22.3
+- pkg:cargo/trust-tasks-rs@0.22.4
+- pkg:cargo/trust-tasks-rs@0.22.5
 - pkg:cargo/trust-tasks-rs@0.3.0
 - pkg:cargo/trust-tasks-rs@0.4.0
 - pkg:cargo/trust-tasks-rs@0.4.1
