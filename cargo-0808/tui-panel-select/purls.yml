@@ -5,3 +5,4 @@
 - pkg:cargo/tui-panel-select@0.1.4
 - pkg:cargo/tui-panel-select@0.1.5
 - pkg:cargo/tui-panel-select@0.1.6
+- pkg:cargo/tui-panel-select@0.2.0
