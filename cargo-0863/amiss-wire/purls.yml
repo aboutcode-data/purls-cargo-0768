@@ -30,6 +30,7 @@
 - pkg:cargo/amiss-wire@0.32.3
 - pkg:cargo/amiss-wire@0.32.4
 - pkg:cargo/amiss-wire@0.33.0
+- pkg:cargo/amiss-wire@0.34.0
 - pkg:cargo/amiss-wire@0.4.0
 - pkg:cargo/amiss-wire@0.5.0
 - pkg:cargo/amiss-wire@0.5.1
