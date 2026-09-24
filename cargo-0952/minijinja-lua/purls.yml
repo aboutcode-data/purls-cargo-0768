@@ -43,3 +43,4 @@
 - pkg:cargo/minijinja-lua@0.4.5
 - pkg:cargo/minijinja-lua@0.5.0
 - pkg:cargo/minijinja-lua@0.5.1
+- pkg:cargo/minijinja-lua@0.5.2
