@@ -1,1 +1,3 @@
 - pkg:cargo/metrum-ai-bench-cli@1.2.0
+- pkg:cargo/metrum-ai-bench-cli@1.3.0
+- pkg:cargo/metrum-ai-bench-cli@1.3.1
