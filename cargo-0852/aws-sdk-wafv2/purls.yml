@@ -83,6 +83,7 @@
 - pkg:cargo/aws-sdk-wafv2@1.129.0
 - pkg:cargo/aws-sdk-wafv2@1.13.0
 - pkg:cargo/aws-sdk-wafv2@1.130.0
+- pkg:cargo/aws-sdk-wafv2@1.131.0
 - pkg:cargo/aws-sdk-wafv2@1.14.0
 - pkg:cargo/aws-sdk-wafv2@1.15.0
 - pkg:cargo/aws-sdk-wafv2@1.16.0
