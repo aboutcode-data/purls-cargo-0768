@@ -1,0 +1,5 @@
+- pkg:cargo/p3-multi-stark@0.6.2
+- pkg:cargo/p3-multi-stark@0.6.3
+- pkg:cargo/p3-multi-stark@0.7.0
+- pkg:cargo/p3-multi-stark@0.7.0-rc.1
+- pkg:cargo/p3-multi-stark@0.8.0
