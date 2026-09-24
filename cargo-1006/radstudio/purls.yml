@@ -1,3 +1,5 @@
 - pkg:cargo/radstudio@0.8.0
 - pkg:cargo/radstudio@1.0.0
 - pkg:cargo/radstudio@1.0.1
+- pkg:cargo/radstudio@1.0.3
+- pkg:cargo/radstudio@1.0.4
