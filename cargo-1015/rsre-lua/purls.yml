@@ -17,3 +17,4 @@
 - pkg:cargo/rsre-lua@0.3.6
 - pkg:cargo/rsre-lua@0.4.0
 - pkg:cargo/rsre-lua@0.4.1
+- pkg:cargo/rsre-lua@0.4.2
