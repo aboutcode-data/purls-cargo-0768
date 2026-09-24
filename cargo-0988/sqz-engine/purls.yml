@@ -26,3 +26,6 @@
 - pkg:cargo/sqz-engine@1.5.0
 - pkg:cargo/sqz-engine@1.6.0
 - pkg:cargo/sqz-engine@1.6.1
+- pkg:cargo/sqz-engine@1.7.0
+- pkg:cargo/sqz-engine@1.8.0
+- pkg:cargo/sqz-engine@1.9.0
