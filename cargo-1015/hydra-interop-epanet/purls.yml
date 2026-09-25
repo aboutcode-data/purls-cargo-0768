@@ -1,3 +1,5 @@
 - pkg:cargo/hydra-interop-epanet@15.0.0
 - pkg:cargo/hydra-interop-epanet@15.1.0
 - pkg:cargo/hydra-interop-epanet@16.0.0
+- pkg:cargo/hydra-interop-epanet@17.0.0
+- pkg:cargo/hydra-interop-epanet@17.0.1
