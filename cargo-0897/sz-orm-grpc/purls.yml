@@ -5,3 +5,14 @@
 - pkg:cargo/sz-orm-grpc@1.5.0
 - pkg:cargo/sz-orm-grpc@2.0.0
 - pkg:cargo/sz-orm-grpc@2.1.0
+- pkg:cargo/sz-orm-grpc@2.3.0
+- pkg:cargo/sz-orm-grpc@3.5.0
+- pkg:cargo/sz-orm-grpc@4.7.0
+- pkg:cargo/sz-orm-grpc@4.9.0
+- pkg:cargo/sz-orm-grpc@5.0.0
+- pkg:cargo/sz-orm-grpc@5.1.0
+- pkg:cargo/sz-orm-grpc@6.0.0
+- pkg:cargo/sz-orm-grpc@6.2.0
+- pkg:cargo/sz-orm-grpc@7.3.0
+- pkg:cargo/sz-orm-grpc@7.6.0
+- pkg:cargo/sz-orm-grpc@7.7.0

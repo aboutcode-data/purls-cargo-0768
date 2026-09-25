@@ -8,3 +8,17 @@
 - pkg:cargo/sz-orm-macros@1.5.0
 - pkg:cargo/sz-orm-macros@2.0.0
 - pkg:cargo/sz-orm-macros@2.1.0
+- pkg:cargo/sz-orm-macros@2.3.0
+- pkg:cargo/sz-orm-macros@3.5.0
+- pkg:cargo/sz-orm-macros@4.6.0
+- pkg:cargo/sz-orm-macros@4.7.0
+- pkg:cargo/sz-orm-macros@4.9.0
+- pkg:cargo/sz-orm-macros@4.9.1
+- pkg:cargo/sz-orm-macros@5.0.0
+- pkg:cargo/sz-orm-macros@5.1.0
+- pkg:cargo/sz-orm-macros@6.0.0
+- pkg:cargo/sz-orm-macros@6.2.0
+- pkg:cargo/sz-orm-macros@7.3.0
+- pkg:cargo/sz-orm-macros@7.6.0
+- pkg:cargo/sz-orm-macros@7.7.0
+- pkg:cargo/sz-orm-macros@8.7.0
