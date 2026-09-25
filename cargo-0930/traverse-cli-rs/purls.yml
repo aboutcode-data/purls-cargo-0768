@@ -3,5 +3,6 @@
 - pkg:cargo/traverse-cli-rs@0.10.2
 - pkg:cargo/traverse-cli-rs@0.11.0
 - pkg:cargo/traverse-cli-rs@0.12.0
+- pkg:cargo/traverse-cli-rs@0.13.0
 - pkg:cargo/traverse-cli-rs@0.8.1
 - pkg:cargo/traverse-cli-rs@0.9.1
