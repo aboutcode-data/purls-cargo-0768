@@ -36,3 +36,4 @@
 - pkg:cargo/mdeck@1.2.4
 - pkg:cargo/mdeck@1.2.5
 - pkg:cargo/mdeck@1.3.0
+- pkg:cargo/mdeck@1.3.1
