@@ -28,3 +28,4 @@
 - pkg:cargo/tact@0.6.7
 - pkg:cargo/tact@0.7.0
 - pkg:cargo/tact@0.7.1
+- pkg:cargo/tact@0.8.0
