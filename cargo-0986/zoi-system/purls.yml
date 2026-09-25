@@ -10,3 +10,7 @@
 - pkg:cargo/zoi-system@1.25.5
 - pkg:cargo/zoi-system@1.26.0
 - pkg:cargo/zoi-system@1.26.1
+- pkg:cargo/zoi-system@1.27.0
+- pkg:cargo/zoi-system@1.27.1
+- pkg:cargo/zoi-system@1.27.2
+- pkg:cargo/zoi-system@1.28.0
