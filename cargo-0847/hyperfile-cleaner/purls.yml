@@ -1,3 +1,4 @@
 - pkg:cargo/hyperfile-cleaner@0.2.0
 - pkg:cargo/hyperfile-cleaner@0.3.0
 - pkg:cargo/hyperfile-cleaner@0.5.0
+- pkg:cargo/hyperfile-cleaner@0.7.0
