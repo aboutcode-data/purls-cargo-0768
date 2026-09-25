@@ -8,3 +8,4 @@
 - pkg:cargo/libdd-trace-obfuscation@6.0.0
 - pkg:cargo/libdd-trace-obfuscation@7.0.0
 - pkg:cargo/libdd-trace-obfuscation@8.0.0
+- pkg:cargo/libdd-trace-obfuscation@9.0.0

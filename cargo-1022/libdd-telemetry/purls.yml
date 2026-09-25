@@ -8,3 +8,4 @@
 - pkg:cargo/libdd-telemetry@6.0.0
 - pkg:cargo/libdd-telemetry@7.0.0
 - pkg:cargo/libdd-telemetry@8.0.0
+- pkg:cargo/libdd-telemetry@9.0.0
