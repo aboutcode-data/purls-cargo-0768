@@ -1,3 +1,5 @@
+- pkg:cargo/table_to_html@0.10.0
+- pkg:cargo/table_to_html@0.11.0
 - pkg:cargo/table_to_html@0.2.0
 - pkg:cargo/table_to_html@0.3.0
 - pkg:cargo/table_to_html@0.4.0
