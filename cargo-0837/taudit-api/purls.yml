@@ -2,3 +2,4 @@
 - pkg:cargo/taudit-api@0.3.0
 - pkg:cargo/taudit-api@0.4.0
 - pkg:cargo/taudit-api@0.4.1
+- pkg:cargo/taudit-api@3.1.0

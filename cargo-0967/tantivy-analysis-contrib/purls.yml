@@ -6,6 +6,7 @@
 - pkg:cargo/tantivy-analysis-contrib@0.11.1
 - pkg:cargo/tantivy-analysis-contrib@0.12.0
 - pkg:cargo/tantivy-analysis-contrib@0.12.1
+- pkg:cargo/tantivy-analysis-contrib@0.12.10
 - pkg:cargo/tantivy-analysis-contrib@0.12.2
 - pkg:cargo/tantivy-analysis-contrib@0.12.3
 - pkg:cargo/tantivy-analysis-contrib@0.12.4
@@ -14,6 +15,8 @@
 - pkg:cargo/tantivy-analysis-contrib@0.12.7
 - pkg:cargo/tantivy-analysis-contrib@0.12.8
 - pkg:cargo/tantivy-analysis-contrib@0.12.9
+- pkg:cargo/tantivy-analysis-contrib@0.13.0
+- pkg:cargo/tantivy-analysis-contrib@0.13.1
 - pkg:cargo/tantivy-analysis-contrib@0.2.0
 - pkg:cargo/tantivy-analysis-contrib@0.3.0
 - pkg:cargo/tantivy-analysis-contrib@0.4.0

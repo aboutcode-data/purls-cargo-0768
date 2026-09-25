@@ -28,3 +28,4 @@
 - pkg:cargo/taudit-report-terminal@2.0.0
 - pkg:cargo/taudit-report-terminal@3.0.0
 - pkg:cargo/taudit-report-terminal@3.0.1
+- pkg:cargo/taudit-report-terminal@3.1.0

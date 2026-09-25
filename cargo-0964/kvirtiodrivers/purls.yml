@@ -1,2 +1,5 @@
 - pkg:cargo/kvirtiodrivers@0.13.0
 - pkg:cargo/kvirtiodrivers@0.13.1
+- pkg:cargo/kvirtiodrivers@0.13.2
+- pkg:cargo/kvirtiodrivers@0.13.3
+- pkg:cargo/kvirtiodrivers@0.13.4
