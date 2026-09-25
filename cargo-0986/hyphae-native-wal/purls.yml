@@ -3,3 +3,5 @@
 - pkg:cargo/hyphae-native-wal@1.2.2
 - pkg:cargo/hyphae-native-wal@2.0.1
 - pkg:cargo/hyphae-native-wal@2.2.0
+- pkg:cargo/hyphae-native-wal@3.0.0
+- pkg:cargo/hyphae-native-wal@4.0.0

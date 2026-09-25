@@ -3,3 +3,5 @@
 - pkg:cargo/hyphae-native-manifest@1.2.2
 - pkg:cargo/hyphae-native-manifest@2.0.1
 - pkg:cargo/hyphae-native-manifest@2.2.0
+- pkg:cargo/hyphae-native-manifest@3.0.0
+- pkg:cargo/hyphae-native-manifest@4.0.0
