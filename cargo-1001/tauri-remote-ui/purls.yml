@@ -20,3 +20,7 @@
 - pkg:cargo/tauri-remote-ui@1.0.1-alpha.6
 - pkg:cargo/tauri-remote-ui@1.0.1-alpha.7
 - pkg:cargo/tauri-remote-ui@1.0.1-alpha.8
+- pkg:cargo/tauri-remote-ui@1.1.0
+- pkg:cargo/tauri-remote-ui@1.1.1
+- pkg:cargo/tauri-remote-ui@1.1.1-alpha.2
+- pkg:cargo/tauri-remote-ui@1.1.1-alpha.4
