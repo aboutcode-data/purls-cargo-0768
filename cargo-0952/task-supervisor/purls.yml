@@ -20,3 +20,6 @@
 - pkg:cargo/task-supervisor@0.3.8
 - pkg:cargo/task-supervisor@0.4.0
 - pkg:cargo/task-supervisor@0.4.1
+- pkg:cargo/task-supervisor@0.5.0
+- pkg:cargo/task-supervisor@0.5.1
+- pkg:cargo/task-supervisor@0.5.2
