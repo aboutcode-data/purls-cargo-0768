@@ -20,7 +20,12 @@
 - pkg:cargo/blue-lang-waku@0.0.34
 - pkg:cargo/blue-lang-waku@0.0.35
 - pkg:cargo/blue-lang-waku@0.0.36
+- pkg:cargo/blue-lang-waku@0.0.37
+- pkg:cargo/blue-lang-waku@0.0.38
+- pkg:cargo/blue-lang-waku@0.0.39
 - pkg:cargo/blue-lang-waku@0.0.4
+- pkg:cargo/blue-lang-waku@0.0.40
+- pkg:cargo/blue-lang-waku@0.0.41
 - pkg:cargo/blue-lang-waku@0.0.5
 - pkg:cargo/blue-lang-waku@0.0.6
 - pkg:cargo/blue-lang-waku@0.0.7
