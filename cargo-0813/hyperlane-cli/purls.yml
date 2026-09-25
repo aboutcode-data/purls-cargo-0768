@@ -24,3 +24,7 @@
 - pkg:cargo/hyperlane-cli@0.1.7
 - pkg:cargo/hyperlane-cli@0.1.8
 - pkg:cargo/hyperlane-cli@0.1.9
+- pkg:cargo/hyperlane-cli@21.5.0
+- pkg:cargo/hyperlane-cli@21.5.1
+- pkg:cargo/hyperlane-cli@21.5.2
+- pkg:cargo/hyperlane-cli@21.5.3
