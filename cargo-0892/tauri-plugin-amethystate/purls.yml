@@ -5,6 +5,7 @@
 - pkg:cargo/tauri-plugin-amethystate@0.20.0
 - pkg:cargo/tauri-plugin-amethystate@0.20.1
 - pkg:cargo/tauri-plugin-amethystate@0.21.0
+- pkg:cargo/tauri-plugin-amethystate@0.22.0
 - pkg:cargo/tauri-plugin-amethystate@0.9.1
 - pkg:cargo/tauri-plugin-amethystate@0.9.3
 - pkg:cargo/tauri-plugin-amethystate@0.9.4
