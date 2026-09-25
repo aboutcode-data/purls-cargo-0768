@@ -1,2 +1,7 @@
+- pkg:cargo/kaleido@0.10.0
 - pkg:cargo/kaleido@0.8.0
 - pkg:cargo/kaleido@0.8.4
+- pkg:cargo/kaleido@0.8.5
+- pkg:cargo/kaleido@0.8.6
+- pkg:cargo/kaleido@0.8.7
+- pkg:cargo/kaleido@0.9.0
