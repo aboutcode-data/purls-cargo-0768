@@ -26,6 +26,10 @@
 - pkg:cargo/tari_crypto@0.22.1
 - pkg:cargo/tari_crypto@0.22.2
 - pkg:cargo/tari_crypto@0.23.0
+- pkg:cargo/tari_crypto@0.23.1
+- pkg:cargo/tari_crypto@0.23.2
+- pkg:cargo/tari_crypto@0.23.3
+- pkg:cargo/tari_crypto@0.23.4
 - pkg:cargo/tari_crypto@0.3.0
 - pkg:cargo/tari_crypto@0.3.1
 - pkg:cargo/tari_crypto@0.4.0

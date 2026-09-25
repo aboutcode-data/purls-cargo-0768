@@ -30,5 +30,13 @@
 - pkg:cargo/tari_template_lib@0.25.2
 - pkg:cargo/tari_template_lib@0.26.0
 - pkg:cargo/tari_template_lib@0.26.1
+- pkg:cargo/tari_template_lib@0.27.0
+- pkg:cargo/tari_template_lib@0.27.1
+- pkg:cargo/tari_template_lib@0.28.0
+- pkg:cargo/tari_template_lib@0.29.0
 - pkg:cargo/tari_template_lib@0.3.0
+- pkg:cargo/tari_template_lib@0.31.0
+- pkg:cargo/tari_template_lib@0.31.1
+- pkg:cargo/tari_template_lib@0.32.0
+- pkg:cargo/tari_template_lib@0.32.1
 - pkg:cargo/tari_template_lib@0.7.0
