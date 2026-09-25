@@ -2,3 +2,7 @@
 - pkg:cargo/taurine@1.0.5
 - pkg:cargo/taurine@2.0.0
 - pkg:cargo/taurine@2.0.1
+- pkg:cargo/taurine@2.12.0
+- pkg:cargo/taurine@2.12.1
+- pkg:cargo/taurine@2.12.2
+- pkg:cargo/taurine@2.13.0
