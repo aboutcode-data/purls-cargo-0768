@@ -605,7 +605,13 @@
 - pkg:cargo/tatara-kube@0.2.804
 - pkg:cargo/tatara-kube@0.2.805
 - pkg:cargo/tatara-kube@0.2.806
+- pkg:cargo/tatara-kube@0.2.807
+- pkg:cargo/tatara-kube@0.2.808
+- pkg:cargo/tatara-kube@0.2.809
 - pkg:cargo/tatara-kube@0.2.81
+- pkg:cargo/tatara-kube@0.2.814
+- pkg:cargo/tatara-kube@0.2.815
+- pkg:cargo/tatara-kube@0.2.816
 - pkg:cargo/tatara-kube@0.2.82
 - pkg:cargo/tatara-kube@0.2.83
 - pkg:cargo/tatara-kube@0.2.84
