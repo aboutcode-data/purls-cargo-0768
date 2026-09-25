@@ -6,3 +6,4 @@
 - pkg:cargo/libbladerf-rs@0.5.0
 - pkg:cargo/libbladerf-rs@0.5.1
 - pkg:cargo/libbladerf-rs@0.5.2
+- pkg:cargo/libbladerf-rs@0.6.0
