@@ -2,6 +2,7 @@
 - pkg:cargo/volga-open-api@0.10.1
 - pkg:cargo/volga-open-api@0.11.0
 - pkg:cargo/volga-open-api@0.11.1
+- pkg:cargo/volga-open-api@0.11.2
 - pkg:cargo/volga-open-api@0.8.4
 - pkg:cargo/volga-open-api@0.8.5
 - pkg:cargo/volga-open-api@0.8.6
