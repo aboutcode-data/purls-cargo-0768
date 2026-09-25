@@ -1,2 +1,5 @@
 - pkg:cargo/blokli-inspector@0.13.0
 - pkg:cargo/blokli-inspector@0.13.1
+- pkg:cargo/blokli-inspector@0.13.2
+- pkg:cargo/blokli-inspector@0.14.0
+- pkg:cargo/blokli-inspector@0.14.1

@@ -48,5 +48,7 @@
 - pkg:cargo/blvm-node@0.1.51
 - pkg:cargo/blvm-node@0.1.52
 - pkg:cargo/blvm-node@0.1.53
+- pkg:cargo/blvm-node@0.1.54
+- pkg:cargo/blvm-node@0.1.55
 - pkg:cargo/blvm-node@0.1.7
 - pkg:cargo/blvm-node@0.1.9
