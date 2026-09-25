@@ -5,3 +5,4 @@
 - pkg:cargo/sz-orm-stream@7.3.0
 - pkg:cargo/sz-orm-stream@7.6.0
 - pkg:cargo/sz-orm-stream@7.7.0
+- pkg:cargo/sz-orm-stream@8.8.0
