@@ -1,5 +1,6 @@
 - pkg:cargo/miden-note-transport@0.0.0
 - pkg:cargo/miden-note-transport@0.16.0
+- pkg:cargo/miden-note-transport@0.16.1
 - pkg:cargo/miden-note-transport@0.17.0-rc.1
 - pkg:cargo/miden-note-transport@0.17.0-rc.2
 - pkg:cargo/miden-note-transport@0.17.0-rc.3
