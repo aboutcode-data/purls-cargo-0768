@@ -4,6 +4,11 @@
 - pkg:cargo/kaish-vfs@0.13.0
 - pkg:cargo/kaish-vfs@0.14.0
 - pkg:cargo/kaish-vfs@0.14.1
+- pkg:cargo/kaish-vfs@0.15.0
+- pkg:cargo/kaish-vfs@0.16.0
+- pkg:cargo/kaish-vfs@0.17.0
+- pkg:cargo/kaish-vfs@0.17.1
+- pkg:cargo/kaish-vfs@0.17.2
 - pkg:cargo/kaish-vfs@0.8.0
 - pkg:cargo/kaish-vfs@0.8.1
 - pkg:cargo/kaish-vfs@0.8.2
