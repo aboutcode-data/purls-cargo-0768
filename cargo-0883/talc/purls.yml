@@ -25,3 +25,6 @@
 - pkg:cargo/talc@5.0.1
 - pkg:cargo/talc@5.0.2
 - pkg:cargo/talc@5.0.3
+- pkg:cargo/talc@5.0.4
+- pkg:cargo/talc@5.1.0
+- pkg:cargo/talc@5.1.1
