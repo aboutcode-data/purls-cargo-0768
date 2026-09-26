@@ -160,6 +160,7 @@
 - pkg:cargo/icydb-model-macros@0.261.0
 - pkg:cargo/icydb-model-macros@0.261.1
 - pkg:cargo/icydb-model-macros@0.261.10
+- pkg:cargo/icydb-model-macros@0.261.11
 - pkg:cargo/icydb-model-macros@0.261.2
 - pkg:cargo/icydb-model-macros@0.261.3
 - pkg:cargo/icydb-model-macros@0.261.4
