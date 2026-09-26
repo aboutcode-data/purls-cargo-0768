@@ -9,3 +9,5 @@
 - pkg:cargo/shadowcaster@0.4.4
 - pkg:cargo/shadowcaster@0.4.5
 - pkg:cargo/shadowcaster@0.5.0
+- pkg:cargo/shadowcaster@0.6.0
+- pkg:cargo/shadowcaster@0.6.1
