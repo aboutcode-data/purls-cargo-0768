@@ -371,6 +371,8 @@
 - pkg:cargo/vize_atelier_ssr@0.426.1
 - pkg:cargo/vize_atelier_ssr@0.426.2
 - pkg:cargo/vize_atelier_ssr@0.426.3
+- pkg:cargo/vize_atelier_ssr@0.427.0
+- pkg:cargo/vize_atelier_ssr@0.428.0
 - pkg:cargo/vize_atelier_ssr@0.43.0
 - pkg:cargo/vize_atelier_ssr@0.44.0
 - pkg:cargo/vize_atelier_ssr@0.45.0
