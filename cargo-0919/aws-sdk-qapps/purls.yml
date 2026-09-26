@@ -78,4 +78,5 @@
 - pkg:cargo/aws-sdk-qapps@1.79.0
 - pkg:cargo/aws-sdk-qapps@1.8.0
 - pkg:cargo/aws-sdk-qapps@1.80.0
+- pkg:cargo/aws-sdk-qapps@1.81.0
 - pkg:cargo/aws-sdk-qapps@1.9.0

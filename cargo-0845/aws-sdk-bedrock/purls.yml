@@ -72,6 +72,7 @@
 - pkg:cargo/aws-sdk-bedrock@1.156.0
 - pkg:cargo/aws-sdk-bedrock@1.157.0
 - pkg:cargo/aws-sdk-bedrock@1.158.0
+- pkg:cargo/aws-sdk-bedrock@1.159.0
 - pkg:cargo/aws-sdk-bedrock@1.16.0
 - pkg:cargo/aws-sdk-bedrock@1.17.0
 - pkg:cargo/aws-sdk-bedrock@1.18.0
