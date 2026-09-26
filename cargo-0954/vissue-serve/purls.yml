@@ -5,6 +5,7 @@
 - pkg:cargo/vissue-serve@0.15.0
 - pkg:cargo/vissue-serve@0.16.0
 - pkg:cargo/vissue-serve@0.16.1
+- pkg:cargo/vissue-serve@0.16.2
 - pkg:cargo/vissue-serve@0.3.0
 - pkg:cargo/vissue-serve@0.4.1
 - pkg:cargo/vissue-serve@0.5.0
