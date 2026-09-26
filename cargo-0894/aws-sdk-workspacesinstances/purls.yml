@@ -37,6 +37,7 @@
 - pkg:cargo/aws-sdk-workspacesinstances@1.41.0
 - pkg:cargo/aws-sdk-workspacesinstances@1.42.0
 - pkg:cargo/aws-sdk-workspacesinstances@1.43.0
+- pkg:cargo/aws-sdk-workspacesinstances@1.44.0
 - pkg:cargo/aws-sdk-workspacesinstances@1.5.0
 - pkg:cargo/aws-sdk-workspacesinstances@1.6.0
 - pkg:cargo/aws-sdk-workspacesinstances@1.7.0
