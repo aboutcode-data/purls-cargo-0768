@@ -110,6 +110,7 @@
 - pkg:cargo/aws-sdk-rds@1.15.0
 - pkg:cargo/aws-sdk-rds@1.150.0
 - pkg:cargo/aws-sdk-rds@1.151.0
+- pkg:cargo/aws-sdk-rds@1.152.0
 - pkg:cargo/aws-sdk-rds@1.16.0
 - pkg:cargo/aws-sdk-rds@1.16.1
 - pkg:cargo/aws-sdk-rds@1.17.0

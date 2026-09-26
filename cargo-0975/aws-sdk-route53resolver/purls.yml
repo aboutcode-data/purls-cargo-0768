@@ -74,6 +74,7 @@
 - pkg:cargo/aws-sdk-route53resolver@1.122.0
 - pkg:cargo/aws-sdk-route53resolver@1.123.0
 - pkg:cargo/aws-sdk-route53resolver@1.123.1
+- pkg:cargo/aws-sdk-route53resolver@1.124.0
 - pkg:cargo/aws-sdk-route53resolver@1.13.0
 - pkg:cargo/aws-sdk-route53resolver@1.14.0
 - pkg:cargo/aws-sdk-route53resolver@1.15.0
