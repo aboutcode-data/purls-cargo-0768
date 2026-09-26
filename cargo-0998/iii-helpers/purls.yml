@@ -109,4 +109,6 @@
 - pkg:cargo/iii-helpers@0.24.2-alpha.3
 - pkg:cargo/iii-helpers@0.24.2-rc.1
 - pkg:cargo/iii-helpers@0.24.2-rc.2
+- pkg:cargo/iii-helpers@0.24.3
+- pkg:cargo/iii-helpers@0.24.3-rc.1
 - pkg:cargo/iii-helpers@0.25.0-rc.1
