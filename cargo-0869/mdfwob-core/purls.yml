@@ -10,6 +10,7 @@
 - pkg:cargo/mdfwob-core@1.14.0
 - pkg:cargo/mdfwob-core@1.15.0
 - pkg:cargo/mdfwob-core@1.16.0
+- pkg:cargo/mdfwob-core@1.17.0
 - pkg:cargo/mdfwob-core@1.6.4
 - pkg:cargo/mdfwob-core@1.7.0
 - pkg:cargo/mdfwob-core@1.8.0
