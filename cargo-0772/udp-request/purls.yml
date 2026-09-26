@@ -52,3 +52,5 @@
 - pkg:cargo/udp-request@0.4.3
 - pkg:cargo/udp-request@0.4.4
 - pkg:cargo/udp-request@0.4.5
+- pkg:cargo/udp-request@0.4.6
+- pkg:cargo/udp-request@10.1.7
