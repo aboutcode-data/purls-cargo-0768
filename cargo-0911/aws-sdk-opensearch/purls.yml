@@ -99,6 +99,7 @@
 - pkg:cargo/aws-sdk-opensearch@1.144.0
 - pkg:cargo/aws-sdk-opensearch@1.145.0
 - pkg:cargo/aws-sdk-opensearch@1.146.0
+- pkg:cargo/aws-sdk-opensearch@1.147.0
 - pkg:cargo/aws-sdk-opensearch@1.15.0
 - pkg:cargo/aws-sdk-opensearch@1.16.0
 - pkg:cargo/aws-sdk-opensearch@1.17.0
