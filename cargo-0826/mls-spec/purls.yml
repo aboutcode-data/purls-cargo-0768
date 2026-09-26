@@ -19,6 +19,8 @@
 - pkg:cargo/mls-spec@3.0.0-pre.10
 - pkg:cargo/mls-spec@3.0.0-pre.11
 - pkg:cargo/mls-spec@3.0.0-pre.12
+- pkg:cargo/mls-spec@3.0.0-pre.13
+- pkg:cargo/mls-spec@3.0.0-pre.14
 - pkg:cargo/mls-spec@3.0.0-pre.2
 - pkg:cargo/mls-spec@3.0.0-pre.3
 - pkg:cargo/mls-spec@3.0.0-pre.4
