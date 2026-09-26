@@ -222,3 +222,4 @@
 - pkg:cargo/cc@1.4.6
 - pkg:cargo/cc@1.4.7
 - pkg:cargo/cc@1.5.0
+- pkg:cargo/cc@1.5.1
