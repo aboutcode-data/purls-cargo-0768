@@ -64,6 +64,7 @@
 - pkg:cargo/aws-sdk-globalaccelerator@1.112.0
 - pkg:cargo/aws-sdk-globalaccelerator@1.113.0
 - pkg:cargo/aws-sdk-globalaccelerator@1.114.0
+- pkg:cargo/aws-sdk-globalaccelerator@1.115.0
 - pkg:cargo/aws-sdk-globalaccelerator@1.12.0
 - pkg:cargo/aws-sdk-globalaccelerator@1.13.0
 - pkg:cargo/aws-sdk-globalaccelerator@1.14.0
