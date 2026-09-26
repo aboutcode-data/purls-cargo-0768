@@ -61,6 +61,7 @@
 - pkg:cargo/aws-sdk-shield@1.110.0
 - pkg:cargo/aws-sdk-shield@1.111.0
 - pkg:cargo/aws-sdk-shield@1.112.0
+- pkg:cargo/aws-sdk-shield@1.113.0
 - pkg:cargo/aws-sdk-shield@1.12.0
 - pkg:cargo/aws-sdk-shield@1.13.0
 - pkg:cargo/aws-sdk-shield@1.14.0

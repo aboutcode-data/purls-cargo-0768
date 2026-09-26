@@ -25,6 +25,7 @@
 - pkg:cargo/aws-sdk-bcmdashboards@1.30.0
 - pkg:cargo/aws-sdk-bcmdashboards@1.31.0
 - pkg:cargo/aws-sdk-bcmdashboards@1.32.0
+- pkg:cargo/aws-sdk-bcmdashboards@1.33.0
 - pkg:cargo/aws-sdk-bcmdashboards@1.4.0
 - pkg:cargo/aws-sdk-bcmdashboards@1.5.0
 - pkg:cargo/aws-sdk-bcmdashboards@1.6.0
