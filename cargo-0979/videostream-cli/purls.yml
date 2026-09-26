@@ -9,3 +9,4 @@
 - pkg:cargo/videostream-cli@2.5.1
 - pkg:cargo/videostream-cli@2.5.2
 - pkg:cargo/videostream-cli@2.5.3
+- pkg:cargo/videostream-cli@2.6.0
