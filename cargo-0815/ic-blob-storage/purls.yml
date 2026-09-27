@@ -3,3 +3,4 @@
 - pkg:cargo/ic-blob-storage@0.1.4
 - pkg:cargo/ic-blob-storage@0.1.5
 - pkg:cargo/ic-blob-storage@0.1.9
+- pkg:cargo/ic-blob-storage@0.2.0
