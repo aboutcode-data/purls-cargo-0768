@@ -17,3 +17,4 @@
 - pkg:cargo/sz-orm-grpc@7.6.0
 - pkg:cargo/sz-orm-grpc@7.7.0
 - pkg:cargo/sz-orm-grpc@8.8.0
+- pkg:cargo/sz-orm-grpc@9.0.0
