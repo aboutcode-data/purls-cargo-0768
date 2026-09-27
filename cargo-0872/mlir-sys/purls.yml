@@ -20,3 +20,4 @@
 - pkg:cargo/mlir-sys@220.0.2
 - pkg:cargo/mlir-sys@230.0.0
 - pkg:cargo/mlir-sys@230.0.1
+- pkg:cargo/mlir-sys@230.0.2
