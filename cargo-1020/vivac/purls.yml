@@ -17,6 +17,7 @@
 - pkg:cargo/vivac@0.14.2
 - pkg:cargo/vivac@0.15.0
 - pkg:cargo/vivac@0.15.1
+- pkg:cargo/vivac@0.15.10
 - pkg:cargo/vivac@0.15.2
 - pkg:cargo/vivac@0.15.3
 - pkg:cargo/vivac@0.15.4
