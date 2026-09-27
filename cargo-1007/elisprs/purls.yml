@@ -1,6 +1,7 @@
 - pkg:cargo/elisprs@0.1.10
 - pkg:cargo/elisprs@0.1.11
 - pkg:cargo/elisprs@0.1.16
+- pkg:cargo/elisprs@0.1.17
 - pkg:cargo/elisprs@0.1.2
 - pkg:cargo/elisprs@0.1.3
 - pkg:cargo/elisprs@0.1.4
