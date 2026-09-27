@@ -36,6 +36,7 @@
 - pkg:cargo/treeship-core@0.30.0
 - pkg:cargo/treeship-core@0.31.0
 - pkg:cargo/treeship-core@0.31.1
+- pkg:cargo/treeship-core@0.31.10
 - pkg:cargo/treeship-core@0.31.2
 - pkg:cargo/treeship-core@0.31.3
 - pkg:cargo/treeship-core@0.31.4
