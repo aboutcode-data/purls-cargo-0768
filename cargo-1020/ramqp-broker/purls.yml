@@ -2,3 +2,4 @@
 - pkg:cargo/ramqp-broker@0.9.1
 - pkg:cargo/ramqp-broker@0.9.2
 - pkg:cargo/ramqp-broker@0.9.3
+- pkg:cargo/ramqp-broker@0.9.4
