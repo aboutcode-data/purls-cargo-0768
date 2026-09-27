@@ -10,3 +10,4 @@
 - pkg:cargo/sz-rust-orm-facade@0.7.0
 - pkg:cargo/sz-rust-orm-facade@1.1.0
 - pkg:cargo/sz-rust-orm-facade@1.2.0
+- pkg:cargo/sz-rust-orm-facade@1.4.0
