@@ -1,1 +1,2 @@
 - pkg:cargo/pkcs11-types@0.2.0
+- pkg:cargo/pkcs11-types@0.2.1
