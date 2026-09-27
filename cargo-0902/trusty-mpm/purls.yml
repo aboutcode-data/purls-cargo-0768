@@ -81,3 +81,4 @@
 - pkg:cargo/trusty-mpm@1.7.5
 - pkg:cargo/trusty-mpm@1.7.6
 - pkg:cargo/trusty-mpm@1.7.7
+- pkg:cargo/trusty-mpm@1.7.8
