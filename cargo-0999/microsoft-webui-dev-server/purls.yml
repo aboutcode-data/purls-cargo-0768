@@ -17,3 +17,4 @@
 - pkg:cargo/microsoft-webui-dev-server@0.0.27
 - pkg:cargo/microsoft-webui-dev-server@0.0.28
 - pkg:cargo/microsoft-webui-dev-server@0.0.29
+- pkg:cargo/microsoft-webui-dev-server@0.0.30
