@@ -26,6 +26,7 @@
 - pkg:cargo/smix-verbs@1.0.9
 - pkg:cargo/smix-verbs@10.0.0
 - pkg:cargo/smix-verbs@10.1.0
+- pkg:cargo/smix-verbs@11.0.0
 - pkg:cargo/smix-verbs@2.0.0
 - pkg:cargo/smix-verbs@2.1.0
 - pkg:cargo/smix-verbs@2.2.0
