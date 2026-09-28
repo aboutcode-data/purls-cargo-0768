@@ -27,3 +27,4 @@
 - pkg:cargo/jsonschema-macros@0.57.0
 - pkg:cargo/jsonschema-macros@0.58.0
 - pkg:cargo/jsonschema-macros@0.58.1
+- pkg:cargo/jsonschema-macros@0.58.2
