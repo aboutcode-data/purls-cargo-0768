@@ -29,6 +29,9 @@
 - pkg:cargo/mdeck@1.0.0
 - pkg:cargo/mdeck@1.1.0
 - pkg:cargo/mdeck@1.1.1
+- pkg:cargo/mdeck@1.10.0
+- pkg:cargo/mdeck@1.11.0
+- pkg:cargo/mdeck@1.11.1
 - pkg:cargo/mdeck@1.2.0
 - pkg:cargo/mdeck@1.2.1
 - pkg:cargo/mdeck@1.2.2
@@ -40,3 +43,7 @@
 - pkg:cargo/mdeck@1.4.0
 - pkg:cargo/mdeck@1.5.0
 - pkg:cargo/mdeck@1.6.0
+- pkg:cargo/mdeck@1.7.0
+- pkg:cargo/mdeck@1.8.0
+- pkg:cargo/mdeck@1.9.0
+- pkg:cargo/mdeck@1.9.1
