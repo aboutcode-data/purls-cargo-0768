@@ -55,3 +55,4 @@
 - pkg:cargo/udp-request@0.4.6
 - pkg:cargo/udp-request@10.1.11
 - pkg:cargo/udp-request@10.1.7
+- pkg:cargo/udp-request@10.2.0
