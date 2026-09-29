@@ -3,3 +3,4 @@
 - pkg:cargo/ntex-httparse@1.10.3
 - pkg:cargo/ntex-httparse@2.0.0
 - pkg:cargo/ntex-httparse@2.1.0
+- pkg:cargo/ntex-httparse@2.2.0
