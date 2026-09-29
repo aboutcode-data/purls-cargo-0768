@@ -1,5 +1,6 @@
 - pkg:cargo/tracing-gcp-formatter@0.1.0
 - pkg:cargo/tracing-gcp-formatter@0.10.0
+- pkg:cargo/tracing-gcp-formatter@0.14.0
 - pkg:cargo/tracing-gcp-formatter@0.2.0
 - pkg:cargo/tracing-gcp-formatter@0.3.0
 - pkg:cargo/tracing-gcp-formatter@0.4.0
