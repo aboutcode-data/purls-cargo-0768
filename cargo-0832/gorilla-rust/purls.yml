@@ -1,1 +1,2 @@
 - pkg:cargo/gorilla-rust@1.4.2
+- pkg:cargo/gorilla-rust@1.5.0
