@@ -3,3 +3,4 @@
 - pkg:cargo/krun-vmm@0.1.0-1.19.0
 - pkg:cargo/krun-vmm@0.1.0-1.19.2
 - pkg:cargo/krun-vmm@0.1.0-1.19.3
+- pkg:cargo/krun-vmm@0.1.0-1.19.6
