@@ -19,6 +19,7 @@
 - pkg:cargo/ff-common@0.18.1
 - pkg:cargo/ff-common@0.18.2
 - pkg:cargo/ff-common@0.18.3
+- pkg:cargo/ff-common@0.18.4
 - pkg:cargo/ff-common@0.2.0
 - pkg:cargo/ff-common@0.3.0
 - pkg:cargo/ff-common@0.4.0
