@@ -22,5 +22,6 @@
 - pkg:cargo/tree-sitter-cfml@0.26.39
 - pkg:cargo/tree-sitter-cfml@0.26.40
 - pkg:cargo/tree-sitter-cfml@0.26.42
+- pkg:cargo/tree-sitter-cfml@0.26.43
 - pkg:cargo/tree-sitter-cfml@0.26.5
 - pkg:cargo/tree-sitter-cfml@0.26.8
