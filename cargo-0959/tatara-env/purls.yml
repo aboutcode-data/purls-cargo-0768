@@ -37,7 +37,15 @@
 - pkg:cargo/tatara-env@0.3.52
 - pkg:cargo/tatara-env@0.3.57
 - pkg:cargo/tatara-env@0.3.58
+- pkg:cargo/tatara-env@0.3.59
 - pkg:cargo/tatara-env@0.3.6
+- pkg:cargo/tatara-env@0.3.60
+- pkg:cargo/tatara-env@0.3.61
+- pkg:cargo/tatara-env@0.3.62
+- pkg:cargo/tatara-env@0.3.63
+- pkg:cargo/tatara-env@0.3.64
 - pkg:cargo/tatara-env@0.3.7
 - pkg:cargo/tatara-env@0.3.8
 - pkg:cargo/tatara-env@0.3.9
+- pkg:cargo/tatara-env@0.4.0
+- pkg:cargo/tatara-env@0.4.1

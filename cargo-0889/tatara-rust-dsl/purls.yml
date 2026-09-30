@@ -4,3 +4,4 @@
 - pkg:cargo/tatara-rust-dsl@0.1.5
 - pkg:cargo/tatara-rust-dsl@0.1.6
 - pkg:cargo/tatara-rust-dsl@0.1.7
+- pkg:cargo/tatara-rust-dsl@0.1.9
