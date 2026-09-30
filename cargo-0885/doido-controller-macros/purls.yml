@@ -32,6 +32,7 @@
 - pkg:cargo/doido-controller-macros@0.0.30-test5
 - pkg:cargo/doido-controller-macros@0.0.30-test6
 - pkg:cargo/doido-controller-macros@0.0.30-test7
+- pkg:cargo/doido-controller-macros@0.0.31
 - pkg:cargo/doido-controller-macros@0.0.4
 - pkg:cargo/doido-controller-macros@0.0.5
 - pkg:cargo/doido-controller-macros@0.0.6
