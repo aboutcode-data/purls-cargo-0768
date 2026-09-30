@@ -133,6 +133,7 @@
 - pkg:cargo/tauri-bundler@2.0.3
 - pkg:cargo/tauri-bundler@2.0.4
 - pkg:cargo/tauri-bundler@2.1.0
+- pkg:cargo/tauri-bundler@2.10.0
 - pkg:cargo/tauri-bundler@2.2.0
 - pkg:cargo/tauri-bundler@2.2.1
 - pkg:cargo/tauri-bundler@2.2.2
@@ -161,3 +162,4 @@
 - pkg:cargo/tauri-bundler@2.9.4
 - pkg:cargo/tauri-bundler@3.0.0-alpha.0
 - pkg:cargo/tauri-bundler@3.0.0-alpha.1
+- pkg:cargo/tauri-bundler@3.0.0-alpha.2
