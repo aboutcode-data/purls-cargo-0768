@@ -52,6 +52,7 @@
 - pkg:cargo/jsonrpsee@0.25.0
 - pkg:cargo/jsonrpsee@0.25.1
 - pkg:cargo/jsonrpsee@0.26.0
+- pkg:cargo/jsonrpsee@0.26.1
 - pkg:cargo/jsonrpsee@0.3.0
 - pkg:cargo/jsonrpsee@0.3.1
 - pkg:cargo/jsonrpsee@0.4.0
