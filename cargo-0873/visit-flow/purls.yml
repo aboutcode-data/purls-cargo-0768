@@ -20,4 +20,6 @@
 - pkg:cargo/visit-flow@0.0.32-canary.d5f95f14dc
 - pkg:cargo/visit-flow@0.0.33
 - pkg:cargo/visit-flow@0.0.33-canary.94d59c97ce
+- pkg:cargo/visit-flow@0.0.34
+- pkg:cargo/visit-flow@0.0.34-canary.4feedf8638
 - pkg:cargo/visit-flow@0.0.34-canary.83570cda0a
