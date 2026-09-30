@@ -13,3 +13,4 @@
 - pkg:cargo/dynomite-vec@1.7.0
 - pkg:cargo/dynomite-vec@1.8.0
 - pkg:cargo/dynomite-vec@2.0.0
+- pkg:cargo/dynomite-vec@2.0.1
