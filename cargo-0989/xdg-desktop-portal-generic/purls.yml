@@ -1,4 +1,5 @@
 - pkg:cargo/xdg-desktop-portal-generic@0.1.0
+- pkg:cargo/xdg-desktop-portal-generic@0.10.0
 - pkg:cargo/xdg-desktop-portal-generic@0.2.0
 - pkg:cargo/xdg-desktop-portal-generic@0.2.1
 - pkg:cargo/xdg-desktop-portal-generic@0.3.0
@@ -9,3 +10,4 @@
 - pkg:cargo/xdg-desktop-portal-generic@0.7.0
 - pkg:cargo/xdg-desktop-portal-generic@0.8.0
 - pkg:cargo/xdg-desktop-portal-generic@0.9.0
+- pkg:cargo/xdg-desktop-portal-generic@1.0.0
