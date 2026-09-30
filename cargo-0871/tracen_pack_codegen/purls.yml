@@ -3,3 +3,4 @@
 - pkg:cargo/tracen_pack_codegen@0.1.4
 - pkg:cargo/tracen_pack_codegen@0.1.5
 - pkg:cargo/tracen_pack_codegen@0.1.6
+- pkg:cargo/tracen_pack_codegen@2.0.0
