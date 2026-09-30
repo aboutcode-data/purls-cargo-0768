@@ -6,6 +6,7 @@
 - pkg:cargo/rational@0.3.0
 - pkg:cargo/rational@1.0.0
 - pkg:cargo/rational@1.1.0
+- pkg:cargo/rational@1.10.0
 - pkg:cargo/rational@1.2.0
 - pkg:cargo/rational@1.2.1
 - pkg:cargo/rational@1.2.2
