@@ -2,3 +2,4 @@
 - pkg:cargo/ffmpeg-sys-fframes@7.0.3
 - pkg:cargo/ffmpeg-sys-fframes@7.1.0
 - pkg:cargo/ffmpeg-sys-fframes@7.1.1
+- pkg:cargo/ffmpeg-sys-fframes@9.0.0
