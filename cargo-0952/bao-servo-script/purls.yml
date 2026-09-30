@@ -12,6 +12,10 @@
 - pkg:cargo/bao-servo-script@0.5.19
 - pkg:cargo/bao-servo-script@0.5.2
 - pkg:cargo/bao-servo-script@0.5.21
+- pkg:cargo/bao-servo-script@0.5.22
+- pkg:cargo/bao-servo-script@0.5.23
+- pkg:cargo/bao-servo-script@0.5.24
+- pkg:cargo/bao-servo-script@0.5.25
 - pkg:cargo/bao-servo-script@0.5.3
 - pkg:cargo/bao-servo-script@0.5.4
 - pkg:cargo/bao-servo-script@0.5.5
