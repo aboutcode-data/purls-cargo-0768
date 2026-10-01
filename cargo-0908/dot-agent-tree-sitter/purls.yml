@@ -1,6 +1,7 @@
 - pkg:cargo/dot-agent-tree-sitter@0.10.0
 - pkg:cargo/dot-agent-tree-sitter@0.10.1
 - pkg:cargo/dot-agent-tree-sitter@0.12.0-alpha.0
+- pkg:cargo/dot-agent-tree-sitter@0.12.0-beta.1
 - pkg:cargo/dot-agent-tree-sitter@0.2.1
 - pkg:cargo/dot-agent-tree-sitter@0.3.2
 - pkg:cargo/dot-agent-tree-sitter@0.4.0
