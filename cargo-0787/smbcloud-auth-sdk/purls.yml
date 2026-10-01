@@ -19,3 +19,4 @@
 - pkg:cargo/smbcloud-auth-sdk@0.5.2
 - pkg:cargo/smbcloud-auth-sdk@0.5.3
 - pkg:cargo/smbcloud-auth-sdk@0.5.4
+- pkg:cargo/smbcloud-auth-sdk@0.6.0
