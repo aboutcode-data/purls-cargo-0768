@@ -24,3 +24,4 @@
 - pkg:cargo/mdka-node@2.8.0
 - pkg:cargo/mdka-node@2.9.0
 - pkg:cargo/mdka-node@3.0.0
+- pkg:cargo/mdka-node@3.1.0
