@@ -1,2 +1,3 @@
 - pkg:cargo/microsoft-fast-convert@0.10.0
+- pkg:cargo/microsoft-fast-convert@0.11.0
 - pkg:cargo/microsoft-fast-convert@0.9.0
