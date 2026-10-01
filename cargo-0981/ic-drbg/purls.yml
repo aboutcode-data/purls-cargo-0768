@@ -8,3 +8,5 @@
 - pkg:cargo/ic-drbg@0.2.3
 - pkg:cargo/ic-drbg@0.2.4
 - pkg:cargo/ic-drbg@0.2.5
+- pkg:cargo/ic-drbg@0.2.6
+- pkg:cargo/ic-drbg@0.2.7
