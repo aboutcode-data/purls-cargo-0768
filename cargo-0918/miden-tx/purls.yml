@@ -46,6 +46,7 @@
 - pkg:cargo/miden-tx@0.16.0-rc.6
 - pkg:cargo/miden-tx@0.16.0-rc.9
 - pkg:cargo/miden-tx@0.16.1
+- pkg:cargo/miden-tx@0.17.0
 - pkg:cargo/miden-tx@0.17.0-rc.3
 - pkg:cargo/miden-tx@0.17.0-rc.4
 - pkg:cargo/miden-tx@0.17.0-rc.5
