@@ -18,3 +18,4 @@
 - pkg:cargo/shepherd-cli@6.7.2
 - pkg:cargo/shepherd-cli@6.7.6
 - pkg:cargo/shepherd-cli@6.7.7
+- pkg:cargo/shepherd-cli@6.7.8
