@@ -66,5 +66,6 @@
 - pkg:cargo/aws-sdk-invoicing@1.68.0
 - pkg:cargo/aws-sdk-invoicing@1.69.0
 - pkg:cargo/aws-sdk-invoicing@1.7.0
+- pkg:cargo/aws-sdk-invoicing@1.70.0
 - pkg:cargo/aws-sdk-invoicing@1.8.0
 - pkg:cargo/aws-sdk-invoicing@1.9.0
