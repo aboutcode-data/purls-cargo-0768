@@ -58,6 +58,7 @@
 - pkg:cargo/aws-sdk-chimesdkmeetings@1.113.0
 - pkg:cargo/aws-sdk-chimesdkmeetings@1.114.0
 - pkg:cargo/aws-sdk-chimesdkmeetings@1.115.0
+- pkg:cargo/aws-sdk-chimesdkmeetings@1.116.0
 - pkg:cargo/aws-sdk-chimesdkmeetings@1.12.0
 - pkg:cargo/aws-sdk-chimesdkmeetings@1.13.0
 - pkg:cargo/aws-sdk-chimesdkmeetings@1.14.0

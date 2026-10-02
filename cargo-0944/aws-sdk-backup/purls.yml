@@ -80,6 +80,7 @@
 - pkg:cargo/aws-sdk-backup@1.124.0
 - pkg:cargo/aws-sdk-backup@1.125.0
 - pkg:cargo/aws-sdk-backup@1.126.0
+- pkg:cargo/aws-sdk-backup@1.127.0
 - pkg:cargo/aws-sdk-backup@1.13.0
 - pkg:cargo/aws-sdk-backup@1.14.0
 - pkg:cargo/aws-sdk-backup@1.15.0
