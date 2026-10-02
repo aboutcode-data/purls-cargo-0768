@@ -132,6 +132,7 @@
 - pkg:cargo/aws-sdk-glue@1.170.0
 - pkg:cargo/aws-sdk-glue@1.171.0
 - pkg:cargo/aws-sdk-glue@1.172.0
+- pkg:cargo/aws-sdk-glue@1.173.0
 - pkg:cargo/aws-sdk-glue@1.18.0
 - pkg:cargo/aws-sdk-glue@1.19.0
 - pkg:cargo/aws-sdk-glue@1.2.0
