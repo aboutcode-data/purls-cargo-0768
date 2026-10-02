@@ -7,3 +7,4 @@
 - pkg:cargo/zcash_pool_migration@0.1.0-rc.5
 - pkg:cargo/zcash_pool_migration@0.1.0-rc.6
 - pkg:cargo/zcash_pool_migration@0.1.0-rc.7
+- pkg:cargo/zcash_pool_migration@0.2.0-pre.0
