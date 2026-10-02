@@ -6,3 +6,4 @@
 - pkg:cargo/eldiron-client@0.9.7
 - pkg:cargo/eldiron-client@0.91.0
 - pkg:cargo/eldiron-client@0.93.0
+- pkg:cargo/eldiron-client@0.95.0
