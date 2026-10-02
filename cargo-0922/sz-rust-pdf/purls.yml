@@ -12,3 +12,4 @@
 - pkg:cargo/sz-rust-pdf@0.7.0
 - pkg:cargo/sz-rust-pdf@1.2.0
 - pkg:cargo/sz-rust-pdf@1.4.0
+- pkg:cargo/sz-rust-pdf@1.6.0
