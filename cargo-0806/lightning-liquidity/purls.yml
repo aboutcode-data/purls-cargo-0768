@@ -7,11 +7,14 @@
 - pkg:cargo/lightning-liquidity@0.1.0-alpha.5
 - pkg:cargo/lightning-liquidity@0.1.0-alpha.6
 - pkg:cargo/lightning-liquidity@0.1.0-beta1
+- pkg:cargo/lightning-liquidity@0.1.13
 - pkg:cargo/lightning-liquidity@0.2.0
 - pkg:cargo/lightning-liquidity@0.2.0-beta1
 - pkg:cargo/lightning-liquidity@0.2.0-rc1
 - pkg:cargo/lightning-liquidity@0.2.0-rc2
 - pkg:cargo/lightning-liquidity@0.2.3
+- pkg:cargo/lightning-liquidity@0.2.7
 - pkg:cargo/lightning-liquidity@0.3.0-beta1
 - pkg:cargo/lightning-liquidity@0.3.0-rc1
 - pkg:cargo/lightning-liquidity@0.3.0-rc2
+- pkg:cargo/lightning-liquidity@0.3.0-rc3
