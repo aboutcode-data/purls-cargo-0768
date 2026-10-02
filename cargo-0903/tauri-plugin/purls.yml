@@ -54,6 +54,8 @@
 - pkg:cargo/tauri-plugin@2.6.2
 - pkg:cargo/tauri-plugin@2.6.3
 - pkg:cargo/tauri-plugin@2.7.0
+- pkg:cargo/tauri-plugin@2.7.1
 - pkg:cargo/tauri-plugin@3.0.0-alpha.0
 - pkg:cargo/tauri-plugin@3.0.0-alpha.1
 - pkg:cargo/tauri-plugin@3.0.0-alpha.2
+- pkg:cargo/tauri-plugin@3.0.0-alpha.3
