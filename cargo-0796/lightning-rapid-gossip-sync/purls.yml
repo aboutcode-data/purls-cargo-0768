@@ -38,3 +38,4 @@
 - pkg:cargo/lightning-rapid-gossip-sync@0.3.0-beta1
 - pkg:cargo/lightning-rapid-gossip-sync@0.3.0-rc1
 - pkg:cargo/lightning-rapid-gossip-sync@0.3.0-rc2
+- pkg:cargo/lightning-rapid-gossip-sync@0.3.0-rc3
