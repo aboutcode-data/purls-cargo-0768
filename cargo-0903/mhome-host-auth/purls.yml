@@ -4,3 +4,5 @@
 - pkg:cargo/mhome-host-auth@0.1.4
 - pkg:cargo/mhome-host-auth@1.0.0
 - pkg:cargo/mhome-host-auth@1.0.1
+- pkg:cargo/mhome-host-auth@1.0.3
+- pkg:cargo/mhome-host-auth@1.0.4
