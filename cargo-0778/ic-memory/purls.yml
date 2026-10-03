@@ -22,6 +22,10 @@
 - pkg:cargo/ic-memory@0.15.1
 - pkg:cargo/ic-memory@0.15.2
 - pkg:cargo/ic-memory@0.15.3
+- pkg:cargo/ic-memory@0.15.4
+- pkg:cargo/ic-memory@0.15.5
+- pkg:cargo/ic-memory@0.15.6
+- pkg:cargo/ic-memory@0.15.7
 - pkg:cargo/ic-memory@0.2.0
 - pkg:cargo/ic-memory@0.3.0
 - pkg:cargo/ic-memory@0.39.10
