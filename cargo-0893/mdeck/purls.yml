@@ -41,6 +41,7 @@
 - pkg:cargo/mdeck@1.16.0
 - pkg:cargo/mdeck@1.17.0
 - pkg:cargo/mdeck@1.18.0
+- pkg:cargo/mdeck@1.19.0
 - pkg:cargo/mdeck@1.2.0
 - pkg:cargo/mdeck@1.2.1
 - pkg:cargo/mdeck@1.2.2
