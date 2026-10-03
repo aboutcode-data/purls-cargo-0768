@@ -21,6 +21,7 @@
 - pkg:cargo/miden-mobile-prover@0.16.0-rc.7
 - pkg:cargo/miden-mobile-prover@0.16.1
 - pkg:cargo/miden-mobile-prover@0.16.3
+- pkg:cargo/miden-mobile-prover@0.17.0
 - pkg:cargo/miden-mobile-prover@0.17.0-rc.1
 - pkg:cargo/miden-mobile-prover@0.17.0-rc.2
 - pkg:cargo/miden-mobile-prover@0.17.0-rc.3
