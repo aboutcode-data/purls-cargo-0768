@@ -110,6 +110,7 @@
 - pkg:cargo/smooai-smooth-operator-adapter-postgres@1.60.0
 - pkg:cargo/smooai-smooth-operator-adapter-postgres@1.61.0
 - pkg:cargo/smooai-smooth-operator-adapter-postgres@1.62.0
+- pkg:cargo/smooai-smooth-operator-adapter-postgres@1.62.1
 - pkg:cargo/smooai-smooth-operator-adapter-postgres@1.7.0
 - pkg:cargo/smooai-smooth-operator-adapter-postgres@1.7.1
 - pkg:cargo/smooai-smooth-operator-adapter-postgres@1.8.0
