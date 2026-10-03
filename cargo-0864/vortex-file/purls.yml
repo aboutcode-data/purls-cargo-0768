@@ -70,3 +70,4 @@
 - pkg:cargo/vortex-file@0.84.0
 - pkg:cargo/vortex-file@0.85.0
 - pkg:cargo/vortex-file@0.86.1
+- pkg:cargo/vortex-file@0.87.0

@@ -17,3 +17,4 @@
 - pkg:cargo/vortex-array-macros@0.84.0
 - pkg:cargo/vortex-array-macros@0.85.0
 - pkg:cargo/vortex-array-macros@0.86.1
+- pkg:cargo/vortex-array-macros@0.87.0
