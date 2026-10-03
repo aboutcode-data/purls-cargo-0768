@@ -100,5 +100,6 @@
 - pkg:cargo/mir-issues@0.81.0
 - pkg:cargo/mir-issues@0.82.0
 - pkg:cargo/mir-issues@0.83.0
+- pkg:cargo/mir-issues@0.84.0
 - pkg:cargo/mir-issues@0.9.0
 - pkg:cargo/mir-issues@0.9.1
