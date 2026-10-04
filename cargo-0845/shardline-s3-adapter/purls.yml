@@ -2,6 +2,7 @@
 - pkg:cargo/shardline-s3-adapter@1.11.0
 - pkg:cargo/shardline-s3-adapter@1.11.1
 - pkg:cargo/shardline-s3-adapter@1.11.2
+- pkg:cargo/shardline-s3-adapter@1.11.3
 - pkg:cargo/shardline-s3-adapter@1.6.0
 - pkg:cargo/shardline-s3-adapter@1.7.0
 - pkg:cargo/shardline-s3-adapter@1.8.0
