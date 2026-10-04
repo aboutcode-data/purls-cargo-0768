@@ -1,1 +1,2 @@
 - pkg:cargo/lithair-postgres@0.1.0
+- pkg:cargo/lithair-postgres@0.1.1
