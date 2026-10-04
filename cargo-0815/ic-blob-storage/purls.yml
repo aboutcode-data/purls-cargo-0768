@@ -3,6 +3,10 @@
 - pkg:cargo/ic-blob-storage@0.1.4
 - pkg:cargo/ic-blob-storage@0.1.5
 - pkg:cargo/ic-blob-storage@0.1.9
+- pkg:cargo/ic-blob-storage@0.10.0
+- pkg:cargo/ic-blob-storage@0.11.0
+- pkg:cargo/ic-blob-storage@0.12.0
+- pkg:cargo/ic-blob-storage@0.13.0
 - pkg:cargo/ic-blob-storage@0.2.0
 - pkg:cargo/ic-blob-storage@0.2.22
 - pkg:cargo/ic-blob-storage@0.2.23
