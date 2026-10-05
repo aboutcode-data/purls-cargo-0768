@@ -5,6 +5,7 @@
 - pkg:cargo/volga-open-api@0.11.2
 - pkg:cargo/volga-open-api@0.12.0
 - pkg:cargo/volga-open-api@0.13.0
+- pkg:cargo/volga-open-api@0.13.1
 - pkg:cargo/volga-open-api@0.8.4
 - pkg:cargo/volga-open-api@0.8.5
 - pkg:cargo/volga-open-api@0.8.6
