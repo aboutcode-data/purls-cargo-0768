@@ -1,1 +1,2 @@
 - pkg:cargo/pkcs11-proxy-ng-proto@0.2.0
+- pkg:cargo/pkcs11-proxy-ng-proto@0.2.1
