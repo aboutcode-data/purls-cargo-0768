@@ -1,1 +1,2 @@
 - pkg:cargo/kaspa-consensus-client@0.15.0
+- pkg:cargo/kaspa-consensus-client@2.1.0

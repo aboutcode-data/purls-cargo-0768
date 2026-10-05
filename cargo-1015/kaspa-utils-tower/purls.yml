@@ -1,3 +1,4 @@
 - pkg:cargo/kaspa-utils-tower@0.0.0
 - pkg:cargo/kaspa-utils-tower@0.13.4
 - pkg:cargo/kaspa-utils-tower@0.15.0
+- pkg:cargo/kaspa-utils-tower@2.1.0

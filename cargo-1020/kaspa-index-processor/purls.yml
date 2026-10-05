@@ -4,3 +4,4 @@
 - pkg:cargo/kaspa-index-processor@0.0.4
 - pkg:cargo/kaspa-index-processor@0.13.4
 - pkg:cargo/kaspa-index-processor@0.15.0
+- pkg:cargo/kaspa-index-processor@2.1.0

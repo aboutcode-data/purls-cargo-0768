@@ -1,1 +1,2 @@
 - pkg:cargo/kaspa-wasm-core@0.15.0
+- pkg:cargo/kaspa-wasm-core@2.1.0
