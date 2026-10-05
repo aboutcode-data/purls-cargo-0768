@@ -70,5 +70,14 @@
 - pkg:cargo/zshrs-daemon@0.12.68
 - pkg:cargo/zshrs-daemon@0.12.69
 - pkg:cargo/zshrs-daemon@0.12.7
+- pkg:cargo/zshrs-daemon@0.12.70
 - pkg:cargo/zshrs-daemon@0.12.8
 - pkg:cargo/zshrs-daemon@0.12.9
+- pkg:cargo/zshrs-daemon@0.13.0
+- pkg:cargo/zshrs-daemon@0.13.1
+- pkg:cargo/zshrs-daemon@0.13.2
+- pkg:cargo/zshrs-daemon@0.13.3
+- pkg:cargo/zshrs-daemon@0.13.4
+- pkg:cargo/zshrs-daemon@0.13.5
+- pkg:cargo/zshrs-daemon@0.13.6
+- pkg:cargo/zshrs-daemon@0.13.8

@@ -8,6 +8,7 @@
 - pkg:cargo/zstd-sys-rs@1.5.17
 - pkg:cargo/zstd-sys-rs@1.5.18
 - pkg:cargo/zstd-sys-rs@1.5.19
+- pkg:cargo/zstd-sys-rs@1.5.20
 - pkg:cargo/zstd-sys-rs@1.5.7
 - pkg:cargo/zstd-sys-rs@1.5.7-try1
 - pkg:cargo/zstd-sys-rs@1.5.8
