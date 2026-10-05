@@ -25,6 +25,8 @@
 - pkg:cargo/minotari_node@5.7.0-pre.5
 - pkg:cargo/minotari_node@5.7.0-pre.8
 - pkg:cargo/minotari_node@6.0.0
+- pkg:cargo/minotari_node@6.0.1
 - pkg:cargo/minotari_node@6.0.1-pre.0
 - pkg:cargo/minotari_node@6.0.1-pre.1
 - pkg:cargo/minotari_node@6.0.1-pre.2
+- pkg:cargo/minotari_node@6.1.0-pre.0
