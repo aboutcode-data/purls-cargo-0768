@@ -25,5 +25,8 @@
 - pkg:cargo/tauri-plugin-autostart@2.4.0
 - pkg:cargo/tauri-plugin-autostart@2.5.0
 - pkg:cargo/tauri-plugin-autostart@2.5.1
+- pkg:cargo/tauri-plugin-autostart@2.6.0
+- pkg:cargo/tauri-plugin-autostart@2.7.0
 - pkg:cargo/tauri-plugin-autostart@3.0.0-alpha.0
 - pkg:cargo/tauri-plugin-autostart@3.0.0-alpha.1
+- pkg:cargo/tauri-plugin-autostart@3.0.0-alpha.2
