@@ -1,3 +1,4 @@
 - pkg:cargo/tauri-plugin-drag-and-drop-wayland@2.0.0
 - pkg:cargo/tauri-plugin-drag-and-drop-wayland@2.0.1
 - pkg:cargo/tauri-plugin-drag-and-drop-wayland@2.1.0
+- pkg:cargo/tauri-plugin-drag-and-drop-wayland@2.1.1
