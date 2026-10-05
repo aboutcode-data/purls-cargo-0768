@@ -217,6 +217,9 @@
 - pkg:cargo/vize_canon@0.429.1
 - pkg:cargo/vize_canon@0.429.2
 - pkg:cargo/vize_canon@0.43.0
+- pkg:cargo/vize_canon@0.430.1
+- pkg:cargo/vize_canon@0.431.0
+- pkg:cargo/vize_canon@0.432.0
 - pkg:cargo/vize_canon@0.44.0
 - pkg:cargo/vize_canon@0.45.0
 - pkg:cargo/vize_canon@0.46.0
