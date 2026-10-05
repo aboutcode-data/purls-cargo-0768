@@ -88,6 +88,9 @@
 - pkg:cargo/mig-bo4e@0.26.0
 - pkg:cargo/mig-bo4e@0.26.1
 - pkg:cargo/mig-bo4e@0.27.0
+- pkg:cargo/mig-bo4e@0.28.0
+- pkg:cargo/mig-bo4e@0.28.1
+- pkg:cargo/mig-bo4e@0.28.2
 - pkg:cargo/mig-bo4e@0.3.0
 - pkg:cargo/mig-bo4e@0.3.1
 - pkg:cargo/mig-bo4e@0.4.0
