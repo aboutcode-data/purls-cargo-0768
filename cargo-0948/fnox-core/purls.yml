@@ -20,3 +20,5 @@
 - pkg:cargo/fnox-core@1.35.3
 - pkg:cargo/fnox-core@1.36.0
 - pkg:cargo/fnox-core@1.37.0
+- pkg:cargo/fnox-core@1.38.0
+- pkg:cargo/fnox-core@1.38.1
