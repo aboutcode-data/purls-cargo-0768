@@ -1,3 +1,4 @@
 - pkg:cargo/sz-rust-frontend-codegen@1.2.0
 - pkg:cargo/sz-rust-frontend-codegen@1.4.0
 - pkg:cargo/sz-rust-frontend-codegen@1.6.0
+- pkg:cargo/sz-rust-frontend-codegen@1.7.0
