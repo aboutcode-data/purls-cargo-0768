@@ -48,5 +48,7 @@
 - pkg:cargo/tauri-plugin-persisted-scope@2.3.6
 - pkg:cargo/tauri-plugin-persisted-scope@2.3.7
 - pkg:cargo/tauri-plugin-persisted-scope@2.3.8
+- pkg:cargo/tauri-plugin-persisted-scope@2.4.0
 - pkg:cargo/tauri-plugin-persisted-scope@3.0.0-alpha.0
 - pkg:cargo/tauri-plugin-persisted-scope@3.0.0-alpha.1
+- pkg:cargo/tauri-plugin-persisted-scope@3.0.0-alpha.2
