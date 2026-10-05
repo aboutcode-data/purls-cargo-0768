@@ -1,4 +1,5 @@
 - pkg:cargo/kanban-backend-http@0.10.0
+- pkg:cargo/kanban-backend-http@0.11.0
 - pkg:cargo/kanban-backend-http@0.8.0
 - pkg:cargo/kanban-backend-http@0.8.1
 - pkg:cargo/kanban-backend-http@0.9.0
