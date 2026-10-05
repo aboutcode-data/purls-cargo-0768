@@ -2,3 +2,4 @@
 - pkg:cargo/tauri-runtime-cef@3.0.0-alpha.1
 - pkg:cargo/tauri-runtime-cef@3.0.0-alpha.2
 - pkg:cargo/tauri-runtime-cef@3.0.0-alpha.4
+- pkg:cargo/tauri-runtime-cef@3.0.0-alpha.5
