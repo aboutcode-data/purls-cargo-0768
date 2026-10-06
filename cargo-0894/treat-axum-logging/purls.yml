@@ -4,3 +4,4 @@
 - pkg:cargo/treat-axum-logging@0.23.0
 - pkg:cargo/treat-axum-logging@0.24.0
 - pkg:cargo/treat-axum-logging@0.24.1
+- pkg:cargo/treat-axum-logging@0.24.2
