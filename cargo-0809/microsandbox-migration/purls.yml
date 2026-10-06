@@ -55,3 +55,4 @@
 - pkg:cargo/microsandbox-migration@0.7.4
 - pkg:cargo/microsandbox-migration@0.7.5
 - pkg:cargo/microsandbox-migration@0.7.6
+- pkg:cargo/microsandbox-migration@0.7.7
