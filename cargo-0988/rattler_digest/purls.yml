@@ -55,3 +55,4 @@
 - pkg:cargo/rattler_digest@1.3.2
 - pkg:cargo/rattler_digest@1.4.0
 - pkg:cargo/rattler_digest@2.0.0
+- pkg:cargo/rattler_digest@2.1.0
