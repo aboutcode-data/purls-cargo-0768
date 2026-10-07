@@ -7,3 +7,4 @@
 - pkg:cargo/hyalo-mdlint@0.21.0
 - pkg:cargo/hyalo-mdlint@0.24.0
 - pkg:cargo/hyalo-mdlint@0.24.1
+- pkg:cargo/hyalo-mdlint@0.25.0
