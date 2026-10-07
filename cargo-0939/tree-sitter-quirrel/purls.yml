@@ -1,1 +1,3 @@
 - pkg:cargo/tree-sitter-quirrel@4.43.0
+- pkg:cargo/tree-sitter-quirrel@4.43.1
+- pkg:cargo/tree-sitter-quirrel@4.43.2
