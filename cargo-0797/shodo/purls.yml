@@ -11,6 +11,9 @@
 - pkg:cargo/shodo@0.0.18
 - pkg:cargo/shodo@0.0.19
 - pkg:cargo/shodo@0.0.2
+- pkg:cargo/shodo@0.0.20
+- pkg:cargo/shodo@0.0.21
+- pkg:cargo/shodo@0.0.22
 - pkg:cargo/shodo@0.0.3
 - pkg:cargo/shodo@0.0.4
 - pkg:cargo/shodo@0.0.5
