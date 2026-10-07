@@ -24,6 +24,7 @@
 - pkg:cargo/zino-axum@0.2.1
 - pkg:cargo/zino-axum@0.2.2
 - pkg:cargo/zino-axum@0.20.0
+- pkg:cargo/zino-axum@0.20.1
 - pkg:cargo/zino-axum@0.3.0
 - pkg:cargo/zino-axum@0.3.1
 - pkg:cargo/zino-axum@0.4.0
