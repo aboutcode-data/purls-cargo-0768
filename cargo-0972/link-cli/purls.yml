@@ -11,3 +11,4 @@
 - pkg:cargo/link-cli@0.2.7
 - pkg:cargo/link-cli@0.2.8
 - pkg:cargo/link-cli@0.2.9
+- pkg:cargo/link-cli@1.0.0
