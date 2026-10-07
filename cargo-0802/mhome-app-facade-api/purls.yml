@@ -32,6 +32,8 @@
 - pkg:cargo/mhome-app-facade-api@1.31.0
 - pkg:cargo/mhome-app-facade-api@1.32.0
 - pkg:cargo/mhome-app-facade-api@1.33.0
+- pkg:cargo/mhome-app-facade-api@1.34.0
+- pkg:cargo/mhome-app-facade-api@1.34.1
 - pkg:cargo/mhome-app-facade-api@1.4.0
 - pkg:cargo/mhome-app-facade-api@1.5.0
 - pkg:cargo/mhome-app-facade-api@1.6.0
