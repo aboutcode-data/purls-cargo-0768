@@ -4,6 +4,7 @@
 - pkg:cargo/midenc-expect-test@0.10.0-rc.1
 - pkg:cargo/midenc-expect-test@0.10.1
 - pkg:cargo/midenc-expect-test@0.10.2
+- pkg:cargo/midenc-expect-test@0.11.0
 - pkg:cargo/midenc-expect-test@0.11.0-rc.1
 - pkg:cargo/midenc-expect-test@0.11.0-rc.2
 - pkg:cargo/midenc-expect-test@0.11.0-rc.3
