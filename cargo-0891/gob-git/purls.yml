@@ -1,1 +1,2 @@
 - pkg:cargo/gob-git@0.0.0
+- pkg:cargo/gob-git@0.532.0
