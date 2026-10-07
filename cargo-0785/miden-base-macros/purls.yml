@@ -8,6 +8,7 @@
 - pkg:cargo/miden-base-macros@0.13.1
 - pkg:cargo/miden-base-macros@0.14.0
 - pkg:cargo/miden-base-macros@0.14.0-rc.1
+- pkg:cargo/miden-base-macros@0.15.0
 - pkg:cargo/miden-base-macros@0.15.0-rc.1
 - pkg:cargo/miden-base-macros@0.15.0-rc.2
 - pkg:cargo/miden-base-macros@0.15.0-rc.3

@@ -10,6 +10,7 @@
 - pkg:cargo/midenc-compile@0.10.0-rc.1
 - pkg:cargo/midenc-compile@0.10.1
 - pkg:cargo/midenc-compile@0.10.2
+- pkg:cargo/midenc-compile@0.11.0
 - pkg:cargo/midenc-compile@0.11.0-rc.1
 - pkg:cargo/midenc-compile@0.11.0-rc.2
 - pkg:cargo/midenc-compile@0.11.0-rc.3

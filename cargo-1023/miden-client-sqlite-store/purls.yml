@@ -39,3 +39,5 @@
 - pkg:cargo/miden-client-sqlite-store@0.17.0-rc.3
 - pkg:cargo/miden-client-sqlite-store@0.17.0-rc.4
 - pkg:cargo/miden-client-sqlite-store@0.17.0-rc.5
+- pkg:cargo/miden-client-sqlite-store@0.17.1
+- pkg:cargo/miden-client-sqlite-store@0.17.2
