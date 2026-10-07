@@ -20,3 +20,4 @@
 - pkg:cargo/ballista-scheduler@53.0.0
 - pkg:cargo/ballista-scheduler@54.0.0
 - pkg:cargo/ballista-scheduler@54.1.0
+- pkg:cargo/ballista-scheduler@55.0.0
