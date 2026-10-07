@@ -7,3 +7,4 @@
 - pkg:cargo/aws-nitro-enclaves-cose@0.5.2
 - pkg:cargo/aws-nitro-enclaves-cose@0.5.3
 - pkg:cargo/aws-nitro-enclaves-cose@0.6.0
+- pkg:cargo/aws-nitro-enclaves-cose@0.6.1
