@@ -2,3 +2,5 @@
 - pkg:cargo/liboliphaunt-wasix-aot-x86_64-pc-windows-msvc@0.1.1
 - pkg:cargo/liboliphaunt-wasix-aot-x86_64-pc-windows-msvc@0.2.0
 - pkg:cargo/liboliphaunt-wasix-aot-x86_64-pc-windows-msvc@0.3.0
+- pkg:cargo/liboliphaunt-wasix-aot-x86_64-pc-windows-msvc@0.3.1
+- pkg:cargo/liboliphaunt-wasix-aot-x86_64-pc-windows-msvc@0.3.2

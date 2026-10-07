@@ -2,3 +2,5 @@
 - pkg:cargo/liboliphaunt-native-linux-arm64-gnu-part-001@0.1.1
 - pkg:cargo/liboliphaunt-native-linux-arm64-gnu-part-001@0.2.0
 - pkg:cargo/liboliphaunt-native-linux-arm64-gnu-part-001@0.3.0
+- pkg:cargo/liboliphaunt-native-linux-arm64-gnu-part-001@0.3.1
+- pkg:cargo/liboliphaunt-native-linux-arm64-gnu-part-001@0.3.2
