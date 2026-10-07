@@ -68,6 +68,8 @@
 - pkg:cargo/limnifs-format@0.3.55
 - pkg:cargo/limnifs-format@0.3.56
 - pkg:cargo/limnifs-format@0.3.57
+- pkg:cargo/limnifs-format@0.3.58
+- pkg:cargo/limnifs-format@0.3.59
 - pkg:cargo/limnifs-format@0.3.6
 - pkg:cargo/limnifs-format@0.3.7
 - pkg:cargo/limnifs-format@0.3.8
