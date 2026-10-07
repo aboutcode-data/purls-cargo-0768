@@ -21,3 +21,4 @@
 - pkg:cargo/tree-sitter-php@0.23.8
 - pkg:cargo/tree-sitter-php@0.23.9
 - pkg:cargo/tree-sitter-php@0.24.2
+- pkg:cargo/tree-sitter-php@0.25.1
