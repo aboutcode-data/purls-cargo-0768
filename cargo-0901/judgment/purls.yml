@@ -2,6 +2,7 @@
 - pkg:cargo/judgment@0.10.1
 - pkg:cargo/judgment@0.10.2
 - pkg:cargo/judgment@0.10.3
+- pkg:cargo/judgment@0.10.4
 - pkg:cargo/judgment@0.3.0
 - pkg:cargo/judgment@0.4.0
 - pkg:cargo/judgment@0.5.0
