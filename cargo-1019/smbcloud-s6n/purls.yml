@@ -20,3 +20,4 @@
 - pkg:cargo/smbcloud-s6n@0.6.0
 - pkg:cargo/smbcloud-s6n@0.6.1
 - pkg:cargo/smbcloud-s6n@0.6.2
+- pkg:cargo/smbcloud-s6n@0.7.0
