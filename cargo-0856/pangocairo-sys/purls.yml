@@ -28,6 +28,7 @@
 - pkg:cargo/pangocairo-sys@0.22.0-alpha.1
 - pkg:cargo/pangocairo-sys@0.22.0-alpha.2
 - pkg:cargo/pangocairo-sys@0.22.0-alpha.3
+- pkg:cargo/pangocairo-sys@0.22.9
 - pkg:cargo/pangocairo-sys@0.3.4
 - pkg:cargo/pangocairo-sys@0.4.0
 - pkg:cargo/pangocairo-sys@0.4.1
