@@ -9,3 +9,15 @@
 - pkg:cargo/bezel-syntax-std@0.1.26
 - pkg:cargo/bezel-syntax-std@0.1.27
 - pkg:cargo/bezel-syntax-std@0.1.28
+- pkg:cargo/bezel-syntax-std@0.1.29
+- pkg:cargo/bezel-syntax-std@0.1.30
+- pkg:cargo/bezel-syntax-std@0.2.0
+- pkg:cargo/bezel-syntax-std@0.2.1
+- pkg:cargo/bezel-syntax-std@0.2.2
+- pkg:cargo/bezel-syntax-std@0.2.3
+- pkg:cargo/bezel-syntax-std@0.2.4
+- pkg:cargo/bezel-syntax-std@0.2.5
+- pkg:cargo/bezel-syntax-std@0.2.6
+- pkg:cargo/bezel-syntax-std@0.2.7
+- pkg:cargo/bezel-syntax-std@0.2.8
+- pkg:cargo/bezel-syntax-std@0.2.9

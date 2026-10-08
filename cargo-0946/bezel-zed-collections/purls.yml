@@ -3,6 +3,11 @@
 - pkg:cargo/bezel-zed-collections@0.3.10%2Bzed.82aeef
 - pkg:cargo/bezel-zed-collections@0.3.11%2Bzed.ba42ab
 - pkg:cargo/bezel-zed-collections@0.3.12%2Bzed.ba42ab
+- pkg:cargo/bezel-zed-collections@0.3.13%2Bzed.ba42ab
+- pkg:cargo/bezel-zed-collections@0.3.14%2Bzed.ba42ab
+- pkg:cargo/bezel-zed-collections@0.3.15%2Bzed.ba42ab
+- pkg:cargo/bezel-zed-collections@0.3.16%2Bzed.ba42ab
+- pkg:cargo/bezel-zed-collections@0.3.17%2Bzed.ba42ab
 - pkg:cargo/bezel-zed-collections@0.3.2%2Bzed.d9ad6a
 - pkg:cargo/bezel-zed-collections@0.3.3%2Bzed.d9ad6a
 - pkg:cargo/bezel-zed-collections@0.3.4%2Bzed.d9ad6a
