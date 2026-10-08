@@ -18,3 +18,4 @@
 - pkg:cargo/kanata-tcp-protocol@0.180.1
 - pkg:cargo/kanata-tcp-protocol@0.180.2
 - pkg:cargo/kanata-tcp-protocol@0.190.0
+- pkg:cargo/kanata-tcp-protocol@1.1130.0
