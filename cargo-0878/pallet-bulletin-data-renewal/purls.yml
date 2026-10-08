@@ -1,0 +1,4 @@
+- pkg:cargo/pallet-bulletin-data-renewal@0.10.0-draft
+- pkg:cargo/pallet-bulletin-data-renewal@0.11.0
+- pkg:cargo/pallet-bulletin-data-renewal@0.12.0
+- pkg:cargo/pallet-bulletin-data-renewal@0.9.0-draft

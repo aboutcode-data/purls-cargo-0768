@@ -44,7 +44,10 @@
 - pkg:cargo/pallet-referenda@45.0.0
 - pkg:cargo/pallet-referenda@46.0.0
 - pkg:cargo/pallet-referenda@47.0.0
+- pkg:cargo/pallet-referenda@48.0.0
+- pkg:cargo/pallet-referenda@49.0.0
 - pkg:cargo/pallet-referenda@5.0.0
+- pkg:cargo/pallet-referenda@50.0.0
 - pkg:cargo/pallet-referenda@6.0.0
 - pkg:cargo/pallet-referenda@7.0.0
 - pkg:cargo/pallet-referenda@8.0.0
