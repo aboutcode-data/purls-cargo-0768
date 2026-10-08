@@ -75,6 +75,8 @@
 - pkg:cargo/qa-spec@1.2.0-dev.37640965383
 - pkg:cargo/qa-spec@1.2.0-dev.37647987534
 - pkg:cargo/qa-spec@1.2.0-dev.37682294646
+- pkg:cargo/qa-spec@1.2.0-dev.37709402201
+- pkg:cargo/qa-spec@1.2.0-dev.37752831853
 - pkg:cargo/qa-spec@1.2.0-research.0
 - pkg:cargo/qa-spec@1.2.0-research.1
 - pkg:cargo/qa-spec@1.3.0-research.0
