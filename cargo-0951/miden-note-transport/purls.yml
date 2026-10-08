@@ -8,3 +8,4 @@
 - pkg:cargo/miden-note-transport@0.17.0-rc.4
 - pkg:cargo/miden-note-transport@0.17.1
 - pkg:cargo/miden-note-transport@0.17.2
+- pkg:cargo/miden-note-transport@0.17.3
