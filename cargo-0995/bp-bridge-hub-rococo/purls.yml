@@ -30,6 +30,8 @@
 - pkg:cargo/bp-bridge-hub-rococo@0.34.0
 - pkg:cargo/bp-bridge-hub-rococo@0.35.0
 - pkg:cargo/bp-bridge-hub-rococo@0.36.0
+- pkg:cargo/bp-bridge-hub-rococo@0.37.0
+- pkg:cargo/bp-bridge-hub-rococo@0.38.0
 - pkg:cargo/bp-bridge-hub-rococo@0.4.0
 - pkg:cargo/bp-bridge-hub-rococo@0.5.0
 - pkg:cargo/bp-bridge-hub-rococo@0.6.0
