@@ -1,2 +1,6 @@
 - pkg:cargo/tabnas-multisource@0.5.10
 - pkg:cargo/tabnas-multisource@0.5.9
+- pkg:cargo/tabnas-multisource@0.6.0
+- pkg:cargo/tabnas-multisource@0.6.1
+- pkg:cargo/tabnas-multisource@0.6.2
+- pkg:cargo/tabnas-multisource@0.6.3
