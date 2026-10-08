@@ -52,6 +52,7 @@
 - pkg:cargo/pallet-assets@41.1.0
 - pkg:cargo/pallet-assets@42.0.0
 - pkg:cargo/pallet-assets@43.0.0
+- pkg:cargo/pallet-assets@43.0.1
 - pkg:cargo/pallet-assets@44.0.0
 - pkg:cargo/pallet-assets@45.0.0
 - pkg:cargo/pallet-assets@46.0.0
@@ -63,6 +64,10 @@
 - pkg:cargo/pallet-assets@49.0.1
 - pkg:cargo/pallet-assets@5.0.0
 - pkg:cargo/pallet-assets@50.0.0
+- pkg:cargo/pallet-assets@51.0.0
+- pkg:cargo/pallet-assets@52.0.0
+- pkg:cargo/pallet-assets@53.0.0
+- pkg:cargo/pallet-assets@54.0.0
 - pkg:cargo/pallet-assets@6.0.0
 - pkg:cargo/pallet-assets@7.0.0
 - pkg:cargo/pallet-assets@8.0.0
