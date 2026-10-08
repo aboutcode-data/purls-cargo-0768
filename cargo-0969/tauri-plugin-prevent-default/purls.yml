@@ -55,3 +55,4 @@
 - pkg:cargo/tauri-plugin-prevent-default@5.0.1
 - pkg:cargo/tauri-plugin-prevent-default@5.0.2
 - pkg:cargo/tauri-plugin-prevent-default@6.0.0
+- pkg:cargo/tauri-plugin-prevent-default@6.0.1
