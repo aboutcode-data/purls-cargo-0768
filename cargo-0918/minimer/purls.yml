@@ -1,3 +1,4 @@
 - pkg:cargo/minimer@1.0.0
 - pkg:cargo/minimer@2.0.0
 - pkg:cargo/minimer@2.1.0
+- pkg:cargo/minimer@2.2.0
