@@ -1,3 +1,5 @@
 - pkg:cargo/qpipeline@0.1.0
 - pkg:cargo/qpipeline@0.2.0
 - pkg:cargo/qpipeline@0.3.0
+- pkg:cargo/qpipeline@1.0.0
+- pkg:cargo/qpipeline@1.0.1
