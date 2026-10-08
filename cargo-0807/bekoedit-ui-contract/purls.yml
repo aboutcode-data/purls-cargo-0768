@@ -4,3 +4,6 @@
 - pkg:cargo/bekoedit-ui-contract@0.13.0
 - pkg:cargo/bekoedit-ui-contract@0.13.1
 - pkg:cargo/bekoedit-ui-contract@0.15.0
+- pkg:cargo/bekoedit-ui-contract@0.16.0
+- pkg:cargo/bekoedit-ui-contract@0.16.1
+- pkg:cargo/bekoedit-ui-contract@0.17.0
