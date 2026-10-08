@@ -6,3 +6,8 @@
 - pkg:cargo/arora-engine@3.0.0
 - pkg:cargo/arora-engine@4.0.0
 - pkg:cargo/arora-engine@4.1.0
+- pkg:cargo/arora-engine@4.2.0
+- pkg:cargo/arora-engine@4.2.1
+- pkg:cargo/arora-engine@5.0.0
+- pkg:cargo/arora-engine@5.1.0
+- pkg:cargo/arora-engine@5.2.0

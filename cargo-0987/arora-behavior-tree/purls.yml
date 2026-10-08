@@ -13,3 +13,5 @@
 - pkg:cargo/arora-behavior-tree@6.2.0
 - pkg:cargo/arora-behavior-tree@6.3.0
 - pkg:cargo/arora-behavior-tree@7.0.0
+- pkg:cargo/arora-behavior-tree@8.0.0
+- pkg:cargo/arora-behavior-tree@8.1.0

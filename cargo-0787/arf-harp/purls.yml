@@ -15,3 +15,5 @@
 - pkg:cargo/arf-harp@0.5.0-rc.1
 - pkg:cargo/arf-harp@0.5.1
 - pkg:cargo/arf-harp@0.5.2
+- pkg:cargo/arf-harp@0.5.3
+- pkg:cargo/arf-harp@0.6.0
