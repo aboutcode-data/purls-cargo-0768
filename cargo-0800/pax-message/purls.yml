@@ -101,6 +101,7 @@
 - pkg:cargo/pax-message@0.38.1
 - pkg:cargo/pax-message@0.38.2
 - pkg:cargo/pax-message@0.38.3
+- pkg:cargo/pax-message@0.39.0
 - pkg:cargo/pax-message@0.5.8
 - pkg:cargo/pax-message@0.5.9
 - pkg:cargo/pax-message@0.6.0

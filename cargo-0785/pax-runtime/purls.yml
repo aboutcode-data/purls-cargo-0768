@@ -74,3 +74,4 @@
 - pkg:cargo/pax-runtime@0.38.1
 - pkg:cargo/pax-runtime@0.38.2
 - pkg:cargo/pax-runtime@0.38.3
+- pkg:cargo/pax-runtime@0.39.0
