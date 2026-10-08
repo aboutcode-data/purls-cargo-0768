@@ -24,3 +24,4 @@
 - pkg:cargo/sz-orm-macros@8.7.0
 - pkg:cargo/sz-orm-macros@8.8.0
 - pkg:cargo/sz-orm-macros@9.0.0
+- pkg:cargo/sz-orm-macros@9.4.0
