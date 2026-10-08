@@ -37,6 +37,8 @@
 - pkg:cargo/iwec@0.24.1
 - pkg:cargo/iwec@0.24.2
 - pkg:cargo/iwec@0.25.0
+- pkg:cargo/iwec@0.26.0
+- pkg:cargo/iwec@0.26.1
 - pkg:cargo/iwec@0.3.0
 - pkg:cargo/iwec@0.3.1
 - pkg:cargo/iwec@0.3.2
