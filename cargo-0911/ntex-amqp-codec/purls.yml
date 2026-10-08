@@ -42,3 +42,4 @@
 - pkg:cargo/ntex-amqp-codec@3.0.0
 - pkg:cargo/ntex-amqp-codec@3.0.0-beta.0
 - pkg:cargo/ntex-amqp-codec@3.1.0
+- pkg:cargo/ntex-amqp-codec@3.2.0

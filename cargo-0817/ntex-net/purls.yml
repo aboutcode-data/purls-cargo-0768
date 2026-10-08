@@ -81,3 +81,4 @@
 - pkg:cargo/ntex-net@4.1.1
 - pkg:cargo/ntex-net@4.2.0
 - pkg:cargo/ntex-net@4.2.1
+- pkg:cargo/ntex-net@4.3.0
