@@ -2,6 +2,10 @@
 - pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.10
 - pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.11
 - pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.12
+- pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.13
+- pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.14
+- pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.15
+- pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.16
 - pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.2
 - pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.3
 - pkg:cargo/blueprint-tangle-aggregation-svc@0.2.0-alpha.4

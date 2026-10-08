@@ -8,7 +8,13 @@
 - pkg:cargo/blueprint-qos@0.2.0-alpha.10
 - pkg:cargo/blueprint-qos@0.2.0-alpha.11
 - pkg:cargo/blueprint-qos@0.2.0-alpha.13
+- pkg:cargo/blueprint-qos@0.2.0-alpha.15
+- pkg:cargo/blueprint-qos@0.2.0-alpha.16
+- pkg:cargo/blueprint-qos@0.2.0-alpha.17
+- pkg:cargo/blueprint-qos@0.2.0-alpha.18
+- pkg:cargo/blueprint-qos@0.2.0-alpha.19
 - pkg:cargo/blueprint-qos@0.2.0-alpha.2
+- pkg:cargo/blueprint-qos@0.2.0-alpha.20
 - pkg:cargo/blueprint-qos@0.2.0-alpha.3
 - pkg:cargo/blueprint-qos@0.2.0-alpha.4
 - pkg:cargo/blueprint-qos@0.2.0-alpha.5
