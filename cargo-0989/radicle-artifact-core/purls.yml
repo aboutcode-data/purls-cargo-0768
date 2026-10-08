@@ -7,3 +7,4 @@
 - pkg:cargo/radicle-artifact-core@0.20.0
 - pkg:cargo/radicle-artifact-core@0.21.0
 - pkg:cargo/radicle-artifact-core@0.22.0
+- pkg:cargo/radicle-artifact-core@0.23.0
