@@ -9,6 +9,7 @@
 - pkg:cargo/misanthropic-derive@1.0.0-alpha.2
 - pkg:cargo/misanthropic-derive@1.0.0-alpha.20
 - pkg:cargo/misanthropic-derive@1.0.0-alpha.21
+- pkg:cargo/misanthropic-derive@1.0.0-alpha.22
 - pkg:cargo/misanthropic-derive@1.0.0-alpha.3
 - pkg:cargo/misanthropic-derive@1.0.0-alpha.5
 - pkg:cargo/misanthropic-derive@1.0.0-alpha.6
