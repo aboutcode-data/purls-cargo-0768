@@ -2,3 +2,5 @@
 - pkg:cargo/pallet-encointer-offline-payment@21.0.1
 - pkg:cargo/pallet-encointer-offline-payment@22.0.1
 - pkg:cargo/pallet-encointer-offline-payment@22.1.0
+- pkg:cargo/pallet-encointer-offline-payment@22.2.0
+- pkg:cargo/pallet-encointer-offline-payment@24.0.0

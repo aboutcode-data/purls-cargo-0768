@@ -42,10 +42,15 @@
 - pkg:cargo/pallet-mmr@43.0.1
 - pkg:cargo/pallet-mmr@44.0.0
 - pkg:cargo/pallet-mmr@45.0.0
+- pkg:cargo/pallet-mmr@45.0.1
+- pkg:cargo/pallet-mmr@45.0.2
 - pkg:cargo/pallet-mmr@46.0.0
 - pkg:cargo/pallet-mmr@46.0.1
 - pkg:cargo/pallet-mmr@47.0.0
+- pkg:cargo/pallet-mmr@48.0.0
+- pkg:cargo/pallet-mmr@49.0.0
 - pkg:cargo/pallet-mmr@5.0.0
+- pkg:cargo/pallet-mmr@50.0.0
 - pkg:cargo/pallet-mmr@6.0.0
 - pkg:cargo/pallet-mmr@7.0.0
 - pkg:cargo/pallet-mmr@8.0.0
