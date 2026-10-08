@@ -10,3 +10,4 @@
 - pkg:cargo/dmarc-report-parser@0.1.9
 - pkg:cargo/dmarc-report-parser@0.2.0
 - pkg:cargo/dmarc-report-parser@0.2.1
+- pkg:cargo/dmarc-report-parser@0.2.2
