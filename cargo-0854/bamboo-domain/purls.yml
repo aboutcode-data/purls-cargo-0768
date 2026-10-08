@@ -1,4 +1,5 @@
 - pkg:cargo/bamboo-domain@0.1.0
+- pkg:cargo/bamboo-domain@2026.10.9
 - pkg:cargo/bamboo-domain@2026.4.14
 - pkg:cargo/bamboo-domain@2026.4.24
 - pkg:cargo/bamboo-domain@2026.4.25
