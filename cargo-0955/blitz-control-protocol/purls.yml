@@ -24,3 +24,4 @@
 - pkg:cargo/blitz-control-protocol@0.5.0
 - pkg:cargo/blitz-control-protocol@0.5.1
 - pkg:cargo/blitz-control-protocol@0.5.3
+- pkg:cargo/blitz-control-protocol@0.5.4
