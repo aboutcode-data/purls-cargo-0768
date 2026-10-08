@@ -1,2 +1,10 @@
 - pkg:cargo/nym-gateway-stats-storage@1.20.4
 - pkg:cargo/nym-gateway-stats-storage@1.21.0
+- pkg:cargo/nym-gateway-stats-storage@1.21.1
+- pkg:cargo/nym-gateway-stats-storage@1.21.2
+- pkg:cargo/nym-gateway-stats-storage@1.21.4
+- pkg:cargo/nym-gateway-stats-storage@1.21.5
+- pkg:cargo/nym-gateway-stats-storage@1.21.5-rc.1
+- pkg:cargo/nym-gateway-stats-storage@1.21.5-rc.2
+- pkg:cargo/nym-gateway-stats-storage@1.21.5-rc.3
+- pkg:cargo/nym-gateway-stats-storage@1.21.6
