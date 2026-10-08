@@ -21,3 +21,4 @@
 - pkg:cargo/sz-orm-crypto@8.7.0
 - pkg:cargo/sz-orm-crypto@8.8.0
 - pkg:cargo/sz-orm-crypto@9.0.0
+- pkg:cargo/sz-orm-crypto@9.4.0

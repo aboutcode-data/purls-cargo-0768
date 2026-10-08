@@ -18,3 +18,4 @@
 - pkg:cargo/sz-orm-timeseries@8.7.0
 - pkg:cargo/sz-orm-timeseries@8.8.0
 - pkg:cargo/sz-orm-timeseries@9.0.0
+- pkg:cargo/sz-orm-timeseries@9.4.0
