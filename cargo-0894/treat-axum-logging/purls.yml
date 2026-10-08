@@ -5,3 +5,4 @@
 - pkg:cargo/treat-axum-logging@0.24.0
 - pkg:cargo/treat-axum-logging@0.24.1
 - pkg:cargo/treat-axum-logging@0.24.2
+- pkg:cargo/treat-axum-logging@0.25.0
