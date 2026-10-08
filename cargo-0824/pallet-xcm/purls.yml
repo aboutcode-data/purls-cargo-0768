@@ -45,8 +45,15 @@
 - pkg:cargo/pallet-xcm@25.0.0
 - pkg:cargo/pallet-xcm@26.0.0
 - pkg:cargo/pallet-xcm@27.0.0
+- pkg:cargo/pallet-xcm@28.0.0
+- pkg:cargo/pallet-xcm@28.0.1
+- pkg:cargo/pallet-xcm@28.0.2
+- pkg:cargo/pallet-xcm@28.0.3
+- pkg:cargo/pallet-xcm@29.0.0
+- pkg:cargo/pallet-xcm@29.1.0
 - pkg:cargo/pallet-xcm@3.0.0
 - pkg:cargo/pallet-xcm@3.0.0-dev.1
+- pkg:cargo/pallet-xcm@30.0.0
 - pkg:cargo/pallet-xcm@4.0.0
 - pkg:cargo/pallet-xcm@5.0.0
 - pkg:cargo/pallet-xcm@6.0.0

@@ -58,7 +58,11 @@
 - pkg:cargo/pallet-utility@45.0.0
 - pkg:cargo/pallet-utility@46.0.0
 - pkg:cargo/pallet-utility@47.0.0
+- pkg:cargo/pallet-utility@48.0.0
+- pkg:cargo/pallet-utility@49.0.0
+- pkg:cargo/pallet-utility@49.0.1
 - pkg:cargo/pallet-utility@5.0.0
+- pkg:cargo/pallet-utility@50.0.0
 - pkg:cargo/pallet-utility@6.0.0
 - pkg:cargo/pallet-utility@7.0.0
 - pkg:cargo/pallet-utility@8.0.0
