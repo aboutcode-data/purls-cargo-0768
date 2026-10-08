@@ -1,0 +1,2 @@
+- pkg:cargo/aws-nitro-enclaves-driver-bindings@0.0.0
+- pkg:cargo/aws-nitro-enclaves-driver-bindings@1.0.0
