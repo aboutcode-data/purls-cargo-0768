@@ -1,1 +1,2 @@
 - pkg:cargo/backbone-payment-gateway@0.4.28
+- pkg:cargo/backbone-payment-gateway@0.5.0
