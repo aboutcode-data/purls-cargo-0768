@@ -14,3 +14,9 @@
 - pkg:cargo/ic-host-process@0.6.0
 - pkg:cargo/ic-host-process@0.7.0
 - pkg:cargo/ic-host-process@0.7.1
+- pkg:cargo/ic-host-process@0.7.2
+- pkg:cargo/ic-host-process@0.8.0
+- pkg:cargo/ic-host-process@0.8.1
+- pkg:cargo/ic-host-process@0.8.2
+- pkg:cargo/ic-host-process@0.8.3
+- pkg:cargo/ic-host-process@0.8.4
