@@ -10,3 +10,6 @@
 - pkg:cargo/ratdmp-cli@1.0.0
 - pkg:cargo/ratdmp-cli@1.0.1
 - pkg:cargo/ratdmp-cli@1.0.2
+- pkg:cargo/ratdmp-cli@1.0.3
+- pkg:cargo/ratdmp-cli@1.0.4
+- pkg:cargo/ratdmp-cli@1.0.5
