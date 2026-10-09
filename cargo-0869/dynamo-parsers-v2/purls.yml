@@ -55,6 +55,7 @@
 - pkg:cargo/dynamo-parsers-v2@0.7.18
 - pkg:cargo/dynamo-parsers-v2@0.7.19
 - pkg:cargo/dynamo-parsers-v2@0.7.2
+- pkg:cargo/dynamo-parsers-v2@0.7.20
 - pkg:cargo/dynamo-parsers-v2@0.7.3
 - pkg:cargo/dynamo-parsers-v2@0.7.4
 - pkg:cargo/dynamo-parsers-v2@0.7.5
