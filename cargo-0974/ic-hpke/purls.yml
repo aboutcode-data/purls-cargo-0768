@@ -6,3 +6,4 @@
 - pkg:cargo/ic-hpke@0.2.16
 - pkg:cargo/ic-hpke@0.2.17
 - pkg:cargo/ic-hpke@0.2.18
+- pkg:cargo/ic-hpke@0.2.19
