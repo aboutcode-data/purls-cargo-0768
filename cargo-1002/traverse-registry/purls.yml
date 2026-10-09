@@ -17,6 +17,7 @@
 - pkg:cargo/traverse-registry@0.23.0
 - pkg:cargo/traverse-registry@0.24.0
 - pkg:cargo/traverse-registry@0.25.0
+- pkg:cargo/traverse-registry@0.27.0
 - pkg:cargo/traverse-registry@0.8.1
 - pkg:cargo/traverse-registry@0.9.0
 - pkg:cargo/traverse-registry@0.9.1
