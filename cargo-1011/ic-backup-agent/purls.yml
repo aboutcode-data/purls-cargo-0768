@@ -1,1 +1,4 @@
 - pkg:cargo/ic-backup-agent@0.8.0
+- pkg:cargo/ic-backup-agent@0.8.1
+- pkg:cargo/ic-backup-agent@0.9.0
+- pkg:cargo/ic-backup-agent@0.9.1
