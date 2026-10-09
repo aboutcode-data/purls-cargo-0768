@@ -55,3 +55,4 @@
 - pkg:cargo/shimpz-cli@0.5.73
 - pkg:cargo/shimpz-cli@0.6.0
 - pkg:cargo/shimpz-cli@0.6.2
+- pkg:cargo/shimpz-cli@0.7.0
