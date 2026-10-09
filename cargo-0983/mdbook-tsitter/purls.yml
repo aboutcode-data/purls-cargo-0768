@@ -4,3 +4,5 @@
 - pkg:cargo/mdbook-tsitter@1.1.0
 - pkg:cargo/mdbook-tsitter@1.1.1
 - pkg:cargo/mdbook-tsitter@1.1.2
+- pkg:cargo/mdbook-tsitter@1.2.0
+- pkg:cargo/mdbook-tsitter@2.0.0
