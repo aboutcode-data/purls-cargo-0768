@@ -5,6 +5,7 @@
 - pkg:cargo/baukit-sync@0.10.1
 - pkg:cargo/baukit-sync@0.10.10
 - pkg:cargo/baukit-sync@0.10.11
+- pkg:cargo/baukit-sync@0.10.12
 - pkg:cargo/baukit-sync@0.10.2
 - pkg:cargo/baukit-sync@0.10.3
 - pkg:cargo/baukit-sync@0.10.4
