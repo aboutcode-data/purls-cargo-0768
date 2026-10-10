@@ -19,3 +19,4 @@
 - pkg:cargo/ntex-macros@4.0.0-beta.5
 - pkg:cargo/ntex-macros@4.0.0-beta.6
 - pkg:cargo/ntex-macros@4.1.0
+- pkg:cargo/ntex-macros@4.2.0
