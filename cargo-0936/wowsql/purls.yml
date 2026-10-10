@@ -7,3 +7,5 @@
 - pkg:cargo/wowsql@3.1.0
 - pkg:cargo/wowsql@3.9.0
 - pkg:cargo/wowsql@3.9.1
+- pkg:cargo/wowsql@3.9.2
+- pkg:cargo/wowsql@3.9.3
