@@ -3,6 +3,8 @@
 - pkg:cargo/smix-usbmux@11.0.0
 - pkg:cargo/smix-usbmux@12.0.0
 - pkg:cargo/smix-usbmux@12.1.0
+- pkg:cargo/smix-usbmux@13.0.0
+- pkg:cargo/smix-usbmux@13.1.0
 - pkg:cargo/smix-usbmux@2.3.0
 - pkg:cargo/smix-usbmux@3.0.0
 - pkg:cargo/smix-usbmux@4.0.0
