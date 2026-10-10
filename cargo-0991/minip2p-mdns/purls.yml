@@ -28,3 +28,4 @@
 - pkg:cargo/minip2p-mdns@0.7.4
 - pkg:cargo/minip2p-mdns@0.7.5
 - pkg:cargo/minip2p-mdns@0.7.6
+- pkg:cargo/minip2p-mdns@0.7.7
