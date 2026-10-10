@@ -6,3 +6,4 @@
 - pkg:cargo/qail-gateway@2.0.4
 - pkg:cargo/qail-gateway@2.0.5
 - pkg:cargo/qail-gateway@3.0.0
+- pkg:cargo/qail-gateway@3.0.1
