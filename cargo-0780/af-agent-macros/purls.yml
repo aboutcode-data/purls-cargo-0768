@@ -25,6 +25,9 @@
 - pkg:cargo/af-agent-macros@0.18.0
 - pkg:cargo/af-agent-macros@0.18.1
 - pkg:cargo/af-agent-macros@0.18.2
+- pkg:cargo/af-agent-macros@0.19.0
+- pkg:cargo/af-agent-macros@0.19.1
+- pkg:cargo/af-agent-macros@0.19.2
 - pkg:cargo/af-agent-macros@0.2.0
 - pkg:cargo/af-agent-macros@0.3.0
 - pkg:cargo/af-agent-macros@0.4.0
