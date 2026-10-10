@@ -1,2 +1,3 @@
 - pkg:cargo/mitsuami-macros@0.0.1
 - pkg:cargo/mitsuami-macros@1.0.0
+- pkg:cargo/mitsuami-macros@1.1.0
