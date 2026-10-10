@@ -1,6 +1,7 @@
 - pkg:cargo/judicious@0.1.0
 - pkg:cargo/judicious@2026.10.0
 - pkg:cargo/judicious@2026.10.1
+- pkg:cargo/judicious@2026.10.2
 - pkg:cargo/judicious@2026.5.1
 - pkg:cargo/judicious@2026.5.2
 - pkg:cargo/judicious@2026.6.0
