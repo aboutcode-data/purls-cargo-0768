@@ -4,3 +4,4 @@
 - pkg:cargo/tree-sitter-gnuplot@4.0.0
 - pkg:cargo/tree-sitter-gnuplot@4.0.1
 - pkg:cargo/tree-sitter-gnuplot@4.1.0
+- pkg:cargo/tree-sitter-gnuplot@4.2.0
