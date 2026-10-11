@@ -10,6 +10,7 @@
 - pkg:cargo/vivacity-autoload@0.18.0
 - pkg:cargo/vivacity-autoload@0.19.0
 - pkg:cargo/vivacity-autoload@0.19.1
+- pkg:cargo/vivacity-autoload@0.20.0
 - pkg:cargo/vivacity-autoload@0.6.0
 - pkg:cargo/vivacity-autoload@0.7.0
 - pkg:cargo/vivacity-autoload@0.8.0
