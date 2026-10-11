@@ -6,3 +6,5 @@
 - pkg:cargo/ical-rs@0.5.1
 - pkg:cargo/ical-rs@0.5.2
 - pkg:cargo/ical-rs@0.5.3
+- pkg:cargo/ical-rs@0.6.0
+- pkg:cargo/ical-rs@0.6.1
