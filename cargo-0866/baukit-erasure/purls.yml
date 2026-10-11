@@ -4,6 +4,9 @@
 - pkg:cargo/baukit-erasure@0.10.11
 - pkg:cargo/baukit-erasure@0.10.12
 - pkg:cargo/baukit-erasure@0.10.13
+- pkg:cargo/baukit-erasure@0.10.14
+- pkg:cargo/baukit-erasure@0.10.15
+- pkg:cargo/baukit-erasure@0.10.16
 - pkg:cargo/baukit-erasure@0.10.2
 - pkg:cargo/baukit-erasure@0.10.3
 - pkg:cargo/baukit-erasure@0.10.4
