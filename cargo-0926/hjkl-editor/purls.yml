@@ -70,6 +70,7 @@
 - pkg:cargo/hjkl-editor@0.41.7
 - pkg:cargo/hjkl-editor@0.42.0
 - pkg:cargo/hjkl-editor@0.42.1
+- pkg:cargo/hjkl-editor@0.42.2
 - pkg:cargo/hjkl-editor@0.5.0
 - pkg:cargo/hjkl-editor@0.6.0
 - pkg:cargo/hjkl-editor@0.7.0
