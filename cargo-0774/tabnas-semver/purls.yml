@@ -1,3 +1,4 @@
+- pkg:cargo/tabnas-semver@0.0.10
 - pkg:cargo/tabnas-semver@0.0.5
 - pkg:cargo/tabnas-semver@0.0.6
 - pkg:cargo/tabnas-semver@0.0.7
