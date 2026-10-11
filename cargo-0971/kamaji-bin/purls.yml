@@ -13,3 +13,6 @@
 - pkg:cargo/kamaji-bin@0.8.40
 - pkg:cargo/kamaji-bin@0.8.41
 - pkg:cargo/kamaji-bin@0.8.42
+- pkg:cargo/kamaji-bin@0.8.43
+- pkg:cargo/kamaji-bin@0.8.45
+- pkg:cargo/kamaji-bin@0.8.46
