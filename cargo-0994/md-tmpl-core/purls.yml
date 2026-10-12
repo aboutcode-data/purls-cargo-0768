@@ -2,6 +2,7 @@
 - pkg:cargo/md-tmpl-core@0.10.1
 - pkg:cargo/md-tmpl-core@0.10.2
 - pkg:cargo/md-tmpl-core@0.10.3
+- pkg:cargo/md-tmpl-core@0.10.4
 - pkg:cargo/md-tmpl-core@0.5.2
 - pkg:cargo/md-tmpl-core@0.5.3
 - pkg:cargo/md-tmpl-core@0.6.0
