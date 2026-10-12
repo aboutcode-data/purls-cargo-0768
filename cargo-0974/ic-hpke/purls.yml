@@ -11,3 +11,4 @@
 - pkg:cargo/ic-hpke@0.2.21
 - pkg:cargo/ic-hpke@0.2.22
 - pkg:cargo/ic-hpke@0.2.23
+- pkg:cargo/ic-hpke@0.2.24
