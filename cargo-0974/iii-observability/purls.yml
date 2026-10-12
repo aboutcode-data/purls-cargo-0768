@@ -145,6 +145,7 @@
 - pkg:cargo/iii-observability@0.24.4
 - pkg:cargo/iii-observability@0.24.4-alpha.1
 - pkg:cargo/iii-observability@0.24.4-alpha.2
+- pkg:cargo/iii-observability@0.24.4-alpha.3
 - pkg:cargo/iii-observability@0.24.4-rc.1
 - pkg:cargo/iii-observability@0.24.4-rc.2
 - pkg:cargo/iii-observability@0.24.5-rc.2
