@@ -147,3 +147,4 @@
 - pkg:cargo/rattler_lock@0.34.3
 - pkg:cargo/rattler_lock@0.34.4
 - pkg:cargo/rattler_lock@0.34.5
+- pkg:cargo/rattler_lock@0.34.6
