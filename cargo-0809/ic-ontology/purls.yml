@@ -19,6 +19,7 @@
 - pkg:cargo/ic-ontology@0.2.21
 - pkg:cargo/ic-ontology@0.2.22
 - pkg:cargo/ic-ontology@0.2.23
+- pkg:cargo/ic-ontology@0.2.24
 - pkg:cargo/ic-ontology@0.2.3
 - pkg:cargo/ic-ontology@0.2.4
 - pkg:cargo/ic-ontology@0.2.5
