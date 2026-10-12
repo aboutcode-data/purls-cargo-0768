@@ -23,3 +23,4 @@
 - pkg:cargo/smbcloud-auth-sdk-wasm@0.6.2
 - pkg:cargo/smbcloud-auth-sdk-wasm@0.7.0
 - pkg:cargo/smbcloud-auth-sdk-wasm@0.7.1
+- pkg:cargo/smbcloud-auth-sdk-wasm@0.7.2
