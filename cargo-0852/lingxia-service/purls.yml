@@ -17,6 +17,7 @@
 - pkg:cargo/lingxia-service@0.23.0
 - pkg:cargo/lingxia-service@0.24.0
 - pkg:cargo/lingxia-service@0.25.0
+- pkg:cargo/lingxia-service@0.25.1
 - pkg:cargo/lingxia-service@0.6.0
 - pkg:cargo/lingxia-service@0.6.3
 - pkg:cargo/lingxia-service@0.6.4
