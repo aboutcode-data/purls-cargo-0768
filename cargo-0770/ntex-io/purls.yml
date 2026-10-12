@@ -140,3 +140,4 @@
 - pkg:cargo/ntex-io@4.2.0
 - pkg:cargo/ntex-io@4.2.1
 - pkg:cargo/ntex-io@4.3.0
+- pkg:cargo/ntex-io@4.4.0
