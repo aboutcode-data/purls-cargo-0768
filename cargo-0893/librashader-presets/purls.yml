@@ -42,6 +42,7 @@
 - pkg:cargo/librashader-presets@0.11.3
 - pkg:cargo/librashader-presets@0.11.4
 - pkg:cargo/librashader-presets@0.12.0
+- pkg:cargo/librashader-presets@0.12.1
 - pkg:cargo/librashader-presets@0.2.0
 - pkg:cargo/librashader-presets@0.2.0-beta.10
 - pkg:cargo/librashader-presets@0.2.0-beta.11
