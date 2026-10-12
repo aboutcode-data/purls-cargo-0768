@@ -35,6 +35,9 @@
 - pkg:cargo/shun@0.6.18
 - pkg:cargo/shun@0.6.19
 - pkg:cargo/shun@0.6.2
+- pkg:cargo/shun@0.6.20
+- pkg:cargo/shun@0.6.21
+- pkg:cargo/shun@0.6.23
 - pkg:cargo/shun@0.6.3
 - pkg:cargo/shun@0.6.4
 - pkg:cargo/shun@0.6.5
