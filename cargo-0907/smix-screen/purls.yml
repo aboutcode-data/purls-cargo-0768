@@ -43,6 +43,7 @@
 - pkg:cargo/smix-screen@14.2.0
 - pkg:cargo/smix-screen@15.0.0
 - pkg:cargo/smix-screen@15.0.1
+- pkg:cargo/smix-screen@15.1.0
 - pkg:cargo/smix-screen@2.0.0
 - pkg:cargo/smix-screen@2.1.0
 - pkg:cargo/smix-screen@2.2.0
