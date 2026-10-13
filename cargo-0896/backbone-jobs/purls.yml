@@ -12,3 +12,4 @@
 - pkg:cargo/backbone-jobs@3.5.0
 - pkg:cargo/backbone-jobs@3.6.0
 - pkg:cargo/backbone-jobs@3.7.0
+- pkg:cargo/backbone-jobs@3.7.1
