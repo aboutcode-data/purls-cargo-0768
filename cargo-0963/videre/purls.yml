@@ -91,6 +91,9 @@
 - pkg:cargo/videre@0.60.0
 - pkg:cargo/videre@0.61.0
 - pkg:cargo/videre@0.62.0
+- pkg:cargo/videre@0.63.0
+- pkg:cargo/videre@0.63.1
+- pkg:cargo/videre@0.63.2
 - pkg:cargo/videre@0.9.18
 - pkg:cargo/videre@0.9.19
 - pkg:cargo/videre@0.9.20
