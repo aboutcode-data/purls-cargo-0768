@@ -90,3 +90,4 @@
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.88.0
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.89.0
 - pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.9.0
+- pkg:cargo/aws-sdk-bedrockagentcorecontrol@1.90.0
