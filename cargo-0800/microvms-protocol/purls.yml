@@ -13,3 +13,4 @@
 - pkg:cargo/microvms-protocol@0.8.0
 - pkg:cargo/microvms-protocol@0.9.0
 - pkg:cargo/microvms-protocol@1.0.0
+- pkg:cargo/microvms-protocol@1.0.1
