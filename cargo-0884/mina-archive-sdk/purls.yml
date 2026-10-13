@@ -1,2 +1,3 @@
 - pkg:cargo/mina-archive-sdk@0.0.1
 - pkg:cargo/mina-archive-sdk@1.0.1
+- pkg:cargo/mina-archive-sdk@2.0.0
