@@ -8,3 +8,5 @@
 - pkg:cargo/libchdman-rs@0.288.8
 - pkg:cargo/libchdman-rs@0.288.9
 - pkg:cargo/libchdman-rs@0.289.0
+- pkg:cargo/libchdman-rs@0.289.1
+- pkg:cargo/libchdman-rs@0.289.2
