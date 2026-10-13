@@ -63,6 +63,7 @@
 - pkg:cargo/aws-lc-sys@0.43.0
 - pkg:cargo/aws-lc-sys@0.44.0
 - pkg:cargo/aws-lc-sys@0.45.0
+- pkg:cargo/aws-lc-sys@0.46.0
 - pkg:cargo/aws-lc-sys@0.5.0
 - pkg:cargo/aws-lc-sys@0.6.0
 - pkg:cargo/aws-lc-sys@0.6.1
