@@ -1,1 +1,2 @@
 - pkg:cargo/bacnet-endpoint@0.12.0
+- pkg:cargo/bacnet-endpoint@0.13.0
