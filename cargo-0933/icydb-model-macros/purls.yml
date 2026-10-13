@@ -203,3 +203,5 @@
 - pkg:cargo/icydb-model-macros@0.270.2
 - pkg:cargo/icydb-model-macros@0.270.3
 - pkg:cargo/icydb-model-macros@0.271.0
+- pkg:cargo/icydb-model-macros@0.272.0
+- pkg:cargo/icydb-model-macros@0.273.0
