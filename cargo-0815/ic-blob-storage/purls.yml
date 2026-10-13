@@ -47,6 +47,10 @@
 - pkg:cargo/ic-blob-storage@0.22.10
 - pkg:cargo/ic-blob-storage@0.22.11
 - pkg:cargo/ic-blob-storage@0.22.12
+- pkg:cargo/ic-blob-storage@0.22.13
+- pkg:cargo/ic-blob-storage@0.22.14
+- pkg:cargo/ic-blob-storage@0.22.15
+- pkg:cargo/ic-blob-storage@0.22.16
 - pkg:cargo/ic-blob-storage@0.22.2
 - pkg:cargo/ic-blob-storage@0.22.3
 - pkg:cargo/ic-blob-storage@0.22.4
@@ -55,6 +59,8 @@
 - pkg:cargo/ic-blob-storage@0.22.7
 - pkg:cargo/ic-blob-storage@0.22.8
 - pkg:cargo/ic-blob-storage@0.22.9
+- pkg:cargo/ic-blob-storage@0.23.0
+- pkg:cargo/ic-blob-storage@0.23.1
 - pkg:cargo/ic-blob-storage@0.3.0
 - pkg:cargo/ic-blob-storage@0.4.0
 - pkg:cargo/ic-blob-storage@0.4.1
