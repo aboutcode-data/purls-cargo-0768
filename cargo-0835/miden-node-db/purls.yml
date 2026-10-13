@@ -44,3 +44,4 @@
 - pkg:cargo/miden-node-db@0.17.1
 - pkg:cargo/miden-node-db@0.17.2
 - pkg:cargo/miden-node-db@0.17.3
+- pkg:cargo/miden-node-db@0.17.4
