@@ -99,6 +99,8 @@
 - pkg:cargo/ic-memory@0.35.15
 - pkg:cargo/ic-memory@0.35.16
 - pkg:cargo/ic-memory@0.35.17
+- pkg:cargo/ic-memory@0.35.18
+- pkg:cargo/ic-memory@0.35.19
 - pkg:cargo/ic-memory@0.35.2
 - pkg:cargo/ic-memory@0.35.3
 - pkg:cargo/ic-memory@0.35.4
@@ -107,6 +109,9 @@
 - pkg:cargo/ic-memory@0.35.7
 - pkg:cargo/ic-memory@0.35.8
 - pkg:cargo/ic-memory@0.35.9
+- pkg:cargo/ic-memory@0.36.0
+- pkg:cargo/ic-memory@0.36.1
+- pkg:cargo/ic-memory@0.36.2
 - pkg:cargo/ic-memory@0.39.10
 - pkg:cargo/ic-memory@0.39.11
 - pkg:cargo/ic-memory@0.39.12
