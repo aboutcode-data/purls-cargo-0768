@@ -46,6 +46,7 @@
 - pkg:cargo/smix-sdk@15.1.0
 - pkg:cargo/smix-sdk@16.0.0
 - pkg:cargo/smix-sdk@16.1.0
+- pkg:cargo/smix-sdk@16.2.0
 - pkg:cargo/smix-sdk@2.0.0
 - pkg:cargo/smix-sdk@2.1.0
 - pkg:cargo/smix-sdk@2.2.0

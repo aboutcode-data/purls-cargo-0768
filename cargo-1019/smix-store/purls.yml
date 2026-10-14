@@ -14,6 +14,7 @@
 - pkg:cargo/smix-store@15.1.0
 - pkg:cargo/smix-store@16.0.0
 - pkg:cargo/smix-store@16.1.0
+- pkg:cargo/smix-store@16.2.0
 - pkg:cargo/smix-store@2.0.0
 - pkg:cargo/smix-store@2.1.0
 - pkg:cargo/smix-store@2.2.0
