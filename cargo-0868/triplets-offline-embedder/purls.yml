@@ -4,3 +4,4 @@
 - pkg:cargo/triplets-offline-embedder@0.26.1-alpha
 - pkg:cargo/triplets-offline-embedder@0.27.0-alpha
 - pkg:cargo/triplets-offline-embedder@0.27.1-alpha
+- pkg:cargo/triplets-offline-embedder@0.28.0-alpha
