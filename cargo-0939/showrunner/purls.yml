@@ -20,7 +20,12 @@
 - pkg:cargo/showrunner@0.28.0
 - pkg:cargo/showrunner@0.29.0
 - pkg:cargo/showrunner@0.29.1
+- pkg:cargo/showrunner@0.29.10
 - pkg:cargo/showrunner@0.29.2
 - pkg:cargo/showrunner@0.29.3
 - pkg:cargo/showrunner@0.29.4
 - pkg:cargo/showrunner@0.29.5
+- pkg:cargo/showrunner@0.29.6
+- pkg:cargo/showrunner@0.29.7
+- pkg:cargo/showrunner@0.29.8
+- pkg:cargo/showrunner@0.29.9
