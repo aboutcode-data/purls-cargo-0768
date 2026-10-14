@@ -1,5 +1,6 @@
 - pkg:cargo/backbone-quality@0.10.0
 - pkg:cargo/backbone-quality@0.11.0
+- pkg:cargo/backbone-quality@0.12.0
 - pkg:cargo/backbone-quality@0.6.25
 - pkg:cargo/backbone-quality@0.6.26
 - pkg:cargo/backbone-quality@0.6.27
