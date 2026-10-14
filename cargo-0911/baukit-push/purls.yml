@@ -21,6 +21,8 @@
 - pkg:cargo/baukit-push@0.10.24
 - pkg:cargo/baukit-push@0.10.25
 - pkg:cargo/baukit-push@0.10.26
+- pkg:cargo/baukit-push@0.10.27
+- pkg:cargo/baukit-push@0.10.28
 - pkg:cargo/baukit-push@0.10.3
 - pkg:cargo/baukit-push@0.10.4
 - pkg:cargo/baukit-push@0.10.5
