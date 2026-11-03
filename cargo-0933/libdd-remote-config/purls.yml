@@ -5,3 +5,5 @@
 - pkg:cargo/libdd-remote-config@5.0.0
 - pkg:cargo/libdd-remote-config@6.0.0
 - pkg:cargo/libdd-remote-config@7.0.0
+- pkg:cargo/libdd-remote-config@8.0.0
+- pkg:cargo/libdd-remote-config@9.0.0
