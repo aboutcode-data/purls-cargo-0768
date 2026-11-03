@@ -4,3 +4,7 @@
 - pkg:cargo/perspt-core@0.5.5
 - pkg:cargo/perspt-core@0.5.7
 - pkg:cargo/perspt-core@0.5.8
+- pkg:cargo/perspt-core@0.6.0
+- pkg:cargo/perspt-core@0.6.1
+- pkg:cargo/perspt-core@0.6.2
+- pkg:cargo/perspt-core@0.6.6
