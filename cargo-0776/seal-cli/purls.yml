@@ -1,2 +1,4 @@
 - pkg:cargo/seal-cli@0.27.1
 - pkg:cargo/seal-cli@0.29.0
+- pkg:cargo/seal-cli@0.30.0
+- pkg:cargo/seal-cli@0.30.1
