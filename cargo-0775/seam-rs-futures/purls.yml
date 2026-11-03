@@ -1,0 +1,3 @@
+- pkg:cargo/seam-rs-futures@0.6.0
+- pkg:cargo/seam-rs-futures@0.7.0
+- pkg:cargo/seam-rs-futures@0.8.0
