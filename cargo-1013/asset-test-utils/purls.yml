@@ -38,7 +38,13 @@
 - pkg:cargo/asset-test-utils@34.0.0
 - pkg:cargo/asset-test-utils@35.0.0
 - pkg:cargo/asset-test-utils@36.0.0
+- pkg:cargo/asset-test-utils@37.0.0
+- pkg:cargo/asset-test-utils@38.0.0
+- pkg:cargo/asset-test-utils@39.0.0
 - pkg:cargo/asset-test-utils@4.0.0
+- pkg:cargo/asset-test-utils@40.0.0
+- pkg:cargo/asset-test-utils@41.0.0
+- pkg:cargo/asset-test-utils@42.0.0
 - pkg:cargo/asset-test-utils@5.0.0
 - pkg:cargo/asset-test-utils@6.0.0
 - pkg:cargo/asset-test-utils@6.0.1
