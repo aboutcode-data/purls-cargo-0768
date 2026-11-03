@@ -29,3 +29,4 @@
 - pkg:cargo/libaeron-sys@1.53.1
 - pkg:cargo/libaeron-sys@1.53.2
 - pkg:cargo/libaeron-sys@1.53.3
+- pkg:cargo/libaeron-sys@1.54.0
