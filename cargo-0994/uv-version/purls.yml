@@ -56,7 +56,13 @@
 - pkg:cargo/uv-version@0.12.16
 - pkg:cargo/uv-version@0.12.17
 - pkg:cargo/uv-version@0.12.18
+- pkg:cargo/uv-version@0.12.19
 - pkg:cargo/uv-version@0.12.2
+- pkg:cargo/uv-version@0.12.20
+- pkg:cargo/uv-version@0.12.21
+- pkg:cargo/uv-version@0.12.22
+- pkg:cargo/uv-version@0.12.23
+- pkg:cargo/uv-version@0.12.24
 - pkg:cargo/uv-version@0.12.3
 - pkg:cargo/uv-version@0.12.4
 - pkg:cargo/uv-version@0.12.5
@@ -64,6 +70,13 @@
 - pkg:cargo/uv-version@0.12.7
 - pkg:cargo/uv-version@0.12.8
 - pkg:cargo/uv-version@0.12.9
+- pkg:cargo/uv-version@0.13.0
+- pkg:cargo/uv-version@0.13.1
+- pkg:cargo/uv-version@0.13.2
+- pkg:cargo/uv-version@0.13.3
+- pkg:cargo/uv-version@0.13.4
+- pkg:cargo/uv-version@0.13.5
+- pkg:cargo/uv-version@0.13.6
 - pkg:cargo/uv-version@0.9.11
 - pkg:cargo/uv-version@0.9.12
 - pkg:cargo/uv-version@0.9.13
