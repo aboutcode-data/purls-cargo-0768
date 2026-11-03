@@ -86,6 +86,7 @@
 - pkg:cargo/ra-ap-rustc_parse_format@0.18.0
 - pkg:cargo/ra-ap-rustc_parse_format@0.180.0
 - pkg:cargo/ra-ap-rustc_parse_format@0.181.0
+- pkg:cargo/ra-ap-rustc_parse_format@0.182.0
 - pkg:cargo/ra-ap-rustc_parse_format@0.19.0
 - pkg:cargo/ra-ap-rustc_parse_format@0.20.0
 - pkg:cargo/ra-ap-rustc_parse_format@0.21.0
