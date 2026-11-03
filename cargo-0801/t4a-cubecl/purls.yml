@@ -1,1 +1,5 @@
 - pkg:cargo/t4a-cubecl@0.10.0
+- pkg:cargo/t4a-cubecl@0.10.1
+- pkg:cargo/t4a-cubecl@0.10.2
+- pkg:cargo/t4a-cubecl@0.10.3
+- pkg:cargo/t4a-cubecl@0.11.0

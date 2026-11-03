@@ -1,1 +1,4 @@
 - pkg:cargo/lzcb-zstd-sys@0.1.0%2Bzstd.1.5.7
+- pkg:cargo/lzcb-zstd-sys@0.2.0%2Bzstd.1.5.7
+- pkg:cargo/lzcb-zstd-sys@0.3.0%2Bzstd.1.5.7
+- pkg:cargo/lzcb-zstd-sys@0.3.1%2Bzstd.1.5.7
