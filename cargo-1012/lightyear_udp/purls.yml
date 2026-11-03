@@ -19,3 +19,4 @@
 - pkg:cargo/lightyear_udp@0.29.0
 - pkg:cargo/lightyear_udp@0.30.0
 - pkg:cargo/lightyear_udp@0.30.1
+- pkg:cargo/lightyear_udp@0.31.0
