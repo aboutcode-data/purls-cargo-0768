@@ -16,3 +16,4 @@
 - pkg:cargo/greader_api@0.5.2
 - pkg:cargo/greader_api@0.5.3
 - pkg:cargo/greader_api@0.6.0
+- pkg:cargo/greader_api@0.7.0
