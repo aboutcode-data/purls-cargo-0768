@@ -1,4 +1,5 @@
 - pkg:cargo/sec-mcp@0.1.0
+- pkg:cargo/sec-mcp@0.10.0
 - pkg:cargo/sec-mcp@0.2.0
 - pkg:cargo/sec-mcp@0.4.0
 - pkg:cargo/sec-mcp@0.4.1
@@ -6,3 +7,11 @@
 - pkg:cargo/sec-mcp@0.4.3
 - pkg:cargo/sec-mcp@0.4.4
 - pkg:cargo/sec-mcp@0.5.0
+- pkg:cargo/sec-mcp@0.5.1
+- pkg:cargo/sec-mcp@0.5.2
+- pkg:cargo/sec-mcp@0.6.0
+- pkg:cargo/sec-mcp@0.6.1
+- pkg:cargo/sec-mcp@0.6.2
+- pkg:cargo/sec-mcp@0.7.0
+- pkg:cargo/sec-mcp@0.8.0
+- pkg:cargo/sec-mcp@0.9.0
