@@ -1,4 +1,11 @@
 - pkg:cargo/wreq@0.1.0-alpha.1
+- pkg:cargo/wreq@0.15.1
+- pkg:cargo/wreq@0.15.2
+- pkg:cargo/wreq@0.15.3
+- pkg:cargo/wreq@0.16.0
+- pkg:cargo/wreq@0.16.1
+- pkg:cargo/wreq@0.16.2
+- pkg:cargo/wreq@0.16.3
 - pkg:cargo/wreq@5.1.0
 - pkg:cargo/wreq@5.2.0
 - pkg:cargo/wreq@5.3.0
@@ -22,6 +29,8 @@
 - pkg:cargo/wreq@6.0.0-rc.28
 - pkg:cargo/wreq@6.0.0-rc.29
 - pkg:cargo/wreq@6.0.0-rc.3
+- pkg:cargo/wreq@6.0.0-rc.30
+- pkg:cargo/wreq@6.0.0-rc.31
 - pkg:cargo/wreq@6.0.0-rc.4
 - pkg:cargo/wreq@6.0.0-rc.5
 - pkg:cargo/wreq@6.0.0-rc.6
