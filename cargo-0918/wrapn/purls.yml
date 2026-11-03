@@ -1,4 +1,5 @@
 - pkg:cargo/wrapn@0.1.0
+- pkg:cargo/wrapn@0.10.0
 - pkg:cargo/wrapn@0.2.0
 - pkg:cargo/wrapn@0.3.0
 - pkg:cargo/wrapn@0.4.0
@@ -6,3 +7,7 @@
 - pkg:cargo/wrapn@0.6.0
 - pkg:cargo/wrapn@0.6.1
 - pkg:cargo/wrapn@0.6.2
+- pkg:cargo/wrapn@0.7.0
+- pkg:cargo/wrapn@0.7.1
+- pkg:cargo/wrapn@0.8.0
+- pkg:cargo/wrapn@0.9.0
