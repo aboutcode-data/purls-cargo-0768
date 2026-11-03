@@ -12,3 +12,5 @@
 - pkg:cargo/axiom_engine@0.2.9
 - pkg:cargo/axiom_engine@0.4.0
 - pkg:cargo/axiom_engine@0.4.1
+- pkg:cargo/axiom_engine@0.4.2
+- pkg:cargo/axiom_engine@0.5.0
