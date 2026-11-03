@@ -3,3 +3,4 @@
 - pkg:cargo/async-walkdir@1.0.0
 - pkg:cargo/async-walkdir@2.0.0
 - pkg:cargo/async-walkdir@2.1.0
+- pkg:cargo/async-walkdir@2.2.0
