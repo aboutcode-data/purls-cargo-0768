@@ -6,6 +6,11 @@
 - pkg:cargo/grove-rs@0.1.6
 - pkg:cargo/grove-rs@0.10.2
 - pkg:cargo/grove-rs@0.10.6
+- pkg:cargo/grove-rs@0.11.1
+- pkg:cargo/grove-rs@0.11.4
+- pkg:cargo/grove-rs@0.11.5
+- pkg:cargo/grove-rs@0.12.4
+- pkg:cargo/grove-rs@0.12.5
 - pkg:cargo/grove-rs@0.2.0
 - pkg:cargo/grove-rs@0.2.1
 - pkg:cargo/grove-rs@0.2.2
