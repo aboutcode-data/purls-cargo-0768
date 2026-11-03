@@ -1,0 +1,8 @@
+- pkg:cargo/asnkit-gen-rust@1.0.0
+- pkg:cargo/asnkit-gen-rust@1.0.1
+- pkg:cargo/asnkit-gen-rust@1.1.0
+- pkg:cargo/asnkit-gen-rust@1.2.0
+- pkg:cargo/asnkit-gen-rust@2.0.0-rc1
+- pkg:cargo/asnkit-gen-rust@2.0.0-rc2
+- pkg:cargo/asnkit-gen-rust@2.0.0-rc3
+- pkg:cargo/asnkit-gen-rust@2.0.0-rc4
