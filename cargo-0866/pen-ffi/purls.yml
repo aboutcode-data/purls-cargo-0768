@@ -25,6 +25,9 @@
 - pkg:cargo/pen-ffi@0.10.21
 - pkg:cargo/pen-ffi@0.10.22
 - pkg:cargo/pen-ffi@0.10.23
+- pkg:cargo/pen-ffi@0.10.24
+- pkg:cargo/pen-ffi@0.10.25
+- pkg:cargo/pen-ffi@0.10.26
 - pkg:cargo/pen-ffi@0.10.3
 - pkg:cargo/pen-ffi@0.10.4
 - pkg:cargo/pen-ffi@0.10.6
