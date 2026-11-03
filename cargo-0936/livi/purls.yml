@@ -31,3 +31,7 @@
 - pkg:cargo/livi@0.7.3
 - pkg:cargo/livi@0.7.4
 - pkg:cargo/livi@0.7.5
+- pkg:cargo/livi@0.7.6
+- pkg:cargo/livi@0.8.0
+- pkg:cargo/livi@0.8.1
+- pkg:cargo/livi@0.9.0
