@@ -1,3 +1,5 @@
 - pkg:cargo/event_base_wal@0.1.0
 - pkg:cargo/event_base_wal@0.1.2
 - pkg:cargo/event_base_wal@0.2.0
+- pkg:cargo/event_base_wal@0.3.0
+- pkg:cargo/event_base_wal@0.4.0

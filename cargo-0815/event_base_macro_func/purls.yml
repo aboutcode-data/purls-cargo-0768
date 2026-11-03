@@ -7,3 +7,5 @@
 - pkg:cargo/event_base_macro_func@0.3.0
 - pkg:cargo/event_base_macro_func@0.4.0
 - pkg:cargo/event_base_macro_func@0.4.1
+- pkg:cargo/event_base_macro_func@0.4.2
+- pkg:cargo/event_base_macro_func@0.5.0
