@@ -24,3 +24,5 @@
 - pkg:cargo/listen-fire-checker@0.13.1
 - pkg:cargo/listen-fire-checker@0.14.0
 - pkg:cargo/listen-fire-checker@0.14.1
+- pkg:cargo/listen-fire-checker@0.14.2
+- pkg:cargo/listen-fire-checker@0.15.0
