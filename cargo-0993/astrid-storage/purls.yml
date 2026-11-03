@@ -13,3 +13,10 @@
 - pkg:cargo/astrid-storage@0.7.0
 - pkg:cargo/astrid-storage@0.8.0
 - pkg:cargo/astrid-storage@0.9.4
+- pkg:cargo/astrid-storage@2026.10.0
+- pkg:cargo/astrid-storage@2026.10.1
+- pkg:cargo/astrid-storage@2026.9.0
+- pkg:cargo/astrid-storage@2026.9.1
+- pkg:cargo/astrid-storage@2026.9.2
+- pkg:cargo/astrid-storage@2026.9.3
+- pkg:cargo/astrid-storage@2026.9.4
