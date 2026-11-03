@@ -11,3 +11,4 @@
 - pkg:cargo/libjpeg-turbo-rs@0.6.3
 - pkg:cargo/libjpeg-turbo-rs@0.7.0
 - pkg:cargo/libjpeg-turbo-rs@0.8.0
+- pkg:cargo/libjpeg-turbo-rs@0.9.0
