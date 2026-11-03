@@ -1,0 +1,2 @@
+- pkg:cargo/rabbitmq-actor@0.1.0
+- pkg:cargo/rabbitmq-actor@0.1.1
