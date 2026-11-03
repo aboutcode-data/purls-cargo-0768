@@ -8,3 +8,4 @@
 - pkg:cargo/tdsl-core@1.27.0
 - pkg:cargo/tdsl-core@1.28.0
 - pkg:cargo/tdsl-core@2.0.0
+- pkg:cargo/tdsl-core@2.1.0
