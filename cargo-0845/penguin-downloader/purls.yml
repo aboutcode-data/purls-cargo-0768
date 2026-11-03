@@ -8,3 +8,7 @@
 - pkg:cargo/penguin-downloader@1.2.5
 - pkg:cargo/penguin-downloader@1.2.6
 - pkg:cargo/penguin-downloader@1.2.7
+- pkg:cargo/penguin-downloader@4.0.0
+- pkg:cargo/penguin-downloader@4.0.1
+- pkg:cargo/penguin-downloader@4.0.2
+- pkg:cargo/penguin-downloader@4.1.2
