@@ -8,3 +8,9 @@
 - pkg:cargo/graphile_worker_lifecycle_hooks@0.2.5
 - pkg:cargo/graphile_worker_lifecycle_hooks@0.3.0
 - pkg:cargo/graphile_worker_lifecycle_hooks@0.3.1
+- pkg:cargo/graphile_worker_lifecycle_hooks@0.3.2
+- pkg:cargo/graphile_worker_lifecycle_hooks@0.3.3
+- pkg:cargo/graphile_worker_lifecycle_hooks@0.3.4
+- pkg:cargo/graphile_worker_lifecycle_hooks@0.3.5
+- pkg:cargo/graphile_worker_lifecycle_hooks@0.3.6
+- pkg:cargo/graphile_worker_lifecycle_hooks@0.3.7
