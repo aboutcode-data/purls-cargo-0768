@@ -1,1 +1,2 @@
 - pkg:cargo/libsubatomic@1.1.1
+- pkg:cargo/libsubatomic@1.2.0
