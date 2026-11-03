@@ -48,3 +48,5 @@
 - pkg:cargo/librsvg@2.63.0-beta.1
 - pkg:cargo/librsvg@2.63.1
 - pkg:cargo/librsvg@2.63.2
+- pkg:cargo/librsvg@2.63.3
+- pkg:cargo/librsvg@2.63.4
