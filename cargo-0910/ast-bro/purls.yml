@@ -7,3 +7,4 @@
 - pkg:cargo/ast-bro@3.0.0
 - pkg:cargo/ast-bro@4.0.0
 - pkg:cargo/ast-bro@4.1.0
+- pkg:cargo/ast-bro@4.2.0
