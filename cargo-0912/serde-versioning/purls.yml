@@ -2,3 +2,4 @@
 - pkg:cargo/serde-versioning@1.0.219
 - pkg:cargo/serde-versioning@1.0.228
 - pkg:cargo/serde-versioning@1.0.228-fix.1
+- pkg:cargo/serde-versioning@1.0.229
