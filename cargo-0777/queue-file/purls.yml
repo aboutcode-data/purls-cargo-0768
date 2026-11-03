@@ -15,3 +15,4 @@
 - pkg:cargo/queue-file@1.4.7
 - pkg:cargo/queue-file@1.4.8
 - pkg:cargo/queue-file@1.4.9
+- pkg:cargo/queue-file@2.0.0
