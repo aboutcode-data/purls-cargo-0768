@@ -2,3 +2,6 @@
 - pkg:cargo/rate-net@0.9.5
 - pkg:cargo/rate-net@1.0.0
 - pkg:cargo/rate-net@1.1.0
+- pkg:cargo/rate-net@2.0.0
+- pkg:cargo/rate-net@2.0.1
+- pkg:cargo/rate-net@2.1.0
