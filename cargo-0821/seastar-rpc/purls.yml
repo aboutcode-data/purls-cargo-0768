@@ -1,0 +1,4 @@
+- pkg:cargo/seastar-rpc@0.1.0
+- pkg:cargo/seastar-rpc@0.1.1-rc.1
+- pkg:cargo/seastar-rpc@0.2.0
+- pkg:cargo/seastar-rpc@0.3.0
