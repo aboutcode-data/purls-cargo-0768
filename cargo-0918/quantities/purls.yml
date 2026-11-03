@@ -19,6 +19,9 @@
 - pkg:cargo/quantities@0.15.1
 - pkg:cargo/quantities@0.15.2
 - pkg:cargo/quantities@0.15.3
+- pkg:cargo/quantities@0.15.4
+- pkg:cargo/quantities@0.15.5
+- pkg:cargo/quantities@0.15.6
 - pkg:cargo/quantities@0.2.0
 - pkg:cargo/quantities@0.2.1
 - pkg:cargo/quantities@0.3.0
