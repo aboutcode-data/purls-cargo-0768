@@ -1,4 +1,6 @@
 - pkg:cargo/grammers-crypto@0.1.0
+- pkg:cargo/grammers-crypto@0.10.0
+- pkg:cargo/grammers-crypto@0.11.0
 - pkg:cargo/grammers-crypto@0.2.0
 - pkg:cargo/grammers-crypto@0.3.0
 - pkg:cargo/grammers-crypto@0.4.0
