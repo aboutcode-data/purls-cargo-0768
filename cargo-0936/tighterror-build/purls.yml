@@ -12,6 +12,8 @@
 - pkg:cargo/tighterror-build@0.0.20
 - pkg:cargo/tighterror-build@0.0.21
 - pkg:cargo/tighterror-build@0.0.22
+- pkg:cargo/tighterror-build@0.0.23
+- pkg:cargo/tighterror-build@0.0.24
 - pkg:cargo/tighterror-build@0.0.3
 - pkg:cargo/tighterror-build@0.0.4
 - pkg:cargo/tighterror-build@0.0.5
