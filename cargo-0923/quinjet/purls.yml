@@ -77,4 +77,6 @@
 - pkg:cargo/quinjet@0.0.8
 - pkg:cargo/quinjet@0.0.80
 - pkg:cargo/quinjet@0.0.81
+- pkg:cargo/quinjet@0.0.82
+- pkg:cargo/quinjet@0.0.83
 - pkg:cargo/quinjet@0.0.9
