@@ -77,6 +77,7 @@
 - pkg:cargo/uv-version@0.13.4
 - pkg:cargo/uv-version@0.13.5
 - pkg:cargo/uv-version@0.13.6
+- pkg:cargo/uv-version@0.13.7
 - pkg:cargo/uv-version@0.9.11
 - pkg:cargo/uv-version@0.9.12
 - pkg:cargo/uv-version@0.9.13
