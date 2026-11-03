@@ -41,3 +41,6 @@
 - pkg:cargo/gnostr_filehash_core@970402.1846.51281
 - pkg:cargo/gnostr_filehash_core@970403.1846.49785
 - pkg:cargo/gnostr_filehash_core@970410.1846.41651
+- pkg:cargo/gnostr_filehash_core@970857.1845.452560
+- pkg:cargo/gnostr_filehash_core@970860.1845.450127
+- pkg:cargo/gnostr_filehash_core@970861.1845.448495
