@@ -1,0 +1,13 @@
+- pkg:cargo/gstreamer-ffmpeg-src@0.0.0
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.0
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.0-rc1
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.0-rc2
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.1
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.2
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.3
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.4
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.5
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.6
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.7
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.7-rc1
+- pkg:cargo/gstreamer-ffmpeg-src@1.28.8
