@@ -87,6 +87,7 @@
 - pkg:cargo/quote@1.0.44
 - pkg:cargo/quote@1.0.45
 - pkg:cargo/quote@1.0.46
+- pkg:cargo/quote@1.0.47
 - pkg:cargo/quote@1.0.5
 - pkg:cargo/quote@1.0.6
 - pkg:cargo/quote@1.0.7
