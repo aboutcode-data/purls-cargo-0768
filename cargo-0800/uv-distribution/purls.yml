@@ -92,3 +92,4 @@
 - pkg:cargo/uv-distribution@0.0.96
 - pkg:cargo/uv-distribution@0.0.97
 - pkg:cargo/uv-distribution@0.0.98
+- pkg:cargo/uv-distribution@0.0.99
