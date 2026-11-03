@@ -112,3 +112,5 @@
 - pkg:cargo/seq-repl@7.7.1
 - pkg:cargo/seq-repl@7.7.2
 - pkg:cargo/seq-repl@7.7.3
+- pkg:cargo/seq-repl@7.7.4
+- pkg:cargo/seq-repl@7.7.5
