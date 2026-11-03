@@ -42,6 +42,8 @@
 - pkg:cargo/tinymist@0.14.18-rc1
 - pkg:cargo/tinymist@0.14.2
 - pkg:cargo/tinymist@0.14.2-rc1
+- pkg:cargo/tinymist@0.14.20
+- pkg:cargo/tinymist@0.14.20-rc1
 - pkg:cargo/tinymist@0.14.4
 - pkg:cargo/tinymist@0.14.4-rc1
 - pkg:cargo/tinymist@0.14.6
@@ -50,3 +52,11 @@
 - pkg:cargo/tinymist@0.14.6-rc3
 - pkg:cargo/tinymist@0.14.8
 - pkg:cargo/tinymist@0.14.8-rc1
+- pkg:cargo/tinymist@0.15.0
+- pkg:cargo/tinymist@0.15.0-rc1
+- pkg:cargo/tinymist@0.15.0-rc2
+- pkg:cargo/tinymist@0.15.2
+- pkg:cargo/tinymist@0.15.2-rc1
+- pkg:cargo/tinymist@0.15.2-rc2
+- pkg:cargo/tinymist@0.15.2-rc3
+- pkg:cargo/tinymist@0.15.2-rc4
