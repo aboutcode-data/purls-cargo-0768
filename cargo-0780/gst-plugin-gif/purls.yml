@@ -12,6 +12,7 @@
 - pkg:cargo/gst-plugin-gif@0.15.0
 - pkg:cargo/gst-plugin-gif@0.15.0-alpha.1
 - pkg:cargo/gst-plugin-gif@0.15.0-alpha.2
+- pkg:cargo/gst-plugin-gif@0.15.4
 - pkg:cargo/gst-plugin-gif@0.6.0
 - pkg:cargo/gst-plugin-gif@0.7.0
 - pkg:cargo/gst-plugin-gif@0.7.1
