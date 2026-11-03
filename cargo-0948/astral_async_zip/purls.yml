@@ -6,3 +6,5 @@
 - pkg:cargo/astral_async_zip@0.0.18-rc4
 - pkg:cargo/astral_async_zip@0.0.19
 - pkg:cargo/astral_async_zip@0.0.20
+- pkg:cargo/astral_async_zip@0.0.21
+- pkg:cargo/astral_async_zip@0.0.22
