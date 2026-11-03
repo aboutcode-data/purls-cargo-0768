@@ -34,3 +34,5 @@
 - pkg:cargo/lineark-sdk@3.0.2
 - pkg:cargo/lineark-sdk@3.0.3
 - pkg:cargo/lineark-sdk@3.1.0
+- pkg:cargo/lineark-sdk@4.0.0
+- pkg:cargo/lineark-sdk@4.0.1
