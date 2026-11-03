@@ -19,3 +19,10 @@
 - pkg:cargo/axfs-ng-vfs@0.5.5
 - pkg:cargo/axfs-ng-vfs@0.5.6
 - pkg:cargo/axfs-ng-vfs@0.5.7
+- pkg:cargo/axfs-ng-vfs@0.5.8
+- pkg:cargo/axfs-ng-vfs@0.6.0
+- pkg:cargo/axfs-ng-vfs@0.6.1
+- pkg:cargo/axfs-ng-vfs@0.7.0
+- pkg:cargo/axfs-ng-vfs@0.7.1
+- pkg:cargo/axfs-ng-vfs@0.8.0
+- pkg:cargo/axfs-ng-vfs@0.8.1
