@@ -27,7 +27,13 @@
 - pkg:cargo/rama-boring-tokio@0.6.12
 - pkg:cargo/rama-boring-tokio@0.6.13
 - pkg:cargo/rama-boring-tokio@0.6.14
+- pkg:cargo/rama-boring-tokio@0.6.15
+- pkg:cargo/rama-boring-tokio@0.6.16
+- pkg:cargo/rama-boring-tokio@0.6.17
+- pkg:cargo/rama-boring-tokio@0.6.18
+- pkg:cargo/rama-boring-tokio@0.6.19
 - pkg:cargo/rama-boring-tokio@0.6.2
+- pkg:cargo/rama-boring-tokio@0.6.20
 - pkg:cargo/rama-boring-tokio@0.6.3
 - pkg:cargo/rama-boring-tokio@0.6.4
 - pkg:cargo/rama-boring-tokio@0.6.5
@@ -35,3 +41,4 @@
 - pkg:cargo/rama-boring-tokio@0.6.7
 - pkg:cargo/rama-boring-tokio@0.6.8
 - pkg:cargo/rama-boring-tokio@0.6.9
+- pkg:cargo/rama-boring-tokio@0.7.0
