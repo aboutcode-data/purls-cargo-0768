@@ -17,6 +17,12 @@
 - pkg:cargo/qubit-function@0.14.2
 - pkg:cargo/qubit-function@0.15.0
 - pkg:cargo/qubit-function@0.15.1
+- pkg:cargo/qubit-function@0.16.0
+- pkg:cargo/qubit-function@0.17.0
+- pkg:cargo/qubit-function@0.18.0
+- pkg:cargo/qubit-function@0.18.1
+- pkg:cargo/qubit-function@0.18.2
+- pkg:cargo/qubit-function@0.18.3
 - pkg:cargo/qubit-function@0.6.0
 - pkg:cargo/qubit-function@0.7.0
 - pkg:cargo/qubit-function@0.7.1

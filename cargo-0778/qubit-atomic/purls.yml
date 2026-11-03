@@ -11,6 +11,16 @@
 - pkg:cargo/qubit-atomic@0.13.3
 - pkg:cargo/qubit-atomic@0.13.4
 - pkg:cargo/qubit-atomic@0.14.0
+- pkg:cargo/qubit-atomic@0.14.1
+- pkg:cargo/qubit-atomic@0.15.0
+- pkg:cargo/qubit-atomic@0.16.0
+- pkg:cargo/qubit-atomic@0.17.0
+- pkg:cargo/qubit-atomic@0.17.1
+- pkg:cargo/qubit-atomic@0.17.2
+- pkg:cargo/qubit-atomic@0.17.3
+- pkg:cargo/qubit-atomic@0.17.4
+- pkg:cargo/qubit-atomic@0.17.5
+- pkg:cargo/qubit-atomic@0.17.6
 - pkg:cargo/qubit-atomic@0.3.0
 - pkg:cargo/qubit-atomic@0.6.0
 - pkg:cargo/qubit-atomic@0.7.0
