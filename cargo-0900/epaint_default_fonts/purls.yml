@@ -15,3 +15,7 @@
 - pkg:cargo/epaint_default_fonts@0.34.2
 - pkg:cargo/epaint_default_fonts@0.34.3
 - pkg:cargo/epaint_default_fonts@0.35.0
+- pkg:cargo/epaint_default_fonts@0.36.0
+- pkg:cargo/epaint_default_fonts@0.36.1
+- pkg:cargo/epaint_default_fonts@0.36.2
+- pkg:cargo/epaint_default_fonts@0.37.0
