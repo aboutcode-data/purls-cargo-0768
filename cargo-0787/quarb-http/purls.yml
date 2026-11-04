@@ -17,3 +17,4 @@
 - pkg:cargo/quarb-http@0.47.0
 - pkg:cargo/quarb-http@0.48.0
 - pkg:cargo/quarb-http@0.49.0
+- pkg:cargo/quarb-http@0.50.0
