@@ -1,1 +1,4 @@
 - pkg:cargo/turbospark-streaming@0.1.0
+- pkg:cargo/turbospark-streaming@0.3.0
+- pkg:cargo/turbospark-streaming@0.7.0
+- pkg:cargo/turbospark-streaming@0.7.1
