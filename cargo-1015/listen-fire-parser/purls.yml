@@ -26,3 +26,4 @@
 - pkg:cargo/listen-fire-parser@0.14.1
 - pkg:cargo/listen-fire-parser@0.14.2
 - pkg:cargo/listen-fire-parser@0.15.0
+- pkg:cargo/listen-fire-parser@0.15.1
