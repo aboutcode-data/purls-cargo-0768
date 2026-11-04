@@ -10,5 +10,14 @@
 - pkg:cargo/kellnr-appstate@6.0.3
 - pkg:cargo/kellnr-appstate@6.1.0
 - pkg:cargo/kellnr-appstate@6.1.1
+- pkg:cargo/kellnr-appstate@6.11.0
+- pkg:cargo/kellnr-appstate@6.12.0
+- pkg:cargo/kellnr-appstate@6.13.0
 - pkg:cargo/kellnr-appstate@6.2.0
 - pkg:cargo/kellnr-appstate@6.3.0
+- pkg:cargo/kellnr-appstate@6.4.0
+- pkg:cargo/kellnr-appstate@6.5.0
+- pkg:cargo/kellnr-appstate@6.5.1
+- pkg:cargo/kellnr-appstate@6.5.2
+- pkg:cargo/kellnr-appstate@6.5.3
+- pkg:cargo/kellnr-appstate@6.6.0

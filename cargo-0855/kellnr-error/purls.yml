@@ -10,5 +10,14 @@
 - pkg:cargo/kellnr-error@6.0.3
 - pkg:cargo/kellnr-error@6.1.0
 - pkg:cargo/kellnr-error@6.1.1
+- pkg:cargo/kellnr-error@6.11.0
+- pkg:cargo/kellnr-error@6.12.0
+- pkg:cargo/kellnr-error@6.13.0
 - pkg:cargo/kellnr-error@6.2.0
 - pkg:cargo/kellnr-error@6.3.0
+- pkg:cargo/kellnr-error@6.4.0
+- pkg:cargo/kellnr-error@6.5.0
+- pkg:cargo/kellnr-error@6.5.1
+- pkg:cargo/kellnr-error@6.5.2
+- pkg:cargo/kellnr-error@6.5.3
+- pkg:cargo/kellnr-error@6.6.0
