@@ -83,3 +83,4 @@
 - pkg:cargo/tishlang_compile@4.2.3
 - pkg:cargo/tishlang_compile@4.2.4
 - pkg:cargo/tishlang_compile@4.2.5
+- pkg:cargo/tishlang_compile@4.2.7
