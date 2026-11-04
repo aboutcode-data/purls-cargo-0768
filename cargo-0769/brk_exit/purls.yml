@@ -80,3 +80,4 @@
 - pkg:cargo/brk_exit@0.0.9
 - pkg:cargo/brk_exit@0.12.1
 - pkg:cargo/brk_exit@0.12.2
+- pkg:cargo/brk_exit@0.13.0

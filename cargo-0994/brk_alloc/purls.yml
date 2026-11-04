@@ -21,6 +21,7 @@
 - pkg:cargo/brk_alloc@0.12.0
 - pkg:cargo/brk_alloc@0.12.1
 - pkg:cargo/brk_alloc@0.12.2
+- pkg:cargo/brk_alloc@0.13.0
 - pkg:cargo/brk_alloc@0.2.0
 - pkg:cargo/brk_alloc@0.2.1
 - pkg:cargo/brk_alloc@0.2.2
