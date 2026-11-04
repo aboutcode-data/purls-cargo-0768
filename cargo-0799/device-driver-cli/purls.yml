@@ -10,3 +10,7 @@
 - pkg:cargo/device-driver-cli@1.0.7
 - pkg:cargo/device-driver-cli@1.0.8
 - pkg:cargo/device-driver-cli@1.0.9
+- pkg:cargo/device-driver-cli@2.0.0
+- pkg:cargo/device-driver-cli@2.1.0
+- pkg:cargo/device-driver-cli@2.1.1
+- pkg:cargo/device-driver-cli@2.2.0
