@@ -6,6 +6,7 @@
 - pkg:cargo/vivid_sdk@1.5.1
 - pkg:cargo/vivid_sdk@1.5.10
 - pkg:cargo/vivid_sdk@1.5.11
+- pkg:cargo/vivid_sdk@1.5.12
 - pkg:cargo/vivid_sdk@1.5.2
 - pkg:cargo/vivid_sdk@1.5.3
 - pkg:cargo/vivid_sdk@1.5.4
