@@ -2,3 +2,6 @@
 - pkg:cargo/frut_lib@0.0.2
 - pkg:cargo/frut_lib@0.0.3
 - pkg:cargo/frut_lib@0.0.4
+- pkg:cargo/frut_lib@0.1.0
+- pkg:cargo/frut_lib@0.1.1
+- pkg:cargo/frut_lib@0.1.2
