@@ -4,6 +4,13 @@
 - pkg:cargo/ggen@2.5.0
 - pkg:cargo/ggen@2.6.0
 - pkg:cargo/ggen@2.7.1
+- pkg:cargo/ggen@26.10.12
+- pkg:cargo/ggen@26.15.2
+- pkg:cargo/ggen@26.5.19
+- pkg:cargo/ggen@26.6.11
+- pkg:cargo/ggen@26.7.2
+- pkg:cargo/ggen@26.7.3
+- pkg:cargo/ggen@26.8.6
 - pkg:cargo/ggen@3.2.0
 - pkg:cargo/ggen@4.0.0
 - pkg:cargo/ggen@5.0.0
