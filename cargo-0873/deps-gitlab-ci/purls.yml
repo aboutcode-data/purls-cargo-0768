@@ -1,0 +1,9 @@
+- pkg:cargo/deps-gitlab-ci@0.13.0
+- pkg:cargo/deps-gitlab-ci@0.14.0
+- pkg:cargo/deps-gitlab-ci@1.0.0
+- pkg:cargo/deps-gitlab-ci@1.0.1
+- pkg:cargo/deps-gitlab-ci@1.1.0
+- pkg:cargo/deps-gitlab-ci@1.2.0
+- pkg:cargo/deps-gitlab-ci@2.0.0
+- pkg:cargo/deps-gitlab-ci@3.0.0
+- pkg:cargo/deps-gitlab-ci@4.0.0
