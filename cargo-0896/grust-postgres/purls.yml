@@ -14,5 +14,6 @@
 - pkg:cargo/grust-postgres@0.22.0
 - pkg:cargo/grust-postgres@0.23.0
 - pkg:cargo/grust-postgres@0.24.0
+- pkg:cargo/grust-postgres@0.24.1
 - pkg:cargo/grust-postgres@0.9.1
 - pkg:cargo/grust-postgres@0.9.2
