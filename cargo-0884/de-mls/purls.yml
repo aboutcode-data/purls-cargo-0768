@@ -1,2 +1,4 @@
 - pkg:cargo/de-mls@2.1.0
 - pkg:cargo/de-mls@3.0.0
+- pkg:cargo/de-mls@4.0.0
+- pkg:cargo/de-mls@4.1.0
