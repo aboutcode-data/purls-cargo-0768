@@ -337,3 +337,13 @@
 - pkg:cargo/deno@2.8.0
 - pkg:cargo/deno@2.8.1
 - pkg:cargo/deno@2.8.2
+- pkg:cargo/deno@2.8.3
+- pkg:cargo/deno@2.9.0
+- pkg:cargo/deno@2.9.1
+- pkg:cargo/deno@2.9.2
+- pkg:cargo/deno@2.9.3
+- pkg:cargo/deno@2.9.4
+- pkg:cargo/deno@2.9.5
+- pkg:cargo/deno@2.9.6
+- pkg:cargo/deno@2.9.7
+- pkg:cargo/deno@2.9.8

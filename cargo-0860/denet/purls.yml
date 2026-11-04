@@ -1,4 +1,5 @@
 - pkg:cargo/denet@0.1.0
+- pkg:cargo/denet@0.10.3
 - pkg:cargo/denet@0.2.1
 - pkg:cargo/denet@0.3.1
 - pkg:cargo/denet@0.3.2
@@ -8,3 +9,4 @@
 - pkg:cargo/denet@0.6.0
 - pkg:cargo/denet@0.6.1
 - pkg:cargo/denet@0.7.0
+- pkg:cargo/denet@0.7.2
