@@ -1,0 +1,6 @@
+- pkg:cargo/frozen-duckdb-sys@2.0.0
+- pkg:cargo/frozen-duckdb-sys@2.0.0-dev
+- pkg:cargo/frozen-duckdb-sys@2.0.1
+- pkg:cargo/frozen-duckdb-sys@2.0.2
+- pkg:cargo/frozen-duckdb-sys@2.0.3
+- pkg:cargo/frozen-duckdb-sys@2.0.4
