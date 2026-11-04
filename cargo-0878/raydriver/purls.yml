@@ -1,3 +1,4 @@
+- pkg:cargo/raydriver@1.0.0
 - pkg:cargo/raydriver@1.0.0-beta1
 - pkg:cargo/raydriver@1.0.0-beta3
 - pkg:cargo/raydriver@1.0.0-beta4
