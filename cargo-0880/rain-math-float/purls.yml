@@ -4,6 +4,8 @@
 - pkg:cargo/rain-math-float@0.1.11
 - pkg:cargo/rain-math-float@0.1.12
 - pkg:cargo/rain-math-float@0.1.13
+- pkg:cargo/rain-math-float@0.1.14
+- pkg:cargo/rain-math-float@0.1.15
 - pkg:cargo/rain-math-float@0.1.4
 - pkg:cargo/rain-math-float@0.1.5
 - pkg:cargo/rain-math-float@0.1.6
