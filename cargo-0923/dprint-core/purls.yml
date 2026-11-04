@@ -121,5 +121,7 @@
 - pkg:cargo/dprint-core@0.74.0
 - pkg:cargo/dprint-core@0.74.1
 - pkg:cargo/dprint-core@0.75.0
+- pkg:cargo/dprint-core@0.75.1
+- pkg:cargo/dprint-core@0.75.2
 - pkg:cargo/dprint-core@0.8.0
 - pkg:cargo/dprint-core@0.9.0
