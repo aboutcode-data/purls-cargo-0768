@@ -1,0 +1,4 @@
+- pkg:cargo/deterministic-shuffle@0.0.0
+- pkg:cargo/deterministic-shuffle@0.0.1
+- pkg:cargo/deterministic-shuffle@0.0.2
+- pkg:cargo/deterministic-shuffle@0.0.3
