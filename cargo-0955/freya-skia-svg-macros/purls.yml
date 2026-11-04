@@ -1,1 +1,8 @@
 - pkg:cargo/freya-skia-svg-macros@0.1.0
+- pkg:cargo/freya-skia-svg-macros@0.100.0-beta.1
+- pkg:cargo/freya-skia-svg-macros@0.102.0
+- pkg:cargo/freya-skia-svg-macros@0.103.0
+- pkg:cargo/freya-skia-svg-macros@0.103.1
+- pkg:cargo/freya-skia-svg-macros@0.103.2
+- pkg:cargo/freya-skia-svg-macros@0.104.0
+- pkg:cargo/freya-skia-svg-macros@0.105.0-beta.1
