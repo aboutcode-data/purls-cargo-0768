@@ -1,4 +1,6 @@
 - pkg:cargo/brokkr-core@0.10.0
 - pkg:cargo/brokkr-core@0.11.0
+- pkg:cargo/brokkr-core@0.12.0
+- pkg:cargo/brokkr-core@0.13.0
 - pkg:cargo/brokkr-core@0.9.0
 - pkg:cargo/brokkr-core@0.9.1
