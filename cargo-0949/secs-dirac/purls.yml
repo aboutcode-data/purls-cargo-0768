@@ -12,7 +12,11 @@
 - pkg:cargo/secs-dirac@0.15.2
 - pkg:cargo/secs-dirac@0.15.3
 - pkg:cargo/secs-dirac@0.16.0
+- pkg:cargo/secs-dirac@0.17.0
+- pkg:cargo/secs-dirac@0.18.0
+- pkg:cargo/secs-dirac@0.19.0
 - pkg:cargo/secs-dirac@0.2.0
+- pkg:cargo/secs-dirac@0.20.0
 - pkg:cargo/secs-dirac@0.3.0
 - pkg:cargo/secs-dirac@0.4.0
 - pkg:cargo/secs-dirac@0.4.1

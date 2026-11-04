@@ -12,7 +12,11 @@
 - pkg:cargo/secs-service@0.15.2
 - pkg:cargo/secs-service@0.15.3
 - pkg:cargo/secs-service@0.16.0
+- pkg:cargo/secs-service@0.17.0
+- pkg:cargo/secs-service@0.18.0
+- pkg:cargo/secs-service@0.19.0
 - pkg:cargo/secs-service@0.2.0
+- pkg:cargo/secs-service@0.20.0
 - pkg:cargo/secs-service@0.3.0
 - pkg:cargo/secs-service@0.4.0
 - pkg:cargo/secs-service@0.4.1

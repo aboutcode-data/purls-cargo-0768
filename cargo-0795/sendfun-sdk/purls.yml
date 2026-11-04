@@ -3,3 +3,4 @@
 - pkg:cargo/sendfun-sdk@2.0.0
 - pkg:cargo/sendfun-sdk@2.0.1
 - pkg:cargo/sendfun-sdk@3.0.0
+- pkg:cargo/sendfun-sdk@4.0.0
