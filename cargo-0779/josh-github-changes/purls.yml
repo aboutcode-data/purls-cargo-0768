@@ -1,3 +1,5 @@
 - pkg:cargo/josh-github-changes@26.4.19
 - pkg:cargo/josh-github-changes@26.5.8
 - pkg:cargo/josh-github-changes@26.6.11
+- pkg:cargo/josh-github-changes@26.7.19
+- pkg:cargo/josh-github-changes@26.8.28

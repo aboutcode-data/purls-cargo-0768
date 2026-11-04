@@ -1,1 +1,2 @@
 - pkg:cargo/josh-ssh-shell@26.5.8
+- pkg:cargo/josh-ssh-shell@26.8.28
