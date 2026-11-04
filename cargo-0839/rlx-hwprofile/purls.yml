@@ -1,3 +1,6 @@
 - pkg:cargo/rlx-hwprofile@0.2.13
 - pkg:cargo/rlx-hwprofile@0.2.14
 - pkg:cargo/rlx-hwprofile@0.2.16
+- pkg:cargo/rlx-hwprofile@0.2.17
+- pkg:cargo/rlx-hwprofile@0.2.18
+- pkg:cargo/rlx-hwprofile@0.2.19
