@@ -6,3 +6,4 @@
 - pkg:cargo/qresolve@0.8.0
 - pkg:cargo/qresolve@0.8.0-beta.1
 - pkg:cargo/qresolve@0.8.1
+- pkg:cargo/qresolve@0.9.0
