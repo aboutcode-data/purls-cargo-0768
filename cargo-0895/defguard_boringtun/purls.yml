@@ -4,3 +4,7 @@
 - pkg:cargo/defguard_boringtun@0.6.3
 - pkg:cargo/defguard_boringtun@0.6.4
 - pkg:cargo/defguard_boringtun@0.6.5
+- pkg:cargo/defguard_boringtun@0.6.7
+- pkg:cargo/defguard_boringtun@0.6.8
+- pkg:cargo/defguard_boringtun@0.7.0
+- pkg:cargo/defguard_boringtun@0.7.1

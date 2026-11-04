@@ -1,4 +1,13 @@
 - pkg:cargo/defguard_wireguard_rs@0.10.0
+- pkg:cargo/defguard_wireguard_rs@0.11.0
+- pkg:cargo/defguard_wireguard_rs@0.11.1
+- pkg:cargo/defguard_wireguard_rs@0.11.2
+- pkg:cargo/defguard_wireguard_rs@0.12.0
+- pkg:cargo/defguard_wireguard_rs@0.12.1
+- pkg:cargo/defguard_wireguard_rs@0.12.2
+- pkg:cargo/defguard_wireguard_rs@0.12.3
+- pkg:cargo/defguard_wireguard_rs@0.12.4
+- pkg:cargo/defguard_wireguard_rs@0.12.5
 - pkg:cargo/defguard_wireguard_rs@0.2.0
 - pkg:cargo/defguard_wireguard_rs@0.2.1
 - pkg:cargo/defguard_wireguard_rs@0.2.2
