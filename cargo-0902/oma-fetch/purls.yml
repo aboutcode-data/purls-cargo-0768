@@ -59,6 +59,7 @@
 - pkg:cargo/oma-fetch@0.39.1
 - pkg:cargo/oma-fetch@0.4.0
 - pkg:cargo/oma-fetch@0.4.1
+- pkg:cargo/oma-fetch@0.40.0
 - pkg:cargo/oma-fetch@0.5.1
 - pkg:cargo/oma-fetch@0.6.0
 - pkg:cargo/oma-fetch@0.7.0
