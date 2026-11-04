@@ -1,1 +1,2 @@
 - pkg:cargo/quercus-ffmpeg-link@0.5.2
+- pkg:cargo/quercus-ffmpeg-link@0.6.0

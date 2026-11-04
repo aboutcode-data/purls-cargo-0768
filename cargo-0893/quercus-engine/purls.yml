@@ -1,2 +1,4 @@
 - pkg:cargo/quercus-engine@0.5.2
 - pkg:cargo/quercus-engine@0.5.3
+- pkg:cargo/quercus-engine@0.6.0
+- pkg:cargo/quercus-engine@0.6.1
