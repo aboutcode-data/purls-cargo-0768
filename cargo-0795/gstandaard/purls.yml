@@ -5,6 +5,8 @@
 - pkg:cargo/gstandaard@0.1.118
 - pkg:cargo/gstandaard@0.1.120
 - pkg:cargo/gstandaard@0.1.121
+- pkg:cargo/gstandaard@0.1.141
+- pkg:cargo/gstandaard@0.1.142
 - pkg:cargo/gstandaard@0.1.16
 - pkg:cargo/gstandaard@0.1.19
 - pkg:cargo/gstandaard@0.1.22
