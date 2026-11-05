@@ -16,6 +16,7 @@
 - pkg:cargo/libproc@0.14.7
 - pkg:cargo/libproc@0.14.8
 - pkg:cargo/libproc@0.14.9
+- pkg:cargo/libproc@0.15.0
 - pkg:cargo/libproc@0.2.0
 - pkg:cargo/libproc@0.3.0
 - pkg:cargo/libproc@0.3.1
