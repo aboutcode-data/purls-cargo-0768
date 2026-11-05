@@ -1,3 +1,4 @@
+- pkg:cargo/liteflags-rs@0.1.11
 - pkg:cargo/liteflags-rs@0.1.7
 - pkg:cargo/liteflags-rs@0.1.8
 - pkg:cargo/liteflags-rs@0.1.9
