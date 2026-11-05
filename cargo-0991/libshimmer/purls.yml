@@ -4,3 +4,4 @@
 - pkg:cargo/libshimmer@0.2.2
 - pkg:cargo/libshimmer@1.0.0
 - pkg:cargo/libshimmer@1.0.1
+- pkg:cargo/libshimmer@1.1.0
