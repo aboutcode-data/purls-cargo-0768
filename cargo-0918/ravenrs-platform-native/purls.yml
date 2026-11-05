@@ -5,6 +5,7 @@
 - pkg:cargo/ravenrs-platform-native@27.1.1
 - pkg:cargo/ravenrs-platform-native@27.1.10
 - pkg:cargo/ravenrs-platform-native@27.1.11
+- pkg:cargo/ravenrs-platform-native@27.1.12
 - pkg:cargo/ravenrs-platform-native@27.1.2
 - pkg:cargo/ravenrs-platform-native@27.1.3
 - pkg:cargo/ravenrs-platform-native@27.1.4
