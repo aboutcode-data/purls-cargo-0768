@@ -38,6 +38,7 @@
 - pkg:cargo/gflow@0.4.16
 - pkg:cargo/gflow@0.4.17
 - pkg:cargo/gflow@0.4.18
+- pkg:cargo/gflow@0.4.19
 - pkg:cargo/gflow@0.4.2
 - pkg:cargo/gflow@0.4.3
 - pkg:cargo/gflow@0.4.4
