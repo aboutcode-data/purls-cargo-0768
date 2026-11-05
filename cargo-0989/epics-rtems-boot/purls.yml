@@ -20,3 +20,4 @@
 - pkg:cargo/epics-rtems-boot@0.31.0
 - pkg:cargo/epics-rtems-boot@0.32.0
 - pkg:cargo/epics-rtems-boot@0.33.0
+- pkg:cargo/epics-rtems-boot@0.34.0
