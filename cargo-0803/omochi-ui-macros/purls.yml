@@ -1,2 +1,3 @@
 - pkg:cargo/omochi-ui-macros@0.1.3
 - pkg:cargo/omochi-ui-macros@0.2.0
+- pkg:cargo/omochi-ui-macros@0.2.1
