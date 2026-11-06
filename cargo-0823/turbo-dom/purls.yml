@@ -16,3 +16,4 @@
 - pkg:cargo/turbo-dom@0.5.8
 - pkg:cargo/turbo-dom@0.6.0
 - pkg:cargo/turbo-dom@0.7.0
+- pkg:cargo/turbo-dom@0.7.1
