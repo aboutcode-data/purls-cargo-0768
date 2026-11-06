@@ -22,3 +22,4 @@
 - pkg:cargo/everruns-cli-contract@0.48.0
 - pkg:cargo/everruns-cli-contract@0.49.0
 - pkg:cargo/everruns-cli-contract@0.50.1
+- pkg:cargo/everruns-cli-contract@0.51.0
