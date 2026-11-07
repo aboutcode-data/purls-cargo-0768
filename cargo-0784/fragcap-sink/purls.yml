@@ -5,6 +5,7 @@
 - pkg:cargo/fragcap-sink@0.10.11
 - pkg:cargo/fragcap-sink@0.10.12
 - pkg:cargo/fragcap-sink@0.10.13
+- pkg:cargo/fragcap-sink@0.10.14
 - pkg:cargo/fragcap-sink@0.10.2
 - pkg:cargo/fragcap-sink@0.10.3
 - pkg:cargo/fragcap-sink@0.10.4
