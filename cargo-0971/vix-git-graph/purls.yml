@@ -1,1 +1,2 @@
 - pkg:cargo/vix-git-graph@2.0.0
+- pkg:cargo/vix-git-graph@2.0.1
