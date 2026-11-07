@@ -9,6 +9,8 @@
 - pkg:cargo/vision-calibration-linear@0.14.0
 - pkg:cargo/vision-calibration-linear@0.15.0
 - pkg:cargo/vision-calibration-linear@0.16.0
+- pkg:cargo/vision-calibration-linear@0.17.0
+- pkg:cargo/vision-calibration-linear@0.18.0
 - pkg:cargo/vision-calibration-linear@0.2.0
 - pkg:cargo/vision-calibration-linear@0.3.0
 - pkg:cargo/vision-calibration-linear@0.4.0
