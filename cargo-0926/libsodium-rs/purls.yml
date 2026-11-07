@@ -8,3 +8,4 @@
 - pkg:cargo/libsodium-rs@0.2.5
 - pkg:cargo/libsodium-rs@0.2.6
 - pkg:cargo/libsodium-rs@0.3.0
+- pkg:cargo/libsodium-rs@0.3.1
