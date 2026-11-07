@@ -26,6 +26,7 @@
 - pkg:cargo/keri-core@0.17.9
 - pkg:cargo/keri-core@0.18.0
 - pkg:cargo/keri-core@0.19.0-rc.11
+- pkg:cargo/keri-core@0.19.0-rc.12
 - pkg:cargo/keri-core@0.19.0-rc.3
 - pkg:cargo/keri-core@0.19.0-rc.4
 - pkg:cargo/keri-core@0.19.0-rc.5
