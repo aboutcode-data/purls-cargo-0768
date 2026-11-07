@@ -2,3 +2,4 @@
 - pkg:cargo/omochi-local-discovery@0.2.1
 - pkg:cargo/omochi-local-discovery@0.3.0
 - pkg:cargo/omochi-local-discovery@0.3.1
+- pkg:cargo/omochi-local-discovery@0.3.2
