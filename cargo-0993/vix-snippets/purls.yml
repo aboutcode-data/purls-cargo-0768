@@ -5,3 +5,4 @@
 - pkg:cargo/vix-snippets@1.7.0
 - pkg:cargo/vix-snippets@1.7.1
 - pkg:cargo/vix-snippets@1.8.0
+- pkg:cargo/vix-snippets@2.0.0
