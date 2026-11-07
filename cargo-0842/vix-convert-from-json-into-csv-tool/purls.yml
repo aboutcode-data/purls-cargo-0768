@@ -7,3 +7,4 @@
 - pkg:cargo/vix-convert-from-json-into-csv-tool@1.7.1
 - pkg:cargo/vix-convert-from-json-into-csv-tool@1.8.0
 - pkg:cargo/vix-convert-from-json-into-csv-tool@2.0.0
+- pkg:cargo/vix-convert-from-json-into-csv-tool@2.0.1
