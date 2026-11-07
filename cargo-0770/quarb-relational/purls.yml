@@ -52,6 +52,7 @@
 - pkg:cargo/quarb-relational@0.51.0
 - pkg:cargo/quarb-relational@0.52.0
 - pkg:cargo/quarb-relational@0.53.0
+- pkg:cargo/quarb-relational@0.54.0
 - pkg:cargo/quarb-relational@0.6.0
 - pkg:cargo/quarb-relational@0.7.0
 - pkg:cargo/quarb-relational@0.8.0
