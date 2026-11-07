@@ -6,3 +6,4 @@
 - pkg:cargo/vix-test-runner@1.7.0
 - pkg:cargo/vix-test-runner@1.7.1
 - pkg:cargo/vix-test-runner@1.8.0
+- pkg:cargo/vix-test-runner@2.0.0
