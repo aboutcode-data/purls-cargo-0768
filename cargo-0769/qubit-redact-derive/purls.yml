@@ -1,4 +1,5 @@
 - pkg:cargo/qubit-redact-derive@0.10.0
+- pkg:cargo/qubit-redact-derive@0.10.1
 - pkg:cargo/qubit-redact-derive@0.3.0
 - pkg:cargo/qubit-redact-derive@0.4.0
 - pkg:cargo/qubit-redact-derive@0.4.1
