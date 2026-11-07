@@ -1,5 +1,6 @@
 - pkg:cargo/vizier-http@0.14.0
 - pkg:cargo/vizier-http@0.14.0-rc.1
 - pkg:cargo/vizier-http@0.14.1
+- pkg:cargo/vizier-http@0.15.0
 - pkg:cargo/vizier-http@0.15.0-rc.3
 - pkg:cargo/vizier-http@0.15.0-rc.4
