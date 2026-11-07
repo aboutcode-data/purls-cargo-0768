@@ -21,3 +21,4 @@
 - pkg:cargo/kellnr-storage@6.5.2
 - pkg:cargo/kellnr-storage@6.5.3
 - pkg:cargo/kellnr-storage@6.6.0
+- pkg:cargo/kellnr-storage@7.0.0

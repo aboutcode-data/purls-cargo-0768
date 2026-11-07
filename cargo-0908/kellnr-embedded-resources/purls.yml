@@ -21,3 +21,4 @@
 - pkg:cargo/kellnr-embedded-resources@6.5.2
 - pkg:cargo/kellnr-embedded-resources@6.5.3
 - pkg:cargo/kellnr-embedded-resources@6.6.0
+- pkg:cargo/kellnr-embedded-resources@7.0.0
