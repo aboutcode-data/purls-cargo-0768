@@ -244,3 +244,6 @@
 - pkg:cargo/vize_l1_to_l2@0.710.0
 - pkg:cargo/vize_l1_to_l2@0.711.0
 - pkg:cargo/vize_l1_to_l2@0.712.0
+- pkg:cargo/vize_l1_to_l2@0.713.0
+- pkg:cargo/vize_l1_to_l2@0.714.0
+- pkg:cargo/vize_l1_to_l2@0.715.0
