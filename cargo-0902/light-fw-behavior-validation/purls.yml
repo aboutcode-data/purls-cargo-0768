@@ -1,6 +1,7 @@
 - pkg:cargo/light-fw-behavior-validation@0.10.3
 - pkg:cargo/light-fw-behavior-validation@0.13.0
 - pkg:cargo/light-fw-behavior-validation@0.15.0
+- pkg:cargo/light-fw-behavior-validation@0.15.1
 - pkg:cargo/light-fw-behavior-validation@0.4.0
 - pkg:cargo/light-fw-behavior-validation@0.5.0
 - pkg:cargo/light-fw-behavior-validation@0.6.0
