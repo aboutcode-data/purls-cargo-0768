@@ -204,6 +204,7 @@
 - pkg:cargo/derive_atom_set@0.0.36-canary.ce59ba0eaa
 - pkg:cargo/derive_atom_set@0.0.36-canary.deec89d769
 - pkg:cargo/derive_atom_set@0.0.36-canary.f8a66bb8f5
+- pkg:cargo/derive_atom_set@0.0.37
 - pkg:cargo/derive_atom_set@0.0.37-canary.0dd4c5f734
 - pkg:cargo/derive_atom_set@0.0.37-canary.5608dce908
 - pkg:cargo/derive_atom_set@0.0.37-canary.6723d755df
@@ -214,6 +215,9 @@
 - pkg:cargo/derive_atom_set@0.0.37-canary.d31c7f84be
 - pkg:cargo/derive_atom_set@0.0.37-canary.edf34f2724
 - pkg:cargo/derive_atom_set@0.0.37-canary.fe6118c6e9
+- pkg:cargo/derive_atom_set@0.0.38
+- pkg:cargo/derive_atom_set@0.0.38-canary.0b5d777df3
+- pkg:cargo/derive_atom_set@0.0.39-canary.b4b981a118
 - pkg:cargo/derive_atom_set@0.0.4
 - pkg:cargo/derive_atom_set@0.0.4-canary.08f0b644aed15aa052031a4965cd5c0f01f6e858
 - pkg:cargo/derive_atom_set@0.0.4-canary.1177904fa5415e929fdeb309e6d8371bac176394
