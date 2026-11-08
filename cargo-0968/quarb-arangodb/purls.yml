@@ -46,4 +46,5 @@
 - pkg:cargo/quarb-arangodb@0.52.0
 - pkg:cargo/quarb-arangodb@0.53.0
 - pkg:cargo/quarb-arangodb@0.54.0
+- pkg:cargo/quarb-arangodb@0.55.0
 - pkg:cargo/quarb-arangodb@0.9.0
