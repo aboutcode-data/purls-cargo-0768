@@ -52,6 +52,7 @@
 - pkg:cargo/quarb-toml@0.52.0
 - pkg:cargo/quarb-toml@0.53.0
 - pkg:cargo/quarb-toml@0.54.0
+- pkg:cargo/quarb-toml@0.55.0
 - pkg:cargo/quarb-toml@0.6.0
 - pkg:cargo/quarb-toml@0.7.0
 - pkg:cargo/quarb-toml@0.8.0
