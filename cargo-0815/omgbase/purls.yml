@@ -30,6 +30,7 @@
 - pkg:cargo/omgbase@0.31.3
 - pkg:cargo/omgbase@0.31.4
 - pkg:cargo/omgbase@0.31.5
+- pkg:cargo/omgbase@0.31.6
 - pkg:cargo/omgbase@0.4.0
 - pkg:cargo/omgbase@0.4.1
 - pkg:cargo/omgbase@0.5.0
