@@ -8,3 +8,4 @@
 - pkg:cargo/asnkit-gen-rust@2.0.0-rc4
 - pkg:cargo/asnkit-gen-rust@2.0.0-rc5
 - pkg:cargo/asnkit-gen-rust@2.0.0-rc6
+- pkg:cargo/asnkit-gen-rust@2.0.0-rc7
