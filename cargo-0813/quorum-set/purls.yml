@@ -9,3 +9,4 @@
 - pkg:cargo/quorum-set@0.5.0
 - pkg:cargo/quorum-set@0.6.0
 - pkg:cargo/quorum-set@0.6.1
+- pkg:cargo/quorum-set@0.6.2
