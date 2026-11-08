@@ -86,6 +86,7 @@
 - pkg:cargo/assay-lua@0.20.19
 - pkg:cargo/assay-lua@0.20.2
 - pkg:cargo/assay-lua@0.20.20
+- pkg:cargo/assay-lua@0.20.21
 - pkg:cargo/assay-lua@0.20.3
 - pkg:cargo/assay-lua@0.20.4
 - pkg:cargo/assay-lua@0.20.5
