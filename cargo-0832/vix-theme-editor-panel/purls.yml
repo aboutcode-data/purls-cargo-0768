@@ -2,3 +2,5 @@
 - pkg:cargo/vix-theme-editor-panel@1.7.1
 - pkg:cargo/vix-theme-editor-panel@1.8.0
 - pkg:cargo/vix-theme-editor-panel@2.0.0
+- pkg:cargo/vix-theme-editor-panel@2.0.1
+- pkg:cargo/vix-theme-editor-panel@2.0.2

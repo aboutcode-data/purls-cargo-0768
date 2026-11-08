@@ -6,3 +6,5 @@
 - pkg:cargo/vix-editor@1.7.1
 - pkg:cargo/vix-editor@1.8.0
 - pkg:cargo/vix-editor@2.0.0
+- pkg:cargo/vix-editor@2.0.1
+- pkg:cargo/vix-editor@2.0.2
