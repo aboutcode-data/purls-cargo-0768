@@ -53,6 +53,7 @@
 - pkg:cargo/quarb-fs@0.53.0
 - pkg:cargo/quarb-fs@0.54.0
 - pkg:cargo/quarb-fs@0.55.0
+- pkg:cargo/quarb-fs@0.56.0
 - pkg:cargo/quarb-fs@0.6.0
 - pkg:cargo/quarb-fs@0.7.0
 - pkg:cargo/quarb-fs@0.8.0

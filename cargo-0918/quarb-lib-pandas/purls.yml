@@ -19,3 +19,4 @@
 - pkg:cargo/quarb-lib-pandas@0.53.0
 - pkg:cargo/quarb-lib-pandas@0.54.0
 - pkg:cargo/quarb-lib-pandas@0.55.0
+- pkg:cargo/quarb-lib-pandas@0.56.0
