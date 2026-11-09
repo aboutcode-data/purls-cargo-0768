@@ -25,3 +25,4 @@
 - pkg:cargo/gfa-to-tabix@2.3.0
 - pkg:cargo/gfa-to-tabix@2.4.0
 - pkg:cargo/gfa-to-tabix@3.0.0
+- pkg:cargo/gfa-to-tabix@4.0.0
