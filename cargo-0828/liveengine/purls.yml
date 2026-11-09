@@ -4,3 +4,4 @@
 - pkg:cargo/liveengine@0.2.3
 - pkg:cargo/liveengine@0.2.4
 - pkg:cargo/liveengine@0.3.0
+- pkg:cargo/liveengine@0.4.0
