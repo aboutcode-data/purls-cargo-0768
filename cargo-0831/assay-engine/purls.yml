@@ -24,6 +24,7 @@
 - pkg:cargo/assay-engine@0.5.2
 - pkg:cargo/assay-engine@0.5.20
 - pkg:cargo/assay-engine@0.5.21
+- pkg:cargo/assay-engine@0.5.22
 - pkg:cargo/assay-engine@0.5.3
 - pkg:cargo/assay-engine@0.5.4
 - pkg:cargo/assay-engine@0.5.5
