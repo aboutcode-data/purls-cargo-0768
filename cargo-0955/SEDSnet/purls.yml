@@ -53,6 +53,8 @@
 - pkg:cargo/SEDSnet@4.3.10
 - pkg:cargo/SEDSnet@4.3.11
 - pkg:cargo/SEDSnet@4.3.12
+- pkg:cargo/SEDSnet@4.3.13
+- pkg:cargo/SEDSnet@4.3.14
 - pkg:cargo/SEDSnet@4.3.2
 - pkg:cargo/SEDSnet@4.3.3
 - pkg:cargo/SEDSnet@4.3.4
