@@ -4,3 +4,4 @@
 - pkg:cargo/libyang@2.0.1
 - pkg:cargo/libyang@2.1.0
 - pkg:cargo/libyang@2.2.0
+- pkg:cargo/libyang@2.3.0
