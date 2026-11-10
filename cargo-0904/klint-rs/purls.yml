@@ -3,3 +3,5 @@
 - pkg:cargo/klint-rs@0.35.1
 - pkg:cargo/klint-rs@0.35.2
 - pkg:cargo/klint-rs@0.36.0
+- pkg:cargo/klint-rs@0.37.0
+- pkg:cargo/klint-rs@0.37.1
