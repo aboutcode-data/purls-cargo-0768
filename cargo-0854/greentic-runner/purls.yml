@@ -370,6 +370,10 @@
 - pkg:cargo/greentic-runner@1.2.0-dev.42209635184
 - pkg:cargo/greentic-runner@1.2.0-dev.42363298378
 - pkg:cargo/greentic-runner@1.2.0-dev.42465338271
+- pkg:cargo/greentic-runner@1.2.0-dev.42620639979
+- pkg:cargo/greentic-runner@1.2.0-dev.42784265774
+- pkg:cargo/greentic-runner@1.2.0-dev.42798052506
+- pkg:cargo/greentic-runner@1.2.0-dev.42816706128
 - pkg:cargo/greentic-runner@1.2.0-research
 - pkg:cargo/greentic-runner@1.2.1
 - pkg:cargo/greentic-runner@1.2.2
