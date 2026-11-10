@@ -38,3 +38,4 @@
 - pkg:cargo/quarb-lsp@0.55.0
 - pkg:cargo/quarb-lsp@0.56.0
 - pkg:cargo/quarb-lsp@0.57.0
+- pkg:cargo/quarb-lsp@0.58.0
