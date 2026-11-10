@@ -7,6 +7,7 @@
 - pkg:cargo/axess-clock@0.16.0
 - pkg:cargo/axess-clock@0.17.0
 - pkg:cargo/axess-clock@0.18.0
+- pkg:cargo/axess-clock@0.19.0
 - pkg:cargo/axess-clock@0.2.0
 - pkg:cargo/axess-clock@0.2.2
 - pkg:cargo/axess-clock@0.3.0
