@@ -20,6 +20,7 @@
 - pkg:cargo/secs-service@0.21.0
 - pkg:cargo/secs-service@0.22.0
 - pkg:cargo/secs-service@0.23.0
+- pkg:cargo/secs-service@0.23.1
 - pkg:cargo/secs-service@0.3.0
 - pkg:cargo/secs-service@0.4.0
 - pkg:cargo/secs-service@0.4.1
