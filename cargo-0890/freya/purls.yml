@@ -68,3 +68,4 @@
 - pkg:cargo/freya@0.5.0-rc.7
 - pkg:cargo/freya@0.5.0-rc.8
 - pkg:cargo/freya@0.5.0-rc.9
+- pkg:cargo/freya@0.5.1
