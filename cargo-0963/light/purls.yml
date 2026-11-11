@@ -8,6 +8,9 @@
 - pkg:cargo/light@0.16.2
 - pkg:cargo/light@0.16.3
 - pkg:cargo/light@0.17.0
+- pkg:cargo/light@0.17.1
+- pkg:cargo/light@0.17.2
+- pkg:cargo/light@0.17.3
 - pkg:cargo/light@0.4.0
 - pkg:cargo/light@0.5.0
 - pkg:cargo/light@0.6.0
