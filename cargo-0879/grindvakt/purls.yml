@@ -1,6 +1,7 @@
 - pkg:cargo/grindvakt@0.1.0
 - pkg:cargo/grindvakt@0.10.0
 - pkg:cargo/grindvakt@0.11.0
+- pkg:cargo/grindvakt@0.12.0
 - pkg:cargo/grindvakt@0.2.0
 - pkg:cargo/grindvakt@0.3.0
 - pkg:cargo/grindvakt@0.3.1
