@@ -1,5 +1,6 @@
 - pkg:cargo/lighty-event@0.8.2
 - pkg:cargo/lighty-event@0.8.6
+- pkg:cargo/lighty-event@26.11.0
 - pkg:cargo/lighty-event@26.5.1
 - pkg:cargo/lighty-event@26.5.10
 - pkg:cargo/lighty-event@26.5.11
