@@ -13,3 +13,4 @@
 - pkg:cargo/sem-cloud-client@0.28.3
 - pkg:cargo/sem-cloud-client@0.29.0
 - pkg:cargo/sem-cloud-client@0.30.0
+- pkg:cargo/sem-cloud-client@0.30.1
