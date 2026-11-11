@@ -21,6 +21,8 @@
 - pkg:cargo/secs-dsp@0.22.0
 - pkg:cargo/secs-dsp@0.23.0
 - pkg:cargo/secs-dsp@0.23.1
+- pkg:cargo/secs-dsp@0.23.2
+- pkg:cargo/secs-dsp@0.23.3
 - pkg:cargo/secs-dsp@0.3.0
 - pkg:cargo/secs-dsp@0.4.0
 - pkg:cargo/secs-dsp@0.4.1
