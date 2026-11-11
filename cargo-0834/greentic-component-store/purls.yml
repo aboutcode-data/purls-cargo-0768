@@ -182,6 +182,9 @@
 - pkg:cargo/greentic-component-store@1.2.0-dev.42361940204
 - pkg:cargo/greentic-component-store@1.2.0-dev.42463849617
 - pkg:cargo/greentic-component-store@1.2.0-dev.42782059374
+- pkg:cargo/greentic-component-store@1.2.0-dev.42990214374
+- pkg:cargo/greentic-component-store@1.2.0-dev.43009611817
+- pkg:cargo/greentic-component-store@1.2.0-dev.43016009049
 - pkg:cargo/greentic-component-store@1.2.0-research.0
 - pkg:cargo/greentic-component-store@1.2.0-research.1
 - pkg:cargo/greentic-component-store@1.2.0-research.2
