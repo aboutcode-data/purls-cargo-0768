@@ -32,3 +32,4 @@
 - pkg:cargo/lightning-custom-message@0.3.0-rc1
 - pkg:cargo/lightning-custom-message@0.3.0-rc2
 - pkg:cargo/lightning-custom-message@0.3.0-rc3
+- pkg:cargo/lightning-custom-message@0.3.0-rc4
