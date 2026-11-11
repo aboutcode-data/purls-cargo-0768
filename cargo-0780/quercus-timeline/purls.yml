@@ -1,3 +1,4 @@
 - pkg:cargo/quercus-timeline@0.5.2
 - pkg:cargo/quercus-timeline@0.6.0
 - pkg:cargo/quercus-timeline@0.7.0
+- pkg:cargo/quercus-timeline@0.7.1
