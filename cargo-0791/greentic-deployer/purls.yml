@@ -488,4 +488,6 @@
 - pkg:cargo/greentic-deployer@1.2.0-dev.42784050111
 - pkg:cargo/greentic-deployer@1.2.0-dev.42793375034
 - pkg:cargo/greentic-deployer@1.2.0-dev.42816186846
+- pkg:cargo/greentic-deployer@1.2.0-dev.42992768159
+- pkg:cargo/greentic-deployer@1.2.0-dev.43011886348
 - pkg:cargo/greentic-deployer@1.3.0-research.0
