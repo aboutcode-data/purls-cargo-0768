@@ -61,6 +61,7 @@
 - pkg:cargo/ggplot-rs@0.41.0
 - pkg:cargo/ggplot-rs@0.42.0
 - pkg:cargo/ggplot-rs@0.42.1
+- pkg:cargo/ggplot-rs@0.42.2
 - pkg:cargo/ggplot-rs@0.5.0
 - pkg:cargo/ggplot-rs@0.6.0
 - pkg:cargo/ggplot-rs@0.7.0
