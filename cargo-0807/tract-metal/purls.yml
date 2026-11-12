@@ -7,6 +7,7 @@
 - pkg:cargo/tract-metal@0.21.16
 - pkg:cargo/tract-metal@0.21.17
 - pkg:cargo/tract-metal@0.21.18
+- pkg:cargo/tract-metal@0.21.19
 - pkg:cargo/tract-metal@0.21.7
 - pkg:cargo/tract-metal@0.21.8
 - pkg:cargo/tract-metal@0.21.9
@@ -15,6 +16,7 @@
 - pkg:cargo/tract-metal@0.22.2
 - pkg:cargo/tract-metal@0.22.3
 - pkg:cargo/tract-metal@0.22.4
+- pkg:cargo/tract-metal@0.22.5
 - pkg:cargo/tract-metal@0.23.0
 - pkg:cargo/tract-metal@0.23.0-dev.1
 - pkg:cargo/tract-metal@0.23.0-dev.2
@@ -23,6 +25,7 @@
 - pkg:cargo/tract-metal@0.23.0-dev.5
 - pkg:cargo/tract-metal@0.23.0-dev.6
 - pkg:cargo/tract-metal@0.23.1
+- pkg:cargo/tract-metal@0.23.10
 - pkg:cargo/tract-metal@0.23.2
 - pkg:cargo/tract-metal@0.23.3
 - pkg:cargo/tract-metal@0.23.4
@@ -30,3 +33,4 @@
 - pkg:cargo/tract-metal@0.23.6
 - pkg:cargo/tract-metal@0.23.7
 - pkg:cargo/tract-metal@0.23.8
+- pkg:cargo/tract-metal@0.23.9
