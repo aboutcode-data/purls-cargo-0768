@@ -1,5 +1,14 @@
 - pkg:cargo/draupnir@0.1.1
+- pkg:cargo/draupnir@0.1.10
+- pkg:cargo/draupnir@0.1.11
+- pkg:cargo/draupnir@0.1.12
+- pkg:cargo/draupnir@0.1.13
+- pkg:cargo/draupnir@0.1.14
 - pkg:cargo/draupnir@0.1.2
 - pkg:cargo/draupnir@0.1.3
 - pkg:cargo/draupnir@0.1.5
 - pkg:cargo/draupnir@0.1.8
+- pkg:cargo/draupnir@0.1.9
+- pkg:cargo/draupnir@0.2.0
+- pkg:cargo/draupnir@0.3.0
+- pkg:cargo/draupnir@0.3.1
