@@ -3,3 +3,5 @@
 - pkg:cargo/spark-serial@0.1.4
 - pkg:cargo/spark-serial@0.1.6
 - pkg:cargo/spark-serial@0.1.7
+- pkg:cargo/spark-serial@0.1.8
+- pkg:cargo/spark-serial@0.1.9
