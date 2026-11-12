@@ -3,3 +3,6 @@
 - pkg:cargo/matrix-sdk-test-utils@0.16.0
 - pkg:cargo/matrix-sdk-test-utils@0.16.1
 - pkg:cargo/matrix-sdk-test-utils@0.17.0
+- pkg:cargo/matrix-sdk-test-utils@0.18.0
+- pkg:cargo/matrix-sdk-test-utils@0.19.0
+- pkg:cargo/matrix-sdk-test-utils@0.19.1
