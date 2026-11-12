@@ -20,4 +20,12 @@
 - pkg:cargo/smolmachines@1.27.0
 - pkg:cargo/smolmachines@1.27.2
 - pkg:cargo/smolmachines@1.27.3
+- pkg:cargo/smolmachines@1.28.1
+- pkg:cargo/smolmachines@1.29.0
+- pkg:cargo/smolmachines@1.29.1
+- pkg:cargo/smolmachines@1.31.0
+- pkg:cargo/smolmachines@1.31.5
+- pkg:cargo/smolmachines@1.32.2
+- pkg:cargo/smolmachines@1.32.3
+- pkg:cargo/smolmachines@1.32.4
 - pkg:cargo/smolmachines@1.9.0
