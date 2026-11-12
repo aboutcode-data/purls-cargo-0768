@@ -11,3 +11,4 @@
 - pkg:cargo/bdk_electrum_streaming@0.5.5
 - pkg:cargo/bdk_electrum_streaming@0.6.0
 - pkg:cargo/bdk_electrum_streaming@0.7.0
+- pkg:cargo/bdk_electrum_streaming@0.8.0
