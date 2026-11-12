@@ -11,3 +11,5 @@
 - pkg:cargo/concordium-cis2@6.1.0
 - pkg:cargo/concordium-cis2@6.2.0
 - pkg:cargo/concordium-cis2@6.2.1-alpha.1
+- pkg:cargo/concordium-cis2@7.0.0
+- pkg:cargo/concordium-cis2@7.0.1

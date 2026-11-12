@@ -8,3 +8,4 @@
 - pkg:cargo/concordium-smart-contract-testing@4.2.0
 - pkg:cargo/concordium-smart-contract-testing@4.3.0
 - pkg:cargo/concordium-smart-contract-testing@4.4.0
+- pkg:cargo/concordium-smart-contract-testing@5.0.0
