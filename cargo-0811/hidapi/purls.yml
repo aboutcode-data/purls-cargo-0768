@@ -52,3 +52,4 @@
 - pkg:cargo/hidapi@2.6.4
 - pkg:cargo/hidapi@2.6.5
 - pkg:cargo/hidapi@2.6.6
+- pkg:cargo/hidapi@2.6.7
