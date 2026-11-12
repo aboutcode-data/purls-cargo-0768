@@ -6,3 +6,6 @@
 - pkg:cargo/mantra-lang-tracing@0.6.1
 - pkg:cargo/mantra-lang-tracing@0.7.0
 - pkg:cargo/mantra-lang-tracing@0.7.8
+- pkg:cargo/mantra-lang-tracing@0.8.0
+- pkg:cargo/mantra-lang-tracing@0.8.0-rc1
+- pkg:cargo/mantra-lang-tracing@0.9.0
