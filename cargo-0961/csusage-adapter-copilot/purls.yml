@@ -13,6 +13,14 @@
 - pkg:cargo/csusage-adapter-copilot@0.0.2
 - pkg:cargo/csusage-adapter-copilot@0.0.20
 - pkg:cargo/csusage-adapter-copilot@0.0.21
+- pkg:cargo/csusage-adapter-copilot@0.0.22
+- pkg:cargo/csusage-adapter-copilot@0.0.23
+- pkg:cargo/csusage-adapter-copilot@0.0.24
+- pkg:cargo/csusage-adapter-copilot@0.0.25
+- pkg:cargo/csusage-adapter-copilot@0.0.26
+- pkg:cargo/csusage-adapter-copilot@0.0.27
+- pkg:cargo/csusage-adapter-copilot@0.0.28
+- pkg:cargo/csusage-adapter-copilot@0.0.29
 - pkg:cargo/csusage-adapter-copilot@0.0.3
 - pkg:cargo/csusage-adapter-copilot@0.0.4
 - pkg:cargo/csusage-adapter-copilot@0.0.5
