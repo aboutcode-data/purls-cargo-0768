@@ -26,7 +26,10 @@
 - pkg:cargo/sdl3-src@3.4.10
 - pkg:cargo/sdl3-src@3.4.12
 - pkg:cargo/sdl3-src@3.4.14
+- pkg:cargo/sdl3-src@3.4.16
+- pkg:cargo/sdl3-src@3.4.18
 - pkg:cargo/sdl3-src@3.4.2
+- pkg:cargo/sdl3-src@3.4.20
 - pkg:cargo/sdl3-src@3.4.4
 - pkg:cargo/sdl3-src@3.4.6
 - pkg:cargo/sdl3-src@3.4.8
