@@ -10,3 +10,4 @@
 - pkg:cargo/djangors-i18n@0.6.2
 - pkg:cargo/djangors-i18n@0.6.3
 - pkg:cargo/djangors-i18n@0.7.0
+- pkg:cargo/djangors-i18n@0.8.0
