@@ -72,6 +72,8 @@
 - pkg:cargo/zarrs@0.23.10
 - pkg:cargo/zarrs@0.23.11
 - pkg:cargo/zarrs@0.23.12
+- pkg:cargo/zarrs@0.23.13
+- pkg:cargo/zarrs@0.23.14
 - pkg:cargo/zarrs@0.23.2
 - pkg:cargo/zarrs@0.23.3
 - pkg:cargo/zarrs@0.23.4
