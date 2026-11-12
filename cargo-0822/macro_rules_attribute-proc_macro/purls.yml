@@ -16,3 +16,4 @@
 - pkg:cargo/macro_rules_attribute-proc_macro@0.2.1-rc2
 - pkg:cargo/macro_rules_attribute-proc_macro@0.2.2
 - pkg:cargo/macro_rules_attribute-proc_macro@0.2.2-rc1
+- pkg:cargo/macro_rules_attribute-proc_macro@0.2.3
