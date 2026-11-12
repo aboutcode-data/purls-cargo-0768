@@ -1,1 +1,4 @@
 - pkg:cargo/rm2k-lib@1.0.0
+- pkg:cargo/rm2k-lib@1.0.1
+- pkg:cargo/rm2k-lib@1.1.0
+- pkg:cargo/rm2k-lib@1.2.0
