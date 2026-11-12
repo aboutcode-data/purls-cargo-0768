@@ -12,6 +12,8 @@
 - pkg:cargo/ai-agents-process@1.0.0-rc.8
 - pkg:cargo/ai-agents-process@1.0.0-rc.9
 - pkg:cargo/ai-agents-process@1.0.1
+- pkg:cargo/ai-agents-process@1.0.10
+- pkg:cargo/ai-agents-process@1.0.11
 - pkg:cargo/ai-agents-process@1.0.2
 - pkg:cargo/ai-agents-process@1.0.3
 - pkg:cargo/ai-agents-process@1.0.4
@@ -19,3 +21,7 @@
 - pkg:cargo/ai-agents-process@1.0.6
 - pkg:cargo/ai-agents-process@1.0.7
 - pkg:cargo/ai-agents-process@1.0.8
+- pkg:cargo/ai-agents-process@1.0.9
+- pkg:cargo/ai-agents-process@1.1.0
+- pkg:cargo/ai-agents-process@1.1.1
+- pkg:cargo/ai-agents-process@1.1.2
