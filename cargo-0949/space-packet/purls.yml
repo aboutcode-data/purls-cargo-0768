@@ -10,3 +10,8 @@
 - pkg:cargo/space-packet@2.0.0
 - pkg:cargo/space-packet@2.0.1
 - pkg:cargo/space-packet@2.1.0
+- pkg:cargo/space-packet@2.2.0
+- pkg:cargo/space-packet@2.2.1
+- pkg:cargo/space-packet@2.3.1
+- pkg:cargo/space-packet@2.3.2
+- pkg:cargo/space-packet@3.0.0

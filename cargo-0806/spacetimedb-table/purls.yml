@@ -18,3 +18,8 @@
 - pkg:cargo/spacetimedb-table@1.1.2
 - pkg:cargo/spacetimedb-table@1.2.0
 - pkg:cargo/spacetimedb-table@1.3.0
+- pkg:cargo/spacetimedb-table@2.12.0
+- pkg:cargo/spacetimedb-table@2.13.0
+- pkg:cargo/spacetimedb-table@2.14.0
+- pkg:cargo/spacetimedb-table@2.14.1
+- pkg:cargo/spacetimedb-table@2.15.0
