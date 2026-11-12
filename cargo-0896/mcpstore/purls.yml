@@ -1,1 +1,9 @@
 - pkg:cargo/mcpstore@0.1.1
+- pkg:cargo/mcpstore@2.0.7
+- pkg:cargo/mcpstore@2.0.9
+- pkg:cargo/mcpstore@2.1.0
+- pkg:cargo/mcpstore@2.1.1
+- pkg:cargo/mcpstore@2.1.2
+- pkg:cargo/mcpstore@2.2.0
+- pkg:cargo/mcpstore@2.2.1
+- pkg:cargo/mcpstore@2.3.0
