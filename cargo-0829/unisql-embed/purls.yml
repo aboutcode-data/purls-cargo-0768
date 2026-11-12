@@ -1,0 +1,13 @@
+- pkg:cargo/unisql-embed@0.0.0
+- pkg:cargo/unisql-embed@0.24.13
+- pkg:cargo/unisql-embed@0.24.14
+- pkg:cargo/unisql-embed@0.24.17
+- pkg:cargo/unisql-embed@0.25.1
+- pkg:cargo/unisql-embed@0.25.10
+- pkg:cargo/unisql-embed@0.25.8
+- pkg:cargo/unisql-embed@0.25.9
+- pkg:cargo/unisql-embed@0.26.0
+- pkg:cargo/unisql-embed@0.27.0
+- pkg:cargo/unisql-embed@0.27.10
+- pkg:cargo/unisql-embed@0.27.8
+- pkg:cargo/unisql-embed@0.27.9

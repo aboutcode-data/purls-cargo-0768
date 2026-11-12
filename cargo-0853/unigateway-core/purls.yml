@@ -29,6 +29,7 @@
 - pkg:cargo/unigateway-core@2.14.2
 - pkg:cargo/unigateway-core@2.15.0
 - pkg:cargo/unigateway-core@2.15.1
+- pkg:cargo/unigateway-core@2.16.0
 - pkg:cargo/unigateway-core@2.2.0
 - pkg:cargo/unigateway-core@2.3.0
 - pkg:cargo/unigateway-core@2.3.1
