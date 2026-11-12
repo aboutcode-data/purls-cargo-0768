@@ -39,3 +39,4 @@
 - pkg:cargo/mavspec@0.6.5
 - pkg:cargo/mavspec@0.6.6
 - pkg:cargo/mavspec@0.6.7
+- pkg:cargo/mavspec@0.7.0-rc.1
