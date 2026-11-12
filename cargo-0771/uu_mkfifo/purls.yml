@@ -27,6 +27,9 @@
 - pkg:cargo/uu_mkfifo@0.0.8
 - pkg:cargo/uu_mkfifo@0.0.9
 - pkg:cargo/uu_mkfifo@0.1.0
+- pkg:cargo/uu_mkfifo@0.10.0
+- pkg:cargo/uu_mkfifo@0.11.0
+- pkg:cargo/uu_mkfifo@0.12.0
 - pkg:cargo/uu_mkfifo@0.2.0
 - pkg:cargo/uu_mkfifo@0.2.2
 - pkg:cargo/uu_mkfifo@0.3.0
