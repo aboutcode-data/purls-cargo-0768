@@ -10,3 +10,5 @@
 - pkg:cargo/csheap@0.1.7
 - pkg:cargo/csheap@0.1.8
 - pkg:cargo/csheap@0.1.9
+- pkg:cargo/csheap@1.0.0
+- pkg:cargo/csheap@2.0.0
