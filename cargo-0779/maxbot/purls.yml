@@ -32,3 +32,11 @@
 - pkg:cargo/maxbot@0.7.4
 - pkg:cargo/maxbot@0.7.5
 - pkg:cargo/maxbot@0.7.6
+- pkg:cargo/maxbot@1.0.0
+- pkg:cargo/maxbot@2.0.0
+- pkg:cargo/maxbot@2.0.1
+- pkg:cargo/maxbot@2.1.0
+- pkg:cargo/maxbot@2.1.1
+- pkg:cargo/maxbot@3.0.0
+- pkg:cargo/maxbot@4.0.0
+- pkg:cargo/maxbot@5.0.0

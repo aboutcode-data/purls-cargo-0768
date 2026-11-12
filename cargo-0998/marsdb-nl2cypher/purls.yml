@@ -1,0 +1,5 @@
+- pkg:cargo/marsdb-nl2cypher@0.10.0
+- pkg:cargo/marsdb-nl2cypher@0.7.1
+- pkg:cargo/marsdb-nl2cypher@0.8.0
+- pkg:cargo/marsdb-nl2cypher@0.9.0
+- pkg:cargo/marsdb-nl2cypher@0.9.1
