@@ -5,3 +5,11 @@
 - pkg:cargo/llm-git@3.0.0
 - pkg:cargo/llm-git@3.1.0
 - pkg:cargo/llm-git@3.2.0
+- pkg:cargo/llm-git@3.3.0
+- pkg:cargo/llm-git@3.3.1
+- pkg:cargo/llm-git@3.4.0
+- pkg:cargo/llm-git@3.4.1
+- pkg:cargo/llm-git@3.4.2
+- pkg:cargo/llm-git@3.5.0
+- pkg:cargo/llm-git@3.6.0
+- pkg:cargo/llm-git@3.7.0
