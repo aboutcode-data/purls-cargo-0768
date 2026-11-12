@@ -17,6 +17,12 @@
 - pkg:cargo/trust-registry@0.23.0
 - pkg:cargo/trust-registry@0.24.0
 - pkg:cargo/trust-registry@0.25.0
+- pkg:cargo/trust-registry@0.26.0
+- pkg:cargo/trust-registry@0.27.0
+- pkg:cargo/trust-registry@0.28.0
+- pkg:cargo/trust-registry@0.29.0
+- pkg:cargo/trust-registry@0.30.0
+- pkg:cargo/trust-registry@0.31.0
 - pkg:cargo/trust-registry@0.4.0
 - pkg:cargo/trust-registry@0.5.0
 - pkg:cargo/trust-registry@0.6.0
