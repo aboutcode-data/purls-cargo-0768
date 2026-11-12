@@ -1,1 +1,5 @@
 - pkg:cargo/wgpu-font-renderer@0.1.0
+- pkg:cargo/wgpu-font-renderer@0.2.0
+- pkg:cargo/wgpu-font-renderer@0.2.1
+- pkg:cargo/wgpu-font-renderer@1.0.0
+- pkg:cargo/wgpu-font-renderer@1.1.0

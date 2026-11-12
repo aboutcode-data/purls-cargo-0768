@@ -5,3 +5,6 @@
 - pkg:cargo/wgpu-core-deps-wasm@29.0.0
 - pkg:cargo/wgpu-core-deps-wasm@29.0.2
 - pkg:cargo/wgpu-core-deps-wasm@29.0.3
+- pkg:cargo/wgpu-core-deps-wasm@29.0.4
+- pkg:cargo/wgpu-core-deps-wasm@30.0.0
+- pkg:cargo/wgpu-core-deps-wasm@30.0.1
