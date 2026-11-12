@@ -2,6 +2,7 @@
 - pkg:cargo/mc-sgx-tservice@0.10.1
 - pkg:cargo/mc-sgx-tservice@0.11.0
 - pkg:cargo/mc-sgx-tservice@0.12.0
+- pkg:cargo/mc-sgx-tservice@0.14.0
 - pkg:cargo/mc-sgx-tservice@0.2.0
 - pkg:cargo/mc-sgx-tservice@0.2.1
 - pkg:cargo/mc-sgx-tservice@0.3.0
