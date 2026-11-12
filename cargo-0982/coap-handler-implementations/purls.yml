@@ -27,3 +27,5 @@
 - pkg:cargo/coap-handler-implementations@0.6.0-alpha.1
 - pkg:cargo/coap-handler-implementations@0.6.1
 - pkg:cargo/coap-handler-implementations@0.6.2
+- pkg:cargo/coap-handler-implementations@0.6.3
+- pkg:cargo/coap-handler-implementations@0.6.4
