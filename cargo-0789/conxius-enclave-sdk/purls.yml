@@ -2,3 +2,4 @@
 - pkg:cargo/conxius-enclave-sdk@2.0.16
 - pkg:cargo/conxius-enclave-sdk@2.0.17
 - pkg:cargo/conxius-enclave-sdk@2.0.9
+- pkg:cargo/conxius-enclave-sdk@2.1.0
