@@ -35,6 +35,7 @@
 - pkg:cargo/smooai-config@6.11.4
 - pkg:cargo/smooai-config@6.11.5
 - pkg:cargo/smooai-config@6.12.1
+- pkg:cargo/smooai-config@6.12.2
 - pkg:cargo/smooai-config@6.3.0
 - pkg:cargo/smooai-config@6.4.0
 - pkg:cargo/smooai-config@6.5.0
