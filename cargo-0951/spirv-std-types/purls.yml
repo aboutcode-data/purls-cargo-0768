@@ -1,4 +1,7 @@
+- pkg:cargo/spirv-std-types@0.10.0
 - pkg:cargo/spirv-std-types@0.10.0-alpha.1
+- pkg:cargo/spirv-std-types@0.10.1
+- pkg:cargo/spirv-std-types@0.11.0
 - pkg:cargo/spirv-std-types@0.4.0
 - pkg:cargo/spirv-std-types@0.4.0-alpha.14
 - pkg:cargo/spirv-std-types@0.4.0-alpha.15
