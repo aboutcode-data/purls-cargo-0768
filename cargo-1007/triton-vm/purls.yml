@@ -68,3 +68,4 @@
 - pkg:cargo/triton-vm@7.0.0
 - pkg:cargo/triton-vm@8.0.0
 - pkg:cargo/triton-vm@9.0.0
+- pkg:cargo/triton-vm@9.0.1
