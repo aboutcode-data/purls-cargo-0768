@@ -24,6 +24,10 @@
 - pkg:cargo/aic-sdk@0.23.0
 - pkg:cargo/aic-sdk@0.23.1
 - pkg:cargo/aic-sdk@0.24.0
+- pkg:cargo/aic-sdk@0.25.0
+- pkg:cargo/aic-sdk@0.25.1
+- pkg:cargo/aic-sdk@0.25.2
+- pkg:cargo/aic-sdk@0.26.0
 - pkg:cargo/aic-sdk@0.6.3
 - pkg:cargo/aic-sdk@0.8.0
 - pkg:cargo/aic-sdk@0.8.1
