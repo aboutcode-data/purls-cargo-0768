@@ -7,3 +7,4 @@
 - pkg:cargo/cow_vec@1.4.0
 - pkg:cargo/cow_vec@1.4.1
 - pkg:cargo/cow_vec@2.0.0
+- pkg:cargo/cow_vec@2.1.0
