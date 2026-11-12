@@ -1,3 +1,5 @@
 - pkg:cargo/mc_protocol_derive@2.0.0
 - pkg:cargo/mc_protocol_derive@2.0.1
 - pkg:cargo/mc_protocol_derive@2.0.2
+- pkg:cargo/mc_protocol_derive@2.0.3
+- pkg:cargo/mc_protocol_derive@2.0.4
