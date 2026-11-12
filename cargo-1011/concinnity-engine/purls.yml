@@ -4,5 +4,9 @@
 - pkg:cargo/concinnity-engine@0.18.69
 - pkg:cargo/concinnity-engine@0.19.0
 - pkg:cargo/concinnity-engine@0.19.1
+- pkg:cargo/concinnity-engine@0.19.119
+- pkg:cargo/concinnity-engine@0.19.16
 - pkg:cargo/concinnity-engine@0.19.2
+- pkg:cargo/concinnity-engine@0.19.23
+- pkg:cargo/concinnity-engine@0.19.53
 - pkg:cargo/concinnity-engine@0.19.9

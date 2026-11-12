@@ -9,3 +9,4 @@
 - pkg:cargo/concordium-smart-contract-engine@5.0.0
 - pkg:cargo/concordium-smart-contract-engine@6.0.0
 - pkg:cargo/concordium-smart-contract-engine@6.1.0
+- pkg:cargo/concordium-smart-contract-engine@7.0.0
