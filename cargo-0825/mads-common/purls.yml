@@ -1,0 +1,9 @@
+- pkg:cargo/mads-common@0.6.0-beta.1
+- pkg:cargo/mads-common@0.7.0
+- pkg:cargo/mads-common@0.7.0-beta.1
+- pkg:cargo/mads-common@0.8.0
+- pkg:cargo/mads-common@0.8.0-beta.1
+- pkg:cargo/mads-common@0.8.1
+- pkg:cargo/mads-common@0.9.0
+- pkg:cargo/mads-common@0.9.1
+- pkg:cargo/mads-common@0.9.2
