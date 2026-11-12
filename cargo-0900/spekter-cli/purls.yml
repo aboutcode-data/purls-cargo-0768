@@ -1,2 +1,5 @@
 - pkg:cargo/spekter-cli@1.0.0
 - pkg:cargo/spekter-cli@1.0.1
+- pkg:cargo/spekter-cli@1.2.2
+- pkg:cargo/spekter-cli@1.2.3
+- pkg:cargo/spekter-cli@1.2.4
