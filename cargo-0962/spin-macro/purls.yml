@@ -11,3 +11,5 @@
 - pkg:cargo/spin-macro@5.1.1
 - pkg:cargo/spin-macro@5.2.0
 - pkg:cargo/spin-macro@6.0.0
+- pkg:cargo/spin-macro@7.0.0
+- pkg:cargo/spin-macro@8.0.0
