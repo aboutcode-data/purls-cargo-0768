@@ -5,3 +5,7 @@
 - pkg:cargo/triplets-offline-embedder@0.27.0-alpha
 - pkg:cargo/triplets-offline-embedder@0.27.1-alpha
 - pkg:cargo/triplets-offline-embedder@0.28.0-alpha
+- pkg:cargo/triplets-offline-embedder@0.29.0-alpha
+- pkg:cargo/triplets-offline-embedder@0.30.0-alpha
+- pkg:cargo/triplets-offline-embedder@0.30.1-alpha
+- pkg:cargo/triplets-offline-embedder@0.31.0-alpha
