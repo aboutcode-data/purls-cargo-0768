@@ -45,6 +45,8 @@
 - pkg:cargo/trillium-client@0.9.18
 - pkg:cargo/trillium-client@0.9.19
 - pkg:cargo/trillium-client@0.9.2
+- pkg:cargo/trillium-client@0.9.20
+- pkg:cargo/trillium-client@0.9.21
 - pkg:cargo/trillium-client@0.9.3
 - pkg:cargo/trillium-client@0.9.4
 - pkg:cargo/trillium-client@0.9.5
