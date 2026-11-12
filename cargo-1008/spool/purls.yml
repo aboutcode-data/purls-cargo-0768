@@ -5,3 +5,4 @@
 - pkg:cargo/spool@1.0.0
 - pkg:cargo/spool@1.1.0
 - pkg:cargo/spool@1.2.0
+- pkg:cargo/spool@2.0.0
