@@ -3,3 +3,5 @@
 - pkg:cargo/tree-sitter-mssql@0.2.0
 - pkg:cargo/tree-sitter-mssql@0.2.1
 - pkg:cargo/tree-sitter-mssql@0.2.2
+- pkg:cargo/tree-sitter-mssql@0.2.3
+- pkg:cargo/tree-sitter-mssql@1.0.0
