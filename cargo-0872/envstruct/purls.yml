@@ -11,3 +11,5 @@
 - pkg:cargo/envstruct@1.1.0
 - pkg:cargo/envstruct@1.2.0
 - pkg:cargo/envstruct@1.3.0
+- pkg:cargo/envstruct@1.3.2
+- pkg:cargo/envstruct@2.0.0
