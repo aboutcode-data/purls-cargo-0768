@@ -3,3 +3,8 @@
 - pkg:cargo/spl-token-2022-interface@2.0.0
 - pkg:cargo/spl-token-2022-interface@2.1.0
 - pkg:cargo/spl-token-2022-interface@3.0.0
+- pkg:cargo/spl-token-2022-interface@3.0.1
+- pkg:cargo/spl-token-2022-interface@3.1.0
+- pkg:cargo/spl-token-2022-interface@3.1.1
+- pkg:cargo/spl-token-2022-interface@3.1.2
+- pkg:cargo/spl-token-2022-interface@4.0.0
