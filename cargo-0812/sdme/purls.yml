@@ -16,6 +16,8 @@
 - pkg:cargo/sdme@0.2.3
 - pkg:cargo/sdme@0.2.4
 - pkg:cargo/sdme@0.2.5
+- pkg:cargo/sdme@0.21.1
+- pkg:cargo/sdme@0.22.0
 - pkg:cargo/sdme@0.3.0
 - pkg:cargo/sdme@0.3.2
 - pkg:cargo/sdme@0.3.3

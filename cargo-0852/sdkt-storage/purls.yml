@@ -2,3 +2,4 @@
 - pkg:cargo/sdkt-storage@2.0.0
 - pkg:cargo/sdkt-storage@2.4.0
 - pkg:cargo/sdkt-storage@2.5.0
+- pkg:cargo/sdkt-storage@2.7.0
