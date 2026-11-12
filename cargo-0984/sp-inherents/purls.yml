@@ -53,6 +53,8 @@
 - pkg:cargo/sp-inherents@40.0.0
 - pkg:cargo/sp-inherents@41.0.0
 - pkg:cargo/sp-inherents@42.0.0
+- pkg:cargo/sp-inherents@43.0.0
+- pkg:cargo/sp-inherents@44.0.0
 - pkg:cargo/sp-inherents@5.0.0
 - pkg:cargo/sp-inherents@6.0.0
 - pkg:cargo/sp-inherents@7.0.0
