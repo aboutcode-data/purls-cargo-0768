@@ -21,3 +21,10 @@
 - pkg:cargo/mahler-core@0.25.7
 - pkg:cargo/mahler-core@0.25.8
 - pkg:cargo/mahler-core@0.25.9
+- pkg:cargo/mahler-core@0.26.0
+- pkg:cargo/mahler-core@0.26.1
+- pkg:cargo/mahler-core@0.27.0
+- pkg:cargo/mahler-core@0.27.1
+- pkg:cargo/mahler-core@0.27.2
+- pkg:cargo/mahler-core@0.27.3
+- pkg:cargo/mahler-core@0.28.0
