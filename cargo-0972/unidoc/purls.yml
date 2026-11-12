@@ -1,4 +1,5 @@
 - pkg:cargo/unidoc@0.1.0
+- pkg:cargo/unidoc@0.10.0
 - pkg:cargo/unidoc@0.4.0
 - pkg:cargo/unidoc@0.6.0
 - pkg:cargo/unidoc@0.7.0
