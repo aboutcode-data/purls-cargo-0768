@@ -18,3 +18,4 @@
 - pkg:cargo/machi@0.7.3
 - pkg:cargo/machi@0.8.0
 - pkg:cargo/machi@0.8.1
+- pkg:cargo/machi@1.0.0
