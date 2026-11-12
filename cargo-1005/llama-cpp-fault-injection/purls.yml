@@ -1,0 +1,2 @@
+- pkg:cargo/llama-cpp-fault-injection@0.28.0
+- pkg:cargo/llama-cpp-fault-injection@0.29.0

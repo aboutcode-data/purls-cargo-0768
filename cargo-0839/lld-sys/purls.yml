@@ -1,2 +1,4 @@
 - pkg:cargo/lld-sys@0.1.0
 - pkg:cargo/lld-sys@1.0.0
+- pkg:cargo/lld-sys@1.2.0
+- pkg:cargo/lld-sys@1.3.0
