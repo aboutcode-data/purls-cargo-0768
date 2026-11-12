@@ -39,3 +39,5 @@
 - pkg:cargo/quarb-lines@0.56.0
 - pkg:cargo/quarb-lines@0.57.0
 - pkg:cargo/quarb-lines@0.58.0
+- pkg:cargo/quarb-lines@0.59.0
+- pkg:cargo/quarb-lines@0.60.0
