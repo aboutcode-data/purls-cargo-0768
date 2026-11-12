@@ -11,6 +11,7 @@
 - pkg:cargo/unicycle@0.10.0
 - pkg:cargo/unicycle@0.10.1
 - pkg:cargo/unicycle@0.10.2
+- pkg:cargo/unicycle@0.10.3
 - pkg:cargo/unicycle@0.2.0
 - pkg:cargo/unicycle@0.2.1
 - pkg:cargo/unicycle@0.2.2
