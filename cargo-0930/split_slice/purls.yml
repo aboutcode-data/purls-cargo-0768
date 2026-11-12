@@ -1,1 +1,2 @@
 - pkg:cargo/split_slice@1.0.0
+- pkg:cargo/split_slice@1.1.0
