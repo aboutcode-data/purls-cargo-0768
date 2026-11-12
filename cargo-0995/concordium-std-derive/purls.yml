@@ -14,3 +14,4 @@
 - pkg:cargo/concordium-std-derive@5.2.0
 - pkg:cargo/concordium-std-derive@6.0.0
 - pkg:cargo/concordium-std-derive@6.0.1-alpha.1
+- pkg:cargo/concordium-std-derive@6.1.0
