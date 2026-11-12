@@ -2,3 +2,4 @@
 - pkg:cargo/greengate@3.0.1
 - pkg:cargo/greengate@3.1.0
 - pkg:cargo/greengate@3.2.0
+- pkg:cargo/greengate@4.0.0
