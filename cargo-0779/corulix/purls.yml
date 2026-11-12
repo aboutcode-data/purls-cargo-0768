@@ -1,1 +1,3 @@
 - pkg:cargo/corulix@0.1.0-alpha.2
+- pkg:cargo/corulix@1.0.0
+- pkg:cargo/corulix@1.1.0
