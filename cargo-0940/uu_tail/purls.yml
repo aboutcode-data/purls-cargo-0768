@@ -27,6 +27,9 @@
 - pkg:cargo/uu_tail@0.0.8
 - pkg:cargo/uu_tail@0.0.9
 - pkg:cargo/uu_tail@0.1.0
+- pkg:cargo/uu_tail@0.10.0
+- pkg:cargo/uu_tail@0.11.0
+- pkg:cargo/uu_tail@0.12.0
 - pkg:cargo/uu_tail@0.2.0
 - pkg:cargo/uu_tail@0.2.2
 - pkg:cargo/uu_tail@0.3.0
