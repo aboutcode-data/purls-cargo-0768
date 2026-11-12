@@ -23,6 +23,8 @@
 - pkg:cargo/engineioxide@0.17.5
 - pkg:cargo/engineioxide@0.17.6
 - pkg:cargo/engineioxide@0.17.7
+- pkg:cargo/engineioxide@0.17.8
+- pkg:cargo/engineioxide@0.17.9
 - pkg:cargo/engineioxide@0.2.0
 - pkg:cargo/engineioxide@0.3.0
 - pkg:cargo/engineioxide@0.4.0
