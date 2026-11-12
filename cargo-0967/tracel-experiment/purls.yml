@@ -1,3 +1,6 @@
 - pkg:cargo/tracel-experiment@0.11.0
+- pkg:cargo/tracel-experiment@0.12.0
+- pkg:cargo/tracel-experiment@0.12.1
+- pkg:cargo/tracel-experiment@0.12.2
 - pkg:cargo/tracel-experiment@0.8.0
 - pkg:cargo/tracel-experiment@0.8.1

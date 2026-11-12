@@ -1,1 +1,3 @@
 - pkg:cargo/tracel-experiment-remote@0.11.0
+- pkg:cargo/tracel-experiment-remote@0.12.0
+- pkg:cargo/tracel-experiment-remote@0.12.2

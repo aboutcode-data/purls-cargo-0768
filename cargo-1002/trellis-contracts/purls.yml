@@ -30,6 +30,8 @@
 - pkg:cargo/trellis-contracts@0.10.9
 - pkg:cargo/trellis-contracts@0.11.0-rc.10
 - pkg:cargo/trellis-contracts@0.11.0-rc.11
+- pkg:cargo/trellis-contracts@0.11.0-rc.12
+- pkg:cargo/trellis-contracts@0.11.0-rc.13
 - pkg:cargo/trellis-contracts@0.11.0-rc.2
 - pkg:cargo/trellis-contracts@0.11.0-rc.3
 - pkg:cargo/trellis-contracts@0.11.0-rc.4

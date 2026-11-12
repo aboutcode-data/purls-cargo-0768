@@ -1,2 +1,11 @@
+- pkg:cargo/trellis-protocol@0.100.0-rc.13
 - pkg:cargo/trellis-protocol@0.100.0-rc.2
+- pkg:cargo/trellis-protocol@0.100.0-rc.26
+- pkg:cargo/trellis-protocol@0.100.0-rc.3
+- pkg:cargo/trellis-protocol@0.100.0-rc.4
+- pkg:cargo/trellis-protocol@0.100.0-rc.5
+- pkg:cargo/trellis-protocol@0.100.0-rc.6
+- pkg:cargo/trellis-protocol@0.100.0-rc.7
+- pkg:cargo/trellis-protocol@0.100.0-rc.8
+- pkg:cargo/trellis-protocol@0.100.0-rc.9
 - pkg:cargo/trellis-protocol@0.12.0
