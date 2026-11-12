@@ -1,2 +1,6 @@
+- pkg:cargo/math-rir@0.5.11
 - pkg:cargo/math-rir@0.5.2
 - pkg:cargo/math-rir@0.5.4
+- pkg:cargo/math-rir@0.5.6
+- pkg:cargo/math-rir@0.5.8
+- pkg:cargo/math-rir@0.5.9
