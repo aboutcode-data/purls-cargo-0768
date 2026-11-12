@@ -3,3 +3,14 @@
 - pkg:cargo/draco-core@1.0.2
 - pkg:cargo/draco-core@1.0.3
 - pkg:cargo/draco-core@1.0.4
+- pkg:cargo/draco-core@1.0.5
+- pkg:cargo/draco-core@1.1.0
+- pkg:cargo/draco-core@1.2.0
+- pkg:cargo/draco-core@2.0.0
+- pkg:cargo/draco-core@2.1.0
+- pkg:cargo/draco-core@2.2.0
+- pkg:cargo/draco-core@2.2.1
+- pkg:cargo/draco-core@2.3.0
+- pkg:cargo/draco-core@2.3.1
+- pkg:cargo/draco-core@2.3.2
+- pkg:cargo/draco-core@2.3.3
