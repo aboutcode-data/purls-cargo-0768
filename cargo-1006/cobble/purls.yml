@@ -6,3 +6,7 @@
 - pkg:cargo/cobble@0.2.3
 - pkg:cargo/cobble@0.3.0
 - pkg:cargo/cobble@0.4.0
+- pkg:cargo/cobble@0.5.0
+- pkg:cargo/cobble@0.5.1
+- pkg:cargo/cobble@0.5.2
+- pkg:cargo/cobble@0.5.3

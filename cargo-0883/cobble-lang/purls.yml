@@ -1,3 +1,4 @@
+- pkg:cargo/cobble-lang@0.10.0
 - pkg:cargo/cobble-lang@0.6.1
 - pkg:cargo/cobble-lang@0.6.2
 - pkg:cargo/cobble-lang@0.6.3
