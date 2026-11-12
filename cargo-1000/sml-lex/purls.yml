@@ -1,3 +1,5 @@
 - pkg:cargo/sml-lex@0.1.0-alpha.1
 - pkg:cargo/sml-lex@0.1.0-alpha.2
 - pkg:cargo/sml-lex@0.1.0-alpha.3
+- pkg:cargo/sml-lex@0.1.0-alpha.4
+- pkg:cargo/sml-lex@0.6.9-dev.0
