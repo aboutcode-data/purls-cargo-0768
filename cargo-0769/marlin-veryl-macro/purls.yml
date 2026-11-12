@@ -9,6 +9,16 @@
 - pkg:cargo/marlin-veryl-macro@0.14.0
 - pkg:cargo/marlin-veryl-macro@0.15.0
 - pkg:cargo/marlin-veryl-macro@0.16.0
+- pkg:cargo/marlin-veryl-macro@0.17.1
+- pkg:cargo/marlin-veryl-macro@0.18.1
+- pkg:cargo/marlin-veryl-macro@0.19.0
+- pkg:cargo/marlin-veryl-macro@0.20.0
+- pkg:cargo/marlin-veryl-macro@0.20.1
+- pkg:cargo/marlin-veryl-macro@0.20.2
+- pkg:cargo/marlin-veryl-macro@0.20.3
+- pkg:cargo/marlin-veryl-macro@0.20.4
+- pkg:cargo/marlin-veryl-macro@0.21.0
+- pkg:cargo/marlin-veryl-macro@0.21.1
 - pkg:cargo/marlin-veryl-macro@0.3.0
 - pkg:cargo/marlin-veryl-macro@0.3.1
 - pkg:cargo/marlin-veryl-macro@0.3.2
