@@ -1,1 +1,2 @@
 - pkg:cargo/mcu-terminal-color@0.2.0
+- pkg:cargo/mcu-terminal-color@0.2.1
