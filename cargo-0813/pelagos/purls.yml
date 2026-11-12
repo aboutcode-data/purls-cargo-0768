@@ -24,6 +24,9 @@
 - pkg:cargo/pelagos@0.65.104
 - pkg:cargo/pelagos@0.65.105
 - pkg:cargo/pelagos@0.65.106
+- pkg:cargo/pelagos@0.65.107
+- pkg:cargo/pelagos@0.65.108
+- pkg:cargo/pelagos@0.65.109
 - pkg:cargo/pelagos@0.65.11
 - pkg:cargo/pelagos@0.65.12
 - pkg:cargo/pelagos@0.65.18
