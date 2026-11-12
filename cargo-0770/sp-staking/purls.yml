@@ -57,6 +57,8 @@
 - pkg:cargo/sp-staking@42.2.0
 - pkg:cargo/sp-staking@43.0.0
 - pkg:cargo/sp-staking@44.0.0
+- pkg:cargo/sp-staking@45.0.0
+- pkg:cargo/sp-staking@46.0.0
 - pkg:cargo/sp-staking@5.0.0
 - pkg:cargo/sp-staking@6.0.0
 - pkg:cargo/sp-staking@7.0.0
