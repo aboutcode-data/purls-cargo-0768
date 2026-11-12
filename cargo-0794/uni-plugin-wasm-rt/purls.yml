@@ -17,3 +17,8 @@
 - pkg:cargo/uni-plugin-wasm-rt@3.2.0
 - pkg:cargo/uni-plugin-wasm-rt@3.3.0
 - pkg:cargo/uni-plugin-wasm-rt@3.4.0
+- pkg:cargo/uni-plugin-wasm-rt@4.0.0
+- pkg:cargo/uni-plugin-wasm-rt@4.1.0
+- pkg:cargo/uni-plugin-wasm-rt@4.1.1
+- pkg:cargo/uni-plugin-wasm-rt@5.0.0
+- pkg:cargo/uni-plugin-wasm-rt@5.1.0
