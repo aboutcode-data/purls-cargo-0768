@@ -19,3 +19,4 @@
 - pkg:cargo/everruns-serve-build@0.49.0
 - pkg:cargo/everruns-serve-build@0.50.1
 - pkg:cargo/everruns-serve-build@0.51.0
+- pkg:cargo/everruns-serve-build@0.52.0
