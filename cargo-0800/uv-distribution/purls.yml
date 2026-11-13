@@ -1,5 +1,6 @@
 - pkg:cargo/uv-distribution@0.0.1
 - pkg:cargo/uv-distribution@0.0.10
+- pkg:cargo/uv-distribution@0.0.100
 - pkg:cargo/uv-distribution@0.0.11
 - pkg:cargo/uv-distribution@0.0.12
 - pkg:cargo/uv-distribution@0.0.13
