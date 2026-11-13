@@ -23,6 +23,9 @@
 - pkg:cargo/qubit-retry@0.26.0
 - pkg:cargo/qubit-retry@0.26.1
 - pkg:cargo/qubit-retry@0.26.2
+- pkg:cargo/qubit-retry@0.26.3
+- pkg:cargo/qubit-retry@0.26.4
+- pkg:cargo/qubit-retry@0.26.5
 - pkg:cargo/qubit-retry@0.3.0
 - pkg:cargo/qubit-retry@0.3.1
 - pkg:cargo/qubit-retry@0.4.0

@@ -9,6 +9,10 @@
 - pkg:cargo/quip-solver-conformance@0.0.10
 - pkg:cargo/quip-solver-conformance@0.0.11
 - pkg:cargo/quip-solver-conformance@0.0.11-rc1
+- pkg:cargo/quip-solver-conformance@0.0.12
+- pkg:cargo/quip-solver-conformance@0.0.12-rc1
+- pkg:cargo/quip-solver-conformance@0.0.13
+- pkg:cargo/quip-solver-conformance@0.0.13-rc1
 - pkg:cargo/quip-solver-conformance@0.0.2
 - pkg:cargo/quip-solver-conformance@0.0.2-rc1
 - pkg:cargo/quip-solver-conformance@0.0.2-rc3
