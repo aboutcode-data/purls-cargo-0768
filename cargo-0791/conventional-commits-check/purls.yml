@@ -8,3 +8,4 @@
 - pkg:cargo/conventional-commits-check@0.9.4
 - pkg:cargo/conventional-commits-check@1.0.0
 - pkg:cargo/conventional-commits-check@1.0.1
+- pkg:cargo/conventional-commits-check@1.0.2
