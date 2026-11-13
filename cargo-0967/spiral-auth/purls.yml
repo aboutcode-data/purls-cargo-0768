@@ -5,6 +5,7 @@
 - pkg:cargo/spiral-auth@0.1.13
 - pkg:cargo/spiral-auth@0.1.14
 - pkg:cargo/spiral-auth@0.1.15
+- pkg:cargo/spiral-auth@0.1.16
 - pkg:cargo/spiral-auth@0.1.7
 - pkg:cargo/spiral-auth@0.1.8
 - pkg:cargo/spiral-auth@0.1.9
