@@ -15,6 +15,7 @@
 - pkg:cargo/qubit-codec@0.17.2
 - pkg:cargo/qubit-codec@0.17.3
 - pkg:cargo/qubit-codec@0.17.4
+- pkg:cargo/qubit-codec@0.17.5
 - pkg:cargo/qubit-codec@0.2.0
 - pkg:cargo/qubit-codec@0.3.0
 - pkg:cargo/qubit-codec@0.3.1
