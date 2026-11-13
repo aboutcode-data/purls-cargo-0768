@@ -8,6 +8,7 @@
 - pkg:cargo/persistant-opendal@0.16.4
 - pkg:cargo/persistant-opendal@0.16.6
 - pkg:cargo/persistant-opendal@0.16.8
+- pkg:cargo/persistant-opendal@0.17.1
 - pkg:cargo/persistant-opendal@0.4.23
 - pkg:cargo/persistant-opendal@0.4.28
 - pkg:cargo/persistant-opendal@0.4.31

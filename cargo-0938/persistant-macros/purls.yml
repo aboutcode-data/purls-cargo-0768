@@ -7,6 +7,7 @@
 - pkg:cargo/persistant-macros@0.16.4
 - pkg:cargo/persistant-macros@0.16.6
 - pkg:cargo/persistant-macros@0.16.8
+- pkg:cargo/persistant-macros@0.17.1
 - pkg:cargo/persistant-macros@0.8.21
 - pkg:cargo/persistant-macros@0.8.22
 - pkg:cargo/persistant-macros@0.9.0
