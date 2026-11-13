@@ -12,6 +12,9 @@
 - pkg:cargo/light@0.17.2
 - pkg:cargo/light@0.17.3
 - pkg:cargo/light@0.17.4
+- pkg:cargo/light@0.17.5
+- pkg:cargo/light@0.17.6
+- pkg:cargo/light@0.17.7
 - pkg:cargo/light@0.4.0
 - pkg:cargo/light@0.5.0
 - pkg:cargo/light@0.6.0
