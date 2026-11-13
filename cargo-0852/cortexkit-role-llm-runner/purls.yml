@@ -128,7 +128,14 @@
 - pkg:cargo/cortexkit-role-llm-runner@0.8.41
 - pkg:cargo/cortexkit-role-llm-runner@0.8.42
 - pkg:cargo/cortexkit-role-llm-runner@0.8.43
+- pkg:cargo/cortexkit-role-llm-runner@0.8.44
+- pkg:cargo/cortexkit-role-llm-runner@0.8.45
+- pkg:cargo/cortexkit-role-llm-runner@0.8.46
+- pkg:cargo/cortexkit-role-llm-runner@0.8.47
+- pkg:cargo/cortexkit-role-llm-runner@0.8.48
+- pkg:cargo/cortexkit-role-llm-runner@0.8.49
 - pkg:cargo/cortexkit-role-llm-runner@0.8.5
+- pkg:cargo/cortexkit-role-llm-runner@0.8.50
 - pkg:cargo/cortexkit-role-llm-runner@0.8.6
 - pkg:cargo/cortexkit-role-llm-runner@0.8.7
 - pkg:cargo/cortexkit-role-llm-runner@0.8.8
