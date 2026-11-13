@@ -1,3 +1,5 @@
 - pkg:cargo/grift-cli@2.0.0
 - pkg:cargo/grift-cli@3.0.0
 - pkg:cargo/grift-cli@4.0.0
+- pkg:cargo/grift-cli@5.0.0
+- pkg:cargo/grift-cli@6.0.0
