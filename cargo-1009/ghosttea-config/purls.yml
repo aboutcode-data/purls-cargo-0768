@@ -14,6 +14,7 @@
 - pkg:cargo/ghosttea-config@0.13.7
 - pkg:cargo/ghosttea-config@0.13.8
 - pkg:cargo/ghosttea-config@0.14.0
+- pkg:cargo/ghosttea-config@0.15.0
 - pkg:cargo/ghosttea-config@0.7.0
 - pkg:cargo/ghosttea-config@0.8.0
 - pkg:cargo/ghosttea-config@0.9.0

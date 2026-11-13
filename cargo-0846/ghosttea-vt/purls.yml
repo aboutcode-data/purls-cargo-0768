@@ -15,6 +15,7 @@
 - pkg:cargo/ghosttea-vt@0.13.7
 - pkg:cargo/ghosttea-vt@0.13.8
 - pkg:cargo/ghosttea-vt@0.14.0
+- pkg:cargo/ghosttea-vt@0.15.0
 - pkg:cargo/ghosttea-vt@0.2.0
 - pkg:cargo/ghosttea-vt@0.3.0
 - pkg:cargo/ghosttea-vt@0.4.0
