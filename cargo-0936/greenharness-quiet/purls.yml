@@ -3,3 +3,5 @@
 - pkg:cargo/greenharness-quiet@3.1.0
 - pkg:cargo/greenharness-quiet@3.2.0
 - pkg:cargo/greenharness-quiet@4.0.0
+- pkg:cargo/greenharness-quiet@4.1.0
+- pkg:cargo/greenharness-quiet@4.2.0
