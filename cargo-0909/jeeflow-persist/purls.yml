@@ -47,6 +47,7 @@
 - pkg:cargo/jeeflow-persist@1.0.55
 - pkg:cargo/jeeflow-persist@1.0.56
 - pkg:cargo/jeeflow-persist@1.0.57
+- pkg:cargo/jeeflow-persist@1.0.58
 - pkg:cargo/jeeflow-persist@1.0.6
 - pkg:cargo/jeeflow-persist@1.0.7
 - pkg:cargo/jeeflow-persist@1.0.8
