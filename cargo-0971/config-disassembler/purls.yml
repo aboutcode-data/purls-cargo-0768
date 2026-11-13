@@ -13,6 +13,8 @@
 - pkg:cargo/config-disassembler@0.11.0
 - pkg:cargo/config-disassembler@0.11.1
 - pkg:cargo/config-disassembler@0.11.10
+- pkg:cargo/config-disassembler@0.11.11
+- pkg:cargo/config-disassembler@0.11.12
 - pkg:cargo/config-disassembler@0.11.2
 - pkg:cargo/config-disassembler@0.11.3
 - pkg:cargo/config-disassembler@0.11.4
