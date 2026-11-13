@@ -16,6 +16,7 @@
 - pkg:cargo/zakura-chain@13.0.0
 - pkg:cargo/zakura-chain@13.0.1
 - pkg:cargo/zakura-chain@14.0.0
+- pkg:cargo/zakura-chain@14.1.0
 - pkg:cargo/zakura-chain@2.0.0
 - pkg:cargo/zakura-chain@3.0.0
 - pkg:cargo/zakura-chain@3.0.1

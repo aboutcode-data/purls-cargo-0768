@@ -5,3 +5,4 @@
 - pkg:cargo/zakura-quic@0.3.0
 - pkg:cargo/zakura-quic@0.4.0
 - pkg:cargo/zakura-quic@0.5.0
+- pkg:cargo/zakura-quic@1.0.0
