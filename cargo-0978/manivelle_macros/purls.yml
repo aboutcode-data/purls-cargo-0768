@@ -2,3 +2,4 @@
 - pkg:cargo/manivelle_macros@0.1.1
 - pkg:cargo/manivelle_macros@0.1.2
 - pkg:cargo/manivelle_macros@0.2.0
+- pkg:cargo/manivelle_macros@0.3.0
