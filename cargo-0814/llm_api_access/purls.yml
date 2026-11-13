@@ -49,6 +49,7 @@
 - pkg:cargo/llm_api_access@0.1.54
 - pkg:cargo/llm_api_access@0.1.55
 - pkg:cargo/llm_api_access@0.1.56
+- pkg:cargo/llm_api_access@0.1.57
 - pkg:cargo/llm_api_access@0.1.6
 - pkg:cargo/llm_api_access@0.1.7
 - pkg:cargo/llm_api_access@0.1.8
