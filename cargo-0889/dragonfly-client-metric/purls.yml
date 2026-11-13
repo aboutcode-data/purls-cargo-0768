@@ -83,6 +83,7 @@
 - pkg:cargo/dragonfly-client-metric@1.5.11
 - pkg:cargo/dragonfly-client-metric@1.5.12
 - pkg:cargo/dragonfly-client-metric@1.5.13
+- pkg:cargo/dragonfly-client-metric@1.5.14
 - pkg:cargo/dragonfly-client-metric@1.5.2
 - pkg:cargo/dragonfly-client-metric@1.5.3
 - pkg:cargo/dragonfly-client-metric@1.5.4
