@@ -69,3 +69,4 @@
 - pkg:cargo/kube-core@4.1.0
 - pkg:cargo/kube-core@4.2.0
 - pkg:cargo/kube-core@5.0.0
+- pkg:cargo/kube-core@5.1.0
