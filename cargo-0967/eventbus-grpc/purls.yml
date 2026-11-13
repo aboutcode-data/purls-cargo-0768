@@ -1,3 +1,4 @@
 - pkg:cargo/eventbus-grpc@0.38.0
 - pkg:cargo/eventbus-grpc@0.39.0
 - pkg:cargo/eventbus-grpc@0.40.0
+- pkg:cargo/eventbus-grpc@0.41.0
