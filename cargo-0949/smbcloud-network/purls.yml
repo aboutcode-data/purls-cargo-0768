@@ -40,3 +40,4 @@
 - pkg:cargo/smbcloud-network@1.1.1
 - pkg:cargo/smbcloud-network@1.1.2
 - pkg:cargo/smbcloud-network@1.2.0
+- pkg:cargo/smbcloud-network@1.2.1
