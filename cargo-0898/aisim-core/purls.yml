@@ -4,3 +4,5 @@
 - pkg:cargo/aisim-core@0.14.0-dev.202611070000000097
 - pkg:cargo/aisim-core@0.14.0-dev.202611080000000098
 - pkg:cargo/aisim-core@0.14.0-dev.202611100000000100
+- pkg:cargo/aisim-core@0.14.0-dev.202611120000000103
+- pkg:cargo/aisim-core@0.15.0-dev.202611130000000104
