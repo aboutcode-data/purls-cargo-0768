@@ -57,6 +57,8 @@
 - pkg:cargo/manabot@0.17.8
 - pkg:cargo/manabot@0.17.9
 - pkg:cargo/manabot@0.18.0
+- pkg:cargo/manabot@0.18.1
+- pkg:cargo/manabot@0.18.2
 - pkg:cargo/manabot@0.2.7
 - pkg:cargo/manabot@0.3.0
 - pkg:cargo/manabot@0.3.1
