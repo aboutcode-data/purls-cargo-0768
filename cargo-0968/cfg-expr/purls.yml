@@ -26,6 +26,8 @@
 - pkg:cargo/cfg-expr@0.2.1
 - pkg:cargo/cfg-expr@0.20.0
 - pkg:cargo/cfg-expr@0.20.1
+- pkg:cargo/cfg-expr@0.20.10
+- pkg:cargo/cfg-expr@0.20.11
 - pkg:cargo/cfg-expr@0.20.2
 - pkg:cargo/cfg-expr@0.20.3
 - pkg:cargo/cfg-expr@0.20.4
@@ -33,6 +35,7 @@
 - pkg:cargo/cfg-expr@0.20.6
 - pkg:cargo/cfg-expr@0.20.7
 - pkg:cargo/cfg-expr@0.20.8
+- pkg:cargo/cfg-expr@0.20.9
 - pkg:cargo/cfg-expr@0.3.0
 - pkg:cargo/cfg-expr@0.4.0
 - pkg:cargo/cfg-expr@0.4.1

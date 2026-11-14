@@ -1,3 +1,10 @@
+- pkg:cargo/cf-gears-toolkit@0.10.0
+- pkg:cargo/cf-gears-toolkit@0.11.0
+- pkg:cargo/cf-gears-toolkit@0.11.1
+- pkg:cargo/cf-gears-toolkit@0.12.0
+- pkg:cargo/cf-gears-toolkit@0.12.1
+- pkg:cargo/cf-gears-toolkit@0.13.0
+- pkg:cargo/cf-gears-toolkit@0.13.1
 - pkg:cargo/cf-gears-toolkit@0.6.10
 - pkg:cargo/cf-gears-toolkit@0.6.11
 - pkg:cargo/cf-gears-toolkit@0.6.12
@@ -12,3 +19,12 @@
 - pkg:cargo/cf-gears-toolkit@0.6.21
 - pkg:cargo/cf-gears-toolkit@0.6.22
 - pkg:cargo/cf-gears-toolkit@0.6.23
+- pkg:cargo/cf-gears-toolkit@0.6.24
+- pkg:cargo/cf-gears-toolkit@0.7.0
+- pkg:cargo/cf-gears-toolkit@0.7.1
+- pkg:cargo/cf-gears-toolkit@0.7.2
+- pkg:cargo/cf-gears-toolkit@0.7.3
+- pkg:cargo/cf-gears-toolkit@0.7.4
+- pkg:cargo/cf-gears-toolkit@0.8.0
+- pkg:cargo/cf-gears-toolkit@0.9.0
+- pkg:cargo/cf-gears-toolkit@0.9.1
