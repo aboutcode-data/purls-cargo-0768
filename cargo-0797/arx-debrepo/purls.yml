@@ -16,3 +16,5 @@
 - pkg:cargo/arx-debrepo@0.3.4
 - pkg:cargo/arx-debrepo@0.3.5
 - pkg:cargo/arx-debrepo@0.3.6
+- pkg:cargo/arx-debrepo@0.3.7
+- pkg:cargo/arx-debrepo@0.3.8
