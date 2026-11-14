@@ -6,3 +6,4 @@
 - pkg:cargo/irox-winlocation-api@0.5.1
 - pkg:cargo/irox-winlocation-api@0.5.2
 - pkg:cargo/irox-winlocation-api@0.5.3
+- pkg:cargo/irox-winlocation-api@0.6.0

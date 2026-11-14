@@ -13,3 +13,4 @@
 - pkg:cargo/irox-progress@0.5.1
 - pkg:cargo/irox-progress@0.5.2
 - pkg:cargo/irox-progress@0.6.0
+- pkg:cargo/irox-progress@0.7.0
