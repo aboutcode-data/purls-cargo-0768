@@ -10,3 +10,5 @@
 - pkg:cargo/harfbuzz_rs@1.2.0
 - pkg:cargo/harfbuzz_rs@2.0.0
 - pkg:cargo/harfbuzz_rs@2.0.1
+- pkg:cargo/harfbuzz_rs@3.0.0
+- pkg:cargo/harfbuzz_rs@3.0.1
