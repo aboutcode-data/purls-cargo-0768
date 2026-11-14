@@ -40,3 +40,8 @@
 - pkg:cargo/curl-http-client@2.5.0
 - pkg:cargo/curl-http-client@2.5.1
 - pkg:cargo/curl-http-client@2.5.2
+- pkg:cargo/curl-http-client@2.6.0
+- pkg:cargo/curl-http-client@2.6.1
+- pkg:cargo/curl-http-client@2.7.0
+- pkg:cargo/curl-http-client@2.8.0
+- pkg:cargo/curl-http-client@2.9.0

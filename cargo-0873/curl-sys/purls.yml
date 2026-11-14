@@ -144,4 +144,7 @@
 - pkg:cargo/curl-sys@0.4.86%2Bcurl-8.19.0
 - pkg:cargo/curl-sys@0.4.87%2Bcurl-8.19.0
 - pkg:cargo/curl-sys@0.4.88%2Bcurl-8.20.0
+- pkg:cargo/curl-sys@0.4.89%2Bcurl-8.20.0
 - pkg:cargo/curl-sys@0.4.9
+- pkg:cargo/curl-sys@0.4.90%2Bcurl-8.21.0
+- pkg:cargo/curl-sys@0.4.91%2Bcurl-8.22.0
