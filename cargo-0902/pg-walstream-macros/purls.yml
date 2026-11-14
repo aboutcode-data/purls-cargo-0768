@@ -1,1 +1,4 @@
+- pkg:cargo/pg-walstream-macros@0.10.0
 - pkg:cargo/pg-walstream-macros@0.8.0
+- pkg:cargo/pg-walstream-macros@0.8.1
+- pkg:cargo/pg-walstream-macros@0.9.0
