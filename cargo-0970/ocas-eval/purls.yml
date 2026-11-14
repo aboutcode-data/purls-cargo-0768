@@ -2,3 +2,17 @@
 - pkg:cargo/ocas-eval@0.13.1
 - pkg:cargo/ocas-eval@0.13.2
 - pkg:cargo/ocas-eval@0.14.0
+- pkg:cargo/ocas-eval@0.20.1
+- pkg:cargo/ocas-eval@0.21.0
+- pkg:cargo/ocas-eval@0.22.0
+- pkg:cargo/ocas-eval@0.23.0
+- pkg:cargo/ocas-eval@0.24.0
+- pkg:cargo/ocas-eval@0.26.0
+- pkg:cargo/ocas-eval@0.27.0
+- pkg:cargo/ocas-eval@0.27.1
+- pkg:cargo/ocas-eval@0.27.2
+- pkg:cargo/ocas-eval@0.27.3
+- pkg:cargo/ocas-eval@0.28.0
+- pkg:cargo/ocas-eval@0.29.0
+- pkg:cargo/ocas-eval@0.30.0
+- pkg:cargo/ocas-eval@0.31.0
