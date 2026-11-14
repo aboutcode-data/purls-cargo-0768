@@ -1,2 +1,8 @@
 - pkg:cargo/yubaba-consensus@0.8.40
 - pkg:cargo/yubaba-consensus@0.8.41
+- pkg:cargo/yubaba-consensus@0.8.42
+- pkg:cargo/yubaba-consensus@0.8.43
+- pkg:cargo/yubaba-consensus@0.8.45
+- pkg:cargo/yubaba-consensus@0.8.46
+- pkg:cargo/yubaba-consensus@0.8.48
+- pkg:cargo/yubaba-consensus@0.8.51
