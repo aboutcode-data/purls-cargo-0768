@@ -2,3 +2,5 @@
 - pkg:cargo/autocore-util@3.3.1
 - pkg:cargo/autocore-util@3.3.2
 - pkg:cargo/autocore-util@3.3.3
+- pkg:cargo/autocore-util@3.4.0
+- pkg:cargo/autocore-util@3.5.0
