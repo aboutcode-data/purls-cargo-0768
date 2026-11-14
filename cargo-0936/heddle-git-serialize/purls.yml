@@ -1,0 +1,5 @@
+- pkg:cargo/heddle-git-serialize@0.30.1
+- pkg:cargo/heddle-git-serialize@0.31.0
+- pkg:cargo/heddle-git-serialize@0.31.1
+- pkg:cargo/heddle-git-serialize@0.31.2
+- pkg:cargo/heddle-git-serialize@0.31.3
