@@ -1,6 +1,8 @@
 - pkg:cargo/ironrdp-graphics@0.1.0
 - pkg:cargo/ironrdp-graphics@0.1.1
 - pkg:cargo/ironrdp-graphics@0.1.2
+- pkg:cargo/ironrdp-graphics@0.10.0
+- pkg:cargo/ironrdp-graphics@0.11.0
 - pkg:cargo/ironrdp-graphics@0.2.0
 - pkg:cargo/ironrdp-graphics@0.3.0
 - pkg:cargo/ironrdp-graphics@0.4.0
