@@ -1,1 +1,6 @@
 - pkg:cargo/vmrunner@0.0.1
+- pkg:cargo/vmrunner@0.0.3
+- pkg:cargo/vmrunner@0.0.4
+- pkg:cargo/vmrunner@0.0.5
+- pkg:cargo/vmrunner@0.0.6-alpha.0
+- pkg:cargo/vmrunner@0.0.6-alpha.3
