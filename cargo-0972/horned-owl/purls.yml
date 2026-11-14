@@ -18,3 +18,5 @@
 - pkg:cargo/horned-owl@2.0.0
 - pkg:cargo/horned-owl@2.1.0
 - pkg:cargo/horned-owl@3.0.0
+- pkg:cargo/horned-owl@4.0.0
+- pkg:cargo/horned-owl@5.0.0

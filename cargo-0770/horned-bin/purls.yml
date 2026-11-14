@@ -6,3 +6,5 @@
 - pkg:cargo/horned-bin@2.0.0
 - pkg:cargo/horned-bin@2.1.0
 - pkg:cargo/horned-bin@3.0.0
+- pkg:cargo/horned-bin@4.0.0
+- pkg:cargo/horned-bin@5.0.0
