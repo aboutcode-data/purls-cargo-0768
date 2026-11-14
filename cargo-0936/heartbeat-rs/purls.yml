@@ -15,3 +15,6 @@
 - pkg:cargo/heartbeat-rs@0.5.2
 - pkg:cargo/heartbeat-rs@0.5.3
 - pkg:cargo/heartbeat-rs@0.5.4
+- pkg:cargo/heartbeat-rs@0.5.5
+- pkg:cargo/heartbeat-rs@0.5.6
+- pkg:cargo/heartbeat-rs@0.6.0

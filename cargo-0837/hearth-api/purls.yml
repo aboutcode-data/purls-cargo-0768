@@ -9,3 +9,5 @@
 - pkg:cargo/hearth-api@0.4.3
 - pkg:cargo/hearth-api@0.4.5
 - pkg:cargo/hearth-api@0.4.6
+- pkg:cargo/hearth-api@0.4.7
+- pkg:cargo/hearth-api@0.5.0
