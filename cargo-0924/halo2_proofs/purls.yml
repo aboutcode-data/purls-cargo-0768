@@ -10,3 +10,5 @@
 - pkg:cargo/halo2_proofs@0.3.3
 - pkg:cargo/halo2_proofs@0.3.4
 - pkg:cargo/halo2_proofs@0.3.5
+- pkg:cargo/halo2_proofs@0.4.0
+- pkg:cargo/halo2_proofs@0.4.1
