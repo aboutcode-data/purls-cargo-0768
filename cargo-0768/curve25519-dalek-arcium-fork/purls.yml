@@ -7,3 +7,4 @@
 - pkg:cargo/curve25519-dalek-arcium-fork@4.1.8
 - pkg:cargo/curve25519-dalek-arcium-fork@4.1.9
 - pkg:cargo/curve25519-dalek-arcium-fork@4.1.9-pre.1
+- pkg:cargo/curve25519-dalek-arcium-fork@5.0.0
