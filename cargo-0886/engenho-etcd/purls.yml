@@ -30,3 +30,6 @@
 - pkg:cargo/engenho-etcd@0.53.162
 - pkg:cargo/engenho-etcd@0.53.163
 - pkg:cargo/engenho-etcd@0.53.164
+- pkg:cargo/engenho-etcd@0.53.165
+- pkg:cargo/engenho-etcd@0.53.166
+- pkg:cargo/engenho-etcd@0.53.167
