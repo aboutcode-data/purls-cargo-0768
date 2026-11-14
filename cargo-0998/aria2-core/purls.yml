@@ -5,6 +5,8 @@
 - pkg:cargo/aria2-core@0.3.0
 - pkg:cargo/aria2-core@0.3.1
 - pkg:cargo/aria2-core@0.3.10
+- pkg:cargo/aria2-core@0.3.11
+- pkg:cargo/aria2-core@0.3.12
 - pkg:cargo/aria2-core@0.3.2
 - pkg:cargo/aria2-core@0.3.3
 - pkg:cargo/aria2-core@0.3.4
