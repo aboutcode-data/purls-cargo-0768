@@ -19,3 +19,7 @@
 - pkg:cargo/hel-rs@2.6.0
 - pkg:cargo/hel-rs@2.7.0
 - pkg:cargo/hel-rs@2.7.1
+- pkg:cargo/hel-rs@2.7.2
+- pkg:cargo/hel-rs@2.7.3
+- pkg:cargo/hel-rs@2.7.4
+- pkg:cargo/hel-rs@2.7.5
