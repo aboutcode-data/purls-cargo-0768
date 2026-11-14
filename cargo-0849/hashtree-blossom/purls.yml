@@ -64,4 +64,6 @@
 - pkg:cargo/hashtree-blossom@0.2.80
 - pkg:cargo/hashtree-blossom@0.2.81
 - pkg:cargo/hashtree-blossom@0.2.82
+- pkg:cargo/hashtree-blossom@0.2.83
 - pkg:cargo/hashtree-blossom@0.2.9
+- pkg:cargo/hashtree-blossom@0.3.0
