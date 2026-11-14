@@ -10,3 +10,5 @@
 - pkg:cargo/ironsbe-derive@0.6.0
 - pkg:cargo/ironsbe-derive@0.7.0
 - pkg:cargo/ironsbe-derive@0.7.1
+- pkg:cargo/ironsbe-derive@0.7.2
+- pkg:cargo/ironsbe-derive@0.8.0

@@ -9,3 +9,5 @@
 - pkg:cargo/ironhide@1.0.8
 - pkg:cargo/ironhide@1.0.9
 - pkg:cargo/ironhide@1.1.0
+- pkg:cargo/ironhide@1.1.1
+- pkg:cargo/ironhide@1.1.2
