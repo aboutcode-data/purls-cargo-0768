@@ -2,6 +2,15 @@
 - pkg:cargo/pgroles-inspect@0.1.3
 - pkg:cargo/pgroles-inspect@0.1.4
 - pkg:cargo/pgroles-inspect@0.1.5
+- pkg:cargo/pgroles-inspect@0.10.0
+- pkg:cargo/pgroles-inspect@0.10.0-alpha.1
+- pkg:cargo/pgroles-inspect@0.10.0-alpha.2
+- pkg:cargo/pgroles-inspect@0.10.1
+- pkg:cargo/pgroles-inspect@0.11.0
+- pkg:cargo/pgroles-inspect@0.12.0
+- pkg:cargo/pgroles-inspect@0.13.0
+- pkg:cargo/pgroles-inspect@0.14.0
+- pkg:cargo/pgroles-inspect@0.15.0
 - pkg:cargo/pgroles-inspect@0.2.0
 - pkg:cargo/pgroles-inspect@0.3.0
 - pkg:cargo/pgroles-inspect@0.4.0
@@ -29,3 +38,5 @@
 - pkg:cargo/pgroles-inspect@0.7.6
 - pkg:cargo/pgroles-inspect@0.7.7
 - pkg:cargo/pgroles-inspect@0.7.8
+- pkg:cargo/pgroles-inspect@0.8.0
+- pkg:cargo/pgroles-inspect@0.9.0
