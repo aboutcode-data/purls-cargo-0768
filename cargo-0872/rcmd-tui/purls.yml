@@ -1,0 +1,17 @@
+- pkg:cargo/rcmd-tui@4.27.0
+- pkg:cargo/rcmd-tui@4.28.1
+- pkg:cargo/rcmd-tui@4.28.2
+- pkg:cargo/rcmd-tui@4.30.0
+- pkg:cargo/rcmd-tui@4.30.3
+- pkg:cargo/rcmd-tui@4.30.4
+- pkg:cargo/rcmd-tui@4.30.5
+- pkg:cargo/rcmd-tui@4.30.6
+- pkg:cargo/rcmd-tui@4.30.7
+- pkg:cargo/rcmd-tui@4.30.8
+- pkg:cargo/rcmd-tui@4.34.0
+- pkg:cargo/rcmd-tui@4.40.0
+- pkg:cargo/rcmd-tui@4.41.0
+- pkg:cargo/rcmd-tui@4.45.0
+- pkg:cargo/rcmd-tui@4.64.1
+- pkg:cargo/rcmd-tui@4.68.2
+- pkg:cargo/rcmd-tui@4.69.0
