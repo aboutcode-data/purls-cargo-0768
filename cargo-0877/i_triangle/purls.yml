@@ -67,6 +67,7 @@
 - pkg:cargo/i_triangle@0.5.1
 - pkg:cargo/i_triangle@0.50.0
 - pkg:cargo/i_triangle@0.50.1
+- pkg:cargo/i_triangle@0.51.0
 - pkg:cargo/i_triangle@0.6.0
 - pkg:cargo/i_triangle@0.7.0
 - pkg:cargo/i_triangle@0.7.1
