@@ -10,3 +10,4 @@
 - pkg:cargo/guppy-summaries@0.6.1
 - pkg:cargo/guppy-summaries@0.7.0
 - pkg:cargo/guppy-summaries@0.7.1
+- pkg:cargo/guppy-summaries@0.8.0
