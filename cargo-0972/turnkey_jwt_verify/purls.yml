@@ -1,3 +1,4 @@
 - pkg:cargo/turnkey_jwt_verify@0.17.1
 - pkg:cargo/turnkey_jwt_verify@0.17.1-alpha.0
 - pkg:cargo/turnkey_jwt_verify@0.17.2
+- pkg:cargo/turnkey_jwt_verify@0.18.0
