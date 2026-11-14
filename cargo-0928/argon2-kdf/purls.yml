@@ -15,3 +15,7 @@
 - pkg:cargo/argon2-kdf@1.6.3
 - pkg:cargo/argon2-kdf@1.7.0
 - pkg:cargo/argon2-kdf@1.7.1
+- pkg:cargo/argon2-kdf@1.7.2
+- pkg:cargo/argon2-kdf@1.7.3
+- pkg:cargo/argon2-kdf@1.7.4
+- pkg:cargo/argon2-kdf@1.7.5
