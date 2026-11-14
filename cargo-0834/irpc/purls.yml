@@ -18,3 +18,4 @@
 - pkg:cargo/irpc@0.7.0
 - pkg:cargo/irpc@0.8.0
 - pkg:cargo/irpc@0.9.0
+- pkg:cargo/irpc@1.0.0
