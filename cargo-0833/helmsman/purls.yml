@@ -1,3 +1,5 @@
 - pkg:cargo/helmsman@0.0.0
 - pkg:cargo/helmsman@0.1.0
 - pkg:cargo/helmsman@0.2.0
+- pkg:cargo/helmsman@0.4.0
+- pkg:cargo/helmsman@0.5.2
