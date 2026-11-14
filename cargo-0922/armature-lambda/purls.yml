@@ -6,3 +6,5 @@
 - pkg:cargo/armature-lambda@0.3.1
 - pkg:cargo/armature-lambda@0.4.0
 - pkg:cargo/armature-lambda@0.5.0
+- pkg:cargo/armature-lambda@0.6.0
+- pkg:cargo/armature-lambda@0.7.0
