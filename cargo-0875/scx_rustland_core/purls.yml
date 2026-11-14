@@ -29,5 +29,8 @@
 - pkg:cargo/scx_rustland_core@2.4.10
 - pkg:cargo/scx_rustland_core@2.4.11
 - pkg:cargo/scx_rustland_core@2.4.12
+- pkg:cargo/scx_rustland_core@2.4.13
+- pkg:cargo/scx_rustland_core@2.4.14
+- pkg:cargo/scx_rustland_core@2.4.15
 - pkg:cargo/scx_rustland_core@2.4.8
 - pkg:cargo/scx_rustland_core@2.4.9
