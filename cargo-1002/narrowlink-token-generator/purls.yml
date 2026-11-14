@@ -9,3 +9,5 @@
 - pkg:cargo/narrowlink-token-generator@0.2.4
 - pkg:cargo/narrowlink-token-generator@0.2.5
 - pkg:cargo/narrowlink-token-generator@0.2.6
+- pkg:cargo/narrowlink-token-generator@0.2.7
+- pkg:cargo/narrowlink-token-generator@0.2.8
