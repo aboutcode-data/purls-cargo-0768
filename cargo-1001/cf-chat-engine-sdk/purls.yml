@@ -1,1 +1,5 @@
 - pkg:cargo/cf-chat-engine-sdk@0.1.0
+- pkg:cargo/cf-chat-engine-sdk@0.1.1
+- pkg:cargo/cf-chat-engine-sdk@0.1.2
+- pkg:cargo/cf-chat-engine-sdk@0.2.0
+- pkg:cargo/cf-chat-engine-sdk@0.2.1
