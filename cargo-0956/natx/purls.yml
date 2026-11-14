@@ -1,3 +1,5 @@
 - pkg:cargo/natx@1.0.0
 - pkg:cargo/natx@1.0.1
 - pkg:cargo/natx@1.0.2
+- pkg:cargo/natx@2.0.0
+- pkg:cargo/natx@2.0.1
