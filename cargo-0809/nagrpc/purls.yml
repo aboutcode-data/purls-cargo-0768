@@ -1,2 +1,6 @@
 - pkg:cargo/nagrpc@1.0.0
 - pkg:cargo/nagrpc@1.0.1
+- pkg:cargo/nagrpc@2.0.0
+- pkg:cargo/nagrpc@2.0.3
+- pkg:cargo/nagrpc@2.0.4
+- pkg:cargo/nagrpc@2.0.5
