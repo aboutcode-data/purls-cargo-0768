@@ -1,0 +1,4 @@
+- pkg:cargo/holger-handler-rust-toolchain@0.1.0
+- pkg:cargo/holger-handler-rust-toolchain@2.0.0
+- pkg:cargo/holger-handler-rust-toolchain@3.0.0
+- pkg:cargo/holger-handler-rust-toolchain@3.0.1
