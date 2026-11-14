@@ -53,3 +53,6 @@
 - pkg:cargo/turul-http-mcp-server@0.4.2
 - pkg:cargo/turul-http-mcp-server@0.4.3
 - pkg:cargo/turul-http-mcp-server@0.4.5
+- pkg:cargo/turul-http-mcp-server@0.4.6
+- pkg:cargo/turul-http-mcp-server@0.4.8
+- pkg:cargo/turul-http-mcp-server@0.4.9
