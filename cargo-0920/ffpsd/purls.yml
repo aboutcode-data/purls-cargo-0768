@@ -1,1 +1,4 @@
 - pkg:cargo/ffpsd@0.0.1
+- pkg:cargo/ffpsd@0.4.5
+- pkg:cargo/ffpsd@0.4.6
+- pkg:cargo/ffpsd@0.4.7
