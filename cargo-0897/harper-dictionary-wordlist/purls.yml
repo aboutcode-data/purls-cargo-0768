@@ -1,4 +1,9 @@
+- pkg:cargo/harper-dictionary-wordlist@2.10.0
+- pkg:cargo/harper-dictionary-wordlist@2.11.0
+- pkg:cargo/harper-dictionary-wordlist@2.13.0
 - pkg:cargo/harper-dictionary-wordlist@2.4.0
 - pkg:cargo/harper-dictionary-wordlist@2.5.0
 - pkg:cargo/harper-dictionary-wordlist@2.7.0
 - pkg:cargo/harper-dictionary-wordlist@2.8.0
+- pkg:cargo/harper-dictionary-wordlist@3.0.0
+- pkg:cargo/harper-dictionary-wordlist@3.2.0
