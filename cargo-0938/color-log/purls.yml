@@ -7,3 +7,4 @@
 - pkg:cargo/color-log@10.2.8
 - pkg:cargo/color-log@10.3.0
 - pkg:cargo/color-log@10.3.1
+- pkg:cargo/color-log@10.4.0
