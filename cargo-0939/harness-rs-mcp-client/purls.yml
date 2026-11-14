@@ -50,6 +50,16 @@
 - pkg:cargo/harness-rs-mcp-client@0.0.59
 - pkg:cargo/harness-rs-mcp-client@0.0.61
 - pkg:cargo/harness-rs-mcp-client@0.0.62
+- pkg:cargo/harness-rs-mcp-client@0.0.63
+- pkg:cargo/harness-rs-mcp-client@0.0.64
+- pkg:cargo/harness-rs-mcp-client@0.0.65
+- pkg:cargo/harness-rs-mcp-client@0.0.66
+- pkg:cargo/harness-rs-mcp-client@0.0.67
+- pkg:cargo/harness-rs-mcp-client@0.0.68
+- pkg:cargo/harness-rs-mcp-client@0.0.69
 - pkg:cargo/harness-rs-mcp-client@0.0.7
+- pkg:cargo/harness-rs-mcp-client@0.0.70
+- pkg:cargo/harness-rs-mcp-client@0.0.71
+- pkg:cargo/harness-rs-mcp-client@0.0.72
 - pkg:cargo/harness-rs-mcp-client@0.0.8
 - pkg:cargo/harness-rs-mcp-client@0.0.9
