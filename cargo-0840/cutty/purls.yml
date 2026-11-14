@@ -4,3 +4,6 @@
 - pkg:cargo/cutty@0.18.0
 - pkg:cargo/cutty@0.18.3
 - pkg:cargo/cutty@0.18.4
+- pkg:cargo/cutty@0.18.5
+- pkg:cargo/cutty@0.18.6
+- pkg:cargo/cutty@0.18.7
