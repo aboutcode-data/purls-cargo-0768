@@ -1,0 +1,4 @@
+- pkg:cargo/ironflux-k8s@0.1.0
+- pkg:cargo/ironflux-k8s@0.2.1
+- pkg:cargo/ironflux-k8s@0.3.0
+- pkg:cargo/ironflux-k8s@0.4.0
