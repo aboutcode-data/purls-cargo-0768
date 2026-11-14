@@ -2,8 +2,15 @@
 - pkg:cargo/hopr-bindings@4.12.0
 - pkg:cargo/hopr-bindings@4.12.1
 - pkg:cargo/hopr-bindings@4.13.0
+- pkg:cargo/hopr-bindings@4.14.0
+- pkg:cargo/hopr-bindings@4.15.0
+- pkg:cargo/hopr-bindings@4.16.0
 - pkg:cargo/hopr-bindings@4.7.2
 - pkg:cargo/hopr-bindings@4.7.3
 - pkg:cargo/hopr-bindings@4.8.0
 - pkg:cargo/hopr-bindings@4.9.0
 - pkg:cargo/hopr-bindings@4.9.1
+- pkg:cargo/hopr-bindings@5.0.0
+- pkg:cargo/hopr-bindings@5.1.0
+- pkg:cargo/hopr-bindings@5.2.0
+- pkg:cargo/hopr-bindings@6.1.0

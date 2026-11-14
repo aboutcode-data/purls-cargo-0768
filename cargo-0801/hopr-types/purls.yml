@@ -18,3 +18,15 @@
 - pkg:cargo/hopr-types@2.1.1
 - pkg:cargo/hopr-types@2.2.0
 - pkg:cargo/hopr-types@2.2.1
+- pkg:cargo/hopr-types@2.3.0
+- pkg:cargo/hopr-types@2.3.1
+- pkg:cargo/hopr-types@2.3.2
+- pkg:cargo/hopr-types@3.0.0
+- pkg:cargo/hopr-types@3.0.1
+- pkg:cargo/hopr-types@3.1.0
+- pkg:cargo/hopr-types@4.0.0
+- pkg:cargo/hopr-types@4.0.1
+- pkg:cargo/hopr-types@4.1.0
+- pkg:cargo/hopr-types@5.0.0
+- pkg:cargo/hopr-types@6.0.0
+- pkg:cargo/hopr-types@6.0.1
