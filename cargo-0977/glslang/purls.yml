@@ -19,3 +19,5 @@
 - pkg:cargo/glslang@0.6.2
 - pkg:cargo/glslang@0.8.0
 - pkg:cargo/glslang@0.8.1
+- pkg:cargo/glslang@0.9.0
+- pkg:cargo/glslang@0.9.1
