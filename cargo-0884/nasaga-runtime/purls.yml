@@ -1,2 +1,6 @@
 - pkg:cargo/nasaga-runtime@1.0.0
 - pkg:cargo/nasaga-runtime@1.0.1
+- pkg:cargo/nasaga-runtime@2.0.0
+- pkg:cargo/nasaga-runtime@2.0.1
+- pkg:cargo/nasaga-runtime@2.0.2
+- pkg:cargo/nasaga-runtime@2.0.3
