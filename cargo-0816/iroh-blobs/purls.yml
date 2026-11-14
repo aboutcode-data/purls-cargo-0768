@@ -1,7 +1,14 @@
 - pkg:cargo/iroh-blobs@0.100.0
+- pkg:cargo/iroh-blobs@0.100.1
 - pkg:cargo/iroh-blobs@0.101.0
+- pkg:cargo/iroh-blobs@0.101.1
 - pkg:cargo/iroh-blobs@0.102.0
+- pkg:cargo/iroh-blobs@0.102.1
 - pkg:cargo/iroh-blobs@0.103.0
+- pkg:cargo/iroh-blobs@0.103.1
+- pkg:cargo/iroh-blobs@0.104.0
+- pkg:cargo/iroh-blobs@0.104.1
+- pkg:cargo/iroh-blobs@0.105.0
 - pkg:cargo/iroh-blobs@0.16.0
 - pkg:cargo/iroh-blobs@0.16.2
 - pkg:cargo/iroh-blobs@0.17.0
@@ -34,5 +41,7 @@
 - pkg:cargo/iroh-blobs@0.95.0
 - pkg:cargo/iroh-blobs@0.96.0
 - pkg:cargo/iroh-blobs@0.97.0
+- pkg:cargo/iroh-blobs@0.97.1
 - pkg:cargo/iroh-blobs@0.98.0
 - pkg:cargo/iroh-blobs@0.99.0
+- pkg:cargo/iroh-blobs@0.99.1
