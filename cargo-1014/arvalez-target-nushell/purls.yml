@@ -9,3 +9,9 @@
 - pkg:cargo/arvalez-target-nushell@1.8.3
 - pkg:cargo/arvalez-target-nushell@1.8.4
 - pkg:cargo/arvalez-target-nushell@1.9.0
+- pkg:cargo/arvalez-target-nushell@2.0.0
+- pkg:cargo/arvalez-target-nushell@2.1.0
+- pkg:cargo/arvalez-target-nushell@2.2.0
+- pkg:cargo/arvalez-target-nushell@2.3.0
+- pkg:cargo/arvalez-target-nushell@2.4.0
+- pkg:cargo/arvalez-target-nushell@2.5.0
