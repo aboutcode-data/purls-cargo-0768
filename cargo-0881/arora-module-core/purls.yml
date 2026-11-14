@@ -3,3 +3,5 @@
 - pkg:cargo/arora-module-core@0.2.0
 - pkg:cargo/arora-module-core@1.0.0
 - pkg:cargo/arora-module-core@2.0.0
+- pkg:cargo/arora-module-core@3.0.0
+- pkg:cargo/arora-module-core@4.0.0

@@ -4,3 +4,7 @@
 - pkg:cargo/arora-module-rust@0.2.1
 - pkg:cargo/arora-module-rust@1.0.0
 - pkg:cargo/arora-module-rust@2.0.0
+- pkg:cargo/arora-module-rust@3.0.0
+- pkg:cargo/arora-module-rust@4.0.0
+- pkg:cargo/arora-module-rust@4.1.0
+- pkg:cargo/arora-module-rust@5.0.0
