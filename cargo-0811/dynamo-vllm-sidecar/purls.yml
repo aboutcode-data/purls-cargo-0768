@@ -1,0 +1,2 @@
+- pkg:cargo/dynamo-vllm-sidecar@1.6.1
+- pkg:cargo/dynamo-vllm-sidecar@1.6.2

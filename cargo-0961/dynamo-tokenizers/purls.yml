@@ -22,3 +22,14 @@
 - pkg:cargo/dynamo-tokenizers@2.0.0
 - pkg:cargo/dynamo-tokenizers@3.0.0
 - pkg:cargo/dynamo-tokenizers@3.1.0
+- pkg:cargo/dynamo-tokenizers@3.1.1
+- pkg:cargo/dynamo-tokenizers@3.1.2
+- pkg:cargo/dynamo-tokenizers@3.1.3
+- pkg:cargo/dynamo-tokenizers@3.1.4-kimi-k3.1-pro-dev.1
+- pkg:cargo/dynamo-tokenizers@4.0.0
+- pkg:cargo/dynamo-tokenizers@4.1.0
+- pkg:cargo/dynamo-tokenizers@4.1.1
+- pkg:cargo/dynamo-tokenizers@4.1.2
+- pkg:cargo/dynamo-tokenizers@4.2.0
+- pkg:cargo/dynamo-tokenizers@4.3.0
+- pkg:cargo/dynamo-tokenizers@4.3.1
