@@ -38,3 +38,5 @@
 - pkg:cargo/azure_core@0.8.0
 - pkg:cargo/azure_core@1.0.0
 - pkg:cargo/azure_core@1.1.0
+- pkg:cargo/azure_core@1.2.0-beta.1
+- pkg:cargo/azure_core@1.2.0-beta.2

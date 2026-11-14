@@ -17,3 +17,5 @@
 - pkg:cargo/azure_core_amqp@0.9.1
 - pkg:cargo/azure_core_amqp@1.0.0
 - pkg:cargo/azure_core_amqp@1.1.0
+- pkg:cargo/azure_core_amqp@1.2.0-beta.1
+- pkg:cargo/azure_core_amqp@1.2.0-beta.3
