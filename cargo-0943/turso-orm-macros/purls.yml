@@ -6,3 +6,4 @@
 - pkg:cargo/turso-orm-macros@0.1.5
 - pkg:cargo/turso-orm-macros@0.1.6
 - pkg:cargo/turso-orm-macros@0.1.7
+- pkg:cargo/turso-orm-macros@0.1.8
