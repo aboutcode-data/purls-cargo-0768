@@ -41,3 +41,4 @@
 - pkg:cargo/demand@2.3.0
 - pkg:cargo/demand@2.4.0
 - pkg:cargo/demand@2.4.1
+- pkg:cargo/demand@2.4.2
