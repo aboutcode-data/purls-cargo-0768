@@ -54,6 +54,7 @@
 - pkg:cargo/snomed@0.54.0
 - pkg:cargo/snomed@0.55.0
 - pkg:cargo/snomed@0.56.0
+- pkg:cargo/snomed@0.56.1
 - pkg:cargo/snomed@0.6.0
 - pkg:cargo/snomed@0.7.0
 - pkg:cargo/snomed@0.8.0

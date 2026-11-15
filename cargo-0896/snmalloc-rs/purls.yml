@@ -42,3 +42,4 @@
 - pkg:cargo/snmalloc-rs@0.3.8
 - pkg:cargo/snmalloc-rs@0.7.4
 - pkg:cargo/snmalloc-rs@0.7.5
+- pkg:cargo/snmalloc-rs@0.7.6
