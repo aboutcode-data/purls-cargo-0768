@@ -24,3 +24,4 @@
 - pkg:cargo/uni-plugin-apoc-core@4.1.1
 - pkg:cargo/uni-plugin-apoc-core@5.0.0
 - pkg:cargo/uni-plugin-apoc-core@5.1.0
+- pkg:cargo/uni-plugin-apoc-core@5.2.0

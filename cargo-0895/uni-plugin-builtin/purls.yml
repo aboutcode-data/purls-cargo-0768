@@ -22,3 +22,4 @@
 - pkg:cargo/uni-plugin-builtin@4.1.1
 - pkg:cargo/uni-plugin-builtin@5.0.0
 - pkg:cargo/uni-plugin-builtin@5.1.0
+- pkg:cargo/uni-plugin-builtin@5.2.0
