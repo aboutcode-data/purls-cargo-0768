@@ -59,7 +59,14 @@
 - pkg:cargo/wit-bindgen-rust@0.56.0
 - pkg:cargo/wit-bindgen-rust@0.57.0
 - pkg:cargo/wit-bindgen-rust@0.57.1
+- pkg:cargo/wit-bindgen-rust@0.58.0
+- pkg:cargo/wit-bindgen-rust@0.59.0
 - pkg:cargo/wit-bindgen-rust@0.6.0
+- pkg:cargo/wit-bindgen-rust@0.60.0
+- pkg:cargo/wit-bindgen-rust@0.61.0
+- pkg:cargo/wit-bindgen-rust@0.61.1
+- pkg:cargo/wit-bindgen-rust@0.62.0
+- pkg:cargo/wit-bindgen-rust@0.63.0
 - pkg:cargo/wit-bindgen-rust@0.7.0
 - pkg:cargo/wit-bindgen-rust@0.8.0
 - pkg:cargo/wit-bindgen-rust@0.9.0
