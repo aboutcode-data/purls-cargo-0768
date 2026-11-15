@@ -1,0 +1,5 @@
+- pkg:cargo/ferrox-database-redis@0.1.0
+- pkg:cargo/ferrox-database-redis@0.1.2
+- pkg:cargo/ferrox-database-redis@0.7.0
+- pkg:cargo/ferrox-database-redis@0.8.0
+- pkg:cargo/ferrox-database-redis@0.8.1
