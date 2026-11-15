@@ -7,3 +7,5 @@
 - pkg:cargo/snerd-rust@0.2.3
 - pkg:cargo/snerd-rust@0.2.4
 - pkg:cargo/snerd-rust@0.2.5
+- pkg:cargo/snerd-rust@0.3.0
+- pkg:cargo/snerd-rust@0.3.1
