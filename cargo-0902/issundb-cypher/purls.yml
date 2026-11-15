@@ -19,6 +19,8 @@
 - pkg:cargo/issundb-cypher@0.1.0-alpha.28
 - pkg:cargo/issundb-cypher@0.1.0-alpha.29
 - pkg:cargo/issundb-cypher@0.1.0-alpha.3
+- pkg:cargo/issundb-cypher@0.1.0-alpha.30
+- pkg:cargo/issundb-cypher@0.1.0-alpha.31
 - pkg:cargo/issundb-cypher@0.1.0-alpha.4
 - pkg:cargo/issundb-cypher@0.1.0-alpha.5
 - pkg:cargo/issundb-cypher@0.1.0-alpha.6
