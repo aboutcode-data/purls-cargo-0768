@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-db@30.0.0
 - pkg:cargo/sqry-db@30.0.1
 - pkg:cargo/sqry-db@31.0.0
+- pkg:cargo/sqry-db@32.0.1
+- pkg:cargo/sqry-db@33.0.0
+- pkg:cargo/sqry-db@33.0.1
 - pkg:cargo/sqry-db@9.0.1
 - pkg:cargo/sqry-db@9.0.11
 - pkg:cargo/sqry-db@9.0.12

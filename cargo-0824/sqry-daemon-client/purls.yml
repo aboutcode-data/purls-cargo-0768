@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-daemon-client@30.0.0
 - pkg:cargo/sqry-daemon-client@30.0.1
 - pkg:cargo/sqry-daemon-client@31.0.0
+- pkg:cargo/sqry-daemon-client@32.0.1
+- pkg:cargo/sqry-daemon-client@33.0.0
+- pkg:cargo/sqry-daemon-client@33.0.1
 - pkg:cargo/sqry-daemon-client@9.0.1
 - pkg:cargo/sqry-daemon-client@9.0.11
 - pkg:cargo/sqry-daemon-client@9.0.12

@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-lang-cpp@30.0.0
 - pkg:cargo/sqry-lang-cpp@30.0.1
 - pkg:cargo/sqry-lang-cpp@31.0.0
+- pkg:cargo/sqry-lang-cpp@32.0.1
+- pkg:cargo/sqry-lang-cpp@33.0.0
+- pkg:cargo/sqry-lang-cpp@33.0.1
 - pkg:cargo/sqry-lang-cpp@4.10.0
 - pkg:cargo/sqry-lang-cpp@4.10.1
 - pkg:cargo/sqry-lang-cpp@4.10.13
