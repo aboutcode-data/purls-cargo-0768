@@ -20,3 +20,6 @@
 - pkg:cargo/gitpp@0.7.5
 - pkg:cargo/gitpp@0.7.6
 - pkg:cargo/gitpp@0.7.7
+- pkg:cargo/gitpp@0.7.8
+- pkg:cargo/gitpp@0.7.9
+- pkg:cargo/gitpp@0.8.0
