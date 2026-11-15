@@ -3,3 +3,6 @@
 - pkg:cargo/dekobon-tree-sitter-groovy@0.2.1
 - pkg:cargo/dekobon-tree-sitter-groovy@0.2.2
 - pkg:cargo/dekobon-tree-sitter-groovy@0.3.0
+- pkg:cargo/dekobon-tree-sitter-groovy@0.4.0
+- pkg:cargo/dekobon-tree-sitter-groovy@0.5.0
+- pkg:cargo/dekobon-tree-sitter-groovy@0.6.0
