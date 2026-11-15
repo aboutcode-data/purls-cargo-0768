@@ -20,3 +20,4 @@
 - pkg:cargo/wirm@4.0.6
 - pkg:cargo/wirm@5.0.0
 - pkg:cargo/wirm@5.0.1
+- pkg:cargo/wirm@5.1.0
