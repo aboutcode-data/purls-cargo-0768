@@ -2,3 +2,5 @@
 - pkg:cargo/demesne-syntax@1.1.0
 - pkg:cargo/demesne-syntax@1.2.1
 - pkg:cargo/demesne-syntax@2.0.0
+- pkg:cargo/demesne-syntax@3.0.0
+- pkg:cargo/demesne-syntax@4.0.0

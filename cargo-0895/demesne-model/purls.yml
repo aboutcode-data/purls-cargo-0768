@@ -2,3 +2,5 @@
 - pkg:cargo/demesne-model@1.1.0
 - pkg:cargo/demesne-model@1.2.1
 - pkg:cargo/demesne-model@2.0.0
+- pkg:cargo/demesne-model@3.0.0
+- pkg:cargo/demesne-model@4.0.0
