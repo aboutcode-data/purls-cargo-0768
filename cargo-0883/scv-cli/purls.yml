@@ -50,6 +50,7 @@
 - pkg:cargo/scv-cli@0.4.0
 - pkg:cargo/scv-cli@0.4.10
 - pkg:cargo/scv-cli@0.4.11
+- pkg:cargo/scv-cli@0.4.12
 - pkg:cargo/scv-cli@0.4.2
 - pkg:cargo/scv-cli@0.4.4
 - pkg:cargo/scv-cli@0.4.7
