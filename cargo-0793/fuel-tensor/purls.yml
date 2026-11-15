@@ -1,0 +1,16 @@
+- pkg:cargo/fuel-tensor@0.19.1
+- pkg:cargo/fuel-tensor@0.20.0
+- pkg:cargo/fuel-tensor@0.20.14
+- pkg:cargo/fuel-tensor@0.20.61
+- pkg:cargo/fuel-tensor@0.20.71
+- pkg:cargo/fuel-tensor@0.22.10
+- pkg:cargo/fuel-tensor@0.22.4
+- pkg:cargo/fuel-tensor@0.23.0
+- pkg:cargo/fuel-tensor@0.24.0
+- pkg:cargo/fuel-tensor@0.25.10
+- pkg:cargo/fuel-tensor@0.35.2
+- pkg:cargo/fuel-tensor@0.36.4
+- pkg:cargo/fuel-tensor@0.36.7
+- pkg:cargo/fuel-tensor@0.43.2
+- pkg:cargo/fuel-tensor@0.46.2
+- pkg:cargo/fuel-tensor@0.47.32
