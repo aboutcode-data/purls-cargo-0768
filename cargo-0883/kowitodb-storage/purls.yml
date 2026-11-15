@@ -1,3 +1,4 @@
 - pkg:cargo/kowitodb-storage@0.40.0
 - pkg:cargo/kowitodb-storage@0.40.4
 - pkg:cargo/kowitodb-storage@0.40.5
+- pkg:cargo/kowitodb-storage@0.41.0
