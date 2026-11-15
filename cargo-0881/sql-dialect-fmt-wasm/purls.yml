@@ -14,3 +14,10 @@
 - pkg:cargo/sql-dialect-fmt-wasm@1.22.1
 - pkg:cargo/sql-dialect-fmt-wasm@1.22.2
 - pkg:cargo/sql-dialect-fmt-wasm@1.22.3
+- pkg:cargo/sql-dialect-fmt-wasm@1.23.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.24.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.25.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.26.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.27.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.28.0
+- pkg:cargo/sql-dialect-fmt-wasm@1.29.0

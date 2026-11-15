@@ -1,1 +1,6 @@
 - pkg:cargo/sql-fun-sqlast@0.1.0
+- pkg:cargo/sql-fun-sqlast@0.1.1-snapshot3
+- pkg:cargo/sql-fun-sqlast@0.2.0
+- pkg:cargo/sql-fun-sqlast@0.2.0-rc2
+- pkg:cargo/sql-fun-sqlast@0.2.0-rc3
+- pkg:cargo/sql-fun-sqlast@0.2.0-snapshot7
