@@ -54,3 +54,5 @@
 - pkg:cargo/unpopped-vocab@0.43.2
 - pkg:cargo/unpopped-vocab@0.45.12
 - pkg:cargo/unpopped-vocab@0.45.17
+- pkg:cargo/unpopped-vocab@0.46.2
+- pkg:cargo/unpopped-vocab@0.47.0
