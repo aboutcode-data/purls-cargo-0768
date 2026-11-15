@@ -8,4 +8,12 @@
 - pkg:cargo/snapfire_compiler@0.12.0
 - pkg:cargo/snapfire_compiler@0.13.0
 - pkg:cargo/snapfire_compiler@0.13.1
+- pkg:cargo/snapfire_compiler@0.14.0
+- pkg:cargo/snapfire_compiler@0.15.0
+- pkg:cargo/snapfire_compiler@0.16.0
+- pkg:cargo/snapfire_compiler@0.17.0
+- pkg:cargo/snapfire_compiler@0.18.0
+- pkg:cargo/snapfire_compiler@0.18.1
+- pkg:cargo/snapfire_compiler@0.18.2
+- pkg:cargo/snapfire_compiler@0.18.3
 - pkg:cargo/snapfire_compiler@0.9.0
