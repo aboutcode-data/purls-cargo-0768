@@ -38,3 +38,4 @@
 - pkg:cargo/deps-cargo@2.0.0
 - pkg:cargo/deps-cargo@3.0.0
 - pkg:cargo/deps-cargo@4.0.0
+- pkg:cargo/deps-cargo@5.0.0

@@ -38,3 +38,4 @@
 - pkg:cargo/deps-npm@2.0.0
 - pkg:cargo/deps-npm@3.0.0
 - pkg:cargo/deps-npm@4.0.0
+- pkg:cargo/deps-npm@5.0.0

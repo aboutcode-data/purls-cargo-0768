@@ -4,3 +4,4 @@
 - pkg:cargo/deps-cli@2.0.0
 - pkg:cargo/deps-cli@3.0.0
 - pkg:cargo/deps-cli@4.0.0
+- pkg:cargo/deps-cli@5.0.0
