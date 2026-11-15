@@ -1,1 +1,2 @@
 - pkg:cargo/sqlite3mc-src@205.1.0%2Bsqlite3mc-2.5.1-sqlite-3.53.4
+- pkg:cargo/sqlite3mc-src@206.1.0%2Bsqlite3mc-2.6.1-sqlite-3.54.0
