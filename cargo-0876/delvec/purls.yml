@@ -4,6 +4,9 @@
 - pkg:cargo/delvec@1.12.0
 - pkg:cargo/delvec@1.13.0
 - pkg:cargo/delvec@1.14.0
+- pkg:cargo/delvec@1.15.0
+- pkg:cargo/delvec@1.16.0
+- pkg:cargo/delvec@1.16.1
 - pkg:cargo/delvec@1.3.0
 - pkg:cargo/delvec@1.4.0
 - pkg:cargo/delvec@1.5.0
