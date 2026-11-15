@@ -1,2 +1,4 @@
 - pkg:cargo/with-gpu@0.2.0
 - pkg:cargo/with-gpu@0.3.0
+- pkg:cargo/with-gpu@0.5.0
+- pkg:cargo/with-gpu@0.6.0
