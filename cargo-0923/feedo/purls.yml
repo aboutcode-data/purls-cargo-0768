@@ -19,6 +19,8 @@
 - pkg:cargo/feedo@1.1.27
 - pkg:cargo/feedo@1.1.29
 - pkg:cargo/feedo@1.1.31
+- pkg:cargo/feedo@1.1.32
+- pkg:cargo/feedo@1.1.33
 - pkg:cargo/feedo@1.1.5
 - pkg:cargo/feedo@1.1.7
 - pkg:cargo/feedo@1.1.8
