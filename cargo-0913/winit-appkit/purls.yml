@@ -1,3 +1,5 @@
 - pkg:cargo/winit-appkit@0.0.0
 - pkg:cargo/winit-appkit@0.31.0-beta.1
 - pkg:cargo/winit-appkit@0.31.0-beta.2
+- pkg:cargo/winit-appkit@0.31.0-beta.3
+- pkg:cargo/winit-appkit@0.31.0-beta.4
