@@ -3,3 +3,5 @@
 - pkg:cargo/harn-stdlib-compiler@0.10.195
 - pkg:cargo/harn-stdlib-compiler@0.10.196
 - pkg:cargo/harn-stdlib-compiler@0.10.197
+- pkg:cargo/harn-stdlib-compiler@0.10.198
+- pkg:cargo/harn-stdlib-compiler@0.10.199
