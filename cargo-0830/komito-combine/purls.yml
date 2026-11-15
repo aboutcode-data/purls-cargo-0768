@@ -1,1 +1,4 @@
 - pkg:cargo/komito-combine@1.1.1
+- pkg:cargo/komito-combine@1.10.5
+- pkg:cargo/komito-combine@1.8.35
+- pkg:cargo/komito-combine@1.9.3
