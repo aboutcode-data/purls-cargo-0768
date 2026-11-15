@@ -1,2 +1,4 @@
 - pkg:cargo/ferric-tensor@0.0.1
 - pkg:cargo/ferric-tensor@0.1.0
+- pkg:cargo/ferric-tensor@0.3.0
+- pkg:cargo/ferric-tensor@0.3.1
