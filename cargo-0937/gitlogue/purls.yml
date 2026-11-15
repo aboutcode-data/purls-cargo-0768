@@ -1,6 +1,10 @@
 - pkg:cargo/gitlogue@0.0.5
 - pkg:cargo/gitlogue@0.1.0
 - pkg:cargo/gitlogue@0.10.0
+- pkg:cargo/gitlogue@0.11.0
+- pkg:cargo/gitlogue@0.12.0
+- pkg:cargo/gitlogue@0.12.1
+- pkg:cargo/gitlogue@0.12.2
 - pkg:cargo/gitlogue@0.2.0
 - pkg:cargo/gitlogue@0.3.0
 - pkg:cargo/gitlogue@0.4.1

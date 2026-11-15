@@ -19,3 +19,6 @@
 - pkg:cargo/gitweb@0.3.3
 - pkg:cargo/gitweb@0.3.4
 - pkg:cargo/gitweb@0.3.5
+- pkg:cargo/gitweb@0.4.0
+- pkg:cargo/gitweb@0.5.0
+- pkg:cargo/gitweb@0.6.0
