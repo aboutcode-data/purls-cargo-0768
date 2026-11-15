@@ -1,0 +1,4 @@
+- pkg:cargo/fuel-vulkan-dispatch@0.0.0
+- pkg:cargo/fuel-vulkan-dispatch@0.43.2
+- pkg:cargo/fuel-vulkan-dispatch@0.46.2
+- pkg:cargo/fuel-vulkan-dispatch@0.47.32
