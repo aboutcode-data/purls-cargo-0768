@@ -5,3 +5,4 @@
 - pkg:cargo/windows-native-keyring-store@0.5.0
 - pkg:cargo/windows-native-keyring-store@0.5.1
 - pkg:cargo/windows-native-keyring-store@1.0.0
+- pkg:cargo/windows-native-keyring-store@1.1.0

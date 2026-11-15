@@ -2,6 +2,7 @@
 - pkg:cargo/windows-registry@0.1.0
 - pkg:cargo/windows-registry@0.1.1
 - pkg:cargo/windows-registry@0.1.2
+- pkg:cargo/windows-registry@0.100.0
 - pkg:cargo/windows-registry@0.2.0
 - pkg:cargo/windows-registry@0.3.0
 - pkg:cargo/windows-registry@0.4.0
