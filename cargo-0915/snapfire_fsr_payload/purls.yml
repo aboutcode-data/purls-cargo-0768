@@ -1,3 +1,12 @@
+- pkg:cargo/snapfire_fsr_payload@0.10.0
+- pkg:cargo/snapfire_fsr_payload@0.11.0
+- pkg:cargo/snapfire_fsr_payload@0.11.1
+- pkg:cargo/snapfire_fsr_payload@0.11.2
+- pkg:cargo/snapfire_fsr_payload@0.12.0
 - pkg:cargo/snapfire_fsr_payload@0.5.0
 - pkg:cargo/snapfire_fsr_payload@0.6.0
 - pkg:cargo/snapfire_fsr_payload@0.6.1
+- pkg:cargo/snapfire_fsr_payload@0.7.0
+- pkg:cargo/snapfire_fsr_payload@0.8.0
+- pkg:cargo/snapfire_fsr_payload@0.9.0
+- pkg:cargo/snapfire_fsr_payload@0.9.1
