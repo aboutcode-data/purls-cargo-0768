@@ -1,1 +1,4 @@
 - pkg:cargo/kovi-plugin-mail@0.1.0
+- pkg:cargo/kovi-plugin-mail@1.0.0
+- pkg:cargo/kovi-plugin-mail@1.1.0
+- pkg:cargo/kovi-plugin-mail@1.2.0
