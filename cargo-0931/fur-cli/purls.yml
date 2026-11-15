@@ -25,3 +25,7 @@
 - pkg:cargo/fur-cli@1.6.0
 - pkg:cargo/fur-cli@1.7.0
 - pkg:cargo/fur-cli@1.8.0
+- pkg:cargo/fur-cli@1.9.0
+- pkg:cargo/fur-cli@2.0.0
+- pkg:cargo/fur-cli@2.1.0
+- pkg:cargo/fur-cli@2.1.1
