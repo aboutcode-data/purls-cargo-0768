@@ -38,3 +38,4 @@
 - pkg:cargo/fusen-rs@0.8.7
 - pkg:cargo/fusen-rs@0.8.8
 - pkg:cargo/fusen-rs@0.8.9
+- pkg:cargo/fusen-rs@0.9.0
