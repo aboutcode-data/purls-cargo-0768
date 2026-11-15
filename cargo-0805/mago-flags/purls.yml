@@ -34,3 +34,5 @@
 - pkg:cargo/mago-flags@1.58.1
 - pkg:cargo/mago-flags@1.58.2
 - pkg:cargo/mago-flags@1.59.0
+- pkg:cargo/mago-flags@1.60.0
+- pkg:cargo/mago-flags@1.60.1
