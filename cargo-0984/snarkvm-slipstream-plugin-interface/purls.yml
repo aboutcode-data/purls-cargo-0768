@@ -1,4 +1,5 @@
 - pkg:cargo/snarkvm-slipstream-plugin-interface@4.10.0
+- pkg:cargo/snarkvm-slipstream-plugin-interface@4.11.0
 - pkg:cargo/snarkvm-slipstream-plugin-interface@4.7.1
 - pkg:cargo/snarkvm-slipstream-plugin-interface@4.7.3
 - pkg:cargo/snarkvm-slipstream-plugin-interface@4.8.1
