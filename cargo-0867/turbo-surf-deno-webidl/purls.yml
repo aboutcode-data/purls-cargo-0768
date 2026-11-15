@@ -1,2 +1,4 @@
 - pkg:cargo/turbo-surf-deno-webidl@0.259.0
 - pkg:cargo/turbo-surf-deno-webidl@0.259.1
+- pkg:cargo/turbo-surf-deno-webidl@0.259.2
+- pkg:cargo/turbo-surf-deno-webidl@0.259.3
