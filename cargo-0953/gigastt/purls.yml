@@ -42,6 +42,10 @@
 - pkg:cargo/gigastt@2.12.0
 - pkg:cargo/gigastt@2.13.0
 - pkg:cargo/gigastt@2.14.0
+- pkg:cargo/gigastt@2.17.0
+- pkg:cargo/gigastt@2.18.0
+- pkg:cargo/gigastt@2.20.0
+- pkg:cargo/gigastt@2.22.0
 - pkg:cargo/gigastt@2.3.0
 - pkg:cargo/gigastt@2.4.0
 - pkg:cargo/gigastt@2.5.0
