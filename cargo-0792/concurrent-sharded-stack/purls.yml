@@ -5,3 +5,4 @@
 - pkg:cargo/concurrent-sharded-stack@0.3.0
 - pkg:cargo/concurrent-sharded-stack@0.3.1
 - pkg:cargo/concurrent-sharded-stack@0.4.0
+- pkg:cargo/concurrent-sharded-stack@0.4.1
