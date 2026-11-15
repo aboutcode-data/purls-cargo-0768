@@ -20,3 +20,5 @@
 - pkg:cargo/nrfxlib-sys@2.9.2
 - pkg:cargo/nrfxlib-sys@3.0.2
 - pkg:cargo/nrfxlib-sys@3.0.3%2B3.0.2
+- pkg:cargo/nrfxlib-sys@3.1.0%2B3.3.0
+- pkg:cargo/nrfxlib-sys@4.0.0%2B3.4.0
