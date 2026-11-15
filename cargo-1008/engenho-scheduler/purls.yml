@@ -41,6 +41,7 @@
 - pkg:cargo/engenho-scheduler@0.53.171
 - pkg:cargo/engenho-scheduler@0.53.172
 - pkg:cargo/engenho-scheduler@0.53.173
+- pkg:cargo/engenho-scheduler@0.53.174
 - pkg:cargo/engenho-scheduler@0.53.2
 - pkg:cargo/engenho-scheduler@0.53.3
 - pkg:cargo/engenho-scheduler@0.53.4
