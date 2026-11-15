@@ -30,7 +30,14 @@
 - pkg:cargo/github-languages@1.0.25
 - pkg:cargo/github-languages@1.0.26
 - pkg:cargo/github-languages@1.0.27
+- pkg:cargo/github-languages@1.0.28
+- pkg:cargo/github-languages@1.0.29
 - pkg:cargo/github-languages@1.0.3
+- pkg:cargo/github-languages@1.0.30
+- pkg:cargo/github-languages@1.0.31
+- pkg:cargo/github-languages@1.0.32
+- pkg:cargo/github-languages@1.0.33
+- pkg:cargo/github-languages@1.0.34
 - pkg:cargo/github-languages@1.0.4
 - pkg:cargo/github-languages@1.0.5
 - pkg:cargo/github-languages@1.0.6

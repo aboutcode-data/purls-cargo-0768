@@ -34,6 +34,11 @@
 - pkg:cargo/gix-archive@0.33.0
 - pkg:cargo/gix-archive@0.34.0
 - pkg:cargo/gix-archive@0.35.0
+- pkg:cargo/gix-archive@0.36.0
+- pkg:cargo/gix-archive@0.36.1
+- pkg:cargo/gix-archive@0.37.0
+- pkg:cargo/gix-archive@0.38.0
+- pkg:cargo/gix-archive@0.39.0
 - pkg:cargo/gix-archive@0.4.0
 - pkg:cargo/gix-archive@0.5.0
 - pkg:cargo/gix-archive@0.6.0
