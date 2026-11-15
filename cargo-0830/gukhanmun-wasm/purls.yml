@@ -51,3 +51,5 @@
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.302%2B6bdb6b7
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.313%2Bc533b6b
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.323%2B7d8d9b3
+- pkg:cargo/gukhanmun-wasm@0.4.0-dev.328%2Bfbf498a
+- pkg:cargo/gukhanmun-wasm@0.4.0-dev.331%2Bed405eb
