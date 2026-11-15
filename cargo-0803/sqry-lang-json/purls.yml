@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-lang-json@30.0.0
 - pkg:cargo/sqry-lang-json@30.0.1
 - pkg:cargo/sqry-lang-json@31.0.0
+- pkg:cargo/sqry-lang-json@32.0.1
+- pkg:cargo/sqry-lang-json@33.0.0
+- pkg:cargo/sqry-lang-json@33.0.1
 - pkg:cargo/sqry-lang-json@4.12.6
 - pkg:cargo/sqry-lang-json@4.12.7
 - pkg:cargo/sqry-lang-json@5.0.1
