@@ -32,3 +32,4 @@
 - pkg:cargo/unrager@0.31.1
 - pkg:cargo/unrager@0.31.2
 - pkg:cargo/unrager@0.32.0
+- pkg:cargo/unrager@0.33.0
