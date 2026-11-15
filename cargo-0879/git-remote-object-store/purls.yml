@@ -4,3 +4,5 @@
 - pkg:cargo/git-remote-object-store@0.2.3
 - pkg:cargo/git-remote-object-store@0.2.4
 - pkg:cargo/git-remote-object-store@0.2.5
+- pkg:cargo/git-remote-object-store@0.2.6
+- pkg:cargo/git-remote-object-store@0.2.7
