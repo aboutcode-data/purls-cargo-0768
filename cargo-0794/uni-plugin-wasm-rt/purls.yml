@@ -23,3 +23,4 @@
 - pkg:cargo/uni-plugin-wasm-rt@5.0.0
 - pkg:cargo/uni-plugin-wasm-rt@5.1.0
 - pkg:cargo/uni-plugin-wasm-rt@5.2.0
+- pkg:cargo/uni-plugin-wasm-rt@5.2.1
