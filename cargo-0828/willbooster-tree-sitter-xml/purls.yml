@@ -20,6 +20,7 @@
 - pkg:cargo/willbooster-tree-sitter-xml@20.0.1
 - pkg:cargo/willbooster-tree-sitter-xml@21.0.0
 - pkg:cargo/willbooster-tree-sitter-xml@22.0.0
+- pkg:cargo/willbooster-tree-sitter-xml@23.0.0
 - pkg:cargo/willbooster-tree-sitter-xml@3.0.0
 - pkg:cargo/willbooster-tree-sitter-xml@3.0.1
 - pkg:cargo/willbooster-tree-sitter-xml@3.0.2
