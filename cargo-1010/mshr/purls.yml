@@ -20,3 +20,4 @@
 - pkg:cargo/mshr@0.8.47
 - pkg:cargo/mshr@0.8.48
 - pkg:cargo/mshr@0.8.51
+- pkg:cargo/mshr@0.9.0
