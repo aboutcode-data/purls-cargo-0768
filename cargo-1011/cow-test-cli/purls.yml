@@ -8,3 +8,4 @@
 - pkg:cargo/cow-test-cli@0.5.1
 - pkg:cargo/cow-test-cli@0.5.2
 - pkg:cargo/cow-test-cli@0.5.3
+- pkg:cargo/cow-test-cli@0.5.4
