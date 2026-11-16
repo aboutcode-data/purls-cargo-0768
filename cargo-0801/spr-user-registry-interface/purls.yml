@@ -1,3 +1,4 @@
 - pkg:cargo/spr-user-registry-interface@0.1.0
+- pkg:cargo/spr-user-registry-interface@0.10.0
 - pkg:cargo/spr-user-registry-interface@0.8.0
 - pkg:cargo/spr-user-registry-interface@0.9.0
