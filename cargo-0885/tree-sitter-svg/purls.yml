@@ -4,3 +4,4 @@
 - pkg:cargo/tree-sitter-svg@0.2.0
 - pkg:cargo/tree-sitter-svg@0.2.1
 - pkg:cargo/tree-sitter-svg@0.3.0
+- pkg:cargo/tree-sitter-svg@0.4.0
