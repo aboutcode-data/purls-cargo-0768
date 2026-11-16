@@ -1,4 +1,5 @@
 - pkg:cargo/cozo-ng-node@0.10.0
 - pkg:cargo/cozo-ng-node@0.11.0
 - pkg:cargo/cozo-ng-node@0.11.1
+- pkg:cargo/cozo-ng-node@0.12.0
 - pkg:cargo/cozo-ng-node@0.8.1
