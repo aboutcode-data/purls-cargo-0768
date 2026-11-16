@@ -9,3 +9,4 @@
 - pkg:cargo/ommx-derive@3.0.0-beta.7
 - pkg:cargo/ommx-derive@3.0.0-beta.8
 - pkg:cargo/ommx-derive@3.0.0-beta.9
+- pkg:cargo/ommx-derive@3.0.0-rc.1
