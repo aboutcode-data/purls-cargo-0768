@@ -6,3 +6,4 @@
 - pkg:cargo/coyote-rns-transport@0.17.0
 - pkg:cargo/coyote-rns-transport@0.18.0
 - pkg:cargo/coyote-rns-transport@0.18.1
+- pkg:cargo/coyote-rns-transport@0.18.2
