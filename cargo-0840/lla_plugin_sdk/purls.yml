@@ -5,3 +5,6 @@
 - pkg:cargo/lla_plugin_sdk@0.6.4
 - pkg:cargo/lla_plugin_sdk@0.6.5
 - pkg:cargo/lla_plugin_sdk@0.6.6
+- pkg:cargo/lla_plugin_sdk@0.7.0
+- pkg:cargo/lla_plugin_sdk@0.8.0
+- pkg:cargo/lla_plugin_sdk@0.9.0
