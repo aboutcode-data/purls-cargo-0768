@@ -191,7 +191,9 @@
 - pkg:cargo/css_ast@0.0.39-canary.d747ffa161
 - pkg:cargo/css_ast@0.0.39-canary.d7ad219641
 - pkg:cargo/css_ast@0.0.39-canary.fe38c3e805
+- pkg:cargo/css_ast@0.0.40-canary.76ff45b523
 - pkg:cargo/css_ast@0.0.40-canary.8825eb78d8
+- pkg:cargo/css_ast@0.0.40-canary.e298b5d1da
 - pkg:cargo/css_ast@0.0.5
 - pkg:cargo/css_ast@0.0.6
 - pkg:cargo/css_ast@0.0.6-canary.23726265a1
