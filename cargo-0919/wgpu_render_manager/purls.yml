@@ -20,6 +20,9 @@
 - pkg:cargo/wgpu_render_manager@0.2.9
 - pkg:cargo/wgpu_render_manager@30.0.0
 - pkg:cargo/wgpu_render_manager@30.0.1
+- pkg:cargo/wgpu_render_manager@30.0.10
+- pkg:cargo/wgpu_render_manager@30.0.11
+- pkg:cargo/wgpu_render_manager@30.0.12
 - pkg:cargo/wgpu_render_manager@30.0.2
 - pkg:cargo/wgpu_render_manager@30.0.3
 - pkg:cargo/wgpu_render_manager@30.0.4
