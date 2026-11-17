@@ -14,6 +14,8 @@
 - pkg:cargo/zakura-consensus@16.0.0
 - pkg:cargo/zakura-consensus@17.0.0
 - pkg:cargo/zakura-consensus@17.0.1
+- pkg:cargo/zakura-consensus@17.0.2
+- pkg:cargo/zakura-consensus@17.1.0
 - pkg:cargo/zakura-consensus@2.0.0
 - pkg:cargo/zakura-consensus@3.0.0
 - pkg:cargo/zakura-consensus@3.0.0-rc0
