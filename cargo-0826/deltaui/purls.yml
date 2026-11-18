@@ -30,9 +30,17 @@
 - pkg:cargo/deltaui@0.0.36
 - pkg:cargo/deltaui@0.0.37
 - pkg:cargo/deltaui@0.0.38
+- pkg:cargo/deltaui@0.0.39
 - pkg:cargo/deltaui@0.0.4
 - pkg:cargo/deltaui@0.0.5
 - pkg:cargo/deltaui@0.0.6
 - pkg:cargo/deltaui@0.0.7
 - pkg:cargo/deltaui@0.0.8
 - pkg:cargo/deltaui@0.0.9
+- pkg:cargo/deltaui@0.1.0
+- pkg:cargo/deltaui@0.2.0
+- pkg:cargo/deltaui@0.2.1
+- pkg:cargo/deltaui@0.3.0
+- pkg:cargo/deltaui@0.4.0
+- pkg:cargo/deltaui@0.5.0
+- pkg:cargo/deltaui@0.5.1
