@@ -4,3 +4,6 @@
 - pkg:cargo/thumbcache@0.2.1
 - pkg:cargo/thumbcache@0.3.0
 - pkg:cargo/thumbcache@0.4.0
+- pkg:cargo/thumbcache@0.5.0
+- pkg:cargo/thumbcache@0.6.0
+- pkg:cargo/thumbcache@0.7.0
