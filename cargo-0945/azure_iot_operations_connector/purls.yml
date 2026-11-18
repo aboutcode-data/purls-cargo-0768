@@ -15,3 +15,4 @@
 - pkg:cargo/azure_iot_operations_connector@2.2.0-rc1
 - pkg:cargo/azure_iot_operations_connector@2.3.0
 - pkg:cargo/azure_iot_operations_connector@2.3.0-beta1
+- pkg:cargo/azure_iot_operations_connector@2.4.0-beta1
