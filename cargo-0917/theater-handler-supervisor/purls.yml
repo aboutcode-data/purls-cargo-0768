@@ -7,6 +7,7 @@
 - pkg:cargo/theater-handler-supervisor@0.3.17
 - pkg:cargo/theater-handler-supervisor@0.3.18
 - pkg:cargo/theater-handler-supervisor@0.3.19
+- pkg:cargo/theater-handler-supervisor@0.3.20
 - pkg:cargo/theater-handler-supervisor@0.3.6
 - pkg:cargo/theater-handler-supervisor@0.3.7
 - pkg:cargo/theater-handler-supervisor@0.3.8
