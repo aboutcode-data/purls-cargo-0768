@@ -40,6 +40,8 @@
 - pkg:cargo/gukhanmun-wasm@0.3.0-dev.185%2Bb9d0c0b
 - pkg:cargo/gukhanmun-wasm@0.3.0-dev.218%2B93636e6
 - pkg:cargo/gukhanmun-wasm@0.3.1
+- pkg:cargo/gukhanmun-wasm@0.3.2-dev.340%2Bda07846
+- pkg:cargo/gukhanmun-wasm@0.3.2-dev.349%2B6ef02c0
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.235%2B2861f4b
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.236%2B75afc34
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.245%2B223a736
@@ -53,3 +55,7 @@
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.323%2B7d8d9b3
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.328%2Bfbf498a
 - pkg:cargo/gukhanmun-wasm@0.4.0-dev.331%2Bed405eb
+- pkg:cargo/gukhanmun-wasm@0.4.0-dev.341%2B41bbb15
+- pkg:cargo/gukhanmun-wasm@0.4.0-dev.348%2Bfb912b9
+- pkg:cargo/gukhanmun-wasm@0.4.0-dev.362%2B7d3d1b0
+- pkg:cargo/gukhanmun-wasm@0.4.0-dev.365%2B4eeb2eb
