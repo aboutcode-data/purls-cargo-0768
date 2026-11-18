@@ -4,3 +4,5 @@
 - pkg:cargo/kit-git-bridge@0.7.1
 - pkg:cargo/kit-git-bridge@0.7.2
 - pkg:cargo/kit-git-bridge@0.7.3
+- pkg:cargo/kit-git-bridge@0.8.0
+- pkg:cargo/kit-git-bridge@0.8.1
