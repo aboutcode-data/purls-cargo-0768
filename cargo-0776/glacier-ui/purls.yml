@@ -90,6 +90,13 @@
 - pkg:cargo/glacier-ui@0.159.0
 - pkg:cargo/glacier-ui@0.16.0
 - pkg:cargo/glacier-ui@0.160.0
+- pkg:cargo/glacier-ui@0.161.0
+- pkg:cargo/glacier-ui@0.162.0
+- pkg:cargo/glacier-ui@0.163.0
+- pkg:cargo/glacier-ui@0.164.0
+- pkg:cargo/glacier-ui@0.165.0
+- pkg:cargo/glacier-ui@0.166.0
+- pkg:cargo/glacier-ui@0.167.0
 - pkg:cargo/glacier-ui@0.17.0
 - pkg:cargo/glacier-ui@0.18.0
 - pkg:cargo/glacier-ui@0.19.0
