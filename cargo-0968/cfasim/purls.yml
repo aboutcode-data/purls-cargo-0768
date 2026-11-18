@@ -21,6 +21,7 @@
 - pkg:cargo/cfasim@0.15.3
 - pkg:cargo/cfasim@0.15.4
 - pkg:cargo/cfasim@0.15.5
+- pkg:cargo/cfasim@0.15.6
 - pkg:cargo/cfasim@0.2.0
 - pkg:cargo/cfasim@0.2.1
 - pkg:cargo/cfasim@0.2.2
