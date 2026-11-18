@@ -66,12 +66,17 @@
 - pkg:cargo/haste-fhir-serialization-json-derive@0.13.0
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.0
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.1
+- pkg:cargo/haste-fhir-serialization-json-derive@0.130.10
+- pkg:cargo/haste-fhir-serialization-json-derive@0.130.11
+- pkg:cargo/haste-fhir-serialization-json-derive@0.130.12
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.2
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.3
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.4
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.5
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.6
 - pkg:cargo/haste-fhir-serialization-json-derive@0.130.7
+- pkg:cargo/haste-fhir-serialization-json-derive@0.130.8
+- pkg:cargo/haste-fhir-serialization-json-derive@0.130.9
 - pkg:cargo/haste-fhir-serialization-json-derive@0.14.0
 - pkg:cargo/haste-fhir-serialization-json-derive@0.15.0
 - pkg:cargo/haste-fhir-serialization-json-derive@0.16.0
