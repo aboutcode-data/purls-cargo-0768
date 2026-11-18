@@ -95,3 +95,17 @@
 - pkg:cargo/datalogic-rs@4.0.7
 - pkg:cargo/datalogic-rs@4.0.9
 - pkg:cargo/datalogic-rs@5.0.0
+- pkg:cargo/datalogic-rs@5.0.1
+- pkg:cargo/datalogic-rs@5.1.0
+- pkg:cargo/datalogic-rs@5.1.1
+- pkg:cargo/datalogic-rs@5.2.0
+- pkg:cargo/datalogic-rs@5.3.0
+- pkg:cargo/datalogic-rs@5.4.0
+- pkg:cargo/datalogic-rs@5.5.0
+- pkg:cargo/datalogic-rs@5.6.0
+- pkg:cargo/datalogic-rs@5.7.0
+- pkg:cargo/datalogic-rs@5.7.1
+- pkg:cargo/datalogic-rs@5.8.0
+- pkg:cargo/datalogic-rs@5.8.1
+- pkg:cargo/datalogic-rs@5.8.2
+- pkg:cargo/datalogic-rs@5.9.0
