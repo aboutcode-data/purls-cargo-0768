@@ -24,3 +24,4 @@
 - pkg:cargo/dynoxide-rs@3.1.0
 - pkg:cargo/dynoxide-rs@3.2.0
 - pkg:cargo/dynoxide-rs@3.3.0
+- pkg:cargo/dynoxide-rs@4.0.0
