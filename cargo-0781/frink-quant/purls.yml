@@ -34,3 +34,5 @@
 - pkg:cargo/frink-quant@0.59.0
 - pkg:cargo/frink-quant@0.60.0
 - pkg:cargo/frink-quant@0.61.0
+- pkg:cargo/frink-quant@0.62.0
+- pkg:cargo/frink-quant@0.63.0
