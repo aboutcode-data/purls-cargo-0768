@@ -9,3 +9,6 @@
 - pkg:cargo/rd2qmd@0.5.1
 - pkg:cargo/rd2qmd@0.5.2
 - pkg:cargo/rd2qmd@0.5.3
+- pkg:cargo/rd2qmd@0.6.0
+- pkg:cargo/rd2qmd@0.6.0-alpha.1
+- pkg:cargo/rd2qmd@0.7.0
