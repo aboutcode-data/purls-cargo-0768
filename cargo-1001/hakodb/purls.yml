@@ -39,6 +39,11 @@
 - pkg:cargo/hakodb@0.20.2
 - pkg:cargo/hakodb@0.20.3
 - pkg:cargo/hakodb@0.20.4
+- pkg:cargo/hakodb@0.20.5
+- pkg:cargo/hakodb@0.20.6
+- pkg:cargo/hakodb@0.20.7
+- pkg:cargo/hakodb@0.20.8
+- pkg:cargo/hakodb@0.21.0
 - pkg:cargo/hakodb@0.8.21
 - pkg:cargo/hakodb@0.8.22
 - pkg:cargo/hakodb@0.8.23
