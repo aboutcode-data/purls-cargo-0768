@@ -12,6 +12,10 @@
 - pkg:cargo/helix-driver-host@0.1.108
 - pkg:cargo/helix-driver-host@0.1.109
 - pkg:cargo/helix-driver-host@0.1.11
+- pkg:cargo/helix-driver-host@0.1.110
+- pkg:cargo/helix-driver-host@0.1.111
+- pkg:cargo/helix-driver-host@0.1.112
+- pkg:cargo/helix-driver-host@0.1.113
 - pkg:cargo/helix-driver-host@0.1.12
 - pkg:cargo/helix-driver-host@0.1.13
 - pkg:cargo/helix-driver-host@0.1.14
