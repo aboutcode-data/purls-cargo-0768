@@ -11,3 +11,4 @@
 - pkg:cargo/ffsync@1.2.0
 - pkg:cargo/ffsync@1.3.0
 - pkg:cargo/ffsync@1.4.0
+- pkg:cargo/ffsync@2.0.0
