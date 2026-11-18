@@ -6,3 +6,5 @@
 - pkg:cargo/throttle-net@0.8.0
 - pkg:cargo/throttle-net@0.9.0
 - pkg:cargo/throttle-net@1.0.0
+- pkg:cargo/throttle-net@2.0.0
+- pkg:cargo/throttle-net@2.1.0
