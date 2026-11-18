@@ -48,3 +48,5 @@
 - pkg:cargo/freya-radio@0.5.0-rc.8
 - pkg:cargo/freya-radio@0.5.0-rc.9
 - pkg:cargo/freya-radio@0.5.1
+- pkg:cargo/freya-radio@0.5.2
+- pkg:cargo/freya-radio@0.6.0-alpha.1
