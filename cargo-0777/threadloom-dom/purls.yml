@@ -5,3 +5,6 @@
 - pkg:cargo/threadloom-dom@0.1.13
 - pkg:cargo/threadloom-dom@0.1.14
 - pkg:cargo/threadloom-dom@0.1.15
+- pkg:cargo/threadloom-dom@0.1.16
+- pkg:cargo/threadloom-dom@0.1.17
+- pkg:cargo/threadloom-dom@0.1.18
