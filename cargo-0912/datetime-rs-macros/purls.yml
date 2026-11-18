@@ -6,3 +6,5 @@
 - pkg:cargo/datetime-rs-macros@1.11.1
 - pkg:cargo/datetime-rs-macros@1.11.2
 - pkg:cargo/datetime-rs-macros@1.11.3
+- pkg:cargo/datetime-rs-macros@1.12.0
+- pkg:cargo/datetime-rs-macros@1.12.1
