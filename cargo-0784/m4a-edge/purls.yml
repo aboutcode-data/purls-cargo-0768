@@ -26,6 +26,7 @@
 - pkg:cargo/m4a-edge@0.4.3
 - pkg:cargo/m4a-edge@0.4.30
 - pkg:cargo/m4a-edge@0.4.31
+- pkg:cargo/m4a-edge@0.4.35
 - pkg:cargo/m4a-edge@0.4.4
 - pkg:cargo/m4a-edge@0.4.5
 - pkg:cargo/m4a-edge@0.4.6
