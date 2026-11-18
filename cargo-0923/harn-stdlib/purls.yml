@@ -103,6 +103,9 @@
 - pkg:cargo/harn-stdlib@0.10.199
 - pkg:cargo/harn-stdlib@0.10.2
 - pkg:cargo/harn-stdlib@0.10.20
+- pkg:cargo/harn-stdlib@0.10.200
+- pkg:cargo/harn-stdlib@0.10.201
+- pkg:cargo/harn-stdlib@0.10.202
 - pkg:cargo/harn-stdlib@0.10.21
 - pkg:cargo/harn-stdlib@0.10.22
 - pkg:cargo/harn-stdlib@0.10.23
