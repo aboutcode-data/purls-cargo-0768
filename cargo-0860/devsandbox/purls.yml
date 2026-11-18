@@ -1,3 +1,4 @@
+- pkg:cargo/devsandbox@0.10.0
 - pkg:cargo/devsandbox@0.2.1
 - pkg:cargo/devsandbox@0.2.2
 - pkg:cargo/devsandbox@0.2.4
