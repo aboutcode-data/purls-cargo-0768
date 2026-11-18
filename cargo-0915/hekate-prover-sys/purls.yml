@@ -16,3 +16,4 @@
 - pkg:cargo/hekate-prover-sys@0.37.0
 - pkg:cargo/hekate-prover-sys@0.38.0
 - pkg:cargo/hekate-prover-sys@0.38.1
+- pkg:cargo/hekate-prover-sys@0.39.0
