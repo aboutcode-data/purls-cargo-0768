@@ -3,5 +3,10 @@
 - pkg:cargo/fframes-dylib@1.3.1-rc.12
 - pkg:cargo/fframes-dylib@1.3.1-rc.13
 - pkg:cargo/fframes-dylib@1.4.2-rc.1
+- pkg:cargo/fframes-dylib@1.4.2-rc.11
 - pkg:cargo/fframes-dylib@1.4.2-rc.2
 - pkg:cargo/fframes-dylib@1.4.2-rc.3
+- pkg:cargo/fframes-dylib@1.4.2-rc.4
+- pkg:cargo/fframes-dylib@1.4.2-rc.6
+- pkg:cargo/fframes-dylib@1.4.2-rc.8
+- pkg:cargo/fframes-dylib@1.4.2-rc.9
