@@ -5,3 +5,5 @@
 - pkg:cargo/guic@0.4.0
 - pkg:cargo/guic@0.5.0
 - pkg:cargo/guic@0.6.0
+- pkg:cargo/guic@0.6.1
+- pkg:cargo/guic@0.6.2
