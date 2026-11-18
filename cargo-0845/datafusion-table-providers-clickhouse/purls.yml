@@ -1,0 +1,5 @@
+- pkg:cargo/datafusion-table-providers-clickhouse@0.13.0
+- pkg:cargo/datafusion-table-providers-clickhouse@0.13.1
+- pkg:cargo/datafusion-table-providers-clickhouse@0.14.0
+- pkg:cargo/datafusion-table-providers-clickhouse@0.15.0
+- pkg:cargo/datafusion-table-providers-clickhouse@0.15.1
