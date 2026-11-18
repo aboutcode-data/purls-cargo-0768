@@ -1,3 +1,4 @@
 - pkg:cargo/fresh-js@0.5.4
 - pkg:cargo/fresh-js@0.5.7
 - pkg:cargo/fresh-js@0.5.8
+- pkg:cargo/fresh-js@0.5.9
