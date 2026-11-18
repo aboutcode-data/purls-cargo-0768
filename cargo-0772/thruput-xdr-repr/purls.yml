@@ -1,0 +1,4 @@
+- pkg:cargo/thruput-xdr-repr@0.16.1
+- pkg:cargo/thruput-xdr-repr@0.17.0
+- pkg:cargo/thruput-xdr-repr@0.17.1
+- pkg:cargo/thruput-xdr-repr@0.18.0
