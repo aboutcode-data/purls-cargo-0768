@@ -1,1 +1,2 @@
 - pkg:cargo/azure_cosmos_queryplan_macos_arm64@0.2.3
+- pkg:cargo/azure_cosmos_queryplan_macos_arm64@0.2.6
