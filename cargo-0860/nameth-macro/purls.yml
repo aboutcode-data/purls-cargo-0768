@@ -41,6 +41,7 @@
 - pkg:cargo/nameth-macro@0.2.22
 - pkg:cargo/nameth-macro@0.2.23
 - pkg:cargo/nameth-macro@0.2.24
+- pkg:cargo/nameth-macro@0.2.25
 - pkg:cargo/nameth-macro@0.2.3
 - pkg:cargo/nameth-macro@0.2.4
 - pkg:cargo/nameth-macro@0.2.5
