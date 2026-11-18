@@ -30,6 +30,7 @@
 - pkg:cargo/aube-runtime@2.0.1
 - pkg:cargo/aube-runtime@2.1.0
 - pkg:cargo/aube-runtime@2.10.0
+- pkg:cargo/aube-runtime@2.10.1
 - pkg:cargo/aube-runtime@2.2.0
 - pkg:cargo/aube-runtime@2.2.1
 - pkg:cargo/aube-runtime@2.2.10
