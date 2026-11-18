@@ -50,3 +50,4 @@
 - pkg:cargo/squawk-github@2.70.0
 - pkg:cargo/squawk-github@2.71.0
 - pkg:cargo/squawk-github@2.72.0
+- pkg:cargo/squawk-github@2.73.0
