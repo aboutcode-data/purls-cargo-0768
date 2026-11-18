@@ -70,3 +70,4 @@
 - pkg:cargo/hashtree-resolver@0.2.87
 - pkg:cargo/hashtree-resolver@0.2.9
 - pkg:cargo/hashtree-resolver@0.3.0
+- pkg:cargo/hashtree-resolver@0.3.1
