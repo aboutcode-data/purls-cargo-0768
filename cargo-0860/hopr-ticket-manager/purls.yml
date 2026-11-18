@@ -1,5 +1,6 @@
 - pkg:cargo/hopr-ticket-manager@0.10.0
 - pkg:cargo/hopr-ticket-manager@0.11.0
+- pkg:cargo/hopr-ticket-manager@0.11.1
 - pkg:cargo/hopr-ticket-manager@0.5.1
 - pkg:cargo/hopr-ticket-manager@0.5.2
 - pkg:cargo/hopr-ticket-manager@0.6.0

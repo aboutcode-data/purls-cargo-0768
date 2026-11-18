@@ -28,3 +28,7 @@
 - pkg:cargo/hopr-strategy@8.0.1
 - pkg:cargo/hopr-strategy@9.0.0
 - pkg:cargo/hopr-strategy@9.0.1
+- pkg:cargo/hopr-strategy@9.0.2
+- pkg:cargo/hopr-strategy@9.0.3
+- pkg:cargo/hopr-strategy@9.1.0
+- pkg:cargo/hopr-strategy@9.2.0
