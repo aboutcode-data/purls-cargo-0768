@@ -74,6 +74,16 @@
 - pkg:cargo/pmcp@2.2.0
 - pkg:cargo/pmcp@2.20.0
 - pkg:cargo/pmcp@2.20.3
+- pkg:cargo/pmcp@2.21.0
+- pkg:cargo/pmcp@2.21.1
+- pkg:cargo/pmcp@2.22.0
+- pkg:cargo/pmcp@2.22.1
+- pkg:cargo/pmcp@2.22.2
+- pkg:cargo/pmcp@2.22.4
+- pkg:cargo/pmcp@2.22.5
+- pkg:cargo/pmcp@2.22.6
+- pkg:cargo/pmcp@2.22.7
+- pkg:cargo/pmcp@2.23.0
 - pkg:cargo/pmcp@2.3.0
 - pkg:cargo/pmcp@2.4.0
 - pkg:cargo/pmcp@2.6.0

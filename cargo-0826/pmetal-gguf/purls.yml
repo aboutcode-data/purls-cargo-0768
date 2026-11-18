@@ -17,3 +17,5 @@
 - pkg:cargo/pmetal-gguf@0.3.9
 - pkg:cargo/pmetal-gguf@0.4.0
 - pkg:cargo/pmetal-gguf@0.5.0
+- pkg:cargo/pmetal-gguf@0.7.0
+- pkg:cargo/pmetal-gguf@0.7.1
