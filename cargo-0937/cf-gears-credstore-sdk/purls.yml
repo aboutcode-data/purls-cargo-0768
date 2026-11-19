@@ -20,6 +20,7 @@
 - pkg:cargo/cf-gears-credstore-sdk@0.2.21
 - pkg:cargo/cf-gears-credstore-sdk@0.2.22
 - pkg:cargo/cf-gears-credstore-sdk@0.2.23
+- pkg:cargo/cf-gears-credstore-sdk@0.2.24
 - pkg:cargo/cf-gears-credstore-sdk@0.2.3
 - pkg:cargo/cf-gears-credstore-sdk@0.2.4
 - pkg:cargo/cf-gears-credstore-sdk@0.2.5
