@@ -21,3 +21,10 @@
 - pkg:cargo/datafusion-functions-table@52.5.0
 - pkg:cargo/datafusion-functions-table@53.0.0
 - pkg:cargo/datafusion-functions-table@53.1.0
+- pkg:cargo/datafusion-functions-table@54.0.0
+- pkg:cargo/datafusion-functions-table@54.1.0
+- pkg:cargo/datafusion-functions-table@54.2.0
+- pkg:cargo/datafusion-functions-table@55.0.0
+- pkg:cargo/datafusion-functions-table@55.1.0
+- pkg:cargo/datafusion-functions-table@55.2.0
+- pkg:cargo/datafusion-functions-table@55.3.0
