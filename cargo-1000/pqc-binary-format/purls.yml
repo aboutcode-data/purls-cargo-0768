@@ -16,3 +16,4 @@
 - pkg:cargo/pqc-binary-format@2.0.2
 - pkg:cargo/pqc-binary-format@3.0.0
 - pkg:cargo/pqc-binary-format@3.0.1
+- pkg:cargo/pqc-binary-format@3.0.2
