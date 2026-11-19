@@ -3,3 +3,6 @@
 - pkg:cargo/cssprint@0.1.7
 - pkg:cargo/cssprint@0.1.8
 - pkg:cargo/cssprint@0.1.9
+- pkg:cargo/cssprint@0.2.0
+- pkg:cargo/cssprint@0.3.0
+- pkg:cargo/cssprint@0.4.0
