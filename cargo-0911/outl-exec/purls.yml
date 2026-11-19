@@ -107,6 +107,7 @@
 - pkg:cargo/outl-exec@0.13.0-beta.301
 - pkg:cargo/outl-exec@0.13.0-beta.310
 - pkg:cargo/outl-exec@0.13.0-beta.311
+- pkg:cargo/outl-exec@0.13.0-beta.312
 - pkg:cargo/outl-exec@0.13.1
 - pkg:cargo/outl-exec@0.13.2
 - pkg:cargo/outl-exec@0.13.3
