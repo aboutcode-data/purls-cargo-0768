@@ -8,6 +8,8 @@
 - pkg:cargo/cooklang-import@0.13.0
 - pkg:cargo/cooklang-import@0.13.1
 - pkg:cargo/cooklang-import@0.13.2
+- pkg:cargo/cooklang-import@0.13.3
+- pkg:cargo/cooklang-import@0.13.4
 - pkg:cargo/cooklang-import@0.2.0
 - pkg:cargo/cooklang-import@0.3.0
 - pkg:cargo/cooklang-import@0.3.1
