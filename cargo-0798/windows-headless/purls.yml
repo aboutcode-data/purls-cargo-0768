@@ -5,3 +5,5 @@
 - pkg:cargo/windows-headless@0.3.2-alpha
 - pkg:cargo/windows-headless@0.3.3-alpha
 - pkg:cargo/windows-headless@0.3.4-alpha
+- pkg:cargo/windows-headless@0.3.5-alpha
+- pkg:cargo/windows-headless@0.3.6-alpha
