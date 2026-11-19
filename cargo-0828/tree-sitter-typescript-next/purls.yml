@@ -1,1 +1,4 @@
 - pkg:cargo/tree-sitter-typescript-next@0.24.0
+- pkg:cargo/tree-sitter-typescript-next@0.25.0
+- pkg:cargo/tree-sitter-typescript-next@0.25.1
+- pkg:cargo/tree-sitter-typescript-next@0.25.2
