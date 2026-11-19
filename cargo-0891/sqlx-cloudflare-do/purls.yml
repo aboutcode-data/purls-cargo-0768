@@ -1,3 +1,4 @@
 - pkg:cargo/sqlx-cloudflare-do@0.1.0
 - pkg:cargo/sqlx-cloudflare-do@0.2.0
 - pkg:cargo/sqlx-cloudflare-do@0.3.0
+- pkg:cargo/sqlx-cloudflare-do@0.3.1
