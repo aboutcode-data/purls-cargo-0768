@@ -21,3 +21,4 @@
 - pkg:cargo/deps-gradle@3.0.0
 - pkg:cargo/deps-gradle@4.0.0
 - pkg:cargo/deps-gradle@5.0.0
+- pkg:cargo/deps-gradle@6.0.0
