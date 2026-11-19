@@ -16,3 +16,4 @@
 - pkg:cargo/azure_security_keyvault_certificates@1.0.1
 - pkg:cargo/azure_security_keyvault_certificates@1.1.0-beta.1
 - pkg:cargo/azure_security_keyvault_certificates@1.1.0-beta.2
+- pkg:cargo/azure_security_keyvault_certificates@1.1.0-beta.3
