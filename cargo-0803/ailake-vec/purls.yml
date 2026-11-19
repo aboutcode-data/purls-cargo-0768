@@ -33,6 +33,8 @@
 - pkg:cargo/ailake-vec@0.1.2
 - pkg:cargo/ailake-vec@0.1.20
 - pkg:cargo/ailake-vec@0.1.21
+- pkg:cargo/ailake-vec@0.1.22
+- pkg:cargo/ailake-vec@0.1.23
 - pkg:cargo/ailake-vec@0.1.3
 - pkg:cargo/ailake-vec@0.1.4
 - pkg:cargo/ailake-vec@0.1.5
