@@ -1,3 +1,4 @@
+- pkg:cargo/hanafubuki-agent-plugin-packages@0.10.1
 - pkg:cargo/hanafubuki-agent-plugin-packages@0.4.0
 - pkg:cargo/hanafubuki-agent-plugin-packages@0.4.2
 - pkg:cargo/hanafubuki-agent-plugin-packages@0.5.0
