@@ -7,6 +7,12 @@
 - pkg:cargo/ising-generators@0.0.13-rc1
 - pkg:cargo/ising-generators@0.0.14
 - pkg:cargo/ising-generators@0.0.15
+- pkg:cargo/ising-generators@0.0.16
+- pkg:cargo/ising-generators@0.0.16-rc1
+- pkg:cargo/ising-generators@0.0.16-rc2
+- pkg:cargo/ising-generators@0.0.17
+- pkg:cargo/ising-generators@0.0.17-rc1
+- pkg:cargo/ising-generators@0.0.17-rc2
 - pkg:cargo/ising-generators@0.0.4
 - pkg:cargo/ising-generators@0.0.4-rc2
 - pkg:cargo/ising-generators@0.0.5
