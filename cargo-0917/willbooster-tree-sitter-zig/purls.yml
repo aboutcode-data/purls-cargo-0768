@@ -9,6 +9,7 @@
 - pkg:cargo/willbooster-tree-sitter-zig@11.0.0
 - pkg:cargo/willbooster-tree-sitter-zig@12.0.0
 - pkg:cargo/willbooster-tree-sitter-zig@13.0.0
+- pkg:cargo/willbooster-tree-sitter-zig@14.0.0
 - pkg:cargo/willbooster-tree-sitter-zig@2.0.0
 - pkg:cargo/willbooster-tree-sitter-zig@2.0.1
 - pkg:cargo/willbooster-tree-sitter-zig@2.0.2
