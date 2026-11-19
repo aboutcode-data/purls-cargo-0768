@@ -10,6 +10,7 @@
 - pkg:cargo/speccoder-web@0.17.0
 - pkg:cargo/speccoder-web@0.18.0
 - pkg:cargo/speccoder-web@0.19.0
+- pkg:cargo/speccoder-web@0.19.1
 - pkg:cargo/speccoder-web@0.2.0
 - pkg:cargo/speccoder-web@0.3.0
 - pkg:cargo/speccoder-web@0.4.0
