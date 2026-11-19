@@ -1,6 +1,15 @@
 - pkg:cargo/tumpel-api@0.1.0
 - pkg:cargo/tumpel-api@0.1.1
 - pkg:cargo/tumpel-api@0.1.2
+- pkg:cargo/tumpel-api@0.10.0
+- pkg:cargo/tumpel-api@0.11.0
+- pkg:cargo/tumpel-api@0.12.0
+- pkg:cargo/tumpel-api@0.13.0
+- pkg:cargo/tumpel-api@0.14.0
+- pkg:cargo/tumpel-api@0.15.0
+- pkg:cargo/tumpel-api@0.16.0
+- pkg:cargo/tumpel-api@0.17.0
+- pkg:cargo/tumpel-api@0.18.0
 - pkg:cargo/tumpel-api@0.2.0
 - pkg:cargo/tumpel-api@0.3.0
 - pkg:cargo/tumpel-api@0.4.0
@@ -10,3 +19,8 @@
 - pkg:cargo/tumpel-api@0.7.0
 - pkg:cargo/tumpel-api@0.8.0
 - pkg:cargo/tumpel-api@0.8.1
+- pkg:cargo/tumpel-api@0.8.2
+- pkg:cargo/tumpel-api@0.8.3
+- pkg:cargo/tumpel-api@0.8.4
+- pkg:cargo/tumpel-api@0.8.5
+- pkg:cargo/tumpel-api@0.9.0
