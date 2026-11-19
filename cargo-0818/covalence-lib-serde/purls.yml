@@ -1,3 +1,4 @@
+- pkg:cargo/covalence-lib-serde@0.1.0-dev.10
 - pkg:cargo/covalence-lib-serde@0.1.0-dev.2
 - pkg:cargo/covalence-lib-serde@0.1.0-dev.3
 - pkg:cargo/covalence-lib-serde@0.1.0-dev.4
