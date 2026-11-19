@@ -1,2 +1,3 @@
 - pkg:cargo/ssmcp@0.4.0
 - pkg:cargo/ssmcp@0.5.1
+- pkg:cargo/ssmcp@0.6.3
