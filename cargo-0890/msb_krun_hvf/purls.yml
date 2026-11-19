@@ -38,6 +38,7 @@
 - pkg:cargo/msb_krun_hvf@0.1.43
 - pkg:cargo/msb_krun_hvf@0.1.44
 - pkg:cargo/msb_krun_hvf@0.1.45
+- pkg:cargo/msb_krun_hvf@0.1.46
 - pkg:cargo/msb_krun_hvf@0.1.5
 - pkg:cargo/msb_krun_hvf@0.1.6
 - pkg:cargo/msb_krun_hvf@0.1.7
