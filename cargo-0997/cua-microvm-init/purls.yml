@@ -14,4 +14,5 @@
 - pkg:cargo/cua-microvm-init@0.28.0
 - pkg:cargo/cua-microvm-init@0.28.1
 - pkg:cargo/cua-microvm-init@0.28.2
+- pkg:cargo/cua-microvm-init@0.28.3
 - pkg:cargo/cua-microvm-init@0.9.0
