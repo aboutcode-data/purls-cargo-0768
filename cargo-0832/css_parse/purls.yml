@@ -341,9 +341,16 @@
 - pkg:cargo/css_parse@0.0.4-canary.e12467edb32089141d9fc7c6fa38dcfa5efc3058
 - pkg:cargo/css_parse@0.0.4-canary.e868d967924a12745efb5090a5400e7fb4c326c5
 - pkg:cargo/css_parse@0.0.4-canary.f938d0c3c96d006b1a82a41e0f3c0e8140e44849
+- pkg:cargo/css_parse@0.0.40
+- pkg:cargo/css_parse@0.0.40-canary.202cc871cb
+- pkg:cargo/css_parse@0.0.40-canary.32a9c928e4
 - pkg:cargo/css_parse@0.0.40-canary.76ff45b523
 - pkg:cargo/css_parse@0.0.40-canary.8825eb78d8
 - pkg:cargo/css_parse@0.0.40-canary.e298b5d1da
+- pkg:cargo/css_parse@0.0.41
+- pkg:cargo/css_parse@0.0.41-canary.6b97b1ff18
+- pkg:cargo/css_parse@0.0.42-canary.50bdb0c356
+- pkg:cargo/css_parse@0.0.42-canary.62c143ae1c
 - pkg:cargo/css_parse@0.0.5
 - pkg:cargo/css_parse@0.0.5-canary.08951005d2fb38dab99572c6b873f80d77efaca0
 - pkg:cargo/css_parse@0.0.5-canary.25ee2347cbfa3fd488dbb77e62d928c9dc03c1fc
