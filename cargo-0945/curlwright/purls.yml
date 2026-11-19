@@ -181,6 +181,11 @@
 - pkg:cargo/curlwright@1.52.3
 - pkg:cargo/curlwright@1.52.4
 - pkg:cargo/curlwright@1.52.5
+- pkg:cargo/curlwright@1.53.0
+- pkg:cargo/curlwright@1.54.0
+- pkg:cargo/curlwright@1.54.1
+- pkg:cargo/curlwright@1.54.2
+- pkg:cargo/curlwright@1.54.3
 - pkg:cargo/curlwright@1.6.0
 - pkg:cargo/curlwright@1.7.0
 - pkg:cargo/curlwright@1.7.1
