@@ -24,3 +24,4 @@
 - pkg:cargo/tree-sitter-macaulay2@6.3.2
 - pkg:cargo/tree-sitter-macaulay2@6.3.3
 - pkg:cargo/tree-sitter-macaulay2@6.3.4
+- pkg:cargo/tree-sitter-macaulay2@6.4.0
