@@ -15,6 +15,10 @@
 - pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.0
 - pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.1
 - pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.10
+- pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.11
+- pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.12
+- pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.13
+- pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.14
 - pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.2
 - pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.3
 - pkg:cargo/cortexkit-role-tool-provider-conformance@0.15.4
