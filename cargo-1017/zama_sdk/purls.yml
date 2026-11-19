@@ -24,6 +24,9 @@
 - pkg:cargo/zama_sdk@3.8.0-beta.7
 - pkg:cargo/zama_sdk@3.8.0-beta.8
 - pkg:cargo/zama_sdk@3.8.0-beta.9
+- pkg:cargo/zama_sdk@3.9.0-beta.1
+- pkg:cargo/zama_sdk@3.9.0-beta.2
 - pkg:cargo/zama_sdk@4.0.0-alpha.2
 - pkg:cargo/zama_sdk@4.0.0-alpha.3
 - pkg:cargo/zama_sdk@4.0.0-alpha.4
+- pkg:cargo/zama_sdk@4.0.0-alpha.5
