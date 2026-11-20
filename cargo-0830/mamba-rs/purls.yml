@@ -35,3 +35,4 @@
 - pkg:cargo/mamba-rs@0.8.2
 - pkg:cargo/mamba-rs@0.8.3
 - pkg:cargo/mamba-rs@0.8.4
+- pkg:cargo/mamba-rs@0.8.5
