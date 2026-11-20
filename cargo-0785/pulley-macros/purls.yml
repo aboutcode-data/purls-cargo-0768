@@ -17,6 +17,8 @@
 - pkg:cargo/pulley-macros@36.0.2
 - pkg:cargo/pulley-macros@36.0.20
 - pkg:cargo/pulley-macros@36.0.21
+- pkg:cargo/pulley-macros@36.0.22
+- pkg:cargo/pulley-macros@36.0.23
 - pkg:cargo/pulley-macros@36.0.3
 - pkg:cargo/pulley-macros@36.0.4
 - pkg:cargo/pulley-macros@36.0.5
@@ -71,6 +73,7 @@
 - pkg:cargo/pulley-macros@47.0.4
 - pkg:cargo/pulley-macros@48.0.0
 - pkg:cargo/pulley-macros@48.0.1
+- pkg:cargo/pulley-macros@48.0.10
 - pkg:cargo/pulley-macros@48.0.2
 - pkg:cargo/pulley-macros@48.0.3
 - pkg:cargo/pulley-macros@48.0.4
@@ -87,8 +90,10 @@
 - pkg:cargo/pulley-macros@49.0.4
 - pkg:cargo/pulley-macros@49.0.5
 - pkg:cargo/pulley-macros@49.0.6
+- pkg:cargo/pulley-macros@49.0.7
 - pkg:cargo/pulley-macros@50.0.0
 - pkg:cargo/pulley-macros@50.0.0-rc.1
 - pkg:cargo/pulley-macros@50.0.1
 - pkg:cargo/pulley-macros@50.0.2
+- pkg:cargo/pulley-macros@50.0.3
 - pkg:cargo/pulley-macros@51.0.0-rc.1
