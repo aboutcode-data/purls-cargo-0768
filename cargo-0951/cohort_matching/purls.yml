@@ -7,3 +7,7 @@
 - pkg:cargo/cohort_matching@0.5.1
 - pkg:cargo/cohort_matching@0.5.2
 - pkg:cargo/cohort_matching@0.5.3
+- pkg:cargo/cohort_matching@0.5.4
+- pkg:cargo/cohort_matching@0.6.0
+- pkg:cargo/cohort_matching@0.7.0
+- pkg:cargo/cohort_matching@0.8.0
