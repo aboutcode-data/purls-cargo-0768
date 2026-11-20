@@ -10,3 +10,4 @@
 - pkg:cargo/wide-log-macros@0.6.5
 - pkg:cargo/wide-log-macros@0.7.0
 - pkg:cargo/wide-log-macros@0.8.0
+- pkg:cargo/wide-log-macros@0.9.0
