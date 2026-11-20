@@ -167,3 +167,5 @@
 - pkg:cargo/koan-tui@0.72.1
 - pkg:cargo/koan-tui@0.72.2
 - pkg:cargo/koan-tui@0.72.3
+- pkg:cargo/koan-tui@0.72.4
+- pkg:cargo/koan-tui@0.73.0
