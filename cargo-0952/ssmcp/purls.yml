@@ -1,3 +1,6 @@
+- pkg:cargo/ssmcp@0.10.10
+- pkg:cargo/ssmcp@0.10.13
+- pkg:cargo/ssmcp@0.10.20
 - pkg:cargo/ssmcp@0.4.0
 - pkg:cargo/ssmcp@0.5.1
 - pkg:cargo/ssmcp@0.6.3
