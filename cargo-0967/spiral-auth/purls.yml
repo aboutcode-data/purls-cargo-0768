@@ -12,6 +12,7 @@
 - pkg:cargo/spiral-auth@0.1.20
 - pkg:cargo/spiral-auth@0.1.21
 - pkg:cargo/spiral-auth@0.1.22
+- pkg:cargo/spiral-auth@0.1.23
 - pkg:cargo/spiral-auth@0.1.7
 - pkg:cargo/spiral-auth@0.1.8
 - pkg:cargo/spiral-auth@0.1.9
