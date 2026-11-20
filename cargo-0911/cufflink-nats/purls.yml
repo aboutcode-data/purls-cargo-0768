@@ -12,4 +12,5 @@
 - pkg:cargo/cufflink-nats@0.9.1
 - pkg:cargo/cufflink-nats@0.9.2
 - pkg:cargo/cufflink-nats@0.9.3
+- pkg:cargo/cufflink-nats@0.9.4
 - pkg:cargo/cufflink-nats@0.9.4-rc.1
