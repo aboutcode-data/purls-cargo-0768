@@ -9,3 +9,6 @@
 - pkg:cargo/mcp-guest@0.16.0
 - pkg:cargo/mcp-guest@0.17.0
 - pkg:cargo/mcp-guest@0.17.1
+- pkg:cargo/mcp-guest@0.17.2
+- pkg:cargo/mcp-guest@0.17.3
+- pkg:cargo/mcp-guest@0.17.4
