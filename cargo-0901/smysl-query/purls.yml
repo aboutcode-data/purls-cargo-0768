@@ -2,3 +2,4 @@
 - pkg:cargo/smysl-query@1.11.0
 - pkg:cargo/smysl-query@1.15.0
 - pkg:cargo/smysl-query@1.16.0
+- pkg:cargo/smysl-query@1.17.0

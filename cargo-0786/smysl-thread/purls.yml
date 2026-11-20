@@ -8,6 +8,7 @@
 - pkg:cargo/smysl-thread@1.11.0
 - pkg:cargo/smysl-thread@1.15.0
 - pkg:cargo/smysl-thread@1.16.0
+- pkg:cargo/smysl-thread@1.17.0
 - pkg:cargo/smysl-thread@1.2.0
 - pkg:cargo/smysl-thread@1.3.0
 - pkg:cargo/smysl-thread@1.4.0
