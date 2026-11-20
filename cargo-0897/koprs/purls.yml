@@ -1,5 +1,6 @@
 - pkg:cargo/koprs@0.10.4
 - pkg:cargo/koprs@0.12.5
+- pkg:cargo/koprs@0.12.6
 - pkg:cargo/koprs@0.5.2
 - pkg:cargo/koprs@0.5.3
 - pkg:cargo/koprs@0.5.4
