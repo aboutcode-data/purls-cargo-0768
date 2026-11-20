@@ -81,6 +81,9 @@
 - pkg:cargo/willbooster-tree-sitter-typescript@31.0.0
 - pkg:cargo/willbooster-tree-sitter-typescript@32.0.0
 - pkg:cargo/willbooster-tree-sitter-typescript@33.0.0
+- pkg:cargo/willbooster-tree-sitter-typescript@33.0.1
+- pkg:cargo/willbooster-tree-sitter-typescript@34.0.0
+- pkg:cargo/willbooster-tree-sitter-typescript@34.0.1
 - pkg:cargo/willbooster-tree-sitter-typescript@4.0.0
 - pkg:cargo/willbooster-tree-sitter-typescript@5.0.0
 - pkg:cargo/willbooster-tree-sitter-typescript@5.0.1

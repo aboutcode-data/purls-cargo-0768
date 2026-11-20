@@ -3,3 +3,5 @@
 - pkg:cargo/willbooster-tree-sitter-sql@1.0.1
 - pkg:cargo/willbooster-tree-sitter-sql@2.0.0
 - pkg:cargo/willbooster-tree-sitter-sql@3.0.0
+- pkg:cargo/willbooster-tree-sitter-sql@3.0.1
+- pkg:cargo/willbooster-tree-sitter-sql@3.0.2
