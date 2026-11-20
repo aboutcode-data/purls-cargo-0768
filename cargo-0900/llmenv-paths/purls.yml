@@ -19,6 +19,8 @@
 - pkg:cargo/llmenv-paths@3.12.1
 - pkg:cargo/llmenv-paths@3.12.2
 - pkg:cargo/llmenv-paths@3.13.0
+- pkg:cargo/llmenv-paths@3.14.0
+- pkg:cargo/llmenv-paths@3.14.1
 - pkg:cargo/llmenv-paths@3.2.0
 - pkg:cargo/llmenv-paths@3.3.0
 - pkg:cargo/llmenv-paths@3.4.0
