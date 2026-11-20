@@ -29,7 +29,11 @@
 - pkg:cargo/confluence-cli@0.1.35
 - pkg:cargo/confluence-cli@0.1.36
 - pkg:cargo/confluence-cli@0.1.37
+- pkg:cargo/confluence-cli@0.1.38
+- pkg:cargo/confluence-cli@0.1.39
 - pkg:cargo/confluence-cli@0.1.4
+- pkg:cargo/confluence-cli@0.1.40
+- pkg:cargo/confluence-cli@0.1.41
 - pkg:cargo/confluence-cli@0.1.5
 - pkg:cargo/confluence-cli@0.1.6
 - pkg:cargo/confluence-cli@0.1.7
