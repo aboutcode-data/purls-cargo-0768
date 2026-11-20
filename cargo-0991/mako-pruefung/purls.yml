@@ -28,3 +28,6 @@
 - pkg:cargo/mako-pruefung@0.38.1
 - pkg:cargo/mako-pruefung@0.38.2
 - pkg:cargo/mako-pruefung@0.38.3
+- pkg:cargo/mako-pruefung@0.39.0
+- pkg:cargo/mako-pruefung@0.40.0
+- pkg:cargo/mako-pruefung@0.41.0

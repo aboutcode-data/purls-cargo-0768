@@ -15,6 +15,8 @@
 - pkg:cargo/magi-code@0.107.0
 - pkg:cargo/magi-code@0.108.0
 - pkg:cargo/magi-code@0.109.0
+- pkg:cargo/magi-code@0.109.1
+- pkg:cargo/magi-code@0.109.2
 - pkg:cargo/magi-code@0.61.0
 - pkg:cargo/magi-code@0.62.0
 - pkg:cargo/magi-code@0.63.0
