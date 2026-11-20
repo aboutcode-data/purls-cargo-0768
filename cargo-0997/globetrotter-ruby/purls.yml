@@ -5,6 +5,7 @@
 - pkg:cargo/globetrotter-ruby@0.0.14
 - pkg:cargo/globetrotter-ruby@0.0.15
 - pkg:cargo/globetrotter-ruby@0.0.17
+- pkg:cargo/globetrotter-ruby@0.0.18
 - pkg:cargo/globetrotter-ruby@0.0.2
 - pkg:cargo/globetrotter-ruby@0.0.3
 - pkg:cargo/globetrotter-ruby@0.0.4
