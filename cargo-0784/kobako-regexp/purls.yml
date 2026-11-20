@@ -13,6 +13,7 @@
 - pkg:cargo/kobako-regexp@0.18.0
 - pkg:cargo/kobako-regexp@0.19.0
 - pkg:cargo/kobako-regexp@0.20.0
+- pkg:cargo/kobako-regexp@0.21.0
 - pkg:cargo/kobako-regexp@0.4.0
 - pkg:cargo/kobako-regexp@0.4.1
 - pkg:cargo/kobako-regexp@0.5.0
