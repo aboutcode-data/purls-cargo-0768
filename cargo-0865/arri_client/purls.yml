@@ -69,3 +69,4 @@
 - pkg:cargo/arri_client@0.84.0
 - pkg:cargo/arri_client@0.84.1
 - pkg:cargo/arri_client@0.85.0
+- pkg:cargo/arri_client@0.86.0
