@@ -1,3 +1,4 @@
 - pkg:cargo/lsd-protocol@113.0.0
 - pkg:cargo/lsd-protocol@113.0.1
 - pkg:cargo/lsd-protocol@113.0.2
+- pkg:cargo/lsd-protocol@113.1.0
