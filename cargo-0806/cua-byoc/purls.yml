@@ -15,5 +15,8 @@
 - pkg:cargo/cua-byoc@0.28.1
 - pkg:cargo/cua-byoc@0.28.2
 - pkg:cargo/cua-byoc@0.28.3
+- pkg:cargo/cua-byoc@0.28.4
+- pkg:cargo/cua-byoc@0.28.5
+- pkg:cargo/cua-byoc@0.28.6
 - pkg:cargo/cua-byoc@0.7.0
 - pkg:cargo/cua-byoc@0.9.0
