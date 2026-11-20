@@ -51,6 +51,7 @@
 - pkg:cargo/commonware-cryptography@0.0.9
 - pkg:cargo/commonware-cryptography@2026.10.0
 - pkg:cargo/commonware-cryptography@2026.10.1
+- pkg:cargo/commonware-cryptography@2026.11.0
 - pkg:cargo/commonware-cryptography@2026.2.0
 - pkg:cargo/commonware-cryptography@2026.3.0
 - pkg:cargo/commonware-cryptography@2026.4.0
