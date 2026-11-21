@@ -1,5 +1,10 @@
 - pkg:cargo/hanafubuki-agent-hooks@0.10.1
 - pkg:cargo/hanafubuki-agent-hooks@0.10.2
+- pkg:cargo/hanafubuki-agent-hooks@0.10.3
+- pkg:cargo/hanafubuki-agent-hooks@0.10.4
+- pkg:cargo/hanafubuki-agent-hooks@0.10.5
+- pkg:cargo/hanafubuki-agent-hooks@0.10.6
+- pkg:cargo/hanafubuki-agent-hooks@0.10.7
 - pkg:cargo/hanafubuki-agent-hooks@0.4.0
 - pkg:cargo/hanafubuki-agent-hooks@0.4.2
 - pkg:cargo/hanafubuki-agent-hooks@0.5.0
