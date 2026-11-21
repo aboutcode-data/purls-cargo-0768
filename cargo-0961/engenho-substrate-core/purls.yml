@@ -66,3 +66,5 @@
 - pkg:cargo/engenho-substrate-core@0.53.184
 - pkg:cargo/engenho-substrate-core@0.53.185
 - pkg:cargo/engenho-substrate-core@0.53.186
+- pkg:cargo/engenho-substrate-core@0.53.187
+- pkg:cargo/engenho-substrate-core@0.53.188

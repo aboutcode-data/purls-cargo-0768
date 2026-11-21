@@ -65,6 +65,8 @@
 - pkg:cargo/engenho-substrate-props@0.53.184
 - pkg:cargo/engenho-substrate-props@0.53.185
 - pkg:cargo/engenho-substrate-props@0.53.186
+- pkg:cargo/engenho-substrate-props@0.53.187
+- pkg:cargo/engenho-substrate-props@0.53.188
 - pkg:cargo/engenho-substrate-props@0.53.2
 - pkg:cargo/engenho-substrate-props@0.53.3
 - pkg:cargo/engenho-substrate-props@0.53.4
