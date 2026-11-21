@@ -33,3 +33,4 @@
 - pkg:cargo/dynamo-tokenizers@4.2.0
 - pkg:cargo/dynamo-tokenizers@4.3.0
 - pkg:cargo/dynamo-tokenizers@4.3.1
+- pkg:cargo/dynamo-tokenizers@4.3.2
