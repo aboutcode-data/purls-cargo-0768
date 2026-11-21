@@ -14,3 +14,4 @@
 - pkg:cargo/wireless-mbus-link-layer@0.6.1
 - pkg:cargo/wireless-mbus-link-layer@0.7.0
 - pkg:cargo/wireless-mbus-link-layer@0.7.1
+- pkg:cargo/wireless-mbus-link-layer@0.7.4
