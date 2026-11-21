@@ -7,3 +7,4 @@
 - pkg:cargo/mackerel_plugin@0.2.4
 - pkg:cargo/mackerel_plugin@0.2.5
 - pkg:cargo/mackerel_plugin@0.2.6
+- pkg:cargo/mackerel_plugin@0.3.0
