@@ -4,3 +4,4 @@
 - pkg:cargo/thruput-syscall@0.66.0
 - pkg:cargo/thruput-syscall@0.66.1
 - pkg:cargo/thruput-syscall@0.66.2
+- pkg:cargo/thruput-syscall@0.67.0
