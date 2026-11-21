@@ -140,6 +140,7 @@
 - pkg:cargo/feldera-observability@0.334.0
 - pkg:cargo/feldera-observability@0.334.1
 - pkg:cargo/feldera-observability@0.334.2
+- pkg:cargo/feldera-observability@0.334.3
 - pkg:cargo/feldera-observability@0.335.0
 - pkg:cargo/feldera-observability@0.336.0
 - pkg:cargo/feldera-observability@0.337.0
@@ -188,3 +189,6 @@
 - pkg:cargo/feldera-observability@0.380.0
 - pkg:cargo/feldera-observability@0.381.0
 - pkg:cargo/feldera-observability@0.382.0
+- pkg:cargo/feldera-observability@0.383.0
+- pkg:cargo/feldera-observability@0.384.0
+- pkg:cargo/feldera-observability@0.385.0

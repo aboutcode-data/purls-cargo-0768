@@ -39,3 +39,6 @@
 - pkg:cargo/feldera-modular-bloom@0.380.0
 - pkg:cargo/feldera-modular-bloom@0.381.0
 - pkg:cargo/feldera-modular-bloom@0.382.0
+- pkg:cargo/feldera-modular-bloom@0.383.0
+- pkg:cargo/feldera-modular-bloom@0.384.0
+- pkg:cargo/feldera-modular-bloom@0.385.0
