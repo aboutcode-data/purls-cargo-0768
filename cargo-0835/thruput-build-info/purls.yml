@@ -6,3 +6,4 @@
 - pkg:cargo/thruput-build-info@0.45.2
 - pkg:cargo/thruput-build-info@0.46.0
 - pkg:cargo/thruput-build-info@0.46.1
+- pkg:cargo/thruput-build-info@0.47.0
