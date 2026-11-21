@@ -21,6 +21,7 @@
 - pkg:cargo/bhc-target@0.2.28
 - pkg:cargo/bhc-target@0.2.29
 - pkg:cargo/bhc-target@0.2.3
+- pkg:cargo/bhc-target@0.2.30
 - pkg:cargo/bhc-target@0.2.4
 - pkg:cargo/bhc-target@0.2.5
 - pkg:cargo/bhc-target@0.2.6
