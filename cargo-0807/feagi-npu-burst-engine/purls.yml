@@ -64,6 +64,9 @@
 - pkg:cargo/feagi-npu-burst-engine@0.0.6
 - pkg:cargo/feagi-npu-burst-engine@0.0.60
 - pkg:cargo/feagi-npu-burst-engine@0.0.61
+- pkg:cargo/feagi-npu-burst-engine@0.0.62
+- pkg:cargo/feagi-npu-burst-engine@0.0.63
+- pkg:cargo/feagi-npu-burst-engine@0.0.64
 - pkg:cargo/feagi-npu-burst-engine@0.0.7
 - pkg:cargo/feagi-npu-burst-engine@0.0.8
 - pkg:cargo/feagi-npu-burst-engine@0.0.9
