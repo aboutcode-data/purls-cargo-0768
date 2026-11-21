@@ -134,3 +134,4 @@
 - pkg:cargo/hegeltest-c@0.51.6
 - pkg:cargo/hegeltest-c@0.52.0
 - pkg:cargo/hegeltest-c@0.53.0
+- pkg:cargo/hegeltest-c@0.53.1
