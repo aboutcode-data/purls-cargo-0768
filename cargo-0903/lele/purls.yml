@@ -1,6 +1,9 @@
 - pkg:cargo/lele@0.1.10
 - pkg:cargo/lele@0.1.11
 - pkg:cargo/lele@0.1.12
+- pkg:cargo/lele@0.1.14
+- pkg:cargo/lele@0.1.15
+- pkg:cargo/lele@0.1.16
 - pkg:cargo/lele@0.1.2
 - pkg:cargo/lele@0.1.3
 - pkg:cargo/lele@0.1.4
@@ -9,3 +12,4 @@
 - pkg:cargo/lele@0.1.7
 - pkg:cargo/lele@0.1.8
 - pkg:cargo/lele@0.1.9
+- pkg:cargo/lele@0.2.0
