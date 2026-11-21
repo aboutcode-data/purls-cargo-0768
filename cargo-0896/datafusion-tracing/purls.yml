@@ -11,3 +11,7 @@
 - pkg:cargo/datafusion-tracing@52.0.0
 - pkg:cargo/datafusion-tracing@53.0.0
 - pkg:cargo/datafusion-tracing@53.0.1
+- pkg:cargo/datafusion-tracing@53.0.2
+- pkg:cargo/datafusion-tracing@54.0.0
+- pkg:cargo/datafusion-tracing@55.0.0
+- pkg:cargo/datafusion-tracing@55.0.1
