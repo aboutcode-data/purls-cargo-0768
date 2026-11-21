@@ -38,6 +38,9 @@
 - pkg:cargo/gukhanmun-mkdict@0.2.0-dev.95%2B55f6a6bbeef32ec3557c503b9e0c4c94cf2e2917
 - pkg:cargo/gukhanmun-mkdict@0.2.0-dev.96%2Be6fe5dd1ab693d47a8f459d0a6ee8ddd61dfd223
 - pkg:cargo/gukhanmun-mkdict@0.2.1
+- pkg:cargo/gukhanmun-mkdict@0.2.2
+- pkg:cargo/gukhanmun-mkdict@0.2.2-dev.370%2B3633d98
+- pkg:cargo/gukhanmun-mkdict@0.2.2-dev.372%2Bfa69593
 - pkg:cargo/gukhanmun-mkdict@0.3.0
 - pkg:cargo/gukhanmun-mkdict@0.3.0-dev.153%2Be988fed
 - pkg:cargo/gukhanmun-mkdict@0.3.0-dev.158%2Bc42c2c5
@@ -49,6 +52,7 @@
 - pkg:cargo/gukhanmun-mkdict@0.3.0-dev.209%2B6cadf5f
 - pkg:cargo/gukhanmun-mkdict@0.3.0-dev.218%2B93636e6
 - pkg:cargo/gukhanmun-mkdict@0.3.1
+- pkg:cargo/gukhanmun-mkdict@0.3.2
 - pkg:cargo/gukhanmun-mkdict@0.3.2-dev.329%2Be69ce82
 - pkg:cargo/gukhanmun-mkdict@0.3.2-dev.340%2Bda07846
 - pkg:cargo/gukhanmun-mkdict@0.3.2-dev.349%2B6ef02c0
@@ -69,3 +73,7 @@
 - pkg:cargo/gukhanmun-mkdict@0.4.0-dev.348%2Bfb912b9
 - pkg:cargo/gukhanmun-mkdict@0.4.0-dev.362%2B7d3d1b0
 - pkg:cargo/gukhanmun-mkdict@0.4.0-dev.365%2B4eeb2eb
+- pkg:cargo/gukhanmun-mkdict@0.4.0-dev.368%2Bbffd90e
+- pkg:cargo/gukhanmun-mkdict@0.4.0-dev.369%2B46f63c0
+- pkg:cargo/gukhanmun-mkdict@0.4.0-dev.375%2B9605d8f
+- pkg:cargo/gukhanmun-mkdict@0.4.0-dev.384%2Ba1e2050
