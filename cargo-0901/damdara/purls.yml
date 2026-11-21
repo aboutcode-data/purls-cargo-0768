@@ -19,3 +19,6 @@
 - pkg:cargo/damdara@0.8.1
 - pkg:cargo/damdara@0.8.3
 - pkg:cargo/damdara@0.8.4
+- pkg:cargo/damdara@1.0.0
+- pkg:cargo/damdara@1.1.0
+- pkg:cargo/damdara@1.2.0
