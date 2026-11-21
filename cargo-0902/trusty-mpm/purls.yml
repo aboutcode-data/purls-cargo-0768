@@ -56,6 +56,7 @@
 - pkg:cargo/trusty-mpm@1.13.0
 - pkg:cargo/trusty-mpm@1.14.0
 - pkg:cargo/trusty-mpm@1.14.10
+- pkg:cargo/trusty-mpm@1.14.11
 - pkg:cargo/trusty-mpm@1.14.5
 - pkg:cargo/trusty-mpm@1.14.6
 - pkg:cargo/trusty-mpm@1.14.7
