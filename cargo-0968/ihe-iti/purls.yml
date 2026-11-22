@@ -36,7 +36,9 @@
 - pkg:cargo/ihe-iti@0.16.0
 - pkg:cargo/ihe-iti@0.17.0
 - pkg:cargo/ihe-iti@0.18.0
+- pkg:cargo/ihe-iti@0.19.0
 - pkg:cargo/ihe-iti@0.2.0
+- pkg:cargo/ihe-iti@0.20.0
 - pkg:cargo/ihe-iti@0.3.0
 - pkg:cargo/ihe-iti@0.4.0
 - pkg:cargo/ihe-iti@0.5.0
