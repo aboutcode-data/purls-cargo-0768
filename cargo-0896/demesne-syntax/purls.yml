@@ -5,3 +5,4 @@
 - pkg:cargo/demesne-syntax@3.0.0
 - pkg:cargo/demesne-syntax@4.0.0
 - pkg:cargo/demesne-syntax@5.0.0
+- pkg:cargo/demesne-syntax@5.0.1
