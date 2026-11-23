@@ -3,3 +3,4 @@
 - pkg:cargo/cohors-core@0.7.7
 - pkg:cargo/cohors-core@0.8.20
 - pkg:cargo/cohors-core@0.8.21
+- pkg:cargo/cohors-core@0.9.2
