@@ -1,4 +1,5 @@
 - pkg:cargo/coeus-nn@0.10.0
 - pkg:cargo/coeus-nn@0.13.0
 - pkg:cargo/coeus-nn@0.14.0
+- pkg:cargo/coeus-nn@0.15.0
 - pkg:cargo/coeus-nn@0.9.0
