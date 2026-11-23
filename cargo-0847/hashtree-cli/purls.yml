@@ -109,5 +109,6 @@
 - pkg:cargo/hashtree-cli@0.4.6
 - pkg:cargo/hashtree-cli@0.4.7
 - pkg:cargo/hashtree-cli@0.4.8
+- pkg:cargo/hashtree-cli@0.4.9
 - pkg:cargo/hashtree-cli@0.5.1
 - pkg:cargo/hashtree-cli@0.5.2
