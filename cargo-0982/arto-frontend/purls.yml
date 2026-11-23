@@ -5,3 +5,5 @@
 - pkg:cargo/arto-frontend@0.45.0
 - pkg:cargo/arto-frontend@0.46.0
 - pkg:cargo/arto-frontend@0.46.1
+- pkg:cargo/arto-frontend@0.47.0
+- pkg:cargo/arto-frontend@0.47.1
