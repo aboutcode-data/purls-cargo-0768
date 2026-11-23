@@ -102,6 +102,7 @@
 - pkg:cargo/codex-codes@0.167.8
 - pkg:cargo/codex-codes@0.169.0
 - pkg:cargo/codex-codes@0.169.1
+- pkg:cargo/codex-codes@0.169.10
 - pkg:cargo/codex-codes@0.169.2
 - pkg:cargo/codex-codes@0.169.3
 - pkg:cargo/codex-codes@0.169.4
