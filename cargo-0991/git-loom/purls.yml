@@ -25,3 +25,4 @@
 - pkg:cargo/git-loom@0.9.1
 - pkg:cargo/git-loom@1.0.0
 - pkg:cargo/git-loom@1.1.0
+- pkg:cargo/git-loom@1.2.0
