@@ -3,3 +3,4 @@
 - pkg:cargo/maple-sdk@4.0.1
 - pkg:cargo/maple-sdk@4.0.2
 - pkg:cargo/maple-sdk@4.1.0
+- pkg:cargo/maple-sdk@5.0.0
