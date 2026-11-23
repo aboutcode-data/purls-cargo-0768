@@ -5,3 +5,5 @@
 - pkg:cargo/aria-agent-tools@1.12.2
 - pkg:cargo/aria-agent-tools@1.13.0
 - pkg:cargo/aria-agent-tools@1.13.1
+- pkg:cargo/aria-agent-tools@1.13.2
+- pkg:cargo/aria-agent-tools@1.13.3
