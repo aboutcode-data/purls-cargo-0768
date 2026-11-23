@@ -70,6 +70,8 @@
 - pkg:cargo/haste-fhir-operation-error-derive@0.130.11
 - pkg:cargo/haste-fhir-operation-error-derive@0.130.12
 - pkg:cargo/haste-fhir-operation-error-derive@0.130.13
+- pkg:cargo/haste-fhir-operation-error-derive@0.130.14
+- pkg:cargo/haste-fhir-operation-error-derive@0.130.15
 - pkg:cargo/haste-fhir-operation-error-derive@0.130.2
 - pkg:cargo/haste-fhir-operation-error-derive@0.130.3
 - pkg:cargo/haste-fhir-operation-error-derive@0.130.4
