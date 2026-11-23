@@ -1,1 +1,2 @@
 - pkg:cargo/cuprite_wire_embedded_hal@0.2.0
+- pkg:cargo/cuprite_wire_embedded_hal@0.3.0
