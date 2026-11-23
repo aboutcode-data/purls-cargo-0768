@@ -30,6 +30,8 @@
 - pkg:cargo/willbooster-tree-sitter-ruby@20.0.0
 - pkg:cargo/willbooster-tree-sitter-ruby@20.0.1
 - pkg:cargo/willbooster-tree-sitter-ruby@20.0.2
+- pkg:cargo/willbooster-tree-sitter-ruby@20.0.3
+- pkg:cargo/willbooster-tree-sitter-ruby@20.0.4
 - pkg:cargo/willbooster-tree-sitter-ruby@3.0.0
 - pkg:cargo/willbooster-tree-sitter-ruby@3.0.1
 - pkg:cargo/willbooster-tree-sitter-ruby@3.0.10

@@ -64,6 +64,9 @@
 - pkg:cargo/willbooster-tree-sitter-rust@20.0.1
 - pkg:cargo/willbooster-tree-sitter-rust@20.0.2
 - pkg:cargo/willbooster-tree-sitter-rust@21.0.0
+- pkg:cargo/willbooster-tree-sitter-rust@21.0.1
+- pkg:cargo/willbooster-tree-sitter-rust@22.0.0
+- pkg:cargo/willbooster-tree-sitter-rust@22.0.1
 - pkg:cargo/willbooster-tree-sitter-rust@3.0.0
 - pkg:cargo/willbooster-tree-sitter-rust@3.0.1
 - pkg:cargo/willbooster-tree-sitter-rust@3.0.2
