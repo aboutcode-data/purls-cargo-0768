@@ -3,3 +3,4 @@
 - pkg:cargo/native_ros2_messages@0.2.0
 - pkg:cargo/native_ros2_messages@1.0.0
 - pkg:cargo/native_ros2_messages@2.0.0
+- pkg:cargo/native_ros2_messages@2.1.0
