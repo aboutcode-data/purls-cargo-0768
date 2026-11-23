@@ -20,6 +20,8 @@
 - pkg:cargo/bhc-lower@0.2.29
 - pkg:cargo/bhc-lower@0.2.3
 - pkg:cargo/bhc-lower@0.2.30
+- pkg:cargo/bhc-lower@0.2.31
+- pkg:cargo/bhc-lower@0.2.32
 - pkg:cargo/bhc-lower@0.2.4
 - pkg:cargo/bhc-lower@0.2.5
 - pkg:cargo/bhc-lower@0.2.6
