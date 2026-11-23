@@ -41,6 +41,8 @@
 - pkg:cargo/compare_version@10.3.0
 - pkg:cargo/compare_version@10.3.1
 - pkg:cargo/compare_version@10.4.0
+- pkg:cargo/compare_version@10.4.1
+- pkg:cargo/compare_version@10.5.0
 - pkg:cargo/compare_version@2.0.0
 - pkg:cargo/compare_version@2.0.1
 - pkg:cargo/compare_version@2.0.10
