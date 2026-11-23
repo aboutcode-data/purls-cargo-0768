@@ -14,6 +14,7 @@
 - pkg:cargo/codex-coordinator@0.10.0
 - pkg:cargo/codex-coordinator@0.11.0
 - pkg:cargo/codex-coordinator@0.12.0
+- pkg:cargo/codex-coordinator@0.13.0
 - pkg:cargo/codex-coordinator@0.2.0
 - pkg:cargo/codex-coordinator@0.3.0
 - pkg:cargo/codex-coordinator@0.4.0

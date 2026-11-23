@@ -1,6 +1,7 @@
 - pkg:cargo/codewhale-hooks@0.10.0
 - pkg:cargo/codewhale-hooks@0.10.1
 - pkg:cargo/codewhale-hooks@0.10.2
+- pkg:cargo/codewhale-hooks@0.10.3
 - pkg:cargo/codewhale-hooks@0.8.41
 - pkg:cargo/codewhale-hooks@0.8.42
 - pkg:cargo/codewhale-hooks@0.8.43
