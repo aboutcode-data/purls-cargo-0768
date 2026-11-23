@@ -15,3 +15,5 @@
 - pkg:cargo/cufflink-pgcodec@0.22.1
 - pkg:cargo/cufflink-pgcodec@0.22.2-rc.1
 - pkg:cargo/cufflink-pgcodec@0.23.0
+- pkg:cargo/cufflink-pgcodec@0.24.0
+- pkg:cargo/cufflink-pgcodec@0.24.1

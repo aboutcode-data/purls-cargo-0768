@@ -18,6 +18,8 @@
 - pkg:cargo/cufflink-types@0.22.1
 - pkg:cargo/cufflink-types@0.22.2-rc.1
 - pkg:cargo/cufflink-types@0.23.0
+- pkg:cargo/cufflink-types@0.24.0
+- pkg:cargo/cufflink-types@0.24.1
 - pkg:cargo/cufflink-types@0.6.0
 - pkg:cargo/cufflink-types@0.6.1
 - pkg:cargo/cufflink-types@0.7.0

@@ -6,3 +6,5 @@
 - pkg:cargo/cufflink-model@0.1.5
 - pkg:cargo/cufflink-model@0.1.6
 - pkg:cargo/cufflink-model@0.1.6-rc.1
+- pkg:cargo/cufflink-model@0.1.7
+- pkg:cargo/cufflink-model@0.1.8
