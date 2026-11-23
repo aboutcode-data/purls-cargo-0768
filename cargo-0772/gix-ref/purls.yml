@@ -62,3 +62,4 @@
 - pkg:cargo/gix-ref@0.68.0
 - pkg:cargo/gix-ref@0.69.0
 - pkg:cargo/gix-ref@0.69.1
+- pkg:cargo/gix-ref@0.70.0
