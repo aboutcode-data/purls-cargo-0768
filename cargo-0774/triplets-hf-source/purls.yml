@@ -19,3 +19,4 @@
 - pkg:cargo/triplets-hf-source@0.30.0-alpha
 - pkg:cargo/triplets-hf-source@0.30.1-alpha
 - pkg:cargo/triplets-hf-source@0.31.0-alpha
+- pkg:cargo/triplets-hf-source@0.32.0-alpha
