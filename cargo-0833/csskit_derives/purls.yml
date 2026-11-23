@@ -436,6 +436,7 @@
 - pkg:cargo/csskit_derives@0.0.42-canary.202611181233
 - pkg:cargo/csskit_derives@0.0.42-canary.202611190928
 - pkg:cargo/csskit_derives@0.0.42-canary.202611200315
+- pkg:cargo/csskit_derives@0.0.42-canary.202611210314
 - pkg:cargo/csskit_derives@0.0.42-canary.50bdb0c356
 - pkg:cargo/csskit_derives@0.0.42-canary.62c143ae1c
 - pkg:cargo/csskit_derives@0.0.42-canary.d92b0cecac
