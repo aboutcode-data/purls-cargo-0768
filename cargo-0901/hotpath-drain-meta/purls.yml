@@ -20,3 +20,4 @@
 - pkg:cargo/hotpath-drain-meta@0.31.3
 - pkg:cargo/hotpath-drain-meta@0.32.0
 - pkg:cargo/hotpath-drain-meta@0.32.1
+- pkg:cargo/hotpath-drain-meta@0.33.0
