@@ -5,3 +5,4 @@
 - pkg:cargo/demesne-emit-go@4.0.0
 - pkg:cargo/demesne-emit-go@5.0.0
 - pkg:cargo/demesne-emit-go@5.0.1
+- pkg:cargo/demesne-emit-go@6.0.0
