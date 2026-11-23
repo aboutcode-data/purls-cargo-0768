@@ -23,6 +23,8 @@
 - pkg:cargo/helix-driver-host@0.1.118
 - pkg:cargo/helix-driver-host@0.1.119
 - pkg:cargo/helix-driver-host@0.1.12
+- pkg:cargo/helix-driver-host@0.1.120
+- pkg:cargo/helix-driver-host@0.1.121
 - pkg:cargo/helix-driver-host@0.1.13
 - pkg:cargo/helix-driver-host@0.1.14
 - pkg:cargo/helix-driver-host@0.1.15
