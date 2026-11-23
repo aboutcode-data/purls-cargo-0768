@@ -5,6 +5,7 @@
 - pkg:cargo/lsnet@0.14.0
 - pkg:cargo/lsnet@0.14.1
 - pkg:cargo/lsnet@0.15.0
+- pkg:cargo/lsnet@0.15.1
 - pkg:cargo/lsnet@0.6.1
 - pkg:cargo/lsnet@0.7.0
 - pkg:cargo/lsnet@0.8.0
