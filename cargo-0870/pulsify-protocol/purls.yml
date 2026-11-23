@@ -5,4 +5,5 @@
 - pkg:cargo/pulsify-protocol@13.0.0
 - pkg:cargo/pulsify-protocol@14.0.0
 - pkg:cargo/pulsify-protocol@15.0.0
+- pkg:cargo/pulsify-protocol@16.0.0
 - pkg:cargo/pulsify-protocol@6.0.0
