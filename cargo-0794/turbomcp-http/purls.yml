@@ -33,3 +33,4 @@
 - pkg:cargo/turbomcp-http@3.5.0
 - pkg:cargo/turbomcp-http@3.6.0
 - pkg:cargo/turbomcp-http@3.7.0
+- pkg:cargo/turbomcp-http@3.7.1
