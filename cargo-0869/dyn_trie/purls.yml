@@ -44,3 +44,4 @@
 - pkg:cargo/dyn_trie@7.2.1
 - pkg:cargo/dyn_trie@7.2.2
 - pkg:cargo/dyn_trie@7.3.0
+- pkg:cargo/dyn_trie@7.4.0
