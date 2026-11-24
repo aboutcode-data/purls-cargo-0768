@@ -9,6 +9,7 @@
 - pkg:cargo/iri-namespace@0.1.8
 - pkg:cargo/iri-namespace@0.2.0
 - pkg:cargo/iri-namespace@0.2.1
+- pkg:cargo/iri-namespace@0.2.10
 - pkg:cargo/iri-namespace@0.2.2
 - pkg:cargo/iri-namespace@0.2.3
 - pkg:cargo/iri-namespace@0.2.4
