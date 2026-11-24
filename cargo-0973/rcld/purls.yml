@@ -1,3 +1,4 @@
 - pkg:cargo/rcld@0.2.0
 - pkg:cargo/rcld@0.3.0
 - pkg:cargo/rcld@0.4.0
+- pkg:cargo/rcld@0.5.0
