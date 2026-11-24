@@ -175,6 +175,9 @@
 - pkg:cargo/automapper-validation@0.51.0
 - pkg:cargo/automapper-validation@0.51.1
 - pkg:cargo/automapper-validation@0.52.0
+- pkg:cargo/automapper-validation@0.53.0
+- pkg:cargo/automapper-validation@0.53.1
+- pkg:cargo/automapper-validation@0.53.2
 - pkg:cargo/automapper-validation@0.6.0
 - pkg:cargo/automapper-validation@0.7.0
 - pkg:cargo/automapper-validation@0.8.0
