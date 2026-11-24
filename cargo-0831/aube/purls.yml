@@ -76,6 +76,7 @@
 - pkg:cargo/aube@2.1.0
 - pkg:cargo/aube@2.10.0
 - pkg:cargo/aube@2.10.1
+- pkg:cargo/aube@2.11.0
 - pkg:cargo/aube@2.2.0
 - pkg:cargo/aube@2.2.1
 - pkg:cargo/aube@2.2.10
