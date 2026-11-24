@@ -18,3 +18,7 @@
 - pkg:cargo/irender-html@0.6.3
 - pkg:cargo/irender-html@0.6.4
 - pkg:cargo/irender-html@0.7.0
+- pkg:cargo/irender-html@0.8.0
+- pkg:cargo/irender-html@0.8.1
+- pkg:cargo/irender-html@0.8.2
+- pkg:cargo/irender-html@0.8.3
