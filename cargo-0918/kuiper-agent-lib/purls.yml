@@ -7,3 +7,4 @@
 - pkg:cargo/kuiper-agent-lib@0.5.2
 - pkg:cargo/kuiper-agent-lib@0.6.0
 - pkg:cargo/kuiper-agent-lib@0.7.0
+- pkg:cargo/kuiper-agent-lib@0.7.1
