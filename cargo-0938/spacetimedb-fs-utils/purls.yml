@@ -21,3 +21,4 @@
 - pkg:cargo/spacetimedb-fs-utils@2.15.0
 - pkg:cargo/spacetimedb-fs-utils@2.16.0
 - pkg:cargo/spacetimedb-fs-utils@2.16.1
+- pkg:cargo/spacetimedb-fs-utils@2.16.3
