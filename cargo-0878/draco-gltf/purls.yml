@@ -1,4 +1,5 @@
 - pkg:cargo/draco-gltf@0.1.0
+- pkg:cargo/draco-gltf@0.10.0
 - pkg:cargo/draco-gltf@0.2.0
 - pkg:cargo/draco-gltf@0.3.0
 - pkg:cargo/draco-gltf@0.4.0
