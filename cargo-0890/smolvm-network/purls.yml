@@ -97,6 +97,12 @@
 - pkg:cargo/smolvm-network@1.35.5
 - pkg:cargo/smolvm-network@1.36.0
 - pkg:cargo/smolvm-network@1.36.1
+- pkg:cargo/smolvm-network@1.37.0
+- pkg:cargo/smolvm-network@1.37.1
+- pkg:cargo/smolvm-network@1.37.2
+- pkg:cargo/smolvm-network@1.37.3
+- pkg:cargo/smolvm-network@1.37.4
+- pkg:cargo/smolvm-network@1.37.5
 - pkg:cargo/smolvm-network@1.4.3
 - pkg:cargo/smolvm-network@1.4.4
 - pkg:cargo/smolvm-network@1.4.5
