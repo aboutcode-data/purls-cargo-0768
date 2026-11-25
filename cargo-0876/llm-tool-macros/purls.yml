@@ -9,6 +9,7 @@
 - pkg:cargo/llm-tool-macros@0.10.4
 - pkg:cargo/llm-tool-macros@0.10.5
 - pkg:cargo/llm-tool-macros@0.10.6
+- pkg:cargo/llm-tool-macros@0.10.7
 - pkg:cargo/llm-tool-macros@0.2.1
 - pkg:cargo/llm-tool-macros@0.3.0
 - pkg:cargo/llm-tool-macros@0.3.1
