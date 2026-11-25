@@ -5,3 +5,4 @@
 - pkg:cargo/mssql@1.1.0
 - pkg:cargo/mssql@2.0.0
 - pkg:cargo/mssql@2.1.0
+- pkg:cargo/mssql@3.0.0
