@@ -33,3 +33,4 @@
 - pkg:cargo/macron@0.6.1
 - pkg:cargo/macron@0.7.0
 - pkg:cargo/macron@0.8.0
+- pkg:cargo/macron@0.8.1
