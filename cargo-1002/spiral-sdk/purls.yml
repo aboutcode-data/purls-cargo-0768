@@ -13,6 +13,11 @@
 - pkg:cargo/spiral-sdk@0.1.21
 - pkg:cargo/spiral-sdk@0.1.22
 - pkg:cargo/spiral-sdk@0.1.23
+- pkg:cargo/spiral-sdk@0.1.24
+- pkg:cargo/spiral-sdk@0.1.25
+- pkg:cargo/spiral-sdk@0.1.26
+- pkg:cargo/spiral-sdk@0.1.27
+- pkg:cargo/spiral-sdk@0.1.28
 - pkg:cargo/spiral-sdk@0.1.7
 - pkg:cargo/spiral-sdk@0.1.8
 - pkg:cargo/spiral-sdk@0.1.9
