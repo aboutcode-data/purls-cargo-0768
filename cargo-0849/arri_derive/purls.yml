@@ -1,1 +1,2 @@
 - pkg:cargo/arri_derive@0.86.0
+- pkg:cargo/arri_derive@0.86.1
