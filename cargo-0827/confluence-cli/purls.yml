@@ -36,6 +36,8 @@
 - pkg:cargo/confluence-cli@0.1.41
 - pkg:cargo/confluence-cli@0.1.42
 - pkg:cargo/confluence-cli@0.1.43
+- pkg:cargo/confluence-cli@0.1.44
+- pkg:cargo/confluence-cli@0.1.45
 - pkg:cargo/confluence-cli@0.1.5
 - pkg:cargo/confluence-cli@0.1.6
 - pkg:cargo/confluence-cli@0.1.7
