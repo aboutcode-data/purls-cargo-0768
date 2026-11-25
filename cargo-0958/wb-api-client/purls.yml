@@ -9,3 +9,5 @@
 - pkg:cargo/wb-api-client@1.20261119.0
 - pkg:cargo/wb-api-client@1.20261120.0
 - pkg:cargo/wb-api-client@2.0.0
+- pkg:cargo/wb-api-client@2.0.1
+- pkg:cargo/wb-api-client@3.0.0
