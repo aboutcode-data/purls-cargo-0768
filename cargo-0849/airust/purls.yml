@@ -70,6 +70,10 @@
 - pkg:cargo/airust@0.4.2
 - pkg:cargo/airust@0.4.20
 - pkg:cargo/airust@0.4.21
+- pkg:cargo/airust@0.4.22
+- pkg:cargo/airust@0.4.23
+- pkg:cargo/airust@0.4.24
+- pkg:cargo/airust@0.4.25
 - pkg:cargo/airust@0.4.3
 - pkg:cargo/airust@0.4.4
 - pkg:cargo/airust@0.4.5
@@ -77,3 +81,9 @@
 - pkg:cargo/airust@0.4.7
 - pkg:cargo/airust@0.4.8
 - pkg:cargo/airust@0.4.9
+- pkg:cargo/airust@0.5.0
+- pkg:cargo/airust@0.5.1
+- pkg:cargo/airust@0.5.2
+- pkg:cargo/airust@0.5.3
+- pkg:cargo/airust@0.6.0
+- pkg:cargo/airust@0.6.1
