@@ -10,3 +10,6 @@
 - pkg:cargo/sprawling-wire@0.0.9
 - pkg:cargo/sprawling-wire@0.17.0
 - pkg:cargo/sprawling-wire@0.17.1
+- pkg:cargo/sprawling-wire@0.17.2
+- pkg:cargo/sprawling-wire@0.18.0
+- pkg:cargo/sprawling-wire@0.18.1
