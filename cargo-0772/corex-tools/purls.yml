@@ -7,6 +7,7 @@
 - pkg:cargo/corex-tools@0.13.2
 - pkg:cargo/corex-tools@0.13.3
 - pkg:cargo/corex-tools@0.14.0
+- pkg:cargo/corex-tools@0.15.0
 - pkg:cargo/corex-tools@0.5.0
 - pkg:cargo/corex-tools@0.6.0
 - pkg:cargo/corex-tools@0.6.1
