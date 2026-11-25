@@ -1,0 +1,2 @@
+- pkg:cargo/llama-cpp-native@0.30.0
+- pkg:cargo/llama-cpp-native@0.31.0
