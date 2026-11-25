@@ -78,3 +78,5 @@
 - pkg:cargo/codestyle@0.2.88
 - pkg:cargo/codestyle@0.2.89
 - pkg:cargo/codestyle@0.2.9
+- pkg:cargo/codestyle@0.2.90
+- pkg:cargo/codestyle@0.2.91
