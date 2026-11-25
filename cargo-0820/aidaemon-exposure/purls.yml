@@ -1,1 +1,4 @@
 - pkg:cargo/aidaemon-exposure@0.21.0
+- pkg:cargo/aidaemon-exposure@0.22.1
+- pkg:cargo/aidaemon-exposure@0.23.1
+- pkg:cargo/aidaemon-exposure@0.24.0
