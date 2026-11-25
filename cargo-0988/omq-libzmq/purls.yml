@@ -9,6 +9,8 @@
 - pkg:cargo/omq-libzmq@0.12.1
 - pkg:cargo/omq-libzmq@0.12.2
 - pkg:cargo/omq-libzmq@0.12.3
+- pkg:cargo/omq-libzmq@0.13.0
+- pkg:cargo/omq-libzmq@0.13.1
 - pkg:cargo/omq-libzmq@0.2.0
 - pkg:cargo/omq-libzmq@0.3.0
 - pkg:cargo/omq-libzmq@0.3.1
