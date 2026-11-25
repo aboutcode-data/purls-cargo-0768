@@ -67,6 +67,7 @@
 - pkg:cargo/sp-io@48.0.0
 - pkg:cargo/sp-io@49.0.0
 - pkg:cargo/sp-io@5.0.0
+- pkg:cargo/sp-io@50.0.0
 - pkg:cargo/sp-io@6.0.0
 - pkg:cargo/sp-io@7.0.0
 - pkg:cargo/sp-io@8.0.0
