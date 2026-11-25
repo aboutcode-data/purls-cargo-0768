@@ -1,3 +1,4 @@
 - pkg:cargo/spicedb-rs-proto@1.49.2
 - pkg:cargo/spicedb-rs-proto@1.53.0
 - pkg:cargo/spicedb-rs-proto@1.57.0
+- pkg:cargo/spicedb-rs-proto@1.58.0
