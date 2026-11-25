@@ -119,6 +119,10 @@
 - pkg:cargo/octomind@0.70.1
 - pkg:cargo/octomind@0.71.0
 - pkg:cargo/octomind@0.72.0
+- pkg:cargo/octomind@0.72.1
+- pkg:cargo/octomind@0.73.0
+- pkg:cargo/octomind@0.73.1
+- pkg:cargo/octomind@0.73.2
 - pkg:cargo/octomind@0.8.0
 - pkg:cargo/octomind@0.8.1
 - pkg:cargo/octomind@0.9.0
