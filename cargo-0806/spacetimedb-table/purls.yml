@@ -25,3 +25,4 @@
 - pkg:cargo/spacetimedb-table@2.15.0
 - pkg:cargo/spacetimedb-table@2.16.0
 - pkg:cargo/spacetimedb-table@2.16.1
+- pkg:cargo/spacetimedb-table@2.16.3
