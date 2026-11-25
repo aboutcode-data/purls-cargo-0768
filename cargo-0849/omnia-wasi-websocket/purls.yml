@@ -7,3 +7,5 @@
 - pkg:cargo/omnia-wasi-websocket@0.34.0
 - pkg:cargo/omnia-wasi-websocket@0.36.0
 - pkg:cargo/omnia-wasi-websocket@0.37.0
+- pkg:cargo/omnia-wasi-websocket@0.38.0
+- pkg:cargo/omnia-wasi-websocket@0.38.1
