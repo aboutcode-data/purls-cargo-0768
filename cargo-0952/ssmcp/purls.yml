@@ -1,6 +1,13 @@
 - pkg:cargo/ssmcp@0.10.10
 - pkg:cargo/ssmcp@0.10.13
 - pkg:cargo/ssmcp@0.10.20
+- pkg:cargo/ssmcp@0.10.31
+- pkg:cargo/ssmcp@0.10.32
+- pkg:cargo/ssmcp@0.10.36
+- pkg:cargo/ssmcp@0.10.37
+- pkg:cargo/ssmcp@0.10.39
+- pkg:cargo/ssmcp@0.10.40
+- pkg:cargo/ssmcp@0.10.41
 - pkg:cargo/ssmcp@0.4.0
 - pkg:cargo/ssmcp@0.5.1
 - pkg:cargo/ssmcp@0.6.3
