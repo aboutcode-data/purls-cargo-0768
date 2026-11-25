@@ -15,6 +15,7 @@
 - pkg:cargo/i-slint-backend-testing@1.18.0
 - pkg:cargo/i-slint-backend-testing@1.18.1
 - pkg:cargo/i-slint-backend-testing@1.19.0
+- pkg:cargo/i-slint-backend-testing@1.19.1
 - pkg:cargo/i-slint-backend-testing@1.7.0
 - pkg:cargo/i-slint-backend-testing@1.7.1
 - pkg:cargo/i-slint-backend-testing@1.7.2

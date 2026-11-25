@@ -32,6 +32,7 @@
 - pkg:cargo/i-slint-backend-qt@1.18.0
 - pkg:cargo/i-slint-backend-qt@1.18.1
 - pkg:cargo/i-slint-backend-qt@1.19.0
+- pkg:cargo/i-slint-backend-qt@1.19.1
 - pkg:cargo/i-slint-backend-qt@1.2.0
 - pkg:cargo/i-slint-backend-qt@1.2.1
 - pkg:cargo/i-slint-backend-qt@1.2.2
