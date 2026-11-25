@@ -2,6 +2,7 @@
 - pkg:cargo/codewhale-lane@0.10.1
 - pkg:cargo/codewhale-lane@0.10.2
 - pkg:cargo/codewhale-lane@0.10.3
+- pkg:cargo/codewhale-lane@0.10.4
 - pkg:cargo/codewhale-lane@0.9.0
 - pkg:cargo/codewhale-lane@0.9.1
 - pkg:cargo/codewhale-lane@0.9.10
