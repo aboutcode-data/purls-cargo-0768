@@ -41,6 +41,9 @@
 - pkg:cargo/tracevault-cli@0.29.3
 - pkg:cargo/tracevault-cli@0.29.4
 - pkg:cargo/tracevault-cli@0.29.5
+- pkg:cargo/tracevault-cli@0.29.6
+- pkg:cargo/tracevault-cli@0.29.7
+- pkg:cargo/tracevault-cli@0.29.8
 - pkg:cargo/tracevault-cli@0.3.0
 - pkg:cargo/tracevault-cli@0.3.1
 - pkg:cargo/tracevault-cli@0.3.2
