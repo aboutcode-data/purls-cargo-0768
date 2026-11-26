@@ -1,2 +1,4 @@
 - pkg:cargo/dreamer-workspace-config@0.10.0
 - pkg:cargo/dreamer-workspace-config@0.11.0
+- pkg:cargo/dreamer-workspace-config@0.12.0
+- pkg:cargo/dreamer-workspace-config@0.12.1

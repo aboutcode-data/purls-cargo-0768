@@ -1,2 +1,4 @@
 - pkg:cargo/dreamer-terminal-ghostty@0.10.0
 - pkg:cargo/dreamer-terminal-ghostty@0.11.0
+- pkg:cargo/dreamer-terminal-ghostty@0.12.0
+- pkg:cargo/dreamer-terminal-ghostty@0.12.1
