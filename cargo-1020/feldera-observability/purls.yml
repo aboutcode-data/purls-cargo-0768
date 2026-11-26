@@ -192,3 +192,9 @@
 - pkg:cargo/feldera-observability@0.383.0
 - pkg:cargo/feldera-observability@0.384.0
 - pkg:cargo/feldera-observability@0.385.0
+- pkg:cargo/feldera-observability@0.386.0
+- pkg:cargo/feldera-observability@0.387.0
+- pkg:cargo/feldera-observability@0.388.0
+- pkg:cargo/feldera-observability@0.389.0
+- pkg:cargo/feldera-observability@0.390.0
+- pkg:cargo/feldera-observability@0.391.0
