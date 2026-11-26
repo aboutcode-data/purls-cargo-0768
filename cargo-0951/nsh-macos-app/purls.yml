@@ -5,3 +5,5 @@
 - pkg:cargo/nsh-macos-app@0.5.1
 - pkg:cargo/nsh-macos-app@0.6.0
 - pkg:cargo/nsh-macos-app@0.6.1
+- pkg:cargo/nsh-macos-app@0.7.0
+- pkg:cargo/nsh-macos-app@0.7.1
