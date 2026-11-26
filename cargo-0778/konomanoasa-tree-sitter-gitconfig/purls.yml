@@ -9,3 +9,5 @@
 - pkg:cargo/konomanoasa-tree-sitter-gitconfig@0.6.0
 - pkg:cargo/konomanoasa-tree-sitter-gitconfig@0.7.0
 - pkg:cargo/konomanoasa-tree-sitter-gitconfig@0.7.1
+- pkg:cargo/konomanoasa-tree-sitter-gitconfig@0.7.2
+- pkg:cargo/konomanoasa-tree-sitter-gitconfig@0.7.3

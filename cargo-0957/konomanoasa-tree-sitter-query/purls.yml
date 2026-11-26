@@ -8,3 +8,5 @@
 - pkg:cargo/konomanoasa-tree-sitter-query@0.5.0
 - pkg:cargo/konomanoasa-tree-sitter-query@0.6.0
 - pkg:cargo/konomanoasa-tree-sitter-query@0.6.1
+- pkg:cargo/konomanoasa-tree-sitter-query@0.6.2
+- pkg:cargo/konomanoasa-tree-sitter-query@0.6.3
