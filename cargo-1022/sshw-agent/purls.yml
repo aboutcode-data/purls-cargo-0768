@@ -7,3 +7,4 @@
 - pkg:cargo/sshw-agent@0.14.2
 - pkg:cargo/sshw-agent@0.15.0
 - pkg:cargo/sshw-agent@0.15.1
+- pkg:cargo/sshw-agent@0.16.0
