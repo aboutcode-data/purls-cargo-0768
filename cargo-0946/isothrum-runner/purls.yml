@@ -15,3 +15,4 @@
 - pkg:cargo/isothrum-runner@2.1.5
 - pkg:cargo/isothrum-runner@2.1.6
 - pkg:cargo/isothrum-runner@2.1.7
+- pkg:cargo/isothrum-runner@3.0.0
