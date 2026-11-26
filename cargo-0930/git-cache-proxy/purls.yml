@@ -17,6 +17,8 @@
 - pkg:cargo/git-cache-proxy@0.2.12
 - pkg:cargo/git-cache-proxy@0.2.13
 - pkg:cargo/git-cache-proxy@0.2.14
+- pkg:cargo/git-cache-proxy@0.2.15
+- pkg:cargo/git-cache-proxy@0.2.16
 - pkg:cargo/git-cache-proxy@0.2.2
 - pkg:cargo/git-cache-proxy@0.2.3
 - pkg:cargo/git-cache-proxy@0.2.4
@@ -25,3 +27,4 @@
 - pkg:cargo/git-cache-proxy@0.2.7
 - pkg:cargo/git-cache-proxy@0.2.8
 - pkg:cargo/git-cache-proxy@0.2.9
+- pkg:cargo/git-cache-proxy@0.3.0
