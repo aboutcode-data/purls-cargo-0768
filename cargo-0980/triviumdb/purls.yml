@@ -32,3 +32,4 @@
 - pkg:cargo/triviumdb@0.9.3
 - pkg:cargo/triviumdb@0.9.3-beta.1
 - pkg:cargo/triviumdb@0.9.4-beta.1
+- pkg:cargo/triviumdb@0.9.4-beta.2
