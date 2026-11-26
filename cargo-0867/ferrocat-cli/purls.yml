@@ -14,3 +14,4 @@
 - pkg:cargo/ferrocat-cli@3.5.0
 - pkg:cargo/ferrocat-cli@3.5.1
 - pkg:cargo/ferrocat-cli@3.6.0
+- pkg:cargo/ferrocat-cli@4.0.0
