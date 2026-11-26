@@ -47,6 +47,7 @@
 - pkg:cargo/wicked-estate-memory-api@0.35.0
 - pkg:cargo/wicked-estate-memory-api@0.35.1
 - pkg:cargo/wicked-estate-memory-api@0.35.10
+- pkg:cargo/wicked-estate-memory-api@0.35.11
 - pkg:cargo/wicked-estate-memory-api@0.35.2
 - pkg:cargo/wicked-estate-memory-api@0.35.3
 - pkg:cargo/wicked-estate-memory-api@0.35.4
@@ -55,3 +56,6 @@
 - pkg:cargo/wicked-estate-memory-api@0.35.7
 - pkg:cargo/wicked-estate-memory-api@0.35.8
 - pkg:cargo/wicked-estate-memory-api@0.35.9
+- pkg:cargo/wicked-estate-memory-api@0.36.0
+- pkg:cargo/wicked-estate-memory-api@0.36.1
+- pkg:cargo/wicked-estate-memory-api@0.36.2

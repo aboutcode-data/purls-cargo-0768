@@ -2,3 +2,4 @@
 - pkg:cargo/wickra-simd@2.0.0
 - pkg:cargo/wickra-simd@2.1.0
 - pkg:cargo/wickra-simd@2.1.1
+- pkg:cargo/wickra-simd@2.2.0
