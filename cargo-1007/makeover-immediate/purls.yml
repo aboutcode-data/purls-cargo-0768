@@ -75,5 +75,6 @@
 - pkg:cargo/makeover-immediate@0.69.0
 - pkg:cargo/makeover-immediate@0.7.0
 - pkg:cargo/makeover-immediate@0.70.0
+- pkg:cargo/makeover-immediate@0.71.0
 - pkg:cargo/makeover-immediate@0.8.0
 - pkg:cargo/makeover-immediate@0.9.0
