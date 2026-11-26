@@ -8,6 +8,8 @@
 - pkg:cargo/ssmcp@0.10.39
 - pkg:cargo/ssmcp@0.10.40
 - pkg:cargo/ssmcp@0.10.41
+- pkg:cargo/ssmcp@0.10.48
+- pkg:cargo/ssmcp@0.10.54
 - pkg:cargo/ssmcp@0.4.0
 - pkg:cargo/ssmcp@0.5.1
 - pkg:cargo/ssmcp@0.6.3
