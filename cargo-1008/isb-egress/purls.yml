@@ -53,3 +53,10 @@
 - pkg:cargo/isb-egress@4.1.1
 - pkg:cargo/isb-egress@4.1.2
 - pkg:cargo/isb-egress@4.2.0
+- pkg:cargo/isb-egress@4.3.0
+- pkg:cargo/isb-egress@4.4.0
+- pkg:cargo/isb-egress@4.5.0
+- pkg:cargo/isb-egress@4.6.0
+- pkg:cargo/isb-egress@4.6.1
+- pkg:cargo/isb-egress@4.6.2
+- pkg:cargo/isb-egress@4.6.3
