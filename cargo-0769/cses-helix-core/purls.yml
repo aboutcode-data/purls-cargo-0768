@@ -34,6 +34,7 @@
 - pkg:cargo/cses-helix-core@0.1.128
 - pkg:cargo/cses-helix-core@0.1.129
 - pkg:cargo/cses-helix-core@0.1.13
+- pkg:cargo/cses-helix-core@0.1.130
 - pkg:cargo/cses-helix-core@0.1.14
 - pkg:cargo/cses-helix-core@0.1.15
 - pkg:cargo/cses-helix-core@0.1.16
