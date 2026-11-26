@@ -1,2 +1,6 @@
 - pkg:cargo/giong-quic@1.3.0
 - pkg:cargo/giong-quic@1.4.0
+- pkg:cargo/giong-quic@1.4.1
+- pkg:cargo/giong-quic@1.4.2
+- pkg:cargo/giong-quic@1.5.0
+- pkg:cargo/giong-quic@1.5.1
