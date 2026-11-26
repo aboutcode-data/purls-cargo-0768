@@ -136,6 +136,9 @@
 - pkg:cargo/spacedatastandards-org@1.293.0
 - pkg:cargo/spacedatastandards-org@1.294.0
 - pkg:cargo/spacedatastandards-org@1.294.1
+- pkg:cargo/spacedatastandards-org@1.295.0
+- pkg:cargo/spacedatastandards-org@1.296.0
+- pkg:cargo/spacedatastandards-org@1.297.0
 - pkg:cargo/spacedatastandards-org@1.73.10
 - pkg:cargo/spacedatastandards-org@1.73.11
 - pkg:cargo/spacedatastandards-org@1.73.12
