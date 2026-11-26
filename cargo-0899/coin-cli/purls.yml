@@ -2,3 +2,4 @@
 - pkg:cargo/coin-cli@0.0.2
 - pkg:cargo/coin-cli@0.0.3
 - pkg:cargo/coin-cli@0.0.4
+- pkg:cargo/coin-cli@0.0.5
