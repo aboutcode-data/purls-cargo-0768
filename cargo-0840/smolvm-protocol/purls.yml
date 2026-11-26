@@ -105,6 +105,8 @@
 - pkg:cargo/smolvm-protocol@1.37.3
 - pkg:cargo/smolvm-protocol@1.37.4
 - pkg:cargo/smolvm-protocol@1.37.5
+- pkg:cargo/smolvm-protocol@1.37.6
+- pkg:cargo/smolvm-protocol@1.37.7
 - pkg:cargo/smolvm-protocol@1.4.3
 - pkg:cargo/smolvm-protocol@1.4.4
 - pkg:cargo/smolvm-protocol@1.4.5
