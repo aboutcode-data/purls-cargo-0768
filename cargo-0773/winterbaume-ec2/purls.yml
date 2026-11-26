@@ -1,3 +1,5 @@
 - pkg:cargo/winterbaume-ec2@0.1.0
 - pkg:cargo/winterbaume-ec2@0.2.0
 - pkg:cargo/winterbaume-ec2@1.0.0
+- pkg:cargo/winterbaume-ec2@1.0.1
+- pkg:cargo/winterbaume-ec2@1.0.2
