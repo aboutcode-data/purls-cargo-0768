@@ -59,6 +59,7 @@
 - pkg:cargo/unpopped-cpu-c@0.56.12
 - pkg:cargo/unpopped-cpu-c@0.56.2
 - pkg:cargo/unpopped-cpu-c@0.56.5
+- pkg:cargo/unpopped-cpu-c@0.57.0
 - pkg:cargo/unpopped-cpu-c@0.6.0
 - pkg:cargo/unpopped-cpu-c@0.7.0
 - pkg:cargo/unpopped-cpu-c@0.7.1
