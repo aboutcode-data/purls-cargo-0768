@@ -21,6 +21,7 @@
 - pkg:cargo/sp-consensus-grandpa@29.0.0
 - pkg:cargo/sp-consensus-grandpa@30.0.0
 - pkg:cargo/sp-consensus-grandpa@31.0.0
+- pkg:cargo/sp-consensus-grandpa@32.0.0
 - pkg:cargo/sp-consensus-grandpa@4.0.0
 - pkg:cargo/sp-consensus-grandpa@5.0.0
 - pkg:cargo/sp-consensus-grandpa@6.0.0
