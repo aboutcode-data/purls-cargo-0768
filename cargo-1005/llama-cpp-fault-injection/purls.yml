@@ -2,3 +2,5 @@
 - pkg:cargo/llama-cpp-fault-injection@0.29.0
 - pkg:cargo/llama-cpp-fault-injection@0.30.0
 - pkg:cargo/llama-cpp-fault-injection@0.31.0
+- pkg:cargo/llama-cpp-fault-injection@0.32.0
+- pkg:cargo/llama-cpp-fault-injection@0.33.0
