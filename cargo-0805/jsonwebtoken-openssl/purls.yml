@@ -1,3 +1,4 @@
 - pkg:cargo/jsonwebtoken-openssl@1.0.0
 - pkg:cargo/jsonwebtoken-openssl@1.1.0
 - pkg:cargo/jsonwebtoken-openssl@2.0.0
+- pkg:cargo/jsonwebtoken-openssl@3.0.0
