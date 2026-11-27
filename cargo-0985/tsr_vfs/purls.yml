@@ -1,1 +1,4 @@
 - pkg:cargo/tsr_vfs@0.1.0
+- pkg:cargo/tsr_vfs@0.2.0
+- pkg:cargo/tsr_vfs@0.3.0
+- pkg:cargo/tsr_vfs@0.4.0
