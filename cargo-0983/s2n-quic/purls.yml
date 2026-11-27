@@ -98,3 +98,5 @@
 - pkg:cargo/s2n-quic@1.9.1
 - pkg:cargo/s2n-quic@1.9.2
 - pkg:cargo/s2n-quic@1.90.0
+- pkg:cargo/s2n-quic@1.91.0
+- pkg:cargo/s2n-quic@1.92.0
