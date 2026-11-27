@@ -13,3 +13,4 @@
 - pkg:cargo/kcr_maps_k8s_elastic_co@2.20250930.143254
 - pkg:cargo/kcr_maps_k8s_elastic_co@3.20260113.144614
 - pkg:cargo/kcr_maps_k8s_elastic_co@3.20260127.145209
+- pkg:cargo/kcr_maps_k8s_elastic_co@3.20260602.181114

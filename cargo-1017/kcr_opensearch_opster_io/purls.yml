@@ -22,3 +22,5 @@
 - pkg:cargo/kcr_opensearch_opster_io@2.20251225.154601
 - pkg:cargo/kcr_opensearch_opster_io@2.20260108.155319
 - pkg:cargo/kcr_opensearch_opster_io@3.20260115.155815
+- pkg:cargo/kcr_opensearch_opster_io@3.20260604.175911
+- pkg:cargo/kcr_opensearch_opster_io@3.20260611.183535
