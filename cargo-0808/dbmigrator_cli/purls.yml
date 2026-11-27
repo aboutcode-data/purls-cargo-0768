@@ -1,2 +1,4 @@
 - pkg:cargo/dbmigrator_cli@0.4.1
 - pkg:cargo/dbmigrator_cli@0.4.4-alpha
+- pkg:cargo/dbmigrator_cli@0.4.6
+- pkg:cargo/dbmigrator_cli@0.5.0
