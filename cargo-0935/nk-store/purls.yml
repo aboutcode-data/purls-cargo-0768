@@ -4,3 +4,4 @@
 - pkg:cargo/nk-store@0.15.3
 - pkg:cargo/nk-store@0.15.4
 - pkg:cargo/nk-store@0.16.0
+- pkg:cargo/nk-store@0.17.0
