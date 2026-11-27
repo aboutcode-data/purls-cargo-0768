@@ -184,6 +184,15 @@
 - pkg:cargo/flutter_rust_bridge_codegen@2.11.0
 - pkg:cargo/flutter_rust_bridge_codegen@2.11.1
 - pkg:cargo/flutter_rust_bridge_codegen@2.12.0
+- pkg:cargo/flutter_rust_bridge_codegen@2.13.0
+- pkg:cargo/flutter_rust_bridge_codegen@2.13.0-beta.1
+- pkg:cargo/flutter_rust_bridge_codegen@2.13.0-beta.2
+- pkg:cargo/flutter_rust_bridge_codegen@2.13.0-beta.3
+- pkg:cargo/flutter_rust_bridge_codegen@2.13.0-beta.4
+- pkg:cargo/flutter_rust_bridge_codegen@2.13.0-beta.5
+- pkg:cargo/flutter_rust_bridge_codegen@2.13.0-beta.6
+- pkg:cargo/flutter_rust_bridge_codegen@2.14.0-beta.1
+- pkg:cargo/flutter_rust_bridge_codegen@2.14.0-beta.2
 - pkg:cargo/flutter_rust_bridge_codegen@2.2.0
 - pkg:cargo/flutter_rust_bridge_codegen@2.3.0
 - pkg:cargo/flutter_rust_bridge_codegen@2.4.0
