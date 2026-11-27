@@ -41,6 +41,13 @@
 - pkg:cargo/pi-async-rt@0.3.5
 - pkg:cargo/pi-async-rt@0.5.0
 - pkg:cargo/pi-async-rt@0.5.1
+- pkg:cargo/pi-async-rt@0.5.10
+- pkg:cargo/pi-async-rt@0.5.11
+- pkg:cargo/pi-async-rt@0.5.12
+- pkg:cargo/pi-async-rt@0.5.15
+- pkg:cargo/pi-async-rt@0.5.16
+- pkg:cargo/pi-async-rt@0.5.17
 - pkg:cargo/pi-async-rt@0.5.2
 - pkg:cargo/pi-async-rt@0.5.3
 - pkg:cargo/pi-async-rt@0.5.6
+- pkg:cargo/pi-async-rt@0.5.8
