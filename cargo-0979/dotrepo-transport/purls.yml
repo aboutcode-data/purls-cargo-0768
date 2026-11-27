@@ -1,3 +1,6 @@
 - pkg:cargo/dotrepo-transport@1.0.1
 - pkg:cargo/dotrepo-transport@1.0.2
 - pkg:cargo/dotrepo-transport@1.0.3
+- pkg:cargo/dotrepo-transport@1.0.4
+- pkg:cargo/dotrepo-transport@2.0.0-rc.1
+- pkg:cargo/dotrepo-transport@2.0.0-rc.2
