@@ -110,11 +110,16 @@
 - pkg:cargo/outl-exec@0.13.0-beta.312
 - pkg:cargo/outl-exec@0.13.0-beta.314
 - pkg:cargo/outl-exec@0.13.0-beta.315
+- pkg:cargo/outl-exec@0.13.0-beta.318
+- pkg:cargo/outl-exec@0.13.0-beta.319
+- pkg:cargo/outl-exec@0.13.0-beta.320
+- pkg:cargo/outl-exec@0.13.0-beta.321
 - pkg:cargo/outl-exec@0.13.1
 - pkg:cargo/outl-exec@0.13.2
 - pkg:cargo/outl-exec@0.13.3
 - pkg:cargo/outl-exec@0.13.4
 - pkg:cargo/outl-exec@0.13.5
+- pkg:cargo/outl-exec@0.13.6
 - pkg:cargo/outl-exec@0.8.0
 - pkg:cargo/outl-exec@0.9.0-beta.140
 - pkg:cargo/outl-exec@0.9.0-beta.141
