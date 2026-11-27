@@ -1,2 +1,4 @@
 - pkg:cargo/otel-init@0.33.1
 - pkg:cargo/otel-init@0.33.2
+- pkg:cargo/otel-init@0.34.0
+- pkg:cargo/otel-init@0.34.1

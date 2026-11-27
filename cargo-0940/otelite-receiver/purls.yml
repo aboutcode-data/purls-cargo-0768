@@ -60,7 +60,15 @@
 - pkg:cargo/otelite-receiver@0.1.151
 - pkg:cargo/otelite-receiver@0.1.152
 - pkg:cargo/otelite-receiver@0.1.153
+- pkg:cargo/otelite-receiver@0.1.154
+- pkg:cargo/otelite-receiver@0.1.155
+- pkg:cargo/otelite-receiver@0.1.156
+- pkg:cargo/otelite-receiver@0.1.157
+- pkg:cargo/otelite-receiver@0.1.158
+- pkg:cargo/otelite-receiver@0.1.159
 - pkg:cargo/otelite-receiver@0.1.16
+- pkg:cargo/otelite-receiver@0.1.160
+- pkg:cargo/otelite-receiver@0.1.161
 - pkg:cargo/otelite-receiver@0.1.17
 - pkg:cargo/otelite-receiver@0.1.18
 - pkg:cargo/otelite-receiver@0.1.19
