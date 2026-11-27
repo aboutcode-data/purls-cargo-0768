@@ -120,6 +120,7 @@
 - pkg:cargo/outl-exec@0.13.4
 - pkg:cargo/outl-exec@0.13.5
 - pkg:cargo/outl-exec@0.13.6
+- pkg:cargo/outl-exec@0.13.7
 - pkg:cargo/outl-exec@0.8.0
 - pkg:cargo/outl-exec@0.9.0-beta.140
 - pkg:cargo/outl-exec@0.9.0-beta.141
