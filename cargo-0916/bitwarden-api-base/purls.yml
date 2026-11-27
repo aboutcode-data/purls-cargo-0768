@@ -1,1 +1,2 @@
 - pkg:cargo/bitwarden-api-base@3.0.0
+- pkg:cargo/bitwarden-api-base@4.0.0

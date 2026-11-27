@@ -2,3 +2,4 @@
 - pkg:cargo/bitwarden-crypto@1.0.0
 - pkg:cargo/bitwarden-crypto@2.0.0
 - pkg:cargo/bitwarden-crypto@3.0.0
+- pkg:cargo/bitwarden-crypto@4.0.0

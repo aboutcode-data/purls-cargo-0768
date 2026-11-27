@@ -1,3 +1,4 @@
 - pkg:cargo/bitwarden-sm@1.0.0
 - pkg:cargo/bitwarden-sm@2.0.0
 - pkg:cargo/bitwarden-sm@3.0.0
+- pkg:cargo/bitwarden-sm@4.0.0
