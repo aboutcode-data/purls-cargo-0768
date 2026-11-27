@@ -64,3 +64,4 @@
 - pkg:cargo/vantage-table@5.1.0
 - pkg:cargo/vantage-table@5.2.0
 - pkg:cargo/vantage-table@5.2.1
+- pkg:cargo/vantage-table@6.0.0
