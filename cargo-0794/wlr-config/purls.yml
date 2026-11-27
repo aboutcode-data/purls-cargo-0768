@@ -1,0 +1,3 @@
+- pkg:cargo/wlr-config@1.11.0
+- pkg:cargo/wlr-config@1.11.1
+- pkg:cargo/wlr-config@1.12.0
