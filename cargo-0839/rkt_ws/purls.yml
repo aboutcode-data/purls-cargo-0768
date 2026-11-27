@@ -3,3 +3,5 @@
 - pkg:cargo/rkt_ws@1.0.1
 - pkg:cargo/rkt_ws@1.1.0
 - pkg:cargo/rkt_ws@1.2.0
+- pkg:cargo/rkt_ws@1.2.1
+- pkg:cargo/rkt_ws@1.3.0
