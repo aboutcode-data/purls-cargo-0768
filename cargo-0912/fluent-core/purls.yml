@@ -1,2 +1,4 @@
 - pkg:cargo/fluent-core@2.1.0
 - pkg:cargo/fluent-core@2.1.1
+- pkg:cargo/fluent-core@2.3.0
+- pkg:cargo/fluent-core@2.4.0

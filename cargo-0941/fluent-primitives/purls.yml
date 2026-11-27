@@ -1,2 +1,4 @@
 - pkg:cargo/fluent-primitives@2.0.2
 - pkg:cargo/fluent-primitives@2.0.3
+- pkg:cargo/fluent-primitives@2.3.0
+- pkg:cargo/fluent-primitives@2.4.0
