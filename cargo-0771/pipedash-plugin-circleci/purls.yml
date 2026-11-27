@@ -1,0 +1,5 @@
+- pkg:cargo/pipedash-plugin-circleci@0.11.0
+- pkg:cargo/pipedash-plugin-circleci@0.12.0
+- pkg:cargo/pipedash-plugin-circleci@0.13.0
+- pkg:cargo/pipedash-plugin-circleci@0.14.0
+- pkg:cargo/pipedash-plugin-circleci@0.15.0
