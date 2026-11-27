@@ -75,3 +75,4 @@
 - pkg:cargo/flowstdlib@0.95.0
 - pkg:cargo/flowstdlib@0.98.0
 - pkg:cargo/flowstdlib@0.99.0
+- pkg:cargo/flowstdlib@1.0.0
