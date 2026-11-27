@@ -24,3 +24,6 @@
 - pkg:cargo/rio-macros@0.5.1
 - pkg:cargo/rio-macros@0.5.2
 - pkg:cargo/rio-macros@0.6.0
+- pkg:cargo/rio-macros@0.7.0
+- pkg:cargo/rio-macros@0.7.1
+- pkg:cargo/rio-macros@0.7.2
