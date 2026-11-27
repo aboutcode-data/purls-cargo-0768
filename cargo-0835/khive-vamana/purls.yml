@@ -1,3 +1,13 @@
+- pkg:cargo/khive-vamana@0.10.0
+- pkg:cargo/khive-vamana@0.11.0
+- pkg:cargo/khive-vamana@0.12.0
+- pkg:cargo/khive-vamana@0.13.0
+- pkg:cargo/khive-vamana@0.14.0
+- pkg:cargo/khive-vamana@0.15.0
+- pkg:cargo/khive-vamana@0.16.0
+- pkg:cargo/khive-vamana@0.17.0
+- pkg:cargo/khive-vamana@0.18.0
+- pkg:cargo/khive-vamana@0.19.0
 - pkg:cargo/khive-vamana@0.2.10
 - pkg:cargo/khive-vamana@0.2.11
 - pkg:cargo/khive-vamana@0.2.3
@@ -6,8 +16,13 @@
 - pkg:cargo/khive-vamana@0.2.7
 - pkg:cargo/khive-vamana@0.2.8
 - pkg:cargo/khive-vamana@0.2.9
+- pkg:cargo/khive-vamana@0.20.0
+- pkg:cargo/khive-vamana@0.21.0
+- pkg:cargo/khive-vamana@0.22.0
 - pkg:cargo/khive-vamana@0.3.0
 - pkg:cargo/khive-vamana@0.4.0
 - pkg:cargo/khive-vamana@0.5.0
 - pkg:cargo/khive-vamana@0.6.0
 - pkg:cargo/khive-vamana@0.7.0
+- pkg:cargo/khive-vamana@0.8.0
+- pkg:cargo/khive-vamana@0.9.0
