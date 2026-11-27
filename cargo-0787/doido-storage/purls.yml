@@ -32,6 +32,17 @@
 - pkg:cargo/doido-storage@0.0.30-test6
 - pkg:cargo/doido-storage@0.0.30-test7
 - pkg:cargo/doido-storage@0.0.31
+- pkg:cargo/doido-storage@0.0.32
 - pkg:cargo/doido-storage@0.0.32-test1
+- pkg:cargo/doido-storage@0.0.32-test2
+- pkg:cargo/doido-storage@0.0.32-test3
+- pkg:cargo/doido-storage@0.0.32-test4
+- pkg:cargo/doido-storage@0.0.32-test5
+- pkg:cargo/doido-storage@0.0.33-rc0
+- pkg:cargo/doido-storage@0.0.33-rc1
+- pkg:cargo/doido-storage@0.0.33-rc2
+- pkg:cargo/doido-storage@0.0.33-rc3
+- pkg:cargo/doido-storage@0.0.33-rc4
+- pkg:cargo/doido-storage@0.0.33-rc5
 - pkg:cargo/doido-storage@0.0.9
 - pkg:cargo/doido-storage@0.1.0
