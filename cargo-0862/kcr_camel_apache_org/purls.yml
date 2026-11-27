@@ -14,3 +14,6 @@
 - pkg:cargo/kcr_camel_apache_org@2.20251230.164348
 - pkg:cargo/kcr_camel_apache_org@3.20260113.165011
 - pkg:cargo/kcr_camel_apache_org@3.20260127.164857
+- pkg:cargo/kcr_camel_apache_org@3.20260602.195157
+- pkg:cargo/kcr_camel_apache_org@3.20260609.182027
+- pkg:cargo/kcr_camel_apache_org@3.20260616.194955

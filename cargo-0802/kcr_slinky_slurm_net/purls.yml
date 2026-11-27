@@ -16,3 +16,6 @@
 - pkg:cargo/kcr_slinky_slurm_net@2.20251209.34056
 - pkg:cargo/kcr_slinky_slurm_net@2.20251216.34739
 - pkg:cargo/kcr_slinky_slurm_net@3.20260113.35218
+- pkg:cargo/kcr_slinky_slurm_net@3.20260602.70946
+- pkg:cargo/kcr_slinky_slurm_net@3.20260609.63345
+- pkg:cargo/kcr_slinky_slurm_net@3.20260616.83239

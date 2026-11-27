@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_runtime_cluster_x_k8s_io@2.20250925.163620
 - pkg:cargo/kcr_runtime_cluster_x_k8s_io@2.20251002.163528
 - pkg:cargo/kcr_runtime_cluster_x_k8s_io@3.20260115.165256
+- pkg:cargo/kcr_runtime_cluster_x_k8s_io@3.20260604.182849
