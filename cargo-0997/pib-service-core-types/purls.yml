@@ -59,3 +59,4 @@
 - pkg:cargo/pib-service-core-types@0.50.0
 - pkg:cargo/pib-service-core-types@0.50.1
 - pkg:cargo/pib-service-core-types@0.50.2
+- pkg:cargo/pib-service-core-types@0.50.3

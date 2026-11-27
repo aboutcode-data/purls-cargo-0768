@@ -58,3 +58,4 @@
 - pkg:cargo/pib-service-backend@0.49.0
 - pkg:cargo/pib-service-backend@0.50.0
 - pkg:cargo/pib-service-backend@0.50.1
+- pkg:cargo/pib-service-backend@0.50.2
