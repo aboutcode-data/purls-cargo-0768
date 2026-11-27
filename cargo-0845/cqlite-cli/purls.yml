@@ -7,3 +7,4 @@
 - pkg:cargo/cqlite-cli@0.16.0
 - pkg:cargo/cqlite-cli@0.16.1
 - pkg:cargo/cqlite-cli@0.17.0
+- pkg:cargo/cqlite-cli@0.18.0
