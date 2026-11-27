@@ -6,3 +6,5 @@
 - pkg:cargo/glua_parser_desc@1.4.0
 - pkg:cargo/glua_parser_desc@1.4.1
 - pkg:cargo/glua_parser_desc@1.4.2
+- pkg:cargo/glua_parser_desc@1.4.3
+- pkg:cargo/glua_parser_desc@1.4.4
