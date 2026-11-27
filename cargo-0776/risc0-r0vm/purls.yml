@@ -86,4 +86,7 @@
 - pkg:cargo/risc0-r0vm@3.0.3
 - pkg:cargo/risc0-r0vm@3.0.4
 - pkg:cargo/risc0-r0vm@3.0.5
+- pkg:cargo/risc0-r0vm@3.0.6
+- pkg:cargo/risc0-r0vm@3.1.0
+- pkg:cargo/risc0-r0vm@3.1.0-rc.1
 - pkg:cargo/risc0-r0vm@5.0.0-rc.1

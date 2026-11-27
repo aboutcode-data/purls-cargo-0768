@@ -20,4 +20,7 @@
 - pkg:cargo/risc0-circuit-keccak-sys@4.0.0-rc.3
 - pkg:cargo/risc0-circuit-keccak-sys@4.0.1
 - pkg:cargo/risc0-circuit-keccak-sys@4.0.2
+- pkg:cargo/risc0-circuit-keccak-sys@4.0.3
+- pkg:cargo/risc0-circuit-keccak-sys@4.0.4-rc.1
+- pkg:cargo/risc0-circuit-keccak-sys@4.1.0
 - pkg:cargo/risc0-circuit-keccak-sys@5.0.0-rc.1

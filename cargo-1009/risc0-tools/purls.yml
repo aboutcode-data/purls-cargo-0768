@@ -67,4 +67,6 @@
 - pkg:cargo/risc0-tools@2.0.0-rc.1
 - pkg:cargo/risc0-tools@2.0.0-rc.2
 - pkg:cargo/risc0-tools@2.0.0-rc.3
+- pkg:cargo/risc0-tools@2.0.1
+- pkg:cargo/risc0-tools@2.0.1-rc.1
 - pkg:cargo/risc0-tools@3.0.0-rc.1
