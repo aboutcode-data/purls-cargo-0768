@@ -6,3 +6,17 @@
 - pkg:cargo/rig-vectorize@0.2.4
 - pkg:cargo/rig-vectorize@0.2.5
 - pkg:cargo/rig-vectorize@0.2.6
+- pkg:cargo/rig-vectorize@0.2.7
+- pkg:cargo/rig-vectorize@0.38.1
+- pkg:cargo/rig-vectorize@0.38.2
+- pkg:cargo/rig-vectorize@0.39.0
+- pkg:cargo/rig-vectorize@0.40.0
+- pkg:cargo/rig-vectorize@0.41.0
+- pkg:cargo/rig-vectorize@0.42.0
+- pkg:cargo/rig-vectorize@0.43.0
+- pkg:cargo/rig-vectorize@0.44.0
+- pkg:cargo/rig-vectorize@0.45.0
+- pkg:cargo/rig-vectorize@0.46.0
+- pkg:cargo/rig-vectorize@0.46.0-rc.1
+- pkg:cargo/rig-vectorize@0.47.0
+- pkg:cargo/rig-vectorize@0.47.1
