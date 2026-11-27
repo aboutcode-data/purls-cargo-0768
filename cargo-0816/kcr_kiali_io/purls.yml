@@ -7,3 +7,6 @@
 - pkg:cargo/kcr_kiali_io@2.20251230.133844
 - pkg:cargo/kcr_kiali_io@3.20260113.134407
 - pkg:cargo/kcr_kiali_io@3.20260127.135130
+- pkg:cargo/kcr_kiali_io@3.20260602.172539
+- pkg:cargo/kcr_kiali_io@3.20260609.160508
+- pkg:cargo/kcr_kiali_io@3.20260616.180511

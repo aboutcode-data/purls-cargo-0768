@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_jaegertracing_io@2.20250923.24635
 - pkg:cargo/kcr_jaegertracing_io@2.20250930.24654
 - pkg:cargo/kcr_jaegertracing_io@3.20260113.31720
+- pkg:cargo/kcr_jaegertracing_io@3.20260602.61727
