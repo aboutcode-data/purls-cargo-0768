@@ -1,3 +1,8 @@
 - pkg:cargo/ristretto_intrinsics@0.29.0
 - pkg:cargo/ristretto_intrinsics@0.30.0
 - pkg:cargo/ristretto_intrinsics@0.31.0
+- pkg:cargo/ristretto_intrinsics@0.32.0
+- pkg:cargo/ristretto_intrinsics@0.32.1
+- pkg:cargo/ristretto_intrinsics@0.33.0
+- pkg:cargo/ristretto_intrinsics@0.34.0
+- pkg:cargo/ristretto_intrinsics@0.35.0
