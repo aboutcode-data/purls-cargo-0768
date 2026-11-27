@@ -56,3 +56,5 @@
 - pkg:cargo/ripgrep@14.1.1
 - pkg:cargo/ripgrep@15.0.0
 - pkg:cargo/ripgrep@15.1.0
+- pkg:cargo/ripgrep@15.2.0
+- pkg:cargo/ripgrep@16.0.0
