@@ -45,7 +45,13 @@
 - pkg:cargo/binstalk-fetchers@0.10.46
 - pkg:cargo/binstalk-fetchers@0.10.47
 - pkg:cargo/binstalk-fetchers@0.10.48
+- pkg:cargo/binstalk-fetchers@0.10.49
 - pkg:cargo/binstalk-fetchers@0.10.5
+- pkg:cargo/binstalk-fetchers@0.10.50
+- pkg:cargo/binstalk-fetchers@0.10.51
+- pkg:cargo/binstalk-fetchers@0.10.52
+- pkg:cargo/binstalk-fetchers@0.10.53
+- pkg:cargo/binstalk-fetchers@0.10.54
 - pkg:cargo/binstalk-fetchers@0.10.6
 - pkg:cargo/binstalk-fetchers@0.10.7
 - pkg:cargo/binstalk-fetchers@0.10.8
