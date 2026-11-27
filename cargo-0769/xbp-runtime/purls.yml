@@ -1,0 +1,4 @@
+- pkg:cargo/xbp-runtime@11.0.1
+- pkg:cargo/xbp-runtime@11.0.2
+- pkg:cargo/xbp-runtime@11.1.7
+- pkg:cargo/xbp-runtime@11.2.0
