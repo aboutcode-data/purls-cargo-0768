@@ -12,6 +12,7 @@
 - pkg:cargo/ringboard-tui@0.16.0
 - pkg:cargo/ringboard-tui@0.16.1
 - pkg:cargo/ringboard-tui@0.16.2
+- pkg:cargo/ringboard-tui@0.17.0
 - pkg:cargo/ringboard-tui@0.5.4
 - pkg:cargo/ringboard-tui@0.6.0
 - pkg:cargo/ringboard-tui@0.6.1
