@@ -30,3 +30,6 @@
 - pkg:cargo/flatterer-web@0.21.2
 - pkg:cargo/flatterer-web@0.22.0
 - pkg:cargo/flatterer-web@0.23.0
+- pkg:cargo/flatterer-web@0.24.0
+- pkg:cargo/flatterer-web@0.24.1
+- pkg:cargo/flatterer-web@0.25.0
