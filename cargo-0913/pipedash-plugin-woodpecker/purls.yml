@@ -1,0 +1,5 @@
+- pkg:cargo/pipedash-plugin-woodpecker@0.10.0
+- pkg:cargo/pipedash-plugin-woodpecker@0.12.0
+- pkg:cargo/pipedash-plugin-woodpecker@0.13.0
+- pkg:cargo/pipedash-plugin-woodpecker@0.14.0
+- pkg:cargo/pipedash-plugin-woodpecker@0.15.0
