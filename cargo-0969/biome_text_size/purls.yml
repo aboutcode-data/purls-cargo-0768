@@ -12,3 +12,5 @@
 - pkg:cargo/biome_text_size@0.5.7
 - pkg:cargo/biome_text_size@0.5.8
 - pkg:cargo/biome_text_size@0.7.0
+- pkg:cargo/biome_text_size@0.7.2
+- pkg:cargo/biome_text_size@0.7.3
