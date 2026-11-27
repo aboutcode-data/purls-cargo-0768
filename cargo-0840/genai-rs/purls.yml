@@ -1,4 +1,8 @@
 - pkg:cargo/genai-rs@0.10.0
+- pkg:cargo/genai-rs@0.12.0
+- pkg:cargo/genai-rs@0.14.0
+- pkg:cargo/genai-rs@0.15.0
+- pkg:cargo/genai-rs@0.16.0
 - pkg:cargo/genai-rs@0.4.0
 - pkg:cargo/genai-rs@0.5.3
 - pkg:cargo/genai-rs@0.6.0
