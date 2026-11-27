@@ -2,3 +2,16 @@
 - pkg:cargo/pina_lints@0.12.0
 - pkg:cargo/pina_lints@0.12.1
 - pkg:cargo/pina_lints@0.12.2
+- pkg:cargo/pina_lints@0.13.0
+- pkg:cargo/pina_lints@0.14.0
+- pkg:cargo/pina_lints@0.15.0
+- pkg:cargo/pina_lints@0.16.0
+- pkg:cargo/pina_lints@0.17.0
+- pkg:cargo/pina_lints@0.18.0
+- pkg:cargo/pina_lints@0.19.0
+- pkg:cargo/pina_lints@0.20.0
+- pkg:cargo/pina_lints@0.21.0
+- pkg:cargo/pina_lints@0.22.0
+- pkg:cargo/pina_lints@0.23.0
+- pkg:cargo/pina_lints@0.24.0
+- pkg:cargo/pina_lints@0.25.0
