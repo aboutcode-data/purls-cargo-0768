@@ -32,6 +32,14 @@
 - pkg:cargo/gen-adapter-forge@0.1.49
 - pkg:cargo/gen-adapter-forge@0.1.5
 - pkg:cargo/gen-adapter-forge@0.1.50
+- pkg:cargo/gen-adapter-forge@0.1.51
+- pkg:cargo/gen-adapter-forge@0.1.52
+- pkg:cargo/gen-adapter-forge@0.1.53
+- pkg:cargo/gen-adapter-forge@0.1.54
+- pkg:cargo/gen-adapter-forge@0.1.55
+- pkg:cargo/gen-adapter-forge@0.1.57
+- pkg:cargo/gen-adapter-forge@0.1.58
+- pkg:cargo/gen-adapter-forge@0.1.59
 - pkg:cargo/gen-adapter-forge@0.1.6
 - pkg:cargo/gen-adapter-forge@0.1.7
 - pkg:cargo/gen-adapter-forge@0.1.8
