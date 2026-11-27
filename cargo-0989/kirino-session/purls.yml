@@ -7,3 +7,4 @@
 - pkg:cargo/kirino-session@0.6.5
 - pkg:cargo/kirino-session@0.7.0
 - pkg:cargo/kirino-session@0.8.0
+- pkg:cargo/kirino-session@0.9.0
