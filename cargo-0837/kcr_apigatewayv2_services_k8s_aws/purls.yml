@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_apigatewayv2_services_k8s_aws@2.20250923.220914
 - pkg:cargo/kcr_apigatewayv2_services_k8s_aws@2.20250930.220923
 - pkg:cargo/kcr_apigatewayv2_services_k8s_aws@3.20260113.221222
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@3.20260602.232542

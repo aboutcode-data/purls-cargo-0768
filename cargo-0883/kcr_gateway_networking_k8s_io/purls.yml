@@ -22,3 +22,5 @@
 - pkg:cargo/kcr_gateway_networking_k8s_io@3.20260114.213033
 - pkg:cargo/kcr_gateway_networking_k8s_io@3.20260121.213557
 - pkg:cargo/kcr_gateway_networking_k8s_io@3.20260128.213753
+- pkg:cargo/kcr_gateway_networking_k8s_io@3.20260603.230834
+- pkg:cargo/kcr_gateway_networking_k8s_io@3.20260617.224905
