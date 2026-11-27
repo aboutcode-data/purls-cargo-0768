@@ -11,6 +11,7 @@
 - pkg:cargo/khive-channel-email@0.20.0
 - pkg:cargo/khive-channel-email@0.21.0
 - pkg:cargo/khive-channel-email@0.22.0
+- pkg:cargo/khive-channel-email@0.23.0
 - pkg:cargo/khive-channel-email@0.3.0
 - pkg:cargo/khive-channel-email@0.4.0
 - pkg:cargo/khive-channel-email@0.5.0
