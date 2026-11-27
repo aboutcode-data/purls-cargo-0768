@@ -30,3 +30,5 @@
 - pkg:cargo/dogsoap@5.0.0-alpha.1
 - pkg:cargo/dogsoap@5.0.0-alpha.2
 - pkg:cargo/dogsoap@5.0.0-alpha.3
+- pkg:cargo/dogsoap@6.0.0
+- pkg:cargo/dogsoap@7.0.0
