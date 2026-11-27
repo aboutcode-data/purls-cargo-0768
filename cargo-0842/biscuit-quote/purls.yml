@@ -10,3 +10,5 @@
 - pkg:cargo/biscuit-quote@0.3.0
 - pkg:cargo/biscuit-quote@0.3.0-alpha.1
 - pkg:cargo/biscuit-quote@0.3.0-beta.1
+- pkg:cargo/biscuit-quote@0.4.0-alpha.1
+- pkg:cargo/biscuit-quote@0.4.0-alpha.2

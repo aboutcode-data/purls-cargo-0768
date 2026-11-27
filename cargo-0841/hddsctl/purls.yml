@@ -5,3 +5,4 @@
 - pkg:cargo/hddsctl@1.1.0
 - pkg:cargo/hddsctl@1.1.1
 - pkg:cargo/hddsctl@1.1.2
+- pkg:cargo/hddsctl@1.5.0

@@ -1,5 +1,8 @@
 - pkg:cargo/hdbconnect-mcp@0.3.10
 - pkg:cargo/hdbconnect-mcp@0.3.11
+- pkg:cargo/hdbconnect-mcp@0.3.12
+- pkg:cargo/hdbconnect-mcp@0.3.13
+- pkg:cargo/hdbconnect-mcp@0.3.14
 - pkg:cargo/hdbconnect-mcp@0.3.2
 - pkg:cargo/hdbconnect-mcp@0.3.3
 - pkg:cargo/hdbconnect-mcp@0.3.4
@@ -8,3 +11,5 @@
 - pkg:cargo/hdbconnect-mcp@0.3.7
 - pkg:cargo/hdbconnect-mcp@0.3.8
 - pkg:cargo/hdbconnect-mcp@0.3.9
+- pkg:cargo/hdbconnect-mcp@0.4.0
+- pkg:cargo/hdbconnect-mcp@0.5.0
