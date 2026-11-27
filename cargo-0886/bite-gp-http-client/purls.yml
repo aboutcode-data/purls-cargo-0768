@@ -1,0 +1,13 @@
+- pkg:cargo/bite-gp-http-client@1.20.203
+- pkg:cargo/bite-gp-http-client@1.21.0
+- pkg:cargo/bite-gp-http-client@1.21.1
+- pkg:cargo/bite-gp-http-client@1.23.300
+- pkg:cargo/bite-gp-http-client@1.23.301
+- pkg:cargo/bite-gp-http-client@1.23.302
+- pkg:cargo/bite-gp-http-client@1.23.305
+- pkg:cargo/bite-gp-http-client@1.24.400
+- pkg:cargo/bite-gp-http-client@1.24.401
+- pkg:cargo/bite-gp-http-client@1.24.402
+- pkg:cargo/bite-gp-http-client@1.25.201
+- pkg:cargo/bite-gp-http-client@1.25.202
+- pkg:cargo/bite-gp-http-client@1.25.203
