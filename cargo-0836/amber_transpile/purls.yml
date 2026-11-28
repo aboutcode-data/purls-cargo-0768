@@ -1,1 +1,2 @@
 - pkg:cargo/amber_transpile@1.16.1
+- pkg:cargo/amber_transpile@1.17.0
