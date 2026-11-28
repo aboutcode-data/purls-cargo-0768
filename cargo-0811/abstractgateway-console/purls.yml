@@ -7,6 +7,10 @@
 - pkg:cargo/abstractgateway-console@0.14.0
 - pkg:cargo/abstractgateway-console@0.15.0
 - pkg:cargo/abstractgateway-console@0.15.1
+- pkg:cargo/abstractgateway-console@0.16.0
+- pkg:cargo/abstractgateway-console@0.17.0
+- pkg:cargo/abstractgateway-console@0.18.0
+- pkg:cargo/abstractgateway-console@0.18.1
 - pkg:cargo/abstractgateway-console@0.6.0
 - pkg:cargo/abstractgateway-console@0.7.0
 - pkg:cargo/abstractgateway-console@0.8.0
