@@ -50,3 +50,4 @@
 - pkg:cargo/sc-network-common@0.54.0
 - pkg:cargo/sc-network-common@0.55.0
 - pkg:cargo/sc-network-common@0.56.0
+- pkg:cargo/sc-network-common@0.57.0
