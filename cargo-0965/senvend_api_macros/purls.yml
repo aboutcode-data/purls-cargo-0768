@@ -1,1 +1,4 @@
 - pkg:cargo/senvend_api_macros@0.0.1
+- pkg:cargo/senvend_api_macros@1.0.0
+- pkg:cargo/senvend_api_macros@1.0.1
+- pkg:cargo/senvend_api_macros@1.0.1-dev.45043

@@ -61,6 +61,7 @@
 - pkg:cargo/secp256k1@0.28.2
 - pkg:cargo/secp256k1@0.29.0
 - pkg:cargo/secp256k1@0.29.1
+- pkg:cargo/secp256k1@0.29.100
 - pkg:cargo/secp256k1@0.3.0
 - pkg:cargo/secp256k1@0.3.1
 - pkg:cargo/secp256k1@0.3.2
