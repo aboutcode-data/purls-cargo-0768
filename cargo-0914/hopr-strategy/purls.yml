@@ -11,6 +11,7 @@
 - pkg:cargo/hopr-strategy@1.0.0
 - pkg:cargo/hopr-strategy@1.0.1
 - pkg:cargo/hopr-strategy@1.0.2
+- pkg:cargo/hopr-strategy@10.0.0
 - pkg:cargo/hopr-strategy@2.0.0
 - pkg:cargo/hopr-strategy@3.0.0
 - pkg:cargo/hopr-strategy@4.0.0
@@ -33,3 +34,5 @@
 - pkg:cargo/hopr-strategy@9.1.0
 - pkg:cargo/hopr-strategy@9.2.0
 - pkg:cargo/hopr-strategy@9.2.1
+- pkg:cargo/hopr-strategy@9.2.2
+- pkg:cargo/hopr-strategy@9.2.3
