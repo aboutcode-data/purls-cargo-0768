@@ -2,3 +2,6 @@
 - pkg:cargo/mesh-llm-node@0.76.0
 - pkg:cargo/mesh-llm-node@0.76.1
 - pkg:cargo/mesh-llm-node@0.76.2
+- pkg:cargo/mesh-llm-node@0.77.0
+- pkg:cargo/mesh-llm-node@0.78.0
+- pkg:cargo/mesh-llm-node@0.78.1

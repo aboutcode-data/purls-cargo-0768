@@ -17,3 +17,4 @@
 - pkg:cargo/meshopt@0.6.0
 - pkg:cargo/meshopt@0.6.1
 - pkg:cargo/meshopt@0.6.2
+- pkg:cargo/meshopt@0.7.0
