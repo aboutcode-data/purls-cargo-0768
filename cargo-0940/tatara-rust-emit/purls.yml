@@ -1,3 +1,6 @@
+- pkg:cargo/tatara-rust-emit@0.1.10
+- pkg:cargo/tatara-rust-emit@0.1.11
+- pkg:cargo/tatara-rust-emit@0.1.12
 - pkg:cargo/tatara-rust-emit@0.1.2
 - pkg:cargo/tatara-rust-emit@0.1.3
 - pkg:cargo/tatara-rust-emit@0.1.4

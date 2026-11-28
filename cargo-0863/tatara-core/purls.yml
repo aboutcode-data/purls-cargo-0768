@@ -636,7 +636,14 @@
 - pkg:cargo/tatara-core@0.2.824
 - pkg:cargo/tatara-core@0.2.825
 - pkg:cargo/tatara-core@0.2.826
+- pkg:cargo/tatara-core@0.2.827
+- pkg:cargo/tatara-core@0.2.828
+- pkg:cargo/tatara-core@0.2.829
 - pkg:cargo/tatara-core@0.2.83
+- pkg:cargo/tatara-core@0.2.830
+- pkg:cargo/tatara-core@0.2.831
+- pkg:cargo/tatara-core@0.2.832
+- pkg:cargo/tatara-core@0.2.833
 - pkg:cargo/tatara-core@0.2.84
 - pkg:cargo/tatara-core@0.2.85
 - pkg:cargo/tatara-core@0.2.86
