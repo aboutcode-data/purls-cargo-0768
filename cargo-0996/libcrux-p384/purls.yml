@@ -1,2 +1,4 @@
 - pkg:cargo/libcrux-p384@0.0.1
 - pkg:cargo/libcrux-p384@0.0.1-pre.1
+- pkg:cargo/libcrux-p384@0.0.2
+- pkg:cargo/libcrux-p384@0.0.2-pre.1

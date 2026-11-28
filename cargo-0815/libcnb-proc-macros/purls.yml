@@ -43,3 +43,4 @@
 - pkg:cargo/libcnb-proc-macros@0.31.1
 - pkg:cargo/libcnb-proc-macros@0.32.0
 - pkg:cargo/libcnb-proc-macros@0.32.1
+- pkg:cargo/libcnb-proc-macros@0.32.2
