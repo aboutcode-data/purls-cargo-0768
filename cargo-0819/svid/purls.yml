@@ -6,3 +6,5 @@
 - pkg:cargo/svid@0.5.1
 - pkg:cargo/svid@0.5.2
 - pkg:cargo/svid@0.5.3
+- pkg:cargo/svid@0.5.4
+- pkg:cargo/svid@0.6.0
