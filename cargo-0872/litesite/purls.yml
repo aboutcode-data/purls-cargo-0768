@@ -1,3 +1,4 @@
 - pkg:cargo/litesite@2.3.1
 - pkg:cargo/litesite@2.4.0
 - pkg:cargo/litesite@2.5.0
+- pkg:cargo/litesite@2.6.0
