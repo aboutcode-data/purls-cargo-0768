@@ -19,3 +19,4 @@
 - pkg:cargo/lindera-sqlite@1.3.0
 - pkg:cargo/lindera-sqlite@1.3.1
 - pkg:cargo/lindera-sqlite@2.0.0
+- pkg:cargo/lindera-sqlite@7.0.0
