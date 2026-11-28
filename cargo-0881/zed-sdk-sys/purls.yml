@@ -1,0 +1,3 @@
+- pkg:cargo/zed-sdk-sys@1.0.0
+- pkg:cargo/zed-sdk-sys@1.1.0
+- pkg:cargo/zed-sdk-sys@1.3.0
