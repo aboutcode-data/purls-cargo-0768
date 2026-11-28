@@ -1,1 +1,4 @@
 - pkg:cargo/tickertape-cli@0.4.0
+- pkg:cargo/tickertape-cli@0.5.1
+- pkg:cargo/tickertape-cli@1.0.0
+- pkg:cargo/tickertape-cli@1.1.0
