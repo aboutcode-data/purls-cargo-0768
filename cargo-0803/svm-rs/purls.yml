@@ -56,7 +56,13 @@
 - pkg:cargo/svm-rs@0.5.24
 - pkg:cargo/svm-rs@0.5.25
 - pkg:cargo/svm-rs@0.5.26
+- pkg:cargo/svm-rs@0.5.27
+- pkg:cargo/svm-rs@0.5.28
+- pkg:cargo/svm-rs@0.5.29
 - pkg:cargo/svm-rs@0.5.3
+- pkg:cargo/svm-rs@0.5.30
+- pkg:cargo/svm-rs@0.5.31
+- pkg:cargo/svm-rs@0.5.32
 - pkg:cargo/svm-rs@0.5.4
 - pkg:cargo/svm-rs@0.5.5
 - pkg:cargo/svm-rs@0.5.6
