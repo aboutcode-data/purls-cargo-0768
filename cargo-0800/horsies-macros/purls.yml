@@ -35,3 +35,4 @@
 - pkg:cargo/horsies-macros@0.1.0-alpha.8
 - pkg:cargo/horsies-macros@0.1.0-alpha.9
 - pkg:cargo/horsies-macros@0.8.0
+- pkg:cargo/horsies-macros@0.8.1
