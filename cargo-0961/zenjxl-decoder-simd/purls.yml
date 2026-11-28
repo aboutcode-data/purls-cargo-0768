@@ -6,3 +6,4 @@
 - pkg:cargo/zenjxl-decoder-simd@0.3.6
 - pkg:cargo/zenjxl-decoder-simd@0.3.7
 - pkg:cargo/zenjxl-decoder-simd@0.3.8
+- pkg:cargo/zenjxl-decoder-simd@0.3.9
