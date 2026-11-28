@@ -7,6 +7,8 @@
 - pkg:cargo/second-brain-cli@0.13.2
 - pkg:cargo/second-brain-cli@0.13.3
 - pkg:cargo/second-brain-cli@0.13.4
+- pkg:cargo/second-brain-cli@0.13.5
+- pkg:cargo/second-brain-cli@0.13.6
 - pkg:cargo/second-brain-cli@0.2.0
 - pkg:cargo/second-brain-cli@0.3.0
 - pkg:cargo/second-brain-cli@0.3.1
