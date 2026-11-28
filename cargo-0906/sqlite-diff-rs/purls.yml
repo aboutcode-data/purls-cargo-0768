@@ -21,6 +21,7 @@
 - pkg:cargo/sqlite-diff-rs@0.19.0
 - pkg:cargo/sqlite-diff-rs@0.2.0
 - pkg:cargo/sqlite-diff-rs@0.20.0
+- pkg:cargo/sqlite-diff-rs@0.20.1
 - pkg:cargo/sqlite-diff-rs@0.3.0
 - pkg:cargo/sqlite-diff-rs@0.4.0
 - pkg:cargo/sqlite-diff-rs@0.5.0
