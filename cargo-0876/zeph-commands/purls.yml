@@ -8,3 +8,14 @@
 - pkg:cargo/zeph-commands@0.21.0
 - pkg:cargo/zeph-commands@0.21.1
 - pkg:cargo/zeph-commands@0.21.2
+- pkg:cargo/zeph-commands@0.21.3
+- pkg:cargo/zeph-commands@0.21.4
+- pkg:cargo/zeph-commands@0.22.0
+- pkg:cargo/zeph-commands@0.22.1
+- pkg:cargo/zeph-commands@0.22.2
+- pkg:cargo/zeph-commands@0.22.3
+- pkg:cargo/zeph-commands@0.22.4
+- pkg:cargo/zeph-commands@0.22.5
+- pkg:cargo/zeph-commands@0.23.0
+- pkg:cargo/zeph-commands@0.24.0
+- pkg:cargo/zeph-commands@0.25.0
