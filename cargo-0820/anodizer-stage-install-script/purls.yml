@@ -9,3 +9,9 @@
 - pkg:cargo/anodizer-stage-install-script@0.25.0
 - pkg:cargo/anodizer-stage-install-script@0.25.1
 - pkg:cargo/anodizer-stage-install-script@0.25.2
+- pkg:cargo/anodizer-stage-install-script@0.26.0
+- pkg:cargo/anodizer-stage-install-script@0.27.0
+- pkg:cargo/anodizer-stage-install-script@0.28.0
+- pkg:cargo/anodizer-stage-install-script@0.28.1
+- pkg:cargo/anodizer-stage-install-script@0.29.0
+- pkg:cargo/anodizer-stage-install-script@0.30.0
