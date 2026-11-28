@@ -16,3 +16,4 @@
 - pkg:cargo/sema-io@1.37.0-rc.1
 - pkg:cargo/sema-io@1.37.0-rc.2
 - pkg:cargo/sema-io@2.0.0
+- pkg:cargo/sema-io@2.0.1
