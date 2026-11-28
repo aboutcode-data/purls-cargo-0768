@@ -1,5 +1,9 @@
 - pkg:cargo/anno-cli@0.10.0
 - pkg:cargo/anno-cli@0.11.0
+- pkg:cargo/anno-cli@0.12.0
+- pkg:cargo/anno-cli@0.13.0
+- pkg:cargo/anno-cli@0.14.0
+- pkg:cargo/anno-cli@0.15.0
 - pkg:cargo/anno-cli@0.6.0
 - pkg:cargo/anno-cli@0.8.0
 - pkg:cargo/anno-cli@0.9.0
