@@ -2,3 +2,5 @@
 - pkg:cargo/anyllm_optimize_core@0.15.0
 - pkg:cargo/anyllm_optimize_core@0.15.1
 - pkg:cargo/anyllm_optimize_core@0.16.0
+- pkg:cargo/anyllm_optimize_core@0.16.1
+- pkg:cargo/anyllm_optimize_core@0.17.0
