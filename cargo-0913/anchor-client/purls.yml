@@ -34,10 +34,15 @@
 - pkg:cargo/anchor-client@0.3.0
 - pkg:cargo/anchor-client@0.30.0
 - pkg:cargo/anchor-client@0.30.1
+- pkg:cargo/anchor-client@0.30.3
 - pkg:cargo/anchor-client@0.31.0
 - pkg:cargo/anchor-client@0.31.1
+- pkg:cargo/anchor-client@0.31.2
+- pkg:cargo/anchor-client@0.31.3
 - pkg:cargo/anchor-client@0.32.0
 - pkg:cargo/anchor-client@0.32.1
+- pkg:cargo/anchor-client@0.32.2
+- pkg:cargo/anchor-client@0.32.3
 - pkg:cargo/anchor-client@0.4.0
 - pkg:cargo/anchor-client@0.4.1
 - pkg:cargo/anchor-client@0.4.2
@@ -60,4 +65,10 @@
 - pkg:cargo/anchor-client@1.0.3
 - pkg:cargo/anchor-client@1.1.1
 - pkg:cargo/anchor-client@1.1.2
+- pkg:cargo/anchor-client@1.2.0
+- pkg:cargo/anchor-client@1.2.1
+- pkg:cargo/anchor-client@1.2.2
 - pkg:cargo/anchor-client@2.0.0-rc.1
+- pkg:cargo/anchor-client@2.0.0-rc.2
+- pkg:cargo/anchor-client@2.0.0-rc.3
+- pkg:cargo/anchor-client@2.0.0-rc.4
