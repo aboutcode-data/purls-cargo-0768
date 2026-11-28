@@ -21,3 +21,5 @@
 - pkg:cargo/gmt_dos-clients_io@4.2.2
 - pkg:cargo/gmt_dos-clients_io@4.3.0
 - pkg:cargo/gmt_dos-clients_io@4.3.1
+- pkg:cargo/gmt_dos-clients_io@4.4.0
+- pkg:cargo/gmt_dos-clients_io@4.5.0
