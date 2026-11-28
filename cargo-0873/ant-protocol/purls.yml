@@ -35,3 +35,10 @@
 - pkg:cargo/ant-protocol@2.3.3
 - pkg:cargo/ant-protocol@2.3.4
 - pkg:cargo/ant-protocol@2.3.5
+- pkg:cargo/ant-protocol@2.4.0
+- pkg:cargo/ant-protocol@3.0.0
+- pkg:cargo/ant-protocol@3.1.0
+- pkg:cargo/ant-protocol@4.0.0
+- pkg:cargo/ant-protocol@5.0.0
+- pkg:cargo/ant-protocol@5.0.1
+- pkg:cargo/ant-protocol@6.0.0
