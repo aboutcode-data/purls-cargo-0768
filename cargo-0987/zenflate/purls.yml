@@ -8,3 +8,5 @@
 - pkg:cargo/zenflate@0.3.4
 - pkg:cargo/zenflate@0.3.5
 - pkg:cargo/zenflate@0.3.6
+- pkg:cargo/zenflate@0.4.0
+- pkg:cargo/zenflate@0.4.1
