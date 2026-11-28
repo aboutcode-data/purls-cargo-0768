@@ -1,2 +1,3 @@
 - pkg:cargo/lite@0.1.0%2Bfull
 - pkg:cargo/lite@0.1.1%2Blite
+- pkg:cargo/lite@0.1.2%2BON-1.102
