@@ -31,6 +31,7 @@
 - pkg:cargo/target-lexicon@0.13.3
 - pkg:cargo/target-lexicon@0.13.4
 - pkg:cargo/target-lexicon@0.13.5
+- pkg:cargo/target-lexicon@0.13.6
 - pkg:cargo/target-lexicon@0.2.0
 - pkg:cargo/target-lexicon@0.3.0
 - pkg:cargo/target-lexicon@0.4.0
