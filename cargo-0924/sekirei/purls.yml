@@ -80,3 +80,6 @@
 - pkg:cargo/sekirei@0.5.0
 - pkg:cargo/sekirei@0.5.1
 - pkg:cargo/sekirei@0.5.2
+- pkg:cargo/sekirei@0.5.3
+- pkg:cargo/sekirei@0.5.4
+- pkg:cargo/sekirei@0.5.5
