@@ -12,6 +12,10 @@
 - pkg:cargo/tairitsu-web@0.5.18
 - pkg:cargo/tairitsu-web@0.5.19
 - pkg:cargo/tairitsu-web@0.5.21
+- pkg:cargo/tairitsu-web@0.5.22
+- pkg:cargo/tairitsu-web@0.5.24
+- pkg:cargo/tairitsu-web@0.5.25
+- pkg:cargo/tairitsu-web@0.5.26
 - pkg:cargo/tairitsu-web@0.5.4
 - pkg:cargo/tairitsu-web@0.5.5
 - pkg:cargo/tairitsu-web@0.5.6
