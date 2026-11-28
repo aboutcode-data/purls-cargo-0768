@@ -26,6 +26,9 @@
 - pkg:cargo/secs-filters@0.24.0
 - pkg:cargo/secs-filters@0.25.0
 - pkg:cargo/secs-filters@0.25.1
+- pkg:cargo/secs-filters@0.25.2
+- pkg:cargo/secs-filters@0.25.3
+- pkg:cargo/secs-filters@0.26.0
 - pkg:cargo/secs-filters@0.3.0
 - pkg:cargo/secs-filters@0.4.0
 - pkg:cargo/secs-filters@0.4.1
