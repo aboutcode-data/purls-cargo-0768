@@ -66,7 +66,16 @@
 - pkg:cargo/scalo@2.14.36
 - pkg:cargo/scalo@2.14.37
 - pkg:cargo/scalo@2.14.38
+- pkg:cargo/scalo@2.14.39
 - pkg:cargo/scalo@2.14.4
+- pkg:cargo/scalo@2.14.40
+- pkg:cargo/scalo@2.14.41
+- pkg:cargo/scalo@2.14.42
+- pkg:cargo/scalo@2.14.43
+- pkg:cargo/scalo@2.14.44
+- pkg:cargo/scalo@2.14.45
+- pkg:cargo/scalo@2.14.46
+- pkg:cargo/scalo@2.14.47
 - pkg:cargo/scalo@2.14.5
 - pkg:cargo/scalo@2.14.6
 - pkg:cargo/scalo@2.14.7
