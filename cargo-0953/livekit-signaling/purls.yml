@@ -8,3 +8,5 @@
 - pkg:cargo/livekit-signaling@0.1.7
 - pkg:cargo/livekit-signaling@0.1.8
 - pkg:cargo/livekit-signaling@0.1.9
+- pkg:cargo/livekit-signaling@0.2.0
+- pkg:cargo/livekit-signaling@0.3.0
