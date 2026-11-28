@@ -1,1 +1,5 @@
 - pkg:cargo/nlr-config@1.1.1
+- pkg:cargo/nlr-config@1.3.0
+- pkg:cargo/nlr-config@1.3.2
+- pkg:cargo/nlr-config@1.4.0
+- pkg:cargo/nlr-config@1.6.0
