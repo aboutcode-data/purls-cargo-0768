@@ -43,6 +43,9 @@
 - pkg:cargo/sessionwiki@0.34.20
 - pkg:cargo/sessionwiki@0.34.21
 - pkg:cargo/sessionwiki@0.34.23
+- pkg:cargo/sessionwiki@0.34.24
+- pkg:cargo/sessionwiki@0.34.25
+- pkg:cargo/sessionwiki@0.34.26
 - pkg:cargo/sessionwiki@0.34.3
 - pkg:cargo/sessionwiki@0.34.4
 - pkg:cargo/sessionwiki@0.34.5
