@@ -1,2 +1,6 @@
 - pkg:cargo/iperf3-rs@1.0.0
 - pkg:cargo/iperf3-rs@1.0.1
+- pkg:cargo/iperf3-rs@1.0.2
+- pkg:cargo/iperf3-rs@1.0.3
+- pkg:cargo/iperf3-rs@1.0.4
+- pkg:cargo/iperf3-rs@1.0.5
