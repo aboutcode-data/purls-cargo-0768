@@ -1,3 +1,4 @@
 - pkg:cargo/eulumdat-ffi@0.2.2
 - pkg:cargo/eulumdat-ffi@0.3.0
 - pkg:cargo/eulumdat-ffi@0.7.0
+- pkg:cargo/eulumdat-ffi@0.8.1

@@ -15,7 +15,17 @@
 - pkg:cargo/ztmux@3.7.36
 - pkg:cargo/ztmux@3.7.37
 - pkg:cargo/ztmux@3.7.38
+- pkg:cargo/ztmux@3.7.39
 - pkg:cargo/ztmux@3.7.4
+- pkg:cargo/ztmux@3.7.40
+- pkg:cargo/ztmux@3.7.41
+- pkg:cargo/ztmux@3.7.42
+- pkg:cargo/ztmux@3.7.43
+- pkg:cargo/ztmux@3.7.44
+- pkg:cargo/ztmux@3.7.45
+- pkg:cargo/ztmux@3.7.47
+- pkg:cargo/ztmux@3.7.48
+- pkg:cargo/ztmux@3.7.49
 - pkg:cargo/ztmux@3.7.5
 - pkg:cargo/ztmux@3.7.8
 - pkg:cargo/ztmux@3.7.9

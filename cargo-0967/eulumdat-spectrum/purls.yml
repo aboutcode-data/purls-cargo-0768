@@ -1,1 +1,3 @@
 - pkg:cargo/eulumdat-spectrum@0.7.1
+- pkg:cargo/eulumdat-spectrum@0.8.0
+- pkg:cargo/eulumdat-spectrum@0.8.1
