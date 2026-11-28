@@ -33,3 +33,4 @@
 - pkg:cargo/metrics_cloudwatch@4.0.0
 - pkg:cargo/metrics_cloudwatch@4.1.0
 - pkg:cargo/metrics_cloudwatch@5.0.0
+- pkg:cargo/metrics_cloudwatch@5.1.0
