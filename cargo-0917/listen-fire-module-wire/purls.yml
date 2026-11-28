@@ -16,3 +16,4 @@
 - pkg:cargo/listen-fire-module-wire@0.12.7
 - pkg:cargo/listen-fire-module-wire@0.12.8
 - pkg:cargo/listen-fire-module-wire@0.12.9
+- pkg:cargo/listen-fire-module-wire@0.13.0
