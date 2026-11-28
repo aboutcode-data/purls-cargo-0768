@@ -2,6 +2,8 @@
 - pkg:cargo/sceptre@0.1.1
 - pkg:cargo/sceptre@0.10.0
 - pkg:cargo/sceptre@0.10.1
+- pkg:cargo/sceptre@0.10.4
+- pkg:cargo/sceptre@0.10.5
 - pkg:cargo/sceptre@0.2.0
 - pkg:cargo/sceptre@0.3.0
 - pkg:cargo/sceptre@0.4.0
