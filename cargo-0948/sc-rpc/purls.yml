@@ -66,6 +66,7 @@
 - pkg:cargo/sc-rpc@55.0.0
 - pkg:cargo/sc-rpc@56.0.0
 - pkg:cargo/sc-rpc@57.0.0
+- pkg:cargo/sc-rpc@58.0.0
 - pkg:cargo/sc-rpc@6.0.0
 - pkg:cargo/sc-rpc@7.0.0
 - pkg:cargo/sc-rpc@8.0.0
