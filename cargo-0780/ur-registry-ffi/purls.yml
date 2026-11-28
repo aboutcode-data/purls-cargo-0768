@@ -3,3 +3,7 @@
 - pkg:cargo/ur-registry-ffi@1.0.2
 - pkg:cargo/ur-registry-ffi@1.0.3
 - pkg:cargo/ur-registry-ffi@1.0.4
+- pkg:cargo/ur-registry-ffi@1.0.6
+- pkg:cargo/ur-registry-ffi@1.0.7
+- pkg:cargo/ur-registry-ffi@1.0.8
+- pkg:cargo/ur-registry-ffi@1.0.9
