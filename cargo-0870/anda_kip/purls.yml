@@ -3,6 +3,14 @@
 - pkg:cargo/anda_kip@0.10.0
 - pkg:cargo/anda_kip@0.10.1
 - pkg:cargo/anda_kip@0.11.0
+- pkg:cargo/anda_kip@0.13.0
+- pkg:cargo/anda_kip@0.13.1
+- pkg:cargo/anda_kip@0.14.0
+- pkg:cargo/anda_kip@0.14.1
+- pkg:cargo/anda_kip@0.14.2
+- pkg:cargo/anda_kip@0.14.5
+- pkg:cargo/anda_kip@0.14.6
+- pkg:cargo/anda_kip@0.15.0
 - pkg:cargo/anda_kip@0.2.0
 - pkg:cargo/anda_kip@0.3.0
 - pkg:cargo/anda_kip@0.4.0
