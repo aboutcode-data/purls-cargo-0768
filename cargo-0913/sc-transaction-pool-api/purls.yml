@@ -45,6 +45,7 @@
 - pkg:cargo/sc-transaction-pool-api@46.0.0
 - pkg:cargo/sc-transaction-pool-api@47.0.0
 - pkg:cargo/sc-transaction-pool-api@48.0.0
+- pkg:cargo/sc-transaction-pool-api@49.0.0
 - pkg:cargo/sc-transaction-pool-api@5.0.0
 - pkg:cargo/sc-transaction-pool-api@6.0.0
 - pkg:cargo/sc-transaction-pool-api@7.0.0
