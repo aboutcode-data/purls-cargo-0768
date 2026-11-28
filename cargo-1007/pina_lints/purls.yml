@@ -15,3 +15,4 @@
 - pkg:cargo/pina_lints@0.23.0
 - pkg:cargo/pina_lints@0.24.0
 - pkg:cargo/pina_lints@0.25.0
+- pkg:cargo/pina_lints@0.25.1

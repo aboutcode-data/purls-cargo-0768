@@ -1,3 +1,4 @@
 - pkg:cargo/pina_amm_cpi@0.0.0
 - pkg:cargo/pina_amm_cpi@0.1.0
 - pkg:cargo/pina_amm_cpi@0.2.0
+- pkg:cargo/pina_amm_cpi@0.2.1
