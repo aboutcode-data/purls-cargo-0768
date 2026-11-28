@@ -7,6 +7,9 @@
 - pkg:cargo/secantus-pg@0.1.0-beta.15
 - pkg:cargo/secantus-pg@0.1.0-beta.16
 - pkg:cargo/secantus-pg@0.1.0-beta.17
+- pkg:cargo/secantus-pg@0.1.0-beta.19
+- pkg:cargo/secantus-pg@0.1.0-beta.20
+- pkg:cargo/secantus-pg@0.1.0-beta.21
 - pkg:cargo/secantus-pg@0.1.0-beta.3
 - pkg:cargo/secantus-pg@0.1.0-beta.4
 - pkg:cargo/secantus-pg@0.1.0-beta.5

@@ -63,3 +63,12 @@
 - pkg:cargo/SEDSnet@4.3.7
 - pkg:cargo/SEDSnet@4.3.8
 - pkg:cargo/SEDSnet@4.3.9
+- pkg:cargo/SEDSnet@5.0.0
+- pkg:cargo/SEDSnet@6.0.0
+- pkg:cargo/SEDSnet@6.0.1
+- pkg:cargo/SEDSnet@6.0.2
+- pkg:cargo/SEDSnet@6.0.3
+- pkg:cargo/SEDSnet@7.0.0
+- pkg:cargo/SEDSnet@7.0.1
+- pkg:cargo/SEDSnet@7.0.2
+- pkg:cargo/SEDSnet@7.0.3
