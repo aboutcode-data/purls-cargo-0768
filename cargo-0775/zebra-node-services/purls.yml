@@ -19,6 +19,11 @@
 - pkg:cargo/zebra-node-services@1.0.0-beta.45
 - pkg:cargo/zebra-node-services@1.0.0-beta.46
 - pkg:cargo/zebra-node-services@1.0.1
+- pkg:cargo/zebra-node-services@10.0.0
+- pkg:cargo/zebra-node-services@11.0.0
+- pkg:cargo/zebra-node-services@12.0.0
+- pkg:cargo/zebra-node-services@13.0.0
+- pkg:cargo/zebra-node-services@14.0.0
 - pkg:cargo/zebra-node-services@2.0.0
 - pkg:cargo/zebra-node-services@2.1.0
 - pkg:cargo/zebra-node-services@2.1.1
@@ -26,3 +31,10 @@
 - pkg:cargo/zebra-node-services@3.0.0
 - pkg:cargo/zebra-node-services@4.0.0
 - pkg:cargo/zebra-node-services@5.0.0
+- pkg:cargo/zebra-node-services@6.0.0
+- pkg:cargo/zebra-node-services@7.0.0
+- pkg:cargo/zebra-node-services@8.0.0
+- pkg:cargo/zebra-node-services@9.0.0
+- pkg:cargo/zebra-node-services@9.1.0
+- pkg:cargo/zebra-node-services@9.1.1
+- pkg:cargo/zebra-node-services@9.1.2

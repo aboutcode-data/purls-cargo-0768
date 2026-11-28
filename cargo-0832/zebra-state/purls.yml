@@ -19,6 +19,18 @@
 - pkg:cargo/zebra-state@1.0.0-beta.45
 - pkg:cargo/zebra-state@1.0.0-beta.46
 - pkg:cargo/zebra-state@1.0.1
+- pkg:cargo/zebra-state@10.0.0
+- pkg:cargo/zebra-state@10.1.0
+- pkg:cargo/zebra-state@11.0.0
+- pkg:cargo/zebra-state@11.1.0
+- pkg:cargo/zebra-state@11.1.1
+- pkg:cargo/zebra-state@12.0.0
+- pkg:cargo/zebra-state@12.0.1
+- pkg:cargo/zebra-state@13.0.0
+- pkg:cargo/zebra-state@14.0.0
+- pkg:cargo/zebra-state@15.0.0
+- pkg:cargo/zebra-state@16.0.0
+- pkg:cargo/zebra-state@17.0.0
 - pkg:cargo/zebra-state@2.0.0
 - pkg:cargo/zebra-state@3.0.0
 - pkg:cargo/zebra-state@3.1.0
@@ -27,3 +39,7 @@
 - pkg:cargo/zebra-state@4.0.0
 - pkg:cargo/zebra-state@5.0.0
 - pkg:cargo/zebra-state@6.0.0
+- pkg:cargo/zebra-state@7.0.0
+- pkg:cargo/zebra-state@8.0.0
+- pkg:cargo/zebra-state@9.0.0
+- pkg:cargo/zebra-state@9.0.1

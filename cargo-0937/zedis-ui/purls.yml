@@ -1,0 +1,5 @@
+- pkg:cargo/zedis-ui@0.10.0
+- pkg:cargo/zedis-ui@0.12.0
+- pkg:cargo/zedis-ui@0.12.4
+- pkg:cargo/zedis-ui@0.13.0
+- pkg:cargo/zedis-ui@0.9.0
