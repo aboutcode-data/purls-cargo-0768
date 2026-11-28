@@ -10,3 +10,4 @@
 - pkg:cargo/linux-memutils@2.0.2
 - pkg:cargo/linux-memutils@2.0.3
 - pkg:cargo/linux-memutils@2.0.4
+- pkg:cargo/linux-memutils@2.0.5
