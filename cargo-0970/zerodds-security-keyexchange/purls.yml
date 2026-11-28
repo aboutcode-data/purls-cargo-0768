@@ -1,1 +1,8 @@
 - pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.1
+- pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.3
+- pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.3.1
+- pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.4
+- pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.5
+- pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.6
+- pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.7
+- pkg:cargo/zerodds-security-keyexchange@1.0.0-rc.7.2
