@@ -4,6 +4,9 @@
 - pkg:cargo/tak-cli@0.0.12
 - pkg:cargo/tak-cli@0.0.13
 - pkg:cargo/tak-cli@0.0.14
+- pkg:cargo/tak-cli@0.0.15
+- pkg:cargo/tak-cli@0.0.16
+- pkg:cargo/tak-cli@0.0.17
 - pkg:cargo/tak-cli@0.0.2
 - pkg:cargo/tak-cli@0.0.3
 - pkg:cargo/tak-cli@0.0.4
