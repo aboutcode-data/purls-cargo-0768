@@ -23,3 +23,6 @@
 - pkg:cargo/memsecurity@3.5.0
 - pkg:cargo/memsecurity@3.5.1
 - pkg:cargo/memsecurity@3.5.2
+- pkg:cargo/memsecurity@4.0.0
+- pkg:cargo/memsecurity@4.0.1
+- pkg:cargo/memsecurity@4.2.0
