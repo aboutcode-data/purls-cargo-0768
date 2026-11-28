@@ -10,3 +10,4 @@
 - pkg:cargo/tauri-plugin-sparkle-updater@0.2.8
 - pkg:cargo/tauri-plugin-sparkle-updater@0.2.9
 - pkg:cargo/tauri-plugin-sparkle-updater@0.3.0
+- pkg:cargo/tauri-plugin-sparkle-updater@0.4.0

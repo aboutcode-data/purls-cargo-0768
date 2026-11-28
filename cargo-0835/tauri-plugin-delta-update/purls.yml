@@ -1,0 +1,3 @@
+- pkg:cargo/tauri-plugin-delta-update@1.0.0-rc.4
+- pkg:cargo/tauri-plugin-delta-update@1.1.0
+- pkg:cargo/tauri-plugin-delta-update@1.2.0
