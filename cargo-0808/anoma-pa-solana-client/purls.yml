@@ -1,0 +1,4 @@
+- pkg:cargo/anoma-pa-solana-client@0.12.1
+- pkg:cargo/anoma-pa-solana-client@0.12.2
+- pkg:cargo/anoma-pa-solana-client@0.12.3
+- pkg:cargo/anoma-pa-solana-client@0.13.0
