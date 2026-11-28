@@ -1,2 +1,5 @@
+- pkg:cargo/meow-meow-script@0.10.0
+- pkg:cargo/meow-meow-script@0.11.0
 - pkg:cargo/meow-meow-script@0.6.0
 - pkg:cargo/meow-meow-script@0.8.0
+- pkg:cargo/meow-meow-script@0.9.0
