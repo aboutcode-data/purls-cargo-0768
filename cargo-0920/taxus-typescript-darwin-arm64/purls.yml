@@ -1,0 +1,5 @@
+- pkg:cargo/taxus-typescript-darwin-arm64@1.4.4
+- pkg:cargo/taxus-typescript-darwin-arm64@1.4.5
+- pkg:cargo/taxus-typescript-darwin-arm64@1.4.6
+- pkg:cargo/taxus-typescript-darwin-arm64@1.4.7
+- pkg:cargo/taxus-typescript-darwin-arm64@2.0.1

@@ -2,3 +2,5 @@
 - pkg:cargo/tape-core@0.4.4
 - pkg:cargo/tape-core@0.4.5
 - pkg:cargo/tape-core@0.4.7
+- pkg:cargo/tape-core@0.5.0
+- pkg:cargo/tape-core@0.5.7
